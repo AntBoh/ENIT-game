@@ -1,10 +1,13 @@
 body {
   font-family: monospace, serif;
   text-align: center;
-  margin-top: 50px;
+  margin: 0;
 }
 
+
 html, body {margin: 0; height: 100%; overflow: hidden}
+
+
 
 /* container principale del gioco */
 .game-container {
@@ -335,4 +338,24 @@ body.dark .settings-panel h3 {
   border-radius: 10px;
   overflow: hidden;
   margin-bottom: 10px;
+}
+
+
+@media (max-width: 600px) {
+  .game-box {
+    padding: 25px 20px;
+  }
+
+  #word {
+    font-size: 36px;
+  }
+
+  #answer {
+    padding: 14px 12px;
+    font-size: 18px;
+  }
+
+  .found-container {
+    width: 90%;
+  }
 }

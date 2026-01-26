@@ -68,18 +68,16 @@ function loadDictionaryForLetter(letter) {
     return;
   }
 
-  currentWord = incomplete[Math.floor(Math.random() * incomplete.length)];
-
+currentWord = incomplete[Math.floor(Math.random() * incomplete.length)];
 const lowerWord = currentWord.toLowerCase();
 
 if (!seenWords[mode].includes(lowerWord)) {
   seenWords[mode].push(lowerWord);
 }
 
-
-  document.getElementById("word").textContent = currentWord.toLowerCase();
-  showFoundTranslations();
-}
+document.getElementById("word").textContent = lowerWord;
+showFoundTranslations();
+ }
 
 
 

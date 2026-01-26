@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <title>Word Game</title>
   <link rel="stylesheet" href="style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
 
@@ -16,7 +17,7 @@
     <div id="word"></div>
     <input id="answer" type="text" />
     <button id="check">Invia</button>
-    <button id="toggle">Cambia lingua</button>
+    <button id="skip">Salta</button>
     <div id="feedback"></div>
   </div>
 </div>
@@ -36,12 +37,14 @@
 
   <h2>Menu</h2>
 
-  <ul>
-    <li><button id="gameBtn" class="menu-item">Gioco</button></li>
-    <li><button id="worddexBtn" class="menu-item">Word-dex</button></li>
-    <li><button id="settingsBtn" class="menu-item">Impostazioni</button></li>
-    <li><button id="resetBtn" class="menu-item">Reset progressi</button></li>
-  </ul>
+<ul>
+  <li><button id="gameBtn" class="menu-item">Gioco</button></li>
+  <li><button id="worddexBtn" class="menu-item">Word-dex</button></li>
+  <li><button id="settingsBtn" class="menu-item">Impostazioni</button></li>
+  <li><button id="toggle" class="menu-item">Cambia lingua</button></li> <!-- NUOVO -->
+  <li><button id="resetBtn" class="menu-item">Reset progressi</button></li>
+</ul>
+
 </div>
 
 <!-- PAGINA WORDDEX (overlay) -->

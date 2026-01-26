@@ -68,23 +68,22 @@ function loadDictionaryForLetter(letter) {
     return;
   }
 
-  currentWord = incomplete[Math.floor(Math.random() * incomplete.length)];
+currentWordKey = incomplete[Math.floor(Math.random() * incomplete.length)];
+currentWord = currentWordKey.toLowerCase();
 
-const lowerWord = currentWord.toLowerCase();
-
-if (!seenWords[mode].includes(lowerWord)) {
-  seenWords[mode].push(lowerWord);
+if (!seenWords[mode].includes(currentWord)) {
+  seenWords[mode].push(currentWord);
 }
 
+document.getElementById("word").textContent = currentWord;
+showFoundTranslations();
 
-  document.getElementById("word").textContent = currentWord.toLowerCase();
-  showFoundTranslations();
 }
 
 
 
   function showFoundTranslations() {
-    const found = progress[mode][currentWord] || [];
+    const found = progress[mode][currentWordKey] || [];
     const foundDiv = document.getElementById("found");
     const foundContainer = document.getElementById("foundContainer");
 
@@ -107,6 +106,15 @@ if (!seenWords[mode].includes(lowerWord)) {
     const letterBtn = document.createElement("button");
     letterBtn.textContent = letter;
     letterBtn.className = "letter-btn";
+
+    const skipButton = document.getElementById("skip");
+
+      skipButton.addEventListener("click", () => {
+        feedback.textContent = "";
+        input.value = "";
+        chooseWord();
+      });
+
 
     const dropdown = document.createElement("div");
     dropdown.className = "dropdown hidden";
@@ -261,15 +269,16 @@ if (!seenWords[mode].includes(lowerWord)) {
   button.addEventListener("click", () => {
     const userAnswer = normalize(input.value);
 
-    if (!dictionary[mode] || !dictionary[mode][currentWord.toLowerCase()]) {
+    if (!dictionary[mode] || !dictionary[mode][currentWordKey]) {
       feedback.textContent = "Errore: parola non trovata.";
       feedback.style.color = "red";
     } else if (
       dictionary[mode][currentWord.toLowerCase()].map(normalize).includes(userAnswer)
     ) {
-      if (!progress[mode][currentWord]) {
-        progress[mode][currentWord] = [];
-      }
+      if (!progress[mode][currentWordKey]) {
+      progress[mode][currentWordKey] = [];
+    }
+
 
       if (!progress[mode][currentWord].includes(userAnswer)) {
         progress[mode][currentWord].push(userAnswer);
@@ -307,5 +316,7 @@ if (!seenWords[mode].includes(lowerWord)) {
 
   // --- START GAME ---
   let currentWord = "";
+  let currentWordKey = "";
+
   chooseWord();
 });
