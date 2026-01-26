@@ -218,7 +218,9 @@ function showFoundTranslations() {
       dictionary[mode] = { ...dictionary[mode], ...data };
 
 
-      const words = Object.keys(dictionary[mode]);
+      const words = Object.keys(data);
+      if (dropdown.dataset.loaded === "true") return;
+
 
       words.forEach(word => {
         const row = document.createElement("div");

@@ -225,6 +225,10 @@ body.dark .menu-item {
   background: #222;
   color: #eee;
 }
+body.dark .menu-item#gameBtn,
+body.dark .menu-item#worddexBtn {
+  background: #333;   /* lo stesso colore di prima */
+}
 
 body.dark .worddex-page {
   background: #121212;
