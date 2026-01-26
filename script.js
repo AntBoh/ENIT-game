@@ -203,6 +203,43 @@ showFoundTranslations();
   const darkBtn = document.getElementById("darkModeBtn");
   const gameBtn = document.getElementById("gameBtn");
   const skipButton = document.getElementById("skip");
+  const form = document.getElementById("gameForm");
+
+form.addEventListener("submit", (e) => {
+  e.preventDefault();
+
+  const userAnswer = normalize(input.value);
+
+  if (!dictionary[mode] || !dictionary[mode][currentWordKey]) {
+    feedback.textContent = "Errore: parola non trovata.";
+    feedback.style.color = "red";
+  } else if (
+    dictionary[mode][currentWordKey].map(normalize).includes(userAnswer)
+  ) {
+    if (!progress[mode][currentWordKey]) {
+      progress[mode][currentWordKey] = [];
+    }
+
+    if (!progress[mode][currentWordKey].includes(userAnswer)) {
+      progress[mode][currentWordKey].push(userAnswer);
+      localStorage.setItem("progress", JSON.stringify(progress));
+    }
+
+    showFoundTranslations();
+    renderWorddexAccordion();
+
+    feedback.textContent = "Corretto!";
+    feedback.style.color = "green";
+  } else {
+    feedback.textContent = "Sbagliato!";
+    feedback.style.color = "red";
+  }
+
+  input.value = "";
+  chooseWord();
+});
+
+
 
 if (skipButton) {skipButton.addEventListener("click", () => {
   feedback.textContent = "";
@@ -266,14 +303,14 @@ if (skipButton) {skipButton.addEventListener("click", () => {
     renderWorddexAccordion();
   });
 
-  button.addEventListener("click", () => {
+  function submitAnswer() {
     const userAnswer = normalize(input.value);
 
     if (!dictionary[mode] || !dictionary[mode][currentWordKey]) {
       feedback.textContent = "Errore: parola non trovata.";
       feedback.style.color = "red";
     } else if (
-      dictionary[mode][currentWordkey].map(normalize).includes(userAnswer)
+      dictionary[mode][currentWordKey].map(normalize).includes(userAnswer)
     ) {
       if (!progress[mode][currentWordKey]) {
   progress[mode][currentWordKey] = [];
@@ -296,14 +333,9 @@ if (!progress[mode][currentWordKey].includes(userAnswer)) {
 
     input.value = "";
     chooseWord();
-  });
+  };
+button.addEventListener("touchend", submitAnswer);
 
-  input.addEventListener("keydown", (event) => {
-  if (event.key === "Enter") {
-    event.preventDefault(); // <- qui è la chiave
-    button.click();
-  }
-});
 
 
   console.log("elemento toggle:", document.getElementById("toggle"));
