@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <title>Word Game</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h1>Traduci la parola</h1>
+
+
+
+<div class="game-container">
+  <div class="game-box">
+    <div id="word"></div>
+    <input id="answer" type="text" />
+    <button id="check">Invia</button>
+    <button id="toggle">Cambia lingua</button>
+    <div id="feedback"></div>
+  </div>
+</div>
+
+<div id="foundContainer" class="found-container hidden">
+  <div id="found"></div>
+</div>
+
+
+
+  <!-- BOTTONE HAMBURGER -->
+<button id="menuBtn" class="menu-btn">☰</button>
+
+<!-- MENU LATERALE -->
+<div id="sidebar" class="sidebar">
+  <button id="closeBtn" class="close-btn">×</button>
+
+  <h2>Menu</h2>
+
+  <ul>
+    <li><button id="gameBtn" class="menu-item">Gioco</button></li>
+    <li><button id="worddexBtn" class="menu-item">Word-dex</button></li>
+    <li><button id="settingsBtn" class="menu-item">Impostazioni</button></li>
+    <li><button id="resetBtn" class="menu-item">Reset progressi</button></li>
+  </ul>
+</div>
+
+<!-- PAGINA WORDDEX (overlay) -->
+<div id="worddexPage" class="worddex-page hidden">
+  <div class="worddex-topbar">
+    <button id="backToGame" class="menu-item">← Torna al gioco</button>
+  </div>
+
+ <div class="worddex-body">
+  <div id="accordionContainer"></div>
+</div>
+
+</div>
+
+<!-- SOTTO-MENU IMPOSTAZIONI -->
+<div id="settingsPanel" class="settings-panel">
+  <h3>Impostazioni</h3>
+
+  <button id="darkModeBtn" class="menu-item">
+    🌙 Dark mode ON/OFF
+  </button>
+</div>
+
+
+
+
+
+
+  <script src="script.js"></script>
+</body>
+</html>
+
+

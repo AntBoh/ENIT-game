@@ -1,0 +1,1983 @@
+{
+  "fourhundredand": [
+    "quattrocento"
+  ],
+  "fivehundredand": [
+    "cinquecento"
+  ],
+  "few": [
+    "poco",
+    "pocos"
+  ],
+  "fewer": [
+    "meno"
+  ],
+  "fifteenth": [
+    "quindicesimo"
+  ],
+  "fifth": [
+    "quinto"
+  ],
+  "fiftieth": [
+    "cinquantesimo"
+  ],
+  "first": [
+    "primo"
+  ],
+  "fivehundredth": [
+    "cinquecentesimo"
+  ],
+  "fortieth": [
+    "quarantesimo"
+  ],
+  "fourhundredth": [
+    "quattrecentesimo"
+  ],
+  "fourteenth": [
+    "quattordicesimo"
+  ],
+  "fourth": [
+    "quarto"
+  ],
+  "flemish": [
+    "fiammingo"
+  ],
+  "flamingo": [
+    "fenicottero"
+  ],
+  "francoist": [
+    "franchista"
+  ],
+  "fancy": [
+    "estravagante",
+    "piacere"
+  ],
+  "facial": [
+    "facciale"
+  ],
+  "facile": [
+    "semplice"
+  ],
+  "factorial": [
+    "fattoriale"
+  ],
+  "faecal": [
+    "fecale"
+  ],
+  "fair": [
+    "fiera",
+    "giusto"
+  ],
+  "faithful": [
+    "fedele"
+  ],
+  "fallible": [
+    "fallibile"
+  ],
+  "false": [
+    "falso"
+  ],
+  "familiar": [
+    "familiare"
+  ],
+  "family": [
+    "famiglia",
+    "familiare"
+  ],
+  "famous": [
+    "celebre",
+    "famoso"
+  ],
+  "fanatical": [
+    "fanatico"
+  ],
+  "fantastic": [
+    "fantastico"
+  ],
+  "farmer": [
+    "contadino",
+    "labrador"
+  ],
+  "fascinating": [
+    "affascinante"
+  ],
+  "fascist": [
+    "fascista"
+  ],
+  "fast": [
+    "rapidamente",
+    "rapido",
+    "veloce"
+  ],
+  "fat": [
+    "grasso"
+  ],
+  "fatal": [
+    "fatale"
+  ],
+  "fateful": [
+    "fatidico"
+  ],
+  "fathomless": [
+    "insondabile"
+  ],
+  "favourite": [
+    "favorito"
+  ],
+  "fearless": [
+    "osato"
+  ],
+  "fearsome": [
+    "temibile"
+  ],
+  "feasible": [
+    "fattibile"
+  ],
+  "federal": [
+    "federale"
+  ],
+  "feeble": [
+    "debole"
+  ],
+  "felicitous": [
+    "adeguato"
+  ],
+  "fellow": [
+    "amico",
+    "individuo"
+  ],
+  "female": [
+    "femmina",
+    "femminile"
+  ],
+  "feminine": [
+    "femminile"
+  ],
+  "feminist": [
+    "femminista"
+  ],
+  "ferric": [
+    "ferrico"
+  ],
+  "fertile": [
+    "fecondo",
+    "fertile"
+  ],
+  "fervent": [
+    "fervente"
+  ],
+  "festive": [
+    "festivo"
+  ],
+  "fetal": [
+    "fetale"
+  ],
+  "feudal": [
+    "feudale"
+  ],
+  "feverish": [
+    "febbrile"
+  ],
+  "figurative": [
+    "figurativo"
+  ],
+  "filial": [
+    "filiale"
+  ],
+  "final": [
+    "finale"
+  ],
+  "financial": [
+    "finanziario"
+  ],
+  "fine": [
+    "bene",
+    "fino",
+    "multa",
+    "multare"
+  ],
+  "finite": [
+    "finito"
+  ],
+  "finnish": [
+    "finlandese"
+  ],
+  "fiscal": [
+    "fiscale"
+  ],
+  "fit": [
+    "adattare",
+    "atto"
+  ],
+  "flagrant": [
+    "flagrante"
+  ],
+  "flatterer": [
+    "adulatore"
+  ],
+  "flawless": [
+    "impeccabile"
+  ],
+  "flexible": [
+    "flessibile"
+  ],
+  "floating": [
+    "galleggiante"
+  ],
+  "floppy": [
+    "flessibile"
+  ],
+  "floral": [
+    "floreale"
+  ],
+  "flourishing": [
+    "florido"
+  ],
+  "fluent": [
+    "fluido"
+  ],
+  "fluid": [
+    "fluido"
+  ],
+  "fluorescent": [
+    "fluorescente"
+  ],
+  "fluvial": [
+    "fluviale"
+  ],
+  "focal": [
+    "focale"
+  ],
+  "foggy": [
+    "nebbioso"
+  ],
+  "folding": [
+    "piegabile"
+  ],
+  "follicular": [
+    "follicolare"
+  ],
+  "follower": [
+    "seguitore"
+  ],
+  "following": [
+    "seguente"
+  ],
+  "fond": [
+    "affettuoso"
+  ],
+  "food": [
+    "alimentario",
+    "alimento",
+    "cibo"
+  ],
+  "foolish": [
+    "tonto"
+  ],
+  "football": [
+    "calcio",
+    "calcistico"
+  ],
+  "forbidden": [
+    "proibito"
+  ],
+  "forceful": [
+    "energico"
+  ],
+  "foreign": [
+    "estero",
+    "straniero"
+  ],
+  "forestry": [
+    "forestale"
+  ],
+  "formal": [
+    "formale"
+  ],
+  "formative": [
+    "formativo"
+  ],
+  "former": [
+    "anteriore"
+  ],
+  "formidable": [
+    "formidabile"
+  ],
+  "forthcoming": [
+    "prossimo"
+  ],
+  "fortnightly": [
+    "bimensile"
+  ],
+  "foster": [
+    "adottivo"
+  ],
+  "fragile": [
+    "fragile"
+  ],
+  "frank": [
+    "franco"
+  ],
+  "frantic": [
+    "frenetico"
+  ],
+  "fraternal": [
+    "fraterno"
+  ],
+  "fraudulent": [
+    "fraudolento"
+  ],
+  "free": [
+    "gratis",
+    "gratuito",
+    "liberare",
+    "libero"
+  ],
+  "french": [
+    "francese"
+  ],
+  "frequent": [
+    "frequente"
+  ],
+  "fresh": [
+    "fresco"
+  ],
+  "friable": [
+    "friabile"
+  ],
+  "frivolous": [
+    "frivolo"
+  ],
+  "frontal": [
+    "frontale"
+  ],
+  "fruit": [
+    "dafrutta",
+    "frutta",
+    "frutto"
+  ],
+  "fruitful": [
+    "fruttifero"
+  ],
+  "fruitless": [
+    "infruttuoso"
+  ],
+  "fucking": [
+    "maledetto"
+  ],
+  "fugitive": [
+    "fuggitivo"
+  ],
+  "full": [
+    "pieno"
+  ],
+  "fun": [
+    "divertimento",
+    "divertito"
+  ],
+  "functional": [
+    "funzionale"
+  ],
+  "fundamental": [
+    "fondamentale"
+  ],
+  "fungible": [
+    "fungibile"
+  ],
+  "furious": [
+    "furibondo"
+  ],
+  "fusible": [
+    "fusibile"
+  ],
+  "futile": [
+    "futile",
+    "vano"
+  ],
+  "future": [
+    "futuro"
+  ],
+  "firm": [
+    "fermo",
+    "impresa"
+  ],
+  "friendly": [
+    "amichevole"
+  ],
+  "facebook": [
+    "facebook"
+  ],
+  "firstworldwar": [
+    "primaguerramondiale"
+  ],
+  "federalrepublicofgermany": [
+    "repubblicafederaledigermania"
+  ],
+  "falklandislands": [
+    "isolefalkland"
+  ],
+  "falklands": [
+    "isolefalkland"
+  ],
+  "faraday": [
+    "faraday"
+  ],
+  "faroeislands": [
+    "isolefaeroer"
+  ],
+  "farrell": [
+    "farrell"
+  ],
+  "federico": [
+    "federico"
+  ],
+  "felipe": [
+    "felipe"
+  ],
+  "felix": [
+    "felix"
+  ],
+  "ferdinando": [
+    "ferdinando"
+  ],
+  "fermi": [
+    "fermi"
+  ],
+  "fernandez": [
+    "fernandez"
+  ],
+  "fernando": [
+    "fernando"
+  ],
+  "ferrari": [
+    "ferrari"
+  ],
+  "ferreira": [
+    "ferreira"
+  ],
+  "ferrero": [
+    "ferrero"
+  ],
+  "feynman": [
+    "feynman"
+  ],
+  "fidel": [
+    "fidel"
+  ],
+  "fidelcastro": [
+    "fidelcastro"
+  ],
+  "fige": [
+    "fige"
+  ],
+  "figo": [
+    "figo"
+  ],
+  "figueres": [
+    "figueres"
+  ],
+  "fiji": [
+    "figi"
+  ],
+  "filippo": [
+    "filippo"
+  ],
+  "finland": [
+    "finlandia"
+  ],
+  "fitzgerald": [
+    "fitzgerald"
+  ],
+  "fitzpatrick": [
+    "fitzpatrick"
+  ],
+  "flanagan": [
+    "flanagan"
+  ],
+  "florida": [
+    "florida"
+  ],
+  "flynn": [
+    "flynn"
+  ],
+  "foley": [
+    "foley"
+  ],
+  "forcada": [
+    "forcada"
+  ],
+  "ford": [
+    "ford"
+  ],
+  "france": [
+    "francia"
+  ],
+  "francesco": [
+    "francesco"
+  ],
+  "francisbacon": [
+    "francescobacone"
+  ],
+  "francisca": [
+    "francisca"
+  ],
+  "francisco": [
+    "francisco"
+  ],
+  "franco": [
+    "franco"
+  ],
+  "frankfurt": [
+    "francoforte"
+  ],
+  "frattini": [
+    "frattini"
+  ],
+  "friendlyislands": [
+    "tonga"
+  ],
+  "fujimori": [
+    "fujimori"
+  ],
+  "fiasco": [
+    "fiasco"
+  ],
+  "fanfare": [
+    "fanfara"
+  ],
+  "faeces": [
+    "feci"
+  ],
+  "frigate": [
+    "fregata"
+  ],
+  "float": [
+    "fluttuare",
+    "galleggiante",
+    "galleggiare"
+  ],
+  "freshness": [
+    "freschezza"
+  ],
+  "fusion": [
+    "fusione"
+  ],
+  "fbi": [
+    "fbi"
+  ],
+  "fide": [
+    "fide"
+  ],
+  "february": [
+    "febbraio"
+  ],
+  "finn": [
+    "finlandese"
+  ],
+  "franco'sregime": [
+    "franchismo"
+  ],
+  "francoregime": [
+    "franchismo"
+  ],
+  "frechman": [
+    "gallico"
+  ],
+  "frechwoman": [
+    "gallico"
+  ],
+  "freudianslip": [
+    "lapsusfreudiano"
+  ],
+  "faradayconstant": [
+    "costantedifaraday"
+  ],
+  "fascination": [
+    "fascino"
+  ],
+  "felt": [
+    "feltro"
+  ],
+  "featherduster": [
+    "piuminoperlapolvere"
+  ],
+  "fence": [
+    "palizzata",
+    "recinzione"
+  ],
+  "fission": [
+    "fissione"
+  ],
+  "first-aidkit": [
+    "cassettadiprontosoccorso"
+  ],
+  "forging": [
+    "forgiatura"
+  ],
+  "facet": [
+    "sfaccettatura"
+  ],
+  "flowering": [
+    "fioritura"
+  ],
+  "fabric": [
+    "tessuto"
+  ],
+  "fabulation": [
+    "affabulazione"
+  ],
+  "face": [
+    "affrontare",
+    "faccia",
+    "viso",
+    "volto"
+  ],
+  "facilitation": [
+    "agevolazione",
+    "facilitazione"
+  ],
+  "facility": [
+    "impianto",
+    "installazione"
+  ],
+  "fact": [
+    "fatto"
+  ],
+  "faction": [
+    "fazione"
+  ],
+  "factor": [
+    "fattore",
+    "sostanza"
+  ],
+  "factorisation": [
+    "fattorizzazione"
+  ],
+  "factory": [
+    "fabbrica"
+  ],
+  "failure": [
+    "fallimento",
+    "fallo"
+  ],
+  "fairy": [
+    "fata"
+  ],
+  "faith": [
+    "fede"
+  ],
+  "fake": [
+    "contraffazione",
+    "falsificare"
+  ],
+  "falconry": [
+    "falconeria"
+  ],
+  "fall": [
+    "cadere",
+    "caduta"
+  ],
+  "fallacy": [
+    "fallacia"
+  ],
+  "fame": [
+    "fama"
+  ],
+  "famine": [
+    "carestia"
+  ],
+  "fan": [
+    "sventolare",
+    "ventaglio",
+    "ventilatore"
+  ],
+  "fanaticism": [
+    "fanatismo"
+  ],
+  "fantasy": [
+    "fantasia"
+  ],
+  "farce": [
+    "farsa"
+  ],
+  "farm": [
+    "coltivare",
+    "fattoria"
+  ],
+  "farming": [
+    "agricoltura"
+  ],
+  "fart": [
+    "peto"
+  ],
+  "fascism": [
+    "fascismo"
+  ],
+  "fashion": [
+    "moda"
+  ],
+  "fatalism": [
+    "fatalismo"
+  ],
+  "fate": [
+    "destino"
+  ],
+  "father": [
+    "padre"
+  ],
+  "fault": [
+    "colpa",
+    "mancanza"
+  ],
+  "faun": [
+    "fauno"
+  ],
+  "fauna": [
+    "fauna"
+  ],
+  "favour": [
+    "favore",
+    "favorire",
+    "privilegiare"
+  ],
+  "favouritism": [
+    "favoritismo"
+  ],
+  "fax": [
+    "fax"
+  ],
+  "fear": [
+    "paura",
+    "temere"
+  ],
+  "feather": [
+    "piuma"
+  ],
+  "feature": [
+    "caratteristica",
+    "constare"
+  ],
+  "featurefilm": [
+    "lungometraggio"
+  ],
+  "federalism": [
+    "federalismo"
+  ],
+  "federation": [
+    "federazione"
+  ],
+  "fee": [
+    "costo"
+  ],
+  "feed": [
+    "alimentare",
+    "mangime"
+  ],
+  "feedback": [
+    "retroazione"
+  ],
+  "feeling": [
+    "sentimento"
+  ],
+  "feldspar": [
+    "feldspato"
+  ],
+  "feminism": [
+    "femminismo"
+  ],
+  "fencing": [
+    "scherma"
+  ],
+  "fennel": [
+    "finocchio"
+  ],
+  "fermentation": [
+    "fermentazione"
+  ],
+  "fermium": [
+    "fermio"
+  ],
+  "ferromagnetism": [
+    "ferromagnetismo"
+  ],
+  "ferry": [
+    "traghetto"
+  ],
+  "fertilisation": [
+    "concimazione",
+    "fecondazione",
+    "fertilizzazione"
+  ],
+  "fertiliser": [
+    "concime"
+  ],
+  "festival": [
+    "festival"
+  ],
+  "fetish": [
+    "feticcio"
+  ],
+  "fetishism": [
+    "feticismo"
+  ],
+  "feudalism": [
+    "feudalesimo"
+  ],
+  "fever": [
+    "febbre"
+  ],
+  "fibre": [
+    "fibra"
+  ],
+  "fibrillation": [
+    "fibrillazione"
+  ],
+  "fiction": [
+    "finzione"
+  ],
+  "ficus": [
+    "ficus"
+  ],
+  "fiefdom": [
+    "infeudazione"
+  ],
+  "field": [
+    "campo"
+  ],
+  "fig": [
+    "fico"
+  ],
+  "fight": [
+    "combattimento",
+    "lotta",
+    "pugnare"
+  ],
+  "fighter": [
+    "caccia",
+    "combattente"
+  ],
+  "file": [
+    "archiviare",
+    "archivio",
+    "file",
+    "lima"
+  ],
+  "filigree": [
+    "filigrana"
+  ],
+  "film": [
+    "film",
+    "filmare",
+    "pellicola"
+  ],
+  "filmfestival": [
+    "festivalcinematografico"
+  ],
+  "filmframe": [
+    "fotogramma"
+  ],
+  "filter": [
+    "filtrare",
+    "filtro"
+  ],
+  "finalisation": [
+    "ultimazione"
+  ],
+  "finalism": [
+    "finalismo"
+  ],
+  "finalist": [
+    "finalista"
+  ],
+  "finance": [
+    "finanza",
+    "finanziare"
+  ],
+  "finding": [
+    "constatazione"
+  ],
+  "finger": [
+    "dito"
+  ],
+  "finish": [
+    "arrivo",
+    "finire"
+  ],
+  "finishing": [
+    "rifinitura"
+  ],
+  "fir": [
+    "abete"
+  ],
+  "fire": [
+    "fuoco",
+    "incendio",
+    "sparare"
+  ],
+  "firefighter": [
+    "vigiledelfuoco"
+  ],
+  "fireman": [
+    "vigiledelfuoco"
+  ],
+  "fireplace": [
+    "camino"
+  ],
+  "firewall": [
+    "firewall"
+  ],
+  "firewoman": [
+    "vigiledelfuoco"
+  ],
+  "firewood": [
+    "legna"
+  ],
+  "firmament": [
+    "firmamento"
+  ],
+  "fish": [
+    "pescare",
+    "pesce"
+  ],
+  "fishtank": [
+    "acquario"
+  ],
+  "fisherman": [
+    "pescatore"
+  ],
+  "fisherwoman": [
+    "pescatore"
+  ],
+  "fishing": [
+    "pesca"
+  ],
+  "fishmonger": [
+    "pescivendolo"
+  ],
+  "fist": [
+    "pugno"
+  ],
+  "fixation": [
+    "fissazione"
+  ],
+  "flag": [
+    "bandiera"
+  ],
+  "flageolet": [
+    "flagioletto"
+  ],
+  "flake": [
+    "squama"
+  ],
+  "flame": [
+    "fiamma"
+  ],
+  "flamenco": [
+    "flamenco"
+  ],
+  "flange": [
+    "flangia"
+  ],
+  "flat": [
+    "pavimento",
+    "piatto"
+  ],
+  "flatulence": [
+    "flatulenza"
+  ],
+  "flautist": [
+    "flautista"
+  ],
+  "flaw": [
+    "tara"
+  ],
+  "flea": [
+    "pulce"
+  ],
+  "flesh": [
+    "carne"
+  ],
+  "flight": [
+    "volo"
+  ],
+  "flint": [
+    "selce"
+  ],
+  "flip": [
+    "capriola"
+  ],
+  "flocculation": [
+    "flocculazione"
+  ],
+  "flood": [
+    "diluvio",
+    "inondare",
+    "inondazione"
+  ],
+  "floor": [
+    "pavimento",
+    "suolo"
+  ],
+  "flora": [
+    "flora"
+  ],
+  "florist": [
+    "fioreria",
+    "fiorista"
+  ],
+  "flotation": [
+    "flottazione"
+  ],
+  "flotilla": [
+    "flottiglia"
+  ],
+  "flour": [
+    "farina"
+  ],
+  "flow": [
+    "fluire",
+    "flusso"
+  ],
+  "flower": [
+    "fiore",
+    "fiorire"
+  ],
+  "flu": [
+    "influenza"
+  ],
+  "fluctuation": [
+    "fluttuazione"
+  ],
+  "fluorescence": [
+    "fluorescenza"
+  ],
+  "fluoridation": [
+    "fluorizzazione"
+  ],
+  "flute": [
+    "flauto"
+  ],
+  "fly": [
+    "mosca",
+    "volare"
+  ],
+  "flyer": [
+    "aviatore"
+  ],
+  "flying": [
+    "volo"
+  ],
+  "foam": [
+    "schiuma",
+    "spuma",
+    "spumare"
+  ],
+  "focus": [
+    "centrare",
+    "fuoco"
+  ],
+  "foetus": [
+    "feto"
+  ],
+  "fog": [
+    "nebbia"
+  ],
+  "fold": [
+    "piega",
+    "piegare"
+  ],
+  "foliage": [
+    "fogliame"
+  ],
+  "folklore": [
+    "folclore"
+  ],
+  "folly": [
+    "pazzia"
+  ],
+  "font": [
+    "fonte"
+  ],
+  "foot": [
+    "piede"
+  ],
+  "foolishness": [
+    "sciocchezza"
+  ],
+  "foot-and-mouthdisease": [
+    "aftaepizootica"
+  ],
+  "footballpool": [
+    "totocalcio"
+  ],
+  "footballer": [
+    "calciatore"
+  ],
+  "foothold": [
+    "appiglio"
+  ],
+  "footpath": [
+    "sentiero"
+  ],
+  "forage": [
+    "foraggio"
+  ],
+  "force": [
+    "forza",
+    "forzare"
+  ],
+  "forcemajeure": [
+    "forzamaggiore"
+  ],
+  "foreigncurrency": [
+    "valutaestera"
+  ],
+  "foreignexchange": [
+    "cambio"
+  ],
+  "foreigner": [
+    "straniero"
+  ],
+  "forest": [
+    "foresta"
+  ],
+  "forge": [
+    "fucina"
+  ],
+  "fork": [
+    "biforcarsi",
+    "forchetta",
+    "inforcare"
+  ],
+  "form": [
+    "forma",
+    "formare",
+    "metodo",
+    "modulo",
+    "veste"
+  ],
+  "formalisation": [
+    "formalizzazione"
+  ],
+  "format": [
+    "formato"
+  ],
+  "formation": [
+    "educazione"
+  ],
+  "forming": [
+    "conformazione"
+  ],
+  "formula": [
+    "formula"
+  ],
+  "formulation": [
+    "formulazione"
+  ],
+  "forte": [
+    "forte"
+  ],
+  "fortification": [
+    "fortificazione"
+  ],
+  "fortress": [
+    "fortezza",
+    "potere"
+  ],
+  "fortune": [
+    "fortuna"
+  ],
+  "fortuneteller": [
+    "indovino"
+  ],
+  "forum": [
+    "foro"
+  ],
+  "fossil": [
+    "fossile"
+  ],
+  "fossilisation": [
+    "fossilizzazione"
+  ],
+  "foundation": [
+    "fondazione"
+  ],
+  "founder": [
+    "fondatore"
+  ],
+  "foundry": [
+    "fusione"
+  ],
+  "fountain": [
+    "fonte"
+  ],
+  "fraction": [
+    "frazione"
+  ],
+  "fracture": [
+    "frattura"
+  ],
+  "fragaria": [
+    "fragola"
+  ],
+  "fragment": [
+    "frammento"
+  ],
+  "fragmentation": [
+    "frammentazione"
+  ],
+  "frame": [
+    "incorniciare",
+    "marco",
+    "struttura"
+  ],
+  "framework": [
+    "marco"
+  ],
+  "franchise": [
+    "franchising"
+  ],
+  "fraternity": [
+    "fratellanza"
+  ],
+  "fraud": [
+    "frode"
+  ],
+  "freckle": [
+    "lentiggine"
+  ],
+  "freemasonry": [
+    "massoneria"
+  ],
+  "freeze": [
+    "congelamento",
+    "congelare",
+    "gelare"
+  ],
+  "freezing": [
+    "congelamento"
+  ],
+  "freight": [
+    "carica"
+  ],
+  "frequency": [
+    "frequenza"
+  ],
+  "fresco": [
+    "affresco"
+  ],
+  "freshpasta": [
+    "pastafresca"
+  ],
+  "friar": [
+    "frate"
+  ],
+  "friction": [
+    "attrito"
+  ],
+  "fridge": [
+    "frigorifero"
+  ],
+  "friend": [
+    "amico"
+  ],
+  "friendship": [
+    "amicizia"
+  ],
+  "fringe": [
+    "frangia"
+  ],
+  "front": [
+    "fronte"
+  ],
+  "frontier": [
+    "frontiera"
+  ],
+  "fruition": [
+    "fruizione"
+  ],
+  "frustration": [
+    "frustrazione"
+  ],
+  "fuel": [
+    "combustibile"
+  ],
+  "fulfillment": [
+    "compimento"
+  ],
+  "fumigation": [
+    "fumigazione"
+  ],
+  "function": [
+    "funzionare",
+    "funzione"
+  ],
+  "functionalism": [
+    "funzionalismo"
+  ],
+  "functioning": [
+    "funzionamento"
+  ],
+  "fund": [
+    "finanziare",
+    "fondo"
+  ],
+  "fundamentalism": [
+    "fondamentalismo"
+  ],
+  "fundamentalist": [
+    "fondamentalista"
+  ],
+  "funding": [
+    "finanziamento"
+  ],
+  "funeral": [
+    "funerale"
+  ],
+  "fungus": [
+    "fungo"
+  ],
+  "filament": [
+    "filamento"
+  ],
+  "fiord": [
+    "fiordo"
+  ],
+  "flank": [
+    "fianco"
+  ],
+  "foal": [
+    "puledro"
+  ],
+  "forearm": [
+    "avambraccio"
+  ],
+  "fratricide": [
+    "fratricidio"
+  ],
+  "freewill": [
+    "liberoarbitrio"
+  ],
+  "frontispiece": [
+    "frontespizio"
+  ],
+  "fulcrum": [
+    "fulcro"
+  ],
+  "funicular": [
+    "funicolare"
+  ],
+  "fur": [
+    "pellicceria"
+  ],
+  "furniture": [
+    "arredamento",
+    "arredo"
+  ],
+  "fury": [
+    "furia"
+  ],
+  "fuse": [
+    "fondere",
+    "stoppino"
+  ],
+  "fuselage": [
+    "fusoliera"
+  ],
+  "futurism": [
+    "futurismo"
+  ],
+  "feeder": [
+    "alimentatore"
+  ],
+  "fiatcurrency": [
+    "valutaacorsoforzoso"
+  ],
+  "financialrescueplan": [
+    "pianodisalvataggiofinanziario"
+  ],
+  "facsimile": [
+    "facsimile"
+  ],
+  "fibrin": [
+    "fibrina"
+  ],
+  "fibula": [
+    "perone"
+  ],
+  "fistula": [
+    "fistola"
+  ],
+  "fluoride": [
+    "fluoruro"
+  ],
+  "formwork": [
+    "cassaforma"
+  ],
+  "franklin": [
+    "franklin"
+  ],
+  "funnel": [
+    "imbuto"
+  ],
+  "ferritin": [
+    "ferritina"
+  ],
+  "fluorescein": [
+    "fluoresceina"
+  ],
+  "funiculus": [
+    "funicolo"
+  ],
+  "furrier": [
+    "pellicciaio"
+  ],
+  "fawn": [
+    "cerbiatto"
+  ],
+  "frenchstate": [
+    "statofrancese"
+  ],
+  "flavour": [
+    "gusto"
+  ],
+  "flocculus": [
+    "floculo"
+  ],
+  "fang": [
+    "zanna"
+  ],
+  "farmyard": [
+    "aia"
+  ],
+  "firmness": [
+    "fermezza"
+  ],
+  "flannel": [
+    "flanella"
+  ],
+  "fleet": [
+    "flotta"
+  ],
+  "flower-bed": [
+    "aiuola"
+  ],
+  "folder": [
+    "cartella"
+  ],
+  "fondue": [
+    "fonduta"
+  ],
+  "footprint": [
+    "impronta"
+  ],
+  "frankness": [
+    "franchezza"
+  ],
+  "flare": [
+    "razzo"
+  ],
+  "fox": [
+    "volpe"
+  ],
+  "frenchfry": [
+    "patatafritta"
+  ],
+  "fengshui": [
+    "fengshui"
+  ],
+  "faithfully": [
+    "fedelmente"
+  ],
+  "falsely": [
+    "falsamente"
+  ],
+  "fanatically": [
+    "fanaticamente"
+  ],
+  "fantastically": [
+    "fantasticamente"
+  ],
+  "far": [
+    "lontano"
+  ],
+  "favourably": [
+    "favorevolmente"
+  ],
+  "feverishly": [
+    "febbrilmente"
+  ],
+  "fiercely": [
+    "fieramente"
+  ],
+  "finally": [
+    "finalmente",
+    "infine"
+  ],
+  "financially": [
+    "finanziariamente"
+  ],
+  "firmly": [
+    "fermamente",
+    "saldamente"
+  ],
+  "firstandforemost": [
+    "inprimoluogo"
+  ],
+  "firstly": [
+    "inprimoluogo",
+    "primamente"
+  ],
+  "flatly": [
+    "completamente"
+  ],
+  "flawlessly": [
+    "perfettamente"
+  ],
+  "fluently": [
+    "correntemente"
+  ],
+  "foralongtime": [
+    "damoltotempo"
+  ],
+  "forever": [
+    "persempre"
+  ],
+  "foreverandever": [
+    "persempre"
+  ],
+  "forexample": [
+    "peresempio"
+  ],
+  "fornow": [
+    "peradesso",
+    "perora"
+  ],
+  "forsure": [
+    "sicuro"
+  ],
+  "forthefirsttime": [
+    "perlaprimavolta"
+  ],
+  "forthemeantime": [
+    "almomento"
+  ],
+  "forthemoment": [
+    "almomento"
+  ],
+  "forthemostpart": [
+    "maggioritariamente"
+  ],
+  "forcedly": [
+    "forzosamente"
+  ],
+  "formally": [
+    "formalmente"
+  ],
+  "formerly": [
+    "anteriormente"
+  ],
+  "forth": [
+    "avanti"
+  ],
+  "forthwith": [
+    "immediatamente"
+  ],
+  "fortunately": [
+    "fortunatamente"
+  ],
+  "forward": [
+    "avanti",
+    "inviare"
+  ],
+  "frankly": [
+    "francamente"
+  ],
+  "frantically": [
+    "freneticamente"
+  ],
+  "fraudulently": [
+    "fraudolentemente"
+  ],
+  "freely": [
+    "gratuitamente"
+  ],
+  "frenetically": [
+    "freneticamente"
+  ],
+  "frequently": [
+    "frequentemente"
+  ],
+  "freshly": [
+    "recentemente"
+  ],
+  "fromabout": [
+    "dacirca"
+  ],
+  "fromabroad": [
+    "dall'estero"
+  ],
+  "fromnowon": [
+    "d'orainavanti",
+    "d'orainpoi"
+  ],
+  "fromtimetotime": [
+    "ditantoinquando"
+  ],
+  "fullblast": [
+    "rapidamente"
+  ],
+  "fully": [
+    "pienamente"
+  ],
+  "fundamentally": [
+    "fondamentalmente"
+  ],
+  "furiously": [
+    "furiosamente"
+  ],
+  "furthermore": [
+    "oltretutto"
+  ],
+  "fondly": [
+    "affettuosamente"
+  ],
+  "fordearlife": [
+    "disperatamente"
+  ],
+  "facilitate": [
+    "facilitare"
+  ],
+  "fail": [
+    "fallire"
+  ],
+  "falldown": [
+    "cadere"
+  ],
+  "falsify": [
+    "falsificare"
+  ],
+  "fatten": [
+    "ingrassare"
+  ],
+  "feel": [
+    "sentire"
+  ],
+  "ferment": [
+    "fermentare"
+  ],
+  "figure": [
+    "figura",
+    "rappresentare"
+  ],
+  "fill": [
+    "riempire"
+  ],
+  "fillup": [
+    "riempire"
+  ],
+  "find": [
+    "incontrare",
+    "trovare"
+  ],
+  "findout": [
+    "scoprire"
+  ],
+  "fix": [
+    "riparare"
+  ],
+  "flee": [
+    "fuggire"
+  ],
+  "fluctuate": [
+    "fluttuare"
+  ],
+  "follow": [
+    "seguire"
+  ],
+  "forbid": [
+    "proibire"
+  ],
+  "foresee": [
+    "prevedere"
+  ],
+  "forget": [
+    "dimenticare"
+  ],
+  "forgetabout": [
+    "dimenticare"
+  ],
+  "forgive": [
+    "perdonare"
+  ],
+  "formalise": [
+    "formalizzare"
+  ],
+  "formulate": [
+    "formulare"
+  ],
+  "fortify": [
+    "fortificare"
+  ],
+  "found": [
+    "fondare"
+  ],
+  "fractionate": [
+    "frazionare"
+  ],
+  "freshen": [
+    "rinfrescare"
+  ],
+  "frighten": [
+    "spaventare"
+  ],
+  "frustrate": [
+    "frustrare"
+  ],
+  "fry": [
+    "friggere"
+  ],
+  "fuck": [
+    "scopare"
+  ],
+  "fulfil": [
+    "compiere"
+  ],
+  "furnish": [
+    "arredare"
+  ],
+  "flatter": [
+    "lusingare"
+  ],
+  "fulminate": [
+    "fulminare"
+  ],
+  "fairly": [
+    "abbastanza"
+  ],
+  "fluvirus": [
+    "virusdell'influenza"
+  ],
+  "frog": [
+    "rana"
+  ],
+  "four-leafclover": [
+    "quadrifoglio"
+  ],
+  "floriculture": [
+    "floricoltura"
+  ],
+  "fluorine": [
+    "fluoro"
+  ],
+  "fluorite": [
+    "fluorite"
+  ],
+  "falangist": [
+    "falangista"
+  ],
+  "far-right": [
+    "ultradestra"
+  ],
+  "fatalistic": [
+    "fatalista"
+  ],
+  "federalistic": [
+    "federalista"
+  ],
+  "fetishistic": [
+    "feticista"
+  ],
+  "futuristic": [
+    "futurista"
+  ],
+  "fatalist": [
+    "fatalista"
+  ],
+  "federalist": [
+    "federalista"
+  ],
+  "fetishist": [
+    "feticista"
+  ],
+  "futurist": [
+    "futurista"
+  ],
+  "forecast": [
+    "previsione"
+  ],
+  "farad": [
+    "farad"
+  ],
+  "firn": [
+    "firn"
+  ],
+  "femur": [
+    "femore"
+  ],
+  "fibroma": [
+    "fibroma"
+  ],
+  "formaldehyde": [
+    "formaldeide"
+  ],
+  "fovea": [
+    "fovea"
+  ],
+  "funny": [
+    "buffo"
+  ],
+  "fifteen": [
+    "quindici"
+  ],
+  "fifteenthousand": [
+    "quindicimila"
+  ],
+  "fifty": [
+    "cinquanta"
+  ],
+  "fifty-eight": [
+    "cinquantotto"
+  ],
+  "fifty-eightthousand": [
+    "cinquantottomila"
+  ],
+  "fifty-five": [
+    "cinquantacinque"
+  ],
+  "fifty-fivethousand": [
+    "cinquantacinquemila"
+  ],
+  "fifty-four": [
+    "cinquantaquattro"
+  ],
+  "fifty-fourthousand": [
+    "cinquantaquattromila"
+  ],
+  "fifty-nine": [
+    "cinquantanove"
+  ],
+  "fifty-ninethousand": [
+    "cinquantanovemila"
+  ],
+  "fifty-seven": [
+    "cinquantasette"
+  ],
+  "fifty-seventhousand": [
+    "cinquantasettemila"
+  ],
+  "fifty-six": [
+    "cinquantasei"
+  ],
+  "fifty-sixthousand": [
+    "cinquantaseimila"
+  ],
+  "fifty-threethousand": [
+    "cinquantatremila"
+  ],
+  "fifty-two": [
+    "cinquantadue"
+  ],
+  "fifty-twothousand": [
+    "cinquantaduemila"
+  ],
+  "fiftyonethousand": [
+    "cinquantunomila"
+  ],
+  "fiftythousand": [
+    "cinquantamila"
+  ],
+  "five": [
+    "cinque"
+  ],
+  "fivethousand": [
+    "cinquemila"
+  ],
+  "forty": [
+    "quaranta"
+  ],
+  "forty-eight": [
+    "quarantotto"
+  ],
+  "forty-eightthousand": [
+    "quarantottomila"
+  ],
+  "forty-five": [
+    "quarantacinque"
+  ],
+  "forty-fivethousand": [
+    "quarantacinquemila"
+  ],
+  "forty-four": [
+    "quarantaquattro"
+  ],
+  "forty-fourthousand": [
+    "quarantaquattromila"
+  ],
+  "forty-nine": [
+    "quarantanove"
+  ],
+  "forty-ninethousand": [
+    "quarantanovemila"
+  ],
+  "forty-seven": [
+    "quarantasette"
+  ],
+  "forty-seventhousand": [
+    "quarantasettemila"
+  ],
+  "forty-six": [
+    "quarantasei"
+  ],
+  "forty-sixthousand": [
+    "quarantaseimila"
+  ],
+  "forty-threethousand": [
+    "quarantatremila"
+  ],
+  "forty-two": [
+    "quarantadue"
+  ],
+  "forty-twothousand": [
+    "quarantaduemila"
+  ],
+  "fortyonethousand": [
+    "quarantunomila"
+  ],
+  "fortythousand": [
+    "quarantamila"
+  ],
+  "four": [
+    "quattro"
+  ],
+  "fourthousand": [
+    "quattromila"
+  ],
+  "fourteen": [
+    "quattordici"
+  ],
+  "fourteenthousand": [
+    "quattordicimila"
+  ],
+  "for": [
+    "per"
+  ],
+  "formorethan": [
+    "peroltre"
+  ],
+  "from": [
+    "di"
+  ],
+  "fifty-one": [
+    "cinquantuno"
+  ],
+  "fifty-onethousand": [
+    "cinquantunomila"
+  ],
+  "forty-one": [
+    "quarantuno"
+  ],
+  "forty-onethousand": [
+    "quarantunomila"
+  ]
+}

@@ -1,0 +1,2665 @@
+{
+  "abintestato": [
+    "intestate"
+  ],
+  "abitante": [
+    "inhabitant"
+  ],
+  "abitatore": [
+    "inhabitant"
+  ],
+  "abreve": [
+    "inbrief"
+  ],
+  "abrevetermine": [
+    "intheshortterm"
+  ],
+  "afavore": [
+    "infavour"
+  ],
+  "affare": [
+    "issue"
+  ],
+  "affluenza": [
+    "influx"
+  ],
+  "afflusso": [
+    "influx"
+  ],
+  "afondo": [
+    "indepth"
+  ],
+  "afronte": [
+    "infront"
+  ],
+  "agliinizidi": [
+    "inthebeginningof"
+  ],
+  "agliocchidi": [
+    "intheeyesof"
+  ],
+  "all'indietro": [
+    "insideout"
+  ],
+  "amabilmente": [
+    "inkind"
+  ],
+  "amano": [
+    "inhand"
+  ],
+  "ammalato": [
+    "ill"
+  ],
+  "analfabeta": [
+    "illiterate"
+  ],
+  "analfabetismo": [
+    "illiteracy"
+  ],
+  "annullamento": [
+    "invalidation"
+  ],
+  "anticamente": [
+    "inthepast"
+  ],
+  "ascalaridotta": [
+    "inasmallway"
+  ],
+  "aspirare": [
+    "inhale"
+  ],
+  "asse": [
+    "iron"
+  ],
+  "assicurare": [
+    "insure"
+  ],
+  "assicurazione": [
+    "insurance"
+  ],
+  "atalproposito": [
+    "inthisregard"
+  ],
+  "atalriguardo": [
+    "inthisregard"
+  ],
+  "attod'accusa": [
+    "indictment"
+  ],
+  "attuare": [
+    "implement"
+  ],
+  "attuazione": [
+    "implementation"
+  ],
+  "aumentare": [
+    "increase"
+  ],
+  "aumento": [
+    "increase"
+  ],
+  "avorio": [
+    "ivory"
+  ],
+  "avviare": [
+    "initiate"
+  ],
+  "bambino": [
+    "infant"
+  ],
+  "bancainternazionaleperlaricostruzioneelosviluppo": [
+    "internationalbankforreconstructionanddevelopment"
+  ],
+  "baratto": [
+    "interchange"
+  ],
+  "carcere": [
+    "incarceration"
+  ],
+  "caso": [
+    "instance"
+  ],
+  "causare": [
+    "inflict"
+  ],
+  "comminare": [
+    "impose"
+  ],
+  "congiuntamente": [
+    "inconjunction"
+  ],
+  "consonoa": [
+    "inagreementwith"
+  ],
+  "contagiare": [
+    "infect"
+  ],
+  "costad'avorio": [
+    "ivorycoast"
+  ],
+  "crescente": [
+    "increasing"
+  ],
+  "curiosamente": [
+    "interestingly",
+    "interestinglyenough"
+  ],
+  "davanti": [
+    "infront",
+    "inthelead",
+    "infrontof"
+  ],
+  "davantia": [
+    "infrontof"
+  ],
+  "demente": [
+    "insane"
+  ],
+  "dentro": [
+    "inside",
+    "in"
+  ],
+  "dentrodi": [
+    "inside"
+  ],
+  "dettagliatamente": [
+    "indetail"
+  ],
+  "difatto": [
+    "infact",
+    "indeed"
+  ],
+  "difronte": [
+    "infront"
+  ],
+  "dimattina": [
+    "inthemorning"
+  ],
+  "dinanzia": [
+    "infrontof"
+  ],
+  "distintivodiidentificazione": [
+    "identificationbadge"
+  ],
+  "disuguaglianza": [
+    "inequality"
+  ],
+  "ditoindice": [
+    "indexfinger"
+  ],
+  "economico": [
+    "inexpensive"
+  ],
+  "elemento": [
+    "item"
+  ],
+  "entrata": [
+    "input"
+  ],
+  "entro": [
+    "inside"
+  ],
+  "entrodi": [
+    "inside"
+  ],
+  "ereditare": [
+    "inherit"
+  ],
+  "fanteria": [
+    "infantry"
+  ],
+  "fattura": [
+    "invoice"
+  ],
+  "fatturare": [
+    "invoice"
+  ],
+  "ferire": [
+    "injure"
+  ],
+  "ferito": [
+    "injured"
+  ],
+  "ferramenta": [
+    "ironmongery"
+  ],
+  "ferreo": [
+    "iron"
+  ],
+  "ferro": [
+    "iron"
+  ],
+  "flessivo": [
+    "inflectional"
+  ],
+  "fmi": [
+    "imf"
+  ],
+  "fondomonetariointernazionale": [
+    "internationalmonetaryfund"
+  ],
+  "gelateria": [
+    "icecreamparlour"
+  ],
+  "gelato": [
+    "icecream"
+  ],
+  "geniale": [
+    "ingenious"
+  ],
+  "ghiaccio": [
+    "ice"
+  ],
+  "girata": [
+    "indorsement"
+  ],
+  "gonfiabile": [
+    "inflatable"
+  ],
+  "ibarretxe": [
+    "ibarretxe"
+  ],
+  "iberico": [
+    "iberian"
+  ],
+  "ibidem": [
+    "ibidem"
+  ],
+  "ibiza": [
+    "ibiza"
+  ],
+  "ibm": [
+    "ibm"
+  ],
+  "ibuprofene": [
+    "ibuprofen"
+  ],
+  "iceberg": [
+    "iceberg"
+  ],
+  "icona": [
+    "icon"
+  ],
+  "iconico": [
+    "iconic"
+  ],
+  "iconografia": [
+    "iconography"
+  ],
+  "icosaedro": [
+    "icosahedron"
+  ],
+  "idea": [
+    "idea",
+    "insight"
+  ],
+  "ideale": [
+    "ideal"
+  ],
+  "idealismo": [
+    "idealism"
+  ],
+  "idealista": [
+    "idealist",
+    "idealistic"
+  ],
+  "idealizzare": [
+    "idealise"
+  ],
+  "idealizzazione": [
+    "idealisation"
+  ],
+  "idealmente": [
+    "ideally"
+  ],
+  "ideazione": [
+    "ideation"
+  ],
+  "identico": [
+    "identical"
+  ],
+  "identificabile": [
+    "identifiable"
+  ],
+  "identificare": [
+    "identify"
+  ],
+  "identificatore": [
+    "identifier"
+  ],
+  "identificazione": [
+    "identification"
+  ],
+  "ideologia": [
+    "ideology"
+  ],
+  "ideologicamente": [
+    "ideologically"
+  ],
+  "ideologico": [
+    "ideological"
+  ],
+  "ideologo": [
+    "ideologist"
+  ],
+  "idillio": [
+    "idyll"
+  ],
+  "idioletto": [
+    "idiolect"
+  ],
+  "idioma": [
+    "idiom"
+  ],
+  "idiomatico": [
+    "idiomatic"
+  ],
+  "idiosincrasia": [
+    "idiosyncrasy"
+  ],
+  "idiosincratico": [
+    "idiosyncratic"
+  ],
+  "idiota": [
+    "idiot"
+  ],
+  "idiotismo": [
+    "idiom"
+  ],
+  "idolatrare": [
+    "idolise"
+  ],
+  "idolo": [
+    "idol"
+  ],
+  "ifigenia": [
+    "iphigenia"
+  ],
+  "ignacio": [
+    "ignacio"
+  ],
+  "ignazio": [
+    "ignazio"
+  ],
+  "ignaziodiantiochia": [
+    "ignatiusofantioch"
+  ],
+  "ignominia": [
+    "ignominy"
+  ],
+  "ignorante": [
+    "ignorant"
+  ],
+  "ignoranza": [
+    "ignorance"
+  ],
+  "ignorare": [
+    "ignore"
+  ],
+  "ii": [
+    "ii"
+  ],
+  "iii": [
+    "iii"
+  ],
+  "ileo": [
+    "ileum"
+  ],
+  "illecitamente": [
+    "illicitly"
+  ],
+  "illecito": [
+    "illicit"
+  ],
+  "illegale": [
+    "illegal"
+  ],
+  "illegalmente": [
+    "illegally"
+  ],
+  "illegittimo": [
+    "illegitimate"
+  ],
+  "illinois": [
+    "illinois"
+  ],
+  "illogico": [
+    "illogical"
+  ],
+  "illuminazione": [
+    "illumination"
+  ],
+  "illusione": [
+    "illusion"
+  ],
+  "illustrare": [
+    "illustrate"
+  ],
+  "illustrato": [
+    "illustrated"
+  ],
+  "illustrazione": [
+    "illustration"
+  ],
+  "illustre": [
+    "illustrious"
+  ],
+  "ilsuo": [
+    "its"
+  ],
+  "imaz": [
+    "imaz"
+  ],
+  "imbecille": [
+    "imbecilic"
+  ],
+  "imitare": [
+    "imitate"
+  ],
+  "imitazione": [
+    "imitation"
+  ],
+  "immacolata": [
+    "immacolata"
+  ],
+  "immaginare": [
+    "imagine"
+  ],
+  "immaginario": [
+    "imaginary"
+  ],
+  "immaginativo": [
+    "imaginative"
+  ],
+  "immaginazione": [
+    "imagination"
+  ],
+  "immagine": [
+    "image"
+  ],
+  "immanenza": [
+    "immanence"
+  ],
+  "immateriale": [
+    "immaterial"
+  ],
+  "immediatamente": [
+    "immediately",
+    "inalittlewhile",
+    "inshortorder"
+  ],
+  "immediato": [
+    "immediate"
+  ],
+  "immemorabile": [
+    "immemorial"
+  ],
+  "immenso": [
+    "immense"
+  ],
+  "immersione": [
+    "immersion"
+  ],
+  "immigrante": [
+    "immigrant"
+  ],
+  "immigrato": [
+    "immigrant"
+  ],
+  "immigrazione": [
+    "immigration"
+  ],
+  "imminente": [
+    "imminent"
+  ],
+  "immobiliare": [
+    "immovable"
+  ],
+  "immobilizzazione": [
+    "immobilisation"
+  ],
+  "immorale": [
+    "immoral"
+  ],
+  "immortale": [
+    "immortal"
+  ],
+  "immune": [
+    "immune"
+  ],
+  "immunizzazione": [
+    "immunisation"
+  ],
+  "immunodeficienza": [
+    "immunodeficiency"
+  ],
+  "immunologia": [
+    "immunology"
+  ],
+  "immunologico": [
+    "immunological"
+  ],
+  "immunosoppressione": [
+    "immunosuppression"
+  ],
+  "immunoterapia": [
+    "immunotherapy"
+  ],
+  "impalatore": [
+    "impaler"
+  ],
+  "impartire": [
+    "impart"
+  ],
+  "imparziale": [
+    "impartial"
+  ],
+  "impasse": [
+    "impasse"
+  ],
+  "impatto": [
+    "impact"
+  ],
+  "impaziente": [
+    "impatient"
+  ],
+  "impazienza": [
+    "impatience"
+  ],
+  "impedenza": [
+    "impedance"
+  ],
+  "impenetrabile": [
+    "impenetrable"
+  ],
+  "imperativo": [
+    "imperative"
+  ],
+  "impercettibile": [
+    "imperceptible"
+  ],
+  "impercettibilmente": [
+    "imperceptibly"
+  ],
+  "imperfetto": [
+    "imperfect"
+  ],
+  "imperfezione": [
+    "imperfection"
+  ],
+  "imperiale": [
+    "imperial"
+  ],
+  "imperialismo": [
+    "imperialism"
+  ],
+  "imperialista": [
+    "imperialist"
+  ],
+  "impermeabile": [
+    "impermeable"
+  ],
+  "impersonale": [
+    "impersonal"
+  ],
+  "impertinenza": [
+    "impertinence"
+  ],
+  "impianto": [
+    "implant",
+    "installation"
+  ],
+  "implementazione": [
+    "implementation"
+  ],
+  "implicare": [
+    "imply",
+    "involve"
+  ],
+  "implicazione": [
+    "implication",
+    "involvement"
+  ],
+  "implicitamente": [
+    "implicitly"
+  ],
+  "implicito": [
+    "implicit"
+  ],
+  "implosione": [
+    "implosion"
+  ],
+  "importante": [
+    "important"
+  ],
+  "importanza": [
+    "importance"
+  ],
+  "importare": [
+    "import"
+  ],
+  "importatore": [
+    "importing"
+  ],
+  "importazione": [
+    "import"
+  ],
+  "impossibile": [
+    "impossible"
+  ],
+  "impostasulreddito": [
+    "incometax"
+  ],
+  "impotente": [
+    "impotent"
+  ],
+  "impotenza": [
+    "impotence"
+  ],
+  "impoverimento": [
+    "impoverishment"
+  ],
+  "impoverire": [
+    "impoverish"
+  ],
+  "impraticabile": [
+    "impassable"
+  ],
+  "imprecisione": [
+    "imprecision"
+  ],
+  "impreciso": [
+    "imprecise"
+  ],
+  "impregnare": [
+    "impregnate"
+  ],
+  "impregnazione": [
+    "impregnation"
+  ],
+  "imprescrittibile": [
+    "imprescriptible"
+  ],
+  "impressionabile": [
+    "impressionable"
+  ],
+  "impressionante": [
+    "impressive"
+  ],
+  "impressionare": [
+    "impress"
+  ],
+  "impressione": [
+    "impression"
+  ],
+  "impressionismo": [
+    "impressionism"
+  ],
+  "impressionista": [
+    "impressionist"
+  ],
+  "imprigionare": [
+    "imprison"
+  ],
+  "improbabile": [
+    "improbable"
+  ],
+  "impropriamente": [
+    "improperly"
+  ],
+  "improprio": [
+    "improper"
+  ],
+  "improvvisare": [
+    "improvise"
+  ],
+  "improvvisazione": [
+    "improvisation"
+  ],
+  "imprudente": [
+    "imprudent"
+  ],
+  "impugnabile": [
+    "impugnable"
+  ],
+  "impugnare": [
+    "impugn"
+  ],
+  "impugnazione": [
+    "impugnation"
+  ],
+  "impulsivo": [
+    "impulsive"
+  ],
+  "impulso": [
+    "impetus",
+    "impulse"
+  ],
+  "imputabile": [
+    "imputable"
+  ],
+  "imputare": [
+    "impute"
+  ],
+  "in": [
+    "in"
+  ],
+  "inabilitare": [
+    "incapacitate"
+  ],
+  "inaccessibile": [
+    "inaccessible"
+  ],
+  "inaccordocon": [
+    "inaccordancewith"
+  ],
+  "inadeguato": [
+    "inadequate",
+    "inappropriate"
+  ],
+  "inalare": [
+    "inhale"
+  ],
+  "inalazione": [
+    "inhalation"
+  ],
+  "inalienabile": [
+    "inalienable"
+  ],
+  "inaltritempi": [
+    "inothertimes"
+  ],
+  "inammissibile": [
+    "inadmissible"
+  ],
+  "inapplicabile": [
+    "inapplicable"
+  ],
+  "inarmonico": [
+    "inharmonic"
+  ],
+  "inarticolato": [
+    "inarticulate"
+  ],
+  "inassoluto": [
+    "inabsolute"
+  ],
+  "inattesadi": [
+    "inhopeof"
+  ],
+  "inattivazione": [
+    "inactivation"
+  ],
+  "inaugurale": [
+    "inaugural"
+  ],
+  "inaugurare": [
+    "inaugurate"
+  ],
+  "inaugurazione": [
+    "inauguration"
+  ],
+  "inazione": [
+    "inaction"
+  ],
+  "incalcolabile": [
+    "incalculable"
+  ],
+  "incambio": [
+    "instead"
+  ],
+  "incandescenza": [
+    "incandescence"
+  ],
+  "incanto": [
+    "incantation"
+  ],
+  "incapace": [
+    "incapable"
+  ],
+  "incarnazione": [
+    "incarnation"
+  ],
+  "incendiare": [
+    "ignite"
+  ],
+  "incendiario": [
+    "incendiary"
+  ],
+  "incenerimento": [
+    "incineration"
+  ],
+  "incenerire": [
+    "incinerate"
+  ],
+  "incenso": [
+    "incense"
+  ],
+  "incentivazione": [
+    "incentivisation"
+  ],
+  "incentivo": [
+    "incentive"
+  ],
+  "incessante": [
+    "incessant"
+  ],
+  "inchiesta": [
+    "inquiry"
+  ],
+  "inchiostro": [
+    "ink"
+  ],
+  "incidentale": [
+    "incidental"
+  ],
+  "incidente": [
+    "incident"
+  ],
+  "incidenza": [
+    "incidence"
+  ],
+  "incisione": [
+    "incision"
+  ],
+  "incisivo": [
+    "incisive"
+  ],
+  "incitamento": [
+    "incitement"
+  ],
+  "incitare": [
+    "incite"
+  ],
+  "inclemente": [
+    "inclement"
+  ],
+  "inclinare": [
+    "incline"
+  ],
+  "inclinato": [
+    "inclined"
+  ],
+  "inclinazione": [
+    "inclination"
+  ],
+  "includere": [
+    "include"
+  ],
+  "inclusione": [
+    "inclusion"
+  ],
+  "inclusivamente": [
+    "included"
+  ],
+  "inclusive": [
+    "included"
+  ],
+  "incluso": [
+    "included"
+  ],
+  "incoerente": [
+    "incoherent"
+  ],
+  "incoerentemente": [
+    "incoherently"
+  ],
+  "incombente": [
+    "incumbent"
+  ],
+  "incommensurabile": [
+    "incommensurable"
+  ],
+  "incomparabile": [
+    "incomparable"
+  ],
+  "incompatibile": [
+    "incompatible"
+  ],
+  "incompetente": [
+    "incompetent"
+  ],
+  "incompetenza": [
+    "incompetence"
+  ],
+  "incompletamente": [
+    "incompletely"
+  ],
+  "incompleto": [
+    "incomplete"
+  ],
+  "incomprensibile": [
+    "incomprehensible"
+  ],
+  "incomunicabile": [
+    "incommunicable"
+  ],
+  "inconcepibile": [
+    "inconceivable"
+  ],
+  "incongruente": [
+    "incongruous"
+  ],
+  "inconseguente": [
+    "inconsequential"
+  ],
+  "inconseguenza": [
+    "inconsequence"
+  ],
+  "incontenibile": [
+    "irrepressible"
+  ],
+  "incontestabile": [
+    "incontestable"
+  ],
+  "incontinenza": [
+    "incontinence"
+  ],
+  "incontrovertibile": [
+    "incontrovertible"
+  ],
+  "incorporare": [
+    "incorporate"
+  ],
+  "incorporazione": [
+    "incorporation"
+  ],
+  "incorrere": [
+    "incur"
+  ],
+  "incredibile": [
+    "incredible"
+  ],
+  "incredibilmente": [
+    "incredibly"
+  ],
+  "incrementale": [
+    "incremental"
+  ],
+  "incrementare": [
+    "increase"
+  ],
+  "incremento": [
+    "increase"
+  ],
+  "incriminare": [
+    "incriminate"
+  ],
+  "incubazione": [
+    "incubation"
+  ],
+  "inculcare": [
+    "implant"
+  ],
+  "incurabile": [
+    "incurable"
+  ],
+  "incursione": [
+    "incursion"
+  ],
+  "indagare": [
+    "investigate"
+  ],
+  "indebitamento": [
+    "indebtedness"
+  ],
+  "indebolimento": [
+    "impairment"
+  ],
+  "indecente": [
+    "indecent"
+  ],
+  "indeclinabile": [
+    "indeclinable"
+  ],
+  "indefinitamente": [
+    "indefinitely"
+  ],
+  "indefinito": [
+    "indefinite"
+  ],
+  "indennizzare": [
+    "indemnify"
+  ],
+  "indentazione": [
+    "indentation"
+  ],
+  "indeterminato": [
+    "indeterminate"
+  ],
+  "indiana": [
+    "indiana"
+  ],
+  "indiano": [
+    "indian"
+  ],
+  "indicare": [
+    "indicate"
+  ],
+  "indicativo": [
+    "indicative"
+  ],
+  "indicatore": [
+    "indicator"
+  ],
+  "indicazione": [
+    "indication"
+  ],
+  "indice": [
+    "index"
+  ],
+  "indicibilmente": [
+    "indescribably"
+  ],
+  "indicizzazione": [
+    "indexing"
+  ],
+  "indifendibile": [
+    "indefensible"
+  ],
+  "indifferente": [
+    "indifferent"
+  ],
+  "indifferentemente": [
+    "indifferently"
+  ],
+  "indifferenza": [
+    "indifference"
+  ],
+  "indigeno": [
+    "indigenous"
+  ],
+  "indigeribile": [
+    "indigestible"
+  ],
+  "indigestione": [
+    "indigestion"
+  ],
+  "indignazione": [
+    "indignation"
+  ],
+  "indio": [
+    "indian"
+  ],
+  "indipendente": [
+    "independent"
+  ],
+  "indipendentemente": [
+    "independently"
+  ],
+  "indipendentismo": [
+    "independentism"
+  ],
+  "indipendenza": [
+    "independence"
+  ],
+  "indirettamente": [
+    "indirectly"
+  ],
+  "indiretto": [
+    "indirect"
+  ],
+  "indiscernibile": [
+    "indiscernible"
+  ],
+  "indisciplina": [
+    "indiscipline"
+  ],
+  "indiscrezione": [
+    "indiscretion"
+  ],
+  "indiscriminatamente": [
+    "indiscriminately"
+  ],
+  "indiscutibile": [
+    "indisputable"
+  ],
+  "indiscutibilmente": [
+    "indisputably"
+  ],
+  "indispensabile": [
+    "indispensable"
+  ],
+  "indisposizione": [
+    "indisposition"
+  ],
+  "indistintamente": [
+    "indistinctly"
+  ],
+  "individuale": [
+    "individual"
+  ],
+  "individualismo": [
+    "individualism"
+  ],
+  "individualmente": [
+    "individually"
+  ],
+  "individuazione": [
+    "individualisation"
+  ],
+  "individuo": [
+    "individual"
+  ],
+  "indivisibile": [
+    "indivisible"
+  ],
+  "indonesia": [
+    "indonesia"
+  ],
+  "indonesiano": [
+    "indonesian"
+  ],
+  "indottrinazione": [
+    "indoctrination"
+  ],
+  "indubbiamente": [
+    "indubitably"
+  ],
+  "indulgente": [
+    "indulgent"
+  ],
+  "indulgenza": [
+    "indulgence"
+  ],
+  "indurain": [
+    "indurain"
+  ],
+  "indurre": [
+    "induce"
+  ],
+  "industria": [
+    "industry"
+  ],
+  "industriale": [
+    "industrial"
+  ],
+  "industrializzare": [
+    "industrialise"
+  ],
+  "industrializzazione": [
+    "industrialisation"
+  ],
+  "industrialmente": [
+    "industrially"
+  ],
+  "induttanza": [
+    "inductance"
+  ],
+  "induzione": [
+    "induction"
+  ],
+  "ineffetti": [
+    "infact"
+  ],
+  "inefficace": [
+    "ineffective"
+  ],
+  "inefficienza": [
+    "inefficiency"
+  ],
+  "ineleggibile": [
+    "ineligible"
+  ],
+  "inerente": [
+    "inherent"
+  ],
+  "inerzia": [
+    "inertia"
+  ],
+  "inesorabile": [
+    "inexorable"
+  ],
+  "inesorabilmente": [
+    "inexorably"
+  ],
+  "inettitudine": [
+    "ineptitude"
+  ],
+  "inevitabile": [
+    "inevitable"
+  ],
+  "inevitabilmente": [
+    "inevitably"
+  ],
+  "infame": [
+    "infamous"
+  ],
+  "infamia": [
+    "infamy"
+  ],
+  "infanticidio": [
+    "infanticide"
+  ],
+  "infanzia": [
+    "infancy"
+  ],
+  "infarto": [
+    "infarct"
+  ],
+  "inferenza": [
+    "inference"
+  ],
+  "inferiore": [
+    "inferior"
+  ],
+  "infermeria": [
+    "infirmary"
+  ],
+  "infernale": [
+    "infernal"
+  ],
+  "infettivo": [
+    "infectious",
+    "infective"
+  ],
+  "infezione": [
+    "infection"
+  ],
+  "infiammabile": [
+    "inflammable"
+  ],
+  "infiammazione": [
+    "inflammation"
+  ],
+  "infibulazione": [
+    "infibulation"
+  ],
+  "infilaindiana": [
+    "inindianfile"
+  ],
+  "infiltrare": [
+    "infiltrate"
+  ],
+  "infiltrazione": [
+    "infiltration"
+  ],
+  "infinitamente": [
+    "infinitely"
+  ],
+  "infinitesimale": [
+    "infinitesimal"
+  ],
+  "infinito": [
+    "infinite",
+    "infinitive",
+    "infinity"
+  ],
+  "infiorescenza": [
+    "inflorescence",
+    "infructescence"
+  ],
+  "inflazionare": [
+    "inflate"
+  ],
+  "inflazione": [
+    "inflation"
+  ],
+  "inflazionista": [
+    "inflationary",
+    "inflationist"
+  ],
+  "inflessione": [
+    "inflection"
+  ],
+  "influente": [
+    "influential"
+  ],
+  "influenza": [
+    "influence",
+    "influenza"
+  ],
+  "influenzare": [
+    "influence"
+  ],
+  "informale": [
+    "informal"
+  ],
+  "informalmente": [
+    "informally"
+  ],
+  "informare": [
+    "inform"
+  ],
+  "informativo": [
+    "informational",
+    "informative"
+  ],
+  "informazione": [
+    "information"
+  ],
+  "infraorbitale": [
+    "infraorbital"
+  ],
+  "infrarosso": [
+    "infrared"
+  ],
+  "infrastruttura": [
+    "infrastructure"
+  ],
+  "infrazione": [
+    "infringement"
+  ],
+  "infrequente": [
+    "infrequent"
+  ],
+  "infuso": [
+    "infusion"
+  ],
+  "ingenerale": [
+    "ingeneral",
+    "inthegenerality",
+    "inthemain"
+  ],
+  "ingerenza": [
+    "interference"
+  ],
+  "ingestione": [
+    "ingestion"
+  ],
+  "ingiurioso": [
+    "injurious"
+  ],
+  "ingiustizia": [
+    "inequity",
+    "injustice"
+  ],
+  "ingrediente": [
+    "ingredient"
+  ],
+  "inibire": [
+    "inhibit"
+  ],
+  "inibitorio": [
+    "inhibitory"
+  ],
+  "inibizione": [
+    "inhibition"
+  ],
+  "iniettare": [
+    "inject"
+  ],
+  "iniezione": [
+    "injection"
+  ],
+  "ininutile": [
+    "invain"
+  ],
+  "iniziale": [
+    "initial"
+  ],
+  "inizializzazione": [
+    "initialisation"
+  ],
+  "inizialmente": [
+    "initially"
+  ],
+  "iniziativa": [
+    "initiative"
+  ],
+  "iniziatore": [
+    "initiator"
+  ],
+  "iniziazione": [
+    "initiation"
+  ],
+  "inmaculada": [
+    "inmaculada"
+  ],
+  "inmanierachiara": [
+    "inaclearway"
+  ],
+  "inmodoche": [
+    "inorderthat"
+  ],
+  "innanzia": [
+    "infrontof"
+  ],
+  "innato": [
+    "innate"
+  ],
+  "innervazione": [
+    "innervation"
+  ],
+  "innessunmodo": [
+    "innoway"
+  ],
+  "innocente": [
+    "innocent"
+  ],
+  "innocentemente": [
+    "innocently"
+  ],
+  "innocenza": [
+    "innocence"
+  ],
+  "innocuo": [
+    "innocuous"
+  ],
+  "innovatore": [
+    "innovative"
+  ],
+  "innovazione": [
+    "innovation"
+  ],
+  "innumerevole": [
+    "innumerable"
+  ],
+  "inoculazione": [
+    "inoculation"
+  ],
+  "inondare": [
+    "inundate"
+  ],
+  "inondazione": [
+    "inundation"
+  ],
+  "inoperante": [
+    "inoperable"
+  ],
+  "inorganico": [
+    "inorganic"
+  ],
+  "inpace": [
+    "inpeace"
+  ],
+  "inprimoluogo": [
+    "inthefirstplace"
+  ],
+  "inquestione": [
+    "inquestion"
+  ],
+  "inquestocaso": [
+    "inthiscase"
+  ],
+  "inquestomodo": [
+    "inthisway"
+  ],
+  "inquisizione": [
+    "inquisition"
+  ],
+  "inscrivere": [
+    "inscribe"
+  ],
+  "inscrutabile": [
+    "inscrutable"
+  ],
+  "insegreto": [
+    "insecret"
+  ],
+  "inseminazione": [
+    "insemination"
+  ],
+  "insenatura": [
+    "inlet"
+  ],
+  "insensibile": [
+    "insensitive"
+  ],
+  "inseparabile": [
+    "inseparable"
+  ],
+  "inserimento": [
+    "insertion"
+  ],
+  "inserire": [
+    "insert"
+  ],
+  "inserzione": [
+    "insertion"
+  ],
+  "insetticida": [
+    "insecticide"
+  ],
+  "insettivoro": [
+    "insectivorous",
+    "insectivore"
+  ],
+  "insetto": [
+    "insect"
+  ],
+  "insicurezza": [
+    "insecurity"
+  ],
+  "insidioso": [
+    "insidious"
+  ],
+  "insignia": [
+    "insignia"
+  ],
+  "insignificante": [
+    "insignificant"
+  ],
+  "insinuare": [
+    "insinuate"
+  ],
+  "insinuazione": [
+    "insinuation"
+  ],
+  "insipido": [
+    "insipid"
+  ],
+  "insistente": [
+    "insistent"
+  ],
+  "insistenza": [
+    "insistence"
+  ],
+  "insistere": [
+    "insist"
+  ],
+  "insolazione": [
+    "insolation"
+  ],
+  "insolente": [
+    "insolent"
+  ],
+  "insolenza": [
+    "insolence"
+  ],
+  "insolubile": [
+    "insoluble"
+  ],
+  "insolvente": [
+    "insolvent"
+  ],
+  "insolvenza": [
+    "insolvency"
+  ],
+  "insonnia": [
+    "insomnia"
+  ],
+  "insostituibile": [
+    "irreplaceable"
+  ],
+  "inspiegabilmente": [
+    "inexplicably"
+  ],
+  "inspirare": [
+    "inspire"
+  ],
+  "inspirazione": [
+    "inspiration"
+  ],
+  "installare": [
+    "install"
+  ],
+  "installazione": [
+    "installation"
+  ],
+  "instaurazione": [
+    "instauration"
+  ],
+  "insubordinazione": [
+    "insubordination"
+  ],
+  "insufficiente": [
+    "insufficient"
+  ],
+  "insufficientemente": [
+    "insufficiently"
+  ],
+  "insufficienza": [
+    "insufficiency"
+  ],
+  "insulare": [
+    "insular"
+  ],
+  "insulina": [
+    "insulin"
+  ],
+  "insultare": [
+    "insult"
+  ],
+  "insulto": [
+    "insult"
+  ],
+  "insuperabile": [
+    "insuperable"
+  ],
+  "insurrezione": [
+    "insurrection"
+  ],
+  "intangibile": [
+    "intangible"
+  ],
+  "intatto": [
+    "intact"
+  ],
+  "integrabile": [
+    "integrable"
+  ],
+  "integrale": [
+    "integral"
+  ],
+  "integralmente": [
+    "integrally"
+  ],
+  "integrante": [
+    "integral"
+  ],
+  "integrare": [
+    "integrate"
+  ],
+  "integrazione": [
+    "integration"
+  ],
+  "intelletto": [
+    "intellect"
+  ],
+  "intellettuale": [
+    "intellectual"
+  ],
+  "intellettualismo": [
+    "intellectualism"
+  ],
+  "intellettualmente": [
+    "intellectually"
+  ],
+  "intelligente": [
+    "intelligent"
+  ],
+  "intelligentemente": [
+    "intelligently"
+  ],
+  "intelligenza": [
+    "intelligence"
+  ],
+  "intelligibile": [
+    "intelligible"
+  ],
+  "intendente": [
+    "intendant"
+  ],
+  "intensamente": [
+    "intensely"
+  ],
+  "intensificare": [
+    "intensify"
+  ],
+  "intensificazione": [
+    "intensification"
+  ],
+  "intensivamente": [
+    "intensively"
+  ],
+  "intensivo": [
+    "intensive"
+  ],
+  "intenso": [
+    "intense"
+  ],
+  "intenzionalmente": [
+    "intentionally"
+  ],
+  "intenzionato": [
+    "intentional"
+  ],
+  "intenzione": [
+    "intention"
+  ],
+  "interannuale": [
+    "interannual"
+  ],
+  "interattivo": [
+    "interactive"
+  ],
+  "interazione": [
+    "interaction"
+  ],
+  "intercalazione": [
+    "intercalation"
+  ],
+  "intercambiabile": [
+    "interchangeable"
+  ],
+  "intercettare": [
+    "intercept"
+  ],
+  "intercettazione": [
+    "interception"
+  ],
+  "intercomarcale": [
+    "interregional"
+  ],
+  "intercomunicazione": [
+    "intercommunication"
+  ],
+  "interconnessione": [
+    "interconnection"
+  ],
+  "intercontinentale": [
+    "intercontinental"
+  ],
+  "interculturale": [
+    "intercultural"
+  ],
+  "interdetto": [
+    "interdict"
+  ],
+  "interdipendente": [
+    "interdependent"
+  ],
+  "interdizione": [
+    "interdiction"
+  ],
+  "interessante": [
+    "interesting"
+  ],
+  "interessare": [
+    "interest"
+  ],
+  "interesse": [
+    "interest"
+  ],
+  "interfaccia": [
+    "interface"
+  ],
+  "interferenza": [
+    "interference"
+  ],
+  "interferire": [
+    "interfere"
+  ],
+  "intergovernativo": [
+    "intergovernmental"
+  ],
+  "interiezione": [
+    "interjection"
+  ],
+  "interino": [
+    "interim"
+  ],
+  "interiore": [
+    "inside",
+    "interior"
+  ],
+  "interiorizzare": [
+    "internalise"
+  ],
+  "interiormente": [
+    "inwardly"
+  ],
+  "interlingua": [
+    "interlingua"
+  ],
+  "intermediario": [
+    "intermediate",
+    "intermediary"
+  ],
+  "intermediazione": [
+    "intermediation"
+  ],
+  "intermedio": [
+    "intermediate",
+    "interval"
+  ],
+  "interminabile": [
+    "interminable"
+  ],
+  "intermittente": [
+    "intermittent"
+  ],
+  "intermolecolare": [
+    "intermolecular"
+  ],
+  "internamente": [
+    "internally"
+  ],
+  "internamento": [
+    "internment"
+  ],
+  "internauta": [
+    "internaut"
+  ],
+  "internazionale": [
+    "international"
+  ],
+  "internazionalizzazione": [
+    "internationalisation"
+  ],
+  "internazionalmente": [
+    "internationally"
+  ],
+  "internet": [
+    "internet"
+  ],
+  "interno": [
+    "indoor",
+    "inner",
+    "internal"
+  ],
+  "intero": [
+    "integer"
+  ],
+  "interpellanza": [
+    "interpellation"
+  ],
+  "interpersonale": [
+    "interpersonal"
+  ],
+  "interpolazione": [
+    "interpolation"
+  ],
+  "interporre": [
+    "interpose"
+  ],
+  "interposizione": [
+    "interposition"
+  ],
+  "interpretabile": [
+    "interpretable"
+  ],
+  "interpretare": [
+    "interpret"
+  ],
+  "interpretativo": [
+    "interpretative"
+  ],
+  "interpretazione": [
+    "interpretation"
+  ],
+  "interprete": [
+    "interpreter"
+  ],
+  "interprofessionale": [
+    "interprofessional"
+  ],
+  "interregionale": [
+    "interregional"
+  ],
+  "interregno": [
+    "interregnum"
+  ],
+  "interrelazione": [
+    "interrelationship",
+    "interrelation"
+  ],
+  "interrogare": [
+    "interview",
+    "interrogate"
+  ],
+  "interrogativo": [
+    "interrogative"
+  ],
+  "interrogatorio": [
+    "interrogation"
+  ],
+  "interrompere": [
+    "interrupt"
+  ],
+  "interruzione": [
+    "interruption"
+  ],
+  "intersezione": [
+    "intersection"
+  ],
+  "intervallo": [
+    "intermission",
+    "interval"
+  ],
+  "intervenire": [
+    "intervene"
+  ],
+  "intervento": [
+    "intervention"
+  ],
+  "intervista": [
+    "interview"
+  ],
+  "intervistare": [
+    "interview"
+  ],
+  "intessere": [
+    "interweave"
+  ],
+  "intestato": [
+    "intestate"
+  ],
+  "intestinale": [
+    "intestinal"
+  ],
+  "intestino": [
+    "intestine"
+  ],
+  "intimamente": [
+    "intimately"
+  ],
+  "intimidazione": [
+    "intimidation"
+  ],
+  "intimidire": [
+    "intimidate"
+  ],
+  "intimo": [
+    "intimate"
+  ],
+  "intollerabile": [
+    "intolerable"
+  ],
+  "intolleranza": [
+    "intolerance"
+  ],
+  "intonazione": [
+    "intonation"
+  ],
+  "intossicare": [
+    "intoxicate"
+  ],
+  "intossicazione": [
+    "intoxication"
+  ],
+  "intracellulare": [
+    "intracellular"
+  ],
+  "intransigenza": [
+    "intransigence"
+  ],
+  "intraoculare": [
+    "intraocular"
+  ],
+  "intrattabile": [
+    "intractable"
+  ],
+  "intricato": [
+    "intricate"
+  ],
+  "intrigante": [
+    "intriguing"
+  ],
+  "intrigo": [
+    "intrigue"
+  ],
+  "intrinsecamente": [
+    "intrinsically"
+  ],
+  "intrinseco": [
+    "intrinsic"
+  ],
+  "introdurre": [
+    "introduce"
+  ],
+  "introduttore": [
+    "introductory"
+  ],
+  "introduzione": [
+    "introduction"
+  ],
+  "introspettivo": [
+    "introspective"
+  ],
+  "introspezione": [
+    "introspection"
+  ],
+  "introversione": [
+    "introversion"
+  ],
+  "intrusione": [
+    "intrusion"
+  ],
+  "intruso": [
+    "intrusive",
+    "interloper",
+    "intruder"
+  ],
+  "intubazione": [
+    "intubation"
+  ],
+  "intuitivamente": [
+    "intuitively"
+  ],
+  "intuitivo": [
+    "intuitive"
+  ],
+  "intuizione": [
+    "intuition"
+  ],
+  "intuttiimodi": [
+    "inallways"
+  ],
+  "inulina": [
+    "inulin"
+  ],
+  "inultimoluogo": [
+    "inlastplace"
+  ],
+  "inumano": [
+    "inhuman"
+  ],
+  "inumare": [
+    "inhume",
+    "inter"
+  ],
+  "inumazione": [
+    "inhumation"
+  ],
+  "inunbatterd'occhio": [
+    "inthetwinklingofaneye"
+  ],
+  "invadere": [
+    "invade"
+  ],
+  "invaginazione": [
+    "invagination"
+  ],
+  "invalidare": [
+    "invalidate"
+  ],
+  "invalutabile": [
+    "invaluable"
+  ],
+  "invano": [
+    "invain"
+  ],
+  "invariabile": [
+    "invariable",
+    "invariant"
+  ],
+  "invariabilmente": [
+    "invariably"
+  ],
+  "invarianza": [
+    "invariance"
+  ],
+  "invasione": [
+    "invasion"
+  ],
+  "inventare": [
+    "invent"
+  ],
+  "inventariare": [
+    "inventory"
+  ],
+  "inventario": [
+    "inventory"
+  ],
+  "inventiva": [
+    "inventiveness"
+  ],
+  "inventivo": [
+    "inventive"
+  ],
+  "inventore": [
+    "inventor"
+  ],
+  "invenzione": [
+    "invention"
+  ],
+  "inversamente": [
+    "inversely"
+  ],
+  "invertibile": [
+    "invertible"
+  ],
+  "investigare": [
+    "investigate"
+  ],
+  "investigatore": [
+    "investigator"
+  ],
+  "investigazione": [
+    "investigation"
+  ],
+  "investimento": [
+    "investment"
+  ],
+  "investire": [
+    "invest"
+  ],
+  "investitura": [
+    "investiture"
+  ],
+  "invincibile": [
+    "invincible"
+  ],
+  "inviolabile": [
+    "inviolable"
+  ],
+  "invisibile": [
+    "invisible"
+  ],
+  "invitare": [
+    "invite"
+  ],
+  "invitato": [
+    "invited"
+  ],
+  "invito": [
+    "invitation"
+  ],
+  "invocare": [
+    "invoke"
+  ],
+  "invocazione": [
+    "invocation"
+  ],
+  "involuzione": [
+    "involution"
+  ],
+  "iodato": [
+    "iodized"
+  ],
+  "iodio": [
+    "iodine"
+  ],
+  "ioduro": [
+    "iodide"
+  ],
+  "ione": [
+    "ion"
+  ],
+  "ionico": [
+    "ionic"
+  ],
+  "ionizzazione": [
+    "ionisation"
+  ],
+  "ionosfera": [
+    "ionosphere"
+  ],
+  "iowa": [
+    "iowa"
+  ],
+  "ip": [
+    "ip"
+  ],
+  "ira": [
+    "ire"
+  ],
+  "iracheno": [
+    "iraqi"
+  ],
+  "iran": [
+    "iran"
+  ],
+  "iraniano": [
+    "iranian"
+  ],
+  "iraq": [
+    "iraq"
+  ],
+  "irascibile": [
+    "irascible"
+  ],
+  "irene": [
+    "irene"
+  ],
+  "iride": [
+    "iris"
+  ],
+  "iridescente": [
+    "iridescent"
+  ],
+  "iridescenza": [
+    "iridescence"
+  ],
+  "iridio": [
+    "iridium"
+  ],
+  "iridotomia": [
+    "iridotomy"
+  ],
+  "iris": [
+    "iris"
+  ],
+  "irlanda": [
+    "ireland"
+  ],
+  "irlandese": [
+    "irish"
+  ],
+  "ironia": [
+    "irony"
+  ],
+  "ironicamente": [
+    "ironically"
+  ],
+  "ironico": [
+    "ironic"
+  ],
+  "irons": [
+    "irons"
+  ],
+  "irradiazione": [
+    "irradiation"
+  ],
+  "irrazionale": [
+    "irrational"
+  ],
+  "irrazionalista": [
+    "irrationalist"
+  ],
+  "irrecuperabile": [
+    "irretrievable"
+  ],
+  "irregolare": [
+    "irregular"
+  ],
+  "irreparabile": [
+    "irreparable"
+  ],
+  "irresponsabile": [
+    "irresponsible"
+  ],
+  "irresponsabilmente": [
+    "irresponsibly"
+  ],
+  "irreversibile": [
+    "irreversible"
+  ],
+  "irrevocabile": [
+    "irrevocable"
+  ],
+  "irrifiutabile": [
+    "irrefutable"
+  ],
+  "irrigare": [
+    "irrigate"
+  ],
+  "irrigazione": [
+    "irrigation"
+  ],
+  "irrilevante": [
+    "irrelevant"
+  ],
+  "irrimediabile": [
+    "irremediable"
+  ],
+  "irrimediabilmente": [
+    "irremediably"
+  ],
+  "irritante": [
+    "irritating"
+  ],
+  "irritare": [
+    "irritate"
+  ],
+  "irritazione": [
+    "irritation"
+  ],
+  "irriverente": [
+    "irreverent"
+  ],
+  "irrotazionale": [
+    "irrotational"
+  ],
+  "irruzione": [
+    "irruption"
+  ],
+  "irun": [
+    "irun"
+  ],
+  "isabel": [
+    "isabel"
+  ],
+  "isabella": [
+    "isabella"
+  ],
+  "isabelladicastiglia": [
+    "isabellaofcastile"
+  ],
+  "isabellaidicastiglia": [
+    "isabellaiofcastile"
+  ],
+  "isabellalacattolica": [
+    "isabellathecatholic"
+  ],
+  "islamabad": [
+    "islamabad"
+  ],
+  "islamico": [
+    "islamic"
+  ],
+  "islamista": [
+    "islamist"
+  ],
+  "islanda": [
+    "iceland"
+  ],
+  "islandese": [
+    "icelandic"
+  ],
+  "isobara": [
+    "isobar"
+  ],
+  "isobarico": [
+    "isobaric"
+  ],
+  "isocrate": [
+    "isocrates"
+  ],
+  "isocronico": [
+    "isochronic"
+  ],
+  "isogamia": [
+    "isogamy"
+  ],
+  "isola": [
+    "island"
+  ],
+  "isoladiman": [
+    "isleofman"
+  ],
+  "isolamarchena": [
+    "islamarchena"
+  ],
+  "isolamento": [
+    "isolation"
+  ],
+  "isolante": [
+    "insulating",
+    "insulator"
+  ],
+  "isolare": [
+    "isolate"
+  ],
+  "isolato": [
+    "isolated"
+  ],
+  "isolazionismo": [
+    "isolationism"
+  ],
+  "isolazionista": [
+    "isolationist"
+  ],
+  "isoleionie": [
+    "ionianislands"
+  ],
+  "isomeria": [
+    "isomery"
+  ],
+  "isomero": [
+    "isomer"
+  ],
+  "isometria": [
+    "isometry"
+  ],
+  "isometrico": [
+    "isometric"
+  ],
+  "isomorfico": [
+    "isomorphic"
+  ],
+  "isomorfismo": [
+    "isomorphism"
+  ],
+  "isostasia": [
+    "isostasy"
+  ],
+  "isoterma": [
+    "isotherm"
+  ],
+  "isotermo": [
+    "isothermal"
+  ],
+  "isotopico": [
+    "isotopic"
+  ],
+  "isotopo": [
+    "isotope"
+  ],
+  "isotropia": [
+    "isotropy"
+  ],
+  "isotropo": [
+    "isotropic"
+  ],
+  "ispettore": [
+    "inspector"
+  ],
+  "ispezionare": [
+    "inspect"
+  ],
+  "ispezione": [
+    "inspection"
+  ],
+  "ispirazione": [
+    "inspiration"
+  ],
+  "israel": [
+    "israel"
+  ],
+  "israele": [
+    "israel",
+    "israele"
+  ],
+  "israeliano": [
+    "israeli"
+  ],
+  "istanbul": [
+    "istanbul"
+  ],
+  "istantaneamente": [
+    "instantaneously",
+    "instantly"
+  ],
+  "istantaneo": [
+    "instantaneous"
+  ],
+  "istante": [
+    "instant"
+  ],
+  "istanza": [
+    "instance"
+  ],
+  "istigazione": [
+    "instigation"
+  ],
+  "istinto": [
+    "instinct"
+  ],
+  "istituto": [
+    "institute",
+    "institution"
+  ],
+  "istituzionale": [
+    "institutional"
+  ],
+  "istituzionalizzare": [
+    "institutionalise"
+  ],
+  "istituzionalizzazione": [
+    "institutionalisation"
+  ],
+  "istituzione": [
+    "institution"
+  ],
+  "istmo": [
+    "isthmus"
+  ],
+  "istruire": [
+    "instruct"
+  ],
+  "istruzione": [
+    "instruction"
+  ],
+  "italia": [
+    "italia",
+    "italy"
+  ],
+  "italianizzazione": [
+    "italianisation"
+  ],
+  "italiano": [
+    "italian"
+  ],
+  "iterazione": [
+    "iteration"
+  ],
+  "itinerante": [
+    "itinerant"
+  ],
+  "ittiologia": [
+    "ichthyology"
+  ],
+  "iv": [
+    "iv"
+  ],
+  "ivanov": [
+    "ivanov"
+  ],
+  "ix": [
+    "ix"
+  ],
+  "lesione": [
+    "injury"
+  ],
+  "lingotto": [
+    "ingot"
+  ],
+  "malato": [
+    "ill"
+  ],
+  "malattia": [
+    "illness"
+  ],
+  "maledizione": [
+    "imprecation"
+  ],
+  "mesone": [
+    "inn"
+  ],
+  "miglioramento": [
+    "improvement"
+  ],
+  "migliorare": [
+    "improve"
+  ],
+  "mirabilmente": [
+    "impressively"
+  ],
+  "nelfioredellavita": [
+    "intheprimeoflife"
+  ],
+  "nelfrattempo": [
+    "intheinterim",
+    "inthemeantime",
+    "inthemeanwhile"
+  ],
+  "nellostessoperiodo": [
+    "inthesameperiod"
+  ],
+  "nonostante": [
+    "inspiteof"
+  ],
+  "nullo": [
+    "invalid"
+  ],
+  "oltre": [
+    "inadditionto"
+  ],
+  "oltretutto": [
+    "inaddition",
+    "intothebargain"
+  ],
+  "per": [
+    "inorderto"
+  ],
+  "peraltri": [
+    "inspiteof"
+  ],
+  "piccozza": [
+    "iceaxe"
+  ],
+  "pollice": [
+    "inch"
+  ],
+  "pretendere": [
+    "intend"
+  ],
+  "prpers": [
+    "itself"
+  ],
+  "prurito": [
+    "itch",
+    "itching"
+  ],
+  "pubblicare": [
+    "issue"
+  ],
+  "reclusione": [
+    "imprisonment"
+  ],
+  "reddito": [
+    "income"
+  ],
+  "sacca": [
+    "inlet"
+  ],
+  "sconsiderato": [
+    "inconsiderate"
+  ],
+  "scorrettamente": [
+    "incorrectly"
+  ],
+  "se": [
+    "if"
+  ],
+  "senzagiri": [
+    "innouncertainterms"
+  ],
+  "senzapelisullalingua": [
+    "innouncertainterms"
+  ],
+  "seriamente": [
+    "inearnest"
+  ],
+  "sinceramente": [
+    "inallconscience",
+    "infairness"
+  ],
+  "sinistrato": [
+    "injured"
+  ],
+  "smisurato": [
+    "immoderate"
+  ],
+  "soletta": [
+    "insole"
+  ],
+  "somaro": [
+    "idiot"
+  ],
+  "spunto": [
+    "inspiration"
+  ],
+  "stirare": [
+    "iron"
+  ],
+  "strumentale": [
+    "instrumental"
+  ],
+  "strumentalizzazione": [
+    "instrumentalisation"
+  ],
+  "strumentare": [
+    "instrument"
+  ],
+  "strumentazione": [
+    "instrumentation"
+  ],
+  "strumentista": [
+    "instrumentalist"
+  ],
+  "strumento": [
+    "instrument"
+  ],
+  "sugrandescala": [
+    "inabigway"
+  ],
+  "tuttavia": [
+    "instead"
+  ],
+  "ulteriormente": [
+    "incidentally"
+  ],
+  "unghiaincarnita": [
+    "ingrowntoenail"
+  ],
+  "virusdell'influenza": [
+    "influenzavirus"
+  ],
+  "volutamente": [
+    "intentionally"
+  ]
+}

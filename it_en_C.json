@@ -1,0 +1,4980 @@
+{
+  "abbigliamento": [
+    "clothing"
+  ],
+  "abitudine": [
+    "custom"
+  ],
+  "accampamento": [
+    "camp"
+  ],
+  "accampare": [
+    "camp"
+  ],
+  "acclamare": [
+    "cheer"
+  ],
+  "accordare": [
+    "concede"
+  ],
+  "accordo": [
+    "chord"
+  ],
+  "accreditare": [
+    "credit"
+  ],
+  "accumulabile": [
+    "cumulative"
+  ],
+  "acquazzone": [
+    "cloudburst"
+  ],
+  "affascinare": [
+    "captivate"
+  ],
+  "affermare": [
+    "claim"
+  ],
+  "afferrare": [
+    "catch"
+  ],
+  "affrontare": [
+    "confront"
+  ],
+  "agrume": [
+    "citrus"
+  ],
+  "alberoagomiti": [
+    "crankshaft"
+  ],
+  "allegramente": [
+    "cheerfully"
+  ],
+  "allegre": [
+    "cheerful"
+  ],
+  "allenatore": [
+    "coach"
+  ],
+  "allumedirocca": [
+    "crystallinealum"
+  ],
+  "amano": [
+    "closeathand"
+  ],
+  "amento": [
+    "catkin"
+  ],
+  "americacentrale": [
+    "centralamerica"
+  ],
+  "ammassare": [
+    "crowd"
+  ],
+  "amuleto": [
+    "charm"
+  ],
+  "angolo": [
+    "corner"
+  ],
+  "annullamento": [
+    "cancellation"
+  ],
+  "annullare": [
+    "cancel"
+  ],
+  "annuncio": [
+    "commercial"
+  ],
+  "appalto": [
+    "contract"
+  ],
+  "applauso": [
+    "clap"
+  ],
+  "argilla": [
+    "clay"
+  ],
+  "armachimica": [
+    "chemicalweapon"
+  ],
+  "armadio": [
+    "cabinet",
+    "closet",
+    "cupboard"
+  ],
+  "arrampicata": [
+    "climbing"
+  ],
+  "arrocco": [
+    "castling"
+  ],
+  "arruolare": [
+    "crimp"
+  ],
+  "artigianale": [
+    "crafted"
+  ],
+  "artigianato": [
+    "craft"
+  ],
+  "ascendere": [
+    "climb"
+  ],
+  "assegno": [
+    "cheque"
+  ],
+  "assistenziale": [
+    "charitable"
+  ],
+  "astuto": [
+    "cunning"
+  ],
+  "attestato": [
+    "certificate"
+  ],
+  "attraversamento": [
+    "crossing"
+  ],
+  "attraversare": [
+    "cross"
+  ],
+  "attuale": [
+    "current"
+  ],
+  "attualmente": [
+    "currently"
+  ],
+  "aula": [
+    "classroom"
+  ],
+  "autista": [
+    "chauffeur"
+  ],
+  "auto": [
+    "car"
+  ],
+  "autoveicolo": [
+    "car"
+  ],
+  "autovettura": [
+    "car"
+  ],
+  "avviamento": [
+    "creation"
+  ],
+  "avvicinarsi": [
+    "comeclose"
+  ],
+  "azienda": [
+    "company"
+  ],
+  "badante": [
+    "carer"
+  ],
+  "balestra": [
+    "crossbow"
+  ],
+  "bambino": [
+    "child"
+  ],
+  "bancone": [
+    "counter"
+  ],
+  "bara": [
+    "coffin"
+  ],
+  "bastone": [
+    "clave"
+  ],
+  "berretto": [
+    "cap"
+  ],
+  "bestiame": [
+    "cattle"
+  ],
+  "bietola": [
+    "chard"
+  ],
+  "biscotto": [
+    "cookie"
+  ],
+  "blatta": [
+    "cockroach"
+  ],
+  "bobina": [
+    "coil"
+  ],
+  "bozzolo": [
+    "cocoon"
+  ],
+  "buono": [
+    "coupon"
+  ],
+  "bussola": [
+    "compass"
+  ],
+  "cabrera": [
+    "cabrera"
+  ],
+  "cabriolet": [
+    "cabriolet"
+  ],
+  "cachemire": [
+    "cashmere"
+  ],
+  "cachessia": [
+    "cachexia"
+  ],
+  "cacicchismo": [
+    "caciquism"
+  ],
+  "cacicco": [
+    "cacique"
+  ],
+  "cacofonia": [
+    "cacophony"
+  ],
+  "cacofonico": [
+    "cacophonic"
+  ],
+  "cactus": [
+    "cactus"
+  ],
+  "cadenza": [
+    "cadence"
+  ],
+  "cadetto": [
+    "cadet"
+  ],
+  "cadmio": [
+    "cadmium"
+  ],
+  "caduco": [
+    "caducous"
+  ],
+  "cafe": [
+    "cafe"
+  ],
+  "caffeina": [
+    "caffeine"
+  ],
+  "cagare": [
+    "crap"
+  ],
+  "cagliata": [
+    "curd"
+  ],
+  "calatayud": [
+    "calatayud"
+  ],
+  "calcagno": [
+    "calcaneum"
+  ],
+  "calcestruzzo": [
+    "concrete"
+  ],
+  "calcico": [
+    "calcic"
+  ],
+  "calcificazione": [
+    "calcification"
+  ],
+  "calcinazione": [
+    "calcination"
+  ],
+  "calcio": [
+    "calcium"
+  ],
+  "calcite": [
+    "calcite"
+  ],
+  "calco": [
+    "calque"
+  ],
+  "calcografia": [
+    "chalcography"
+  ],
+  "calcolabile": [
+    "calculable"
+  ],
+  "calcolatore": [
+    "calculator"
+  ],
+  "calcolo": [
+    "calculation"
+  ],
+  "calendario": [
+    "calendar"
+  ],
+  "calesse": [
+    "chaise"
+  ],
+  "calibrare": [
+    "calibrate"
+  ],
+  "calibrazione": [
+    "calibration"
+  ],
+  "calibro": [
+    "calibre"
+  ],
+  "califfo": [
+    "caliph"
+  ],
+  "california": [
+    "california"
+  ],
+  "californiano": [
+    "californian"
+  ],
+  "californio": [
+    "californium"
+  ],
+  "calligrafia": [
+    "calligraphy"
+  ],
+  "callo": [
+    "corn"
+  ],
+  "calma": [
+    "calm"
+  ],
+  "calmare": [
+    "calm"
+  ],
+  "calmo": [
+    "calm"
+  ],
+  "calonge": [
+    "calonge"
+  ],
+  "caloria": [
+    "calorie"
+  ],
+  "calorimetria": [
+    "calorimetry"
+  ],
+  "calorimetro": [
+    "calorimeter"
+  ],
+  "calotta": [
+    "cap"
+  ],
+  "calpe": [
+    "calpe"
+  ],
+  "camaleonte": [
+    "chameleon"
+  ],
+  "camarilla": [
+    "camarilla"
+  ],
+  "cambiabile": [
+    "changeable"
+  ],
+  "cambiamento": [
+    "change"
+  ],
+  "cambiare": [
+    "change",
+    "capsize"
+  ],
+  "cambio": [
+    "change"
+  ],
+  "cambogia": [
+    "cambodia"
+  ],
+  "camembert": [
+    "camembert"
+  ],
+  "camera": [
+    "camera",
+    "chamber"
+  ],
+  "cameraman": [
+    "cameraman"
+  ],
+  "camerata": [
+    "comrade"
+  ],
+  "camerun": [
+    "cameroon"
+  ],
+  "camerunese": [
+    "cameroonian"
+  ],
+  "cammello": [
+    "camel"
+  ],
+  "camomilla": [
+    "camomile"
+  ],
+  "campagna": [
+    "campaign"
+  ],
+  "campbell": [
+    "campbell"
+  ],
+  "camper": [
+    "camper"
+  ],
+  "camping": [
+    "camping"
+  ],
+  "campionato": [
+    "championship"
+  ],
+  "campione": [
+    "champion"
+  ],
+  "campo": [
+    "countryside"
+  ],
+  "campus": [
+    "campus"
+  ],
+  "camuffamento": [
+    "camouflage"
+  ],
+  "canada": [
+    "canada"
+  ],
+  "canadese": [
+    "canadian"
+  ],
+  "canale": [
+    "channel"
+  ],
+  "canalizzazione": [
+    "canalisation"
+  ],
+  "canarie": [
+    "canaries",
+    "canaryislands"
+  ],
+  "canarino": [
+    "canarian"
+  ],
+  "canario": [
+    "canarian"
+  ],
+  "canberra": [
+    "canberra"
+  ],
+  "cancellazione": [
+    "cancellation"
+  ],
+  "cancelleria": [
+    "chancellery"
+  ],
+  "cancelliere": [
+    "chancellor"
+  ],
+  "cancro": [
+    "cancer"
+  ],
+  "candela": [
+    "candela",
+    "candle"
+  ],
+  "candidato": [
+    "candidate"
+  ],
+  "candidatoallapresidenza": [
+    "candidateforthepresidency"
+  ],
+  "candidatura": [
+    "candidature"
+  ],
+  "candido": [
+    "candid"
+  ],
+  "canfora": [
+    "camphor"
+  ],
+  "canfranc": [
+    "canfranc"
+  ],
+  "canino": [
+    "canine"
+  ],
+  "canna": [
+    "cane"
+  ],
+  "cannabis": [
+    "cannabis"
+  ],
+  "cannella": [
+    "cinnamon"
+  ],
+  "cannibale": [
+    "cannibal"
+  ],
+  "cannibalismo": [
+    "cannibalism"
+  ],
+  "cannone": [
+    "cannon"
+  ],
+  "cano": [
+    "cano"
+  ],
+  "canoismo": [
+    "canoeing"
+  ],
+  "canoista": [
+    "canoeist"
+  ],
+  "canone": [
+    "canon"
+  ],
+  "canonico": [
+    "canonical"
+  ],
+  "canonizzazione": [
+    "canonisation"
+  ],
+  "cantabria": [
+    "cantabria"
+  ],
+  "cantata": [
+    "cantata"
+  ],
+  "cantina": [
+    "cellar"
+  ],
+  "cantonale": [
+    "cantonal"
+  ],
+  "caos": [
+    "chaos"
+  ],
+  "caotico": [
+    "chaotic"
+  ],
+  "capace": [
+    "capable"
+  ],
+  "capanna": [
+    "cabin"
+  ],
+  "capiente": [
+    "capacious"
+  ],
+  "capienza": [
+    "capacity"
+  ],
+  "capillare": [
+    "capillary"
+  ],
+  "capitale": [
+    "capital"
+  ],
+  "capitalismo": [
+    "capitalism"
+  ],
+  "capitalista": [
+    "capitalist"
+  ],
+  "capitalizzare": [
+    "capitalise"
+  ],
+  "capitalizzazione": [
+    "capitalisation"
+  ],
+  "capitano": [
+    "captain"
+  ],
+  "capitaria": [
+    "capitation"
+  ],
+  "capitolare": [
+    "capitulate"
+  ],
+  "capitolazione": [
+    "capitulation"
+  ],
+  "capitolo": [
+    "chapter"
+  ],
+  "capo": [
+    "cape",
+    "chief"
+  ],
+  "cappella": [
+    "chapel"
+  ],
+  "cappellano": [
+    "chaplain"
+  ],
+  "cappuccino": [
+    "cappuccino"
+  ],
+  "capside": [
+    "capsid"
+  ],
+  "capsomero": [
+    "capsomer"
+  ],
+  "capsula": [
+    "capsule"
+  ],
+  "captazione": [
+    "catchment"
+  ],
+  "caracas": [
+    "caracas"
+  ],
+  "caraffa": [
+    "carafe"
+  ],
+  "caraibi": [
+    "carribean"
+  ],
+  "carambola": [
+    "carambola"
+  ],
+  "caramella": [
+    "candy"
+  ],
+  "carato": [
+    "carat"
+  ],
+  "carattere": [
+    "character"
+  ],
+  "caratteristica": [
+    "characteristic"
+  ],
+  "caratteristico": [
+    "characteristic"
+  ],
+  "caratterizzare": [
+    "characterise"
+  ],
+  "caratterizzazione": [
+    "characterisation"
+  ],
+  "carballo": [
+    "carballo"
+  ],
+  "carboidrato": [
+    "carbohydrate"
+  ],
+  "carbonatazione": [
+    "carbonatation"
+  ],
+  "carbonato": [
+    "carbonate"
+  ],
+  "carbonchio": [
+    "carbuncle"
+  ],
+  "carbone": [
+    "coal"
+  ],
+  "carbonio": [
+    "carbon"
+  ],
+  "carbossilico": [
+    "carboxylic"
+  ],
+  "carburatore": [
+    "carburettor"
+  ],
+  "carburazione": [
+    "carburation"
+  ],
+  "carburo": [
+    "carbide"
+  ],
+  "carcassa": [
+    "corpse"
+  ],
+  "carcinoma": [
+    "carcinoma"
+  ],
+  "cardiaco": [
+    "cardiac"
+  ],
+  "cardinale": [
+    "cardinal"
+  ],
+  "cardioide": [
+    "cardioid"
+  ],
+  "cardiologo": [
+    "cardiologist"
+  ],
+  "cardiopatia": [
+    "cardiopathy"
+  ],
+  "cardiovascolare": [
+    "cardiovascular"
+  ],
+  "carica": [
+    "charge"
+  ],
+  "caricatura": [
+    "caricature"
+  ],
+  "caricaturare": [
+    "caricature"
+  ],
+  "caricaturista": [
+    "caricaturist"
+  ],
+  "carico": [
+    "charge"
+  ],
+  "carisma": [
+    "charisma"
+  ],
+  "carismatico": [
+    "charismatic"
+  ],
+  "carlo": [
+    "carlo"
+  ],
+  "carlomagno": [
+    "charlemagne"
+  ],
+  "carlos": [
+    "carlos"
+  ],
+  "carme": [
+    "carme"
+  ],
+  "carmen": [
+    "carmen"
+  ],
+  "carminio": [
+    "carmine"
+  ],
+  "carmona": [
+    "carmona"
+  ],
+  "carnale": [
+    "carnal"
+  ],
+  "carnallite": [
+    "carnallite"
+  ],
+  "carnevale": [
+    "carnival"
+  ],
+  "carnivoro": [
+    "carnivorous",
+    "carnivore"
+  ],
+  "carod-rovira": [
+    "carod-rovira"
+  ],
+  "carogna": [
+    "carrion"
+  ],
+  "carolina": [
+    "carolina"
+  ],
+  "carota": [
+    "carrot"
+  ],
+  "carovana": [
+    "caravan"
+  ],
+  "carpa": [
+    "carp"
+  ],
+  "carpello": [
+    "carpel"
+  ],
+  "carpenteria": [
+    "carpentry"
+  ],
+  "carpentiere": [
+    "carpenter"
+  ],
+  "carpo": [
+    "carpus"
+  ],
+  "carreggiata": [
+    "carriageway"
+  ],
+  "carriera": [
+    "career"
+  ],
+  "carrillo": [
+    "carrillo"
+  ],
+  "carro": [
+    "cart"
+  ],
+  "carrozza": [
+    "carriage"
+  ],
+  "carrozzone": [
+    "caravan"
+  ],
+  "carta": [
+    "card"
+  ],
+  "cartagena": [
+    "cartagena"
+  ],
+  "cartagine": [
+    "carthage"
+  ],
+  "cartello": [
+    "cartel"
+  ],
+  "cartilagine": [
+    "cartilage"
+  ],
+  "cartografia": [
+    "cartography"
+  ],
+  "cartografico": [
+    "cartographic"
+  ],
+  "cartone": [
+    "cardboard"
+  ],
+  "cartuccia": [
+    "cartridge"
+  ],
+  "casanova": [
+    "casanova"
+  ],
+  "casaresquiroga": [
+    "casaresquiroga"
+  ],
+  "cascare": [
+    "crack"
+  ],
+  "caseina": [
+    "casein"
+  ],
+  "casino": [
+    "casino"
+  ],
+  "casinos": [
+    "casinos"
+  ],
+  "caso": [
+    "case",
+    "chance",
+    "confirmation"
+  ],
+  "caspe": [
+    "caspe"
+  ],
+  "cassazione": [
+    "cassation"
+  ],
+  "cassiere": [
+    "cashier"
+  ],
+  "cassiterite": [
+    "cassiterite"
+  ],
+  "casta": [
+    "caste"
+  ],
+  "castagno": [
+    "chestnuttree"
+  ],
+  "castell": [
+    "castell"
+  ],
+  "castelldefels": [
+    "castelldefels"
+  ],
+  "castello": [
+    "castle"
+  ],
+  "castiglia": [
+    "castile"
+  ],
+  "castiglianizzazione": [
+    "castilianisation"
+  ],
+  "castigliano": [
+    "castilian"
+  ],
+  "castiglionese": [
+    "castilian"
+  ],
+  "casting": [
+    "casting"
+  ],
+  "castrare": [
+    "castrate"
+  ],
+  "castrazione": [
+    "castration"
+  ],
+  "castro": [
+    "castro"
+  ],
+  "casuale": [
+    "casual"
+  ],
+  "catabolismo": [
+    "catabolism"
+  ],
+  "catacomba": [
+    "catacomb"
+  ],
+  "catalanismo": [
+    "catalanism"
+  ],
+  "catalano": [
+    "catalan"
+  ],
+  "catalasi": [
+    "catalase"
+  ],
+  "catalessi": [
+    "catalepsy"
+  ],
+  "catalina": [
+    "catalina"
+  ],
+  "catalitico": [
+    "catalytic"
+  ],
+  "catalizzatore": [
+    "catalyst"
+  ],
+  "catalogare": [
+    "catalog"
+  ],
+  "catalogazione": [
+    "cataloging"
+  ],
+  "catalogna": [
+    "catalonia"
+  ],
+  "catalogo": [
+    "catalogue"
+  ],
+  "catamarano": [
+    "catamaran"
+  ],
+  "catapulta": [
+    "catapult"
+  ],
+  "catapultare": [
+    "catapult"
+  ],
+  "cataratta": [
+    "cataract"
+  ],
+  "catarismo": [
+    "catharism"
+  ],
+  "catarro": [
+    "catarrh"
+  ],
+  "catartico": [
+    "cathartic"
+  ],
+  "catastale": [
+    "cadastral"
+  ],
+  "catasto": [
+    "cadastre"
+  ],
+  "catastrofe": [
+    "catastrophe"
+  ],
+  "catastrofico": [
+    "catastrophic"
+  ],
+  "catastrofismo": [
+    "catastrophism"
+  ],
+  "catechismo": [
+    "catechism"
+  ],
+  "categoria": [
+    "category"
+  ],
+  "categoriale": [
+    "categorial"
+  ],
+  "categoricamente": [
+    "categorically"
+  ],
+  "categorico": [
+    "categorical"
+  ],
+  "categorizzazione": [
+    "categorisation"
+  ],
+  "catena": [
+    "catena",
+    "chain"
+  ],
+  "catenaria": [
+    "catenary"
+  ],
+  "caterina": [
+    "caterina"
+  ],
+  "catetere": [
+    "catheter"
+  ],
+  "cateto": [
+    "cathetus"
+  ],
+  "catetometro": [
+    "cathetometer"
+  ],
+  "catherine": [
+    "catherine"
+  ],
+  "catodo": [
+    "cathode"
+  ],
+  "cattedra": [
+    "chair"
+  ],
+  "cattedrale": [
+    "cathedral"
+  ],
+  "cattolico": [
+    "catholic"
+  ],
+  "cattura": [
+    "capture"
+  ],
+  "catturare": [
+    "capture"
+  ],
+  "cauchy": [
+    "cauchy"
+  ],
+  "causa": [
+    "cause"
+  ],
+  "causale": [
+    "causal"
+  ],
+  "causare": [
+    "cause"
+  ],
+  "caustico": [
+    "caustic"
+  ],
+  "cautelare": [
+    "caution"
+  ],
+  "cauterizzazione": [
+    "cauterisation"
+  ],
+  "cavatina": [
+    "cavatina"
+  ],
+  "caverna": [
+    "cave"
+  ],
+  "caviale": [
+    "caviar"
+  ],
+  "cavo": [
+    "cable"
+  ],
+  "cavolfiore": [
+    "cauliflower"
+  ],
+  "cavolo": [
+    "cabbage"
+  ],
+  "cazorla": [
+    "cazorla"
+  ],
+  "cazzeruola": [
+    "casserole"
+  ],
+  "cd": [
+    "cd"
+  ],
+  "cdc": [
+    "cdc"
+  ],
+  "cece": [
+    "chickpea"
+  ],
+  "cecenia": [
+    "chechnya"
+  ],
+  "cecoslovacchia": [
+    "czechoslovakia"
+  ],
+  "cecoslovacco": [
+    "czechoslovak"
+  ],
+  "cedro": [
+    "cedar"
+  ],
+  "cefalico": [
+    "cephalic"
+  ],
+  "cefalopode": [
+    "cephalopod"
+  ],
+  "celebrare": [
+    "celebrate"
+  ],
+  "celebrazione": [
+    "celebration"
+  ],
+  "celestiale": [
+    "celestial"
+  ],
+  "celibato": [
+    "celibacy"
+  ],
+  "cellofan": [
+    "cellophane"
+  ],
+  "cellula": [
+    "cell"
+  ],
+  "cellulare": [
+    "cellular"
+  ],
+  "celluloide": [
+    "celluloid"
+  ],
+  "cellulosa": [
+    "cellulose"
+  ],
+  "celoma": [
+    "celom"
+  ],
+  "celtico": [
+    "celt"
+  ],
+  "cementazione": [
+    "cementation"
+  ],
+  "cementificazione": [
+    "concreting"
+  ],
+  "cementite": [
+    "cementite"
+  ],
+  "cemento": [
+    "cement"
+  ],
+  "censimento": [
+    "census"
+  ],
+  "censo": [
+    "census"
+  ],
+  "censura": [
+    "censorship"
+  ],
+  "censurare": [
+    "censor"
+  ],
+  "centesimo": [
+    "cent"
+  ],
+  "centigrado": [
+    "centigrade"
+  ],
+  "centilitro": [
+    "centilitre"
+  ],
+  "centimetro": [
+    "centimetre"
+  ],
+  "centrale": [
+    "central",
+    "centre"
+  ],
+  "centralismo": [
+    "centralism"
+  ],
+  "centralista": [
+    "centralist"
+  ],
+  "centralizzare": [
+    "centralise"
+  ],
+  "centralizzazione": [
+    "centralisation"
+  ],
+  "centrare": [
+    "centre"
+  ],
+  "centrico": [
+    "centrical"
+  ],
+  "centrifugazione": [
+    "centrifugation"
+  ],
+  "centriolo": [
+    "centriole"
+  ],
+  "centro": [
+    "centre"
+  ],
+  "centroculturale": [
+    "culturalcentre"
+  ],
+  "centrosoma": [
+    "centrosome"
+  ],
+  "ceramico": [
+    "ceramic"
+  ],
+  "cereale": [
+    "cereal"
+  ],
+  "cerebrale": [
+    "cerebral"
+  ],
+  "cerimolia": [
+    "cherimoya"
+  ],
+  "cerimonia": [
+    "ceremony"
+  ],
+  "cerio": [
+    "cerium"
+  ],
+  "certamente": [
+    "certainly"
+  ],
+  "certezza": [
+    "certainty"
+  ],
+  "certificare": [
+    "certify"
+  ],
+  "certificato": [
+    "certificate"
+  ],
+  "certificatore": [
+    "certifier"
+  ],
+  "certificazione": [
+    "certification"
+  ],
+  "cervantes": [
+    "cervantes"
+  ],
+  "cervelletto": [
+    "cerebellum"
+  ],
+  "cervera": [
+    "cervera"
+  ],
+  "cervicale": [
+    "cervical"
+  ],
+  "cesio": [
+    "cesium"
+  ],
+  "cessare": [
+    "cease"
+  ],
+  "cessazione": [
+    "cessation"
+  ],
+  "cessione": [
+    "cession"
+  ],
+  "cesura": [
+    "caesura"
+  ],
+  "cetriolo": [
+    "cucumber"
+  ],
+  "ceuta": [
+    "ceuta"
+  ],
+  "chamorro": [
+    "chamorro"
+  ],
+  "champagne": [
+    "champagne"
+  ],
+  "charles": [
+    "charles"
+  ],
+  "charleston": [
+    "charleston"
+  ],
+  "chassis": [
+    "chassis"
+  ],
+  "chat": [
+    "chat"
+  ],
+  "chatterley": [
+    "chatterley"
+  ],
+  "chavez": [
+    "chavez"
+  ],
+  "checa": [
+    "checa"
+  ],
+  "chef": [
+    "chef"
+  ],
+  "chelato": [
+    "chelate"
+  ],
+  "chelicera": [
+    "chelicera"
+  ],
+  "chemiluminescenza": [
+    "chemiluminescence"
+  ],
+  "chemiometria": [
+    "chemometrics"
+  ],
+  "chemioterapia": [
+    "chemotherapy"
+  ],
+  "cheney": [
+    "cheney"
+  ],
+  "cheratina": [
+    "ceratin"
+  ],
+  "cherubino": [
+    "cherub"
+  ],
+  "cheste": [
+    "cheste"
+  ],
+  "chiacchierare": [
+    "chat"
+  ],
+  "chiamare": [
+    "call"
+  ],
+  "chiamato": [
+    "called"
+  ],
+  "chiangkai-shek": [
+    "chiangkai-shek"
+  ],
+  "chiaramente": [
+    "clearly"
+  ],
+  "chiarezza": [
+    "clarity"
+  ],
+  "chiarire": [
+    "clarify"
+  ],
+  "chiaro": [
+    "clear"
+  ],
+  "chiasmo": [
+    "chiasmus"
+  ],
+  "chicago": [
+    "chicago"
+  ],
+  "chiedere": [
+    "callfor"
+  ],
+  "chiesa": [
+    "church"
+  ],
+  "chimera": [
+    "chimaera"
+  ],
+  "chimica": [
+    "chemical"
+  ],
+  "chimicamente": [
+    "chemically"
+  ],
+  "chimico": [
+    "chemical"
+  ],
+  "chiocciare": [
+    "chuck"
+  ],
+  "chiostro": [
+    "cloister"
+  ],
+  "chip": [
+    "chip"
+  ],
+  "chirac": [
+    "chirac"
+  ],
+  "chiroptera": [
+    "chiropter"
+  ],
+  "chitina": [
+    "chitin"
+  ],
+  "chiudere": [
+    "close"
+  ],
+  "chiusura": [
+    "closing",
+    "closure"
+  ],
+  "christensen": [
+    "christensen"
+  ],
+  "chueca": [
+    "chueca"
+  ],
+  "churchill": [
+    "churchill"
+  ],
+  "ciad": [
+    "chad"
+  ],
+  "cianfrinatura": [
+    "chamfer"
+  ],
+  "cianuro": [
+    "cyanide"
+  ],
+  "ciao": [
+    "ciao"
+  ],
+  "ciarla": [
+    "chat"
+  ],
+  "cibernetica": [
+    "cybernetics"
+  ],
+  "ciberspazio": [
+    "cyberspace"
+  ],
+  "cicala": [
+    "cicada"
+  ],
+  "cicerone": [
+    "cicero"
+  ],
+  "ciclismo": [
+    "cycling"
+  ],
+  "ciclista": [
+    "cyclist"
+  ],
+  "ciclo": [
+    "cycle"
+  ],
+  "cicloide": [
+    "cycloid"
+  ],
+  "ciclone": [
+    "cyclone"
+  ],
+  "ciclonico": [
+    "cyclonic"
+  ],
+  "ciclotimia": [
+    "cyclothymia"
+  ],
+  "ciclotomico": [
+    "cyclotomic"
+  ],
+  "cicoria": [
+    "chicory"
+  ],
+  "cid": [
+    "cid"
+  ],
+  "cigolare": [
+    "creak"
+  ],
+  "cile": [
+    "chile"
+  ],
+  "cileno": [
+    "chilean"
+  ],
+  "ciliare": [
+    "ciliary"
+  ],
+  "ciliato": [
+    "ciliate"
+  ],
+  "ciliegia": [
+    "cherry"
+  ],
+  "cilindrico": [
+    "cylindrical"
+  ],
+  "cilindro": [
+    "cylinder"
+  ],
+  "cimitero": [
+    "cemetery"
+  ],
+  "cina": [
+    "china"
+  ],
+  "cinabro": [
+    "cinnabar"
+  ],
+  "cinema": [
+    "cinema"
+  ],
+  "cinematografia": [
+    "cinematography"
+  ],
+  "cinematografico": [
+    "cinematographic"
+  ],
+  "cinese": [
+    "chinese"
+  ],
+  "cinismo": [
+    "cynicism"
+  ],
+  "cioccolatino": [
+    "chocolate"
+  ],
+  "cioccolato": [
+    "chocolate"
+  ],
+  "cipresso": [
+    "cypress"
+  ],
+  "cipriota": [
+    "cypriot"
+  ],
+  "cipro": [
+    "cyprus"
+  ],
+  "circa": [
+    "circa"
+  ],
+  "circo": [
+    "circus"
+  ],
+  "circolare": [
+    "circular",
+    "circulate"
+  ],
+  "circolazione": [
+    "circulation"
+  ],
+  "circolo": [
+    "circle"
+  ],
+  "circoncisione": [
+    "circumcision"
+  ],
+  "circonferenza": [
+    "circumference"
+  ],
+  "circoscrivere": [
+    "circumscribe"
+  ],
+  "circospezione": [
+    "circumspection"
+  ],
+  "circostanza": [
+    "circumstance"
+  ],
+  "circuito": [
+    "circuit"
+  ],
+  "circumcerchio": [
+    "circumcentre"
+  ],
+  "circumnavigazione": [
+    "circumnavigation"
+  ],
+  "cirillico": [
+    "cyrillic"
+  ],
+  "cisneros": [
+    "cisneros"
+  ],
+  "ciste": [
+    "cyst"
+  ],
+  "cisteina": [
+    "cysteine"
+  ],
+  "cisterna": [
+    "cistern"
+  ],
+  "cisti": [
+    "cyst"
+  ],
+  "cistoscopia": [
+    "cystoscopy"
+  ],
+  "citare": [
+    "cite"
+  ],
+  "citazione": [
+    "citation"
+  ],
+  "citologia": [
+    "cytology"
+  ],
+  "citologico": [
+    "cytological"
+  ],
+  "citoplasma": [
+    "cytoplasm"
+  ],
+  "citoplasmatico": [
+    "cytoplasmic"
+  ],
+  "citoscheletro": [
+    "cytoskeleton"
+  ],
+  "citosina": [
+    "cytosine"
+  ],
+  "citostoma": [
+    "cytostome"
+  ],
+  "citrico": [
+    "citric",
+    "citrus"
+  ],
+  "cittadella": [
+    "citadel"
+  ],
+  "cittadinanza": [
+    "citizenship"
+  ],
+  "cittadino": [
+    "citizen"
+  ],
+  "civico": [
+    "civic"
+  ],
+  "civile": [
+    "civil",
+    "civilian"
+  ],
+  "civilizzare": [
+    "civilise"
+  ],
+  "cladismo": [
+    "cladism"
+  ],
+  "cladogramma": [
+    "cladogram"
+  ],
+  "clamore": [
+    "clamour"
+  ],
+  "clan": [
+    "clan"
+  ],
+  "clandestinamente": [
+    "clandestinely"
+  ],
+  "clandestino": [
+    "clandestine"
+  ],
+  "clarinetto": [
+    "clarinet"
+  ],
+  "clarke": [
+    "clarke"
+  ],
+  "classe": [
+    "class"
+  ],
+  "classicismo": [
+    "classicism"
+  ],
+  "classico": [
+    "classic",
+    "classical"
+  ],
+  "classificare": [
+    "classify"
+  ],
+  "classificazione": [
+    "classification"
+  ],
+  "claudio": [
+    "claudio"
+  ],
+  "clausola": [
+    "clause"
+  ],
+  "claustrofobia": [
+    "claustrophobia"
+  ],
+  "clavicola": [
+    "clavicle"
+  ],
+  "clavicordo": [
+    "clavichord"
+  ],
+  "clemente": [
+    "clement"
+  ],
+  "clementei": [
+    "clementi"
+  ],
+  "clementeii": [
+    "clementii"
+  ],
+  "clementeiii": [
+    "clementiii"
+  ],
+  "clementeiv": [
+    "clementiv"
+  ],
+  "clementeix": [
+    "clementix"
+  ],
+  "clementev": [
+    "clementv"
+  ],
+  "clementevi": [
+    "clementvi"
+  ],
+  "clementevii": [
+    "clementvii"
+  ],
+  "clementeviii": [
+    "clementviii"
+  ],
+  "clementex": [
+    "clementx"
+  ],
+  "clementexi": [
+    "clementxi"
+  ],
+  "clementexii": [
+    "clementxii"
+  ],
+  "clementexiii": [
+    "clementxiii"
+  ],
+  "clementexiv": [
+    "clementxiv"
+  ],
+  "clemenza": [
+    "clemency"
+  ],
+  "clericale": [
+    "clerical"
+  ],
+  "clericalismo": [
+    "clericalism"
+  ],
+  "clero": [
+    "clergy"
+  ],
+  "cliente": [
+    "client",
+    "customer"
+  ],
+  "clientela": [
+    "clientele"
+  ],
+  "clima": [
+    "climate"
+  ],
+  "climatico": [
+    "climatic"
+  ],
+  "climatologia": [
+    "climatology"
+  ],
+  "climatologico": [
+    "climatological"
+  ],
+  "climogramma": [
+    "climogram"
+  ],
+  "clinica": [
+    "clinic"
+  ],
+  "clinico": [
+    "clinical"
+  ],
+  "clinton": [
+    "clinton"
+  ],
+  "clipper": [
+    "clipper"
+  ],
+  "clitoridectomia": [
+    "clitoridectomy"
+  ],
+  "clonare": [
+    "clone"
+  ],
+  "clonazione": [
+    "cloning"
+  ],
+  "clone": [
+    "clone"
+  ],
+  "clooney": [
+    "clooney"
+  ],
+  "clorazione": [
+    "chlorination"
+  ],
+  "clorito": [
+    "chlorite"
+  ],
+  "cloro": [
+    "chlorine"
+  ],
+  "clorofilla": [
+    "chlorophyl"
+  ],
+  "cloroformio": [
+    "chloroform"
+  ],
+  "cloruro": [
+    "chloride"
+  ],
+  "cloudcomputing": [
+    "cloudcomputing"
+  ],
+  "club": [
+    "club"
+  ],
+  "coabitazione": [
+    "cohabitation"
+  ],
+  "coagulazione": [
+    "coagulation"
+  ],
+  "coalizione": [
+    "coalition"
+  ],
+  "coassiale": [
+    "coaxial"
+  ],
+  "coattivo": [
+    "coercive"
+  ],
+  "cobalto": [
+    "cobalt"
+  ],
+  "cocaina": [
+    "cocaine"
+  ],
+  "coccodrillo": [
+    "crocodile"
+  ],
+  "cocktail": [
+    "cocktail"
+  ],
+  "coclea": [
+    "cochlea"
+  ],
+  "cocleare": [
+    "cochlear"
+  ],
+  "coda": [
+    "coda"
+  ],
+  "codice": [
+    "codex",
+    "code"
+  ],
+  "codicillo": [
+    "codicil"
+  ],
+  "codificazione": [
+    "codification",
+    "coding"
+  ],
+  "coedizione": [
+    "coedition"
+  ],
+  "coeducazione": [
+    "coeducation"
+  ],
+  "coefficiente": [
+    "coefficient"
+  ],
+  "coen": [
+    "coen"
+  ],
+  "coercizione": [
+    "coercion"
+  ],
+  "coerente": [
+    "coherent"
+  ],
+  "coerentemente": [
+    "consistently"
+  ],
+  "coerenza": [
+    "coherence"
+  ],
+  "coesione": [
+    "cohesion"
+  ],
+  "coesistenza": [
+    "coexistence"
+  ],
+  "cofrentes": [
+    "cofrentes"
+  ],
+  "cogenerazione": [
+    "cogeneration"
+  ],
+  "cognac": [
+    "cognac"
+  ],
+  "cognitivo": [
+    "cognitive"
+  ],
+  "cognizione": [
+    "cognition"
+  ],
+  "coguaro": [
+    "cougar"
+  ],
+  "cohen": [
+    "cohen"
+  ],
+  "coincidenza": [
+    "coincidence"
+  ],
+  "coincidere": [
+    "coincide"
+  ],
+  "coito": [
+    "coitus"
+  ],
+  "coitus": [
+    "coitus"
+  ],
+  "colchico": [
+    "colchicum"
+  ],
+  "colchicum": [
+    "colchicum"
+  ],
+  "colemanite": [
+    "colemanite"
+  ],
+  "colera": [
+    "cholera"
+  ],
+  "colesterolo": [
+    "cholesterol"
+  ],
+  "colica": [
+    "colic"
+  ],
+  "colina": [
+    "choline"
+  ],
+  "collaborare": [
+    "collaborate"
+  ],
+  "collaboratore": [
+    "collaborator"
+  ],
+  "collaborazione": [
+    "collaboration"
+  ],
+  "collage": [
+    "collage"
+  ],
+  "collantes": [
+    "collantes"
+  ],
+  "collaterale": [
+    "collateral"
+  ],
+  "collazionare": [
+    "collate"
+  ],
+  "collega": [
+    "colleague"
+  ],
+  "collegiale": [
+    "collegiate"
+  ],
+  "collenchima": [
+    "chlorenchyma"
+  ],
+  "collettivamente": [
+    "collectively"
+  ],
+  "collettivismo": [
+    "collectivism"
+  ],
+  "collettivizzazione": [
+    "collectivisation"
+  ],
+  "collettivo": [
+    "collective"
+  ],
+  "collezione": [
+    "collection"
+  ],
+  "collezionista": [
+    "collector"
+  ],
+  "collina": [
+    "collina"
+  ],
+  "collins": [
+    "collins"
+  ],
+  "collirio": [
+    "collyrium"
+  ],
+  "collisione": [
+    "collision"
+  ],
+  "colloide": [
+    "colloid"
+  ],
+  "colloquiale": [
+    "colloquial"
+  ],
+  "colloquio": [
+    "colloquium"
+  ],
+  "collotipia": [
+    "collotype"
+  ],
+  "colluviale": [
+    "colluvial"
+  ],
+  "colmenar": [
+    "colmenar"
+  ],
+  "colofonia": [
+    "colophony"
+  ],
+  "colom": [
+    "colom"
+  ],
+  "coloma": [
+    "coloma"
+  ],
+  "colombia": [
+    "colombia"
+  ],
+  "colombiano": [
+    "colombian"
+  ],
+  "colon": [
+    "colon"
+  ],
+  "colonia": [
+    "colony"
+  ],
+  "coloniale": [
+    "colonial"
+  ],
+  "colonialismo": [
+    "colonialism"
+  ],
+  "colonialista": [
+    "colonialist"
+  ],
+  "colonizzabile": [
+    "colonizable"
+  ],
+  "colonizzare": [
+    "colonise"
+  ],
+  "colonizzazione": [
+    "colonisation"
+  ],
+  "colonna": [
+    "column"
+  ],
+  "colonnare": [
+    "columnar"
+  ],
+  "colonnato": [
+    "colonnade"
+  ],
+  "colonnello": [
+    "colonel"
+  ],
+  "colono": [
+    "colonist"
+  ],
+  "colophon": [
+    "colophon"
+  ],
+  "colorado": [
+    "colorado"
+  ],
+  "colorante": [
+    "colourant"
+  ],
+  "colorare": [
+    "colour"
+  ],
+  "colorazione": [
+    "colourisation"
+  ],
+  "colore": [
+    "colour"
+  ],
+  "colorimetria": [
+    "colorimetry"
+  ],
+  "colorimetrico": [
+    "colorimetric"
+  ],
+  "colorimetro": [
+    "colorimeter"
+  ],
+  "colossale": [
+    "colossal"
+  ],
+  "colosso": [
+    "colossus"
+  ],
+  "colostro": [
+    "colostrum"
+  ],
+  "colpo": [
+    "coup"
+  ],
+  "coltivare": [
+    "cultivate"
+  ],
+  "coltivazione": [
+    "cultivation"
+  ],
+  "coma": [
+    "coma"
+  ],
+  "comandante": [
+    "commander"
+  ],
+  "comandare": [
+    "command"
+  ],
+  "comarca": [
+    "comarca"
+  ],
+  "combattere": [
+    "combat"
+  ],
+  "combinabile": [
+    "combinable"
+  ],
+  "combinare": [
+    "combine"
+  ],
+  "combinatoria": [
+    "combinatorics"
+  ],
+  "combinatorio": [
+    "combinatory"
+  ],
+  "combinazione": [
+    "combination"
+  ],
+  "combustione": [
+    "combustion"
+  ],
+  "comico": [
+    "comic"
+  ],
+  "cominciare": [
+    "commence"
+  ],
+  "comitato": [
+    "committee"
+  ],
+  "commando": [
+    "commando"
+  ],
+  "commedia": [
+    "comedy"
+  ],
+  "commemorazione": [
+    "commemoration"
+  ],
+  "commensale": [
+    "commensal"
+  ],
+  "commentare": [
+    "comment"
+  ],
+  "commentario": [
+    "commentary"
+  ],
+  "commentatore": [
+    "commentator"
+  ],
+  "commento": [
+    "comment"
+  ],
+  "commerciale": [
+    "commercial"
+  ],
+  "commercializzare": [
+    "commercialise"
+  ],
+  "commercializzazione": [
+    "commercialisation"
+  ],
+  "commercialmente": [
+    "commercially"
+  ],
+  "commercio": [
+    "commerce"
+  ],
+  "commettere": [
+    "commit"
+  ],
+  "commissariato": [
+    "commissariat"
+  ],
+  "commissario": [
+    "commissioner"
+  ],
+  "commissionare": [
+    "commission"
+  ],
+  "commissione": [
+    "commission"
+  ],
+  "commozionecerebrale": [
+    "concussion"
+  ],
+  "commutare": [
+    "commutate"
+  ],
+  "comodamente": [
+    "comfortably"
+  ],
+  "comodo": [
+    "comfortable"
+  ],
+  "compagnia": [
+    "company"
+  ],
+  "compagno": [
+    "companion"
+  ],
+  "comparabile": [
+    "comparable"
+  ],
+  "comparativamente": [
+    "comparatively"
+  ],
+  "comparativo": [
+    "comparative"
+  ],
+  "comparatore": [
+    "comparator"
+  ],
+  "comparazione": [
+    "comparison"
+  ],
+  "compartecipazione": [
+    "copartnership"
+  ],
+  "compassione": [
+    "compassion"
+  ],
+  "compasso": [
+    "compass"
+  ],
+  "compatibile": [
+    "compatible",
+    "consistent"
+  ],
+  "compattare": [
+    "compact"
+  ],
+  "compatto": [
+    "compact"
+  ],
+  "compendio": [
+    "compendium"
+  ],
+  "compensare": [
+    "compensate"
+  ],
+  "compensatore": [
+    "compensator"
+  ],
+  "compensatorio": [
+    "compensatory"
+  ],
+  "compensazione": [
+    "compensation"
+  ],
+  "competente": [
+    "competent"
+  ],
+  "competenza": [
+    "competition"
+  ],
+  "competere": [
+    "compete"
+  ],
+  "competitivo": [
+    "competitive"
+  ],
+  "competizione": [
+    "competition"
+  ],
+  "compilatore": [
+    "compiler"
+  ],
+  "compilazione": [
+    "compilation"
+  ],
+  "compiutamente": [
+    "completely"
+  ],
+  "complementare": [
+    "complementary",
+    "complement"
+  ],
+  "complementazione": [
+    "complementation"
+  ],
+  "complemento": [
+    "complement"
+  ],
+  "complesso": [
+    "complex"
+  ],
+  "completamente": [
+    "completely"
+  ],
+  "completamento": [
+    "completion"
+  ],
+  "completare": [
+    "complete"
+  ],
+  "completo": [
+    "complete"
+  ],
+  "complicare": [
+    "complicate"
+  ],
+  "complicazione": [
+    "complication"
+  ],
+  "componente": [
+    "component"
+  ],
+  "comporre": [
+    "compose"
+  ],
+  "comportare": [
+    "comport"
+  ],
+  "compositore": [
+    "composer"
+  ],
+  "composizione": [
+    "composition"
+  ],
+  "composta": [
+    "compote"
+  ],
+  "compostaggio": [
+    "composting"
+  ],
+  "composto": [
+    "compound"
+  ],
+  "comprendere": [
+    "comprise"
+  ],
+  "comprensibile": [
+    "comprehensible",
+    "comprehensive"
+  ],
+  "compressione": [
+    "compression"
+  ],
+  "compressore": [
+    "compressor"
+  ],
+  "comprimere": [
+    "compress"
+  ],
+  "compromesso": [
+    "commitment"
+  ],
+  "compulsivo": [
+    "compulsive"
+  ],
+  "computare": [
+    "calculate",
+    "compute"
+  ],
+  "computazionale": [
+    "computational"
+  ],
+  "computazionalmente": [
+    "computationally"
+  ],
+  "computazione": [
+    "computation"
+  ],
+  "computer": [
+    "computer"
+  ],
+  "comunale": [
+    "communal"
+  ],
+  "comune": [
+    "common",
+    "citycouncil"
+  ],
+  "comunemente": [
+    "commonly"
+  ],
+  "comunicare": [
+    "communicate"
+  ],
+  "comunicativo": [
+    "communicative"
+  ],
+  "comunicatore": [
+    "communicator"
+  ],
+  "comunicazione": [
+    "communication"
+  ],
+  "comunione": [
+    "communion"
+  ],
+  "comunismo": [
+    "communism"
+  ],
+  "comunista": [
+    "communist"
+  ],
+  "conattenzione": [
+    "carefully"
+  ],
+  "concatenare": [
+    "concatenate"
+  ],
+  "concatenazione": [
+    "concatenation"
+  ],
+  "concavo": [
+    "concave"
+  ],
+  "concedere": [
+    "concede"
+  ],
+  "concentrazione": [
+    "concentration"
+  ],
+  "concentrico": [
+    "concentric"
+  ],
+  "concepibile": [
+    "conceivable"
+  ],
+  "concepire": [
+    "conceive"
+  ],
+  "concertazione": [
+    "concertation"
+  ],
+  "concerto": [
+    "concert",
+    "concerto"
+  ],
+  "concessione": [
+    "concession"
+  ],
+  "concetto": [
+    "concept"
+  ],
+  "concettuale": [
+    "conceptual"
+  ],
+  "concettualista": [
+    "conceptualist"
+  ],
+  "concettualmente": [
+    "conceptually"
+  ],
+  "concezione": [
+    "conception"
+  ],
+  "conciliare": [
+    "conciliate"
+  ],
+  "conciliatore": [
+    "conciliatory"
+  ],
+  "conciliazione": [
+    "conciliation"
+  ],
+  "concistoro": [
+    "consistory"
+  ],
+  "concludere": [
+    "conclude"
+  ],
+  "conclusione": [
+    "conclusion"
+  ],
+  "concomitante": [
+    "concomitant"
+  ],
+  "concorde": [
+    "concordant"
+  ],
+  "concordia": [
+    "concord"
+  ],
+  "concorrente": [
+    "concurrent",
+    "competitor"
+  ],
+  "concorrenza": [
+    "competition"
+  ],
+  "concorso": [
+    "contest"
+  ],
+  "concretare": [
+    "concretise"
+  ],
+  "concreto": [
+    "concrete"
+  ],
+  "concrezione": [
+    "concretion"
+  ],
+  "concura": [
+    "carefully"
+  ],
+  "condanna": [
+    "conviction"
+  ],
+  "condannabile": [
+    "condemnable"
+  ],
+  "condannare": [
+    "condemn",
+    "convict"
+  ],
+  "conde": [
+    "conde"
+  ],
+  "condensazione": [
+    "condensation"
+  ],
+  "condilo": [
+    "condyle"
+  ],
+  "condimento": [
+    "condiment"
+  ],
+  "condizionale": [
+    "conditional"
+  ],
+  "condizionamento": [
+    "conditioning"
+  ],
+  "condizionare": [
+    "condition"
+  ],
+  "condizionatamente": [
+    "conditionally"
+  ],
+  "condizione": [
+    "condition"
+  ],
+  "condom": [
+    "condom"
+  ],
+  "condominio": [
+    "condominium"
+  ],
+  "condono": [
+    "condonation"
+  ],
+  "condor": [
+    "condor"
+  ],
+  "condotta": [
+    "conduct"
+  ],
+  "condrocita": [
+    "chondrocite"
+  ],
+  "condurre": [
+    "conduct"
+  ],
+  "conduttanza": [
+    "conductance"
+  ],
+  "conduzione": [
+    "conduction"
+  ],
+  "confederale": [
+    "confederal"
+  ],
+  "confederazione": [
+    "confederation"
+  ],
+  "conferenza": [
+    "conference"
+  ],
+  "conferire": [
+    "confer"
+  ],
+  "confermare": [
+    "confirm"
+  ],
+  "confermazione": [
+    "confirmation"
+  ],
+  "confessare": [
+    "confess"
+  ],
+  "confessione": [
+    "confession"
+  ],
+  "confetteria": [
+    "confectionery"
+  ],
+  "confidenza": [
+    "confidence"
+  ],
+  "confidenziale": [
+    "confidential"
+  ],
+  "configurare": [
+    "configure"
+  ],
+  "configurazione": [
+    "configuration"
+  ],
+  "confinamento": [
+    "confinement"
+  ],
+  "confinare": [
+    "confine"
+  ],
+  "confiscare": [
+    "confiscate"
+  ],
+  "conflagrazione": [
+    "conflagration"
+  ],
+  "conflitto": [
+    "conflict"
+  ],
+  "conflittuale": [
+    "conflictive"
+  ],
+  "confluente": [
+    "confluent"
+  ],
+  "confluenza": [
+    "confluence"
+  ],
+  "confluire": [
+    "converge"
+  ],
+  "confondere": [
+    "confuse"
+  ],
+  "conformare": [
+    "conform"
+  ],
+  "conformazione": [
+    "conformity"
+  ],
+  "conformismo": [
+    "conformism"
+  ],
+  "confraternita": [
+    "confrerie",
+    "confraternity"
+  ],
+  "confrontare": [
+    "compare"
+  ],
+  "confronto": [
+    "comparison"
+  ],
+  "confusione": [
+    "confusion"
+  ],
+  "congenito": [
+    "congenital"
+  ],
+  "congestione": [
+    "congestion"
+  ],
+  "congettura": [
+    "conjecture"
+  ],
+  "congiuntivite": [
+    "conjunctivitis"
+  ],
+  "congiunto": [
+    "conjoint"
+  ],
+  "congiunzione": [
+    "conjunction"
+  ],
+  "conglomerato": [
+    "conglomerate"
+  ],
+  "congo": [
+    "congo"
+  ],
+  "congolese": [
+    "congolese"
+  ],
+  "congratulare": [
+    "congratulate"
+  ],
+  "congratularsicon": [
+    "congratulate"
+  ],
+  "congratulazione": [
+    "congratulation"
+  ],
+  "congregare": [
+    "congregate"
+  ],
+  "congregazione": [
+    "congregation"
+  ],
+  "congresso": [
+    "congress"
+  ],
+  "congruente": [
+    "congruent"
+  ],
+  "congruenza": [
+    "congruence"
+  ],
+  "coniare": [
+    "coin"
+  ],
+  "coniazione": [
+    "coining"
+  ],
+  "conico": [
+    "conical"
+  ],
+  "conifera": [
+    "conifer"
+  ],
+  "coniugabile": [
+    "conjugable"
+  ],
+  "coniugale": [
+    "conjugal"
+  ],
+  "coniugazione": [
+    "conjugation"
+  ],
+  "connessione": [
+    "connection"
+  ],
+  "connettere": [
+    "connect"
+  ],
+  "connettore": [
+    "connector"
+  ],
+  "connolly": [
+    "connolly"
+  ],
+  "connotazione": [
+    "connotation"
+  ],
+  "cono": [
+    "cone"
+  ],
+  "conquista": [
+    "conquest"
+  ],
+  "conquistare": [
+    "conquer"
+  ],
+  "consacrare": [
+    "consecrate"
+  ],
+  "consacrazione": [
+    "consecration"
+  ],
+  "consapevole": [
+    "conscious"
+  ],
+  "consapevolezza": [
+    "consciousness"
+  ],
+  "consecutivamente": [
+    "consecutively"
+  ],
+  "consecutivo": [
+    "consecutive"
+  ],
+  "conseguente": [
+    "consequent"
+  ],
+  "conseguentemente": [
+    "consequently"
+  ],
+  "conseguenza": [
+    "consequence"
+  ],
+  "consell": [
+    "consell"
+  ],
+  "consenare": [
+    "consign"
+  ],
+  "consenso": [
+    "consensus"
+  ],
+  "consentire": [
+    "consent"
+  ],
+  "conservare": [
+    "conserve"
+  ],
+  "conservatore": [
+    "conservative"
+  ],
+  "conservatorio": [
+    "conservatoire"
+  ],
+  "conservatorismo": [
+    "conservatism"
+  ],
+  "conservazione": [
+    "conservation"
+  ],
+  "considerabile": [
+    "considerable"
+  ],
+  "considerare": [
+    "consider"
+  ],
+  "considerazione": [
+    "consideration"
+  ],
+  "considerevolmente": [
+    "considerably"
+  ],
+  "consigliare": [
+    "counsel"
+  ],
+  "consiglio": [
+    "council",
+    "counsel"
+  ],
+  "consistenza": [
+    "consistency"
+  ],
+  "consistere": [
+    "consist"
+  ],
+  "consolare": [
+    "consular",
+    "comfort"
+  ],
+  "consolazione": [
+    "consolation"
+  ],
+  "console": [
+    "console",
+    "consul"
+  ],
+  "consolidamento": [
+    "consolidation"
+  ],
+  "consolidare": [
+    "consolidate"
+  ],
+  "consolle": [
+    "console"
+  ],
+  "consonante": [
+    "consonant"
+  ],
+  "consonantico": [
+    "consonantal"
+  ],
+  "consonantismo": [
+    "consonantism"
+  ],
+  "consonanza": [
+    "consonance"
+  ],
+  "consorzio": [
+    "consortium"
+  ],
+  "construttivista": [
+    "constructivist"
+  ],
+  "consuetudinario": [
+    "customary"
+  ],
+  "consulente": [
+    "consultant"
+  ],
+  "consulenza": [
+    "consulting"
+  ],
+  "consulta": [
+    "consultation"
+  ],
+  "consultare": [
+    "consult"
+  ],
+  "consultazione": [
+    "consultation"
+  ],
+  "consultivo": [
+    "consultative"
+  ],
+  "consumare": [
+    "consume",
+    "consummate"
+  ],
+  "consumatore": [
+    "consumer"
+  ],
+  "consumismo": [
+    "consumerism"
+  ],
+  "consumista": [
+    "consumerist"
+  ],
+  "consumo": [
+    "consumption"
+  ],
+  "contabile": [
+    "countable"
+  ],
+  "contagio": [
+    "contagion"
+  ],
+  "contagioso": [
+    "contagious"
+  ],
+  "container": [
+    "container"
+  ],
+  "contare": [
+    "count"
+  ],
+  "contatore": [
+    "counter"
+  ],
+  "contatto": [
+    "contact"
+  ],
+  "contea": [
+    "county"
+  ],
+  "contedracula": [
+    "countdracula"
+  ],
+  "contemplare": [
+    "contemplate"
+  ],
+  "contemplazione": [
+    "contemplation"
+  ],
+  "contemporaneo": [
+    "contemporary"
+  ],
+  "contendere": [
+    "contend"
+  ],
+  "contenere": [
+    "contain"
+  ],
+  "contenimento": [
+    "containment"
+  ],
+  "contenitore": [
+    "container"
+  ],
+  "contentare": [
+    "content"
+  ],
+  "contento": [
+    "content"
+  ],
+  "contenuto": [
+    "content"
+  ],
+  "contenzioso": [
+    "contentious"
+  ],
+  "contesa": [
+    "contention"
+  ],
+  "contestare": [
+    "contest"
+  ],
+  "contestazione": [
+    "challenge"
+  ],
+  "contesto": [
+    "context"
+  ],
+  "contestuale": [
+    "contextual"
+  ],
+  "contestualmente": [
+    "contextually"
+  ],
+  "contiguo": [
+    "contiguous"
+  ],
+  "continentale": [
+    "continental"
+  ],
+  "continente": [
+    "continent"
+  ],
+  "contingente": [
+    "contingent"
+  ],
+  "contingenza": [
+    "contingency"
+  ],
+  "continuamente": [
+    "continually",
+    "continuously"
+  ],
+  "continuare": [
+    "continue"
+  ],
+  "continuazione": [
+    "continuation"
+  ],
+  "continuo": [
+    "continuous"
+  ],
+  "contorno": [
+    "contour"
+  ],
+  "contorsionista": [
+    "contortionist"
+  ],
+  "contraccettivo": [
+    "contraceptive"
+  ],
+  "contraccezione": [
+    "contraception"
+  ],
+  "contraddire": [
+    "contradict"
+  ],
+  "contraddittorio": [
+    "contradictory"
+  ],
+  "contraddizione": [
+    "contradiction"
+  ],
+  "contraffazione": [
+    "counterfeit"
+  ],
+  "contrappeso": [
+    "counterweight"
+  ],
+  "contrapposizione": [
+    "contraposition"
+  ],
+  "contrappunto": [
+    "counterpoint"
+  ],
+  "contrariamente": [
+    "contrary"
+  ],
+  "contrario": [
+    "contrary"
+  ],
+  "contrarre": [
+    "contract"
+  ],
+  "contrastare": [
+    "contrast"
+  ],
+  "contrasto": [
+    "contrast"
+  ],
+  "contrattacco": [
+    "counterattack"
+  ],
+  "contrattile": [
+    "contractile"
+  ],
+  "contratto": [
+    "contract",
+    "contracting"
+  ],
+  "contrattuale": [
+    "contractual"
+  ],
+  "contrattura": [
+    "contracture"
+  ],
+  "contravvenire": [
+    "contravene"
+  ],
+  "contravvenzione": [
+    "contravention"
+  ],
+  "contrazione": [
+    "contraction"
+  ],
+  "contreras": [
+    "contreras"
+  ],
+  "contribuire": [
+    "contribute"
+  ],
+  "contributo": [
+    "contribution"
+  ],
+  "contro": [
+    "con"
+  ],
+  "controbilanciare": [
+    "counterbalance"
+  ],
+  "controcultura": [
+    "counterculture"
+  ],
+  "controesempio": [
+    "counterexample"
+  ],
+  "controffensiva": [
+    "counteroffensive"
+  ],
+  "controindicazione": [
+    "contraindication"
+  ],
+  "controllabile": [
+    "controllable"
+  ],
+  "controllare": [
+    "control"
+  ],
+  "controllo": [
+    "check",
+    "control"
+  ],
+  "controllore": [
+    "controller"
+  ],
+  "controprogrammazione": [
+    "counterprogramming"
+  ],
+  "controspionaggio": [
+    "counterespionage"
+  ],
+  "controverso": [
+    "controversial"
+  ],
+  "contusione": [
+    "contusion"
+  ],
+  "conurbazione": [
+    "conurbation"
+  ],
+  "convalescenza": [
+    "convalescence"
+  ],
+  "conveniente": [
+    "convenient"
+  ],
+  "convenienza": [
+    "convenience"
+  ],
+  "convento": [
+    "convent"
+  ],
+  "convenzionale": [
+    "conventional"
+  ],
+  "convenzionalismo": [
+    "conventionalism"
+  ],
+  "convenzionalmente": [
+    "conventionally"
+  ],
+  "convenzione": [
+    "convention"
+  ],
+  "convergente": [
+    "convergent"
+  ],
+  "convergenza": [
+    "convergence"
+  ],
+  "convergere": [
+    "converge"
+  ],
+  "conversare": [
+    "converse"
+  ],
+  "conversazione": [
+    "conversational",
+    "conversation"
+  ],
+  "conversione": [
+    "conversion"
+  ],
+  "convertibile": [
+    "convertible"
+  ],
+  "convertire": [
+    "convert"
+  ],
+  "convertitore": [
+    "converter"
+  ],
+  "convesso": [
+    "convex"
+  ],
+  "convezione": [
+    "convection"
+  ],
+  "convincente": [
+    "convincing"
+  ],
+  "convincere": [
+    "convince"
+  ],
+  "convinzione": [
+    "conviction"
+  ],
+  "convivenza": [
+    "cohabitation"
+  ],
+  "convocazione": [
+    "convocation"
+  ],
+  "convoglio": [
+    "convoy"
+  ],
+  "convulsione": [
+    "convulsion"
+  ],
+  "cooperare": [
+    "cooperate"
+  ],
+  "cooperativa": [
+    "cooperative",
+    "co-op"
+  ],
+  "cooperazione": [
+    "cooperation"
+  ],
+  "coordinamento": [
+    "coordination"
+  ],
+  "coordinare": [
+    "coordinate"
+  ],
+  "coordinata": [
+    "coordinate"
+  ],
+  "coordinatore": [
+    "coordinator"
+  ],
+  "coordinazione": [
+    "coordination"
+  ],
+  "copale": [
+    "copal"
+  ],
+  "coperta": [
+    "cover"
+  ],
+  "copertina": [
+    "cover"
+  ],
+  "copertura": [
+    "covering",
+    "coverage"
+  ],
+  "copia": [
+    "copy"
+  ],
+  "copiare": [
+    "copy"
+  ],
+  "copolimero": [
+    "copolymer"
+  ],
+  "coppa": [
+    "cup"
+  ],
+  "coppia": [
+    "couple"
+  ],
+  "coprecipitazione": [
+    "coprecipitation"
+  ],
+  "coprire": [
+    "cover"
+  ],
+  "coprocessore": [
+    "coprocessor"
+  ],
+  "coprofagia": [
+    "coprophagy"
+  ],
+  "copula": [
+    "copula"
+  ],
+  "copulazione": [
+    "copulation"
+  ],
+  "copyright": [
+    "copyright"
+  ],
+  "corale": [
+    "choral"
+  ],
+  "corallo": [
+    "choral",
+    "coral"
+  ],
+  "cordiale": [
+    "cordial"
+  ],
+  "cordone": [
+    "cord"
+  ],
+  "cordovese": [
+    "cordovan"
+  ],
+  "corduroy": [
+    "corduroy"
+  ],
+  "coreografia": [
+    "choreography"
+  ],
+  "coreografico": [
+    "choreographic"
+  ],
+  "coreografo": [
+    "choreographer"
+  ],
+  "coria": [
+    "coria"
+  ],
+  "coriandoli": [
+    "confetti"
+  ],
+  "coriandolo": [
+    "coriander"
+  ],
+  "corion": [
+    "chorion"
+  ],
+  "corista": [
+    "chorister"
+  ],
+  "cormo": [
+    "corm"
+  ],
+  "cornea": [
+    "cornea"
+  ],
+  "corneale": [
+    "corneal"
+  ],
+  "cornetto": [
+    "croissant"
+  ],
+  "cornice": [
+    "cornice"
+  ],
+  "corniola": [
+    "cornelian"
+  ],
+  "coro": [
+    "choir",
+    "chorus"
+  ],
+  "corolla": [
+    "corolla"
+  ],
+  "corollario": [
+    "corollary"
+  ],
+  "corologia": [
+    "chorology"
+  ],
+  "corona": [
+    "crown"
+  ],
+  "coronazione": [
+    "coronation"
+  ],
+  "corpo": [
+    "corps"
+  ],
+  "corporale": [
+    "corporal"
+  ],
+  "corporativismo": [
+    "corporatism"
+  ],
+  "corporativo": [
+    "corporate"
+  ],
+  "corpulento": [
+    "corpulent"
+  ],
+  "corpuscolare": [
+    "corpuscular"
+  ],
+  "corpuscolo": [
+    "corpuscle"
+  ],
+  "correggere": [
+    "correct"
+  ],
+  "correggibile": [
+    "correctable"
+  ],
+  "correlativo": [
+    "correlated",
+    "correlative"
+  ],
+  "correlazione": [
+    "correlation"
+  ],
+  "corrente": [
+    "common",
+    "current"
+  ],
+  "correttamente": [
+    "correctly"
+  ],
+  "corretto": [
+    "correct"
+  ],
+  "correzione": [
+    "correction"
+  ],
+  "corridoio": [
+    "corridor"
+  ],
+  "corrispondente": [
+    "corresponding",
+    "correspondent"
+  ],
+  "corrispondenza": [
+    "correspondence"
+  ],
+  "corrispondere": [
+    "correspond"
+  ],
+  "corrosione": [
+    "corrosion"
+  ],
+  "corrosivo": [
+    "corrosive"
+  ],
+  "corrotto": [
+    "corrupt"
+  ],
+  "corruzione": [
+    "corruption"
+  ],
+  "corsica": [
+    "corsica"
+  ],
+  "corso": [
+    "course"
+  ],
+  "corteccia": [
+    "cortex"
+  ],
+  "cortedeiconti": [
+    "cortedeiconti",
+    "courtofauditors"
+  ],
+  "corteggiamento": [
+    "courtship"
+  ],
+  "cortesia": [
+    "courtesy"
+  ],
+  "corticale": [
+    "cortical"
+  ],
+  "cortile": [
+    "courtyard"
+  ],
+  "cortisone": [
+    "cortisone"
+  ],
+  "corvetta": [
+    "corvette"
+  ],
+  "corvo": [
+    "crow"
+  ],
+  "cosby": [
+    "cosby"
+  ],
+  "cosciente": [
+    "conscious"
+  ],
+  "coscientemente": [
+    "consciously"
+  ],
+  "coscienza": [
+    "consciousness"
+  ],
+  "coscrizione": [
+    "conscription"
+  ],
+  "cosmetico": [
+    "cosmetic"
+  ],
+  "cosmico": [
+    "cosmic"
+  ],
+  "cosmo": [
+    "cosmos"
+  ],
+  "cosmogonia": [
+    "cosmogony"
+  ],
+  "cosmologia": [
+    "cosmology"
+  ],
+  "cosmonauta": [
+    "cosmonaut"
+  ],
+  "cosmopolitismo": [
+    "cosmopolitism"
+  ],
+  "cospirare": [
+    "conspire"
+  ],
+  "cospirazione": [
+    "conspiracy"
+  ],
+  "costa": [
+    "coast"
+  ],
+  "costante": [
+    "constant"
+  ],
+  "costantemente": [
+    "constantly"
+  ],
+  "costare": [
+    "cost"
+  ],
+  "costarica": [
+    "costarica"
+  ],
+  "costellazione": [
+    "constellation"
+  ],
+  "costernazione": [
+    "consternation"
+  ],
+  "costipazione": [
+    "constipation"
+  ],
+  "costituente": [
+    "constituent"
+  ],
+  "costituire": [
+    "constitute"
+  ],
+  "costituzionale": [
+    "constitutional"
+  ],
+  "costituzionalismo": [
+    "constitutionalism"
+  ],
+  "costituzionalista": [
+    "constitutionalist"
+  ],
+  "costituzionalmente": [
+    "constitutionally"
+  ],
+  "costituzione": [
+    "constitution"
+  ],
+  "costo": [
+    "cost"
+  ],
+  "costoso": [
+    "costly"
+  ],
+  "costringere": [
+    "constrain",
+    "compel"
+  ],
+  "costrizione": [
+    "constriction"
+  ],
+  "costruire": [
+    "construct"
+  ],
+  "costruttivismo": [
+    "constructivism"
+  ],
+  "costruttivo": [
+    "constructive"
+  ],
+  "costruttore": [
+    "constructor"
+  ],
+  "costruzione": [
+    "construction"
+  ],
+  "cotoletta": [
+    "cutlet"
+  ],
+  "cotone": [
+    "cotton"
+  ],
+  "coulomb": [
+    "coulomb"
+  ],
+  "covalente": [
+    "covalent"
+  ],
+  "covariante": [
+    "covariant"
+  ],
+  "covarianza": [
+    "covariance"
+  ],
+  "cowen": [
+    "cowen"
+  ],
+  "coxa": [
+    "coxa"
+  ],
+  "coyote": [
+    "coyote"
+  ],
+  "crampo": [
+    "cramp"
+  ],
+  "cranico": [
+    "cranial"
+  ],
+  "cratere": [
+    "crater"
+  ],
+  "creabile": [
+    "credible"
+  ],
+  "creare": [
+    "create"
+  ],
+  "creativamente": [
+    "creatively"
+  ],
+  "creativo": [
+    "creative"
+  ],
+  "creatore": [
+    "creator"
+  ],
+  "creatura": [
+    "creature"
+  ],
+  "creazione": [
+    "creation"
+  ],
+  "credito": [
+    "credit"
+  ],
+  "creditore": [
+    "creditor"
+  ],
+  "credo": [
+    "creed"
+  ],
+  "crema": [
+    "cream"
+  ],
+  "crematorio": [
+    "crematory"
+  ],
+  "cremazione": [
+    "cremation"
+  ],
+  "crepa": [
+    "crack"
+  ],
+  "cretino": [
+    "cretinous",
+    "cretin"
+  ],
+  "cricket": [
+    "cricket"
+  ],
+  "criminale": [
+    "criminal"
+  ],
+  "crimine": [
+    "crime"
+  ],
+  "criminologia": [
+    "criminology"
+  ],
+  "criminologo": [
+    "criminologist"
+  ],
+  "criogenico": [
+    "cryogenic"
+  ],
+  "cripta": [
+    "crypt"
+  ],
+  "criptorchidismo": [
+    "cryptorchidism"
+  ],
+  "crisantemo": [
+    "chrysanthemum"
+  ],
+  "crisi": [
+    "crisis"
+  ],
+  "cristallino": [
+    "crystalline"
+  ],
+  "cristallizzare": [
+    "crystallise"
+  ],
+  "cristallizzazione": [
+    "crystallisation"
+  ],
+  "cristallo": [
+    "crystal"
+  ],
+  "cristallografia": [
+    "crystallography"
+  ],
+  "cristianizzazione": [
+    "christianisation"
+  ],
+  "cristiano": [
+    "christian"
+  ],
+  "cristo": [
+    "cristo"
+  ],
+  "cristoforocolombo": [
+    "christophercolumbus"
+  ],
+  "criterio": [
+    "criterion"
+  ],
+  "critica": [
+    "criticism"
+  ],
+  "criticare": [
+    "criticise"
+  ],
+  "critico": [
+    "critical",
+    "critic"
+  ],
+  "crittografia": [
+    "cryptography"
+  ],
+  "croazia": [
+    "croatia"
+  ],
+  "croce": [
+    "cross"
+  ],
+  "crociata": [
+    "crusade"
+  ],
+  "crociato": [
+    "cruciform"
+  ],
+  "crociera": [
+    "cruise"
+  ],
+  "crocifisso": [
+    "crucifix"
+  ],
+  "crollare": [
+    "collapse"
+  ],
+  "crollo": [
+    "collapse"
+  ],
+  "cromatico": [
+    "chromatic"
+  ],
+  "cromatide": [
+    "chromatid"
+  ],
+  "cromatina": [
+    "chromatin"
+  ],
+  "cromatismo": [
+    "chromatism"
+  ],
+  "cromatografia": [
+    "chromatography"
+  ],
+  "cromatografico": [
+    "chromatographic"
+  ],
+  "cromatogramma": [
+    "chromatogram",
+    "chromatograph"
+  ],
+  "cromico": [
+    "chromic"
+  ],
+  "cromite": [
+    "chromite"
+  ],
+  "cromo": [
+    "chromium"
+  ],
+  "cromosoma": [
+    "chromosome"
+  ],
+  "cromosomico": [
+    "chromosomal"
+  ],
+  "cronaca": [
+    "chronicle"
+  ],
+  "cronico": [
+    "chronic"
+  ],
+  "cronista": [
+    "chronicler"
+  ],
+  "cronografo": [
+    "chronograph"
+  ],
+  "cronologia": [
+    "chronology"
+  ],
+  "cronologicamente": [
+    "chronologically"
+  ],
+  "cronologico": [
+    "chronological"
+  ],
+  "cronometro": [
+    "chronometer"
+  ],
+  "cross": [
+    "cross"
+  ],
+  "crostaceo": [
+    "crustacean"
+  ],
+  "crowe": [
+    "crowe"
+  ],
+  "cruciale": [
+    "crucial"
+  ],
+  "crudele": [
+    "cruel"
+  ],
+  "cruise": [
+    "cruise"
+  ],
+  "cuba": [
+    "cuba"
+  ],
+  "cubano": [
+    "cuban"
+  ],
+  "cubico": [
+    "cubic"
+  ],
+  "cubismo": [
+    "cubism"
+  ],
+  "cubitale": [
+    "cubital"
+  ],
+  "cubo": [
+    "cube"
+  ],
+  "cucina": [
+    "cooker",
+    "cooking"
+  ],
+  "cucinare": [
+    "cook"
+  ],
+  "cugino": [
+    "cousin"
+  ],
+  "culinario": [
+    "culinary"
+  ],
+  "culla": [
+    "cradle"
+  ],
+  "culminare": [
+    "culminate"
+  ],
+  "culmine": [
+    "climax"
+  ],
+  "culto": [
+    "cult"
+  ],
+  "cultura": [
+    "culture"
+  ],
+  "culturale": [
+    "cultural"
+  ],
+  "culturalmente": [
+    "culturally"
+  ],
+  "cuneiforme": [
+    "cuneiform"
+  ],
+  "cunningham": [
+    "cunningham"
+  ],
+  "cuoco": [
+    "cook"
+  ],
+  "cupido": [
+    "cupid"
+  ],
+  "cuprite": [
+    "cuprite"
+  ],
+  "cura": [
+    "care",
+    "cure"
+  ],
+  "curare": [
+    "cure"
+  ],
+  "curia": [
+    "curia"
+  ],
+  "curie": [
+    "curie"
+  ],
+  "curio": [
+    "curium"
+  ],
+  "curioso": [
+    "curious"
+  ],
+  "curriculum": [
+    "curriculum"
+  ],
+  "curry": [
+    "curry"
+  ],
+  "cursore": [
+    "cursor"
+  ],
+  "curva": [
+    "curve"
+  ],
+  "curvatura": [
+    "curvature"
+  ],
+  "cuspide": [
+    "cusp"
+  ],
+  "custodia": [
+    "custody"
+  ],
+  "cutaneo": [
+    "cutaneous"
+  ],
+  "cyberspazio": [
+    "cyberspace"
+  ],
+  "damigiana": [
+    "carboy"
+  ],
+  "danneggiare": [
+    "crease"
+  ],
+  "delitto": [
+    "crime"
+  ],
+  "denuncia": [
+    "complaint"
+  ],
+  "deprezzamento": [
+    "cheapening"
+  ],
+  "detergente": [
+    "cleansing"
+  ],
+  "dialogare": [
+    "converse"
+  ],
+  "direttore": [
+    "conductor"
+  ],
+  "dirigere": [
+    "conduct"
+  ],
+  "dirupo": [
+    "crag"
+  ],
+  "disegnatore": [
+    "cartoonist"
+  ],
+  "disegno": [
+    "cartoonist"
+  ],
+  "disprezzo": [
+    "contempt"
+  ],
+  "dogana": [
+    "customs"
+  ],
+  "dominio": [
+    "command"
+  ],
+  "ebanisteria": [
+    "cabinetmaking"
+  ],
+  "ecclesiastico": [
+    "clergyman"
+  ],
+  "economico": [
+    "cheap"
+  ],
+  "edilizia": [
+    "construction"
+  ],
+  "editorialista": [
+    "columnist"
+  ],
+  "effettuare": [
+    "carryout"
+  ],
+  "eleggere": [
+    "choose"
+  ],
+  "elezione": [
+    "choice"
+  ],
+  "entrare": [
+    "comein"
+  ],
+  "epurazione": [
+    "cleanup"
+  ],
+  "equipaggio": [
+    "crew"
+  ],
+  "esaminatore": [
+    "compiler"
+  ],
+  "esemplare": [
+    "copy"
+  ],
+  "fareunacampagna": [
+    "campaign"
+  ],
+  "farmacia": [
+    "chemist's"
+  ],
+  "farmacista": [
+    "chemist"
+  ],
+  "fascino": [
+    "charm"
+  ],
+  "fiducia": [
+    "confidence"
+  ],
+  "figlio": [
+    "child"
+  ],
+  "filo": [
+    "cut"
+  ],
+  "fiordaliso": [
+    "cornflower"
+  ],
+  "forgiaturadelrame": [
+    "coppersmithing"
+  ],
+  "formaggio": [
+    "cheese"
+  ],
+  "francamente": [
+    "candidly"
+  ],
+  "frantoio": [
+    "crusher"
+  ],
+  "frantumazione": [
+    "crushing"
+  ],
+  "freddamente": [
+    "coldly"
+  ],
+  "freddo": [
+    "cold",
+    "chill"
+  ],
+  "fresco": [
+    "cool"
+  ],
+  "frizione": [
+    "clutch"
+  ],
+  "fumetto": [
+    "comicstrip"
+  ],
+  "funzionario": [
+    "civilservant"
+  ],
+  "gabbia": [
+    "cage"
+  ],
+  "gabinetto": [
+    "cabinet"
+  ],
+  "gallone": [
+    "chevron"
+  ],
+  "garofano": [
+    "carnation"
+  ],
+  "gatto": [
+    "cat"
+  ],
+  "gesso": [
+    "chalk"
+  ],
+  "goffo": [
+    "clumsy"
+  ],
+  "golpista": [
+    "coupleader"
+  ],
+  "gommadamasticare": [
+    "chewinggum"
+  ],
+  "grafico": [
+    "chart"
+  ],
+  "granchio": [
+    "crab"
+  ],
+  "gridare": [
+    "cry"
+  ],
+  "grido": [
+    "cry"
+  ],
+  "grotta": [
+    "cave"
+  ],
+  "gru": [
+    "crane"
+  ],
+  "grumo": [
+    "clot"
+  ],
+  "gruppo": [
+    "cluster"
+  ],
+  "guancia": [
+    "cheek"
+  ],
+  "guerrafredda": [
+    "coldwar"
+  ],
+  "ideare": [
+    "contrive"
+  ],
+  "imminente": [
+    "coming"
+  ],
+  "impiegato": [
+    "clerk"
+  ],
+  "importare": [
+    "care"
+  ],
+  "impresa": [
+    "company",
+    "corporation"
+  ],
+  "inavvertitamente": [
+    "carelessly"
+  ],
+  "inavvertito": [
+    "careless"
+  ],
+  "incambio": [
+    "conversely"
+  ],
+  "incantatore": [
+    "charming"
+  ],
+  "incanto": [
+    "charm"
+  ],
+  "incatenare": [
+    "chain"
+  ],
+  "incoronazione": [
+    "coronation"
+  ],
+  "incrociatore": [
+    "cruiser"
+  ],
+  "indicizzazione": [
+    "crawl"
+  ],
+  "infante": [
+    "child"
+  ],
+  "infantile": [
+    "childish"
+  ],
+  "infanzia": [
+    "childhood"
+  ],
+  "informatica": [
+    "computerscience"
+  ],
+  "informatizzare": [
+    "computerise"
+  ],
+  "informatizzazione": [
+    "computerisation"
+  ],
+  "ingannare": [
+    "cheat"
+  ],
+  "insediare": [
+    "chair"
+  ],
+  "intelligente": [
+    "clever"
+  ],
+  "internare": [
+    "confine"
+  ],
+  "intreccio": [
+    "celticknot"
+  ],
+  "isolecayman": [
+    "caymanislands"
+  ],
+  "isolecook": [
+    "cookislands"
+  ],
+  "isoledelcanale": [
+    "channelislands"
+  ],
+  "lamentarsi": [
+    "complain"
+  ],
+  "lanciare": [
+    "cast"
+  ],
+  "lasciare": [
+    "checkout"
+  ],
+  "lato": [
+    "canton"
+  ],
+  "latta": [
+    "can"
+  ],
+  "leva": [
+    "crowbar"
+  ],
+  "librettodegliassegni": [
+    "chequebook"
+  ],
+  "lindo": [
+    "clean"
+  ],
+  "liquidare": [
+    "clear"
+  ],
+  "listadicontrollo": [
+    "checklist"
+  ],
+  "litorale": [
+    "coastal"
+  ],
+  "locale": [
+    "cave"
+  ],
+  "macchina": [
+    "car"
+  ],
+  "mais": [
+    "corn"
+  ],
+  "maiuscola": [
+    "capitalletter"
+  ],
+  "maledire": [
+    "curse"
+  ],
+  "maledizione": [
+    "curse"
+  ],
+  "mandriano": [
+    "cowboy",
+    "cowgirl"
+  ],
+  "marcia": [
+    "course"
+  ],
+  "masticare": [
+    "chew"
+  ],
+  "membrodelcongresso": [
+    "congressman",
+    "congresswoman"
+  ],
+  "membrodiequipaggio": [
+    "crewman"
+  ],
+  "mensa": [
+    "canteen"
+  ],
+  "mento": [
+    "chin"
+  ],
+  "mercantilismo": [
+    "commercialism"
+  ],
+  "mercanzia": [
+    "commodity"
+  ],
+  "mettere": [
+    "contact"
+  ],
+  "mietitrebbia": [
+    "combineharvester"
+  ],
+  "mirtillo": [
+    "cranberry"
+  ],
+  "moltitudine": [
+    "crowd"
+  ],
+  "moneta": [
+    "coin"
+  ],
+  "monetazione": [
+    "coin"
+  ],
+  "mucca": [
+    "cow"
+  ],
+  "musicassetta": [
+    "cassette"
+  ],
+  "nascondere": [
+    "conceal"
+  ],
+  "natale": [
+    "christmas"
+  ],
+  "nettamente": [
+    "cleanly"
+  ],
+  "nocedicocco": [
+    "coconut"
+  ],
+  "nube": [
+    "cloud"
+  ],
+  "nucleo": [
+    "core"
+  ],
+  "nuvola": [
+    "cloud"
+  ],
+  "nuvoloso": [
+    "cloudy"
+  ],
+  "obbligatorio": [
+    "compulsory"
+  ],
+  "obbligazioneconvertibile": [
+    "convertiblebond"
+  ],
+  "occultamento": [
+    "concealment"
+  ],
+  "olivina": [
+    "chrysolite"
+  ],
+  "opporre": [
+    "counter"
+  ],
+  "ordine": [
+    "command"
+  ],
+  "orologio": [
+    "clock"
+  ],
+  "paese": [
+    "country"
+  ],
+  "pagliaccio": [
+    "clown"
+  ],
+  "partecontraente": [
+    "contractingparty"
+  ],
+  "parto": [
+    "childbirth"
+  ],
+  "pastadistracci": [
+    "clothpulp"
+  ],
+  "pazzo": [
+    "crazy"
+  ],
+  "penadimorte": [
+    "capitalpunishment"
+  ],
+  "periodo": [
+    "chronology"
+  ],
+  "persecuzione": [
+    "chase"
+  ],
+  "perseguire": [
+    "chase"
+  ],
+  "personaggio": [
+    "character"
+  ],
+  "petroliogreggio": [
+    "crudeoil"
+  ],
+  "pettinare": [
+    "comb"
+  ],
+  "pettinato": [
+    "combed"
+  ],
+  "pettine": [
+    "comb"
+  ],
+  "petto": [
+    "chest"
+  ],
+  "pezzodegliscacchi": [
+    "chesspiece"
+  ],
+  "piangere": [
+    "cry"
+  ],
+  "piatto": [
+    "cymbal"
+  ],
+  "piegabile": [
+    "collapsible"
+  ],
+  "pinza": [
+    "clip"
+  ],
+  "pista": [
+    "clue"
+  ],
+  "polemica": [
+    "controversy"
+  ],
+  "pollo": [
+    "chicken"
+  ],
+  "ponderato": [
+    "cool-headed"
+  ],
+  "porcellana": [
+    "china"
+  ],
+  "portare": [
+    "carry"
+  ],
+  "portatore": [
+    "carrier"
+  ],
+  "portinaio": [
+    "concierge"
+  ],
+  "potere": [
+    "can"
+  ],
+  "precisare": [
+    "clarify"
+  ],
+  "preoccupazione": [
+    "concern"
+  ],
+  "presepe": [
+    "crib"
+  ],
+  "presidente": [
+    "chairman",
+    "chairperson"
+  ],
+  "presidenza": [
+    "chair"
+  ],
+  "prete": [
+    "cure"
+  ],
+  "prigioniero": [
+    "captive"
+  ],
+  "principalmente": [
+    "chiefly"
+  ],
+  "profilattico": [
+    "condom"
+  ],
+  "proseguimento": [
+    "continuation"
+  ],
+  "proseguire": [
+    "continue"
+  ],
+  "prosieguo": [
+    "continuation"
+  ],
+  "provvedere": [
+    "cater"
+  ],
+  "prudente": [
+    "careful"
+  ],
+  "pulcino": [
+    "chick"
+  ],
+  "pulire": [
+    "clean"
+  ],
+  "pulizia": [
+    "cleaning"
+  ],
+  "querelante": [
+    "complainant"
+  ],
+  "raccogliere": [
+    "collect"
+  ],
+  "raccolta": [
+    "collection"
+  ],
+  "raccolto": [
+    "crop"
+  ],
+  "raccontare": [
+    "count"
+  ],
+  "raffreddamento": [
+    "cooling"
+  ],
+  "raffreddore": [
+    "cold"
+  ],
+  "raffronto": [
+    "comparison"
+  ],
+  "ragnatela": [
+    "cobweb"
+  ],
+  "rame": [
+    "copper"
+  ],
+  "reclamare": [
+    "claim"
+  ],
+  "reclamo": [
+    "claim"
+  ],
+  "repubblicaceca": [
+    "czechrepublic"
+  ],
+  "repubblicacentrafricana": [
+    "centralafricanrepublic"
+  ],
+  "restrizione": [
+    "curtailment"
+  ],
+  "reticolazione": [
+    "crosslinking"
+  ],
+  "reverendo": [
+    "clergyman"
+  ],
+  "riccio": [
+    "curl"
+  ],
+  "richiamo": [
+    "call"
+  ],
+  "riguardare": [
+    "concern"
+  ],
+  "rinfrescare": [
+    "cool"
+  ],
+  "riparo": [
+    "coat"
+  ],
+  "riscossione": [
+    "collection"
+  ],
+  "riscuotere": [
+    "charge"
+  ],
+  "ristorazione": [
+    "catering"
+  ],
+  "ritmare": [
+    "changerhythm"
+  ],
+  "rivendicare": [
+    "claim"
+  ],
+  "rivendicazione": [
+    "claim"
+  ],
+  "rivestimento": [
+    "coating"
+  ],
+  "rude": [
+    "crude"
+  ],
+  "sbarrare": [
+    "crossout"
+  ],
+  "scacchi": [
+    "chess"
+  ],
+  "scacchiera": [
+    "chessboard"
+  ],
+  "scacchista": [
+    "chessplayer"
+  ],
+  "scaccomatto": [
+    "checkmate"
+  ],
+  "scalatore": [
+    "climber"
+  ],
+  "scarificazione": [
+    "cicatrisation"
+  ],
+  "scegliere": [
+    "choose"
+  ],
+  "schiacciare": [
+    "crush"
+  ],
+  "schiocco": [
+    "click"
+  ],
+  "sciovinismo": [
+    "chauvinism"
+  ],
+  "sciovinista": [
+    "chauvinistic",
+    "chauvinist"
+  ],
+  "scogliera": [
+    "cliff"
+  ],
+  "scontrarsi": [
+    "crash"
+  ],
+  "scontro": [
+    "clash",
+    "crash"
+  ],
+  "secolo": [
+    "century"
+  ],
+  "sedano": [
+    "celery"
+  ],
+  "sedia": [
+    "chair"
+  ],
+  "sereno": [
+    "cloudless"
+  ],
+  "sfida": [
+    "challenge"
+  ],
+  "sfidare": [
+    "challenge"
+  ],
+  "sgretolarsi": [
+    "crumble"
+  ],
+  "sicuro": [
+    "certain",
+    "confident"
+  ],
+  "sigaretta": [
+    "cigarette"
+  ],
+  "sigaro": [
+    "cigar"
+  ],
+  "sipario": [
+    "curtain"
+  ],
+  "slogan": [
+    "catchword"
+  ],
+  "sopportare": [
+    "cope",
+    "copewith"
+  ],
+  "sopportazione": [
+    "consent"
+  ],
+  "spira": [
+    "coil"
+  ],
+  "spunto": [
+    "cue"
+  ],
+  "srilanka": [
+    "ceylon"
+  ],
+  "stagionatura": [
+    "curing"
+  ],
+  "stalla": [
+    "cowshed"
+  ],
+  "stampo": [
+    "cast"
+  ],
+  "stia": [
+    "coop"
+  ],
+  "strato": [
+    "coat"
+  ],
+  "strettamente": [
+    "closely"
+  ],
+  "sughero": [
+    "cork"
+  ],
+  "tagliare": [
+    "cut"
+  ],
+  "tagliente": [
+    "cutting"
+  ],
+  "taglio": [
+    "court",
+    "cut"
+  ],
+  "tamponamento": [
+    "curtain"
+  ],
+  "tappeto": [
+    "carpet"
+  ],
+  "tariffa": [
+    "charge"
+  ],
+  "tazza": [
+    "cup"
+  ],
+  "tela": [
+    "canvas"
+  ],
+  "telaio": [
+    "chassis"
+  ],
+  "telegrafo": [
+    "cablegram"
+  ],
+  "temadiconversazione": [
+    "conversationpiece"
+  ],
+  "tessera": [
+    "card"
+  ],
+  "tessuto": [
+    "cloth"
+  ],
+  "testacroce": [
+    "crosshead"
+  ],
+  "tetto": [
+    "ceiling"
+  ],
+  "tifa": [
+    "cattail"
+  ],
+  "topico": [
+    "commonplace"
+  ],
+  "torcere": [
+    "curve"
+  ],
+  "tornare": [
+    "comeback"
+  ],
+  "torta": [
+    "cake"
+  ],
+  "tosse": [
+    "cough",
+    "coughing"
+  ],
+  "traduzioneautomaticabasatasucorpora": [
+    "corpus-basedmachinetranslation"
+  ],
+  "traduzioneautomaticabasatasulcontesto": [
+    "context-basedmachinetranslation"
+  ],
+  "trappola": [
+    "cheat"
+  ],
+  "trasferimento": [
+    "cession"
+  ],
+  "trasmettere": [
+    "convey"
+  ],
+  "trasportare": [
+    "convey"
+  ],
+  "trasportatore": [
+    "conveyor"
+  ],
+  "trasporto": [
+    "carriage"
+  ],
+  "trifoglio": [
+    "clover"
+  ],
+  "trovare": [
+    "comeacross"
+  ],
+  "universitario": [
+    "college"
+  ],
+  "uscire": [
+    "comeout"
+  ],
+  "valere": [
+    "cost"
+  ],
+  "valigia": [
+    "case"
+  ],
+  "valore": [
+    "courage"
+  ],
+  "valuta": [
+    "currency"
+  ],
+  "vellutoacoste": [
+    "corduroy"
+  ],
+  "venire": [
+    "come"
+  ],
+  "verificare": [
+    "check"
+  ],
+  "vestiario": [
+    "changingroom"
+  ],
+  "vestito": [
+    "clothes",
+    "costume"
+  ],
+  "vicino": [
+    "close"
+  ],
+  "vignetta": [
+    "cartoon"
+  ],
+  "virgola": [
+    "coma",
+    "comma"
+  ],
+  "vongola": [
+    "clam"
+  ],
+  "vulva": [
+    "cunt"
+  ],
+  "zigomo": [
+    "cheekbone"
+  ],
+  "zolla": [
+    "clod"
+  ]
+}

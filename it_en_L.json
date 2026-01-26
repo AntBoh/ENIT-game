@@ -1,0 +1,1549 @@
+{
+  "abitare": [
+    "live"
+  ],
+  "accendere": [
+    "light"
+  ],
+  "accendino": [
+    "lighter"
+  ],
+  "addossare": [
+    "lean"
+  ],
+  "affittare": [
+    "lease"
+  ],
+  "agnello": [
+    "lamb"
+  ],
+  "albergare": [
+    "lodge"
+  ],
+  "alfabetizzazione": [
+    "literacy"
+  ],
+  "allacciare": [
+    "link"
+  ],
+  "allentato": [
+    "loose"
+  ],
+  "allineare": [
+    "line",
+    "lineup"
+  ],
+  "allodola": [
+    "lark"
+  ],
+  "alloro": [
+    "laurel"
+  ],
+  "amano": [
+    "longhand"
+  ],
+  "amante": [
+    "loving",
+    "lover"
+  ],
+  "amare": [
+    "love"
+  ],
+  "americalatina": [
+    "latinamerica"
+  ],
+  "amore": [
+    "love"
+  ],
+  "anarchico": [
+    "lawless"
+  ],
+  "appoggiare": [
+    "lean"
+  ],
+  "apprendere": [
+    "learn"
+  ],
+  "apprendimento": [
+    "learning"
+  ],
+  "arto": [
+    "limb"
+  ],
+  "ascensore": [
+    "lift"
+  ],
+  "ascoltare": [
+    "listen"
+  ],
+  "aspetto": [
+    "look"
+  ],
+  "atterraggio": [
+    "landing"
+  ],
+  "atterrare": [
+    "land"
+  ],
+  "autocarro": [
+    "lorry"
+  ],
+  "avvocato": [
+    "lawyer"
+  ],
+  "bagaglio": [
+    "luggage"
+  ],
+  "bagnino": [
+    "lifeguard"
+  ],
+  "balsamolabiale": [
+    "lipbalm"
+  ],
+  "basso": [
+    "low"
+  ],
+  "bestiame": [
+    "livestock"
+  ],
+  "biblioteca": [
+    "library"
+  ],
+  "bibliotecario": [
+    "librarian"
+  ],
+  "biblioteconomia": [
+    "librarianship"
+  ],
+  "bugia": [
+    "lie"
+  ],
+  "bugiardo": [
+    "lying",
+    "liar"
+  ],
+  "buscare": [
+    "lookfor"
+  ],
+  "calcare": [
+    "limestone"
+  ],
+  "camion": [
+    "lorry"
+  ],
+  "camionista": [
+    "lorrydriver"
+  ],
+  "cammino": [
+    "lane"
+  ],
+  "camorra": [
+    "localmafia"
+  ],
+  "cappa": [
+    "layer"
+  ],
+  "carente": [
+    "lacking"
+  ],
+  "carenza": [
+    "lack"
+  ],
+  "caricare": [
+    "load"
+  ],
+  "carico": [
+    "load"
+  ],
+  "chiaro": [
+    "light",
+    "luminosity"
+  ],
+  "chiudere": [
+    "lock"
+  ],
+  "coccinella": [
+    "ladybird"
+  ],
+  "colare": [
+    "leak"
+  ],
+  "collegamento": [
+    "liaison",
+    "link"
+  ],
+  "collocazione": [
+    "location"
+  ],
+  "colto": [
+    "literate"
+  ],
+  "comarcale": [
+    "local"
+  ],
+  "come": [
+    "like"
+  ],
+  "conferenza": [
+    "lecture"
+  ],
+  "congedo": [
+    "leave"
+  ],
+  "connessione": [
+    "linkage"
+  ],
+  "coperchio": [
+    "lid"
+  ],
+  "cordonare": [
+    "lace"
+  ],
+  "dama": [
+    "lady"
+  ],
+  "dimeno": [
+    "less"
+  ],
+  "direzione": [
+    "leadership"
+  ],
+  "dirigente": [
+    "leader"
+  ],
+  "dirigere": [
+    "lead"
+  ],
+  "diritto": [
+    "law"
+  ],
+  "ditomignolo": [
+    "littlefinger"
+  ],
+  "durare": [
+    "last"
+  ],
+  "durata": [
+    "length"
+  ],
+  "duraturo": [
+    "lasting"
+  ],
+  "elenco": [
+    "list"
+  ],
+  "eteredipetrolio": [
+    "ligroin"
+  ],
+  "etichetta": [
+    "label"
+  ],
+  "etichettare": [
+    "label"
+  ],
+  "etichettatura": [
+    "labeling",
+    "labelling"
+  ],
+  "faro": [
+    "lighthouse"
+  ],
+  "fegato": [
+    "liver"
+  ],
+  "filtrare": [
+    "leak"
+  ],
+  "filtrazione": [
+    "leak"
+  ],
+  "foglia": [
+    "leaf"
+  ],
+  "fortuna": [
+    "luck"
+  ],
+  "fortunatamente": [
+    "luckily"
+  ],
+  "fortunato": [
+    "lucky"
+  ],
+  "fotosensibile": [
+    "light-sensitive"
+  ],
+  "frana": [
+    "landslide"
+  ],
+  "fulmine": [
+    "lightning"
+  ],
+  "gamba": [
+    "leg"
+  ],
+  "garza": [
+    "lint"
+  ],
+  "giglio": [
+    "lily"
+  ],
+  "gonfiore": [
+    "lump"
+  ],
+  "grande": [
+    "large"
+  ],
+  "grandemente": [
+    "largely"
+  ],
+  "guardare": [
+    "look"
+  ],
+  "guinzaglio": [
+    "leash"
+  ],
+  "gustare": [
+    "like"
+  ],
+  "illuminare": [
+    "lighten"
+  ],
+  "illuminato": [
+    "lighted"
+  ],
+  "impaginazione": [
+    "layout"
+  ],
+  "imparare": [
+    "learn"
+  ],
+  "impulso": [
+    "lift"
+  ],
+  "infine": [
+    "lastly"
+  ],
+  "inritardo": [
+    "late"
+  ],
+  "isolesopraventosettentrionali": [
+    "leewardislands"
+  ],
+  "labbro": [
+    "lip"
+  ],
+  "labiale": [
+    "labial"
+  ],
+  "labiodentale": [
+    "labiodental"
+  ],
+  "labirinto": [
+    "labyrinth"
+  ],
+  "laboratorio": [
+    "lab",
+    "laboratory"
+  ],
+  "laburista": [
+    "labour",
+    "labourpartymember"
+  ],
+  "laccare": [
+    "lacquer"
+  ],
+  "lacrimale": [
+    "lacrimal"
+  ],
+  "lacustre": [
+    "lacustrine"
+  ],
+  "lafuente": [
+    "lafuente"
+  ],
+  "lago": [
+    "lake"
+  ],
+  "laguna": [
+    "lagoon"
+  ],
+  "laicismo": [
+    "laicism"
+  ],
+  "lama": [
+    "llama"
+  ],
+  "lamarckismo": [
+    "lamarckism"
+  ],
+  "lambda": [
+    "lambda"
+  ],
+  "lambert": [
+    "lambert"
+  ],
+  "lamberti": [
+    "lamberti"
+  ],
+  "lamentevolmente": [
+    "lamentably"
+  ],
+  "lampada": [
+    "lamp"
+  ],
+  "lampadina": [
+    "lightbulb"
+  ],
+  "lanciare": [
+    "launch"
+  ],
+  "lancillotto": [
+    "lancelot",
+    "launcelot"
+  ],
+  "lancillottodellago": [
+    "lancelotdulac",
+    "lancelotofthelake"
+  ],
+  "lancio": [
+    "launch",
+    "launching"
+  ],
+  "lanottescorsa": [
+    "lastnight"
+  ],
+  "lanterna": [
+    "lantern"
+  ],
+  "lanzarote": [
+    "lanzarote"
+  ],
+  "laos": [
+    "laos"
+  ],
+  "lapalma": [
+    "lapalma"
+  ],
+  "laparoscopia": [
+    "laparoscopy"
+  ],
+  "laparotomia": [
+    "laparotomy"
+  ],
+  "lapidazione": [
+    "lapidation"
+  ],
+  "lapsus": [
+    "lapsus"
+  ],
+  "laptop": [
+    "laptop"
+  ],
+  "lara": [
+    "lara"
+  ],
+  "larghetto": [
+    "larghetto"
+  ],
+  "larva": [
+    "larva"
+  ],
+  "lasciare": [
+    "leave",
+    "lend",
+    "let"
+  ],
+  "laser": [
+    "laser"
+  ],
+  "lasik": [
+    "lasik"
+  ],
+  "latente": [
+    "latent"
+  ],
+  "laterale": [
+    "lateral"
+  ],
+  "lateralmente": [
+    "laterally"
+  ],
+  "laterite": [
+    "laterite"
+  ],
+  "latifondo": [
+    "latifundium"
+  ],
+  "latinizzazione": [
+    "latinisation"
+  ],
+  "latino": [
+    "latin"
+  ],
+  "latinoamericano": [
+    "latinamerican"
+  ],
+  "latitudine": [
+    "latitude"
+  ],
+  "latrina": [
+    "latrine"
+  ],
+  "lattosio": [
+    "lactose"
+  ],
+  "lattuga": [
+    "lettuce"
+  ],
+  "laura": [
+    "laura"
+  ],
+  "lava": [
+    "lava"
+  ],
+  "lavanda": [
+    "lavender"
+  ],
+  "lavanderia": [
+    "laundry"
+  ],
+  "lavoisier": [
+    "lavoisier"
+  ],
+  "lavorativo": [
+    "labour"
+  ],
+  "lavoro": [
+    "labour"
+  ],
+  "lazurite": [
+    "lazurite"
+  ],
+  "leader": [
+    "leader"
+  ],
+  "leale": [
+    "loyal"
+  ],
+  "lebbra": [
+    "leprosy"
+  ],
+  "leblanc": [
+    "leblanc"
+  ],
+  "leccare": [
+    "lick"
+  ],
+  "lecito": [
+    "lawful",
+    "licit"
+  ],
+  "lega": [
+    "league"
+  ],
+  "legale": [
+    "legal"
+  ],
+  "legalismo": [
+    "legalism"
+  ],
+  "legalizzare": [
+    "legalise"
+  ],
+  "legalizzazione": [
+    "legalisation"
+  ],
+  "legalmente": [
+    "legally"
+  ],
+  "legamento": [
+    "ligament"
+  ],
+  "legazione": [
+    "legation"
+  ],
+  "leggenda": [
+    "legend"
+  ],
+  "leggermente": [
+    "lightly"
+  ],
+  "leggero": [
+    "light",
+    "lightweight"
+  ],
+  "legionario": [
+    "legionary"
+  ],
+  "legione": [
+    "legion"
+  ],
+  "legislativo": [
+    "legislative"
+  ],
+  "legislatore": [
+    "legislator"
+  ],
+  "legislatura": [
+    "legislature"
+  ],
+  "legislazione": [
+    "legislation"
+  ],
+  "legittimamente": [
+    "legitimately"
+  ],
+  "legittimare": [
+    "legitimate"
+  ],
+  "legittimazione": [
+    "legitimacy"
+  ],
+  "legittimo": [
+    "legitimate"
+  ],
+  "legno": [
+    "lumber"
+  ],
+  "leibniz": [
+    "leibniz"
+  ],
+  "leitmotiv": [
+    "leitmotif"
+  ],
+  "lemma": [
+    "lemma"
+  ],
+  "lemonde": [
+    "lemonde"
+  ],
+  "lenin": [
+    "lenin"
+  ],
+  "leninismo": [
+    "leninism"
+  ],
+  "leninista": [
+    "leninist"
+  ],
+  "lennon": [
+    "lennon"
+  ],
+  "lente": [
+    "lens"
+  ],
+  "lenticchia": [
+    "lentil"
+  ],
+  "leonardo": [
+    "leonardo"
+  ],
+  "leone": [
+    "lion",
+    "lioness"
+  ],
+  "leonei": [
+    "leoi"
+  ],
+  "leoneii": [
+    "leoii"
+  ],
+  "leoneiii": [
+    "leoiii"
+  ],
+  "leoneiv": [
+    "leoiv"
+  ],
+  "leoneix": [
+    "leoix"
+  ],
+  "leonev": [
+    "leov"
+  ],
+  "leonevi": [
+    "leovi"
+  ],
+  "leonevii": [
+    "leovii"
+  ],
+  "leoneviii": [
+    "leoviii"
+  ],
+  "leonex": [
+    "leox"
+  ],
+  "leonexi": [
+    "leoxi"
+  ],
+  "leonexii": [
+    "leoxii"
+  ],
+  "leonexiii": [
+    "leoxiii"
+  ],
+  "leopardo": [
+    "leopard"
+  ],
+  "lepen": [
+    "lepen"
+  ],
+  "lepidocrocite": [
+    "lepidocrocite"
+  ],
+  "lepidolite": [
+    "lepidolite"
+  ],
+  "lepik": [
+    "lepik"
+  ],
+  "lesbica": [
+    "lesbian"
+  ],
+  "lesbico": [
+    "lesbian"
+  ],
+  "lesbismo": [
+    "lesbianism"
+  ],
+  "lesotho": [
+    "lesotho"
+  ],
+  "lessicalizzazione": [
+    "lexicalisation"
+  ],
+  "lessicalmente": [
+    "lexically"
+  ],
+  "lessico": [
+    "lexical"
+  ],
+  "lessicografia": [
+    "lexicography"
+  ],
+  "lessicografico": [
+    "lexicographical"
+  ],
+  "lessicologia": [
+    "lexicology"
+  ],
+  "lessicologico": [
+    "lexicological"
+  ],
+  "letale": [
+    "lethal"
+  ],
+  "letargo": [
+    "lethargy"
+  ],
+  "lettera": [
+    "letter"
+  ],
+  "letterale": [
+    "literal"
+  ],
+  "letteralmente": [
+    "literally"
+  ],
+  "letterario": [
+    "literary"
+  ],
+  "letteratura": [
+    "literature"
+  ],
+  "lettone": [
+    "latvian"
+  ],
+  "lettonia": [
+    "latvia"
+  ],
+  "leucemia": [
+    "leukaemia"
+  ],
+  "leucopenia": [
+    "leukopenia"
+  ],
+  "leva": [
+    "lever"
+  ],
+  "levante": [
+    "levant"
+  ],
+  "levita": [
+    "levite"
+  ],
+  "levitazione": [
+    "levitation"
+  ],
+  "lewishamilton": [
+    "lewishamilton"
+  ],
+  "lezione": [
+    "lesson"
+  ],
+  "libanese": [
+    "lebanese"
+  ],
+  "libano": [
+    "lebanon"
+  ],
+  "liber": [
+    "liber"
+  ],
+  "liberale": [
+    "liberal"
+  ],
+  "liberalismo": [
+    "liberalism",
+    "liberality"
+  ],
+  "liberalizzare": [
+    "liberalise"
+  ],
+  "liberalizzazione": [
+    "liberalisation"
+  ],
+  "liberamente": [
+    "liberally"
+  ],
+  "liberazione": [
+    "liberation"
+  ],
+  "libertinaggio": [
+    "libertinism"
+  ],
+  "libia": [
+    "libya"
+  ],
+  "libido": [
+    "libido"
+  ],
+  "licenza": [
+    "licence"
+  ],
+  "lieberman": [
+    "lieberman"
+  ],
+  "liechtenstein": [
+    "liechtenstein"
+  ],
+  "liegi": [
+    "liege"
+  ],
+  "lignaggio": [
+    "lineage"
+  ],
+  "lignina": [
+    "lignin"
+  ],
+  "lignite": [
+    "lignite"
+  ],
+  "lima": [
+    "lima"
+  ],
+  "limetta": [
+    "lime"
+  ],
+  "limitare": [
+    "limit"
+  ],
+  "limitazione": [
+    "limitation"
+  ],
+  "limite": [
+    "limit"
+  ],
+  "limnologia": [
+    "limnology"
+  ],
+  "limonata": [
+    "lemonade"
+  ],
+  "limone": [
+    "lemon"
+  ],
+  "limonite": [
+    "limonite"
+  ],
+  "limousine": [
+    "limousine"
+  ],
+  "linciaggio": [
+    "lynching"
+  ],
+  "linea": [
+    "line"
+  ],
+  "lineare": [
+    "linear"
+  ],
+  "linfa": [
+    "lymph"
+  ],
+  "linfatico": [
+    "lymphatic"
+  ],
+  "linfocita": [
+    "lymphocyte"
+  ],
+  "linfoma": [
+    "lymphoma"
+  ],
+  "lingerie": [
+    "lingerie"
+  ],
+  "lingua": [
+    "language"
+  ],
+  "linguaggio": [
+    "language"
+  ],
+  "linguale": [
+    "lingual"
+  ],
+  "linguista": [
+    "linguist"
+  ],
+  "linguistica": [
+    "linguistics"
+  ],
+  "linguisticamente": [
+    "linguistically"
+  ],
+  "linguistico": [
+    "linguistic"
+  ],
+  "lino": [
+    "linen"
+  ],
+  "linoleum": [
+    "linoleum"
+  ],
+  "linux": [
+    "linux"
+  ],
+  "liofilizzazione": [
+    "lyophilisation"
+  ],
+  "lione": [
+    "lyon"
+  ],
+  "lipasi": [
+    "lipase"
+  ],
+  "lipide": [
+    "lipid"
+  ],
+  "lipoma": [
+    "lipoma"
+  ],
+  "liposoma": [
+    "liposome"
+  ],
+  "liquefazione": [
+    "liquefaction"
+  ],
+  "liquidazione": [
+    "liquidation"
+  ],
+  "liquido": [
+    "liquid"
+  ],
+  "liquirizia": [
+    "licorice"
+  ],
+  "liquore": [
+    "liqueur",
+    "liquor"
+  ],
+  "lira": [
+    "lyre"
+  ],
+  "lirico": [
+    "lyric"
+  ],
+  "lirismo": [
+    "lyricism"
+  ],
+  "lisbona": [
+    "lisbon"
+  ],
+  "lista": [
+    "list"
+  ],
+  "listare": [
+    "list"
+  ],
+  "litania": [
+    "litany"
+  ],
+  "litigare": [
+    "litigate"
+  ],
+  "litio": [
+    "lithium"
+  ],
+  "litografia": [
+    "lithography"
+  ],
+  "litografico": [
+    "lithographic"
+  ],
+  "litologia": [
+    "lithology"
+  ],
+  "litologico": [
+    "lithologic"
+  ],
+  "litorale": [
+    "littoral",
+    "longshore"
+  ],
+  "litosfera": [
+    "lithosphere"
+  ],
+  "litro": [
+    "litre"
+  ],
+  "litrodialcool": [
+    "litreofalcohol",
+    "litreofspirits"
+  ],
+  "lituania": [
+    "lithuania"
+  ],
+  "lituano": [
+    "lithuanian"
+  ],
+  "liturgia": [
+    "liturgy"
+  ],
+  "liturgico": [
+    "liturgical"
+  ],
+  "liuto": [
+    "lute"
+  ],
+  "livella": [
+    "level"
+  ],
+  "livellare": [
+    "level"
+  ],
+  "livello": [
+    "level"
+  ],
+  "lleida": [
+    "lleida"
+  ],
+  "llobregat": [
+    "llobregat"
+  ],
+  "lloyd": [
+    "lloyd"
+  ],
+  "locale": [
+    "local"
+  ],
+  "localismo": [
+    "localism"
+  ],
+  "localizzare": [
+    "locate"
+  ],
+  "localizzazione": [
+    "location"
+  ],
+  "localmente": [
+    "locally"
+  ],
+  "locativo": [
+    "locative"
+  ],
+  "locazione": [
+    "lease"
+  ],
+  "locomotiva": [
+    "locomotive"
+  ],
+  "locomozione": [
+    "locomotion"
+  ],
+  "logaritmico": [
+    "logarithmic"
+  ],
+  "logica": [
+    "logic"
+  ],
+  "logicamente": [
+    "logically"
+  ],
+  "logico": [
+    "logical"
+  ],
+  "logistica": [
+    "logistics"
+  ],
+  "logistico": [
+    "logistical"
+  ],
+  "logo": [
+    "logotype"
+  ],
+  "lola": [
+    "lola"
+  ],
+  "lolita": [
+    "lolita"
+  ],
+  "lombare": [
+    "lumbar"
+  ],
+  "londinese": [
+    "london"
+  ],
+  "londra": [
+    "london"
+  ],
+  "longitudinale": [
+    "longitudinal"
+  ],
+  "longitudine": [
+    "length"
+  ],
+  "loos": [
+    "loos"
+  ],
+  "lopez": [
+    "lopez"
+  ],
+  "lorca": [
+    "lorca"
+  ],
+  "lorena": [
+    "lorena",
+    "lorraine"
+  ],
+  "lorenzo": [
+    "lorenzo"
+  ],
+  "lorraine": [
+    "lorraine"
+  ],
+  "losalamosnationallaboratory": [
+    "losalamosnationallaboratory"
+  ],
+  "losangeles": [
+    "losangeles"
+  ],
+  "lotteria": [
+    "lottery"
+  ],
+  "lotto": [
+    "lottery"
+  ],
+  "louisiana": [
+    "louisiana"
+  ],
+  "loureed": [
+    "loureed"
+  ],
+  "lozione": [
+    "lotion"
+  ],
+  "lozoya": [
+    "lozoya"
+  ],
+  "lubrificante": [
+    "lubricant"
+  ],
+  "luce": [
+    "light"
+  ],
+  "lucertola": [
+    "lizard"
+  ],
+  "lucio": [
+    "lucio"
+  ],
+  "lucrativo": [
+    "lucrative"
+  ],
+  "lucro": [
+    "lucre"
+  ],
+  "lugo": [
+    "lugo"
+  ],
+  "luis": [
+    "luis"
+  ],
+  "luminanza": [
+    "luminance"
+  ],
+  "luminescente": [
+    "luminescent"
+  ],
+  "luminescenza": [
+    "luminescence"
+  ],
+  "luminoso": [
+    "light",
+    "lightful",
+    "luminous"
+  ],
+  "lunare": [
+    "lunar"
+  ],
+  "lungo": [
+    "lengthy",
+    "long"
+  ],
+  "lussazione": [
+    "luxation"
+  ],
+  "lussemburgo": [
+    "luxembourg"
+  ],
+  "lusso": [
+    "luxury"
+  ],
+  "lussuria": [
+    "lust"
+  ],
+  "lustro": [
+    "lustrum"
+  ],
+  "luteina": [
+    "lutein"
+  ],
+  "lutezio": [
+    "lutetium"
+  ],
+  "lux": [
+    "lux"
+  ],
+  "lynch": [
+    "lynch"
+  ],
+  "lyons": [
+    "lyons"
+  ],
+  "magro": [
+    "lean"
+  ],
+  "mancanzadirispetto": [
+    "lackofrespect"
+  ],
+  "mancare": [
+    "lack"
+  ],
+  "mancino": [
+    "left-handed"
+  ],
+  "manetta": [
+    "lever"
+  ],
+  "mangiare": [
+    "lunch"
+  ],
+  "meno": [
+    "less",
+    "least"
+  ],
+  "mentire": [
+    "lie"
+  ],
+  "merletto": [
+    "lace"
+  ],
+  "mestolo": [
+    "ladle"
+  ],
+  "mettere": [
+    "lay"
+  ],
+  "minore": [
+    "lesser",
+    "low"
+  ],
+  "molto": [
+    "lotsof"
+  ],
+  "moltoprima": [
+    "longbefore"
+  ],
+  "monetaacorsolegale": [
+    "legaltender"
+  ],
+  "motto": [
+    "lemma"
+  ],
+  "muggito": [
+    "lowing"
+  ],
+  "ozio": [
+    "leisure"
+  ],
+  "pacchettolinguistico": [
+    "linguisticpackage"
+  ],
+  "paesaggio": [
+    "landscape"
+  ],
+  "palco": [
+    "loge"
+  ],
+  "palpebra": [
+    "lid"
+  ],
+  "parafulmine": [
+    "lightningconductor"
+  ],
+  "parere": [
+    "look",
+    "looklike"
+  ],
+  "pelle": [
+    "leather"
+  ],
+  "perdere": [
+    "lose"
+  ],
+  "perdita": [
+    "loss"
+  ],
+  "personagiuridica": [
+    "legalperson"
+  ],
+  "piacere": [
+    "like"
+  ],
+  "piccolo": [
+    "little"
+  ],
+  "pidocchio": [
+    "louse"
+  ],
+  "pigro": [
+    "lazy"
+  ],
+  "piombo": [
+    "lead"
+  ],
+  "poco": [
+    "little"
+  ],
+  "pocoapoco": [
+    "littlebylittle"
+  ],
+  "polmone": [
+    "lung"
+  ],
+  "porro": [
+    "leek"
+  ],
+  "posteriormente": [
+    "later"
+  ],
+  "pranzo": [
+    "lunch"
+  ],
+  "prato": [
+    "lawn"
+  ],
+  "prescindere": [
+    "leaveaside"
+  ],
+  "prestare": [
+    "loan"
+  ],
+  "prestito": [
+    "loan"
+  ],
+  "prezioso": [
+    "lovely"
+  ],
+  "prigione": [
+    "lockup"
+  ],
+  "primoballerino": [
+    "leaddancer"
+  ],
+  "principale": [
+    "leading"
+  ],
+  "probabile": [
+    "likely"
+  ],
+  "probabilmente": [
+    "likely"
+  ],
+  "professionistadellelingue": [
+    "languageprofessional"
+  ],
+  "propenso": [
+    "liable"
+  ],
+  "proprietario": [
+    "landlord"
+  ],
+  "protagonista": [
+    "leading"
+  ],
+  "quaresima": [
+    "lent"
+  ],
+  "quotazione": [
+    "listing"
+  ],
+  "ragazzo": [
+    "lad"
+  ],
+  "reticolo": [
+    "lattice"
+  ],
+  "ridere": [
+    "laugh"
+  ],
+  "risata": [
+    "laugh",
+    "laughter"
+  ],
+  "salotto": [
+    "livingroom"
+  ],
+  "saltare": [
+    "leap"
+  ],
+  "salto": [
+    "leap"
+  ],
+  "sanguisuga": [
+    "leech"
+  ],
+  "scappatoia": [
+    "loophole"
+  ],
+  "scarto": [
+    "lurch"
+  ],
+  "scendere": [
+    "lower"
+  ],
+  "sciolto": [
+    "loose"
+  ],
+  "sembrare": [
+    "looklike"
+  ],
+  "serratura": [
+    "lock"
+  ],
+  "signore": [
+    "lady",
+    "lord"
+  ],
+  "signorile": [
+    "lordly"
+  ],
+  "sinistra": [
+    "left"
+  ],
+  "sinistro": [
+    "left",
+    "left-hand",
+    "lefthand"
+  ],
+  "solitario": [
+    "lonely"
+  ],
+  "sporcare": [
+    "litter"
+  ],
+  "stiledivita": [
+    "lifestyle"
+  ],
+  "strato": [
+    "layer"
+  ],
+  "strutto": [
+    "lard"
+  ],
+  "tardio": [
+    "late"
+  ],
+  "tardivo": [
+    "late"
+  ],
+  "telaio": [
+    "loom"
+  ],
+  "tenente": [
+    "lieutenant"
+  ],
+  "terra": [
+    "land"
+  ],
+  "tessere": [
+    "loom"
+  ],
+  "testo": [
+    "lyric"
+  ],
+  "tiglio": [
+    "linden"
+  ],
+  "tornio": [
+    "lathe"
+  ],
+  "tramite": [
+    "link"
+  ],
+  "ubicazione": [
+    "location"
+  ],
+  "ultimamente": [
+    "lately"
+  ],
+  "ultimo": [
+    "last",
+    "latter"
+  ],
+  "uniformare": [
+    "level"
+  ],
+  "vedetta": [
+    "lookout"
+  ],
+  "verosimile": [
+    "likely"
+  ],
+  "vicinale": [
+    "local"
+  ],
+  "vigilare": [
+    "lookafter"
+  ],
+  "vita": [
+    "life"
+  ],
+  "viva": [
+    "longlive"
+  ],
+  "vivente": [
+    "living"
+  ],
+  "vivere": [
+    "live"
+  ],
+  "vivo": [
+    "lively"
+  ],
+  "zimbello": [
+    "laughingstock"
+  ],
+  "zoppicare": [
+    "limp"
+  ]
+}
