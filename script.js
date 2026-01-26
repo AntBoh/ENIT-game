@@ -304,36 +304,46 @@ if (skipButton) {skipButton.addEventListener("click", () => {
   });
 
   function submitAnswer() {
-    const userAnswer = normalize(input.value);
+  const userAnswer = normalize(input.value);
 
-    if (!dictionary[mode] || !dictionary[mode][currentWordKey]) {
-      feedback.textContent = "Errore: parola non trovata.";
-      feedback.style.color = "red";
-    } else if (
-      dictionary[mode][currentWordKey].map(normalize).includes(userAnswer)
-    ) {
-      if (!progress[mode][currentWordKey]) {
-  progress[mode][currentWordKey] = [];
-}
+  if (!dictionary[mode] || !dictionary[mode][currentWordKey]) {
+    feedback.textContent = "Errore: parola non trovata.";
+    feedback.style.color = "red";
+  } else if (
+    dictionary[mode][currentWordKey].map(normalize).includes(userAnswer)
+  ) {
 
-if (!progress[mode][currentWordKey].includes(userAnswer)) {
-  progress[mode][currentWordKey].push(userAnswer);
-}
-
-
-      showFoundTranslations();
-      renderWorddexAccordion();
-
-      feedback.textContent = "Corretto!";
-      feedback.style.color = "green";
-    } else {
-      feedback.textContent = "Sbagliato!";
-      feedback.style.color = "red";
+    if (!progress[mode][currentWordKey]) {
+      progress[mode][currentWordKey] = [];
     }
 
+    if (!progress[mode][currentWordKey].includes(userAnswer)) {
+      progress[mode][currentWordKey].push(userAnswer);
+      localStorage.setItem("progress", JSON.stringify(progress));
+    }
+
+    feedback.textContent = "Corretto!";
+    feedback.style.color = "green";
+
+    //  NON cambiare parola subito
+    showFoundTranslations();
+    renderWorddexAccordion();
+
+    input.value = "";
+
+    //  metti qui la scelta della parola SOLO DOPO 200ms
+    setTimeout(() => {
+      chooseWord();
+      feedback.textContent = "";  // opzionale, se vuoi far sparire il messaggio
+    }, 200);
+
+  } else {
+    feedback.textContent = "Sbagliato!";
+    feedback.style.color = "red";
     input.value = "";
     chooseWord();
-  };
+  }
+}
 
 
 
