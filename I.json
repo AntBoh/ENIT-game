@@ -1465,10 +1465,12 @@
   ],
   "inside": [
     "dentro",
-    "dentrodi",
     "entro",
-    "entrodi",
     "interiore"
+  ],
+  "insides": [
+    "interiora",
+    "viscere"
   ],
   "insight": [
     "idea"
@@ -1943,60 +1945,20 @@
   "improperly": [
     "impropriamente"
   ],
-  "inindianfile": [
-    "infilaindiana"
-  ],
-  "inabigway": [
-    "sugrandescala"
-  ],
-  "inaclearway": [
-    "inmanierachiara"
-  ],
-  "inalittlewhile": [
-    "immediatamente"
-  ],
-  "inasmallway": [
-    "ascalaridotta"
-  ],
-  "inabsolute": [
-    "inassoluto"
-  ],
-  "inaddition": [
-    "oltretutto"
-  ],
-  "inallconscience": [
-    "sinceramente"
-  ],
-  "inallways": [
-    "intuttiimodi"
-  ],
-  "inbrief": [
-    "abreve"
-  ],
-  "inconjunction": [
+  "in conjunction": [
     "congiuntamente"
   ],
-  "inconsequence": [
-    "inconseguenza"
-  ],
   "indepth": [
-    "afondo"
+    "a fondo"
   ],
-  "indetail": [
-    "dettagliatamente"
+  "in fact": [
+    "infatti"
   ],
-  "inearnest": [
-    "seriamente"
-  ],
-  "infact": [
-    "difatto",
-    "ineffetti"
-  ],
-  "infairness": [
+  "in fairness": [
     "sinceramente"
   ],
-  "infavour": [
-    "afavore"
+  "in favour": [
+    "a favore"
   ],
   "infront": [
     "afronte",

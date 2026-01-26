@@ -1094,18 +1094,6 @@
   "online": [
     "online"
   ],
-  "onmanyoccasions": [
-    "inmolteoccasioni"
-  ],
-  "onnoaccount": [
-    "dinessunaimportanza"
-  ],
-  "onoccasion": [
-    "ognitanto"
-  ],
-  "onpurpose": [
-    "espressamente"
-  ],
   "onrecord": [
     "ufficialmente"
   ],
@@ -1303,51 +1291,17 @@
   "ode": [
     "ode"
   ],
-  "oliguria": [
-    "oliguria"
-  ],
-  "operetta": [
-    "operetta"
-  ],
-  "otalgia": [
-    "otalgia"
-  ],
-  "oh": [
-    "oh"
-  ],
-  "ohmygod": [
-    "diomio"
-  ],
   "ok": [
     "ok"
   ],
-  "okay": [
-    "ok"
-  ],
-  "onconditionthat": [
-    "acondizioneche"
-  ],
-  "outofthequestionthat": [
-    "esclusoche"
-  ],
-  "onthebasisthat": [
-    "ipotizzandoche"
-  ],
-  "ontheassumptionthat": [
-    "dandoperscontatoche"
-  ],
-  "onehundred": [
+  "one hundred": [
     "cento"
   ],
   "of": [
     "da",
     "di"
   ],
-  "otherthan": [
-    "oltrea"
-  ],
-  "outof": [
-    "fuori",
-    "fuoridi"
+  "out of": [
+    "fuori"
   ]
 }

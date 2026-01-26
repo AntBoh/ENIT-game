@@ -107,7 +107,7 @@
     "referenziale"
   ],
   "refrigerator": [
-    "frigorifero"
+    "refrigeratore"
   ],
   "refundable": [
     "rimborsabile"
@@ -138,7 +138,7 @@
     "relativo"
   ],
   "relaxed": [
-    "disinvolto"
+    "rilassato"
   ],
   "relentless": [
     "implacabile"
@@ -1737,7 +1737,8 @@
     "riformatore"
   ],
   "rod": [
-    "pertica"
+    "stecca",
+    "bastone"
   ],
   "resurgence": [
     "rinascita"
@@ -1933,7 +1934,8 @@
     "ringiovanire"
   ],
   "remodel": [
-    "ristrutturare"
+    "ristrutturare",
+    "rimodellare"
   ],
   "rename": [
     "rinominare"

@@ -194,9 +194,7 @@
     "teatrale"
   ],
   "theirs": [
-    "illoro",
-    "ilsuo",
-    "suo"
+  "loro"
   ],
   "thematic": [
     "tematico"
@@ -289,8 +287,7 @@
     "torrenziale"
   ],
   "total": [
-    "totale",
-    "valore"
+    "totale"
   ],
   "totalitarian": [
     "totalitario"
@@ -299,8 +296,7 @@
     "duro"
   ],
   "tourist": [
-    "turista",
-    "turistico"
+    "turista"
   ],
   "toxic": [
     "tossico"
@@ -420,160 +416,33 @@
   "trustworthy": [
     "affidabile"
   ],
-  "thebes": [
-    "tebe"
+  "Thebes": [
+    "Tebe"
   ],
-  "thegambia": [
-    "gambia"
+  "Telemachus": [
+    "Telemaco"
   ],
-  "thenewyorktimes": [
-    "thenewyorktimes"
-  ],
-  "treatyestablishingaconstitutionforeurope": [
-    "trattatocheadottaunacostituzioneperl'europa"
-  ],
-  "taiwan": [
-    "taiwan"
-  ],
-  "tajikistan": [
-    "tagikistan"
-  ],
-  "tangier": [
-    "tangeri"
-  ],
-  "tania": [
-    "tania"
-  ],
-  "tanzania": [
-    "tanzania"
-  ],
-  "tarantino": [
-    "tarantino"
-  ],
-  "tarragona": [
-    "tarragona"
-  ],
-  "tatarella": [
-    "tatarella"
-  ],
-  "tehran": [
-    "teheran"
-  ],
-  "tejero": [
-    "tejero"
-  ],
-  "telemachus": [
-    "telemaco"
-  ],
-  "tenerife": [
-    "tenerife"
-  ],
-  "tennessee": [
-    "tennessee"
-  ],
-  "teresa": [
-    "teresa"
-  ],
-  "terrassa": [
-    "terrassa"
-  ],
-  "teruel": [
-    "teruel"
-  ],
-  "texas": [
-    "texas"
-  ],
-  "thailand": [
-    "thailandia"
+  "Thailand": [
+    "Thailandia"
   ],
   "thatcher": [
     "thatcher"
   ],
-  "theophorus": [
-    "ignaziodiantiochia"
-  ],
-  "thomas": [
-    "thomas"
-  ],
-  "thompson": [
-    "thompson"
-  ],
-  "timoshenko": [
-    "tymoshenko"
-  ],
-  "tito": [
-    "tito"
-  ],
-  "toft": [
-    "toft"
-  ],
-  "togo": [
-    "togo"
-  ],
-  "tokyo": [
-    "tokyo"
-  ],
-  "toledo": [
-    "toledo"
-  ],
-  "tonga": [
-    "tonga"
-  ],
-  "tonyblair": [
-    "tonyblair"
-  ],
   "torrent": [
-    "torrent",
     "torrente"
   ],
-  "torres": [
-    "torres"
-  ],
-  "torrevieja": [
-    "torrevieja"
-  ],
-  "torrijos": [
-    "torrijos"
-  ],
-  "tremp": [
-    "tremp"
-  ],
-  "tripoli": [
-    "tripoli"
-  ],
-  "troy": [
-    "troia"
-  ],
-  "trujillo": [
-    "trujillo"
-  ],
-  "truman": [
-    "truman"
-  ],
-  "tunis": [
-    "tunisia"
-  ],
-  "tunisia": [
-    "tunisia"
-  ],
-  "turin": [
-    "torino"
-  ],
-  "turing": [
-    "turing"
+  "Troy": [
+    "Troia"
   ],
   "turkey": [
     "tacchino",
-    "turchia"
+    "Turchia"
   ],
   "twin": [
     "gemello"
   ],
   "torsion": [
     "torsione"
-  ],
-  "tic": [
-    "tic"
   ],
   "tropic": [
     "tropico"
@@ -1834,55 +1703,13 @@
     "tebano"
   ],
   "timezone": [
-    "fusoorario"
+    "fuso orario"
   ],
-  "theotherwayaround": [
+  "the other way around": [
     "all'indietro"
-  ],
-  "totheverybrink": [
-    "sull'orlodell'abisso"
   ],
   "theotherwayround": [
     "all'indietro"
-  ],
-  "thenextapril": [
-    "ilprossimoaprile"
-  ],
-  "thenextaugust": [
-    "ilprossimoagosto"
-  ],
-  "thenextchristmas": [
-    "ilprossimonatale"
-  ],
-  "thenextdecember": [
-    "ilprossimodicembre"
-  ],
-  "thenextfebruary": [
-    "ilprossimofebbraio"
-  ],
-  "thenextjanuary": [
-    "ilprossimogennaio"
-  ],
-  "thenextjuly": [
-    "ilprossimoluglio"
-  ],
-  "thenextjune": [
-    "ilprossimogiugno"
-  ],
-  "thenextmarch": [
-    "ilprossimomarzo"
-  ],
-  "thenextoctober": [
-    "ilprossimoottobre"
-  ],
-  "thenextsaturday": [
-    "ilprossimosabato"
-  ],
-  "thenextseptember": [
-    "ilprossimosettembre"
-  ],
-  "thenextsunday": [
-    "laprossimadomenica"
   ],
   "technically": [
     "tecnicamente"
@@ -1900,13 +1727,13 @@
   "thankfully": [
     "fortunatamente"
   ],
-  "thedayaftertomorrow": [
+  "the day after tomorrow": [
     "dopodomani"
   ],
-  "thedaybeforeyesterday": [
+  "the day before yesterday": [
     "l'altroieri"
   ],
-  "thefirsttime": [
+  "the first time": [
     "laprimavolta"
   ],
   "thelasttime": [
@@ -2289,9 +2116,6 @@
   ],
   "titanite": [
     "titanite"
-  ],
-  "tremolite": [
-    "tremolite"
   ],
   "trapeze": [
     "trapezio"

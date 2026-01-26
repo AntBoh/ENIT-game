@@ -206,9 +206,6 @@
   "sentimental": [
     "sentimentale"
   ],
-  "servile": [
-    "servile"
-  ],
   "sexual": [
     "sessuale"
   ],
@@ -546,7 +543,7 @@
     "sudanese"
   ],
   "sudden": [
-    "repentino"
+    "improvviso"
   ],
   "suffering": [
     "sofferente",
@@ -1537,10 +1534,7 @@
     "gallone",
     "sbarrare"
   ],
-  "soprano": [
-    "soprano"
-  ],
-  "shopassistant": [
+  "shop assistant": [
     "commesso"
   ],
   "statesman": [
@@ -2849,7 +2843,8 @@
   ],
   "spot": [
     "granito",
-    "posto"
+    "posto",
+    "punto"
   ],
   "sprain": [
     "distorsione"
@@ -3602,9 +3597,6 @@
   ],
   "sulphur": [
     "zolfo"
-  ],
-  "swineflu": [
-    "influenzasuina"
   ],
   "sadly": [
     "tristemente"

@@ -497,7 +497,8 @@
     "principale"
   ],
   "prior": [
-    "previo"
+    "prima",
+    "precedente"
   ],
   "private": [
     "privato"
@@ -1008,41 +1009,11 @@
   "philadelphia": [
     "filadelfia"
   ],
-  "philippedouste-blazy": [
-    "philippedouste-blazy"
+  "Philippines": [
+    "Filippine"
   ],
-  "philippines": [
-    "filippine"
-  ],
-  "picanya": [
-    "picanya"
-  ],
-  "picasso": [
-    "picasso"
-  ],
-  "pidla": [
-    "pidla"
-  ],
-  "piebalgs": [
-    "piebalgs"
-  ],
-  "piera": [
-    "piera"
-  ],
-  "pilar": [
-    "pilar"
-  ],
-  "pinochet": [
-    "pinochet"
-  ],
-  "pizarro": [
-    "pizarro"
-  ],
-  "planck": [
-    "planck"
-  ],
-  "plato": [
-    "platone"
+  "Plato": [
+    "Platone"
   ],
   "pliny": [
     "plinio"
@@ -2255,10 +2226,11 @@
     "pleonasmo"
   ],
   "plethora": [
-    "pletora"
+    "miriade"
   ],
   "plot": [
-    "trama"
+    "trama",
+    "congiura"
   ],
   "plumber": [
     "idraulico"
@@ -2324,10 +2296,11 @@
     "poliziotto"
   ],
   "policewoman": [
-    "poliziotto"
+    "poliziotta"
   ],
   "policy": [
-    "polizza"
+    "polizza",
+    "politica"
   ],
   "politician": [
     "politico"

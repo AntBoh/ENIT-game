@@ -76,7 +76,8 @@
     "sano"
   ],
   "heavenly": [
-    "celestiale"
+    "celestiale",
+    "paradisiaco"
   ],
   "heavy": [
     "pesante"
@@ -164,14 +165,16 @@
     "storico"
   ],
   "hollow": [
-    "vuoto"
+    "vuoto",
+    "vacuo"
   ],
   "holy": [
     "sacro",
     "santo"
   ],
   "home-made": [
-    "casereccio"
+    "casereccio",
+    "fatto in casa"
   ],
   "homoeopathic": [
     "omeopatico"
@@ -627,7 +630,8 @@
   ],
   "handle": [
     "maniglia",
-    "manipolare"
+    "maneggiare",
+    "manubrio"
   ],
   "handlebar": [
     "manubrio"
@@ -683,7 +687,8 @@
     "odio"
   ],
   "hatred": [
-    "avversione"
+    "odio",
+    "rancore"
   ],
   "haustorium": [
     "austorio"
@@ -702,7 +707,9 @@
   ],
   "head": [
     "aprire",
-    "testa"
+    "testa",
+    "capo",
+    "guidare"
   ],
   "headoffice": [
     "centrale"
@@ -763,7 +770,8 @@
     "edonismo"
   ],
   "heel": [
-    "tallone"
+    "tallone",
+    "tacco"
   ],
   "hegemony": [
     "egemonia"
@@ -1481,7 +1489,7 @@
     "avere"
   ],
   "heal": [
-    "sanare"
+    "curare"
   ],
   "hear": [
     "udire"
@@ -1493,7 +1501,6 @@
     "esitare"
   ],
   "highlight": [
-    "distaccare",
     "evidenziare"
   ],
   "hinder": [

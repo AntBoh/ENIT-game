@@ -247,139 +247,40 @@
     "nord"
   ],
   "northern": [
-    "delnord"
+    "nordico"
   ],
-  "nagasaki": [
-    "nagasaki"
+  "Naples": [
+    "Napoli"
   ],
-  "newyorkstockexchange": [
-    "newyorkstockexchange"
+  "Napoleon": [
+    "Napoleone"
   ],
-  "northatlantictreatyorganization": [
-    "organizzazionedeltrattatonordatlantico"
+  "Nebuchadnezzar": [
+    "Nabucodonosor"
   ],
-  "napster": [
-    "napster"
+  "New Caledonia": [
+    "Nuova Caledonia"
   ],
-  "namibia": [
-    "namibia"
+  "New Zealand": [
+    "Nuova Zelanda"
   ],
-  "nancy": [
-    "nancy"
+  "Normandy": [
+    "Normandia"
   ],
-  "naples": [
-    "napoli"
+  "North America": [
+    "Nord America"
   ],
-  "napoleon": [
-    "napoleone"
+  "Northern Ireland": [
+    "Irlanda del Nord"
   ],
-  "navarra": [
-    "navarra"
-  ],
-  "nazaret": [
-    "nazaret"
-  ],
-  "nazareth": [
-    "nazaret"
-  ],
-  "nebraska": [
-    "nebraska"
-  ],
-  "nebuchadnezzar": [
-    "nabucodonosor"
-  ],
-  "nejstgaard": [
-    "nejstgaard"
-  ],
-  "nepal": [
-    "nepal"
-  ],
-  "nevada": [
-    "nevada"
-  ],
-  "newcaledonia": [
-    "nuovacaledonia"
-  ],
-  "newhampshire": [
-    "newhampshire"
-  ],
-  "newjersey": [
-    "newjersey"
-  ],
-  "newmexico": [
-    "nuovomessico"
-  ],
-  "neworleans": [
-    "neworleans"
-  ],
-  "newsiberianislands": [
-    "isoledellanuovasiberia"
-  ],
-  "newtestament": [
-    "nuovotestamento"
-  ],
-  "newyork": [
-    "newyork"
-  ],
-  "newzealand": [
-    "nuovazelanda"
-  ],
-  "nicaragua": [
-    "nicaragua"
-  ],
-  "nicholson": [
-    "nicholson"
-  ],
-  "nicola": [
-    "nicola"
-  ],
-  "nicolassarkozy": [
-    "nicolassarkozy"
-  ],
-  "niger": [
-    "niger"
-  ],
-  "nigeria": [
-    "nigeria"
-  ],
-  "nizza": [
-    "nizza"
-  ],
-  "nobel": [
-    "nobel"
-  ],
-  "norberto": [
-    "norberto"
-  ],
-  "normandy": [
-    "normandia"
-  ],
-  "northamerica": [
-    "americasettentrionale"
-  ],
-  "northcarolina": [
-    "carolinadelnord"
-  ],
-  "northdakota": [
-    "dakotadelnord"
-  ],
-  "northisland": [
-    "isoladelnord"
-  ],
-  "northernireland": [
-    "irlandadelnord"
-  ],
-  "norway": [
-    "norvegia"
+  "Norway": [
+    "Norvegia"
   ],
   "notepad": [
-    "blocnotes"
+    "blocco note"
   ],
   "nitrite": [
     "nitrito"
-  ],
-  "nadir": [
-    "nadir"
   ],
   "neighbourhood": [
     "vicinato"
@@ -959,10 +860,11 @@
     "ognitanto"
   ],
   "nowadays": [
-    "oggigiorno"
+    "oggigiorno",
+    "odiernamente"
   ],
   "nowhere": [
-    "danessunaparte"
+    "da nessuna parte"
   ],
   "numerically": [
     "numericamente"
@@ -971,8 +873,8 @@
     "candidare",
     "nominare"
   ],
-  "needto": [
-    "averebisognoche"
+  "need": [
+    "avere bisogno"
   ],
   "narrate": [
     "narrare"
@@ -1004,11 +906,11 @@
   "nourish": [
     "nutrire"
   ],
-  "noone": [
+  "no one": [
     "nessuno"
   ],
   "nobody": [
-    "nadie"
+    "nessuno"
   ],
   "none": [
     "nessuno"

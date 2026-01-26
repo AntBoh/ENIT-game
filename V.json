@@ -175,56 +175,8 @@
   "ventre": [
     "ventre"
   ],
-  "venus": [
-    "venere"
-  ],
-  "vergara": [
-    "vergara"
-  ],
-  "verheugen": [
-    "verheugen"
-  ],
-  "vermont": [
-    "vermont"
-  ],
-  "viana": [
-    "viana"
-  ],
-  "vic": [
-    "vic"
-  ],
-  "vicente": [
-    "vicente"
-  ],
-  "vicentealeixandre": [
-    "vicentealeixandre"
-  ],
-  "victorhugo": [
-    "victorhugo"
-  ],
-  "vienna": [
-    "vienna"
-  ],
-  "vietnam": [
-    "vietnam"
-  ],
-  "vigo": [
-    "vigo"
-  ],
-  "viladecans": [
-    "viladecans"
-  ],
-  "villafrancadelcid": [
-    "villafrancadelcid"
-  ],
-  "villalba": [
-    "villalba"
-  ],
-  "villalobos": [
-    "villalobos"
-  ],
-  "villalonga": [
-    "villalonga"
+  "Venus": [
+    "Venere"
   ],
   "villar": [
     "villar"
@@ -520,10 +472,11 @@
     "vescicola"
   ],
   "vessel": [
-    "barca"
+    "vascello",
+    "ricettacolo"
   ],
   "vest": [
-    "maglia"
+    "vest"
   ],
   "vetch": [
     "veccia"
@@ -531,11 +484,12 @@
   "veterinarian": [
     "veterinario"
   ],
-  "veterinarymedicine": [
+  "veterinary medicine": [
     "veterinaria"
   ],
   "vexation": [
-    "sopraffazione"
+    "sopraffazione",
+    "vessazione"
   ],
   "viaduct": [
     "viadotto"
