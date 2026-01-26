@@ -280,8 +280,6 @@ function showFoundTranslations() {
   const worddexPage = document.getElementById("worddexPage");
   const worddexBtn = document.getElementById("worddexBtn");
   const backToGame = document.getElementById("backToGame");
-  const settingsBtn = document.getElementById("settingsBtn");
-  const settingsPanel = document.getElementById("settingsPanel");
   const darkBtn = document.getElementById("darkModeBtn");
   const gameBtn = document.getElementById("gameBtn");
   const skipButton = document.getElementById("skip");
@@ -348,7 +346,6 @@ if (skipButton) {skipButton.addEventListener("click", () => {
   gameBtn.addEventListener("click", () => {
     sidebar.classList.remove("open");
     worddexPage.classList.add("hidden");
-    settingsPanel.classList.remove("open");
   });
 
   darkBtn.addEventListener("click", () => {
@@ -360,9 +357,23 @@ if (skipButton) {skipButton.addEventListener("click", () => {
     document.body.classList.add("dark");
   }
 
-  settingsBtn.addEventListener("click", () => {
-    settingsPanel.classList.toggle("open");
+document.querySelectorAll(".accordion-btn").forEach(btn => {
+  btn.addEventListener("click", () => {
+    const panel = btn.nextElementSibling;
+    const isOpen = panel.style.maxHeight && panel.style.maxHeight !== "0px";
+
+    // chiudi tutti
+    document.querySelectorAll(".accordion-panel").forEach(p => {
+      p.style.maxHeight = null;
+    });
+
+    // apri quello selezionato
+    if (!isOpen) {
+      panel.style.maxHeight = panel.scrollHeight + "px";
+    }
   });
+});
+
 
   worddexBtn.addEventListener("click", () => {
     worddexPage.classList.remove("hidden");
@@ -379,7 +390,6 @@ if (skipButton) {skipButton.addEventListener("click", () => {
 
   closeBtn.addEventListener("click", () => {
     sidebar.classList.remove("open");
-    settingsPanel.classList.add("hidden");
   });
 
   resetButton.addEventListener("click", () => {
@@ -473,6 +483,7 @@ loadAllDictionaries().then(() => {
   updateCounters();
   chooseWord();
 });
+
 
 
 });

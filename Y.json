@@ -1,7 +1,5 @@
 {
   "your": [
-    "iltuo",
-    "ilvostro",
     "tuo",
     "vostro"
   ],
@@ -12,38 +10,11 @@
     "annuale"
   ],
   "young": [
-    "giovane",
-    "young"
+    "giovane"
   ],
   "yours": [
-    "iltuo",
-    "ilvostro",
     "tuo",
     "vostro"
-  ],
-  "yugoslav": [
-    "iugoslavo"
-  ],
-  "yahoo": [
-    "yahoo"
-  ],
-  "yanukovych": [
-    "yanukovych"
-  ],
-  "yeltsin": [
-    "yeltsin"
-  ],
-  "yemen": [
-    "yemen"
-  ],
-  "york": [
-    "york"
-  ],
-  "yugoslavia": [
-    "jugoslavia"
-  ],
-  "yushchenko": [
-    "yushchenko"
   ],
   "yoke": [
     "giogo"
@@ -51,12 +22,6 @@
   "yawn": [
     "sbadigliare",
     "sbadiglio"
-  ],
-  "yen": [
-    "yen"
-  ],
-  "yacht": [
-    "yacht"
   ],
   "yard": [
     "cortile"
@@ -84,42 +49,32 @@
     "giovane"
   ],
   "youth": [
-    "giovinezza"
+    "giovinezza",
+    "gioventù"
   ],
-  "youthcentre": [
-    "centrogiovanile"
+  "youth centre": [
+    "centro giovanile"
   ],
   "yugoslavian": [
     "iugoslavo"
-  ],
-  "yearafteryear": [
-    "annodopoanno"
-  ],
-  "yearinyearout": [
-    "annodopoanno"
   ],
   "yesterday": [
     "ieri"
   ],
   "yet": [
-    "ancora"
+    "ancora",
+    "già"
   ],
   "yourself": [
-    "prpers"
+    "te stesso"
   ],
   "yourselves": [
-    "prpers"
-  ],
-  "yoghourt": [
-    "yogurt"
+    "voi stessi"
   ],
   "yoghurt": [
     "yogurt"
   ],
   "yttrium": [
     "ittrio"
-  ],
-  "yello": [
-    "giallo"
   ]
 }

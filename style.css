@@ -356,3 +356,86 @@ body.dark #counters {
 }
 
 /* feedback già sistemato sopra */
+/* accordion */
+.accordion-btn {
+  width: 100%;
+  text-align: left;
+  padding: 12px 14px;
+  background: #444;     /* <- sfondo di “Impostazioni” */
+  color: white;         /* <- colore testo */
+  border: none;
+  cursor: pointer;
+  font-family: "Arial Black", sans-serif;  /* <- font di “Impostazioni” */
+  letter-spacing: 1px;
+  font-size: 16px;
+  margin-top: 8px;
+}
+
+.accordion-panel {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease;
+  background: #222;
+  padding: 0 10px;
+}
+
+.accordion-panel button {
+  width: 100%;
+  margin: 8px 0;
+}
+
+/* MENU ITEM */
+.menu-item {
+  width: 100%;
+  text-align: left;
+  padding: 12px 14px;
+  background: #444;
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-family: "Arial", sans-serif;
+  letter-spacing: 1px;
+  font-size: 16px;
+  margin-bottom: 8px;
+}
+
+/* DISABLED */
+.menu-item.disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+
+/* VOCI DENTRO IMPOSTAZIONI */
+.accordion-item {
+  width: 100%;
+  text-align: left;
+  padding: 10px 14px;
+  background: #444;
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-family: Arial, sans-serif;  /* QUI puoi mettere Arial se vuoi */
+  margin: 0;
+}
+
+/* SE APERTO */
+.accordion-panel.open {
+  max-height: 200px; /* abbastanza grande da mostrare le voci */
+}
+
+.sidebar .menu-item,
+.sidebar .accordion-btn,
+.sidebar .accordion-item {
+  width: 100%;
+  text-align: left;
+  padding: 12px 14px;
+  background: #333;
+  color: white;
+  border: none;
+  cursor: pointer;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+    display: block;
+  margin: 0;
+}

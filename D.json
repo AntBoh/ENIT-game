@@ -15,7 +15,8 @@
   ],
   "dark": [
     "moro",
-    "scuro"
+    "scuro",
+    "buio"
   ],
   "dead": [
     "morto"
@@ -49,7 +50,6 @@
     "decrescente"
   ],
   "decoder": [
-    "decoder",
     "decodificatore"
   ],
   "decorative": [
