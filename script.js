@@ -334,7 +334,6 @@ if (!progress[mode][currentWordKey].includes(userAnswer)) {
     input.value = "";
     chooseWord();
   };
-button.addEventListener("touchend", submitAnswer);
 
 
 
