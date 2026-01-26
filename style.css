@@ -367,3 +367,20 @@ body.dark #counters {
   color: #eee;
   border-color: #444;
 }
+
+
+#check {
+  position: relative;
+  left: 0px;   /* cambia questo valore */
+  top: 37px;    /* cambia questo valore */
+}
+#skip {
+  position: relative;
+  left: 0px;   /* cambia questo valore */
+  top: 37px;    /* cambia questo valore */
+}
+#feedback {
+  position: relative;
+  left: 0px;   /* cambia questo valore */
+  top: -13px;    /* cambia questo valore */
+}

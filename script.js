@@ -1,7 +1,11 @@
 document.addEventListener("DOMContentLoaded", () => {
 
+
   let currentWordKey = "";
   let mode = "en_it";
+  mode = "en_it"; // forzato
+  
+
 
   let seenWords = JSON.parse(localStorage.getItem("seenWords")) || {
     en_it: [],
@@ -17,6 +21,32 @@ document.addEventListener("DOMContentLoaded", () => {
   };
 
   let progress = JSON.parse(localStorage.getItem("progress"));
+  let counters = JSON.parse(localStorage.getItem("counters")) || {
+  completed: 0,
+  translations: 0
+};
+
+function recalcCountersFromProgress() {
+  const dict = dictionary[mode] || {};
+  const prog = progress[mode] || {};
+
+  let completed = 0;
+  let translations = 0;
+
+  for (const word of Object.keys(prog)) {
+    const found = prog[word] || [];
+    translations += found.length;
+
+    if (dict[word] && found.length === dict[word].length) {
+      completed++;
+    }
+  }
+
+  counters.completed = completed;
+  counters.translations = translations;
+}
+
+
 
   if (!progress || typeof progress !== "object") {
     progress = { en_it: {}, it_en: {} };
@@ -33,6 +63,36 @@ document.addEventListener("DOMContentLoaded", () => {
       .replace(/\s+/g, " ")
       .trim();
   }
+
+function updateCounters() {
+  document.getElementById("completedCounter").textContent =
+    `Parole completate: ${counters.completed}`;
+
+  document.getElementById("translationsCounter").textContent =
+    `Traduzioni effettuate: ${counters.translations}`;
+
+  localStorage.setItem("counters", JSON.stringify(counters));
+}
+function recalcCountersFromProgress() {
+  const dict = dictionary[mode] || {};
+  const prog = progress[mode] || {};
+
+  let completed = 0;
+  let translations = 0;
+
+  for (const word of Object.keys(prog)) {
+    const found = prog[word] || [];
+    translations += found.length;
+
+    if (dict[word] && found.length === dict[word].length) {
+      completed++;
+    }
+  }
+
+  counters.completed = completed;
+  counters.translations = translations;
+}
+
 
 
 
@@ -78,7 +138,14 @@ if (!seenWords[mode].includes(currentWordKey)) {
 }
 
 document.getElementById("word").textContent = currentWordKey.toLowerCase();
-showFoundTranslations();
+
+
+  // se non è stata trovata ancora, nascondi il container
+  document.getElementById("foundContainer").classList.add("hidden");
+
+
+recalcCountersFromProgress();
+updateCounters();
 
 }
 
@@ -204,6 +271,10 @@ showFoundTranslations();
   const gameBtn = document.getElementById("gameBtn");
   const skipButton = document.getElementById("skip");
   const form = document.getElementById("gameForm");
+  toggleButton.disabled = true;
+toggleButton.style.opacity = 0.4;
+toggleButton.textContent = "Modalità it_en disabilitata";
+
 
 form.addEventListener("submit", (e) => {
   e.preventDefault();
@@ -220,13 +291,24 @@ form.addEventListener("submit", (e) => {
       progress[mode][currentWordKey] = [];
     }
 
-    if (!progress[mode][currentWordKey].includes(userAnswer)) {
-      progress[mode][currentWordKey].push(userAnswer);
-      localStorage.setItem("progress", JSON.stringify(progress));
-    }
+const foundBefore = progress[mode][currentWordKey]?.length || 0;
+
+if (!progress[mode][currentWordKey].includes(userAnswer)) {
+  progress[mode][currentWordKey].push(userAnswer);
+  localStorage.setItem("progress", JSON.stringify(progress));
+  counters.translations++;
+}
+
+const foundAfter = progress[mode][currentWordKey].length;
+const total = dictionary[mode][currentWordKey].length;
+
+if (foundBefore < total && foundAfter === total) {
+  counters.completed++;
+}
 
     showFoundTranslations();
     renderWorddexAccordion();
+    updateCounters();
 
     feedback.textContent = "Corretto!";
     feedback.style.color = "green";
@@ -299,8 +381,12 @@ if (skipButton) {skipButton.addEventListener("click", () => {
     feedback.textContent = "Progressi resettati!";
     feedback.style.color = "orange";
 
+    counters = { completed: 0, translations: 0 };
+    localStorage.removeItem("counters");
+
     chooseWord();
     renderWorddexAccordion();
+    updateCounters();
   });
 
   function submitAnswer() {
@@ -320,14 +406,19 @@ if (skipButton) {skipButton.addEventListener("click", () => {
     if (!progress[mode][currentWordKey].includes(userAnswer)) {
       progress[mode][currentWordKey].push(userAnswer);
       localStorage.setItem("progress", JSON.stringify(progress));
+      counters.translations++;
     }
 
     feedback.textContent = "Corretto!";
     feedback.style.color = "green";
 
     //  NON cambiare parola subito
+    // mostra il container SOLO se la parola è già stata vista prima
+  if ((progress[mode][currentWordKey] || []).length > 0) {
     showFoundTranslations();
-    renderWorddexAccordion();
+  }
+  renderWorddexAccordion();
+
 
     input.value = "";
 
@@ -355,9 +446,16 @@ if (skipButton) {skipButton.addEventListener("click", () => {
 
     chooseWord();
     renderWorddexAccordion();
+    recalcCountersFromProgress();
+    updateCounters();
+
   });
 
   // --- START GAME ---
 
-  chooseWord();
+  chooseWord().then(() => {
+  recalcCountersFromProgress();
+  updateCounters();
+});
+
 });

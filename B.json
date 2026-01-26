@@ -1,8 +1,6 @@
 {
   "both": [
-    "entrambi",
-    "entrambii",
-    "tuttiedue"
+    "entrambi"
   ],
   "blackmailer": [
     "ricattatore"
@@ -399,9 +397,6 @@
   ],
   "barrot": [
     "barrot"
-  ],
-  "bartolomeo": [
-    "bartolomeo"
   ],
   "basauri": [
     "basauri"
@@ -998,12 +993,8 @@
   "bathroom": [
     "saladabagno"
   ],
-  "bakingpowder": [
-    "lievitoinpolvere"
-  ],
-  "batter": [
-    "pastacresciuta",
-    "pastella"
+  "baking powder": [
+    "lievito in polvere"
   ],
   "battery": [
     "pila"
@@ -1766,14 +1757,11 @@
   "betrayer": [
     "traditore"
   ],
-  "beau": [
-    "corteggiatore"
-  ],
   "bloodshed": [
-    "spargimentodisangue"
+    "spargimento di sangue"
   ],
   "bailiff": [
-    "ufficialegiudiziario"
+    "ufficiale giudiziario"
   ],
   "bobsled": [
     "bob"
@@ -2361,8 +2349,9 @@
   "bringback": [
     "riportare"
   ],
-  "bringdown": [
-    "scendere"
+  "bring down": [
+    "scendere",
+    "abbattere"
   ],
   "bringtogether": [
     "riunire"
