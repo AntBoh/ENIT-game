@@ -16,6 +16,9 @@ document.addEventListener("DOMContentLoaded", () => {
   };
 
   let progress = JSON.parse(localStorage.getItem("progress"));
+  let completedCount = 0;
+let translationsCount = 0;
+
 
   if (!progress || typeof progress !== "object") {
     progress = { en_it: {}, it_en: {} };
@@ -48,6 +51,33 @@ function loadDictionaryForLetter(letter) {
       return res.json();
     });
 }
+  function updateCounters() {
+  // conteggio traduzioni effettuate
+  translationsCount = 0;
+  for (const modeKey of Object.keys(progress)) {
+    for (const word of Object.keys(progress[modeKey])) {
+      translationsCount += progress[modeKey][word].length;
+    }
+  }
+
+  // conteggio parole completate
+  completedCount = 0;
+  for (const modeKey of Object.keys(progress)) {
+    for (const word of Object.keys(progress[modeKey])) {
+      const all = dictionary[modeKey]?.[word] || [];
+      const found = progress[modeKey][word] || [];
+      if (Array.isArray(all) && found.length === all.length && all.length > 0) {
+        completedCount++;
+      }
+    }
+  }
+
+  document.getElementById("completedCounter").textContent =
+    `Parole completate: ${completedCount}`;
+
+  document.getElementById("translationsCounter").textContent =
+    `Traduzioni effettuate: ${translationsCount}`;
+}
 
 
  async function chooseWord() {
@@ -76,6 +106,7 @@ if (!seenWords[mode].includes(lowerWord)) {
 }
 
 document.getElementById("word").textContent = lowerWord;
+
 showFoundTranslations();
  }
 
@@ -254,16 +285,17 @@ showFoundTranslations();
 
     chooseWord();
     renderWorddexAccordion();
+    updateCounters();
   });
 
   button.addEventListener("click", () => {
     const userAnswer = normalize(input.value);
 
-    if (!dictionary[mode] || !dictionary[mode][currentWord.toLowerCase()]) {
+    if (!dictionary[mode] || !dictionary[mode][currentWord]) {
       feedback.textContent = "Errore: parola non trovata.";
       feedback.style.color = "red";
     } else if (
-      dictionary[mode][currentWord.toLowerCase()].map(normalize).includes(userAnswer)
+      dictionary[mode][currentWord].map(normalize).includes(userAnswer)
     ) {
       if (!progress[mode][currentWord]) {
         progress[mode][currentWord] = [];
@@ -272,6 +304,7 @@ showFoundTranslations();
       if (!progress[mode][currentWord].includes(userAnswer)) {
         progress[mode][currentWord].push(userAnswer);
         localStorage.setItem("progress", JSON.stringify(progress));
+        updateCounters();
       }
 
       showFoundTranslations();
@@ -305,5 +338,6 @@ showFoundTranslations();
 
   // --- START GAME ---
   let currentWord = "";
+  updateCounters();
   chooseWord();
 });
