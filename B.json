@@ -2090,52 +2090,21 @@
   "backtofront": [
     "all'indietro"
   ],
-  "byahair'sbreadth": [
-    "perunpelo"
-  ],
-  "byawhisker": [
-    "perunpelo"
-  ],
-  "bytheskinofherteeth": [
-    "perunpelo"
-  ],
-  "bytheskinofhisteeth": [
-    "perunpelo"
-  ],
-  "bytheskinofitsteeth": [
-    "perunpelo"
-  ],
-  "bytheskinofmyteeth": [
-    "perunpelo"
-  ],
-  "bytheskinofone'steeth": [
-    "perunpelo"
-  ],
-  "bytheskinofourteeth": [
-    "perunpelo"
-  ],
-  "bytheskinoftheirteeth": [
-    "perunpelo"
-  ],
-  "bytheskinofyourteeth": [
-    "perunpelo"
-  ],
   "backwards": [
-    "dietro"
+    "all'indietro"
   ],
   "badly": [
     "male"
   ],
   "barely": [
-    "appena"
+    "appena",
+    "a malapena"
   ],
   "basically": [
-    "basicamente"
+    "praticamente"
   ],
   "before": [
-    "prima",
-    "primache",
-    "primadi"
+    "prima"
   ],
   "beforehand": [
     "preventivamente"

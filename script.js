@@ -1,10 +1,21 @@
 document.addEventListener("DOMContentLoaded", () => {
-
+let showFoundTimer = null;
 
   let currentWordKey = "";
   let mode = "en_it";
   mode = "en_it"; // forzato
   
+  async function loadAllDictionaries() {
+  const promises = alphabet.map(letter => loadDictionaryForLetter(letter));
+  const allData = await Promise.all(promises);
+
+  // unisci tutti i file in un unico dictionary
+  dictionary[mode] = {};
+  for (const data of allData) {
+    dictionary[mode] = { ...dictionary[mode], ...data };
+  }
+}
+
 
 
   let seenWords = JSON.parse(localStorage.getItem("seenWords")) || {
@@ -73,25 +84,6 @@ function updateCounters() {
 
   localStorage.setItem("counters", JSON.stringify(counters));
 }
-function recalcCountersFromProgress() {
-  const dict = dictionary[mode] || {};
-  const prog = progress[mode] || {};
-
-  let completed = 0;
-  let translations = 0;
-
-  for (const word of Object.keys(prog)) {
-    const found = prog[word] || [];
-    translations += found.length;
-
-    if (dict[word] && found.length === dict[word].length) {
-      completed++;
-    }
-  }
-
-  counters.completed = completed;
-  counters.translations = translations;
-}
 
 
 
@@ -111,15 +103,21 @@ function loadDictionaryForLetter(letter) {
       return res.json();
     });
 }
-
+const loadedLetters = { en_it: new Set(), it_en: new Set() };
 
  async function chooseWord() {
+    const letter = alphabet[Math.floor(Math.random() * alphabet.length)];
 
-  const letter = alphabet[Math.floor(Math.random() * alphabet.length)];
+  if (!loadedLetters[mode].has(letter)) {
+    const data = await loadDictionaryForLetter(letter);
+    dictionary[mode] = { ...dictionary[mode], ...data };
+    loadedLetters[mode].add(letter);
+  }
   const data = await loadDictionaryForLetter(letter);
-  dictionary[mode] = data;
+  dictionary[mode] = { ...dictionary[mode], ...data };
 
-  const allWords = Object.keys(dictionary[mode]); // NON toLowerCase()
+
+  const allWords = Object.keys(dictionary[mode]);
 
   const incomplete = allWords.filter(word => {
     const found = progress[mode][word] || [];
@@ -130,41 +128,56 @@ function loadDictionaryForLetter(letter) {
     chooseWord();
     return;
   }
-
-currentWordKey = incomplete[Math.floor(Math.random() * incomplete.length)];
-
-if (!seenWords[mode].includes(currentWordKey)) {
-  seenWords[mode].push(currentWordKey);
-}
-
-document.getElementById("word").textContent = currentWordKey.toLowerCase();
-
-
-  // se non è stata trovata ancora, nascondi il container
-  document.getElementById("foundContainer").classList.add("hidden");
-
-
-recalcCountersFromProgress();
-updateCounters();
-
+  if (showFoundTimer) {
+  clearTimeout(showFoundTimer);
+  showFoundTimer = null;
 }
 
 
+  currentWordKey = incomplete[Math.floor(Math.random() * incomplete.length)];
 
-  function showFoundTranslations() {
-    const found = progress[mode][currentWordKey] || [];
-    const foundDiv = document.getElementById("found");
-    const foundContainer = document.getElementById("foundContainer");
-
-    if (found.length === 0) {
-      foundContainer.classList.add("hidden");
-    } else {
-      foundContainer.classList.remove("hidden");
-      foundDiv.innerHTML = "Traduzioni già trovate:<br>" + found.join(", ");
-    }
-    localStorage.setItem("seenWords", JSON.stringify(seenWords));
-
+  if (!seenWords[mode].includes(currentWordKey)) {
+    seenWords[mode].push(currentWordKey);
   }
+
+  document.getElementById("word").textContent = currentWordKey.toLowerCase();
+
+  const found = progress[mode][currentWordKey] || [];
+  if (found.length === 0) {
+    document.getElementById("foundContainer").classList.add("hidden");
+  } else {
+    document.getElementById("foundContainer").classList.remove("hidden");
+  }
+
+  recalcCountersFromProgress();
+  updateCounters();
+}
+
+
+
+
+function showFoundTranslations() {
+  const found = progress[mode][currentWordKey] || [];
+  const foundDiv = document.getElementById("found");
+  const foundContainer = document.getElementById("foundContainer");
+
+  // se non ci sono traduzioni trovate, nascondi subito
+  if (found.length === 0) {
+    foundContainer.classList.add("hidden");
+    return;
+  }
+
+  // cancella eventuale timer precedente
+  if (showFoundTimer) {
+    clearTimeout(showFoundTimer);
+  }
+
+  // mostra solo dopo 600ms (puoi cambiare)
+  showFoundTimer = setTimeout(() => {
+    foundContainer.classList.remove("hidden");
+    foundDiv.innerHTML = "Traduzioni già trovate:<br>" + found.join(", ");
+  }, 600);
+}
 
   async function renderWorddexAccordion() {
   const accordionContainer = document.getElementById("accordionContainer");
@@ -202,7 +215,8 @@ updateCounters();
       if (dropdown.dataset.loaded === "true") return;
 
       const data = await loadDictionaryForLetter(letter);
-      dictionary[mode] = data;
+      dictionary[mode] = { ...dictionary[mode], ...data };
+
 
       const words = Object.keys(dictionary[mode]);
 
@@ -257,6 +271,7 @@ updateCounters();
   const input = document.getElementById("answer");
   const button = document.getElementById("check");
   const feedback = document.getElementById("feedback");
+  feedback.style.visibility = "hidden";
   const toggleButton = document.getElementById("toggle");
   const resetButton = document.getElementById("resetBtn");
   const menuBtn = document.getElementById("menuBtn");
@@ -296,25 +311,23 @@ const foundBefore = progress[mode][currentWordKey]?.length || 0;
 if (!progress[mode][currentWordKey].includes(userAnswer)) {
   progress[mode][currentWordKey].push(userAnswer);
   localStorage.setItem("progress", JSON.stringify(progress));
-  counters.translations++;
+  recalcCountersFromProgress();
+  updateCounters();
 }
 
-const foundAfter = progress[mode][currentWordKey].length;
-const total = dictionary[mode][currentWordKey].length;
-
-if (foundBefore < total && foundAfter === total) {
-  counters.completed++;
-}
 
     showFoundTranslations();
     renderWorddexAccordion();
     updateCounters();
 
     feedback.textContent = "Corretto!";
-    feedback.style.color = "green";
+feedback.style.color = "green";
+feedback.style.visibility = "visible";
+
   } else {
     feedback.textContent = "Sbagliato!";
     feedback.style.color = "red";
+    feedback.style.visibility = "visible";
   }
 
   input.value = "";
@@ -411,6 +424,7 @@ if (skipButton) {skipButton.addEventListener("click", () => {
 
     feedback.textContent = "Corretto!";
     feedback.style.color = "green";
+    feedback.style.visibility = "visible";
 
     //  NON cambiare parola subito
     // mostra il container SOLO se la parola è già stata vista prima
@@ -431,6 +445,7 @@ if (skipButton) {skipButton.addEventListener("click", () => {
   } else {
     feedback.textContent = "Sbagliato!";
     feedback.style.color = "red";
+    feedback.style.visibility = "visible";
     input.value = "";
     chooseWord();
   }
@@ -439,23 +454,25 @@ if (skipButton) {skipButton.addEventListener("click", () => {
 
 
   console.log("elemento toggle:", document.getElementById("toggle"));
-  toggleButton.addEventListener("click", () => {
-    mode = mode === "en_it" ? "it_en" : "en_it";
-    feedback.textContent = "";
-    input.value = "";
+  //toggleButton.addEventListener("click", () => {
+    //mode = mode === "en_it" ? "it_en" : "en_it";
+    //feedback.textContent = "";
+    //input.value = "";
 
-    chooseWord();
-    renderWorddexAccordion();
-    recalcCountersFromProgress();
-    updateCounters();
+    //chooseWord();
+    //renderWorddexAccordion();
+    //recalcCountersFromProgress();
+    //updateCounters();
 
-  });
+  //});
 
   // --- START GAME ---
 
-  chooseWord().then(() => {
+loadAllDictionaries().then(() => {
   recalcCountersFromProgress();
   updateCounters();
+  chooseWord();
 });
+
 
 });
