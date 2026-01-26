@@ -88,6 +88,7 @@ html, body {
   overflow-x: hidden;
 }
 
+
 .worddex-topbar {
   background: #333;
   color: white;
@@ -303,7 +304,7 @@ body.dark .settings-panel h3 {
   align-items: center;
   justify-content: center;
   border: none;
-  background: transparent;
+  background: #f0f0f0;
   cursor: pointer;
 }
 

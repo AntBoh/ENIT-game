@@ -414,54 +414,6 @@ document.querySelectorAll(".accordion-btn").forEach(btn => {
     updateCounters();
   });
 
-  function submitAnswer() {
-  const userAnswer = normalize(input.value);
-
-  if (!dictionary[mode] || !dictionary[mode][currentWordKey]) {
-    feedback.textContent = "Errore: parola non trovata.";
-    feedback.style.color = "red";
-  } else if (
-    dictionary[mode][currentWordKey].map(normalize).includes(userAnswer)
-  ) {
-
-    if (!progress[mode][currentWordKey]) {
-      progress[mode][currentWordKey] = [];
-    }
-
-    if (!progress[mode][currentWordKey].includes(userAnswer)) {
-      progress[mode][currentWordKey].push(userAnswer);
-      localStorage.setItem("progress", JSON.stringify(progress));
-      counters.translations++;
-    }
-
-    feedback.textContent = "Corretto!";
-    feedback.style.color = "green";
-    feedback.style.visibility = "visible";
-
-    //  NON cambiare parola subito
-    // mostra il container SOLO se la parola è già stata vista prima
-  if ((progress[mode][currentWordKey] || []).length > 0) {
-    showFoundTranslations();
-  }
-  renderWorddexAccordion();
-
-
-    input.value = "";
-
-    //  metti qui la scelta della parola SOLO DOPO 200ms
-    setTimeout(() => {
-      chooseWord();
-      feedback.textContent = "";  // opzionale, se vuoi far sparire il messaggio
-    }, 200);
-
-  } else {
-    feedback.textContent = "Sbagliato!";
-    feedback.style.color = "red";
-    feedback.style.visibility = "visible";
-    input.value = "";
-    chooseWord();
-  }
-}
 
 
 
