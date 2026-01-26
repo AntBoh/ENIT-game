@@ -1,5 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
 
+  let currentWordKey = "";
   let mode = "en_it";
 
   let seenWords = JSON.parse(localStorage.getItem("seenWords")) || {
@@ -32,6 +33,8 @@ document.addEventListener("DOMContentLoaded", () => {
       .replace(/\s+/g, " ")
       .trim();
   }
+
+
 
 function loadDictionaryForLetter(letter) {
   let filePath;
@@ -69,13 +72,12 @@ function loadDictionaryForLetter(letter) {
   }
 
 currentWordKey = incomplete[Math.floor(Math.random() * incomplete.length)];
-currentWord = currentWordKey.toLowerCase();
 
-if (!seenWords[mode].includes(currentWord)) {
-  seenWords[mode].push(currentWord);
+if (!seenWords[mode].includes(currentWordKey)) {
+  seenWords[mode].push(currentWordKey);
 }
 
-document.getElementById("word").textContent = currentWord;
+document.getElementById("word").textContent = currentWordKey.toLowerCase();
 showFoundTranslations();
 
 }
@@ -93,6 +95,8 @@ showFoundTranslations();
       foundContainer.classList.remove("hidden");
       foundDiv.innerHTML = "Traduzioni già trovate:<br>" + found.join(", ");
     }
+    localStorage.setItem("seenWords", JSON.stringify(seenWords));
+
   }
 
   async function renderWorddexAccordion() {
@@ -106,15 +110,6 @@ showFoundTranslations();
     const letterBtn = document.createElement("button");
     letterBtn.textContent = letter;
     letterBtn.className = "letter-btn";
-
-    const skipButton = document.getElementById("skip");
-
-      skipButton.addEventListener("click", () => {
-        feedback.textContent = "";
-        input.value = "";
-        chooseWord();
-      });
-
 
     const dropdown = document.createElement("div");
     dropdown.className = "dropdown hidden";
@@ -134,11 +129,9 @@ showFoundTranslations();
     titlesRow.appendChild(rightTitle);
     dropdown.appendChild(titlesRow);
 
-    // Quando clicchi la lettera, carica il file relativo e popola la lista
     letterBtn.addEventListener("click", async () => {
       dropdown.classList.toggle("hidden");
 
-      // se è già stato popolato, non ricaricare
       if (dropdown.dataset.loaded === "true") return;
 
       const data = await loadDictionaryForLetter(letter);
@@ -192,7 +185,6 @@ showFoundTranslations();
 }
 
 
-
   // --- DOM ELEMENTS ---
 
   const input = document.getElementById("answer");
@@ -210,6 +202,14 @@ showFoundTranslations();
   const settingsPanel = document.getElementById("settingsPanel");
   const darkBtn = document.getElementById("darkModeBtn");
   const gameBtn = document.getElementById("gameBtn");
+  const skipButton = document.getElementById("skip");
+
+if (skipButton) {skipButton.addEventListener("click", () => {
+  feedback.textContent = "";
+  input.value = "";
+  chooseWord();
+});}
+
 
   // --- EVENT LISTENERS ---
 
@@ -273,17 +273,16 @@ showFoundTranslations();
       feedback.textContent = "Errore: parola non trovata.";
       feedback.style.color = "red";
     } else if (
-      dictionary[mode][currentWord.toLowerCase()].map(normalize).includes(userAnswer)
+      dictionary[mode][currentWordkey].map(normalize).includes(userAnswer)
     ) {
       if (!progress[mode][currentWordKey]) {
-      progress[mode][currentWordKey] = [];
-    }
+  progress[mode][currentWordKey] = [];
+}
 
+if (!progress[mode][currentWordKey].includes(userAnswer)) {
+  progress[mode][currentWordKey].push(userAnswer);
+}
 
-      if (!progress[mode][currentWord].includes(userAnswer)) {
-        progress[mode][currentWord].push(userAnswer);
-        localStorage.setItem("progress", JSON.stringify(progress));
-      }
 
       showFoundTranslations();
       renderWorddexAccordion();
@@ -305,6 +304,7 @@ showFoundTranslations();
     }
   });
 
+  console.log("elemento toggle:", document.getElementById("toggle"));
   toggleButton.addEventListener("click", () => {
     mode = mode === "en_it" ? "it_en" : "en_it";
     feedback.textContent = "";
@@ -315,8 +315,6 @@ showFoundTranslations();
   });
 
   // --- START GAME ---
-  let currentWord = "";
-  let currentWordKey = "";
 
   chooseWord();
 });

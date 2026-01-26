@@ -162,9 +162,6 @@ html, body {margin: 0; height: 100%; overflow: hidden}
   display: none !important;
 }
 
-html, body {
-  overflow-x: hidden;
-}
 
 /* =========================
    SETTINGS SUB-PANEL
@@ -232,10 +229,6 @@ body.dark .menu-btn {
   border-radius: 6px;
 }
 
-/* sidebar */
-body.dark .sidebar {
-  background: #111;
-}
 
 body.dark .menu-item {
   background: #222;
@@ -257,11 +250,6 @@ body.dark .dropdown-title {
   border-bottom-color: #444;
 }
 
-/* ===== DARK MODE ===== */
-body.dark {
-  background: #111;
-  color: #eee;
-}
 
 /* sidebar hamburger */
 body.dark .sidebar {
