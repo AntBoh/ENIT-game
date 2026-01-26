@@ -299,10 +299,12 @@ if (!progress[mode][currentWordKey].includes(userAnswer)) {
   });
 
   input.addEventListener("keydown", (event) => {
-    if (event.key === "Enter") {
-      button.click();
-    }
-  });
+  if (event.key === "Enter") {
+    event.preventDefault(); // <- qui è la chiave
+    button.click();
+  }
+});
+
 
   console.log("elemento toggle:", document.getElementById("toggle"));
   toggleButton.addEventListener("click", () => {
