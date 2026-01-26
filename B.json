@@ -1462,9 +1462,6 @@
   "bracelet": [
     "braccialetto"
   ],
-  "bradycardia": [
-    "bradicardia"
-  ],
   "brain": [
     "cervello"
   ],
@@ -1478,9 +1475,6 @@
   "brand": [
     "marca",
     "marchio"
-  ],
-  "brandy": [
-    "acquavite"
   ],
   "breach": [
     "infrangere",
@@ -2180,44 +2174,32 @@
   "beborn": [
     "nascere"
   ],
-  "bedistant": [
+  "be distant": [
     "distare"
   ],
-  "bedying": [
-    "agonizzare"
-  ],
-  "beequivalent": [
+  "be equivalent": [
     "equivalere"
   ],
-  "behungry": [
-    "averefame"
+  "be hungry": [
+    "avere fame"
   ],
-  "beindecline": [
-    "agonizzare"
-  ],
-  "beleft": [
+  "be left": [
     "restare"
   ],
-  "bemissing": [
+  "be missing": [
     "mancare"
   ],
-  "beshipwrecked": [
-    "naufragare"
+  "be sorry": [
+    "dispiacersi"
   ],
-  "besorry": [
-    "dispiacere"
-  ],
-  "beusedto": [
+  "be used to": [
     "solere"
   ],
-  "beverysorry": [
-    "dispiaceremolto"
-  ],
-  "beworth": [
+  "be worth": [
     "valere"
   ],
-  "beworthwhile": [
-    "essereutile"
+  "be worth while": [
+    "valere la pena"
   ],
   "benecessary": [
     "esserenecessario"
