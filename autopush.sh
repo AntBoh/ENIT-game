@@ -8,5 +8,12 @@ if git diff --cached --quiet; then
 fi
 
 git commit -m "auto commit"
-git pull --rebase origin main
+
+# recupera aggiornamenti
+git fetch origin
+
+# se ci sono cambiamenti remoti, fai rebase
+git rebase origin/main
+
+# poi push
 git push origin main
