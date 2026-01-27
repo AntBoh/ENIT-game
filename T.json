@@ -2179,49 +2179,49 @@
   "thirty": [
     "trenta"
   ],
-  "thirty-eight": [
+  "thirtyeight": [
     "trentotto"
   ],
-  "thirty-eightthousand": [
+  "thirtyeightthousand": [
     "trentottomila"
   ],
-  "thirty-five": [
+  "thirtyfive": [
     "trentacinque"
   ],
-  "thirty-fivethousand": [
+  "thirtyfivethousand": [
     "trentacinquemila"
   ],
-  "thirty-four": [
+  "thirtyfour": [
     "trentaquattro"
   ],
-  "thirty-fourthousand": [
+  "thirtyfourthousand": [
     "trentaquattromila"
   ],
-  "thirty-nine": [
+  "thirtynine": [
     "trentanove"
   ],
-  "thirty-ninethousand": [
+  "thirtyninethousand": [
     "trentanovemila"
   ],
-  "thirty-seven": [
+  "thirtyseven": [
     "trentasette"
   ],
-  "thirty-seventhousand": [
+  "thirtyseventhousand": [
     "trentasettemila"
   ],
-  "thirty-six": [
+  "thirtysix": [
     "trentasei"
   ],
-  "thirty-sixthousand": [
+  "thirtysixthousand": [
     "trentaseimila"
   ],
-  "thirty-threethousand": [
+  "thirtythreethousand": [
     "trentatremila"
   ],
-  "thirty-two": [
+  "thirtytwo": [
     "trentadue"
   ],
-  "thirty-twothousand": [
+  "thirtytwothousand": [
     "trentaduemila"
   ],
   "thirtyonethousand": [
@@ -2245,49 +2245,49 @@
   "twenty": [
     "venti"
   ],
-  "twenty-eight": [
+  "twentyeight": [
     "ventotto"
   ],
-  "twenty-eightthousand": [
+  "twentyeightthousand": [
     "ventottomila"
   ],
-  "twenty-five": [
+  "twentyfive": [
     "venticinque"
   ],
-  "twenty-fivethousand": [
+  "twentyfivethousand": [
     "venticinquemila"
   ],
-  "twenty-four": [
+  "twentyfour": [
     "ventiquattro"
   ],
-  "twenty-fourthousand": [
+  "twentyfourthousand": [
     "ventiquattromila"
   ],
-  "twenty-nine": [
+  "twentynine": [
     "ventinove"
   ],
-  "twenty-ninethousand": [
+  "twentyninethousand": [
     "ventinovemila"
   ],
-  "twenty-seven": [
+  "twentyseven": [
     "ventisette"
   ],
-  "twenty-seventhousand": [
+  "twentyseventhousand": [
     "ventisettemila"
   ],
-  "twenty-six": [
+  "twentysix": [
     "ventisei"
   ],
-  "twenty-sixthousand": [
+  "twentysixthousand": [
     "ventiseimila"
   ],
-  "twenty-threethousand": [
+  "twentythreethousand": [
     "ventitremila"
   ],
-  "twenty-two": [
+  "twentytwo": [
     "ventidue"
   ],
-  "twenty-twothousand": [
+  "twentytwothousand": [
     "ventiduemila"
   ],
   "twentyonethousand": [
@@ -2302,32 +2302,25 @@
   "twothousand": [
     "duemila"
   ],
-  "thanksto": [
-    "graciea"
+  "thank": [
+    "ringraziare"
   ],
   "through": [
-    "attraversoa",
-    "attraversodi"
+    "attraverso"
   ],
   "to": [
-    "verso"
-  ],
-  "togetherwith": [
-    "insiemea"
-  ],
-  "towards": [
+    "verso",
+    "a",
     "per"
   ],
-  "thirty-one": [
+  "towards": [
+    "per",
+    "verso"
+  ],
+  "thirtyone": [
     "trentuno"
   ],
-  "thirty-onethousand": [
-    "trentunomila"
-  ],
-  "twenty-one": [
+  "twentyone": [
     "ventuno"
-  ],
-  "twenty-onethousand": [
-    "ventunomila"
   ]
 }

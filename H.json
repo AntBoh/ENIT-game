@@ -1,10 +1,22 @@
 {
   "her": [
-    "ilsuo"
+    "suo",
+    "sua",
+    "sue",
+    "suoi",
+    "le",
+    "lei",
+    "la"
+  ],
+  "he": [
+    "lui",
+    "egli"
   ],
   "his": [
-    "ilsuo",
-    "suo"
+    "suo",
+    "sua",
+    "sue",
+    "suoi"
   ],
   "howmany": [
     "quanto"
@@ -416,38 +428,14 @@
   "holy spirit": [
     "spirito santo"
   ],
-  "homer": [
-    "omero"
+  "Homer": [
+    "Omero"
   ],
-  "horace": [
-    "orazio"
+  "Horace": [
+    "Orazio"
   ],
-  "houston": [
-    "houston"
-  ],
-  "huegun": [
-    "huegun"
-  ],
-  "huelva": [
-    "huelva"
-  ],
-  "huesca": [
-    "huesca"
-  ],
-  "hughes": [
-    "hughes"
-  ],
-  "hugo": [
-    "hugo"
-  ],
-  "hungary": [
-    "ungheria"
-  ],
-  "hussein": [
-    "hussein"
-  ],
-  "hexakosioihexekontahexaphobia": [
-    "hexakosioihexekontahexafobia"
+  "Hungary": [
+    "Ungheria"
   ],
   "hammer": [
     "martellare",
@@ -1540,6 +1528,11 @@
   ],
   "himself": [
     "sé stesso"
+  ],
+  "him":[
+    "gli",
+    "lo",
+    "lui"
   ],
   "hacker": [
     "hacker"

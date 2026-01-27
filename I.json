@@ -1,17 +1,14 @@
 {
-  "its": [
-    "ilsuo"
-  ],
   "islamist": [
     "islamista"
   ],
   "intricate": [
     "intricato"
   ],
-  "iberian": [
+  "Iberian": [
     "iberico"
   ],
-  "icelandic": [
+  "Icelandic": [
     "islandese"
   ],
   "iconic": [
@@ -316,9 +313,8 @@
   "indeterminate": [
     "indeterminato"
   ],
-  "indian": [
-    "indiano",
-    "indio"
+  "Indian": [
+    "indiano"
   ],
   "indicative": [
     "indicativo"
@@ -672,7 +668,8 @@
     "intuitivo"
   ],
   "invalid": [
-    "nullo"
+    "nullo",
+    "invalido"
   ],
   "invaluable": [
     "invalutabile"
@@ -794,139 +791,36 @@
   "isotropic": [
     "isotropo"
   ],
-  "israeli": [
+  "Israeli": [
     "israeliano"
   ],
-  "italian": [
+  "Italian": [
     "italiano"
   ],
   "itinerant": [
     "itinerante"
   ],
-  "internationalbankforreconstructionanddevelopment": [
-    "bancainternazionaleperlaricostruzioneelosviluppo"
+  "Iceland": [
+    "Islanda"
   ],
-  "internationalmonetaryfund": [
-    "fondomonetariointernazionale"
-  ],
-  "islamarchena": [
-    "isolamarchena"
-  ],
-  "ibarretxe": [
-    "ibarretxe"
-  ],
-  "ibiza": [
-    "ibiza"
-  ],
-  "iceland": [
-    "islanda"
-  ],
-  "ignacio": [
-    "ignacio"
-  ],
-  "ignatiusofantioch": [
-    "ignaziodiantiochia"
-  ],
-  "ignazio": [
-    "ignazio"
-  ],
-  "illinois": [
-    "illinois"
-  ],
-  "imaz": [
-    "imaz"
-  ],
-  "immacolata": [
-    "immacolata"
-  ],
-  "indiana": [
-    "indiana"
-  ],
-  "indonesia": [
-    "indonesia"
-  ],
-  "indurain": [
-    "indurain"
-  ],
-  "inmaculada": [
-    "inmaculada"
-  ],
-  "ionianislands": [
-    "isoleionie"
-  ],
-  "iowa": [
-    "iowa"
-  ],
-  "iphigenia": [
-    "ifigenia"
-  ],
-  "iran": [
-    "iran"
-  ],
-  "iraq": [
-    "iraq"
-  ],
-  "ireland": [
-    "irlanda"
-  ],
-  "irene": [
-    "irene"
+  "Ireland": [
+    "Irlanda"
   ],
   "iris": [
     "iride",
     "iris"
   ],
-  "irons": [
-    "irons"
-  ],
-  "irun": [
-    "irun"
-  ],
-  "isabel": [
-    "isabel"
-  ],
-  "isabella": [
-    "isabella"
-  ],
-  "isabellaiofcastile": [
-    "isabellaidicastiglia"
-  ],
-  "isabellaofcastile": [
-    "isabelladicastiglia"
-  ],
-  "isabellathecatholic": [
-    "isabellalacattolica"
-  ],
-  "islamabad": [
-    "islamabad"
-  ],
-  "isleofman": [
-    "isoladiman"
-  ],
-  "isocrates": [
-    "isocrate"
+  "Isle of Man": [
+    "Isola di Man"
   ],
   "israel": [
-    "israel",
     "israele"
   ],
-  "israele": [
-    "israele"
+  "Italy": [
+    "Italia"
   ],
-  "istanbul": [
-    "istanbul"
-  ],
-  "italia": [
-    "italia"
-  ],
-  "italy": [
-    "italia"
-  ],
-  "ivanov": [
-    "ivanov"
-  ],
-  "ivorycoast": [
-    "costad'avorio"
+  "Ivory Coast": [
+    "Costa d'Avorio"
   ],
   "insole": [
     "soletta"
@@ -936,7 +830,9 @@
   ],
   "issue": [
     "affare",
-    "pubblicare"
+    "pubblicare",
+    "pubblicazione",
+    "problema"
   ],
   "incometax": [
     "impostasulreddito"
@@ -1939,9 +1835,6 @@
   "in conjunction": [
     "congiuntamente"
   ],
-  "indepth": [
-    "a fondo"
-  ],
   "in fact": [
     "infatti"
   ],
@@ -1951,93 +1844,17 @@
   "in favour": [
     "a favore"
   ],
-  "infront": [
-    "afronte",
-    "davanti",
-    "difronte"
-  ],
-  "ingeneral": [
-    "ingenerale"
-  ],
-  "inhand": [
-    "amano"
-  ],
-  "inkind": [
-    "amabilmente"
-  ],
-  "inlastplace": [
-    "inultimoluogo"
-  ],
-  "innouncertainterms": [
-    "senzagiri",
-    "senzapelisullalingua"
-  ],
-  "innoway": [
-    "innessunmodo"
-  ],
-  "inothertimes": [
-    "inaltritempi"
-  ],
-  "inpeace": [
-    "inpace"
-  ],
-  "inquestion": [
-    "inquestione"
-  ],
-  "insecret": [
-    "insegreto"
-  ],
-  "inshortorder": [
-    "immediatamente"
-  ],
-  "inthefirstplace": [
-    "inprimoluogo"
-  ],
-  "inthegenerality": [
-    "ingenerale"
-  ],
-  "intheinterim": [
-    "nelfrattempo"
-  ],
-  "inthelead": [
+  "in front": [
+    "di fronte",
     "davanti"
   ],
-  "inthemain": [
-    "ingenerale"
+  "in this case": [
+    "in questo caso"
   ],
-  "inthemeantime": [
-    "nelfrattempo"
+  "in this way": [
+    "in questo modo"
   ],
-  "inthemeanwhile": [
-    "nelfrattempo"
-  ],
-  "inthemorning": [
-    "dimattina"
-  ],
-  "inthepast": [
-    "anticamente"
-  ],
-  "intheprimeoflife": [
-    "nelfioredellavita"
-  ],
-  "inthesameperiod": [
-    "nellostessoperiodo"
-  ],
-  "intheshortterm": [
-    "abrevetermine"
-  ],
-  "inthiscase": [
-    "inquestocaso"
-  ],
-  "inthisregard": [
-    "atalproposito",
-    "atalriguardo"
-  ],
-  "inthisway": [
-    "inquestomodo"
-  ],
-  "invain": [
-    "ininutile",
+  "in vain": [
     "invano"
   ],
   "incidentally": [
@@ -2047,7 +1864,8 @@
     "incredibilmente"
   ],
   "indeed": [
-    "difatto"
+    "difatto",
+    "infatti"
   ],
   "independently": [
     "indipendentemente"

@@ -404,140 +404,11 @@
   "friendly": [
     "amichevole"
   ],
-  "facebook": [
-    "facebook"
+  "Finland": [
+    "Finlandia"
   ],
-  "firstworldwar": [
-    "primaguerramondiale"
-  ],
-  "federalrepublicofgermany": [
-    "repubblicafederaledigermania"
-  ],
-  "falklandislands": [
-    "isolefalkland"
-  ],
-  "falklands": [
-    "isolefalkland"
-  ],
-  "faraday": [
-    "faraday"
-  ],
-  "faroeislands": [
-    "isolefaeroer"
-  ],
-  "farrell": [
-    "farrell"
-  ],
-  "federico": [
-    "federico"
-  ],
-  "felipe": [
-    "felipe"
-  ],
-  "felix": [
-    "felix"
-  ],
-  "ferdinando": [
-    "ferdinando"
-  ],
-  "fermi": [
-    "fermi"
-  ],
-  "fernandez": [
-    "fernandez"
-  ],
-  "fernando": [
-    "fernando"
-  ],
-  "ferrari": [
-    "ferrari"
-  ],
-  "ferreira": [
-    "ferreira"
-  ],
-  "ferrero": [
-    "ferrero"
-  ],
-  "feynman": [
-    "feynman"
-  ],
-  "fidel": [
-    "fidel"
-  ],
-  "fidelcastro": [
-    "fidelcastro"
-  ],
-  "fige": [
-    "fige"
-  ],
-  "figo": [
-    "figo"
-  ],
-  "figueres": [
-    "figueres"
-  ],
-  "fiji": [
-    "figi"
-  ],
-  "filippo": [
-    "filippo"
-  ],
-  "finland": [
-    "finlandia"
-  ],
-  "fitzgerald": [
-    "fitzgerald"
-  ],
-  "fitzpatrick": [
-    "fitzpatrick"
-  ],
-  "flanagan": [
-    "flanagan"
-  ],
-  "florida": [
-    "florida"
-  ],
-  "flynn": [
-    "flynn"
-  ],
-  "foley": [
-    "foley"
-  ],
-  "forcada": [
-    "forcada"
-  ],
-  "ford": [
-    "ford"
-  ],
-  "france": [
-    "francia"
-  ],
-  "francesco": [
-    "francesco"
-  ],
-  "francisbacon": [
-    "francescobacone"
-  ],
-  "francisca": [
-    "francisca"
-  ],
-  "francisco": [
-    "francisco"
-  ],
-  "franco": [
-    "franco"
-  ],
-  "frankfurt": [
-    "francoforte"
-  ],
-  "frattini": [
-    "frattini"
-  ],
-  "friendlyislands": [
-    "tonga"
-  ],
-  "fujimori": [
-    "fujimori"
+  "France": [
+    "Francia"
   ],
   "fiasco": [
     "fiasco"
@@ -562,35 +433,11 @@
   "fusion": [
     "fusione"
   ],
-  "fbi": [
-    "fbi"
-  ],
-  "fide": [
-    "fide"
-  ],
-  "february": [
+  "February": [
     "febbraio"
   ],
-  "finn": [
-    "finlandese"
-  ],
-  "franco'sregime": [
-    "franchismo"
-  ],
-  "francoregime": [
-    "franchismo"
-  ],
-  "frechman": [
-    "gallico"
-  ],
-  "frechwoman": [
-    "gallico"
-  ],
-  "freudianslip": [
-    "lapsusfreudiano"
-  ],
-  "faradayconstant": [
-    "costantedifaraday"
+  "Frechman": [
+    "francese"
   ],
   "fascination": [
     "fascino"
@@ -598,8 +445,8 @@
   "felt": [
     "feltro"
   ],
-  "featherduster": [
-    "piuminoperlapolvere"
+  "feather duster": [
+    "piumino"
   ],
   "fence": [
     "palizzata",
@@ -607,9 +454,6 @@
   ],
   "fission": [
     "fissione"
-  ],
-  "first-aidkit": [
-    "cassettadiprontosoccorso"
   ],
   "forging": [
     "forgiatura"
@@ -915,19 +759,13 @@
     "sparare"
   ],
   "firefighter": [
-    "vigiledelfuoco"
+    "pompiere"
   ],
   "fireman": [
-    "vigiledelfuoco"
+    "pompiere"
   ],
   "fireplace": [
     "camino"
-  ],
-  "firewall": [
-    "firewall"
-  ],
-  "firewoman": [
-    "vigiledelfuoco"
   ],
   "firewood": [
     "legna"
@@ -1475,16 +1313,14 @@
     "franchezza"
   ],
   "flare": [
-    "razzo"
+    "bagliore",
+    "fiammata"
   ],
   "fox": [
     "volpe"
   ],
-  "frenchfry": [
-    "patatafritta"
-  ],
-  "fengshui": [
-    "fengshui"
+  "french fry": [
+    "patatina fritta"
   ],
   "faithfully": [
     "fedelmente"

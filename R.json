@@ -935,13 +935,11 @@
   "record": [
     "record",
     "registrare",
-    "registro"
+    "registro",
+    "disco"
   ],
   "recording": [
     "registrazione"
-  ],
-  "recordingstudio": [
-    "studiodiregistrazione"
   ],
   "recovery": [
     "recupero",
@@ -1672,12 +1670,6 @@
   ],
   "regicide": [
     "regicidio"
-  ],
-  "rescript": [
-    "rescritto"
-  ],
-  "reset": [
-    "reset"
   ],
   "resistor": [
     "resistore"

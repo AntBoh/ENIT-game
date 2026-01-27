@@ -1254,20 +1254,7 @@
     "rivestimento"
   ],
   "campaign": [
-    "campagna",
-    "fareunacampagna"
-  ],
-  "camper": [
-    "camper"
-  ],
-  "campus": [
-    "campus"
-  ],
-  "cafe": [
-    "cafe"
-  ],
-  "camembert": [
-    "camembert"
+    "campagna"
   ],
   "can": [
     "latta",
@@ -2923,9 +2910,6 @@
   "cough": [
     "tosse"
   ],
-  "coughing": [
-    "tosse"
-  ],
   "council": [
     "consiglio"
   ],
@@ -3209,7 +3193,9 @@
     "custodia"
   ],
   "custom": [
-    "abitudine"
+    "abitudine",
+    "costume",
+    "personalizzato"
   ],
   "customer": [
     "cliente"
@@ -3333,10 +3319,6 @@
   ],
   "convoy": [
     "convoglio"
-  ],
-  "corduroy": [
-    "corduroy",
-    "vellutoacoste"
   ],
   "chaise": [
     "calesse"
@@ -3868,10 +3850,11 @@
   ],
   "clean": [
     "lindo",
-    "pulire"
+    "pulire",
+    "pulito"
   ],
   "climb": [
-    "ascendere"
+    "arrampicare"
   ],
   "coincide": [
     "coincidere"
@@ -3881,7 +3864,9 @@
   ],
   "collapse": [
     "crollare",
-    "crollo"
+    "crollo",
+    "collassare",
+    "collasso"
   ],
   "collate": [
     "collazionare"

@@ -476,7 +476,7 @@
     "ricettacolo"
   ],
   "vest": [
-    "vest"
+    "veste"
   ],
   "vetch": [
     "veccia"
@@ -584,7 +584,6 @@
     "visione"
   ],
   "visit": [
-    "ricorrere",
     "visita",
     "visitare"
   ],
@@ -595,7 +594,8 @@
     "visitatore"
   ],
   "visor": [
-    "visiera"
+    "visiera",
+    "visore"
   ],
   "visualisation": [
     "visualizzazione"

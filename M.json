@@ -9,7 +9,10 @@
     "molto"
   ],
   "my": [
-    "mio"
+    "mio",
+    "mia",
+    "mie",
+    "miei"
   ],
   "maghrebian": [
     "magrebino"
@@ -201,6 +204,10 @@
     "cattivo",
     "significare"
   ],
+  "me": [
+    "me",
+    "mi"
+  ],
   "meaningful": [
     "significativo"
   ],
@@ -327,10 +334,12 @@
     "latteo"
   ],
   "mine": [
-    "ilmio",
     "mina",
     "miniera",
-    "mio"
+    "mio",
+    "mia",
+    "mie",
+    "miei"
   ],
   "minimum": [
     "minimo"
@@ -339,14 +348,14 @@
     "ministeriale"
   ],
   "minor": [
-    "minore"
+    "minore",
+    "minorenne"
   ],
   "misanthropic": [
     "misantropo"
   ],
   "mobile": [
-    "cellulare",
-    "mobile"
+    "cellulare"
   ],
   "modal": [
     "modale"

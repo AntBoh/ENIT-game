@@ -503,68 +503,8 @@
   "Egypt": [
     "Egitto"
   ],
-  "eiffel": [
-    "eiffel"
-  ],
-  "einstein": [
-    "einstein"
-  ],
-  "elpuig": [
-    "puig"
-  ],
-  "elbaradei": [
-    "elbaradei"
-  ],
-  "elche": [
-    "elx"
-  ],
-  "elda": [
-    "elda"
-  ],
-  "elena": [
-    "elena"
-  ],
-  "elia": [
-    "elia"
-  ],
-  "elisa": [
-    "elisa"
-  ],
-  "eliseo": [
-    "eliseo"
-  ],
-  "elizabeth": [
-    "elizabeth"
-  ],
-  "elizabethi": [
-    "elisabettai"
-  ],
-  "elizabethii": [
-    "elisabettaii"
-  ],
-  "emilia": [
-    "emilia"
-  ],
-  "emiliano": [
-    "emiliano"
-  ],
-  "emilio": [
-    "emilio"
-  ],
-  "endlein": [
-    "endlein"
-  ],
-  "england": [
-    "inghilterra"
-  ],
-  "ennius": [
-    "ennio"
-  ],
-  "enrico": [
-    "enrico"
-  ],
-  "enrique": [
-    "enrique"
+  "England": [
+    "Inghilterra"
   ],
   "Erasmus": [
     "Erasmo"
@@ -987,6 +927,7 @@
   ],
   "end": [
     "fine",
+    "finire",
     "terminare"
   ],
   "endemism": [
@@ -1618,7 +1559,7 @@
     "scaglione"
   ],
   "entity": [
-    "ente"
+    "entità"
   ],
   "eyedrop": [
     "collirio"
@@ -1641,17 +1582,11 @@
   "entrapment": [
     "intrappolare"
   ],
-  "ester": [
-    "estere"
-  ],
   "ethyl": [
     "etile"
   ],
   "estimator": [
     "stimatore"
-  ],
-  "elytron": [
-    "elitra"
   ],
   "empyema": [
     "empiema"
@@ -1866,35 +1801,26 @@
   "evermore": [
     "eternamente"
   ],
-  "everyautumn": [
-    "ogniautunno"
+  "every month": [
+    "ogni mese"
   ],
-  "everymonth": [
-    "ognimese"
+  "every morning": [
+    "ogni mattina"
   ],
-  "everymorning": [
-    "ognimattina"
+  "every night": [
+    "ogni notte"
   ],
-  "everynight": [
-    "ogninotte"
-  ],
-  "everynowandthen": [
+  "every now and then": [
     "ognitanto"
   ],
-  "everysooften": [
-    "ognitanto"
-  ],
-  "everysummer": [
-    "ogniestate"
+  "every so often": [
+    "ogni tanto"
   ],
   "everytime": [
     "ogni volta"
   ],
-  "everywinter": [
-    "ogniinverno"
-  ],
-  "everyyear": [
-    "ognianno"
+  "every year": [
+    "ogni anno"
   ],
   "everywhere": [
     "dappertutto"

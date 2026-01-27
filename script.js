@@ -88,7 +88,20 @@ function updateCounters() {
   localStorage.setItem("counters", JSON.stringify(counters));
 }
 
+function showFoundTranslations() {
+  const found = progress[mode][currentWordKey] || [];
+  const foundDiv = document.getElementById("found");
+  const foundContainer = document.getElementById("foundContainer");
 
+  if (found.length === 0) {
+    foundContainer.classList.add("hidden");
+    return;
+  }
+
+  foundContainer.classList.remove("hidden");
+  foundDiv.innerHTML =
+    "Traduzioni già trovate:<br>" + found.join(", ");
+}
 
 
 function loadDictionaryForLetter(letter) {
@@ -116,8 +129,6 @@ const loadedLetters = { en_it: new Set(), it_en: new Set() };
     dictionary[mode] = { ...dictionary[mode], ...data };
     loadedLetters[mode].add(letter);
   }
-  const data = await loadDictionaryForLetter(letter);
-  dictionary[mode] = { ...dictionary[mode], ...data };
 
 
   const allWords = Object.keys(dictionary[mode]);
@@ -149,7 +160,7 @@ const loadedLetters = { en_it: new Set(), it_en: new Set() };
   if (found.length === 0) {
     document.getElementById("foundContainer").classList.add("hidden");
   } else {
-    document.getElementById("foundContainer").classList.remove("hidden");
+    showFoundTranslations();
   }
 
   recalcCountersFromProgress();
@@ -157,30 +168,6 @@ const loadedLetters = { en_it: new Set(), it_en: new Set() };
 }
 
 
-
-
-function showFoundTranslations() {
-  const found = progress[mode][currentWordKey] || [];
-  const foundDiv = document.getElementById("found");
-  const foundContainer = document.getElementById("foundContainer");
-
-  // se non ci sono traduzioni trovate, nascondi subito
-  if (found.length === 0) {
-    foundContainer.classList.add("hidden");
-    return;
-  }
-
-  // cancella eventuale timer precedente
-  if (showFoundTimer) {
-    clearTimeout(showFoundTimer);
-  }
-
-  // mostra solo dopo 600ms (puoi cambiare)
-  showFoundTimer = setTimeout(() => {
-    foundContainer.classList.remove("hidden");
-    foundDiv.innerHTML = "Traduzioni già trovate:<br>" + found.join(", ");
-  }, 600);
-}
 
   async function renderWorddexAccordion() {
   const accordionContainer = document.getElementById("accordionContainer");
@@ -321,8 +308,6 @@ if (!progress[mode][currentWordKey].includes(userAnswer)) {
   updateCounters();
 }
 
-
-    showFoundTranslations();
     renderWorddexAccordion();
     updateCounters();
 

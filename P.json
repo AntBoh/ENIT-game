@@ -1311,7 +1311,8 @@
     "opuscolo"
   ],
   "pan": [
-    "cazzeruola"
+    "padella",
+    "panoramica"
   ],
   "pan-arabism": [
     "panarabismo"
@@ -1548,13 +1549,14 @@
     "patriottismo"
   ],
   "patrol": [
-    "pattuglia"
+    "pattuglia",
+    "pattugliare"
   ],
-  "patronsaint": [
-    "patrono"
+  "patron saint": [
+    "santo patrono"
   ],
-  "postaladdress": [
-    "indirizzopostale"
+  "postal address": [
+    "indirizzo postale"
   ],
   "patronage": [
     "mecenatismo"
@@ -2054,7 +2056,8 @@
     "plagio"
   ],
   "plague": [
-    "peste"
+    "peste",
+    "piaga"
   ],
   "plan": [
     "pianificare",

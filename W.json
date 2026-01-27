@@ -134,82 +134,14 @@
   ],
   "wrong": [
     "incorretto",
-    "male"
+    "male",
+    "sbagliato"
   ],
-  "waitingforgodot": [
-    "aspettandogodot"
+  "Wales": [
+    "Galles"
   ],
-  "warsawpact": [
-    "pattodivarsavia"
-  ],
-  "worldbank": [
-    "bancamondiale"
-  ],
-  "wales": [
-    "galles"
-  ],
-  "wallstreet": [
-    "wallstreet"
-  ],
-  "walsh": [
-    "walsh"
-  ],
-  "ward": [
-    "ward"
-  ],
-  "warhol": [
-    "warhol"
-  ],
-  "warsaw": [
-    "varsavia"
-  ],
-  "washington": [
-    "washington"
-  ],
-  "westbank": [
-    "cisgiordania"
-  ],
-  "westvirginia": [
-    "virginiaoccidentale"
-  ],
-  "whelan": [
-    "whelan"
-  ],
-  "wikimediafoundation": [
-    "wikimediafoundation"
-  ],
-  "wilde": [
-    "wilde"
-  ],
-  "william": [
-    "william"
-  ],
-  "williamtell": [
-    "guglielmotell"
-  ],
-  "windwardislands": [
-    "isolesopraventomeridionali"
-  ],
-  "wisconsin": [
-    "wisconsin"
-  ],
-  "woodworth": [
-    "woodworth"
-  ],
-  "worldwarii": [
-    "secondaguerramondiale"
-  ],
-  "worldwari": [
-    "primaguerramondiale"
-  ],
-  "wright": [
-    "wright"
-  ],
-  "wyoming": [
-    "wyoming"
-  ],
-  "www": [
-    "www"
+  "Warsaw": [
+    "Varsavia"
   ],
   "witness": [
     "testimone",
@@ -228,18 +160,7 @@
     "capriccio"
   ],
   "while": [
-    "mentre",
-    "momento",
-    "nellamisuraincui"
-  ],
-  "wikipedia": [
-    "wikipedia"
-  ],
-  "wagnerism": [
-    "wagnerismo"
-  ],
-  "waystation": [
-    "stazionesecondaria"
+    "mentre"
   ],
   "waistcoat": [
     "panciotto"
@@ -248,7 +169,7 @@
     "merlano"
   ],
   "walled": [
-    "recintato"
+    "murato"
   ],
   "waist": [
     "cinta"
@@ -300,7 +221,8 @@
     "riscaldamento"
   ],
   "warning": [
-    "avviso"
+    "avviso",
+    "avvertimento"
   ],
   "warp": [
     "curvatura"
@@ -728,7 +650,8 @@
     "vittoria"
   ],
   "withdraw": [
-    "ritirare"
+    "ritirare",
+    "prelevare"
   ],
   "work out": [
     "allenarsi"

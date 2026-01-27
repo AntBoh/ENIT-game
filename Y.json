@@ -1,7 +1,13 @@
 {
   "your": [
     "tuo",
-    "vostro"
+    "vostro",
+    "tua",
+    "tue",
+    "tuoi",
+    "vostra",
+    "vostre",
+    "vostri"
   ],
   "yielding": [
     "lucrativo"
@@ -14,7 +20,20 @@
   ],
   "yours": [
     "tuo",
-    "vostro"
+    "vostro",
+    "tua",
+    "tue",
+    "tuoi",
+    "vostra",
+    "vostre",
+    "vostri"
+  ],
+  "you": [
+    "tu",
+    "voi",
+    "te",
+    "ti",
+    "vi"
   ],
   "yoke": [
     "giogo"

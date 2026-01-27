@@ -114,16 +114,18 @@
     "salino"
   ],
   "same": [
-    "stesso"
+    "stesso",
+    "medesimo"
   ],
-  "saragossan": [
+  "Saragossan": [
     "saragozzano"
   ],
   "satirical": [
     "satirico"
   ],
   "saturated": [
-    "saturo"
+    "saturo",
+    "saturato"
   ],
   "scholarly": [
     "erudito"
@@ -821,7 +823,8 @@
     "somalo"
   ],
   "sorry": [
-    "triste"
+    "dispiaciuto",
+    "scusa"
   ],
   "sought-after": [
     "richiesto"
@@ -857,328 +860,80 @@
   "stigmatic": [
     "stigmatico"
   ],
-  "srilanka": [
-    "srilanka"
-  ],
-  "samoa": [
-    "samoa"
-  ],
-  "secondworldwar": [
-    "secondaguerramondiale"
-  ],
-  "smurfette": [
-    "puffetta"
-  ],
-  "sabadell": [
-    "sabadell"
-  ],
   "sagunto": [
     "sagunto"
   ],
   "sahara": [
     "sahara"
   ],
-  "saigon": [
-    "hochiminh"
+  "Samson": [
+    "Sansone"
   ],
-  "saintirenaeus": [
-    "sant'ireneo"
+  "Sardinia": [
+    "Sardegna"
   ],
-  "salamanca": [
-    "salamanca"
+  "Satan": [
+    "Satana"
   ],
-  "salem": [
-    "salem"
+  "Saturn": [
+    "Saturno"
   ],
-  "salinas": [
-    "salinas"
+  "Saudi Arabia": [
+    "Arabia Saudita"
   ],
-  "salvador": [
-    "salvador"
+  "Scotland": [
+    "Scozia"
   ],
-  "samson": [
-    "sansone"
-  ],
-  "samuel": [
-    "samuel"
-  ],
-  "samuele": [
-    "samuele"
-  ],
-  "sandiego": [
-    "sandiego"
-  ],
-  "sanfrancisco": [
-    "sanfrancisco"
-  ],
-  "sanchez": [
-    "sanchez"
-  ],
-  "santander": [
-    "santander"
-  ],
-  "santarella": [
-    "santarella"
-  ],
-  "santiago": [
-    "santiago"
-  ],
-  "sara": [
-    "sara"
-  ],
-  "sarajevo": [
-    "sarajevo"
-  ],
-  "sardinia": [
-    "sardegna"
-  ],
-  "sarkozy": [
-    "sarkozy"
-  ],
-  "satan": [
-    "satana"
-  ],
-  "saturn": [
-    "saturno"
-  ],
-  "saudiarabia": [
-    "arabiasaudita"
-  ],
-  "saverio": [
-    "saverio"
-  ],
-  "scandinavia": [
-    "scandinavia"
-  ],
-  "scarponi": [
-    "scarponi"
-  ],
-  "schengen": [
-    "schengen"
-  ],
-  "schmitz": [
-    "schmitz"
-  ],
-  "schneider": [
-    "schneider"
-  ],
-  "schnider": [
-    "schnider"
-  ],
-  "schnyder": [
-    "schnyder"
-  ],
-  "schultz": [
-    "schultz"
-  ],
-  "schumacher": [
-    "schumacher"
-  ],
-  "schumann": [
-    "schumann"
-  ],
-  "schweitzer": [
-    "schweitzer"
-  ],
-  "scipion": [
-    "scipione"
-  ],
-  "scorsese": [
-    "scorsese"
-  ],
-  "scotland": [
-    "scozia"
-  ],
-  "seattle": [
-    "seattle"
-  ],
-  "segarra": [
-    "segarra"
-  ],
-  "segovia": [
-    "segovia"
-  ],
-  "senegal": [
-    "senegal"
-  ],
-  "seoul": [
-    "seoul"
-  ],
-  "serbia": [
-    "serbia"
-  ],
-  "sergio": [
-    "sergio"
-  ],
-  "serrat": [
-    "serrat"
-  ],
-  "seville": [
-    "siviglia"
-  ],
-  "seychelles": [
-    "seychelles"
-  ],
-  "shakespeare": [
-    "shakespeare"
-  ],
-  "shanghai": [
-    "shanghai"
-  ],
-  "sheehan": [
-    "sheehan"
+  "Seville": [
+    "Siviglia"
   ],
   "shore": [
-    "riva",
-    "shore"
+    "riva"
   ],
-  "sierraleone": [
-    "sierraleone"
-  ],
-  "simone": [
-    "simone"
-  ],
-  "simpson": [
-    "simpson"
-  ],
-  "singapore": [
-    "singapore"
-  ],
-  "siria": [
-    "siria"
-  ],
-  "sitges": [
-    "sitges"
-  ],
-  "slater": [
-    "slater"
-  ],
-  "slovakia": [
-    "slovacchia"
-  ],
-  "slovenia": [
-    "slovenia"
+  "Slovakia": [
+    "Slovacchia"
   ],
   "smith": [
-    "fabbro",
-    "smith"
-  ],
-  "smithies": [
-    "smithies"
+    "fabbro"
   ],
   "snow": [
-    "neve",
-    "snow"
+    "neve"
   ],
-  "socrates": [
-    "socrate"
+  "Socrates": [
+    "Socrate"
   ],
-  "soderbergh": [
-    "soderbergh"
+  "Sophocles": [
+    "Sofocle"
   ],
-  "sofia": [
-    "sofia"
+  "Southafrica": [
+    "Sudafrica"
   ],
-  "somalia": [
-    "somalia"
-  ],
-  "sophocles": [
-    "sofocle"
-  ],
-  "soria": [
-    "soria"
-  ],
-  "sotomayor": [
-    "sotomayor"
-  ],
-  "southafrica": [
-    "sudafrica"
-  ],
-  "southcarolina": [
-    "carolinadelsud"
-  ],
-  "southdakota": [
-    "dakotadelsud"
-  ],
-  "southisland": [
-    "isoladelsud"
-  ],
-  "spain": [
-    "spagna"
-  ],
-  "spears": [
-    "spears"
-  ],
-  "springsteen": [
-    "springsteen"
-  ],
-  "stalin": [
-    "stalin"
-  ],
-  "stallone": [
-    "stallone"
-  ],
-  "steinmeier": [
-    "steinmeier"
+  "Spain": [
+    "Spagna"
   ],
   "stern": [
-    "poppa",
-    "stern"
+    "poppa"
   ],
-  "stewart": [
-    "stewart"
+  "Stockholm": [
+    "Stoccolma"
   ],
-  "stockholm": [
-    "stoccolma"
+  "Strasbourg": [
+    "Strasburgo"
   ],
-  "strasbourg": [
-    "strasburgo"
-  ],
-  "strauss": [
-    "strauss"
-  ],
-  "streep": [
-    "streep"
-  ],
-  "stuttgart": [
+  "Stuttgart": [
     "stoccarda"
   ],
-  "suarez": [
-    "suarez"
-  ],
-  "sudan": [
-    "sudan"
-  ],
-  "superman": [
-    "superman",
+  "superhuman": [
     "superuomo"
   ],
-  "suriname": [
-    "suriname"
+  "Sweden": [
+    "Svezia"
   ],
-  "sutherland": [
-    "sutherland"
+  "Switzerland": [
+    "Svizzera"
   ],
-  "swaziland": [
-    "swaziland"
-  ],
-  "sweden": [
-    "svezia"
-  ],
-  "sweeney": [
-    "sweeney"
-  ],
-  "switzerland": [
-    "svizzera"
-  ],
-  "sydney": [
-    "sydney"
-  ],
-  "sylvesterstallone": [
-    "sylvesterstallone"
-  ],
-  "syria": [
-    "siria"
+  "Syria": [
+    "Siria"
   ],
   "self-defence": [
     "autodifesa"
@@ -1414,6 +1169,10 @@
   ],
   "sheik": [
     "sceicco"
+  ],
+  "she": [
+    "lei",
+    "ella"
   ],
   "sheriff": [
     "sceriffo"
@@ -4348,13 +4107,15 @@
     "irto"
   ],
   "steep": [
-    "scosceso"
+    "scosceso",
+    "ripido"
   ],
   "sunny": [
     "soleggiato"
   ],
   "stingy": [
-    "avaro"
+    "avaro",
+    "tirchio"
   ],
   "soapy": [
     "saponoso"
@@ -4378,49 +4139,49 @@
   "seventy": [
     "settanta"
   ],
-  "seventy-eight": [
+  "seventyeight": [
     "settantotto"
   ],
-  "seventy-eightthousand": [
+  "seventyeightthousand": [
     "settantottomila"
   ],
-  "seventy-five": [
+  "seventyfive": [
     "settantacinque"
   ],
-  "seventy-fivethousand": [
+  "seventyfivethousand": [
     "settantacinquemila"
   ],
-  "seventy-four": [
+  "seventyfour": [
     "settantaquattro"
   ],
-  "seventy-fourthousand": [
+  "seventyfourthousand": [
     "settantaquattromila"
   ],
-  "seventy-nine": [
+  "seventynine": [
     "settantanove"
   ],
-  "seventy-ninethousand": [
+  "seventyninethousand": [
     "settantanovemila"
   ],
-  "seventy-seven": [
+  "seventyseven": [
     "settantasette"
   ],
-  "seventy-seventhousand": [
+  "seventyseventhousand": [
     "settantasettemila"
   ],
-  "seventy-six": [
+  "seventysix": [
     "settantasei"
   ],
-  "seventy-sixthousand": [
+  "seventysixthousand": [
     "settantaseimila"
   ],
-  "seventy-threethousand": [
+  "seventythreethousand": [
     "settantatremila"
   ],
-  "seventy-two": [
+  "seventytwo": [
     "settantadue"
   ],
-  "seventy-twothousand": [
+  "seventytwothousand": [
     "settantaduemila"
   ],
   "seventyonethousand": [
@@ -4444,49 +4205,49 @@
   "sixty": [
     "sessanta"
   ],
-  "sixty-eight": [
+  "sixtyeight": [
     "sessantotto"
   ],
-  "sixty-eightthousand": [
+  "sixtyeightthousand": [
     "sessantottomila"
   ],
-  "sixty-five": [
+  "sixtyfive": [
     "sessantacinque"
   ],
-  "sixty-fivethousand": [
+  "sixtyfivethousand": [
     "sessantacinquemila"
   ],
-  "sixty-four": [
+  "sixtyfour": [
     "sessantaquattro"
   ],
-  "sixty-fourthousand": [
+  "sixtyfourthousand": [
     "sessantaquattromila"
   ],
-  "sixty-nine": [
+  "sixtynine": [
     "sessantanove"
   ],
-  "sixty-ninethousand": [
+  "sixtyninethousand": [
     "sessantanovemila"
   ],
-  "sixty-seven": [
+  "sixtyseven": [
     "sessantasette"
   ],
-  "sixty-seventhousand": [
+  "sixtyseventhousand": [
     "sessantasettemila"
   ],
-  "sixty-six": [
+  "sixtysix": [
     "sessantasei"
   ],
-  "sixty-sixthousand": [
+  "sixtysixthousand": [
     "sessantaseimila"
   ],
-  "sixty-threethousand": [
+  "sixtythreethousand": [
     "sessantatremila"
   ],
-  "sixty-two": [
+  "sixtytwo": [
     "sessantadue"
   ],
-  "sixty-twothousand": [
+  "sixtytwothousand": [
     "sessantaduemila"
   ],
   "sixtyonethousand": [
@@ -4498,16 +4259,10 @@
   "suchas": [
     "come"
   ],
-  "seventy-one": [
+  "seventyone": [
     "settantuno"
   ],
-  "seventy-onethousand": [
-    "settantunomila"
-  ],
-  "sixty-one": [
+  "sixtyone": [
     "sessantuno"
-  ],
-  "sixty-onethousand": [
-    "sessantunomila"
   ]
 }

@@ -202,116 +202,17 @@
   "gyroscopic": [
     "giroscopico"
   ],
-  "gambia": [
-    "gambia"
-  ],
-  "germandemocraticrepublic": [
-    "repubblicademocraticatedesca"
-  ],
-  "greatdepression": [
-    "grandedepressione"
-  ],
-  "greatwar": [
-    "primaguerramondiale"
-  ],
-  "gabon": [
-    "gabon"
-  ],
-  "gabriel": [
-    "gabriel"
-  ],
-  "gabriele": [
-    "gabriele"
-  ],
-  "galicia": [
-    "galizia"
-  ],
-  "galilei": [
-    "galilei"
-  ],
-  "galileo": [
-    "galileo"
-  ],
-  "gallagher": [
-    "gallagher"
-  ],
-  "gandhi": [
-    "gandhi"
-  ],
-  "gandia": [
-    "gandia"
-  ],
-  "garcia": [
-    "garcia"
-  ],
-  "gardner": [
-    "gardner"
+  "Great War": [
+    "Grande Guerra"
   ],
   "Garfield": [
     "Garfield"
   ],
-  "garnier": [
-    "garnier"
+  "Genoa": [
+    "Genova"
   ],
-  "garrotxa": [
-    "garrotxa"
-  ],
-  "garzon": [
-    "garzon"
-  ],
-  "gates": [
-    "gates"
-  ],
-  "gauss": [
-    "gauss"
-  ],
-  "gautier": [
-    "gautier"
-  ],
-  "gaza": [
-    "gaza"
-  ],
-  "gazastrip": [
-    "strisciadigaza"
-  ],
-  "genoa": [
-    "genova"
-  ],
-  "george": [
-    "george"
-  ],
-  "georgesduhamel": [
-    "georgesduhamel"
-  ],
-  "georgia": [
-    "georgia"
-  ],
-  "gerard": [
-    "gerard"
-  ],
-  "gerardo": [
-    "gerardo"
-  ],
-  "germany": [
-    "germania"
-  ],
-  "geronimo": [
-    "geronimo"
-  ],
-  "gerryadams": [
-    "gerryadams"
-  ],
-  "getafe": [
-    "getafe"
-  ],
-  "ghana": [
-    "ghana"
-  ],
-  "giacinto": [
-    "giacinto"
-  ],
-  "giacomo": [
-    "giacomo"
+  "Germany": [
+    "Germania"
   ],
   "Gibraltar": [
     "Gibilterra"
@@ -1176,42 +1077,26 @@
   ],
   "get": [
     "raggiungere",
-    "ricevere"
+    "ricevere",
+    "ottenere",
+    "avere"
   ],
-  "getacross": [
-    "comunicare"
-  ],
-  "getback": [
-    "tornare"
-  ],
-  "getbetter": [
+  "get better": [
     "migliorare"
   ],
-  "getbigger": [
-    "crescere"
-  ],
-  "getdown": [
-    "scendere"
-  ],
-  "getholdof": [
-    "conseguire"
-  ],
-  "getin": [
+  "get in": [
     "entrare"
   ],
-  "geton": [
-    "subire"
+  "get on": [
+    "salire"
   ],
-  "getout": [
+  "get out": [
     "uscire"
   ],
-  "getsick": [
-    "vomitare"
+  "get sick": [
+    "ammalarsi"
   ],
-  "getstarted": [
-    "iniziare"
-  ],
-  "getworse": [
+  "get worse": [
     "peggiorare"
   ],
   "gild": [
