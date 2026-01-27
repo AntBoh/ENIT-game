@@ -220,8 +220,7 @@ function showFoundTranslations() {
       const data = await loadDictionaryForLetter(letter);
       dictionary[mode] = { ...dictionary[mode], ...data };
 
-
-      const words = Object.keys(data);
+      const words = Object.keys(data).sort((a, b) => a.localeCompare(b));
       if (dropdown.dataset.loaded === "true") return;
 
 
@@ -237,8 +236,12 @@ function showFoundTranslations() {
 
         const isSeen = seenWords[mode].includes(word);
         const allRaw = dictionary[mode][word];
-        const all = Array.isArray(allRaw) ? allRaw : [];
-        const found = Array.isArray(progress[mode]?.[word]) ? progress[mode][word] : [];
+        const all = [...(Array.isArray(allRaw) ? allRaw : [])]
+        .sort((a, b) => a.localeCompare(b));
+
+        const found = [...(Array.isArray(progress[mode]?.[word]) ? progress[mode][word] : [])]
+        .sort((a, b) => a.localeCompare(b));
+
 
         itemLeft.textContent = isSeen ? word : "???";
 
