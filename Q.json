@@ -1,7 +1,4 @@
 {
-  "quitealotof": [
-    "unbelpo'di"
-  ],
   "quadruped": [
     "quadrupede"
   ],
@@ -36,21 +33,6 @@
   "quadrangular": [
     "quadrangolare"
   ],
-  "qatar": [
-    "qatar"
-  ],
-  "quart": [
-    "quart"
-  ],
-  "queensland": [
-    "queensland"
-  ],
-  "querol": [
-    "querol"
-  ],
-  "quincyjones": [
-    "quincyjones"
-  ],
   "quantifier": [
     "quantificatore"
   ],
@@ -70,7 +52,8 @@
     "quantizzazione"
   ],
   "quantum": [
-    "quanto"
+    "quanto",
+    "quantistico"
   ],
   "quarantine": [
     "quarantena"
@@ -79,7 +62,8 @@
     "cava"
   ],
   "quarter": [
-    "quartiere"
+    "quartiere",
+    "quarto"
   ],
   "quartz": [
     "quarzo"
@@ -88,17 +72,19 @@
     "quarzite"
   ],
   "queen": [
-    "re"
+    "regina"
   ],
   "query": [
     "consulta"
   ],
   "question": [
     "questionare",
-    "questione"
+    "questione",
+    "domanda",
+    "domandare"
   ],
-  "questionmark": [
-    "puntointerrogativo"
+  "question mark": [
+    "punto interrogativo"
   ],
   "quinine": [
     "chinino"
@@ -109,7 +95,7 @@
   "quota": [
     "quota"
   ],
-  "quotationmark": [
+  "quotation mark": [
     "virgolette"
   ],
   "quadrature": [
@@ -132,17 +118,11 @@
     "velocemente"
   ],
   "quietly": [
-    "tranquillamente"
-  ],
-  "quitealot": [
-    "abbastanza",
-    "piuttosto"
+    "silenziosamente"
   ],
   "quit": [
-    "smettere"
-  ],
-  "quitsmoking": [
-    "smetteredifumare"
+    "smettere",
+    "uscire"
   ],
   "qualify": [
     "qualificare"
@@ -151,7 +131,8 @@
     "quantificare"
   ],
   "quote": [
-    "citare"
+    "citare",
+    "citazione"
   ],
   "quite": [
     "abbastanza"

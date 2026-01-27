@@ -2188,7 +2188,10 @@
   ],
   "in": [
     "dentro",
-    "in"
+    "in",
+    "fra",
+    "tra",
+    "a"
   ],
   "incoherently": [
     "incoerentemente"
@@ -2227,13 +2230,13 @@
     "impartire"
   ],
   "implement": [
-    "attuare"
+    "implementare"
   ],
   "imply": [
     "implicare"
   ],
   "impose": [
-    "comminare"
+    "imporre"
   ],
   "impoverish": [
     "impoverire"
@@ -2305,7 +2308,8 @@
     "infiltrare"
   ],
   "inflate": [
-    "inflazionare"
+    "inflazionare",
+    "gonfiare"
   ],
   "inflict": [
     "causare"
@@ -2445,7 +2449,7 @@
     "isolare"
   ],
   "itself": [
-    "prpers"
+    "stesso"
   ],
   "impaler": [
     "impalatore"

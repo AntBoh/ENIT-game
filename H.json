@@ -1457,9 +1457,9 @@
     "elicoidalmente"
   ],
   "hence": [
-    "perquesto"
+    "perciò"
   ],
-  "haveto": [
+  " have to": [
     "dovere"
   ],
   "halt": [
@@ -1469,6 +1469,8 @@
     "impacciare"
   ],
   "hang": [
+    "appendere",
+    "impiccare",
     "pendere"
   ],
   "happen": [
@@ -1485,14 +1487,15 @@
   "have": [
     "avere"
   ],
-  "havegot": [
+  "have got": [
     "avere"
   ],
   "heal": [
     "curare"
   ],
   "hear": [
-    "udire"
+    "udire",
+    "sentire"
   ],
   "heave": [
     "alzare"
@@ -1504,13 +1507,10 @@
     "evidenziare"
   ],
   "hinder": [
-    "impacciare"
+    "inibire"
   ],
   "hireout": [
     "affittare"
-  ],
-  "hopethat": [
-    "sperareche"
   ],
   "horrify": [
     "inorridire"
@@ -1525,7 +1525,8 @@
     "umiliare"
   ],
   "hunt": [
-    "cacciare"
+    "cacciare",
+    "caccia"
   ],
   "hurry": [
     "accorrere",
@@ -1534,14 +1535,11 @@
   "hurt": [
     "dolere"
   ],
-  "holdresponsible": [
-    "ritenereresponsabile"
-  ],
   "herself": [
-    "prpers"
+    "sé stessa"
   ],
   "himself": [
-    "prpers"
+    "sé stesso"
   ],
   "hacker": [
     "hacker"
@@ -1553,10 +1551,11 @@
     "omofono"
   ],
   "handcuffs": [
-    "manetta"
+    "manette"
   ],
   "holiday": [
-    "vacanza"
+    "vacanza",
+    "festa"
   ],
   "herbicide": [
     "erbicida"
@@ -1567,14 +1566,8 @@
   "histogram": [
     "istogramma"
   ],
-  "halite": [
-    "halite"
-  ],
   "heterozygote": [
     "eterozigote"
-  ],
-  "handsomely": [
-    "profumatamente"
   ],
   "hamburger": [
     "hamburger"
@@ -1595,9 +1588,6 @@
     "ciao"
   ],
   "hello": [
-    "salve"
-  ],
-  "hewholaughslastlaughslongest": [
-    "ridebenechirideultimo"
+    "ciao"
   ]
 }

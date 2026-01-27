@@ -72,6 +72,9 @@ function recalcCountersFromProgress() {
       .normalize("NFD")
       .replace(/[\u0300-\u036f]/g, "")
       .replace(/\s+/g, " ")
+      .replace(/[’‘]/g, "'")
+      .replace(/[–—]/g, "-")
+      .replace(/[“”]/g, '"')
       .trim();
   }
 
@@ -140,7 +143,7 @@ const loadedLetters = { en_it: new Set(), it_en: new Set() };
     seenWords[mode].push(currentWordKey);
   }
 
-  document.getElementById("word").textContent = currentWordKey.toLowerCase();
+  document.getElementById("word").textContent = currentWordKey;
 
   const found = progress[mode][currentWordKey] || [];
   if (found.length === 0) {
@@ -232,7 +235,7 @@ function showFoundTranslations() {
         const itemRight = document.createElement("div");
         itemRight.className = "word-item right";
 
-        const isSeen = seenWords[mode].includes(word.toLowerCase());
+        const isSeen = seenWords[mode].includes(word);
         const allRaw = dictionary[mode][word];
         const all = Array.isArray(allRaw) ? allRaw : [];
         const found = Array.isArray(progress[mode]?.[word]) ? progress[mode][word] : [];

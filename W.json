@@ -662,9 +662,6 @@
   "weakly": [
     "debolmente"
   ],
-  "weekinweekout": [
-    "continuamente"
-  ],
   "when": [
     "quando"
   ],
@@ -681,60 +678,26 @@
   "widely": [
     "ampiamente"
   ],
-  "withabitofhelp": [
-    "conunpocodiaiuto"
-  ],
-  "withanycertainty": [
-    "contuttalacertezza"
-  ],
-  "withgreatpain": [
-    "congrandedolore"
-  ],
-  "withimpunity": [
-    "impunemente"
-  ],
-  "withmuchenthusiasm": [
-    "conmoltoentusiasmo"
-  ],
   "within": [
     "dentro"
   ],
-  "withinreason": [
-    "ragionevolmente"
-  ],
   "without": [
-    "senza",
-    "senzabisogno"
+    "senza"
   ],
-  "withoutadoubt": [
-    "senzadubbio"
-  ],
-  "withoutdoubt": [
-    "senzadubbio"
-  ],
-  "withoutquestion": [
+  "without a doubt": [
     "senzadubbio"
   ],
   "wonderfully": [
     "stupendamente"
   ],
   "worldwide": [
-    "intuttoilmondo"
+    "globale",
+    "globalmente"
   ],
   "wrongly": [
     "erroneamente"
   ],
-  "withhindsight": [
-    "aposteriori"
-  ],
-  "withonemind": [
-    "unanimemente"
-  ],
-  "wantto": [
-    "volere"
-  ],
-  "wakeup": [
-    "svegliare",
+  "wake up": [
     "svegliarsi"
   ],
   "weld": [
@@ -753,7 +716,6 @@
     "volere"
   ],
   "warm": [
-    "animare",
     "caldo",
     "riscaldare"
   ],
@@ -761,14 +723,9 @@
     "avvertire"
   ],
   "wash": [
-    "lavare",
-    "strofinare"
-  ],
-  "watchtelevision": [
-    "guardarelatelevisione"
+    "lavare"
   ],
   "weaken": [
-    "debilitare",
     "indebolire"
   ],
   "weave": [
@@ -788,13 +745,14 @@
     "allargare"
   ],
   "win": [
-    "vincere"
+    "vincere",
+    "vittoria"
   ],
   "withdraw": [
     "ritirare"
   ],
-  "workout": [
-    "uscire"
+  "work out": [
+    "allenarsi"
   ],
   "worsen": [
     "peggiorare"
@@ -805,35 +763,19 @@
   "write": [
     "scrivere"
   ],
-  "whichone": [
-    "quale"
-  ],
   "who": [
     "che",
     "chi",
     "cui"
   ],
   "whoever": [
-    "qualunque",
-    "quienquiera"
-  ],
-  "walkie-talkie": [
-    "walkie-talkie"
-  ],
-  "watt": [
-    "watt"
+    "qualunque"
   ],
   "weekend": [
-    "finesettimana"
-  ],
-  "whisky": [
-    "whisky"
+    "fine settimana"
   ],
   "workshop": [
-    "workshop"
-  ],
-  "wulfenite": [
-    "wulfenite"
+    "bottega"
   ],
   "woodworm": [
     "tarlo"
@@ -842,7 +784,8 @@
     "curculione"
   ],
   "wagon": [
-    "carro"
+    "carro",
+    "vagone"
   ],
   "wise": [
     "saggio"

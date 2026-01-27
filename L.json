@@ -20,9 +20,8 @@
   "latinamerican": [
     "latinoamericano"
   ],
-  "london": [
-    "londinese",
-    "londra"
+  "London": [
+    "Londra"
   ],
   "labial": [
     "labiale"
@@ -35,7 +34,7 @@
     "lavorativo",
     "lavoro"
   ],
-  "labourpartymember": [
+  "labour party member": [
     "laburista"
   ],
   "lacking": [
@@ -54,8 +53,7 @@
     "duraturo"
   ],
   "late": [
-    "inritardo",
-    "tardio",
+    "in ritardo",
     "tardivo"
   ],
   "latent": [
@@ -64,13 +62,13 @@
   "lateral": [
     "laterale"
   ],
-  "latin": [
+  "Latin": [
     "latino"
   ],
   "latter": [
     "ultimo"
   ],
-  "latvian": [
+  "Latvian": [
     "lettone"
   ],
   "lawful": [
@@ -83,15 +81,13 @@
     "principale",
     "protagonista"
   ],
-  "lebanese": [
+  "Lebanese": [
     "libanese"
   ],
   "left": [
     "sinistra",
-    "sinistro"
-  ],
-  "left-hand": [
-    "sinistro"
+    "sinistro",
+    "rimasto"
   ],
   "left-handed": [
     "mancino"
@@ -113,8 +109,7 @@
     "lungo"
   ],
   "lesbian": [
-    "lesbica",
-    "lesbico"
+    "lesbica"
   ],
   "lesser": [
     "minore"
@@ -553,9 +548,6 @@
   "lightbulb": [
     "lampadina"
   ],
-  "legaltender": [
-    "monetaacorsolegale"
-  ],
   "labeling": [
     "etichettatura"
   ],
@@ -571,7 +563,7 @@
   "lattice": [
     "reticolo"
   ],
-  "laughingstock": [
+  "laughing stock": [
     "zimbello"
   ],
   "leek": [
@@ -626,7 +618,7 @@
   ],
   "lady": [
     "dama",
-    "signore"
+    "signora"
   ],
   "ladybird": [
     "coccinella"
@@ -660,14 +652,12 @@
     "paesaggio"
   ],
   "lane": [
-    "cammino"
+    "strada",
+    "via"
   ],
   "language": [
     "lingua",
     "linguaggio"
-  ],
-  "languageprofessional": [
-    "professionistadellelingue"
   ],
   "lantern": [
     "lanterna"
@@ -681,17 +671,11 @@
   "lapidation": [
     "lapidazione"
   ],
-  "lapsus": [
-    "lapsus"
-  ],
   "lard": [
     "strutto"
   ],
   "larva": [
     "larva"
-  ],
-  "laser": [
-    "laser"
   ],
   "latifundium": [
     "latifondo"
@@ -713,9 +697,6 @@
     "lanciare",
     "lancio"
   ],
-  "launching": [
-    "lancio"
-  ],
   "laundry": [
     "lavanderia"
   ],
@@ -726,7 +707,9 @@
     "lava"
   ],
   "law": [
-    "diritto"
+    "diritto",
+    "legge",
+    "giurispurudenza"
   ],
   "lawn": [
     "prato"
@@ -746,14 +729,11 @@
   ],
   "lead": [
     "dirigere",
-    "piombo"
-  ],
-  "leaddancer": [
-    "primoballerino"
+    "piombo",
+    "direzione"
   ],
   "leader": [
-    "dirigente",
-    "leader"
+    "dirigente"
   ],
   "leaf": [
     "foglia"
@@ -763,12 +743,15 @@
   ],
   "leak": [
     "colare",
+    "perdere",
+    "perdita",
     "filtrare",
     "filtrazione"
   ],
   "leap": [
     "saltare",
-    "salto"
+    "salto",
+    "bisestile"
   ],
   "learning": [
     "apprendimento"
@@ -796,9 +779,6 @@
   "leg": [
     "gamba"
   ],
-  "legalperson": [
-    "personagiuridica"
-  ],
   "legalisation": [
     "legalizzazione"
   ],
@@ -809,7 +789,8 @@
     "legazione"
   ],
   "legend": [
-    "leggenda"
+    "leggenda",
+    "legenda"
   ],
   "legislation": [
     "legislazione"
@@ -823,19 +804,12 @@
   "leisure": [
     "ozio"
   ],
-  "leitmotif": [
-    "leitmotiv"
-  ],
-  "lemma": [
-    "lemma",
-    "motto"
-  ],
   "lemon": [
     "limone"
   ],
   "length": [
     "durata",
-    "longitudine"
+    "lunghezza"
   ],
   "leninist": [
     "leninista"
@@ -877,11 +851,7 @@
     "uniformare"
   ],
   "lever": [
-    "leva",
-    "manetta"
-  ],
-  "levite": [
-    "levita"
+    "leva"
   ],
   "levitation": [
     "levitazione"
@@ -932,12 +902,12 @@
     "liquirizia"
   ],
   "lid": [
-    "coperchio",
-    "palpebra"
+    "coperchio"
   ],
   "lie": [
     "bugia",
-    "mentire"
+    "mentire",
+    "giacere"
   ],
   "lieutenant": [
     "tenente"
@@ -946,11 +916,11 @@
     "vita"
   ],
   "lifestyle": [
-    "stiledivita"
+    "stile di vita"
   ],
   "lift": [
     "ascensore",
-    "impulso"
+    "sollevare"
   ],
   "ligament": [
     "legamento"
@@ -961,11 +931,8 @@
   "lighthouse": [
     "faro"
   ],
-  "lightningconductor": [
+  "lightning conductor": [
     "parafulmine"
-  ],
-  "lime": [
-    "limetta"
   ],
   "limestone": [
     "calcare"
@@ -982,16 +949,14 @@
   ],
   "line": [
     "allineare",
-    "linea"
+    "linea",
+    "fila"
   ],
   "lineage": [
     "lignaggio"
   ],
   "linen": [
     "lino"
-  ],
-  "lingerie": [
-    "lingerie"
   ],
   "linguist": [
     "linguista"
@@ -1002,7 +967,10 @@
   "link": [
     "allacciare",
     "collegamento",
-    "tramite"
+    "tramite",
+    "collegare",
+    "connettere",
+    "connessione"
   ],
   "linkage": [
     "connessione"
@@ -1069,19 +1037,14 @@
   "llama": [
     "lama"
   ],
-  "localmafia": [
-    "camorra"
-  ],
   "localism": [
     "localismo"
   ],
   "location": [
     "collocazione",
     "localizzazione",
-    "ubicazione"
-  ],
-  "lasik": [
-    "lasik"
+    "ubicazione",
+    "luogo"
   ],
   "locative": [
     "locativo"

@@ -209,9 +209,6 @@
   "sexual": [
     "sessuale"
   ],
-  "sexy": [
-    "sexy"
-  ],
   "shady": [
     "losco",
     "ombreggiato"
@@ -241,7 +238,7 @@
     "silenzioso"
   ],
   "silly": [
-    "tonto"
+    "sciocco"
   ],
   "similar": [
     "simile"
@@ -2526,7 +2523,7 @@
   "sojourn": [
     "soggiorno"
   ],
-  "sol-fa": [
+  "solfege": [
     "solfeggio"
   ],
   "solace": [
@@ -2561,7 +2558,6 @@
     "figlio"
   ],
   "song": [
-    "cantata",
     "canzone"
   ],
   "suborder": [
@@ -2628,12 +2624,6 @@
   "spore": [
     "spora"
   ],
-  "sporophyte": [
-    "sporofito"
-  ],
-  "sputtering": [
-    "sputtering"
-  ],
   "steradian": [
     "steradiante"
   ],
@@ -2663,9 +2653,6 @@
   ],
   "snob": [
     "snob"
-  ],
-  "sidecar": [
-    "sidecar"
   ],
   "scholarship": [
     "borsadistudio"
@@ -3125,22 +3112,19 @@
   ],
   "string": [
     "corda",
-    "legaccio"
+    "stringa"
   ],
   "stroke": [
     "attacco",
     "colpo",
     "traccia",
-    "tratto"
-  ],
-  "structuralcalculation": [
-    "calcolostrutturale"
+    "tratto",
+    "ictus"
   ],
   "structuralism": [
     "strutturalismo"
   ],
   "structure": [
-    "compagine",
     "struttura",
     "strutturare"
   ],
@@ -3149,20 +3133,18 @@
   ],
   "struggle": [
     "combattere",
-    "lotta"
-  ],
-  "stucco": [
-    "stucco"
-  ],
-  "studio": [
-    "studio"
+    "lotta",
+    "sforzo",
+    "sforzarsi"
   ],
   "study": [
     "studiare",
     "studio"
   ],
   "stuff": [
-    "materia"
+    "materia",
+    "roba",
+    "imbottire"
   ],
   "sty": [
     "gufo"
@@ -3232,7 +3214,7 @@
     "sottrazione"
   ],
   "subway": [
-    "metro"
+    "metropolitana"
   ],
   "success": [
     "esito",
@@ -3271,7 +3253,8 @@
   "suit": [
     "adattare",
     "contenzioso",
-    "vestito"
+    "vestito",
+    "tuta"
   ],
   "suitability": [
     "convenienza"
@@ -3287,10 +3270,11 @@
     "estate"
   ],
   "summit": [
-    "vertice"
+    "vertice",
+    "sommità"
   ],
-  "sun": [
-    "sole"
+  "Sun": [
+    "Sole"
   ],
   "sunstroke": [
     "insolazione"

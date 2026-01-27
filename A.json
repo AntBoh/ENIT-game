@@ -1,4 +1,10 @@
 {
+  "a": [
+    "un",
+    "uno",
+    "una",
+    "un'"
+  ],
   "a hundred": [
     "cento"
   ],
@@ -1019,198 +1025,47 @@
   "almuniaamann": [
     "almuniaamann"
   ],
-  "alonso": [
-    "alonso"
+  "Alsace": [
+    "Alsazia"
   ],
-  "alsace": [
-    "alsazia"
+  "Antarctica": [
+    "Antartide"
   ],
-  "althaea": [
-    "altea"
-  ],
-  "alvarez": [
-    "alvarez"
-  ],
-  "america": [
-    "america"
-  ],
-  "americansamoa": [
-    "samoaamericane"
-  ],
-  "amsterdam": [
-    "amsterdam"
-  ],
-  "ana": [
-    "ana"
-  ],
-  "andalucia": [
-    "andalusia"
-  ],
-  "andalusia": [
-    "andalusia"
-  ],
-  "andorra": [
-    "andorra"
-  ],
-  "andreagassi": [
-    "andreagassi"
-  ],
-  "andrea": [
-    "andrea"
-  ],
-  "anglee": [
-    "anglee"
-  ],
-  "angola": [
-    "angola"
-  ],
-  "ankara": [
-    "ankara"
-  ],
-  "anna": [
-    "anna"
-  ],
-  "anoia": [
-    "anoia"
-  ],
-  "antarctica": [
-    "antartide"
-  ],
-  "antonio": [
-    "antonio"
-  ],
-  "apia": [
-    "apia"
-  ],
-  "apollo": [
-    "apollo"
-  ],
-  "appalachians": [
-    "appalachi"
+  "Appalachians": [
+    "Appalachi"
   ],
   "apple": [
-    "apple",
     "mela"
   ],
-  "arabia": [
-    "arabia"
+  "Aragon": [
+    "Aragona"
   ],
-  "arafat": [
-    "arafat"
+  "Archimedes": [
+    "Archimede"
   ],
-  "aragon": [
-    "aragona"
+  "Aristotle": [
+    "Aristotele"
   ],
-  "aranda": [
-    "aranda"
+  "Asia": [
+    "Asia"
   ],
-  "arce": [
-    "arce"
+  "Athens": [
+    "Atene"
   ],
-  "archimedes": [
-    "archimede"
-  ],
-  "argentina": [
-    "argentina"
-  ],
-  "ariadna": [
-    "ariadna"
-  ],
-  "ariel": [
-    "ariel"
-  ],
-  "aristotle": [
-    "aristotele"
-  ],
-  "arizona": [
-    "arizona"
-  ],
-  "arjona": [
-    "arjona"
-  ],
-  "arkansas": [
-    "arkansas"
-  ],
-  "armenia": [
-    "armenia"
-  ],
-  "armstrong": [
-    "armstrong"
-  ],
-  "artigas": [
-    "artigas"
-  ],
-  "arturo": [
-    "arturo"
-  ],
-  "aruba": [
-    "aruba"
-  ],
-  "arzalluz": [
-    "arzalluz"
-  ],
-  "asia": [
-    "asia"
-  ],
-  "asselborn": [
-    "asselborn"
-  ],
-  "asturias": [
-    "asturie"
-  ],
-  "athens": [
-    "atene"
-  ],
-  "atlanta": [
-    "atlanta"
-  ],
-  "atutxa": [
-    "atutxa"
-  ],
-  "augsburg": [
-    "augusta"
+  "Augsburg": [
+    "Augusta"
   ],
   "aura": [
     "aura"
   ],
-  "aurelio": [
-    "aurelio"
-  ],
   "aurora": [
     "aurora"
   ],
-  "australia": [
-    "australia"
+  "Austro-Hungarian Empire": [
+    "Impero Austro-Ungarico"
   ],
-  "austria": [
-    "austria"
-  ],
-  "austro-hungarianempire": [
-    "imperoaustro-ungarico"
-  ],
-  "aymanal-zawahiri": [
-    "aymanal-zawahiri"
-  ],
-  "azerbaijan": [
-    "azerbaigian"
-  ],
-  "azkarate": [
-    "azkarate"
-  ],
-  "aznar": [
-    "aznar"
-  ],
-  "azores": [
-    "azzorre"
-  ],
-  "athleticbilbao": [
-    "athleticbilbao"
-  ],
-  "al-maliki": [
-    "al-maliki"
-  ],
-  "al-zawahiri": [
-    "al-zawahiri"
+  "Azerbaijan": [
+    "Azerbaigian"
   ],
   "asset": [
     "vantaggio"
@@ -1218,14 +1073,8 @@
   "atrium": [
     "atrio"
   ],
-  "agnosia": [
-    "agnosia"
-  ],
   "accomplice": [
     "complice"
-  ],
-  "albite": [
-    "albite"
   ],
   "apriority": [
     "apriorismo"

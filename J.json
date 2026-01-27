@@ -145,15 +145,16 @@
     "lavoro"
   ],
   "joint": [
-    "consiglio",
     "giuntura",
     "raccordare"
   ],
   "joke": [
-    "barzelletta"
+    "barzelletta",
+    "scherzo"
   ],
   "journal": [
-    "rivista"
+    "rivista",
+    "diario"
   ],
   "journalism": [
     "giornalismo"
@@ -224,9 +225,6 @@
   "jerrycan": [
     "tanica"
   ],
-  "jet": [
-    "jet"
-  ],
   "jay": [
     "ghiandaia"
   ],
@@ -245,9 +243,6 @@
   "juridically": [
     "giuridicamente"
   ],
-  "justright": [
-    "correttamente"
-  ],
   "juxtapose": [
     "giustapporre"
   ],
@@ -257,20 +252,11 @@
   "justify": [
     "giustificare"
   ],
-  "justas": [
-    "tanto"
-  ],
   "jug": [
     "brocca"
   ],
   "jute": [
     "iuta"
-  ],
-  "jadeite": [
-    "giadeite"
-  ],
-  "jarosite": [
-    "jarosite"
   ],
   "joker": [
     "burlone"
@@ -280,11 +266,5 @@
   ],
   "jauntily": [
     "vivacemente"
-  ],
-  "jazz": [
-    "jazz"
-  ],
-  "joule": [
-    "joule"
   ]
 }

@@ -744,304 +744,53 @@
   "marquesasislands": [
     "isolemarchesi"
   ],
-  "mars": [
-    "marte"
+  "Mars": [
+    "Marte"
   ],
-  "marseilles": [
-    "marsiglia"
-  ],
-  "marshallislands": [
-    "isolemarshall"
-  ],
-  "martinez": [
-    "martinez"
-  ],
-  "martinique": [
-    "martinica"
-  ],
-  "martorell": [
-    "martorell"
-  ],
-  "marx": [
-    "marx"
-  ],
-  "maryland": [
-    "maryland"
-  ],
-  "massachusetts": [
-    "massachusetts"
-  ],
-  "mateo": [
-    "mateo"
-  ],
-  "matteo": [
-    "matteo"
-  ],
-  "mauricio": [
-    "mauricio"
-  ],
-  "mauritania": [
-    "mauritania"
-  ],
-  "mauritius": [
-    "mauritius"
-  ],
-  "maya": [
-    "maya"
+  "Marseilles": [
+    "Marsiglia"
   ],
   "mayor": [
-    "mayor",
     "sindaco"
   ],
-  "mcaleese": [
-    "mcaleese"
+  "Mercury": [
+    "Mercurio"
   ],
-  "mccain": [
-    "mccain"
+  "Mexico": [
+    "Messico"
   ],
-  "mccarthy": [
-    "mccarthy"
+  "Middle East": [
+    "Medio Oriente"
   ],
-  "mccreedy": [
-    "mccreedy"
-  ],
-  "mcdonald's": [
-    "mcdonald's"
-  ],
-  "mcdonnell": [
-    "mcdonnell"
-  ],
-  "mcgrath": [
-    "mcgrath"
-  ],
-  "mcgregor": [
-    "mcgregor"
-  ],
-  "mclaren": [
-    "mclaren"
-  ],
-  "mcloughlin": [
-    "mcloughlin"
-  ],
-  "mcshee": [
-    "mcshee"
-  ],
-  "mcguiness": [
-    "mcguiness"
-  ],
-  "medina": [
-    "medina"
-  ],
-  "melanesia": [
-    "melanesia"
-  ],
-  "melilla": [
-    "melilla"
-  ],
-  "mendoza": [
-    "mendoza"
-  ],
-  "mercury": [
-    "mercurio"
-  ],
-  "meroi": [
-    "meroi"
-  ],
-  "mexico": [
-    "messico"
-  ],
-  "miami": [
-    "miami"
-  ],
-  "michael": [
-    "michael"
-  ],
-  "michel": [
-    "michel"
-  ],
-  "michele": [
-    "michele"
-  ],
-  "michelin": [
-    "michelin"
-  ],
-  "michigan": [
-    "michigan"
-  ],
-  "mickey": [
-    "mickey"
-  ],
-  "micronesia": [
-    "micronesia"
-  ],
-  "microsoft": [
-    "microsoft"
-  ],
-  "middleeast": [
-    "mediooriente"
-  ],
-  "miguel": [
-    "miguel"
-  ],
-  "milan": [
-    "milano"
-  ],
-  "milena": [
-    "milena"
+  "Milan": [
+    "Milano"
   ],
   "miller": [
-    "miller",
     "mugnaio"
   ],
-  "milosevic": [
-    "milosevic"
+  "Moldova": [
+    "Moldavia"
   ],
-  "miltiades": [
-    "milziade"
+  "Morocco": [
+    "Marocco"
   ],
-  "minerva": [
-    "minerva"
+  "Moscow": [
+    "Mosca"
   ],
-  "minneapolis": [
-    "minneapolis"
+  "Mozambique": [
+    "Mozambico"
   ],
-  "minnesota": [
-    "minnesota"
-  ],
-  "minorca": [
-    "minorca"
-  ],
-  "miranda": [
-    "miranda"
-  ],
-  "mislata": [
-    "mislata"
-  ],
-  "missouri": [
-    "missouri"
-  ],
-  "mitterrand": [
-    "mitterrand"
-  ],
-  "mohamedelbaradei": [
-    "mohamedelbaradei"
-  ],
-  "moldova": [
-    "moldavia"
-  ],
-  "molina": [
-    "molina"
-  ],
-  "mollerussa": [
-    "mollerussa"
-  ],
-  "molony": [
-    "molony"
-  ],
-  "molotov": [
-    "molotov"
-  ],
-  "monaco": [
-    "monaco"
-  ],
-  "monet": [
-    "monet"
-  ],
-  "mongolia": [
-    "mongolia"
-  ],
-  "monica": [
-    "monica"
-  ],
-  "monrovia": [
-    "monrovia"
-  ],
-  "montenegro": [
-    "montenegro"
-  ],
-  "montesinos": [
-    "montesinos"
-  ],
-  "montevideo": [
-    "montevideo"
-  ],
-  "montpellier": [
-    "montpellier"
-  ],
-  "montserrat": [
-    "montserrat"
-  ],
-  "moore": [
-    "moore"
-  ],
-  "moran": [
-    "moran"
-  ],
-  "moratinos": [
-    "moratinos"
-  ],
-  "morella": [
-    "morella"
-  ],
-  "morocco": [
-    "marocco"
-  ],
-  "moscow": [
-    "mosca"
-  ],
-  "moskvariver": [
-    "moscova"
-  ],
-  "moya": [
-    "moya"
-  ],
-  "mozambique": [
-    "mozambico"
-  ],
-  "mozart": [
-    "mozart"
-  ],
-  "mullan": [
-    "mullan"
-  ],
-  "munich": [
-    "monacodibaviera"
-  ],
-  "murcia": [
-    "murcia"
-  ],
-  "murillo": [
-    "murillo"
-  ],
-  "murphy": [
-    "murphy"
-  ],
-  "murray": [
-    "murray"
-  ],
-  "mussolini": [
-    "mussolini"
-  ],
-  "mutsch": [
-    "mutsch"
-  ],
-  "mutxamel": [
-    "mutxamel"
+  "Munich": [
+    "Monaco"
   ],
   "milestone": [
-    "pietramiliare"
+    "pietra miliare"
   ],
   "microstate": [
     "microstato"
   ],
   "musk": [
     "muschio"
-  ],
-  "magnesite": [
-    "magnesite"
-  ],
-  "macula": [
-    "macula"
   ],
   "magenta": [
     "magenta"
@@ -1052,23 +801,14 @@
   "mania": [
     "mania"
   ],
-  "manna": [
-    "manna"
-  ],
   "mesosphere": [
     "mesosfera"
-  ],
-  "mimosa": [
-    "mimosa"
   ],
   "microstructure": [
     "microstruttura"
   ],
   "mucin": [
     "mucina"
-  ],
-  "mtorolite": [
-    "mtorolite"
   ],
   "manoeuvre": [
     "manovra",
@@ -1095,33 +835,14 @@
   "marxist": [
     "marxista"
   ],
-  "may": [
+  "May": [
     "maggio"
   ],
   "make-up": [
-    "cosmetico",
-    "makeup",
     "trucco"
   ],
-  "molotovcocktail": [
-    "bombamolotov",
-    "bottigliamolotov"
-  ],
-  "monocotyledon": [
-    "monocotiledone"
-  ],
-  "monsoon": [
-    "monsone"
-  ],
-  "metresabovesealevel": [
-    "metrisopraillivellodelmare",
-    "metrisullivellodelmare"
-  ],
-  "machiningcentre": [
-    "centrodilavoro"
-  ],
-  "medicinecabinet": [
-    "armadiettodeimedicinali"
+  "Monsoon": [
+    "Monsone"
   ],
   "marketable": [
     "vendibile"
@@ -1143,7 +864,7 @@
   "maladjustment": [
     "disadattamento"
   ],
-  "mandarin": [
+  "Mandarin": [
     "mandarino"
   ],
   "mandoline": [
@@ -1201,7 +922,7 @@
     "marsupio"
   ],
   "macaroni": [
-    "maccherone"
+    "maccheroni"
   ],
   "machination": [
     "macchinazione"
@@ -1209,32 +930,24 @@
   "machine": [
     "macchina"
   ],
-  "machinetranslation": [
-    "traduzioneautomatica"
-  ],
   "machinery": [
     "macchinario"
   ],
   "mackerel": [
     "sgombro"
   ],
-  "macrobioticdiet": [
-    "macrobiotica"
-  ],
   "macrocephaly": [
     "macrocefalia"
   ],
   "madness": [
-    "pazzia"
+    "pazzia",
+    "follia"
   ],
-  "madridian": [
+  "Madridian": [
     "madrileno"
   ],
   "maduration": [
     "maturazione"
-  ],
-  "mafia": [
-    "mafia"
   ],
   "magazine": [
     "rivista"
@@ -1257,26 +970,18 @@
   "magnitude": [
     "magnitudine"
   ],
-  "magnolia": [
-    "magnolia"
-  ],
   "mahogany": [
     "mogano"
   ],
   "mail": [
-    "mail",
-    "messaggeria",
     "posta"
   ],
   "maintenance": [
     "manutenzione"
   ],
-  "majordomo": [
-    "maggiordomo"
-  ],
   "make": [
     "fare",
-    "marchio"
+    "creare"
   ],
   "maker": [
     "fabbricante"
@@ -1329,7 +1034,6 @@
     "borsello"
   ],
   "mandate": [
-    "mandare",
     "mandato"
   ],
   "mandible": [
@@ -1355,7 +1059,6 @@
     "maggiordomo"
   ],
   "manufacture": [
-    "fabbrica",
     "fabbricare"
   ],
   "manufacturing": [
@@ -1392,31 +1095,22 @@
   "marginalisation": [
     "emarginazione"
   ],
-  "marguerite": [
-    "margherita"
-  ],
-  "marijuana": [
-    "marijuana"
-  ],
-  "marina": [
-    "marina"
-  ],
   "marionette": [
     "marionetta"
   ],
   "mark": [
     "marca",
     "marcare",
-    "marchio"
+    "marchio",
+    "segno",
+    "voto"
   ],
   "marker": [
-    "marcatore"
+    "marcatore",
+    "pennarello"
   ],
   "market": [
     "mercato"
-  ],
-  "marketing": [
-    "marketing"
   ],
   "marmot": [
     "marmotta"
@@ -1453,7 +1147,6 @@
     "muratura"
   ],
   "mass": [
-    "concentrare",
     "massa",
     "messa"
   ],
@@ -1469,15 +1162,14 @@
   "mastodon": [
     "mastodonte"
   ],
-  "masturbation": [
-    "masturbazione"
-  ],
   "match": [
     "fiammifero",
-    "uguagliare"
+    "uguagliare",
+    "partita"
   ],
   "mate": [
-    "compagno"
+    "compagno",
+    "accoppiarsi"
   ],
   "materialisation": [
     "materializzazione"
@@ -1517,7 +1209,7 @@
     "prato"
   ],
   "meal": [
-    "cibo"
+    "pasto"
   ],
   "meander": [
     "meandro",
@@ -1562,7 +1254,8 @@
     "meditazione"
   ],
   "medium": [
-    "mezzo"
+    "mezzo",
+    "medio"
   ],
   "meeting": [
     "riunione"
@@ -1586,12 +1279,6 @@
     "appartenente",
     "membro"
   ],
-  "memberofparliament": [
-    "membrodelparlamento"
-  ],
-  "memberoftheeuropeanparliament": [
-    "membrodelparlamentoeuropeo"
-  ],
   "membership": [
     "affiliazione"
   ],
@@ -1605,14 +1292,8 @@
     "memoria",
     "ricordo"
   ],
-  "menorrhagia": [
-    "menorragia"
-  ],
   "menstruation": [
     "mestruazione"
-  ],
-  "mentallyhandicappedperson": [
-    "mentalmentedisabile"
   ],
   "menthol": [
     "mentolo"
@@ -1655,9 +1336,6 @@
   ],
   "messianism": [
     "messianismo"
-  ],
-  "meta": [
-    "meta"
   ],
   "metabolism": [
     "metabolismo"
@@ -1720,7 +1398,7 @@
     "metrorragia"
   ],
   "microbe": [
-    "microrganismo"
+    "microbo"
   ],
   "microbiology": [
     "microbiologia"
@@ -1752,11 +1430,8 @@
   "microwave": [
     "microonde"
   ],
-  "microwaveoven": [
-    "fornoamicroonde"
-  ],
-  "middlefinger": [
-    "ditomedio"
+  "middle finger": [
+    "dito medio"
   ],
   "midfielder": [
     "centrocampista"
@@ -1848,7 +1523,6 @@
     "minotauro"
   ],
   "mint": [
-    "coniazione",
     "menta"
   ],
   "minuet": [
@@ -1899,20 +1573,17 @@
     "mischiare",
     "miscuglio"
   ],
-  "mobilephone": [
-    "telefonocellulare"
+  "mobile phone": [
+    "telefono cellulare"
   ],
   "mobilisation": [
     "mobilitazione"
   ],
   "mode": [
-    "modo"
+    "modalità"
   ],
   "model": [
     "modello"
-  ],
-  "modem": [
-    "modem"
   ],
   "moderation": [
     "moderazione"
@@ -1951,13 +1622,11 @@
   ],
   "mole": [
     "neo",
+    "mole",
     "talpa"
   ],
   "molecule": [
     "molecola"
-  ],
-  "moltenglass": [
-    "pastadivetro"
   ],
   "moment": [
     "momento"
@@ -1982,13 +1651,13 @@
   ],
   "money": [
     "denaro",
-    "moneta"
+    "soldi"
   ],
   "monism": [
     "monismo"
   ],
   "monitor": [
-    "controllare",
+    "monitorare",
     "schermo"
   ],
   "monitoring": [
@@ -2049,19 +1718,17 @@
     "muggito"
   ],
   "mood": [
-    "umorismo"
+    "umore"
   ],
-  "moon": [
-    "luna"
+  "Moon": [
+    "Luna"
   ],
   "mop": [
-    "radazza"
+    "radazza",
+    "mocio"
   ],
   "moratorium": [
     "moratoria"
-  ],
-  "morningstar": [
-    "stelladelmattino"
   ],
   "morphology": [
     "morfologia"
@@ -2081,9 +1748,6 @@
   ],
   "mosquito": [
     "zanzara"
-  ],
-  "motel": [
-    "motel"
   ],
   "motet": [
     "mottetto"
@@ -2127,7 +1791,8 @@
     "montagna"
   ],
   "mountaineer": [
-    "alpinista"
+    "alpinista",
+    "montanaro"
   ],
   "mountaineering": [
     "alpinismo"
@@ -2143,14 +1808,14 @@
     "sbocco"
   ],
   "move": [
-    "movimento",
+    "mossa",
     "spostare"
   ],
   "movement": [
     "movimento"
   ],
   "movie": [
-    "pellicola"
+    "film"
   ],
   "mucosa": [
     "mucosa"
@@ -2159,14 +1824,11 @@
     "ceramica",
     "fango"
   ],
-  "muezzin": [
-    "muezzin"
-  ],
   "mulatto": [
     "mulatto"
   ],
   "mulch": [
-    "letto"
+    "pacciame"
   ],
   "mule": [
     "mulo"
@@ -2198,6 +1860,9 @@
   "municipality": [
     "municipio"
   ],
+  "muon": [
+    "muone"
+  ],
   "murder": [
     "assassinare",
     "assassinio"
@@ -2206,7 +1871,7 @@
     "assassino"
   ],
   "murmur": [
-    "brusio"
+    "mormorio"
   ],
   "muscle": [
     "muscolo"
@@ -2331,9 +1996,6 @@
   "mitochondrion": [
     "mitocondrio"
   ],
-  "morse": [
-    "morse"
-  ],
   "multiprocessor": [
     "multiprocessore"
   ],
@@ -2444,7 +2106,7 @@
     "forse"
   ],
   "meantime": [
-    "nelfrattempo"
+    "frattempo"
   ],
   "medically": [
     "medicalmente"
@@ -2457,9 +2119,6 @@
   ],
   "meticulously": [
     "meticolosamente"
-  ],
-  "milesbetter": [
-    "moltomeglio"
   ],
   "militarily": [
     "militarmente"
@@ -2491,25 +2150,6 @@
   "mortally": [
     "mortalmente"
   ],
-  "mostofthetime": [
-    "lamaggiorpartedellevolte"
-  ],
-  "mostly": [
-    "maggioritariamente"
-  ],
-  "muchbetter": [
-    "moltomeglio"
-  ],
-  "muchlater": [
-    "moltodopo"
-  ],
-  "muchless": [
-    "moltodimeno",
-    "moltomeno"
-  ],
-  "muchworse": [
-    "moltopeggio"
-  ],
   "musically": [
     "musicalmente"
   ],
@@ -2520,29 +2160,16 @@
     "misteriosamente"
   ],
   "madden": [
-    "fareimpazzire"
+    "impazzire"
   ],
   "maintain": [
     "mantenere"
-  ],
-  "makeamistake": [
-    "fareunerrore"
-  ],
-  "makemoney": [
-    "faresoldi"
-  ],
-  "makepossible": [
-    "farepossibile"
-  ],
-  "makeup": [
-    "fare",
-    "inventare"
   ],
   "manacle": [
     "ammanettare"
   ],
   "manage": [
-    "conseguire",
+    "riuscire",
     "raggiungere"
   ],
   "manifest": [
@@ -2561,7 +2188,7 @@
     "meccanizzare"
   ],
   "meet": [
-    "compiere",
+    "incontrare",
     "conoscere"
   ],
   "melt": [
@@ -2575,9 +2202,6 @@
   ],
   "migrate": [
     "emigrare"
-  ],
-  "misunderstand": [
-    "equivocare"
   ],
   "mitigate": [
     "mitigare"
@@ -2616,7 +2240,7 @@
     "mormorare"
   ],
   "myself": [
-    "prpers"
+    "me stesso"
   ],
   "magnesium": [
     "magnesio"

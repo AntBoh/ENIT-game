@@ -1131,8 +1131,8 @@
   "betting": [
     "scommessa"
   ],
-  "bible": [
-    "bibbia"
+  "Bible": [
+    "Bibbia"
   ],
   "bibliography": [
     "bibliografia"
@@ -1144,10 +1144,10 @@
     "bicameralismo"
   ],
   "bicycle": [
-    "bicicletta"
+    "bicicletta",
+    "bici"
   ],
   "bid": [
-    "intento",
     "offerta",
     "offrire"
   ],
@@ -1167,7 +1167,8 @@
     "biiezione"
   ],
   "bike": [
-    "bicicletta"
+    "bicicletta",
+    "bici"
   ],
   "bilingualism": [
     "bilinguismo"
@@ -1179,7 +1180,10 @@
     "biliardo"
   ],
   "bin": [
-    "cubo"
+    "cesto"
+  ],
+  "binky": [
+    "ciuccio"
   ],
   "bioaccumulation": [
     "bioaccumulazione"
@@ -1505,15 +1509,15 @@
   "breathing": [
     "respirazione"
   ],
+  "breathtaking": [
+    "mozzafiato"
+  ],
   "breed": [
-    "generare",
+    "accoppiarsi",
     "razza"
   ],
   "breeder": [
     "allevatore"
-  ],
-  "breve": [
-    "breve"
   ],
   "brewery": [
     "birreria"
@@ -1529,10 +1533,7 @@
     "paletta"
   ],
   "bride": [
-    "sposina"
-  ],
-  "bridegroom": [
-    "sposo"
+    "sposa"
   ],
   "bridge": [
     "ponte"
@@ -1583,13 +1584,10 @@
     "bolla"
   ],
   "bucket": [
-    "cubo"
+    "secchio"
   ],
   "buckle": [
     "fibbia"
-  ],
-  "budgerigar": [
-    "pappagallino"
   ],
   "budget": [
     "budget"
@@ -1612,18 +1610,16 @@
     "ruspa"
   ],
   "bullet": [
-    "pallottola"
-  ],
-  "bullying": [
-    "prepotenza"
+    "pallottola",
+    "proiettile"
   ],
   "bumblebee": [
     "bombo"
   ],
   "bump": [
     "bernoccolo",
-    "colpire",
-    "colpo"
+    "urtare",
+    "urto"
   ],
   "bunch": [
     "mazzo"
@@ -1643,8 +1639,7 @@
     "bunker"
   ],
   "burden": [
-    "carica",
-    "caricare"
+    "fardello"
   ],
   "bureau": [
     "agenzia"
@@ -1660,6 +1655,7 @@
   ],
   "burn": [
     "ardere",
+    "bruciare",
     "ustione"
   ],
   "burse": [
@@ -1667,10 +1663,13 @@
   ],
   "burst": [
     "esplodere",
-    "esplosione"
+    "esplosione",
+    "scoppio",
+    "scoppiare"
   ],
   "bus": [
     "autobus",
+    "bus",
     "pullman"
   ],
   "butane": [
@@ -1706,9 +1705,6 @@
   "borrower": [
     "mutuatario"
   ],
-  "breaststroke": [
-    "nuotoarana"
-  ],
   "blackout": [
     "oscuramento"
   ],
@@ -1717,12 +1713,6 @@
   ],
   "baton": [
     "bastone"
-  ],
-  "brettonwoodssystem": [
-    "sistemadibrettonwoods"
-  ],
-  "brettonwoodsagreement": [
-    "accordodibrettonwoods"
   ],
   "beaker": [
     "coppa"
@@ -1740,7 +1730,8 @@
     "zaino"
   ],
   "bait": [
-    "esca"
+    "esca",
+    "ingannare"
   ],
   "bacon": [
     "pancetta"
@@ -1757,13 +1748,10 @@
   "bailiff": [
     "ufficiale giudiziario"
   ],
-  "bobsled": [
-    "bob"
+  "barbed wire": [
+    "filo spinato"
   ],
-  "barbedwire": [
-    "filospinato"
-  ],
-  "broadbean": [
+  "broad bean": [
     "fava"
   ],
   "baluster": [
@@ -1796,9 +1784,6 @@
   "bishopric": [
     "vescovato"
   ],
-  "buspass": [
-    "tesseradell'autobus"
-  ],
   "billygoat": [
     "caprone"
   ],
@@ -1827,7 +1812,7 @@
     "baritono"
   ],
   "bib": [
-    "bavaglino"
+    "bavaglio"
   ],
   "bilberry": [
     "mirtillo"
@@ -2359,24 +2344,6 @@
   "bottling": [
     "imbottigliamento"
   ],
-  "buckwheat": [
-    "granosaraceno"
-  ],
-  "bakelite": [
-    "bachelite"
-  ],
-  "biotite": [
-    "biotite"
-  ],
-  "boracite": [
-    "boracite"
-  ],
-  "bornite": [
-    "bornite"
-  ],
-  "brucite": [
-    "brucite"
-  ],
   "button": [
     "bottone"
   ],
@@ -2386,8 +2353,8 @@
   "broad": [
     "largo"
   ],
-  "betterlatethannever": [
-    "megliotardichemai"
+  "better late than never": [
+    "meglio tardi che mai"
   ],
   "bye": [
     "arrivederci"
@@ -2400,20 +2367,23 @@
     "stare"
   ],
   "beside": [
-    "accantoa",
-    "assiemea",
+    "accanto",
+    "assieme",
     "presso"
   ],
   "between": [
-    "tra"
+    "tra",
+    "fra"
   ],
   "beyond": [
     "oltre"
   ],
   "by": [
-    "per"
+    "per",
+    "da",
+    "con"
   ],
-  "bymeansof": [
+  "by mean sof": [
     "mediante",
     "tramite"
   ]
