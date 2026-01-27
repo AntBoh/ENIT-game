@@ -685,10 +685,9 @@
     "ateo"
   ],
   "athletic": [
-    "athletic",
     "atletico"
   ],
-  "atlantic": [
+  "Atlantic": [
     "atlantico"
   ],
   "atmospheric": [
@@ -722,10 +721,10 @@
   "audiovisual": [
     "audiovisivo"
   ],
-  "australian": [
+  "Australian": [
     "australiano"
   ],
-  "austrian": [
+  "Austrian": [
     "austriaco"
   ],
   "autarchic": [
@@ -769,7 +768,7 @@
   ],
   "average": [
     "media",
-    "mediano"
+    "mediocre"
   ],
   "avid": [
     "avido"
@@ -791,7 +790,7 @@
     "terribile"
   ],
   "awkward": [
-    "incomodo"
+    "imbarazzante"
   ],
   "axial": [
     "assiale"
@@ -805,10 +804,7 @@
   "axonometric": [
     "assonometrico"
   ],
-  "azimuthal": [
-    "azimutale"
-  ],
-  "algerian": [
+  "Algerian": [
     "algerino"
   ],
   "anemograph": [
@@ -826,201 +822,17 @@
   "asthenosphere": [
     "astenosfera"
   ],
-  "abad": [
-    "abad"
+  "Achilles": [
+    "Achille"
   ],
-  "abascal": [
-    "abascal"
+  "Aeneas": [
+    "Enea"
   ],
-  "abbott": [
-    "abbott"
+  "Agamemnon": [
+    "Agamennone"
   ],
-  "abdulhamid": [
-    "abdul-hamid"
-  ],
-  "abel": [
-    "abel"
-  ],
-  "abidjan": [
-    "abidjan"
-  ],
-  "acebes": [
-    "acebes"
-  ],
-  "acebo": [
-    "acebo"
-  ],
-  "achilles": [
-    "achille"
-  ],
-  "acosta": [
-    "acosta"
-  ],
-  "adam": [
-    "adam"
-  ],
-  "adams": [
-    "adams"
-  ],
-  "adela": [
-    "adela"
-  ],
-  "aeneas": [
-    "enea"
-  ],
-  "afghanistan": [
-    "afghanistan"
-  ],
-  "africa": [
-    "africa"
-  ],
-  "agakhan": [
-    "agakhan"
-  ],
-  "agamemnon": [
-    "agamennone"
-  ],
-  "agassi": [
-    "agassi"
-  ],
-  "agirre": [
-    "agirre"
-  ],
-  "agnese": [
-    "agnese"
-  ],
-  "agnew": [
-    "agnew"
-  ],
-  "agostinacchio": [
-    "agostinacchio"
-  ],
-  "agostino": [
-    "agostino"
-  ],
-  "aguado": [
-    "aguado"
-  ],
-  "aguilera": [
-    "aguilera"
-  ],
-  "aguirre": [
-    "aguirre"
-  ],
-  "ahern": [
-    "ahern"
-  ],
-  "algore": [
-    "algore"
-  ],
-  "alabama": [
-    "alabama"
-  ],
-  "alaska": [
-    "alaska"
-  ],
-  "albacete": [
-    "albacete"
-  ],
-  "albania": [
-    "albania"
-  ],
-  "albatera": [
-    "albatera"
-  ],
-  "albelda": [
-    "albelda"
-  ],
-  "albero": [
-    "albero"
-  ],
-  "albert": [
-    "albert"
-  ],
-  "albertcamus": [
-    "albertcamus"
-  ],
-  "albertiofmonaco": [
-    "albertoidimonaco"
-  ],
-  "albertiiofmonaco": [
-    "albertoiidimonaco"
-  ],
-  "albertofmonaco": [
-    "albertodimonaco"
-  ],
-  "alberto": [
-    "alberto"
-  ],
-  "albini": [
-    "albini"
-  ],
-  "albiol": [
-    "albiol"
-  ],
-  "alcaraz": [
-    "alcaraz"
-  ],
-  "alcoy": [
-    "alcoi",
-    "alcoy"
-  ],
-  "aldaia": [
-    "aldaia"
-  ],
-  "aleixandre": [
-    "aleixandre"
-  ],
-  "alejandro": [
-    "alejandro"
-  ],
-  "alessandria": [
-    "alessandria"
-  ],
-  "alessandro": [
-    "alessandro"
-  ],
-  "aleutianislands": [
-    "isolealeutine"
-  ],
-  "alexanderthegreat": [
-    "alessandromagno"
-  ],
-  "alexandredumas": [
-    "alexandredumas"
-  ],
-  "alfaro": [
-    "alfaro"
-  ],
-  "alfonso": [
-    "alfonso"
-  ],
-  "algarra": [
-    "algarra"
-  ],
-  "algeria": [
-    "algeria"
-  ],
-  "alicante": [
-    "alicante"
-  ],
-  "allsaints'day": [
-    "ognissanti"
-  ],
-  "aliceinchains": [
-    "aliceinchains"
-  ],
-  "apertium": [
-    "apertium"
-  ],
-  "allman": [
-    "allman"
-  ],
-  "almansa": [
-    "almansa"
-  ],
-  "almunia": [
-    "almunia"
+  "All Saints' Day": [
+    "Ognissanti"
   ],
   "almuniaamann": [
     "almuniaamann"
@@ -2291,7 +2103,8 @@
     "appendice"
   ],
   "addendum": [
-    "appendice"
+    "appendice",
+    "addendo"
   ],
   "appetiser": [
     "aperitivo"
@@ -2308,9 +2121,6 @@
   "appliance": [
     "elettrodomestico"
   ],
-  "audio": [
-    "audio"
-  ],
   "application": [
     "applicazione"
   ],
@@ -2326,9 +2136,8 @@
   "approach": [
     "approccio",
     "avvicinamento",
-    "avvicinare",
-    "ravvicinamento"
-  ],
+    "avvicinare"
+   ],
   "appropriation": [
     "appropriazione"
   ],
@@ -3240,36 +3049,6 @@
   "ahead": [
     "avanti"
   ],
-  "allaround": [
-    "dappertutto"
-  ],
-  "allinall": [
-    "ingenerale"
-  ],
-  "allofasudden": [
-    "all'improvviso"
-  ],
-  "allover": [
-    "datutteleparti"
-  ],
-  "allovertheworld": [
-    "intuttoilmondo"
-  ],
-  "allright": [
-    "bene"
-  ],
-  "allthebetter": [
-    "moltomeglio"
-  ],
-  "alltheless": [
-    "moltomeno"
-  ],
-  "alltheway": [
-    "completamente"
-  ],
-  "allegedly": [
-    "presuntamente"
-  ],
   "almost": [
     "quasi"
   ],
@@ -3906,26 +3685,11 @@
   "aneurism": [
     "aneurisma"
   ],
-  "angioma": [
-    "angioma"
-  ],
   "aluminothermy": [
     "alluminotermia"
   ],
-  "assyrian": [
+  "Assyrian": [
     "assiro"
-  ],
-  "aragonite": [
-    "aragonite"
-  ],
-  "augite": [
-    "augite"
-  ],
-  "austenite": [
-    "austenite"
-  ],
-  "azurite": [
-    "azzurrite"
   ],
   "archiphoneme": [
     "archifonema"
@@ -3945,63 +3709,34 @@
   "angry": [
     "arrabbiato"
   ],
-  "abirdinthehandisworthtwointhebush": [
-    "megliounuovooggicheunagallinadomani"
-  ],
-  "achipofftheoldblock": [
-    "taleequalealgenitore"
-  ],
-  "absencemakestheheartgrowfonder": [
-    "l'assenzaaccrescel'amore"
-  ],
-  "astichintimesavesnine": [
-    "unpuntointemponesalvocento"
-  ],
   "although": [
     "malgrado"
   ],
   "according": [
     "secondo"
   ],
-  "accordingto": [
+  "according to": [
     "secondo"
   ],
   "across": [
-    "attraversoa"
+    "attraverso"
   ],
   "along": [
     "lungo"
-  ],
-  "alongwith": [
-    "insiemea"
   ],
   "amid": [
     "tra"
   ],
   "among": [
-    "entri",
     "fra",
     "tra"
   ],
   "amongst": [
-    "tra"
-  ],
-  "asa": [
-    "come"
-  ],
-  "asaresultof": [
-    "aseguitodi"
+    "tra",
+    "fra"
   ],
   "at": [
-    "in"
-  ],
-  "atabout": [
-    "sopra"
-  ],
-  "atthesightof": [
-    "allavistadi"
-  ],
-  "atthestartof": [
-    "agliinizidi"
+    "in",
+    "a"
   ]
 }

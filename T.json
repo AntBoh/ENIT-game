@@ -384,17 +384,11 @@
   "turbulent": [
     "turbolento"
   ],
-  "turkish": [
+  "Turkish": [
     "turco"
   ],
   "turquoise": [
     "turchese"
-  ],
-  "twice-weekly": [
-    "quindicinale"
-  ],
-  "twinaxial": [
-    "biassiale"
   ],
   "two-dimensional": [
     "bidimensionale"
@@ -755,15 +749,13 @@
   ],
   "tank": [
     "acquario",
-    "carroarmato",
+    "carro armato",
     "contenitore"
   ],
   "tap": [
     "rubinetto",
-    "toccare"
-  ],
-  "tapdancer": [
-    "ballerinoditiptap"
+    "toccare",
+    "tocco"
   ],
   "tapestry": [
     "arazzo"
@@ -783,11 +775,8 @@
     "tariffa"
   ],
   "taste": [
-    "degustare",
+    "gustare",
     "gusto"
-  ],
-  "tenesmus": [
-    "tenesmo"
   ],
   "thalamus": [
     "talamo"

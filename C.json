@@ -839,137 +839,26 @@
   "calpe": [
     "calpe"
   ],
-  "cambodia": [
-    "cambogia"
+  "Cambodia": [
+    "Cambogia"
   ],
-  "cameroon": [
-    "camerun"
+  "Cameroon": [
+    "Camerun"
   ],
-  "campbell": [
-    "campbell"
+  "Canaries": [
+    "Canarie"
   ],
-  "canada": [
-    "canada"
+  "Carribean": [
+    "Caraibi"
   ],
-  "canaries": [
-    "canarie"
-  ],
-  "canaryislands": [
-    "canarie"
-  ],
-  "canberra": [
-    "canberra"
-  ],
-  "canfranc": [
-    "canfranc"
-  ],
-  "cano": [
-    "cano"
-  ],
-  "cantabria": [
-    "cantabria"
-  ],
-  "caracas": [
-    "caracas"
-  ],
-  "carballo": [
-    "carballo"
-  ],
-  "carlo": [
-    "carlo"
-  ],
-  "carlos": [
-    "carlos"
-  ],
-  "carme": [
-    "carme"
-  ],
-  "carmen": [
-    "carmen"
-  ],
-  "carmona": [
-    "carmona"
-  ],
-  "carod-rovira": [
-    "carod-rovira"
-  ],
-  "carolina": [
-    "carolina"
-  ],
-  "carribean": [
-    "caraibi"
-  ],
-  "carrillo": [
-    "carrillo"
-  ],
-  "cartagena": [
-    "cartagena"
-  ],
-  "carthage": [
-    "cartagine"
-  ],
-  "casanova": [
-    "casanova"
-  ],
-  "casaresquiroga": [
-    "casaresquiroga"
-  ],
-  "casinos": [
-    "casinos"
-  ],
-  "caspe": [
-    "caspe"
-  ],
-  "castell": [
-    "castell"
-  ],
-  "castelldefels": [
-    "castelldefels"
-  ],
-  "castile": [
-    "castiglia"
-  ],
-  "castro": [
-    "castro"
-  ],
-  "catalina": [
-    "catalina"
-  ],
-  "catalonia": [
-    "catalogna"
-  ],
-  "caterina": [
-    "caterina"
-  ],
-  "catherine": [
-    "catherine"
-  ],
-  "cauchy": [
-    "cauchy"
-  ],
-  "caymanislands": [
-    "isolecayman"
-  ],
-  "cazorla": [
-    "cazorla"
+  "Carthage": [
+    "Cartagine"
   ],
   "Central African Republic": [
     "Repubblica Centrafricana"
   ],
-  "centralamerica": [
-    "americacentrale"
-  ],
-  "cervantes": [
-    "cervantes"
-  ],
-  "cervera": [
-    "cervera"
-  ],
-  "ceuta": [
-    "ceuta"
-  ],
-  "ceylon": [
-    "srilanka"
+  "Central America": [
+    "America Centrale"
   ],
   "chad": [
     "ciad"
@@ -1038,74 +927,8 @@
   "cid": [
     "cid"
   ],
-  "cisneros": [
-    "cisneros"
-  ],
-  "clarke": [
-    "clarke"
-  ],
-  "claudio": [
-    "claudio"
-  ],
-  "clementi": [
-    "clementei"
-  ],
-  "clementii": [
-    "clementeii"
-  ],
-  "clementiii": [
-    "clementeiii"
-  ],
-  "clementiv": [
-    "clementeiv"
-  ],
-  "clementix": [
-    "clementeix"
-  ],
-  "clementv": [
-    "clementev"
-  ],
-  "clementvi": [
-    "clementevi"
-  ],
-  "clementvii": [
-    "clementevii"
-  ],
-  "clementviii": [
-    "clementeviii"
-  ],
-  "clementx": [
-    "clementex"
-  ],
-  "clementxi": [
-    "clementexi"
-  ],
-  "clementxii": [
-    "clementexii"
-  ],
-  "clementxiii": [
-    "clementexiii"
-  ],
-  "clementxiv": [
-    "clementexiv"
-  ],
-  "clinton": [
-    "clinton"
-  ],
-  "clooney": [
-    "clooney"
-  ],
-  "coen": [
-    "coen"
-  ],
-  "cofrentes": [
-    "cofrentes"
-  ],
-  "cohen": [
-    "cohen"
-  ],
-  "coldwar": [
-    "guerrafredda"
+  "Cold War": [
+    "Guerra Fredda"
   ],
   "collantes": [
     "collantes"
@@ -1747,13 +1570,9 @@
   "cauterisation": [
     "cauterizzazione"
   ],
-  "cavatina": [
-    "cavatina"
-  ],
   "cave": [
     "caverna",
-    "grotta",
-    "locale"
+    "grotta"
   ],
   "cedar": [
     "cedro"
@@ -1779,10 +1598,7 @@
   "celluloid": [
     "celluloide"
   ],
-  "celom": [
-    "celoma"
-  ],
-  "celt": [
+  "Celt": [
     "celtico"
   ],
   "cement": [
@@ -1818,9 +1634,6 @@
   ],
   "century": [
     "secolo"
-  ],
-  "ceratin": [
-    "cheratina"
   ],
   "cereal": [
     "cereale"
@@ -1868,7 +1681,6 @@
     "gesso"
   ],
   "challenge": [
-    "contestazione",
     "sfida",
     "sfidare"
   ],
@@ -1878,9 +1690,6 @@
   "chameleon": [
     "camaleonte"
   ],
-  "champagne": [
-    "champagne"
-  ],
   "champion": [
     "campione"
   ],
@@ -1888,7 +1697,9 @@
     "campionato"
   ],
   "chance": [
-    "caso"
+    "occasione",
+    "possibilità",
+    "probabilità"
   ],
   "chancellery": [
     "cancelleria"
@@ -1897,9 +1708,6 @@
     "cambiamento",
     "cambiare",
     "cambio"
-  ],
-  "changingroom": [
-    "vestiario"
   ],
   "channel": [
     "canale"
@@ -1926,7 +1734,7 @@
   "charge": [
     "carica",
     "carico",
-    "riscuotere",
+    "caricare",
     "tariffa"
   ],
   "charisma": [
@@ -1937,30 +1745,26 @@
   ],
   "chase": [
     "persecuzione",
-    "perseguire"
+    "perseguire",
+    "inseguire",
+    "inseguimento"
   ],
   "chassis": [
-    "chassis",
     "telaio"
   ],
   "chat": [
-    "chat",
     "chiacchierare",
-    "ciarla"
-  ],
-  "chauvinism": [
-    "sciovinismo"
+    "chiacchierata"
   ],
   "cheat": [
-    "ingannare",
-    "trappola"
+    "imbrogliare"
+  ],
+  "cheat on":[
+    "tradire"
   ],
   "check": [
     "controllo",
     "verificare"
-  ],
-  "checklist": [
-    "listadicontrollo"
   ],
   "cheek": [
     "guancia"
@@ -1969,16 +1773,14 @@
     "formaggio"
   ],
   "chef": [
-    "chef"
-  ],
-  "chemicalweapon": [
-    "armachimica"
+    "cuoco"
   ],
   "chemiluminescence": [
     "chemiluminescenza"
   ],
   "chemist": [
-    "farmacista"
+    "farmacista",
+    "chimico"
   ],
   "chemist's": [
     "farmacia"
@@ -2332,6 +2134,9 @@
   ],
   "cobweb": [
     "ragnatela"
+  ],
+  "cobblestone": [
+    "pietrisco"
   ],
   "cocaine": [
     "cocaina"
@@ -3729,20 +3534,8 @@
   "cycloid": [
     "cicloide"
   ],
-  "crosshead": [
-    "testacroce"
-  ],
-  "camping": [
-    "camping"
-  ],
   "con": [
     "contro"
-  ],
-  "coulomb": [
-    "coulomb"
-  ],
-  "colophon": [
-    "colophon"
   ],
   "chorion": [
     "corion"
@@ -3750,18 +3543,11 @@
   "catalepsy": [
     "catalessi"
   ],
-  "cashmere": [
-    "cachemire"
-  ],
   "compensator": [
     "compensatore"
   ],
   "compiler": [
-    "compilatore",
-    "esaminatore"
-  ],
-  "curry": [
-    "curry"
+    "compilatore"
   ],
   "crusher": [
     "frantoio"

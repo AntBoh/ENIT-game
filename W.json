@@ -215,10 +215,7 @@
     "testimone",
     "testimoniare"
   ],
-  "workcentre": [
-    "ufficiodicollocamento"
-  ],
-  "weeklynewspaper": [
+  "weekly newspaper": [
     "settimanale"
   ],
   "wirefence": [
@@ -426,7 +423,7 @@
     "peso"
   ],
   "weightlifting": [
-    "sollevamentopesi"
+    "sollevamento pesi"
   ],
   "welding": [
     "saldatura"
@@ -451,30 +448,25 @@
     "piagnisteo"
   ],
   "whip": [
-    "frusta"
+    "frusta",
+    "frustata"
   ],
   "whisper": [
-    "bisbigliare",
-    "brusio"
+    "sussurro",
+    "sussurrare"
   ],
   "whistle": [
     "fischiare",
     "fischio"
   ],
-  "whitewagtail": [
-    "ballerinabianca"
-  ],
   "wholesaler": [
     "grossista"
-  ],
-  "whore": [
-    "puttana"
   ],
   "wick": [
     "stoppino"
   ],
   "widow": [
-    "vedovo"
+    "vedova"
   ],
   "widower": [
     "vedovo"
@@ -604,22 +596,9 @@
     "lavoro",
     "opera"
   ],
-  "workbench": [
-    "bancodilavoro"
-  ],
-  "workday": [
-    "giornodilavoro"
-  ],
   "worker": [
     "lavorante",
     "operaio"
-  ],
-  "workingday": [
-    "giornolavorativo"
-  ],
-  "workingtime": [
-    "giornatadilavoro",
-    "giornolavorativo"
   ],
   "worm": [
     "lombrico"

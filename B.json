@@ -356,53 +356,11 @@
   "balearicislands": [
     "baleari"
   ],
-  "balkans": [
-    "balcani"
+  "Balkans": [
+    "Balcani"
   ],
-  "baltimore": [
-    "baltimora"
-  ],
-  "balzac": [
-    "balzac"
-  ],
-  "bangkok": [
-    "bangkok"
-  ],
-  "bangladesh": [
-    "bangladesh"
-  ],
-  "bangui": [
-    "bangui"
-  ],
-  "banjul": [
-    "banjul"
-  ],
-  "barbados": [
-    "barbados"
-  ],
-  "barcelona": [
-    "barcellona"
-  ],
-  "barclay": [
-    "barclay"
-  ],
-  "barreda": [
-    "barreda"
-  ],
-  "barredafontes": [
-    "barredafontes"
-  ],
-  "barroso": [
-    "barroso"
-  ],
-  "barrot": [
-    "barrot"
-  ],
-  "basauri": [
-    "basauri"
-  ],
-  "basquecountry": [
-    "euskadi"
+  "Barcelona": [
+    "Barcellona"
   ],
   "bayonne": [
     "bayonne"
@@ -728,7 +686,7 @@
     "estetista"
   ],
   "badge": [
-    "badge"
+    "distintivo"
   ],
   "blame": [
     "biasimare",
@@ -1898,11 +1856,10 @@
   "buffet": [
     "buffet"
   ],
-  "boom": [
-    "boom"
-  ],
-  "boa": [
-    "boa"
+  "buffalo":[
+    "bisonte",
+    "bufalo",
+    "bullizzare"
   ],
   "brevier": [
     "breviario"
@@ -1986,7 +1943,8 @@
     "bronco"
   ],
   "bully": [
-    "prepotente"
+    "bullo",
+    "bullizzare"
   ],
   "bevel": [
     "smussatura"
@@ -2054,16 +2012,10 @@
   "borough": [
     "borough"
   ],
-  "bakingsoda": [
-    "bicarbonatodisodio"
+  "baking soda": [
+    "bicarbonato di sodio"
   ],
-  "blankcheque": [
-    "assegnoinbianco"
-  ],
-  "birdflu": [
-    "influenzaaviaria"
-  ],
-  "bechamelsauce": [
+  "bechamel sauce": [
     "besciamella"
   ],
   "backtofront": [
@@ -2248,13 +2200,14 @@
     "forare"
   ],
   "bother": [
-    "molestare"
+    "infastidire",
+    "importare"
   ],
   "bounce": [
-    "rimbalzare"
+    "rimbalzare",
+    "rimbalzo"
   ],
   "brave": [
-    "affrontare",
     "coraggioso"
   ],
   "break": [
@@ -2265,19 +2218,20 @@
     "respirare"
   ],
   "bribe": [
-    "corrompere"
+    "corrompere",
+    "mazzetta"
   ],
   "bring": [
     "portare"
   ],
-  "bringback": [
+  "bring back": [
     "riportare"
   ],
   "bring down": [
     "scendere",
     "abbattere"
   ],
-  "bringtogether": [
+  "bring together": [
     "riunire"
   ],
   "broaden": [
@@ -2292,12 +2246,6 @@
   "buy": [
     "comprare"
   ],
-  "bejacketless": [
-    "scamiciare"
-  ],
-  "bepossible": [
-    "esserepossibile"
-  ],
   "but": [
     "ma",
     "tranne"
@@ -2309,7 +2257,7 @@
     "berillio"
   ],
   "beef": [
-    "carnebovina"
+    "carne"
   ],
   "biofuel": [
     "biocarburante"

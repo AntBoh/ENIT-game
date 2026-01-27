@@ -14,10 +14,10 @@
   "grand": [
     "grandioso"
   ],
-  "gaelic": [
+  "Gaelic": [
     "gaelico"
   ],
-  "galician": [
+  "Galician": [
     "galiziano"
   ],
   "galvanic": [
@@ -247,8 +247,8 @@
   "gardner": [
     "gardner"
   ],
-  "garfield": [
-    "garfield"
+  "Garfield": [
+    "Garfield"
   ],
   "garnier": [
     "garnier"
@@ -381,9 +381,6 @@
   "goblin": [
     "folletto"
   ],
-  "goitre": [
-    "gozzo"
-  ],
   "grain": [
     "grano"
   ],
@@ -397,8 +394,7 @@
     "pompelmo"
   ],
   "gain": [
-    "ottenere",
-    "utile"
+    "ottenere"
   ],
   "galaxy": [
     "galassia"
@@ -416,7 +412,7 @@
     "scommessa"
   ],
   "gambling": [
-    "gioco"
+    "gioco d'azzardo"
   ],
   "game": [
     "gioco"
@@ -573,9 +569,6 @@
   "gestation": [
     "gestazione"
   ],
-  "gesticulation": [
-    "gesto"
-  ],
   "gesture": [
     "gesto"
   ],
@@ -698,9 +691,6 @@
   ],
   "goldsmithing": [
     "oreficeria"
-  ],
-  "golf": [
-    "golf"
   ],
   "goniometer": [
     "goniometro"

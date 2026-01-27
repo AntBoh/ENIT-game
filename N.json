@@ -432,7 +432,6 @@
     "negazione"
   ],
   "neglect": [
-    "disattendere",
     "negligenza",
     "trascurare"
   ],
@@ -444,7 +443,8 @@
     "trattativa"
   ],
   "neighbour": [
-    "vicino"
+    "vicino",
+    "confinare"
   ],
   "neoclassicism": [
     "neoclassicismo"
@@ -479,9 +479,6 @@
   "network": [
     "rete"
   ],
-  "neurasthenia": [
-    "nevrastenia"
-  ],
   "neurofilament": [
     "neurofilamento"
   ],
@@ -504,11 +501,11 @@
     "neonato"
   ],
   "news": [
-    "notizia"
+    "notizia",
+    "notiziario"
   ],
   "newspaper": [
-    "giornale",
-    "quotidiano"
+    "giornale"
   ],
   "niche": [
     "nicchia"
@@ -538,7 +535,7 @@
     "nitratazione"
   ],
   "nitrogen": [
-    "nitrogeno"
+    "azoto"
   ],
   "node": [
     "nodo"
@@ -559,17 +556,13 @@
     "nominalismo"
   ],
   "nomination": [
-    "nomina",
-    "nomination"
+    "nomina"
   ],
   "nominee": [
     "candidato"
   ],
   "noose": [
-    "corda"
-  ],
-  "noria": [
-    "noria"
+    "cappio"
   ],
   "norm": [
     "norma"
@@ -606,9 +599,6 @@
   "notion": [
     "nozione"
   ],
-  "nougat": [
-    "torrone"
-  ],
   "noun": [
     "sostantivo"
   ],
@@ -620,9 +610,6 @@
   ],
   "nuance": [
     "sfumatura"
-  ],
-  "nuclearweapon": [
-    "armanucleara"
   ],
   "nucleolus": [
     "nucleolo"
@@ -637,14 +624,11 @@
     "numerare",
     "numero"
   ],
-  "numbering": [
-    "numerazione"
-  ],
   "numismatist": [
     "numismatico"
   ],
   "nurse": [
-    "infermiere"
+    "infermiera"
   ],
   "nursemaid": [
     "bambinaia"
@@ -653,7 +637,8 @@
     "vivaio"
   ],
   "nut": [
-    "dado"
+    "dado",
+    "noce"
   ],
   "nutation": [
     "nutazione"
@@ -663,9 +648,6 @@
   ],
   "nymph": [
     "ninfa"
-  ],
-  "non-smoker": [
-    "nonfumatore"
   ],
   "narthex": [
     "nartece"
@@ -838,9 +820,6 @@
   "not": [
     "non"
   ],
-  "noteven": [
-    "nemmeno"
-  ],
   "notably": [
     "notevolmente"
   ],
@@ -981,9 +960,6 @@
   ],
   "neat": [
     "ordinato"
-  ],
-  "necessityisthemotherofinvention": [
-    "ilbisognoaguzzal'ingegno"
   ],
   "nine": [
     "nove"

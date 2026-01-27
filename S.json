@@ -3066,9 +3066,6 @@
   "strategist": [
     "stratega"
   ],
-  "secondcousin": [
-    "biscugino"
-  ],
   "strategy": [
     "strategia"
   ],
@@ -3081,14 +3078,9 @@
   "straw": [
     "paglia"
   ],
-  "strawpulp": [
-    "pastadipaglia"
-  ],
   "stream": [
-    "corrente"
-  ],
-  "streamlining": [
-    "razionalizzazione"
+    "corrente",
+    "flusso"
   ],
   "street": [
     "strada"
@@ -3247,9 +3239,6 @@
   "suicide": [
     "suicidio"
   ],
-  "suicidevictim": [
-    "suicida"
-  ],
   "suit": [
     "adattare",
     "contenzioso",
@@ -3364,12 +3353,12 @@
     "spazzino"
   ],
   "sweetheart": [
-    "innamorato"
+    "dolce"
   ],
   "swimming": [
     "nuoto"
   ],
-  "swimmingpool": [
+  "swimming pool": [
     "piscina"
   ],
   "swindle": [
@@ -4247,32 +4236,8 @@
   "spectrometer": [
     "spettrometro"
   ],
-  "saponite": [
-    "saponite"
-  ],
-  "scheelite": [
-    "scheelite"
-  ],
-  "selenite": [
-    "selenite"
-  ],
-  "siderite": [
-    "siderite"
-  ],
-  "sphalerite": [
-    "sfalerite"
-  ],
   "stalactite": [
     "stalattite"
-  ],
-  "stalagmite": [
-    "stalagmite"
-  ],
-  "steatite": [
-    "steatite"
-  ],
-  "solidrock": [
-    "rocciaviva"
   ],
   "structuralist": [
     "strutturalista"

@@ -1,22 +1,9 @@
 {
-  "kurdish": [
-    "curdo"
-  ],
-  "kuwaiti": [
-    "kuwaitiano"
-  ],
   "keen": [
     "entusiasta"
   ],
-  "katabatic": [
-    "catabatico"
-  ],
-  "kenyan": [
-    "keniano"
-  ],
   "key": [
     "chiave",
-    "codice",
     "tono"
   ],
   "kinematic": [
@@ -28,90 +15,14 @@
   "knowledgeable": [
     "imparato"
   ],
-  "korean": [
+  "Korean": [
     "coreano"
   ],
-  "koran": [
-    "corano"
-  ],
-  "kabul": [
-    "kabul"
-  ],
-  "kaczynski": [
-    "kaczynski"
-  ],
-  "kallas": [
-    "kallas"
-  ],
-  "kansas": [
-    "kansas"
-  ],
-  "katsaros": [
-    "katsaros"
-  ],
-  "kavanagh": [
-    "kavanagh"
-  ],
-  "kazakhstan": [
-    "kazakistan"
-  ],
-  "kazamias": [
-    "kazamias"
-  ],
-  "keane": [
-    "keane"
-  ],
-  "kensaro-wiwa": [
-    "kensaro-wiwa"
-  ],
-  "kennedy": [
-    "kennedy"
-  ],
-  "kenny": [
-    "kenny"
-  ],
-  "kentucky": [
-    "kentucky"
-  ],
-  "kenya": [
-    "kenya"
-  ],
-  "kessler": [
-    "kessler"
-  ],
-  "kidman": [
-    "kidman"
-  ],
-  "kiev": [
-    "kiev"
-  ],
-  "kimjong-il": [
-    "kimjong-il"
-  ],
   "king": [
-    "king",
     "re"
   ],
-  "kingsolomon": [
-    "resalomone"
-  ],
-  "korea": [
-    "corea"
-  ],
-  "kosovo": [
-    "kosovo"
-  ],
-  "kostunica": [
-    "kostunica"
-  ],
-  "kross": [
-    "kross"
-  ],
-  "kukluxklan": [
-    "kukluxklan"
-  ],
-  "kurdistan": [
-    "kurdistan"
+  "Korea": [
+    "Corea"
   ],
   "kick": [
     "calciare",
@@ -123,24 +34,12 @@
   "kickoff": [
     "inizio"
   ],
-  "knightoftheroundtable": [
-    "cavalieredellatavolarotonda"
-  ],
-  "karate": [
-    "karate"
-  ],
-  "karyotype": [
-    "cariotipo"
-  ],
-  "kebab": [
-    "kebab"
-  ],
   "keyboard": [
     "tastiera"
   ],
   "kid": [
     "bambino",
-    "figliare"
+    "scherzare"
   ],
   "kidnapper": [
     "rapitore"
@@ -149,11 +48,7 @@
     "rene"
   ],
   "killing": [
-    "abbattimento",
-    "assassinio"
-  ],
-  "kilo": [
-    "chilo"
+    "uccisione"
   ],
   "kilocalory": [
     "chilocaloria"
@@ -161,27 +56,15 @@
   "kilogram": [
     "chilogrammo"
   ],
-  "kilogramme": [
-    "chilogrammo"
-  ],
   "kilometre": [
     "chilometro"
   ],
-  "kilovolt": [
-    "kilovolt"
-  ],
-  "kilowatt": [
-    "kilowatt"
-  ],
-  "kimono": [
-    "kimono"
-  ],
   "kind": [
-    "classe",
+    "tipo",
     "gentile"
   ],
   "kindergarten": [
-    "asilonido"
+    "asilo"
   ],
   "kinescope": [
     "cinescopio"
@@ -196,7 +79,6 @@
     "chiosco"
   ],
   "kiss": [
-    "bacetto",
     "baciare",
     "bacio"
   ],
@@ -216,8 +98,7 @@
     "cavaliere"
   ],
   "knock": [
-    "colpire",
-    "colpo"
+    "bussare"
   ],
   "knot": [
     "nodo"
@@ -226,23 +107,11 @@
     "conoscenza",
     "sapere"
   ],
-  "kurd": [
-    "curdo"
-  ],
-  "karateka": [
-    "karateka"
-  ],
-  "keloid": [
-    "cheloide"
-  ],
   "keratin": [
     "cheratina"
   ],
   "kneepad": [
     "ginocchiera"
-  ],
-  "kilobyte": [
-    "chilobyte"
   ],
   "kitten": [
     "gattino"
@@ -257,10 +126,10 @@
     "vivamente"
   ],
   "kindly": [
-    "amabilmente"
+    "gentilmente"
   ],
   "knit": [
-    "lavorareamaglia"
+    "lavorare a maglia"
   ],
   "kneel": [
     "inginocchiarsi"
@@ -268,10 +137,10 @@
   "keep": [
     "mantenere"
   ],
-  "keepon": [
+  "keep on": [
     "continuare"
   ],
-  "keepwatch": [
+  "keep watch": [
     "vigilare"
   ],
   "kidnap": [
@@ -280,30 +149,12 @@
   "kill": [
     "uccidere"
   ],
-  "knockdown": [
+  "knock down": [
     "abbattere"
   ],
   "know": [
     "conoscere",
     "sapere"
-  ],
-  "km": [
-    "km"
-  ],
-  "kaolinite": [
-    "caolinite"
-  ],
-  "kimberlite": [
-    "kimberlite"
-  ],
-  "kaiser": [
-    "kaiser"
-  ],
-  "kamikaze": [
-    "kamikaze"
-  ],
-  "kayak": [
-    "kayak"
   ],
   "kennel": [
     "canile"
