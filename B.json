@@ -363,313 +363,32 @@
   "Barcelona": [
     "Barcellona"
   ],
-  "bayonne": [
-    "bayonne"
+  "Beijing": [
+    "Pechino"
   ],
-  "bea": [
-    "bea"
-  ],
-  "beatrice": [
-    "beatrice"
-  ],
-  "beatriz": [
-    "beatriz"
-  ],
-  "beckett": [
-    "beckett"
-  ],
-  "beethoven": [
-    "beethoven"
-  ],
-  "beijing": [
-    "pechino"
-  ],
-  "beirut": [
-    "beirut"
-  ],
-  "belgium": [
-    "belgio"
-  ],
-  "belgrade": [
-    "belgrado"
-  ],
-  "belize": [
-    "belize"
+  "Belgium": [
+    "Belgio"
   ],
   "bell": [
-    "bell",
     "campana"
   ],
-  "belmonte": [
-    "belmonte"
-  ],
-  "benedicti": [
-    "benedettoi"
-  ],
-  "benedictii": [
-    "benedettoii"
-  ],
-  "benedictiii": [
-    "benedettoiii"
-  ],
-  "benedictiv": [
-    "benedettoiv"
-  ],
-  "benedictix": [
-    "benedettoix"
-  ],
-  "benedictv": [
-    "benedettov"
-  ],
-  "benedictvi": [
-    "benedettovi"
-  ],
-  "benedictvii": [
-    "benedettovii"
-  ],
-  "benedictviii": [
-    "benedettoviii"
-  ],
-  "benedictx": [
-    "benedettox"
-  ],
-  "benedictxi": [
-    "benedettoxi"
-  ],
-  "benedictxii": [
-    "benedettoxii"
-  ],
-  "benedictxiii": [
-    "benedettoxiii"
-  ],
-  "benedictxiv": [
-    "benedettoxiv"
-  ],
-  "benedictxv": [
-    "benedettoxv"
-  ],
-  "benedictxvi": [
-    "benedettoxvi"
-  ],
-  "benidorm": [
-    "benidorm"
-  ],
-  "benin": [
-    "benin"
-  ],
-  "berlanga": [
-    "berlanga"
-  ],
-  "berlin": [
-    "berlino"
-  ],
-  "berlusconi": [
-    "berlusconi"
-  ],
-  "bermuda": [
-    "bermuda"
-  ],
-  "bern": [
-    "berna"
-  ],
-  "berne": [
-    "berna"
-  ],
-  "berry": [
-    "berry"
-  ],
-  "besson": [
-    "besson"
-  ],
-  "biel": [
-    "biel"
-  ],
-  "bilbao": [
-    "bilbao"
+  "Berlin": [
+    "Berlino"
   ],
   "bill": [
-    "bill",
+    "conto",
     "bolletta",
     "fattura",
     "fatturare"
   ],
-  "bilquez": [
-    "bilquez"
-  ],
-  "biscay": [
-    "biscaglia"
-  ],
-  "bischoff": [
-    "bischoff"
-  ],
-  "biwer": [
-    "biwer"
-  ],
-  "blair": [
-    "blair"
-  ],
-  "bobhope": [
-    "bobhope"
-  ],
-  "bobadilla": [
-    "bobadilla"
-  ],
-  "bohr": [
-    "bohr"
-  ],
-  "bolivia": [
-    "bolivia"
-  ],
-  "bologna": [
-    "bologna"
-  ],
-  "bombay": [
-    "bombay"
-  ],
-  "bonaparte": [
-    "bonaparte"
-  ],
-  "bonomartinez": [
-    "bonomartinez"
-  ],
-  "borbone": [
-    "borbone"
-  ],
-  "borg": [
-    "borg"
-  ],
-  "borja": [
-    "borja"
-  ],
-  "bosco": [
-    "bosco"
-  ],
-  "bosnia": [
-    "bosnia"
-  ],
-  "bosniaandherzegovina": [
-    "bosnia-erzegovina"
-  ],
-  "boston": [
-    "boston"
-  ],
-  "botswana": [
-    "botswana"
-  ],
-  "boyle": [
-    "boyle"
-  ],
-  "bralo": [
-    "bralo"
-  ],
-  "bramstoker": [
-    "bramstoker"
-  ],
-  "brasilia": [
-    "brasilia"
-  ],
-  "bratislava": [
-    "bratislava"
-  ],
-  "brazil": [
-    "brasile"
-  ],
-  "breen": [
-    "breen"
-  ],
-  "britishisles": [
-    "arcipelagobritannico"
-  ],
-  "britishvirginislands": [
-    "isoleverginibritanniche"
-  ],
-  "britishwestindies": [
-    "indieoccidentalibritanniche"
-  ],
-  "brittany": [
-    "bretagna"
-  ],
-  "browne": [
-    "browne"
-  ],
-  "brucespringsteen": [
-    "brucespringsteen"
-  ],
-  "bruneidarussalam": [
-    "brunei"
-  ],
-  "bruno": [
-    "bruno"
-  ],
-  "brussels": [
-    "bruxelles"
-  ],
-  "bucharest": [
-    "bucarest"
-  ],
-  "buckinghampalace": [
-    "buckinghampalace"
-  ],
-  "buckley": [
-    "buckley"
-  ],
-  "budapest": [
-    "budapest"
-  ],
-  "buenosaires": [
-    "buenosaires"
-  ],
-  "bugsbunny": [
-    "bugsbunny"
-  ],
-  "bulgaria": [
-    "bulgaria"
-  ],
-  "burgos": [
-    "burgos"
-  ],
-  "burjassot": [
-    "burjassot"
-  ],
-  "burke": [
-    "burke"
-  ],
-  "burkinafaso": [
-    "burkinafaso"
-  ],
-  "burma": [
-    "birmania"
-  ],
-  "burns": [
-    "burns"
-  ],
-  "burundi": [
-    "burundi"
+  "Brazil": [
+    "Brasile"
   ],
   "bush": [
-    "bush",
     "cespuglio"
   ],
-  "byelorussia": [
-    "bielorussia"
-  ],
-  "byrne": [
-    "byrne"
-  ],
-  "bearisland": [
-    "isoladell'orso"
-  ],
-  "brettonwoods": [
-    "brettonwoods"
-  ],
-  "britain": [
-    "bretagna"
-  ],
-  "betis": [
-    "betis"
-  ],
-  "beta": [
-    "beta"
+  "Britain": [
+    "Bretagna"
   ],
   "bookseller": [
     "libraio"
@@ -680,9 +399,6 @@
   "batiste": [
     "batista"
   ],
-  "backstitch": [
-    "puntoindietro"
-  ],
   "beautician": [
     "estetista"
   ],
@@ -692,9 +408,6 @@
   "blame": [
     "biasimare",
     "colpa"
-  ],
-  "bbc": [
-    "bbc"
   ],
   "bolshevism": [
     "bolscevismo"
@@ -909,17 +622,10 @@
     "basare",
     "base"
   ],
-  "baseball": [
-    "baseball"
-  ],
   "basil": [
     "basilico"
   ],
-  "basilica": [
-    "basilica"
-  ],
   "basin": [
-    "bacile",
     "bacino",
     "conca"
   ],
@@ -985,7 +691,8 @@
   ],
   "bear": [
     "orso",
-    "partorire"
+    "partorire",
+    "sopportare"
   ],
   "beard": [
     "barba"
@@ -1349,11 +1056,13 @@
     "impulso"
   ],
   "booty": [
-    "bottino"
+    "bottino",
+    "culo"
   ],
   "border": [
     "frontiera",
-    "marginare"
+    "confinare",
+    "confine"
   ],
   "boredom": [
     "noia"
@@ -1901,20 +1610,8 @@
   "bronchiole": [
     "bronchiolo"
   ],
-  "butadiene": [
-    "butadiene"
-  ],
-  "buna": [
-    "buna"
-  ],
-  "bouillabaisse": [
-    "bouillabaisse"
-  ],
   "briefcase": [
     "borsa"
-  ],
-  "bryophyte": [
-    "briofita"
   ],
   "butyl": [
     "butile"
@@ -2110,14 +1807,8 @@
   "bathe": [
     "bagnare"
   ],
-  "beborn": [
+  "be born": [
     "nascere"
-  ],
-  "be distant": [
-    "distare"
-  ],
-  "be equivalent": [
-    "equivalere"
   ],
   "be hungry": [
     "avere fame"
@@ -2259,7 +1950,7 @@
     "berillio"
   ],
   "beef": [
-    "carne"
+    "manzo"
   ],
   "biofuel": [
     "biocarburante"

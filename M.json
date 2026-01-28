@@ -490,7 +490,7 @@
   "metonymic": [
     "metonimico"
   ],
-  "mexican": [
+  "Mexican": [
     "messicano"
   ],
   "microbiological": [
@@ -1823,14 +1823,8 @@
   "medication": [
     "farmaco"
   ],
-  "melamine": [
-    "melammina"
-  ],
   "melanin": [
     "melanina"
-  ],
-  "meristem": [
-    "meristema"
   ],
   "mesenchyme": [
     "mesenchima"
@@ -2247,21 +2241,14 @@
     "mucillagine"
   ],
   "merry": [
-    "allegro"
+    "allegro",
+    "buon"
   ],
   "muddy": [
-    "torbido"
+    "torbido",
+    "fangoso"
   ],
-  "merrychristmas": [
-    "buonnatale"
-  ],
-  "mindyourownbusiness": [
-    "impicciatidegliaffarituoi"
-  ],
-  "manyhandsmakelightwork": [
-    "l'unionefalaforza"
-  ],
-  "mygod": [
-    "diomio"
+  "merry Christmas": [
+    "buon Natale"
   ]
 }

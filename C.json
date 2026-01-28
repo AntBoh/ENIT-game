@@ -526,13 +526,14 @@
     "conseguente"
   ],
   "conservative": [
-    "conservatore"
+    "conservatore",
+    "conservativo"
   ],
   "considerable": [
     "considerabile"
   ],
   "consistent": [
-    "compatibile"
+    "consistente"
   ],
   "consonantal": [
     "consonantico"
@@ -945,7 +946,7 @@
   "cent": [
     "centesimo"
   ],
-  "chestnuttree": [
+  "chestnut tree": [
     "castagno"
   ],
   "civilian": [
@@ -1500,7 +1501,9 @@
   ],
   "certificate": [
     "attestato",
-    "certificato"
+    "certificato",
+    "attestare",
+    "certificare"
   ],
   "certification": [
     "certificazione"
@@ -1877,9 +1880,6 @@
   ],
   "claustrophobia": [
     "claustrofobia"
-  ],
-  "clave": [
-    "bastone"
   ],
   "clay": [
     "argilla"
@@ -3646,7 +3646,8 @@
     "capitolare"
   ],
   "capsize": [
-    "cambiare"
+    "capovolgersi",
+    "ribaltare"
   ],
   "captivate": [
     "affascinare"
@@ -3701,7 +3702,8 @@
     "scegliere"
   ],
   "chuck": [
-    "chiocciare"
+    "scaraventare",
+    "lanciare"
   ],
   "circulate": [
     "circolare"
@@ -3746,7 +3748,8 @@
     "collazionare"
   ],
   "collect": [
-    "raccogliere"
+    "raccogliere",
+    "collezionare"
   ],
   "colonise": [
     "colonizzare"
@@ -4015,8 +4018,12 @@
   "compel": [
     "costringere"
   ],
+  "compelling":[
+    "avvincente"
+  ],
   "compress": [
-    "comprimere"
+    "comprimere",
+    "compressa"
   ],
   "conceive": [
     "concepire"

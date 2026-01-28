@@ -66,7 +66,8 @@
   ],
   "fair": [
     "fiera",
-    "giusto"
+    "giusto",
+    "chiaro"
   ],
   "faithful": [
     "fedele"
@@ -122,7 +123,12 @@
     "insondabile"
   ],
   "favourite": [
-    "favorito"
+    "favorito",
+    "preferito"
+  ],
+    "favorite": [
+    "favorito",
+    "preferito"
   ],
   "fearless": [
     "osato"
@@ -248,11 +254,14 @@
   "focal": [
     "focale"
   ],
+  "foil":[
+    "lamina"
+  ],
   "foggy": [
     "nebbioso"
   ],
   "folding": [
-    "piegabile"
+    "piegatura"
   ],
   "follicular": [
     "follicolare"
@@ -584,11 +593,16 @@
     "favorire",
     "privilegiare"
   ],
+    "favor": [
+    "favore",
+    "favorire",
+    "privilegiare"
+  ],
   "favouritism": [
     "favoritismo"
   ],
-  "fax": [
-    "fax"
+    "favoritism": [
+    "favoritismo"
   ],
   "fear": [
     "paura",
@@ -805,7 +819,8 @@
     "flagioletto"
   ],
   "flake": [
-    "squama"
+    "squama",
+    "fiocco"
   ],
   "flame": [
     "fiamma"
@@ -1221,15 +1236,6 @@
   "feeder": [
     "alimentatore"
   ],
-  "fiatcurrency": [
-    "valutaacorsoforzoso"
-  ],
-  "financialrescueplan": [
-    "pianodisalvataggiofinanziario"
-  ],
-  "facsimile": [
-    "facsimile"
-  ],
   "fibrin": [
     "fibrina"
   ],
@@ -1333,6 +1339,9 @@
   "favourably": [
     "favorevolmente"
   ],
+    "favorably": [
+    "favorevolmente"
+  ],
   "feverishly": [
     "febbrilmente"
   ],
@@ -1360,7 +1369,7 @@
     "completamente"
   ],
   "flawlessly": [
-    "perfettamente"
+    "impeccabilmente"
   ],
   "fluently": [
     "fluentemente"
@@ -1701,49 +1710,49 @@
   "forty": [
     "quaranta"
   ],
-  "forty-eight": [
+  "fortyeight": [
     "quarantotto"
   ],
-  "forty-eightthousand": [
+  "fortyeightthousand": [
     "quarantottomila"
   ],
-  "forty-five": [
+  "fortyfive": [
     "quarantacinque"
   ],
-  "forty-fivethousand": [
+  "fortyfivethousand": [
     "quarantacinquemila"
   ],
-  "forty-four": [
+  "fortyfour": [
     "quarantaquattro"
   ],
-  "forty-fourthousand": [
+  "fortyfourthousand": [
     "quarantaquattromila"
   ],
-  "forty-nine": [
+  "fortynine": [
     "quarantanove"
   ],
-  "forty-ninethousand": [
+  "fortyninethousand": [
     "quarantanovemila"
   ],
-  "forty-seven": [
+  "fortyseven": [
     "quarantasette"
   ],
-  "forty-seventhousand": [
+  "fortyseventhousand": [
     "quarantasettemila"
   ],
-  "forty-six": [
+  "fortysix": [
     "quarantasei"
   ],
-  "forty-sixthousand": [
+  "fortysixthousand": [
     "quarantaseimila"
   ],
-  "forty-threethousand": [
+  "fortythreethousand": [
     "quarantatremila"
   ],
-  "forty-two": [
+  "fortytwo": [
     "quarantadue"
   ],
-  "forty-twothousand": [
+  "fortytwothousand": [
     "quarantaduemila"
   ],
   "fortyonethousand": [

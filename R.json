@@ -678,11 +678,8 @@
   "rainbow": [
     "iride"
   ],
-  "runningwater": [
-    "acquacorrente"
-  ],
-  "rescueplan": [
-    "pianodisalvataggio"
+  "running water": [
+    "acqua corrente"
   ],
   "reunion": [
     "ricongiungimento"
@@ -1874,7 +1871,8 @@
     "rovinare"
   ],
   "rot": [
-    "marcire"
+    "marcire",
+    "marcescenza"
   ],
   "rebound": [
     "rimbalzare"

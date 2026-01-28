@@ -323,107 +323,29 @@
   "hypsographic": [
     "ipsografico"
   ],
-  "haiti": [
-    "haiti"
+  "Hamburg": [
+    "Amburgo"
   ],
-  "halder": [
-    "halder"
+  "Hannibal": [
+    "Annibale"
   ],
-  "hallyday": [
-    "hallyday"
+  "Hercules": [
+    "Ercole"
   ],
-  "halsdorf": [
-    "halsdorf"
+  "Hitler": [
+    "Hitler"
   ],
-  "hamburg": [
-    "amburgo"
+  "Holland": [
+    "Olanda"
   ],
-  "hamilton": [
-    "hamilton"
-  ],
-  "hannibal": [
-    "annibale"
-  ],
-  "haro": [
-    "haro"
-  ],
-  "harper": [
-    "harper"
-  ],
-  "hatembenarfa": [
-    "hatembenarfa"
-  ],
-  "haupert": [
-    "haupert"
-  ],
-  "hawaii": [
-    "hawaii"
-  ],
-  "hawking": [
-    "hawking"
-  ],
-  "hayes": [
-    "hayes"
-  ],
-  "healy": [
-    "healy"
-  ],
-  "hebron": [
-    "hebron"
-  ],
-  "heidi": [
-    "heidi"
-  ],
-  "heisenberg": [
-    "heisenberg"
-  ],
-  "helsinki": [
-    "helsinki"
-  ],
-  "heraclitus": [
-    "eraclito"
-  ],
-  "heras": [
-    "heras"
-  ],
-  "hercules": [
-    "ercole"
-  ],
-  "hermes": [
-    "ermes"
-  ],
-  "hernandez": [
-    "hernandez"
-  ],
-  "herrera": [
-    "herrera"
-  ],
-  "hidalgo": [
-    "hidalgo"
-  ],
-  "higgins": [
-    "higgins"
-  ],
-  "hilbert": [
-    "hilbert"
-  ],
-  "hiroshima": [
-    "hiroshima"
-  ],
-  "hitler": [
-    "hitler"
-  ],
-  "holland": [
-    "olanda"
-  ],
-  "holy ghost": [
-    "spirito santo"
+  "Holy Ghost": [
+    "Spirito Santo"
   ],
   "holy grail": [
     "sacro graal"
   ],
-  "holy spirit": [
-    "spirito santo"
+  "Holy Spirit": [
+    "Spirito Santo"
   ],
   "Homer": [
     "Omero"
@@ -460,48 +382,11 @@
   "hobby": [
     "hobby"
   ],
-  "http": [
-    "http"
+  "human being": [
+    "essere umano"
   ],
-  "https": [
-    "https"
-  ],
-  "herhighness": [
-    "suaaltezza"
-  ],
-  "herimperialhighness": [
-    "suaaltezzaimperiale"
-  ],
-  "herroyalhighness": [
-    "suaaltezzareale"
-  ],
-  "herserenehighness": [
-    "suaaltezzaserenissima"
-  ],
-  "hishighness": [
-    "suaaltezza"
-  ],
-  "hisimperialhighness": [
-    "suaaltezzaimperiale"
-  ],
-  "hisroyalhighness": [
-    "suaaltezzareale"
-  ],
-  "hisserenehighness": [
-    "suaaltezzaserenissima"
-  ],
-  "highcontractingparty": [
-    "altapartecontraente"
-  ],
-  "humanbeing": [
-    "essereumano"
-  ],
-  "humanrace": [
-    "razzaumana"
-  ],
-  "highcourt": [
-    "supremotribunale",
-    "tribunalesupremo"
+  "human race": [
+    "razza umana"
   ],
   "hedge": [
     "siepe"
@@ -628,9 +513,12 @@
     "hangar"
   ],
   "hangover": [
-    "postumidellasbornia"
+    "postumi"
   ],
   "harbour": [
+    "porto"
+  ],
+    "harbor": [
     "porto"
   ],
   "hardness": [
@@ -1079,13 +967,6 @@
   "housing": [
     "alloggio"
   ],
-  "hovercraft": [
-    "aeroscivolante",
-    "hovercraft"
-  ],
-  "howitzer": [
-    "obice"
-  ],
   "humanism": [
     "umanismo"
   ],
@@ -1319,7 +1200,8 @@
     "cavezza"
   ],
   "hangman": [
-    "boia"
+    "boia",
+    "impiccato"
   ],
   "haste": [
     "fretta"
@@ -1335,9 +1217,6 @@
   ],
   "hemoglobin": [
     "emoglobina"
-  ],
-  "histamine": [
-    "istamina"
   ],
   "hologram": [
     "ologramma"

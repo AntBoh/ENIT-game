@@ -51,7 +51,7 @@
     "genetico"
   ],
   "genial": [
-    "affabile"
+    "geniale"
   ],
   "genic": [
     "genico"
@@ -704,20 +704,23 @@
     "mulinello"
   ],
   "groom": [
-    "fidanzato"
+    "fidanzato",
+    "spazzolare"
   ],
   "grotto": [
     "grotta"
   ],
   "ground": [
-    "terra"
+    "terra",
+    "punire"
   ],
   "groundhog": [
-    "marmottaamericana"
+    "marmotta"
   ],
   "group": [
     "gruppo",
-    "insieme"
+    "insieme",
+    "raggruppare"
   ],
   "grouping": [
     "raggruppazione"
@@ -1005,37 +1008,16 @@
     "avidamente"
   ],
   "gropingly": [
-    "atentoni"
+    "a tentoni"
   ],
   "globally": [
-    "complessivamente"
+    "globalmente"
   ],
-  "getdark": [
-    "oscurare"
-  ],
-  "giveupsmoking": [
-    "smetteredifumare"
-  ],
-  "getdressed": [
+  "get dressed": [
     "vestirsi"
   ],
-  "getalong": [
-    "andared'accordo"
-  ],
-  "getalongwith": [
-    "andared'accordocon"
-  ],
-  "godutch": [
-    "fareallaromana"
-  ],
-  "getintrouble": [
-    "essereneiguai"
-  ],
-  "getoff": [
+  "get off": [
     "scendere"
-  ],
-  "getdirty": [
-    "sporcarsi"
   ],
   "grind": [
     "macinare"
@@ -1100,10 +1082,14 @@
     "allietare"
   ],
   "glance": [
-    "guardare"
+    "guardare",
+    "sguardo",
+    "occhiata"
   ],
   "glide": [
-    "scivolare"
+    "scivolare",
+    "planare",
+    "planata"
   ],
   "glimpse": [
     "intravedere"
@@ -1116,25 +1102,6 @@
   ],
   "go": [
     "andare"
-  ],
-  "goback": [
-    "tornare"
-  ],
-  "godown": [
-    "abbassare",
-    "scendere"
-  ],
-  "goin": [
-    "entrare"
-  ],
-  "go on": [
-    "continuare"
-  ],
-  "goout": [
-    "uscire"
-  ],
-  "gothrough": [
-    "passareper"
   ],
   "govern": [
     "governare"

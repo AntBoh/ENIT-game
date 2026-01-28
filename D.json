@@ -564,7 +564,8 @@
   "date": [
     "data",
     "datare",
-    "dattero"
+    "dattero",
+    "appuntamento"
   ],
   "dating": [
     "datazione"
@@ -1629,15 +1630,6 @@
     "droga",
     "drogare"
   ],
-  "drugaddiction": [
-    "tossicodipendenza"
-  ],
-  "drugtrafficking": [
-    "narcotraffico",
-    "trafficodelladroga",
-    "trafficodidroga",
-    "trafficodistupefacent"
-  ],
   "drugstore": [
     "farmacia"
   ],
@@ -1908,9 +1900,6 @@
   "decoding": [
     "decifrazione"
   ],
-  "drugaddict": [
-    "tossicomane"
-  ],
   "decree": [
     "decretare",
     "decreto"
@@ -2024,31 +2013,13 @@
     "doppiamente"
   ],
   "down": [
-    "abbasso"
+    "giù"
   ],
   "dramatically": [
     "drammaticamente"
   ],
   "drastically": [
     "drasticamente"
-  ],
-  "duringtheautumn": [
-    "durantel'autunno"
-  ],
-  "duringthenight": [
-    "dinotte"
-  ],
-  "duringthespring": [
-    "durantelaprimavera"
-  ],
-  "duringthesummer": [
-    "durantel'estate"
-  ],
-  "duringthewinter": [
-    "durantel'inverno"
-  ],
-  "dynamically": [
-    "dinamicamente"
   ],
   "distally": [
     "distalmente"
@@ -2057,7 +2028,8 @@
     "indubbiamente"
   ],
   "dent": [
-    "ammaccare"
+    "ammaccare",
+    "ammaccatura"
   ],
   "dampen": [
     "inumidire"
@@ -2462,7 +2434,8 @@
     "doppiare"
   ],
   "dull": [
-    "attenuare",
+    "noioso",
+    "opaco",
     "ottundere"
   ],
   "dump": [

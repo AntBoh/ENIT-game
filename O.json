@@ -130,14 +130,8 @@
   "omnivorous": [
     "onnivoro"
   ],
-  "on-line": [
-    "on-line"
-  ],
   "one-dimensional": [
     "unidimensionale"
-  ],
-  "one-family": [
-    "unifamiliare"
   ],
   "oneiric": [
     "onirico"
@@ -331,149 +325,17 @@
   "optoelectronical": [
     "optoelettronico"
   ],
-  "orderly": [
-    "ordinado"
-  ],
   "osseous": [
     "osseo"
   ],
   "ovoviviparous": [
     "ovoviviparo"
   ],
-  "oxytonic": [
-    "ossitono"
+  "Old Testament": [
+    "Antico Testamento"
   ],
-  "o'brien": [
-    "o'brien"
-  ],
-  "o'callaghan": [
-    "o'callaghan"
-  ],
-  "o'carroll": [
-    "o'carroll"
-  ],
-  "o'connell": [
-    "o'connell"
-  ],
-  "o'connor": [
-    "o'connor"
-  ],
-  "o'doherty": [
-    "o'doherty"
-  ],
-  "o'donnell": [
-    "o'donnell"
-  ],
-  "o'dwyer": [
-    "o'dwyer"
-  ],
-  "o'farrell": [
-    "o'farrell"
-  ],
-  "o'grady": [
-    "o'grady"
-  ],
-  "o'keeffe": [
-    "o'keeffe"
-  ],
-  "o'leary": [
-    "o'leary"
-  ],
-  "o'mahony": [
-    "o'mahony"
-  ],
-  "o'neill": [
-    "o'neill"
-  ],
-  "o'regan": [
-    "o'regan"
-  ],
-  "o'reilly": [
-    "o'reilly"
-  ],
-  "o'rourke": [
-    "o'rourke"
-  ],
-  "o'shea": [
-    "o'shea"
-  ],
-  "o'sullivan": [
-    "o'sullivan"
-  ],
-  "obama": [
-    "obama"
-  ],
-  "oceania": [
-    "oceania"
-  ],
-  "ohio": [
-    "ohio"
-  ],
-  "oklahoma": [
-    "oklahoma"
-  ],
-  "olano": [
-    "olano"
-  ],
-  "oldtestament": [
-    "anticotestamento"
-  ],
-  "oliva": [
-    "oliva"
-  ],
-  "olivares": [
-    "olivares"
-  ],
-  "olivier": [
-    "olivier"
-  ],
-  "oman": [
-    "oman"
-  ],
-  "oppenheimer": [
-    "oppenheimer"
-  ],
-  "oregon": [
-    "oregon"
-  ],
-  "orihuela": [
-    "orihuela"
-  ],
-  "orozco": [
-    "orozco"
-  ],
-  "orpheus": [
-    "orfeo"
-  ],
-  "ortiz": [
-    "ortiz"
-  ],
-  "osamabinladen": [
-    "osamabinladen"
-  ],
-  "oslo": [
-    "oslo"
-  ],
-  "osuna": [
-    "osuna"
-  ],
-  "osvald": [
-    "osvald"
-  ],
-  "otegi": [
-    "otegi"
-  ],
-  "otero": [
-    "otero"
-  ],
-  "ourense": [
-    "ourense"
-  ],
-  "oviedo": [
-    "oviedo"
-  ],
-  "oesophagus": [
-    "esofago"
+  "Orpheus": [
+    "Orfeo"
   ],
   "ogre": [
     "orco"
@@ -691,9 +553,6 @@
     "oliva",
     "ulivo"
   ],
-  "olivetree": [
-    "olivo"
-  ],
   "omnivore": [
     "onnivoro"
   ],
@@ -903,7 +762,8 @@
   ],
   "outline": [
     "abbozzo",
-    "delineare"
+    "delineare",
+    "contorno"
   ],
   "output": [
     "produzione"
@@ -1016,11 +876,9 @@
   "oyster": [
     "ostrica"
   ],
-  "onthebrink": [
-    "sull'orlodelprecipizio"
-  ],
   "objectively": [
-    "obiettivamente"
+    "obiettivamente",
+    "oggettivamente"
   ],
   "obviously": [
     "ovviamente",
@@ -1047,100 +905,9 @@
     "spesso"
   ],
   "on": [
-    "addirittura",
     "sopra",
-    "su"
-  ],
-  "onaday-to-daybasis": [
-    "quotidianamente"
-  ],
-  "onalarge-scale": [
-    "sugrandescala"
-  ],
-  "onalargescale": [
-    "agrandescala",
-    "sugrandescala"
-  ],
-  "onalong-termbasis": [
-    "alungotermine"
-  ],
-  "onamassscale": [
-    "sugrandescala"
-  ],
-  "onashort-termbasis": [
-    "abrevetermine"
-  ],
-  "onasmallscale": [
-    "abrevetermine"
-  ],
-  "onanindividualbasis": [
-    "individualmente"
-  ],
-  "onaverage": [
-    "mediamente"
-  ],
-  "onboard": [
-    "abordo"
-  ],
-  "onhand": [
-    "amano"
-  ],
-  "onholiday": [
-    "invacanza"
-  ],
-  "onimpulse": [
-    "all'improvviso"
-  ],
-  "online": [
-    "online"
-  ],
-  "onrecord": [
-    "ufficialmente"
-  ],
-  "onthecontrary": [
-    "alcontrario"
-  ],
-  "onthedefensive": [
-    "alladifensiva"
-  ],
-  "onthedoble": [
-    "rapidamente"
-  ],
-  "onthedouble": [
-    "rapidamente"
-  ],
-  "ontheonehand": [
-    "daunlato"
-  ],
-  "ontheotherhand": [
-    "d'altraparte",
-    "d'altrolato",
-    "dall'altrolato"
-  ],
-  "ontheotherside": [
-    "d'altrocanto"
-  ],
-  "onthequiet": [
-    "insilenzio"
-  ],
-  "onthewhole": [
-    "complessivamente",
-    "ingenerale"
-  ],
-  "ontime": [
-    "puntualmente"
-  ],
-  "ontiptoe": [
-    "inpuntadipiedi"
-  ],
-  "ontop": [
-    "sopra"
-  ],
-  "onceagain": [
-    "ancoraunavolta"
-  ],
-  "onceinawhile": [
-    "ognitanto"
+    "su",
+    "di"
   ],
   "openly": [
     "apertamente"

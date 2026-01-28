@@ -512,54 +512,26 @@
   "Ethiopia": [
     "Etiopia"
   ],
-  "ettore": [
-    "ettore"
+  "Euclid": [
+    "Euclide"
   ],
-  "etxeberria": [
-    "etxeberria"
+  "Euler": [
+    "Eulerp"
   ],
-  "euclid": [
-    "euclide"
-  ],
-  "euler": [
-    "euler"
-  ],
-  "europe": [
-    "europa"
-  ],
-  "europeancourtofauditors": [
-    "cortedeicontieuropea"
-  ],
-  "eusebio": [
-    "eusebio"
-  ],
-  "eva": [
-    "eva"
-  ],
-  "evans": [
-    "evans"
-  ],
-  "extremadura": [
-    "estremadura"
-  ],
-  "espanyol": [
-    "espanyol"
-  ],
-  "expo": [
-    "expo"
-  ],
-  "elcorreo": [
-    "elcorreo"
+  "Europe": [
+    "Europa"
   ],
   "encounter": [
     "incontro",
-    "trovare"
+    "incontrare"
   ],
   "enthusiasm": [
     "entusiasmo"
   ],
   "epic": [
-    "epica"
+    "epica",
+    "epico",
+    "epopea"
   ],
   "epilogue": [
     "epilogo"
@@ -580,20 +552,8 @@
     "uscita",
     "uscire"
   ],
-  "eta": [
-    "eta"
-  ],
-  "ecb": [
-    "ecb"
-  ],
-  "erc": [
-    "erc"
-  ],
-  "eu": [
-    "ue"
-  ],
-  "easter": [
-    "pasqua"
+  "Easter": [
+    "Pasqua"
   ],
   "egyptologist": [
     "egittologo"
@@ -936,9 +896,6 @@
   "ending": [
     "desinenza",
     "finale"
-  ],
-  "endive": [
-    "indivia"
   ],
   "endocrinology": [
     "endocrinologia"
@@ -2008,7 +1965,8 @@
   ],
   "erect": [
     "alzare",
-    "erigere"
+    "erigere",
+    "eretto"
   ],
   "erode": [
     "erodere"

@@ -1035,7 +1035,8 @@
     "sermone"
   ],
   "sting": [
-    "pungiglione"
+    "pungiglione",
+    "pungere"
   ],
   "subdivision": [
     "suddivisione"
@@ -1062,19 +1063,13 @@
     "garadisci"
   ],
   "successful": [
-    "disuccesso"
+    "di successo"
   ],
   "successfully": [
-    "consuccesso"
-  ],
-  "syntacticerror": [
-    "erroresintattico"
-  ],
-  "skijumper": [
-    "saltatoreconglisci"
+    "con successo"
   ],
   "shutter": [
-    "battente"
+    "otturatore"
   ],
   "spillage": [
     "spargimento"
@@ -1380,7 +1375,8 @@
     "salina"
   ],
   "salvation": [
-    "redenzione"
+    "redenzione",
+    "salvezza"
   ],
   "sample": [
     "dimostrazione"
@@ -1470,7 +1466,8 @@
   "scale": [
     "bilancia",
     "scala",
-    "squama"
+    "squama",
+    "scaglia"
   ],
   "scalp": [
     "cuoio"
@@ -1543,7 +1540,10 @@
     "marcatore"
   ],
   "scrap": [
-    "spazzatura"
+    "rottame",
+    "rottamare",
+    "scarto",
+    "scartare"
   ],
   "scream": [
     "gridare",
@@ -1812,7 +1812,8 @@
   ],
   "set": [
     "insieme",
-    "mettere"
+    "mettere",
+    "impostare"
   ],
   "setscrew": [
     "prigioniero"
@@ -1905,7 +1906,8 @@
     "brillare",
     "brillio",
     "luccichio",
-    "lucentezza"
+    "lucentezza",
+    "splendere"
   ],
   "shipment": [
     "spedizione"
@@ -1930,7 +1932,7 @@
     "scioccare",
     "scossa"
   ],
-  "shockabsorber": [
+  "shock absorber": [
     "ammortizzatore"
   ],
   "shooting": [
@@ -2109,9 +2111,6 @@
   ],
   "skyscraper": [
     "grattacielo"
-  ],
-  "slang": [
-    "argot"
   ],
   "slaughter": [
     "macello"
@@ -2651,19 +2650,15 @@
     "avvio",
     "iniziare"
   ],
-  "spanishstate": [
-    "statospagnolo"
-  ],
-  "summercamp": [
-    "campoestivo",
-    "coloniaestiva"
+  "summer camp": [
+    "campo estivo"
   ],
   "statement": [
     "dichiarazione",
-    "enunciazione"
+    "enunciazione",
+    "affermazione"
   ],
   "station": [
-    "stagione",
     "stazione"
   ],
   "statism": [
@@ -2713,7 +2708,7 @@
     "sorellastra"
   ],
   "stereo": [
-    "stereofonia"
+    "stereo"
   ],
   "stereoscopy": [
     "stereoscopia"
@@ -3409,6 +3404,11 @@
   "socially": [
     "socialmente"
   ],
+  "sloth":[
+    "bradipo",
+    "accidia",
+    "pigrizia"
+  ],
   "solely": [
     "soltanto"
   ],
@@ -3416,14 +3416,13 @@
     "solennemente"
   ],
   "somehow": [
-    "inqualchemodo"
+    "in qualche modo"
   ],
   "sometimes": [
-    "avolte",
-    "qualchevolta"
+    "a volte"
   ],
   "somewhere": [
-    "inqualcheluogo"
+    "da qualche parte"
   ],
   "soon": [
     "presto"
@@ -3665,13 +3664,12 @@
     "scandalizzare"
   ],
   "scour": [
-    "registrare"
-  ],
-  "searchfor": [
-    "cercare"
+    "setacciare",
+    "perlustrare"
   ],
   "seat": [
-    "sedere"
+    "sedere",
+    "sedile"
   ],
   "see": [
     "vedere"
@@ -3903,7 +3901,8 @@
     "sistematizzare"
   ],
   "so": [
-    "talmente"
+    "talmente",
+    "così"
   ],
   "somebody": [
     "qualcuno"
@@ -4055,17 +4054,8 @@
   "subset": [
     "sottoinsieme"
   ],
-  "salmonella": [
-    "salmonella"
-  ],
-  "samara": [
-    "samara"
-  ],
   "scissors": [
-    "forbice"
-  ],
-  "seguidilla": [
-    "seguidilla"
+    "forbici"
   ],
   "silica": [
     "silice"
@@ -4073,11 +4063,8 @@
   "sonata": [
     "sonata"
   ],
-  "sulfanilamide": [
-    "sulfanilamide"
-  ],
   "sandy": [
-    "arenoso"
+    "sabbioso"
   ],
   "smooth": [
     "liscio"

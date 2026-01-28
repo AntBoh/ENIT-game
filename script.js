@@ -18,6 +18,7 @@ let showFoundTimer = null;
 
 
 
+
   let seenWords = JSON.parse(localStorage.getItem("seenWords")) || {
     en_it: [],
     it_en: []
@@ -264,6 +265,15 @@ const loadedLetters = { en_it: new Set(), it_en: new Set() };
   // --- DOM ELEMENTS ---
 
   const input = document.getElementById("answer");
+
+input.addEventListener("focus", () => {
+  input.removeAttribute("readonly");
+});
+
+input.addEventListener("blur", () => {
+  input.setAttribute("readonly", true);
+});
+
   const button = document.getElementById("check");
   const feedback = document.getElementById("feedback");
   feedback.style.visibility = "hidden";

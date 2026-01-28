@@ -54,7 +54,10 @@
   "pale": [
     "pallido"
   ],
-  "palestinian": [
+  "Palestinian": [
+    "palestinese"
+  ],
+  "Palestine":[
     "palestinese"
   ],
   "palliative": [
@@ -622,7 +625,8 @@
   ],
   "pirate": [
     "pirata",
-    "predare"
+    "predare",
+    "piratare"
   ],
   "pacifist": [
     "pacifista"
@@ -961,38 +965,8 @@
   "prominence": [
     "preminenza"
   ],
-  "pp": [
-    "pp"
-  ],
-  "psc": [
-    "psc"
-  ],
-  "psoe": [
-    "psoe"
-  ],
-  "pdf": [
-    "pdf"
-  ],
-  "pnv": [
-    "pnv"
-  ],
-  "pc": [
-    "pc"
-  ],
-  "pnb": [
-    "pnb"
-  ],
-  "pan-germanism": [
+  "pangermanism": [
     "pangermanismo"
-  ],
-  "planck'sconstant": [
-    "costantediplanck"
-  ],
-  "planckconstant": [
-    "costantediplanck"
-  ],
-  "punicwar": [
-    "guerrapunica"
   ],
   "propulsion": [
     "autotrazione",
@@ -1154,7 +1128,7 @@
     "pagoda"
   ],
   "pail": [
-    "cubo"
+    "secchio"
   ],
   "pain": [
     "dolore"
@@ -2501,7 +2475,8 @@
     "prezzo"
   ],
   "pride": [
-    "orgoglio"
+    "orgoglio",
+    "superbia"
   ],
   "priest": [
     "cura",
@@ -3588,26 +3563,11 @@
   ],
   "put": [
     "mettere",
-    "porre"
-  ],
-  "pullout": [
-    "togliere"
-  ],
-  "prpers": [
-    "lo",
-    "me",
-    "prpers",
-    "te",
-    "ti"
-  ],
-  "presidentofthebasquecountry": [
-    "lehendakari"
+    "porre",
+    "fermo"
   ],
   "peritoneum": [
     "peritoneo"
-  ],
-  "plasmodium": [
-    "plasmodium"
   ],
   "plutonium": [
     "plutonio"

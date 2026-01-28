@@ -778,9 +778,6 @@
     "svegliare",
     "sveglio"
   ],
-  "awarding": [
-    "attribuente"
-  ],
   "aware": [
     "consapevole"
   ],
@@ -885,9 +882,6 @@
   ],
   "accomplice": [
     "complice"
-  ],
-  "apriority": [
-    "apriorismo"
   ],
   "artifact": [
     "artefatto"
@@ -2799,7 +2793,7 @@
     "revisoredeiconti"
   ],
   "ashtray": [
-    "portacenere"
+    "posacenere"
   ],
   "audiphone": [
     "audiphone"
@@ -2912,26 +2906,8 @@
   "arrogantly": [
     "arrogantemente"
   ],
-  "atall": [
-    "perniente"
-  ],
-  "atanend": [
-    "allafine"
-  ],
-  "atanyonetime": [
-    "inqualsiasimomento"
-  ],
-  "atonestroke": [
-    "inunsolcolpo"
-  ],
   "awkwardly": [
     "goffamente"
-  ],
-  "alot": [
-    "molto"
-  ],
-  "apriori": [
-    "apriori"
   ],
   "ably": [
     "abilmente"
@@ -3030,9 +3006,6 @@
   ],
   "against": [
     "contro"
-  ],
-  "againstalllogic": [
-    "controognilogica"
   ],
   "ago": [
     "fa"
@@ -3317,7 +3290,7 @@
     "adulterare"
   ],
   "advertise": [
-    "annunciare"
+    "pubblicizzare"
   ],
   "advise": [
     "consigliare"
@@ -3354,8 +3327,7 @@
   ],
   "agree": [
     "accordare",
-    "concordare",
-    "ricordare"
+    "concordare"
   ],
   "alienate": [
     "alienare"
@@ -3548,18 +3520,18 @@
     "secondo",
     "tanto"
   ],
-  "anotherone": [
-    "altro"
+  "another one": [
+    "un altro"
   ],
   "anyone": [
     "qualunque"
   ],
   "anybody": [
     "nessuno",
-    "qualunque"
+    "chiunque"
   ],
   "anything": [
-    "qualsiasicosa"
+    "qualsiasi cosa"
   ],
   "adapter": [
     "adattore"
