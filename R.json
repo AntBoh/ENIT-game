@@ -113,7 +113,8 @@
     "rimborsabile"
   ],
   "regal": [
-    "regio"
+    "regio",
+    "regale"
   ],
   "regional": [
     "regionale"
@@ -1110,7 +1111,7 @@
     "riabilitazione"
   ],
   "rehearsal": [
-    "saggio"
+    "prova"
   ],
   "reification": [
     "reificazione"
@@ -1283,7 +1284,7 @@
     "reputazione"
   ],
   "request": [
-    "chiedere",
+    "richiedere",
     "petizione",
     "richiesta"
   ],
@@ -1577,27 +1578,19 @@
   "rouble": [
     "rublo"
   ],
-  "roulette": [
-    "roulette"
-  ],
   "roundabout": [
     "rotonda"
   ],
-  "roundingoff": [
+  "rounding off": [
     "arrotondamento"
   ],
   "route": [
-    "rotta"
-  ],
-  "rpm": [
-    "rpm"
+    "rotta",
+    "percorso"
   ],
   "rubber": [
     "gomma",
     "pneumatico"
-  ],
-  "rubbishbag": [
-    "bustadell'immondizia"
   ],
   "rubella": [
     "rosolia"
@@ -1610,18 +1603,18 @@
   ],
   "rule": [
     "imperare",
+    "comandare",
     "principio",
     "regola"
   ],
-  "rule-basedmachinetranslation": [
-    "traduzioneautomaticabasatasuregole"
-  ],
   "rumour": [
-    "rumor"
+    "diceria"
   ],
   "run": [
     "carriera",
-    "correre"
+    "correre",
+    "gestire",
+    "funzionare"
   ],
   "runner": [
     "corridore"
@@ -2041,7 +2034,8 @@
     "riconoscere"
   ],
   "recommend": [
-    "raccomandare"
+    "raccomandare",
+    "consigliare"
   ],
   "recompensate": [
     "ricompensare"
@@ -2083,7 +2077,8 @@
     "ridimensionare"
   ],
   "redistribute": [
-    "redistribuire"
+    "redistribuire",
+    "ridistribuire"
   ],
   "reduce": [
     "ridurre"

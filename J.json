@@ -66,9 +66,6 @@
   "Jordan": [
     "Giordania"
   ],
-  "jordana": [
-    "jordana"
-  ],
   "Jupiter": [
     "Giove"
   ],
@@ -91,7 +88,8 @@
     "sciacallo"
   ],
   "jar": [
-    "vaso"
+    "vaso",
+    "giara"
   ],
   "jasper": [
     "diaspro"

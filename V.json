@@ -2,10 +2,10 @@
   "various": [
     "vario"
   ],
-  "venetian": [
+  "Venetian": [
     "veneziano"
   ],
-  "vietnamese": [
+  "Vietnamese": [
     "vietnamita"
   ],
   "vertiginous": [
@@ -132,117 +132,17 @@
   "vulnerable": [
     "vulnerabile"
   ],
-  "verisign": [
-    "verisign"
+  "Vatican": [
+    "Vaticano"
   ],
-  "valencia": [
-    "valencia",
-    "valenzia"
-  ],
-  "valero": [
-    "valero"
-  ],
-  "valladolid": [
-    "valladolid"
-  ],
-  "valls": [
-    "valls"
-  ],
-  "vangogh": [
-    "vangogh"
-  ],
-  "vandeputte": [
-    "vandeputte"
-  ],
-  "vargas": [
-    "vargas"
-  ],
-  "vasallo": [
-    "vasallo"
-  ],
-  "vatican": [
-    "vaticano"
-  ],
-  "venecia": [
-    "venecia"
-  ],
-  "venezuela": [
-    "venezuela"
-  ],
-  "venice": [
-    "venezia"
-  ],
-  "ventre": [
-    "ventre"
+  "Venice": [
+    "Venezia"
   ],
   "Venus": [
     "Venere"
   ],
-  "villar": [
-    "villar"
-  ],
-  "villarreal": [
-    "villarreal"
-  ],
-  "villena": [
-    "villena"
-  ],
-  "vincenzo": [
-    "vincenzo"
-  ],
-  "virgil": [
-    "virgilio"
-  ],
-  "virginislands": [
-    "isolevergini"
-  ],
-  "virginia": [
-    "virginia"
-  ],
-  "vitoria": [
-    "vitoria"
-  ],
-  "vitoria-gasteiz": [
-    "vitoria"
-  ],
-  "vladdracula": [
-    "vladdracul"
-  ],
-  "vladdraculatepes": [
-    "vladdracultepes"
-  ],
-  "vladiiidracula": [
-    "vladiiidracul"
-  ],
-  "vladiiitheimpaler": [
-    "vladiiil'impalatore"
-  ],
-  "vladtheimpaler": [
-    "vladl'impalatore"
-  ],
-  "vladimir": [
-    "vladimir"
-  ],
-  "vogels": [
-    "vogels"
-  ],
-  "voltaire": [
-    "voltaire"
-  ],
-  "vonbeust": [
-    "vonbeust"
-  ],
-  "vuitton": [
-    "vuitton"
-  ],
-  "vonneumann": [
-    "vonneumann"
-  ],
-  "veil": [
-    "velo"
-  ],
-  "vat": [
-    "iva"
+  "Virgil": [
+    "Virgilio"
   ],
   "voltage": [
     "tensione"
@@ -252,7 +152,8 @@
     "violetto"
   ],
   "vent": [
-    "sfogo"
+    "sfogo",
+    "condotto"
   ],
   "vandal": [
     "vandalo"

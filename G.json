@@ -229,9 +229,6 @@
   "Greenland": [
     "Groenlandia"
   ],
-  "guadeloupe": [
-    "guadalupa"
-  ],
   "gallium": [
     "gallio"
   ],
@@ -239,10 +236,8 @@
     "gong"
   ],
   "gang": [
-    "banda"
-  ],
-  "gdp": [
-    "pil"
+    "banda",
+    "gang"
   ],
   "greenfinch": [
     "verdone"
@@ -251,14 +246,8 @@
     "burrone"
   ],
   "golden": [
-    "aureo"
-  ],
-  "goldstandard": [
-    "goldstandard",
-    "sistemaaureo"
-  ],
-  "goldexchangestandard": [
-    "sistemaacambioaureo"
+    "aureo",
+    "dorato"
   ],
   "gadolinium": [
     "gadolinio"
@@ -274,7 +263,8 @@
     "gerundio"
   ],
   "ginger": [
-    "zenzero"
+    "zenzero",
+    "rosso"
   ],
   "glossary": [
     "glossario"
@@ -898,7 +888,7 @@
     "figlioccio"
   ],
   "goddaughter": [
-    "figlioccio"
+    "figlioccia"
   ],
   "gammagraphy": [
     "gammagrafia"
@@ -994,9 +984,6 @@
   ],
   "gloriously": [
     "gloriosamente"
-  ],
-  "good-naturedly": [
-    "bonariamente"
   ],
   "gradually": [
     "gradualmente"

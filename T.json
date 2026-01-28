@@ -1713,89 +1713,26 @@
   "the day before yesterday": [
     "l'altroieri"
   ],
-  "the first time": [
-    "laprimavolta"
-  ],
-  "thelasttime": [
-    "l'ultimavolta"
-  ],
-  "thenexteaster": [
-    "laprossimapasqua"
-  ],
-  "thenextmay": [
-    "ilprossimomaggio"
-  ],
-  "thenextnovember": [
-    "ilprossimonovembre"
-  ],
-  "thenextautumn": [
-    "ilprossimoautunno"
-  ],
-  "thenextday": [
-    "ilgiornodopo",
-    "ilgiornoseguente",
-    "ilgiornosuccessivo"
-  ],
-  "thenextfall": [
-    "ilprossimoautunno"
-  ],
-  "thenextspring": [
-    "laprossimaprimavera"
-  ],
-  "thenextsummer": [
-    "laprossimaestate"
-  ],
-  "thenextweek": [
-    "lasettimanaprossima"
-  ],
-  "thenextwinter": [
-    "ilprossimoinverno"
-  ],
-  "thenextyear": [
-    "l'annoprossimo"
-  ],
-  "theotherday": [
-    "l'altrogiorno"
-  ],
-  "theothernight": [
-    "l'altranotte"
-  ],
-  "theworldover": [
-    "intuttoilmondo"
-  ],
   "then": [
     "allora",
-    "aqueitempi",
-    "aqueltempo"
-  ],
-  "thenandthere": [
-    "immediatamente"
+    "poi"
   ],
   "theoretically": [
     "teoricamente"
   ],
   "there": [
-    "ci"
+    "ci",
+    "lì",
+    "là"
   ],
-  "thereagain": [
-    "oltretutto"
-  ],
-  "thereandthen": [
-    "immediatamente"
-  ],
-  "thereafter": [
-    "dopo"
-  ],
-  "thismorning": [
-    "questamattina",
-    "stamane",
+  "this morning": [
     "stamattina"
   ],
-  "thistime": [
-    "questavolta"
+  "this time": [
+    "stavolta"
   ],
   "thoroughly": [
-    "pianamente"
+    "completamente"
   ],
   "throughout": [
     "datutteleparti",
@@ -1888,70 +1825,40 @@
     "inutilmente"
   ],
   "tackle": [
-    "affrontare"
+    "affrontare",
+    "carica"
   ],
   "tighten": [
     "stringere"
   ],
-  "turnoff": [
+  "turn off": [
     "spegnere"
   ],
-  "takeintoaccount": [
-    "mettereinconto"
+  "take for granted": [
+    "dare per scontato"
   ],
-  "takeadvantageof": [
-    "usufruiredi"
-  ],
-  "takeaway": [
-    "distogliere"
-  ],
-  "takeforgranted": [
-    "dareperscontato"
-  ],
-  "takeout": [
-    "cavare"
-  ],
-  "takecare": [
+  "take care": [
     "badare"
   ],
-  "takeresponsibility": [
-    "responsabilizzarsi"
-  ],
-  "takerefuge": [
+  "take refuge": [
     "rifugiarsi"
   ],
-  "takeplace": [
-    "avvenire"
-  ],
-  "traceback": [
+  "trace back": [
     "risalire"
-  ],
-  "tableamotion": [
-    "presentareunamozione"
-  ],
-  "tablethemotion": [
-    "presentarelamozione"
   ],
   "take": [
     "portare",
-    "prendere",
-    "tardare"
-  ],
-  "takepart": [
-    "mediare",
-    "partecipare"
+    "prendere"
   ],
   "teach": [
     "insegnare"
-  ],
-  "televise": [
-    "teletrasmettere"
   ],
   "tell": [
     "dire"
   ],
   "temper": [
-    "temperare"
+    "temperare",
+    "tempera"
   ],
   "tempt": [
     "tentare"

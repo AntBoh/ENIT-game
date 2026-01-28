@@ -834,17 +834,8 @@
     "pubblicazione",
     "problema"
   ],
-  "incometax": [
-    "impostasulreddito"
-  ],
-  "imf": [
-    "fmi"
-  ],
-  "ibm": [
-    "ibm"
-  ],
-  "ip": [
-    "ip"
+  "I": [
+    "io"
   ],
   "indoctrination": [
     "indottrinazione"
@@ -2358,51 +2349,5 @@
   ],
   "if": [
     "se"
-  ],
-  "inorderthat": [
-    "inmodoche"
-  ],
-  "ii": [
-    "ii"
-  ],
-  "iii": [
-    "iii"
-  ],
-  "iv": [
-    "iv"
-  ],
-  "ix": [
-    "ix"
-  ],
-  "inaccordancewith": [
-    "inaccordocon"
-  ],
-  "inadditionto": [
-    "oltre"
-  ],
-  "inagreementwith": [
-    "consonoa"
-  ],
-  "infrontof": [
-    "davanti",
-    "davantia",
-    "dinanzia",
-    "innanzia"
-  ],
-  "inhopeof": [
-    "inattesadi"
-  ],
-  "inorderto": [
-    "per"
-  ],
-  "inspiteof": [
-    "nonostante",
-    "peraltri"
-  ],
-  "inthebeginningof": [
-    "agliinizidi"
-  ],
-  "intheeyesof": [
-    "agliocchidi"
   ]
 }

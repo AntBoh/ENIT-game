@@ -878,7 +878,7 @@
     "imperatore"
   ],
   "emphasis": [
-    "enfatizzazione"
+    "enfasi"
   ],
   "empire": [
     "impero"
@@ -1576,9 +1576,6 @@
   "epicycloid": [
     "epicicloide"
   ],
-  "endorser": [
-    "girante"
-  ],
   "entrapment": [
     "intrappolare"
   ],
@@ -2204,9 +2201,6 @@
   "earthy": [
     "grossolano"
   ],
-  "everycloudhasasilverlining": [
-    "nontuttoilmalevienpernuocere"
-  ],
   "eight": [
     "otto"
   ],
@@ -2222,49 +2216,49 @@
   "eighty": [
     "ottanta"
   ],
-  "eighty-eight": [
+  "eightyeight": [
     "ottantotto"
   ],
-  "eighty-eightthousand": [
+  "eightyeightthousand": [
     "ottantottomila"
   ],
-  "eighty-five": [
+  "eightyfive": [
     "ottantacinque"
   ],
-  "eighty-fivethousand": [
+  "eightyfivethousand": [
     "ottantacinquemila"
   ],
-  "eighty-four": [
+  "eightyfour": [
     "ottantaquattro"
   ],
-  "eighty-fourthousand": [
+  "eightyfourthousand": [
     "ottantaquattromila"
   ],
-  "eighty-nine": [
+  "eightynine": [
     "ottantanove"
   ],
-  "eighty-ninethousand": [
+  "eightyninethousand": [
     "ottantanovemila"
   ],
-  "eighty-seven": [
+  "eightyseven": [
     "ottantasette"
   ],
-  "eighty-seventhousand": [
+  "eightyseventhousand": [
     "ottantasettemila"
   ],
-  "eighty-six": [
+  "eightysix": [
     "ottantasei"
   ],
-  "eighty-sixthousand": [
+  "eightysixthousand": [
     "ottantaseimila"
   ],
-  "eighty-threethousand": [
+  "eightythreethousand": [
     "ottantatremila"
   ],
-  "eighty-two": [
+  "eightytwo": [
     "ottantadue"
   ],
-  "eighty-twothousand": [
+  "eightytwothousand": [
     "ottantaduemila"
   ],
   "eightyonethousand": [
@@ -2279,13 +2273,10 @@
   "eleventhousand": [
     "undicimila"
   ],
-  "exceptfor": [
+  "except for": [
     "tranne"
   ],
-  "eighty-one": [
+  "eightyone": [
     "ottantuno"
-  ],
-  "eighty-onethousand": [
-    "ottantunomila"
   ]
 }

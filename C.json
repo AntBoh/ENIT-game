@@ -8,10 +8,6 @@
   "constructivist": [
     "construttivista"
   ],
-  "castilian": [
-    "castigliano",
-    "castiglionese"
-  ],
   "containment": [
     "contenimento"
   ],
@@ -636,7 +632,8 @@
   ],
   "cool": [
     "fresco",
-    "rinfrescare"
+    "rinfrescare",
+    "figo"
   ],
   "cordial": [
     "cordiale"
@@ -860,172 +857,42 @@
   "Central America": [
     "America Centrale"
   ],
-  "chad": [
-    "ciad"
+  "Chad": [
+    "Ciad"
   ],
-  "chamorro": [
-    "chamorro"
-  ],
-  "channelislands": [
-    "isoledelcanale"
-  ],
-  "charlemagne": [
-    "carlomagno"
-  ],
-  "charles": [
-    "charles"
-  ],
-  "chatterley": [
-    "chatterley"
-  ],
-  "chavez": [
-    "chavez"
-  ],
-  "checa": [
-    "checa"
-  ],
-  "chechnya": [
-    "cecenia"
-  ],
-  "cheney": [
-    "cheney"
-  ],
-  "cheste": [
-    "cheste"
-  ],
-  "chiangkai-shek": [
-    "chiangkai-shek"
-  ],
-  "chicago": [
-    "chicago"
-  ],
-  "chile": [
-    "cile"
+  "Chile": [
+    "Cile"
   ],
   "china": [
-    "cina",
     "porcellana"
   ],
-  "chirac": [
-    "chirac"
+  "China": [
+    "Cina"
   ],
-  "christensen": [
-    "christensen"
-  ],
-  "christophercolumbus": [
-    "cristoforocolombo"
-  ],
-  "chueca": [
-    "chueca"
-  ],
-  "churchill": [
-    "churchill"
-  ],
-  "cicero": [
-    "cicerone"
-  ],
-  "cid": [
-    "cid"
+  "Cicero": [
+    "Cicerone"
   ],
   "Cold War": [
     "Guerra Fredda"
   ],
-  "collantes": [
-    "collantes"
+  "Count Dracula": [
+    "Conte Dracula"
   ],
-  "collina": [
-    "collina"
-  ],
-  "collins": [
-    "collins"
-  ],
-  "colmenar": [
-    "colmenar"
-  ],
-  "colom": [
-    "colom"
-  ],
-  "coloma": [
-    "coloma"
-  ],
-  "colombia": [
-    "colombia"
-  ],
-  "colorado": [
-    "colorado"
-  ],
-  "conde": [
-    "conde"
-  ],
-  "congo": [
-    "congo"
-  ],
-  "connolly": [
-    "connolly"
-  ],
-  "consell": [
-    "consell"
-  ],
-  "contreras": [
-    "contreras"
-  ],
-  "cookislands": [
-    "isolecook"
-  ],
-  "coria": [
-    "coria"
-  ],
-  "corsica": [
-    "corsica"
-  ],
-  "cortedeiconti": [
-    "cortedeiconti"
-  ],
-  "cosby": [
-    "cosby"
-  ],
-  "costarica": [
-    "costarica"
-  ],
-  "countdracula": [
-    "contedracula"
-  ],
-  "courtofauditors": [
-    "cortedeiconti"
-  ],
-  "cowen": [
-    "cowen"
-  ],
-  "cristo": [
-    "cristo"
-  ],
-  "croatia": [
-    "croazia"
-  ],
-  "crowe": [
-    "crowe"
+  "Croatia": [
+    "Croazia"
   ],
   "cruise": [
     "crociera",
-    "cruise"
+    "solcare"
   ],
-  "cuba": [
-    "cuba"
+  "Cyprus": [
+    "Cipro"
   ],
-  "cunningham": [
-    "cunningham"
+  "Czech Republic": [
+    "Repubblica Ceca"
   ],
-  "curie": [
-    "curie"
-  ],
-  "cyprus": [
-    "cipro"
-  ],
-  "czechrepublic": [
-    "repubblicaceca"
-  ],
-  "czechoslovakia": [
-    "cecoslovacchia"
+  "Czechoslovakia": [
+    "Cecoslovacchia"
   ],
   "composition": [
     "composizione"
@@ -1728,7 +1595,8 @@
     "carisma"
   ],
   "chart": [
-    "grafico"
+    "grafico",
+    "cartina"
   ],
   "chase": [
     "persecuzione",
@@ -1942,7 +1810,9 @@
     "cannella"
   ],
   "circle": [
-    "circolo"
+    "circolo",
+    "cerchio",
+    "accerchiare"
   ],
   "circuit": [
     "circuito"
@@ -2016,9 +1886,6 @@
   ],
   "cleaning": [
     "pulizia"
-  ],
-  "cleanup": [
-    "epurazione"
   ],
   "clergy": [
     "clero"
@@ -2250,7 +2117,14 @@
     "colorare",
     "colore"
   ],
+    "color": [
+    "colorare",
+    "colore"
+  ],
   "colourisation": [
+    "colorazione"
+  ],
+    "colorisation": [
     "colorazione"
   ],
   "column": [
@@ -2467,7 +2341,7 @@
     "concrezione"
   ],
   "concussion": [
-    "contusione"
+    "commozione celebrale"
   ],
   "condensation": [
     "condensazione"
@@ -3886,20 +3760,11 @@
   "come": [
     "venire"
   ],
-  "comeacross": [
-    "trovare"
-  ],
-  "comeback": [
+  "come back": [
     "tornare"
   ],
-  "comeclose": [
+  "come close": [
     "avvicinarsi"
-  ],
-  "comein": [
-    "entrare"
-  ],
-  "comeout": [
-    "uscire"
   ],
   "comfort": [
     "consolare"
@@ -3963,7 +3828,7 @@
     "concludere"
   ],
   "concretise": [
-    "concretare"
+    "concretizzare"
   ],
   "condemn": [
     "condannare"
@@ -4213,30 +4078,6 @@
   ],
   "cypriot": [
     "cipriota"
-  ],
-  "cabriolet": [
-    "cabriolet"
-  ],
-  "calcite": [
-    "calcite"
-  ],
-  "carnallite": [
-    "carnallite"
-  ],
-  "cassiterite": [
-    "cassiterite"
-  ],
-  "cementite": [
-    "cementite"
-  ],
-  "chromite": [
-    "cromite"
-  ],
-  "colemanite": [
-    "colemanite"
-  ],
-  "cuprite": [
-    "cuprite"
   ],
   "complainant": [
     "querelante"

@@ -94,10 +94,10 @@
   "heavy": [
     "pesante"
   ],
-  "hebraic": [
+  "Hebraic": [
     "ebraico"
   ],
-  "hebrew": [
+  "Hebrew": [
     "ebreo"
   ],
   "hegemonic": [
@@ -249,7 +249,7 @@
     "umico"
   ],
   "humid": [
-    "umetto"
+    "umido"
   ],
   "humiliating": [
     "umiliante"
@@ -260,14 +260,11 @@
   "humorous": [
     "umoristico"
   ],
-  "hungarian": [
+  "Hungarian": [
     "ungherese"
   ],
   "hungry": [
     "affamato"
-  ],
-  "hurtful": [
-    "pregiudizievole"
   ],
   "hybrid": [
     "ibrido"
@@ -1275,9 +1272,6 @@
   ],
   "heptagon": [
     "ettagono"
-  ],
-  "histone": [
-    "istone"
   ],
   "hole": [
     "buco"

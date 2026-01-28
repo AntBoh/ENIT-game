@@ -286,40 +286,18 @@
     "vicinato"
   ],
   "northwest": [
-    "nord-ovest"
-  ],
-  "nbc": [
-    "nbc"
-  ],
-  "nasdaq": [
-    "nasdaq"
-  ],
-  "nyse": [
-    "nyse"
-  ],
-  "nasa": [
-    "nasa"
-  ],
-  "nato": [
-    "nato",
-    "otan"
-  ],
-  "nazism": [
-    "nazionalsocialismo"
+    "nordovest"
   ],
   "neolithic": [
     "neolitico"
   ],
-  "nobelpeaceprize": [
-    "premionobelperlapace"
-  ],
-  "nobelprize": [
-    "premionobel"
+  "Nobel Prize": [
+    "Premio Nobel"
   ],
   "northeast": [
-    "nord-est"
+    "nordest"
   ],
-  "november": [
+  "November": [
     "novembre"
   ],
   "neutron": [
@@ -700,59 +678,8 @@
   "nitroglycerine": [
     "nitroglicerina"
   ],
-  "noman'sland": [
-    "terradinessuno"
-  ],
-  "nextapril": [
-    "ilprossimoaprile"
-  ],
-  "nextaugust": [
-    "ilprossimoagosto"
-  ],
-  "nextchristmas": [
-    "ilprossimonatale"
-  ],
-  "nextdecember": [
-    "ilprossimodicembre"
-  ],
-  "nexteaster": [
-    "laprossimapasqua"
-  ],
-  "nextfebruary": [
-    "ilprossimofebbraio"
-  ],
-  "nextjuly": [
-    "ilprossimoluglio"
-  ],
-  "nextnovember": [
-    "ilprossimonovembre"
-  ],
-  "nextoctober": [
-    "ilprossimoottobre"
-  ],
-  "nextsaturday": [
-    "ilprossimosabato"
-  ],
-  "nextseptember": [
-    "ilprossimosettembre"
-  ],
-  "nextsunday": [
-    "laprossimadomenica"
-  ],
-  "nextautumn": [
-    "ilprossimoautunno"
-  ],
-  "nextfall": [
-    "ilprossimoautunno"
-  ],
-  "nextspring": [
-    "laprossimaprimavera"
-  ],
-  "nextsummer": [
-    "laprossimaestate"
-  ],
-  "nextwinter": [
-    "ilprossimoinverno"
+  "No man's land": [
+    "Terra nullius"
   ],
   "naturally": [
     "naturalmente"

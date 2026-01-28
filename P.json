@@ -133,7 +133,8 @@
   ],
   "patron": [
     "patronale",
-    "patrono"
+    "patrono",
+    "mecenate"
   ],
   "peaceful": [
     "pacifico"
@@ -619,9 +620,6 @@
   "planimetric": [
     "planimetrico"
   ],
-  "podzolic": [
-    "podsolico"
-  ],
   "pirate": [
     "pirata",
     "predare"
@@ -907,128 +905,40 @@
   "Paris": [
     "Parigi"
   ],
-  "peking": [
-    "pechino"
-  ],
-  "pella": [
-    "pella"
-  ],
-  "pelosi": [
-    "pelosi"
-  ],
-  "penn": [
-    "penn"
-  ],
-  "pennsylvania": [
-    "pennsylvania"
-  ],
-  "peralta": [
-    "peralta"
-  ],
-  "perez": [
-    "perez"
-  ],
-  "persia": [
-    "iran"
-  ],
-  "peter": [
-    "peter"
-  ],
-  "petra": [
-    "petra"
-  ],
-  "phaedra": [
-    "phaedra"
-  ],
-  "phelps": [
-    "phelps"
-  ],
-  "philadelphia": [
-    "filadelfia"
-  ],
   "Philippines": [
     "Filippine"
   ],
   "Plato": [
     "Platone"
   ],
-  "pliny": [
-    "plinio"
+  "Pliny": [
+    "Plinio"
   ],
-  "plutarch": [
-    "plutarco"
+  "Poland": [
+    "Polonia"
   ],
-  "poland": [
-    "polonia"
-  ],
-  "polycarp": [
-    "policarpo"
-  ],
-  "polydorus": [
-    "polidoro"
-  ],
-  "pontevedra": [
-    "pontevedra"
-  ],
-  "porto": [
-    "oporto"
-  ],
-  "portugal": [
-    "portogallo"
-  ],
-  "potonik": [
-    "potonik"
-  ],
-  "potter": [
-    "potter"
-  ],
-  "poveda": [
-    "poveda"
+  "Portugal": [
+    "Portogallo"
   ],
   "power": [
     "energia",
     "potenza",
-    "potere",
-    "power"
+    "potere"
   ],
-  "pozuelo": [
-    "pozuelo"
+  "Prague": [
+    "Praga"
   ],
-  "prague": [
-    "praga"
+  "Prometheus": [
+    "Prometeo"
   ],
-  "pretoria": [
-    "pretoria"
+  "Ptolemy": [
+    "Tolomeo"
   ],
-  "procter": [
-    "procter"
+  "Pyrenees": [
+    "Pirenei"
   ],
-  "prometheus": [
-    "prometeo"
-  ],
-  "proust": [
-    "proust"
-  ],
-  "ptolemy": [
-    "tolomeo"
-  ],
-  "puertorico": [
-    "portorico"
-  ],
-  "pujol": [
-    "pujol"
-  ],
-  "putin": [
-    "putin"
-  ],
-  "pyrenees": [
-    "pirenei"
-  ],
-  "pythagoras": [
-    "pitagora"
-  ],
-  "prandelli": [
-    "prandelli"
+  "Pythagoras": [
+    "Pitagora"
   ],
   "provider": [
     "fornitore"
@@ -1218,11 +1128,12 @@
   ],
   "pack": [
     "impaccare",
-    "pacchetto"
+    "pacco",
+    "branco"
   ],
   "package": [
     "confezione",
-    "pacchetto"
+    "pacco"
   ],
   "packaging": [
     "imballaggio"
@@ -2384,10 +2295,7 @@
     "spesedispedizione"
   ],
   "postcard": [
-    "cartolinapostale"
-  ],
-  "poster": [
-    "poster"
+    "cartolina"
   ],
   "postman": [
     "postino"
@@ -3054,38 +2962,21 @@
   "parathyroid": [
     "paratiroide"
   ],
-  "parenchyma": [
-    "parenchima"
-  ],
-  "paronychia": [
-    "paronichia"
-  ],
   "parricide": [
     "parricidio"
   ],
-  "pediculosis": [
-    "pediculosi"
-  ],
-  "pedigree": [
-    "pedigree"
-  ],
   "penny": [
-    "soldo"
+    "soldo",
+    "centesimo"
   ],
   "pepsin": [
     "pepsina"
-  ],
-  "petanque": [
-    "petanque"
   ],
   "phagocyte": [
     "fagocita"
   ],
   "phasor": [
     "fasore"
-  ],
-  "phenylbutazone": [
-    "fenilbutazone"
   ],
   "pheromone": [
     "feromone"

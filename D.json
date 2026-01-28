@@ -514,36 +514,17 @@
   "distribution": [
     "distribuzione"
   ],
-  "dutchman": [
-    "olandese"
-  ],
-  "dutchwoman": [
-    "olandese"
-  ],
-  "dna": [
-    "adn",
-    "dna"
-  ],
-  "dvd": [
-    "dvd"
-  ],
-  "december": [
-    "dicembre"
+  "December": [
+    "Dicembre"
   ],
   "diracconstant": [
     "costantedidirac"
-  ],
-  "dga": [
-    "dga"
   ],
   "denominator": [
     "denominatore"
   ],
   "diver": [
     "tuffatore"
-  ],
-  "dailynewspaper": [
-    "giornale"
   ],
   "daltonism": [
     "daltonismo"
@@ -558,6 +539,7 @@
   "dance": [
     "ballare",
     "ballo",
+    "danzare",
     "danza"
   ],
   "dancer": [
@@ -1545,9 +1527,6 @@
   "dosimetry": [
     "dosimetria"
   ],
-  "dossier": [
-    "dossier"
-  ],
   "dot": [
     "punto"
   ],
@@ -1919,9 +1898,6 @@
   ],
   "dromedary": [
     "dromedario"
-  ],
-  "deaththreat": [
-    "minacciadimorte"
   ],
   "destitute": [
     "indigente"
@@ -2518,12 +2494,6 @@
   ],
   "dean": [
     "decano"
-  ],
-  "dacite": [
-    "dacite"
-  ],
-  "diorite": [
-    "diorite"
   ],
   "droplet": [
     "gocciolina"

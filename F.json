@@ -964,15 +964,6 @@
     "forza",
     "forzare"
   ],
-  "forcemajeure": [
-    "forzamaggiore"
-  ],
-  "foreigncurrency": [
-    "valutaestera"
-  ],
-  "foreignexchange": [
-    "cambio"
-  ],
   "foreigner": [
     "straniero"
   ],
@@ -980,7 +971,8 @@
     "foresta"
   ],
   "forge": [
-    "fucina"
+    "fucina",
+    "forgia"
   ],
   "fork": [
     "biforcarsi",
@@ -1090,7 +1082,8 @@
   "freeze": [
     "congelamento",
     "congelare",
-    "gelare"
+    "gelare",
+    "gelo"
   ],
   "freezing": [
     "congelamento"
@@ -1252,9 +1245,6 @@
   "formwork": [
     "cassaforma"
   ],
-  "franklin": [
-    "franklin"
-  ],
   "funnel": [
     "imbuto"
   ],
@@ -1277,6 +1267,9 @@
     "statofrancese"
   ],
   "flavour": [
+    "gusto"
+  ],
+    "flavor": [
     "gusto"
   ],
   "flocculus": [
@@ -1370,41 +1363,16 @@
     "perfettamente"
   ],
   "fluently": [
-    "correntemente"
-  ],
-  "foralongtime": [
-    "damoltotempo"
+    "fluentemente"
   ],
   "forever": [
-    "persempre"
+    "per sempre"
   ],
-  "foreverandever": [
-    "persempre"
-  ],
-  "forexample": [
-    "peresempio"
-  ],
-  "fornow": [
-    "peradesso",
-    "perora"
-  ],
-  "forsure": [
-    "sicuro"
-  ],
-  "forthefirsttime": [
-    "perlaprimavolta"
-  ],
-  "forthemeantime": [
-    "almomento"
-  ],
-  "forthemoment": [
-    "almomento"
-  ],
-  "forthemostpart": [
-    "maggioritariamente"
+  "for example": [
+    "per esempio"
   ],
   "forcedly": [
-    "forzosamente"
+    "forzatamente"
   ],
   "formally": [
     "formalmente"

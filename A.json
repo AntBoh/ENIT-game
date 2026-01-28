@@ -12,7 +12,8 @@
     "poco"
   ],
   "a lot of": [
-    "molto"
+    "molto",
+    "tanto"
   ],
   "all": [
     "tutto"
@@ -440,13 +441,10 @@
   "ancillary": [
     "sussidiario"
   ],
-  "andalusian": [
-    "andaluso"
-  ],
-  "andorran": [
+  "Andorran": [
     "andorrano"
   ],
-  "anglo-saxon": [
+  "saxon": [
     "anglosassone"
   ],
   "angular": [
@@ -461,7 +459,7 @@
     "annettere"
   ],
   "annoying": [
-    "molesto"
+    "fastidioso"
   ],
   "annual": [
     "annuale"
@@ -1770,14 +1768,9 @@
   "amnesty": [
     "amnistia"
   ],
-  "amoeba": [
-    "amoeba"
-  ],
-  "amortisation": [
-    "ammortamento"
-  ],
   "amount": [
-    "quantitativo"
+    "quantitativo",
+    "quantità"
   ],
   "ampelography": [
     "ampelografia"
@@ -2246,9 +2239,6 @@
   ],
   "armistice": [
     "armistizio"
-  ],
-  "armouredcar": [
-    "carroarmato"
   ],
   "armpit": [
     "ascella"
@@ -2783,6 +2773,10 @@
     "armatura",
     "blindare"
   ],
+    "armor": [
+    "armatura",
+    "blindare"
+  ],
   "aureole": [
     "aureola"
   ],
@@ -3105,11 +3099,8 @@
   ],
   "around": [
     "attorno",
-    "attornoa",
     "circa",
-    "intorno",
-    "intornoa",
-    "nonostante"
+    "intorno"
   ],
   "artificially": [
     "artificialmente"
@@ -3117,119 +3108,49 @@
   "artistically": [
     "artisticamente"
   ],
-  "asamatteroffact": [
-    "difatto"
+  "as if": [
+    "come se"
   ],
-  "asif": [
-    "comese"
-  ],
-  "asinanyplaceintheworld": [
-    "comeinqualsiasipostodelmondo"
-  ],
-  "assoonas": [
+  "as soon as": [
     "appena"
   ],
-  "aswell": [
+  "as well": [
     "anche"
   ],
-  "asyet": [
-    "finora"
-  ],
   "aside": [
-    "aparte",
-    "daparte"
-  ],
-  "askance": [
-    "disfuggita"
+    "a parte",
+    "da parte"
   ],
   "assiduously": [
     "assiduamente"
   ],
-  "atagallop": [
-    "algaloppo"
-  ],
-  "atamoment'snotice": [
-    "immediatamente"
-  ],
-  "atatime": [
-    "contemporaneamente"
-  ],
-  "atarm'slength": [
-    "adistanza"
-  ],
-  "ateveryturn": [
-    "ognivolta"
-  ],
-  "atfirst": [
+  "at first": [
     "all'inizio",
     "dapprima"
   ],
-  "athand": [
-    "amano"
-  ],
-  "athome": [
-    "incasa"
-  ],
-  "atlast": [
+  "at last": [
     "infine"
   ],
-  "atleast": [
+  "at least": [
     "almeno",
-    "neppure",
     "perlomeno",
-    "quandomeno"
+    "quantomeno"
   ],
-  "atlength": [
-    "largamente"
+  "at most": [
+    "al massimo"
   ],
-  "atlonglast": [
-    "infine"
+  "at night": [
+    "di notte"
   ],
-  "atmost": [
-    "almassimo"
+  "at random": [
+    "a caso"
   ],
-  "atnight": [
-    "dinotte"
+  "at the end": [
+    "alla fine"
   ],
-  "atonce": [
-    "immediatamente"
-  ],
-  "atpresent": [
-    "attualmente"
-  ],
-  "atrandom": [
-    "acaso"
-  ],
-  "atthebeginning": [
-    "inizialmente"
-  ],
-  "atthedouble": [
-    "rapidamente"
-  ],
-  "atthedropofahat": [
-    "traunminuto"
-  ],
-  "attheend": [
-    "allafine"
-  ],
-  "atthefront": [
-    "davanti"
-  ],
-  "atthemaximum": [
-    "almassimo"
-  ],
-  "atthemost": [
-    "almassimo"
-  ],
-  "atthesametime": [
-    "allostessotempo",
+  "at the same time": [
+    "allo stesso tempo",
     "contemporaneamente"
-  ],
-  "attheverymost": [
-    "almassimo"
-  ],
-  "atwar": [
-    "inguerra"
   ],
   "attentively": [
     "attentamente"
@@ -3244,7 +3165,7 @@
     "autonomamente"
   ],
   "away": [
-    "fuori"
+    "via"
   ],
   "awfully": [
     "molto"
@@ -3482,7 +3403,7 @@
     "analizzare"
   ],
   "annihilate": [
-    "annientare"
+    "annichilire"
   ],
   "announce": [
     "annunciare"

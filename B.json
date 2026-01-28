@@ -238,7 +238,8 @@
     "inferiore"
   ],
   "boundless": [
-    "illimitato"
+    "illimitato",
+    "sconfinato"
   ],
   "bourgeois": [
     "borghese"
@@ -819,7 +820,8 @@
     "braccialetto"
   ],
   "banishment": [
-    "esilio"
+    "esilio",
+    "bando"
   ],
   "bank": [
     "accatastare",
@@ -1043,7 +1045,7 @@
   "belief": [
     "credenza"
   ],
-  "belltower": [
+  "bell tower": [
     "campanile"
   ],
   "belly": [
@@ -1385,8 +1387,7 @@
     "arco",
     "fiocco",
     "inchinarsi",
-    "inchino",
-    "inclinare"
+    "inchino"
   ],
   "bowel": [
     "sfilata"
@@ -2090,7 +2091,7 @@
   "bitterly": [
     "aspramente"
   ],
-  "beenough": [
+  "be enough": [
     "bastare"
   ],
   "baffle": [
