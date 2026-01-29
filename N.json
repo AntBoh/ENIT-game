@@ -792,10 +792,8 @@
     "autenticare"
   ],
   "notch": [
-    "intaccare"
-  ],
-  "notedown": [
-    "puntare"
+    "intaccare",
+    "tacca"
   ],
   "notify": [
     "notificare"
@@ -885,49 +883,49 @@
   "ninety": [
     "novanta"
   ],
-  "ninety-eight": [
+  "ninetyeight": [
     "novantotto"
   ],
-  "ninety-eightthousand": [
+  "ninetyeightthousand": [
     "novantottomila"
   ],
-  "ninety-five": [
+  "ninetyfive": [
     "novantacinque"
   ],
-  "ninety-fivethousand": [
+  "ninetyfivethousand": [
     "novantacinquemila"
   ],
-  "ninety-four": [
+  "ninetyfour": [
     "novantaquattro"
   ],
-  "ninety-fourthousand": [
+  "ninetyfourthousand": [
     "novantaquattromila"
   ],
-  "ninety-nine": [
+  "ninetynine": [
     "novantanove"
   ],
-  "ninety-ninethousand": [
+  "ninetyninethousand": [
     "novantanovemila"
   ],
-  "ninety-seven": [
+  "ninetyseven": [
     "novantasette"
   ],
-  "ninety-seventhousand": [
+  "ninetyseventhousand": [
     "novantasettemila"
   ],
-  "ninety-six": [
+  "ninetysix": [
     "novantasei"
   ],
-  "ninety-sixthousand": [
+  "ninetysixthousand": [
     "novantaseimila"
   ],
-  "ninety-threethousand": [
+  "ninetythreethousand": [
     "novantatremila"
   ],
-  "ninety-two": [
+  "ninetytwo": [
     "novantadue"
   ],
-  "ninety-twothousand": [
+  "ninetytwothousand": [
     "novantaduemila"
   ],
   "ninetyonethousand": [
@@ -936,7 +934,7 @@
   "ninetythousand": [
     "novantamila"
   ],
-  "ninety-one": [
+  "ninetyone": [
     "novantuno"
   ],
   "ninety-onethousand": [

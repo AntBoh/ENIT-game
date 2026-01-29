@@ -26,7 +26,8 @@
     "planetario"
   ],
   "preferred": [
-    "preposto"
+    "preferito",
+    "prediletto"
   ],
   "prompt": [
     "immediato",
@@ -1256,7 +1257,11 @@
     "paragrafo"
   ],
   "parakeet": [
-    "pappagallino"
+    "parrocchetto"
+  ],
+  "pram":[
+    "carrozzina",
+    "passeggino"
   ],
   "parallelepiped": [
     "parallelepipedo"
@@ -1364,16 +1369,11 @@
   ],
   "party": [
     "festa",
-    "partito"
+    "partito",
+    "festeggiare"
   ],
   "passage": [
     "passaggio"
-  ],
-  "passengercompartment": [
-    "abitacolo"
-  ],
-  "passing": [
-    "morte"
   ],
   "passion": [
     "passione"
@@ -1703,7 +1703,8 @@
     "farmacia"
   ],
   "phase": [
-    "fase"
+    "fase",
+    "attraversare"
   ],
   "pheasant": [
     "fagiano"
@@ -2649,8 +2650,8 @@
   "propagation": [
     "propagazione"
   ],
-  "propernoun": [
-    "nomeproprio"
+  "proper noun": [
+    "nome proprio"
   ],
   "prophet": [
     "profeta"
@@ -3625,21 +3626,6 @@
   "psychrometer": [
     "psicrometro"
   ],
-  "pegmatite": [
-    "pegmatite"
-  ],
-  "peridotite": [
-    "peridotite"
-  ],
-  "petalite": [
-    "petalite"
-  ],
-  "pollucite": [
-    "pollucite"
-  ],
-  "proustite": [
-    "proustite"
-  ],
   "phoneme": [
     "fonema"
   ],
@@ -3667,47 +3653,11 @@
   "programmer": [
     "programmatore"
   ],
-  "parquet": [
-    "parquet"
-  ],
-  "pascal": [
-    "pascal"
-  ],
-  "pathos": [
-    "pathos"
-  ],
-  "permafrost": [
-    "permafrost"
-  ],
-  "picnic": [
-    "picnic"
-  ],
-  "pixel": [
-    "pixel"
-  ],
-  "playboy": [
-    "playboy"
-  ],
-  "pony": [
-    "pony"
-  ],
-  "pub": [
-    "pub"
-  ],
-  "papilloma": [
-    "papilloma"
-  ],
   "pedal": [
     "pedale"
   ],
   "poisoning": [
     "avvelenamento"
-  ],
-  "portico": [
-    "portico"
-  ],
-  "prednisone": [
-    "prednisone"
   ],
   "presentiment": [
     "presentimento"

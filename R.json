@@ -655,7 +655,8 @@
     "reticolo"
   ],
   "rewind": [
-    "riavvolgimento"
+    "riavvolgimento",
+    "riavvolgere"
   ],
   "rhubarb": [
     "rabarbaro"
@@ -700,7 +701,9 @@
     "rabbia"
   ],
   "race": [
-    "carriera",
+    "corsa",
+    "gara",
+    "gareggiare",
     "correre",
     "razza"
   ],
@@ -884,7 +887,8 @@
     "ribellione"
   ],
   "receipt": [
-    "ricezione"
+    "ricvuta",
+    "scontrino"
   ],
   "receptacle": [
     "ricettacolo"
@@ -1475,15 +1479,14 @@
   ],
   "ride": [
     "montare",
-    "passeggio"
-  ],
-  "riding": [
-    "equitazione"
+    "cavalcare",
+    "giostra",
+    "passaggio"
   ],
   "rifle": [
     "fucile"
   ],
-  "right-angled triangle": [
+  "right angled triangle": [
     "triangolo rettangolo"
   ],
   "rigour": [
@@ -2230,6 +2233,7 @@
     "rifiuto"
   ],
   "row": [
+    "riga",
     "fila"
   ],
   "ribosome": [
@@ -2240,12 +2244,6 @@
   ],
   "reagent": [
     "reagente"
-  ],
-  "retinoblastoma": [
-    "retinoblastoma"
-  ],
-  "radula": [
-    "radula"
   ],
   "rocky": [
     "roccioso"

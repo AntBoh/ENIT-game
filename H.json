@@ -54,6 +54,9 @@
   "handsome": [
     "bello"
   ],
+  "halo":[
+    "aureola"
+  ],
   "handwritten": [
     "manoscritto"
   ],
@@ -1135,7 +1138,7 @@
     "portatoredihandicap"
   ],
   "half-wit": [
-    "deficiente"
+    "idiota"
   ],
   "heir": [
     "erede"
@@ -1168,13 +1171,7 @@
     "iperboloide"
   ],
   "handshake": [
-    "strettadimano"
-  ],
-  "hemangioma": [
-    "emangioma"
-  ],
-  "hemolymph": [
-    "emolinfa"
+    "stretta di mano"
   ],
   "heparin": [
     "eparina"
@@ -1189,7 +1186,7 @@
     "emistichio"
   ],
   "hiatus": [
-    "intervallo"
+    "iato"
   ],
   "hailstorm": [
     "grandinata"
@@ -1261,28 +1258,13 @@
     "pesantemente"
   ],
   "henceforth": [
-    "d'orainavanti"
-  ],
-  "henceforward": [
-    "d'orainavanti"
+    "d'ora in avanti"
   ],
   "here": [
     "qui"
   ],
-  "hereafter": [
-    "d'orainavanti"
-  ],
   "hereby": [
-    "d'orainavanti"
-  ],
-  "hereinafter": [
-    "d'orainavanti"
-  ],
-  "heretofore": [
-    "finora"
-  ],
-  "highandlow": [
-    "altiebassi"
+    "d'ora in avanti"
   ],
   "highly": [
     "altamente"
@@ -1293,18 +1275,14 @@
   "honestly": [
     "onestamente"
   ],
-  "hopelessly": [
-    "totalmente"
-  ],
   "horizontally": [
     "orizzontalmente"
   ],
   "how": [
-    "che",
     "come"
   ],
   "hugely": [
-    "molto"
+    "enormemente"
   ],
   "humanly": [
     "umanamente"

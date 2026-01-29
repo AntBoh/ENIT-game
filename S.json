@@ -52,13 +52,12 @@
     "un"
   ],
   "such": [
-    "tale"
-  ],
-  "sucha": [
-    "tale"
+    "tale",
+    "così"
   ],
   "shiny": [
-    "brillante"
+    "brillante",
+    "cromatico"
   ],
   "savage": [
     "selvaggio"
@@ -418,11 +417,8 @@
   ],
   "state": [
     "dichiarare",
-    "statale",
+    "affermare",
     "stato"
-  ],
-  "state-of-the-art": [
-    "moderno"
   ],
   "statistical": [
     "statistico"
@@ -453,7 +449,8 @@
     "stridente"
   ],
   "striped": [
-    "zebrato"
+    "zebrato",
+    "a strisce"
   ],
   "strong": [
     "forte"
@@ -570,7 +567,8 @@
     "superlativo"
   ],
   "supernatural": [
-    "soprannaturale"
+    "soprannaturale",
+    "sovrannaturale"
   ],
   "supplementary": [
     "supplementare"
@@ -816,7 +814,7 @@
   "solvable": [
     "risolvibile"
   ],
-  "somali": [
+  "Somali": [
     "somalo"
   ],
   "sorry": [
@@ -1094,10 +1092,7 @@
     "figliastro"
   ],
   "stepdaughter": [
-    "figliastro"
-  ],
-  "sabbath": [
-    "sabato"
+    "figliastra"
   ],
   "sacrilege": [
     "sacrilegio"
@@ -1556,7 +1551,8 @@
     "cacciavite"
   ],
   "script": [
-    "sceneggiatura"
+    "sceneggiatura",
+    "copione"
   ],
   "scrotum": [
     "scroto"
@@ -1572,9 +1568,6 @@
   ],
   "seaboard": [
     "litorale"
-  ],
-  "seafood": [
-    "fruttodimare"
   ],
   "seagull": [
     "gabbiano"
@@ -2172,9 +2165,6 @@
   "shrewdness": [
     "astuzia"
   ],
-  "smallandmediumenterprise": [
-    "piccolaemediaimpresa"
-  ],
   "smash": [
     "rompere",
     "scontro"
@@ -2420,25 +2410,20 @@
     "fonte"
   ],
   "sow": [
-    "scrofa"
+    "scrofa",
+    "seminare"
   ],
-  "soya": [
+  "soy": [
     "soia"
-  ],
-  "soybean": [
-    "soia"
-  ],
-  "spa": [
-    "terme"
   ],
   "spacecraft": [
-    "velivolo"
+    "astronave"
   ],
   "spacer": [
     "spaziatore"
   ],
   "spaceship": [
-    "velivolo"
+    "astronave"
   ],
   "spaghetti": [
     "spaghetto"
@@ -2737,10 +2722,7 @@
   ],
   "stock": [
     "scorta",
-    "stock"
-  ],
-  "stockexchange": [
-    "borsavalori"
+    "azione"
   ],
   "stockholder": [
     "azionista"
@@ -2755,17 +2737,15 @@
     "stomaco"
   ],
   "stone": [
-    "osso",
     "pietra"
   ],
   "stop": [
-    "detenere",
     "fermata",
-    "stop"
+    "fermarsi"
   ],
   "storage": [
     "archiviazione",
-    "immagazzinamento"
+    "magazzino"
   ],
   "store": [
     "negozio"
@@ -3093,18 +3073,17 @@
   "swindle": [
     "truffa"
   ],
-  "speciesbarrier": [
-    "barrieradellespecie"
-  ],
   "swing": [
     "altalena",
     "cambio",
     "oscillare",
-    "oscillazione"
+    "oscillazione",
+    "dondolare"
   ],
   "switch": [
     "cambiare",
-    "cambio"
+    "cambio",
+    "interruttore"
   ],
   "switching": [
     "commutazione"

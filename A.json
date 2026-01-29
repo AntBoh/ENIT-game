@@ -290,9 +290,6 @@
   "agrarian": [
     "agrario"
   ],
-  "agri-food": [
-    "agroalimentare"
-  ],
   "agricultural": [
     "agricolo"
   ],
@@ -482,9 +479,6 @@
   "aquifer": [
     "acquifera"
   ],
-  "antepenultimate": [
-    "ante-penultimo"
-  ],
   "anthropological": [
     "antropologico"
   ],
@@ -601,10 +595,7 @@
   "arduous": [
     "arduo"
   ],
-  "argentine": [
-    "argentino"
-  ],
-  "argentinian": [
+  "Argentinian": [
     "argentino"
   ],
   "arid": [
@@ -766,6 +757,7 @@
   ],
   "average": [
     "media",
+    "medio",
     "mediocre"
   ],
   "avid": [
@@ -895,24 +887,14 @@
   "augur": [
     "augure"
   ],
-  "atlas": [
-    "atlante"
+  "Atlas": [
+    "Atlante"
   ],
-  "aids": [
-    "aids",
-    "sida"
-  ],
-  "april": [
+  "April": [
     "aprile"
   ],
-  "august": [
+  "August": [
     "agosto"
-  ],
-  "avogadroconstant": [
-    "numerodiavogadro"
-  ],
-  "avogadronumber": [
-    "numerodiavogadro"
   ],
   "abacus": [
     "abaco"
@@ -1638,10 +1620,7 @@
     "alterazione"
   ],
   "altercation": [
-    "conflitto"
-  ],
-  "alternativemedicine": [
-    "medicinaalternativa"
+    "alterco"
   ],
   "altimetry": [
     "altimetria"
@@ -1698,7 +1677,7 @@
     "ambra"
   ],
   "ambiguity": [
-    "equivoco"
+    "amgibuità"
   ],
   "ambition": [
     "ambizione"
@@ -2755,9 +2734,6 @@
   "aureole": [
     "aureola"
   ],
-  "adjudicator": [
-    "arbitro"
-  ],
   "amazon": [
     "amazzone"
   ],
@@ -2968,7 +2944,10 @@
     "affettuosamente"
   ],
   "afloat": [
-    "agalla"
+    "a galla"
+  ],
+  "adrift":[
+    "alla deriva"
   ],
   "after": [
     "dopo"
@@ -2976,14 +2955,12 @@
   "afterall": [
     "dopototto"
   ],
-  "afterthismanner": [
-    "inquestomodo"
-  ],
   "afterwards": [
     "dopo"
   ],
   "again": [
-    "dinuovo"
+    "di nuovo",
+    "ancora"
   ],
   "against": [
     "contro"

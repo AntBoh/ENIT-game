@@ -233,7 +233,7 @@
   "wart": [
     "verruca"
   ],
-  "washingmachine": [
+  "washing machine": [
     "lavatrice"
   ],
   "wasp": [
@@ -288,7 +288,9 @@
   ],
   "way": [
     "cammino",
-    "maniera"
+    "maniera",
+    "via",
+    "precedenza"
   ],
   "wayoflife": [
     "mododivita"
@@ -302,38 +304,30 @@
   "weapon": [
     "arma"
   ],
-  "weaponofmassdestruction": [
-    "armadidistruzionedimassa"
-  ],
   "wear": [
     "portare",
-    "sperpero"
+    "indossare",
+    "consumare"
   ],
   "weather": [
-    "tempo"
+    "tempo",
+    "meteo"
   ],
   "weathercock": [
     "banderuola"
   ],
   "web": [
     "ragnatela",
-    "web"
-  ],
-  "website": [
-    "sitoweb"
+    "tela",
+    "rete"
   ],
   "wedding": [
-    "nozze"
-  ],
-  "weddinganniversary": [
-    "anniversariodimatrimonio",
-    "anniversariodinozze"
-  ],
-  "weddingday": [
-    "giornodinozze"
+    "nozze",
+    "matrimonio"
   ],
   "wedge": [
-    "cuneo"
+    "cuneo",
+    "incastonare"
   ],
   "week": [
     "settimana"
@@ -463,7 +457,8 @@
     "desiderio"
   ],
   "wit": [
-    "ingegno"
+    "ingegno",
+    "arguzia"
   ],
   "witch": [
     "strega"

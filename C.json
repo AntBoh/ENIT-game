@@ -29,21 +29,14 @@
   "calculator": [
     "calcolatore"
   ],
-  "californian": [
+  "Californian": [
     "californiano"
   ],
   "called": [
     "chiamato"
   ],
-  "cameroonian": [
-    "camerunese"
-  ],
-  "canadian": [
+  "Canadian": [
     "canadese"
-  ],
-  "canarian": [
-    "canarino",
-    "canario"
   ],
   "candid": [
     "candido"
@@ -803,24 +796,15 @@
   "clever": [
     "intelligente"
   ],
-  "cool-headed": [
-    "ponderato"
-  ],
   "clergyman": [
-    "ecclesiastico",
-    "reverendo"
-  ],
-  "crudeoil": [
-    "petroliogreggio"
+    "reverendo",
+    "chierico"
   ],
   "castilianisation": [
     "castiglianizzazione"
   ],
-  "catena": [
-    "catena"
-  ],
   "crude": [
-    "rude"
+    "crudo"
   ],
   "cabrera": [
     "cabrera"
@@ -971,30 +955,17 @@
     "corridoio"
   ],
   "courage": [
-    "valore"
+    "coraggio"
   ],
   "covering": [
     "copertura"
   ],
   "crowd": [
     "ammassare",
-    "moltitudine"
-  ],
-  "cd": [
-    "cd"
-  ],
-  "cdc": [
-    "cdc"
-  ],
-  "celticknot": [
-    "intreccio"
+    "folla"
   ],
   "chord": [
     "accordo"
-  ],
-  "cyberspace": [
-    "ciberspazio",
-    "cyberspazio"
   ],
   "charm": [
     "amuleto",
@@ -1315,7 +1286,8 @@
   ],
   "case": [
     "caso",
-    "valigia"
+    "valigia",
+    "custodia"
   ],
   "casein": [
     "caseina"
@@ -1754,8 +1726,8 @@
   "christianisation": [
     "cristianizzazione"
   ],
-  "christmas": [
-    "natale"
+  "Christmas": [
+    "Natale"
   ],
   "chromatin": [
     "cromatina"
@@ -2777,7 +2749,8 @@
     "valere"
   ],
   "costume": [
-    "vestito"
+    "vestito",
+    "costume"
   ],
   "cotton": [
     "cotone"
@@ -3508,8 +3481,8 @@
     "francamente"
   ],
   "carefully": [
-    "conattenzione",
-    "concura"
+    "attenatmente",
+    "cautamente"
   ],
   "categorically": [
     "categoricamente"
@@ -3656,17 +3629,14 @@
   "carry": [
     "portare"
   ],
-  "carryout": [
-    "effettuare"
-  ],
-  "castrate": [
-    "castrare"
-  ],
   "catalog": [
-    "catalogare"
+    "catalogare",
+    "catalogo"
   ],
   "catch": [
-    "afferrare"
+    "afferrare",
+    "fregatura",
+    "problema"
   ],
   "cater": [
     "provvedere"

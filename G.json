@@ -180,7 +180,9 @@
     "grigio"
   ],
   "grim": [
-    "sinistro"
+    "sinistro",
+    "cupo",
+    "triste"
   ],
   "groundless": [
     "infondato"
@@ -371,14 +373,16 @@
     "porta"
   ],
   "gay": [
-    "gay"
+    "gay",
+    "gaio"
   ],
   "gazette": [
     "gazzetta"
   ],
   "gear": [
     "equipaggiamento",
-    "marcia"
+    "marcia",
+    "ingranaggio"
   ],
   "gelling": [
     "gelificazione"
@@ -533,7 +537,8 @@
     "guanto"
   ],
   "glow": [
-    "fulgore"
+    "bagliore",
+    "brillare"
   ],
   "glucose": [
     "glucosio"
@@ -542,13 +547,10 @@
     "gluone"
   ],
   "glue": [
-    "collante"
+    "colla"
   ],
   "gluten": [
     "glutine"
-  ],
-  "glutenpasta": [
-    "pastaglutinata"
   ],
   "gnome": [
     "gnomo"
@@ -667,15 +669,13 @@
   "gravitation": [
     "gravitazione"
   ],
-  "gravitationalconstant": [
-    "costantedigravitazione"
-  ],
   "grazier": [
     "allevamento"
   ],
   "grease": [
     "grasso",
-    "ungere"
+    "ungere",
+    "brillantina"
   ],
   "greedy": [
     "avido"
@@ -1105,7 +1105,7 @@
   "getmarried": [
     "sposarsi"
   ],
-  "getup": [
+  "get up": [
     "alzarsi"
   ],
   "garnish": [
@@ -1113,16 +1113,6 @@
   ],
   "goup": [
     "risalire"
-  ],
-  "glasnost": [
-    "glasnost",
-    "glasnost'"
-  ],
-  "gremlin": [
-    "gremlin"
-  ],
-  "gutterpunk": [
-    "punkabbestia"
   ],
   "globe": [
     "globo"

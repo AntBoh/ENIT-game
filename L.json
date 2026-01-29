@@ -844,7 +844,9 @@
   ],
   "lock": [
     "chiudere",
-    "serratura"
+    "serratura",
+    "serrare",
+    "lucchetto"
   ],
   "lockup": [
     "prigione"
@@ -1185,13 +1187,10 @@
   "limousine": [
     "limousine"
   ],
-  "lipoma": [
-    "lipoma"
-  ],
   "lucky": [
     "fortunato"
   ],
-  "longlive": [
+  "long live": [
     "viva"
   ]
 }

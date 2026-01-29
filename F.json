@@ -291,7 +291,7 @@
     "proibito"
   ],
   "forceful": [
-    "energico"
+    "forte"
   ],
   "foreign": [
     "estero",
@@ -708,7 +708,8 @@
   "fight": [
     "combattimento",
     "lotta",
-    "pugnare"
+    "combattere",
+    "lottare"
   ],
   "fighter": [
     "caccia",
@@ -1454,9 +1455,6 @@
   "fondly": [
     "affettuosamente"
   ],
-  "fordearlife": [
-    "disperatamente"
-  ],
   "facilitate": [
     "facilitare"
   ],
@@ -1619,12 +1617,6 @@
   ],
   "forecast": [
     "previsione"
-  ],
-  "farad": [
-    "farad"
-  ],
-  "firn": [
-    "firn"
   ],
   "femur": [
     "femore"

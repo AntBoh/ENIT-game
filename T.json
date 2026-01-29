@@ -1147,7 +1147,7 @@
     "titolo"
   ],
   "titled": [
-    "titolato"
+    "intitolato"
   ],
   "toast": [
     "brindisi",
@@ -1301,7 +1301,8 @@
   ],
   "trade": [
     "commercio",
-    "scambiare"
+    "scambiare",
+    "scambio"
   ],
   "trade route": [
     "rotta commerciale"
@@ -1606,9 +1607,6 @@
     "turno",
     "virare"
   ],
-  "turnsignal": [
-    "svolta"
-  ],
   "turncoat": [
     "opportunista"
   ],
@@ -1730,51 +1728,8 @@
   "thoroughly": [
     "completamente"
   ],
-  "throughout": [
-    "datutteleparti",
-    "durante"
-  ],
   "tightly": [
     "strettamente"
-  ],
-  "timeandtimeagain": [
-    "ripetutamente"
-  ],
-  "toenglish": [
-    "all'inglese"
-  ],
-  "tofrench": [
-    "allafrancese"
-  ],
-  "toitalian": [
-    "all'italiana"
-  ],
-  "tobeserious": [
-    "seriamente"
-  ],
-  "tocapacity": [
-    "completamente"
-  ],
-  "todeath": [
-    "amorte"
-  ],
-  "tolittleavail": [
-    "ininutile"
-  ],
-  "toscale": [
-    "suscala"
-  ],
-  "tothefore": [
-    "davanti"
-  ],
-  "tothefront": [
-    "davanti"
-  ],
-  "totheground": [
-    "completamente"
-  ],
-  "tothisveryday": [
-    "finora"
   ],
   "today": [
     "oggi"
@@ -1875,7 +1830,10 @@
   ],
   "throw": [
     "gettare",
-    "tirare"
+    "tirare",
+    "lancio",
+    "lanciare",
+    "tiro"
   ],
   "throwoffbalance": [
     "sbilanciare"
@@ -1966,9 +1924,6 @@
   ],
   "tritium": [
     "trizio"
-  ],
-  "trivium": [
-    "trivium"
   ],
   "trailer": [
     "rimorchio"

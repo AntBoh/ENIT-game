@@ -299,63 +299,17 @@
   "bureaucratic": [
     "burocratico"
   ],
-  "burmese": [
-    "birmano"
-  ],
-  "burning": [
-    "infiamme"
-  ],
   "business": [
-    "affare",
-    "imprenditoriale"
+    "affare"
   ],
   "busy": [
     "occupato"
   ],
-  "byelorussian": [
-    "bielorusso"
-  ],
-  "byzantine": [
+  "Byzantine": [
     "bizantino"
   ],
   "brittle": [
     "fragile"
-  ],
-  "battleofausterlitz": [
-    "battagliadiausterlitz"
-  ],
-  "boeing": [
-    "boeing"
-  ],
-  "badajoz": [
-    "badajoz"
-  ],
-  "badalona": [
-    "badalona"
-  ],
-  "baeza": [
-    "baeza"
-  ],
-  "bages": [
-    "bages"
-  ],
-  "baghdad": [
-    "baghdad"
-  ],
-  "bagnasco": [
-    "bagnasco"
-  ],
-  "bahamas": [
-    "bahamas"
-  ],
-  "bahrain": [
-    "bahrain"
-  ],
-  "balboa": [
-    "balboa"
-  ],
-  "balearicislands": [
-    "baleari"
   ],
   "Balkans": [
     "Balcani"
@@ -394,7 +348,7 @@
     "libraio"
   ],
   "beggar": [
-    "accattone"
+    "mendicante"
   ],
   "batiste": [
     "batista"
@@ -412,30 +366,15 @@
   "bolshevism": [
     "bolscevismo"
   ],
-  "bonapartism": [
-    "bonapartismo"
-  ],
-  "buddhism": [
-    "buddhismo"
-  ],
-  "begging": [
-    "accattonaggio"
-  ],
-  "blogger": [
-    "blogger"
-  ],
   "baby": [
-    "creatura",
+    "bebè",
     "neonato"
   ],
   "bacillus": [
     "bacillo"
   ],
-  "bacitracin": [
-    "bacitracina"
-  ],
   "background": [
-    "fondo"
+    "sfondo"
   ],
   "backrest": [
     "schienale",
@@ -485,10 +424,6 @@
   "ballast": [
     "zavorra"
   ],
-  "ballerina": [
-    "ballerino",
-    "ballerinoclassico"
-  ],
   "ballet": [
     "balletto"
   ],
@@ -515,16 +450,19 @@
   ],
   "ban": [
     "divieto",
-    "proibire"
+    "proibire",
+    "bandire"
   ],
   "banana": [
     "banana"
   ],
   "band": [
-    "banda"
+    "banda",
+    "fascia"
   ],
   "bandage": [
-    "fasciatura"
+    "fasciatura",
+    "benda"
   ],
   "bandit": [
     "bandito"
@@ -1147,6 +1085,10 @@
   ],
   "breach": [
     "infrangere",
+    "infrazione",
+    "breccia",
+    "brecciare",
+    "violare",
     "violazione"
   ],
   "bread": [
@@ -1833,7 +1775,8 @@
     "esserenecessario"
   ],
   "become": [
-    "diventare"
+    "diventare",
+    "divenire"
   ],
   "beg": [
     "supplicare"

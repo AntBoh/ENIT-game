@@ -1216,12 +1216,6 @@
   "director": [
     "direttore"
   ],
-  "directorategeneral": [
-    "direzionegenerale"
-  ],
-  "directory": [
-    "directory"
-  ],
   "disambiguation": [
     "disambiguazione"
   ],
@@ -1319,11 +1313,13 @@
     "licenziamento"
   ],
   "disorder": [
-    "disordine",
-    "trastorno"
+    "disordine"
   ],
   "dispatch": [
-    "spedizione"
+    "spedizione",
+    "invio",
+    "inviare",
+    "spedire"
   ],
   "dispensation": [
     "amministrazione"
@@ -1332,8 +1328,9 @@
     "dispersione"
   ],
   "display": [
-    "esibizione",
-    "mostrare"
+    "esposizione",
+    "esporre",
+    "schermo"
   ],
   "disposal": [
     "disposizione"
@@ -2292,7 +2289,8 @@
     "sborsare"
   ],
   "discern": [
-    "percepire"
+    "discernere",
+    "distinguere"
   ],
   "disclose": [
     "rivelare"
@@ -2328,7 +2326,9 @@
     "disanimare"
   ],
   "dismiss": [
-    "licenziare"
+    "licenziare",
+    "congedare",
+    "respingere"
   ],
   "dispel": [
     "dissipare"
