@@ -1140,17 +1140,19 @@
     "canoista"
   ],
   "canon": [
-    "canone"
+    "canone",
+    "canonico"
   ],
   "canonisation": [
     "canonizzazione"
   ],
   "canton": [
-    "lato"
+    "cantone"
   ],
   "cap": [
     "berretto",
-    "calotta"
+    "calotta",
+    "tappo"
   ],
   "capacity": [
     "capienza"
@@ -1207,11 +1209,8 @@
   "carburation": [
     "carburazione"
   ],
-  "carburettor": [
+  "carburetor": [
     "carburatore"
-  ],
-  "carcinoma": [
-    "carcinoma"
   ],
   "card": [
     "carta",

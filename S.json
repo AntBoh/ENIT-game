@@ -133,13 +133,13 @@
     "scolastico"
   ],
   "school": [
-    "allievo",
+    "banco",
     "scuola"
   ],
   "scientific": [
-    "scienziato"
+    "scientifico"
   ],
-  "scottish": [
+  "Scottish": [
     "scozzese"
   ],
   "sculptural": [
@@ -1545,7 +1545,8 @@
     "esplorazione"
   ],
   "screw": [
-    "vite"
+    "vite",
+    "avvitare"
   ],
   "screwdriver": [
     "cacciavite"
@@ -1814,7 +1815,8 @@
     "insediamento"
   ],
   "sewerage": [
-    "fognatura"
+    "fognatura",
+    "fogna"
   ],
   "sex": [
     "sesso"
@@ -2587,9 +2589,6 @@
     "palcoscenico",
     "tappa"
   ],
-  "stagflation": [
-    "stagflazione"
-  ],
   "stagnation": [
     "lagunaggio",
     "stagnazione"
@@ -2661,7 +2660,7 @@
   "steel": [
     "acciaio"
   ],
-  "steeringwheel": [
+  "steering wheel": [
     "volante"
   ],
   "steganography": [
@@ -2809,7 +2808,8 @@
   ],
   "strike": [
     "colpire",
-    "sciopero"
+    "sciopero",
+    "colpo"
   ],
   "string": [
     "corda",

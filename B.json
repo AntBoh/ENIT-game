@@ -1236,9 +1236,6 @@
     "filiale",
     "ramo"
   ],
-  "bundle": [
-    "balla"
-  ],
   "bunk": [
     "branda"
   ],
@@ -1566,7 +1563,9 @@
     "bombardiere"
   ],
   "bit": [
-    "pezzetto"
+    "pezzo",
+    "bit",
+    "poco"
   ],
   "bitumen": [
     "bitume"
@@ -1710,17 +1709,11 @@
   "brutally": [
     "brutalmente"
   ],
-  "by car": [
-    "inmacchina"
-  ],
   "by hand": [
     "a mano"
   ],
-  "byheart": [
-    "amemoria"
-  ],
-  "bytelephone": [
-    "telefonicamente"
+  "by heart": [
+    "a memoria"
   ],
   "beautifully": [
     "fantasticamente"

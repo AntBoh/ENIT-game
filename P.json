@@ -666,7 +666,8 @@
     "parenchimatoso"
   ],
   "parental": [
-    "parentale"
+    "parentale",
+    "genitoriale"
   ],
   "parietal": [
     "parietale"
@@ -2073,14 +2074,15 @@
     "polmonite"
   ],
   "pocket": [
-    "sacca",
+    "tascabile",
     "tasca"
   ],
   "podium": [
     "podio"
   ],
   "poem": [
-    "poema"
+    "poema",
+    "poesia"
   ],
   "poet": [
     "poeta"
@@ -2186,11 +2188,8 @@
   "pomegranate": [
     "melograno"
   ],
-  "poncho": [
-    "poncho"
-  ],
   "pool": [
-    "gruppo",
+    "biliardo",
     "piscina"
   ],
   "pop": [

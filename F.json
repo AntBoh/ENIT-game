@@ -49,8 +49,9 @@
     "franchista"
   ],
   "fancy": [
-    "estravagante",
-    "piacere"
+    "stravagante",
+    "desiderare",
+    "fantasia"
   ],
   "facial": [
     "facciale"
@@ -521,7 +522,9 @@
   ],
   "fake": [
     "contraffazione",
-    "falsificare"
+    "falsificare",
+    "falso",
+    "finto"
   ],
   "falconry": [
     "falconeria"
@@ -578,12 +581,12 @@
   "father": [
     "padre"
   ],
+  "faucet":[
+    "rubinetto"
+  ],
   "fault": [
     "colpa",
     "mancanza"
-  ],
-  "faun": [
-    "fauno"
   ],
   "fauna": [
     "fauna"

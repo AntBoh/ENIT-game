@@ -637,7 +637,7 @@
   "ashamed": [
     "vergognoso"
   ],
-  "asian": [
+  "Asian": [
     "asiatico"
   ],
   "asocial": [
@@ -1041,7 +1041,8 @@
     "accelerometro"
   ],
   "accent": [
-    "accento"
+    "accento",
+    "accentare"
   ],
   "accentuation": [
     "accentuazione"
@@ -1813,7 +1814,8 @@
     "anatossina"
   ],
   "ancestor": [
-    "ascendente"
+    "avo",
+    "antenato"
   ],
   "anchor": [
     "ancora",
@@ -2794,18 +2796,6 @@
   "aptitude": [
     "attitudine"
   ],
-  "allele": [
-    "allele"
-  ],
-  "apartheid": [
-    "apartheid"
-  ],
-  "apatite": [
-    "apatite"
-  ],
-  "aplasia": [
-    "aplasia"
-  ],
   "apothem": [
     "apotema"
   ],
@@ -3092,9 +3082,6 @@
   "away": [
     "via"
   ],
-  "awfully": [
-    "molto"
-  ],
   "abnormally": [
     "anormalmente"
   ],
@@ -3106,9 +3093,6 @@
   ],
   "angrily": [
     "furiosamente"
-  ],
-  "asawhole": [
-    "complessivamente"
   ],
   "abandon": [
     "abbandonare"

@@ -142,7 +142,7 @@
     "luce",
     "luminoso"
   ],
-  "light-sensitive": [
+  "lightsensitive": [
     "fotosensibile"
   ],
   "lighted": [
@@ -400,20 +400,17 @@
     "labirinto"
   ],
   "lace": [
-    "cordonare",
-    "merletto"
+    "merletto",
+    "laccio"
   ],
   "lactose": [
     "lattosio"
-  ],
-  "lad": [
-    "ragazzo"
   ],
   "lady": [
     "dama",
     "signora"
   ],
-  "ladybird": [
+  "ladybug": [
     "coccinella"
   ],
   "lagoon": [
@@ -846,10 +843,8 @@
     "chiudere",
     "serratura",
     "serrare",
-    "lucchetto"
-  ],
-  "lockup": [
-    "prigione"
+    "lucchetto",
+    "rinchiudere"
   ],
   "locomotion": [
     "locomozione"

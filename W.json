@@ -123,9 +123,6 @@
   "worrisome": [
     "preoccupante"
   ],
-  "worthwhile": [
-    "interessante"
-  ],
   "worthy": [
     "degno"
   ],
@@ -361,7 +358,9 @@
     "frumento"
   ],
   "whine": [
-    "piagnisteo"
+    "piagnisteo",
+    "piagnucolare",
+    "lamento"
   ],
   "whip": [
     "frusta",
@@ -490,14 +489,8 @@
     "legname",
     "legno"
   ],
-  "woodpaste": [
-    "pastadacarta"
-  ],
-  "woodpulp": [
-    "pastadilegno"
-  ],
   "woodchuck": [
-    "marmottaamericana"
+    "marmotta"
   ],
   "wool": [
     "lana"

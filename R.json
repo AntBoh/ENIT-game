@@ -432,146 +432,8 @@
   "runic": [
     "runico"
   ],
-  "rabat": [
-    "rabat"
-  ],
-  "rachele": [
-    "rachele"
-  ],
-  "rafael": [
-    "rafael"
-  ],
-  "rafaelnadal": [
-    "rafaelnadal"
-  ],
-  "ramirez": [
-    "ramirez"
-  ],
-  "raquel": [
-    "raquel"
-  ],
-  "rasputin": [
-    "rasputin"
-  ],
-  "ratzinger": [
-    "ratzinger"
-  ],
-  "raxoi": [
-    "raxoi"
-  ],
-  "reagan": [
-    "reagan"
-  ],
-  "reeves": [
-    "reeves"
-  ],
-  "rehn": [
-    "rehn"
-  ],
-  "repsol": [
-    "repsol"
-  ],
-  "requena": [
-    "requena"
-  ],
-  "reus": [
-    "reus"
-  ],
-  "rhodeisland": [
-    "rhodeisland"
-  ],
-  "rhodesia": [
-    "rhodesia"
-  ],
-  "ricardo": [
-    "ricardo"
-  ],
-  "richard": [
-    "richard"
-  ],
-  "richardstallman": [
-    "richardstallman"
-  ],
-  "richardson": [
-    "richardson"
-  ],
-  "riggs": [
-    "riggs"
-  ],
-  "rioferdinand": [
-    "rioferdinand"
-  ],
-  "ripoll": [
-    "ripoll"
-  ],
-  "riquelme": [
-    "riquelme"
-  ],
-  "robbiewilliams": [
-    "robbiewilliams"
-  ],
-  "robert": [
-    "robert"
-  ],
-  "roberto": [
-    "roberto"
-  ],
-  "roberts": [
-    "roberts"
-  ],
-  "robinson": [
-    "robinson"
-  ],
-  "rochefort": [
-    "rochefort"
-  ],
-  "rodrigo": [
-    "rodrigo"
-  ],
-  "rogerbacon": [
-    "ruggerobacone"
-  ],
-  "romania": [
-    "romania"
-  ],
-  "rome": [
-    "roma"
-  ],
-  "roosevelt": [
-    "roosevelt"
-  ],
-  "roseoflima": [
-    "rosadalima"
-  ],
-  "rosell": [
-    "rosell"
-  ],
-  "rourke": [
-    "rourke"
-  ],
-  "roussillon": [
-    "roussillon"
-  ],
-  "rubalcaba": [
-    "rubalcaba"
-  ],
-  "ruiz": [
-    "ruiz"
-  ],
-  "rumsfeld": [
-    "rumsfeld"
-  ],
-  "russel": [
-    "russel"
-  ],
-  "russia": [
-    "russia"
-  ],
-  "rwanda": [
-    "ruanda"
-  ],
-  "ravine": [
-    "gravina"
+  "Rome": [
+    "Roma"
   ],
   "rector": [
     "rettore"
@@ -582,22 +444,14 @@
   "resonance": [
     "risonanza"
   ],
-  "roadstead": [
-    "rada"
-  ],
   "rubbish": [
     "immondizia",
     "rifiuto",
     "spazzatura"
   ],
   "rumble": [
-    "rumore"
-  ],
-  "rom": [
-    "rom"
-  ],
-  "ram": [
-    "ram"
+    "rumore",
+    "tremore"
   ],
   "romanisation": [
     "romanizzazione"
@@ -1518,9 +1372,8 @@
   "rivet": [
     "rivetto"
   ],
-  "roadsign": [
-    "segnalazionestradale",
-    "segnalestradale"
+  "road sign": [
+    "segnale stradale"
   ],
   "robbery": [
     "rapina"
@@ -1760,7 +1613,9 @@
     "raramente"
   ],
   "rather": [
-    "abbastanza"
+    "abbastanza",
+    "preferire",
+    "piuttosto"
   ],
   "readily": [
     "facilmente",
