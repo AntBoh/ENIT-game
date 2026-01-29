@@ -199,10 +199,10 @@
   "childish": [
     "infantile"
   ],
-  "chilean": [
+  "Chilean": [
     "cileno"
   ],
-  "chinese": [
+  "Chinese": [
     "cinese"
   ],
   "choral": [
@@ -1815,6 +1815,7 @@
   "circle": [
     "circolo",
     "cerchio",
+    "girone",
     "accerchiare"
   ],
   "circuit": [
@@ -2965,6 +2966,9 @@
   "crusade": [
     "crociata"
   ],
+    "crusader": [
+    "crociato"
+  ],
   "crushing": [
     "frantumazione"
   ],
@@ -3627,9 +3631,6 @@
   ],
   "calibrate": [
     "calibrare"
-  ],
-  "callfor": [
-    "chiedere"
   ],
   "calm": [
     "calma",

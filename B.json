@@ -898,9 +898,6 @@
     "uccello",
     "volatile"
   ],
-  "birefringence": [
-    "birifrangenza"
-  ],
   "birth": [
     "nascita"
   ],
@@ -1463,7 +1460,8 @@
     "ballata"
   ],
   "barricade": [
-    "barricata"
+    "barricata",
+    "barricare"
   ],
   "bitterness": [
     "amarezza"

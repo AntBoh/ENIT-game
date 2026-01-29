@@ -1475,6 +1475,7 @@
     "mira",
     "obiettivo",
     "puntare",
+    "mirare",
     "scopo"
   ],
   "air": [
@@ -1621,26 +1622,17 @@
     "mandorla",
     "mandorlo"
   ],
-  "almondpaste": [
-    "pastadimandorle"
-  ],
   "alms": [
     "elemosina"
   ],
-  "alopecia": [
-    "alopecia"
-  ],
   "alphabet": [
     "alfabeto"
-  ],
-  "alpinesoldier": [
-    "alpino"
   ],
   "altar": [
     "altare"
   ],
   "altarpiece": [
-    "pala"
+    "pala d'altare"
   ],
   "alteration": [
     "alterazione"
@@ -2023,9 +2015,6 @@
   "antonym": [
     "antonimo"
   ],
-  "anuran": [
-    "anura"
-  ],
   "anus": [
     "ano"
   ],
@@ -2342,9 +2331,6 @@
   "asphyxia": [
     "asfissia"
   ],
-  "aspic": [
-    "gelatina"
-  ],
   "aspiration": [
     "aspirazione"
   ],
@@ -2517,13 +2503,8 @@
     "vendereall'asta"
   ],
   "audience": [
-    "audience",
+    "pubblico",
     "udienza"
-  ],
-  "audit": [
-    "audit",
-    "controllo",
-    "verificare"
   ],
   "auditing": [
     "controllo"
@@ -3033,12 +3014,6 @@
   ],
   "amicably": [
     "amichevolmente"
-  ],
-  "amongother": [
-    "tral'altro"
-  ],
-  "amongothers": [
-    "traglialtri"
   ],
   "analogously": [
     "analogamente"

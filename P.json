@@ -415,7 +415,7 @@
   "precise": [
     "preciso"
   ],
-  "predatory": [
+  "predator": [
     "predatore"
   ],
   "predictable": [
@@ -709,11 +709,10 @@
   ],
   "pilot": [
     "pilota",
-    "pilotare",
-    "piloto"
+    "pilotare"
   ],
   "planar": [
-    "planar"
+    "planare"
   ],
   "plastic": [
     "plastica",
@@ -838,9 +837,6 @@
   ],
   "promising": [
     "promettente"
-  ],
-  "proparoxytone": [
-    "proparossitono"
   ],
   "prosodic": [
     "prosodico"
@@ -1141,7 +1137,9 @@
     "pittore"
   ],
   "painting": [
-    "pittura"
+    "pittura",
+    "quadro",
+    "dipinto"
   ],
   "pair": [
     "paio"
@@ -1160,9 +1158,6 @@
   ],
   "palaeontology": [
     "paleontologia"
-  ],
-  "paroemiology": [
-    "paremiologia"
   ],
   "potamology": [
     "potamologia"
@@ -1855,17 +1850,12 @@
   "piece": [
     "pezzo"
   ],
-  "pieceoffurniture": [
-    "mobile"
-  ],
   "pig": [
-    "porco"
+    "porco",
+    "maiale"
   ],
   "pigeon": [
     "piccione"
-  ],
-  "pigeonhole": [
-    "piccionaia"
   ],
   "piggybank": [
     "salvadanaio"
@@ -2042,7 +2032,7 @@
     "promessa"
   ],
   "plenary": [
-    "plenaria"
+    "plenario"
   ],
   "plenty": [
     "abbondanza"
@@ -3742,9 +3732,6 @@
   ],
   "photocopier": [
     "fotocopiatrice"
-  ],
-  "pleura": [
-    "pleura"
   ],
   "proboscis": [
     "proboscide"

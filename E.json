@@ -506,9 +506,6 @@
   "England": [
     "Inghilterra"
   ],
-  "Erasmus": [
-    "Erasmo"
-  ],
   "Ethiopia": [
     "Etiopia"
   ],
@@ -965,7 +962,8 @@
     "artista"
   ],
   "entertainment": [
-    "divertimento"
+    "divertimento",
+    "intrattenimento"
   ],
   "enthalpy": [
     "entalpia"

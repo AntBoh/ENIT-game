@@ -222,7 +222,8 @@
     "orribile"
   ],
   "host": [
-    "anfitrione"
+    "oste",
+    "ospite"
   ],
   "hostile": [
     "ostile"
@@ -1327,7 +1328,8 @@
     "arrestare"
   ],
   "hamper": [
-    "impacciare"
+    "ostacolare",
+    "intralciare"
   ],
   "hang": [
     "appendere",

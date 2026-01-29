@@ -952,9 +952,6 @@
   "margin": [
     "margine"
   ],
-  "marginalisation": [
-    "emarginazione"
-  ],
   "marionette": [
     "marionetta"
   ],
@@ -1419,7 +1416,8 @@
     "nebbia"
   ],
   "misunderstanding": [
-    "equivoco"
+    "equivoco",
+    "incomprensione"
   ],
   "misuse": [
     "abuso"
