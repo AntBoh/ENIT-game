@@ -11,6 +11,10 @@
   "ninetieth": [
     "novantesimo"
   ],
+  "nod":[
+    "accenno",
+    "annuire"
+  ],
   "ninth": [
     "nono"
   ],
@@ -22,9 +26,6 @@
   "nth": [
     "ennesimo"
   ],
-  "northamerican": [
-    "nordamericano"
-  ],
   "net": [
     "netto",
     "rete"
@@ -34,9 +35,6 @@
   ],
   "neuromuscular": [
     "neuromuscolare"
-  ],
-  "named": [
-    "denominato"
   ],
   "narrow": [
     "stretto"
@@ -612,7 +610,8 @@
     "bambinaia"
   ],
   "nursery": [
-    "vivaio"
+    "vivaio",
+    "asilo"
   ],
   "nut": [
     "dado",

@@ -806,21 +806,6 @@
   "crude": [
     "crudo"
   ],
-  "cabrera": [
-    "cabrera"
-  ],
-  "calatayud": [
-    "calatayud"
-  ],
-  "california": [
-    "california"
-  ],
-  "calonge": [
-    "calonge"
-  ],
-  "calpe": [
-    "calpe"
-  ],
   "Cambodia": [
     "Cambogia"
   ],
@@ -2771,7 +2756,9 @@
     "controcultura"
   ],
   "counterfeit": [
-    "contraffazione"
+    "contraffazione",
+    "contraffatto",
+    "contraffare"
   ],
   "counterprogramming": [
     "controprogrammazione"
@@ -2909,8 +2896,7 @@
   ],
   "cross": [
     "attraversare",
-    "croce",
-    "cross"
+    "croce"
   ],
   "crossing": [
     "attraversamento"

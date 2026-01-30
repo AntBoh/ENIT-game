@@ -13,8 +13,7 @@
   ],
   "that": [
     "che",
-    "quello",
-    "quella"
+    "quello"
   ],
   "the": [
     "il",
@@ -36,9 +35,7 @@
   ],
   "this": [
     "codesto",
-    "codesta",
-    "questo",
-    "questa"
+    "questo"
   ],
   "tarnish": [
     "offuscare"
@@ -851,7 +848,7 @@
     "teleconferenza"
   ],
   "telegram": [
-    "telegrafo"
+    "telegramma"
   ],
   "telegraphy": [
     "telegrafia"
@@ -1029,14 +1026,11 @@
   ],
   "those": [
     "quelli",
-    "quelle",
     "coloro"
   ],
   "these":[
     "questi",
-    "queste",
-    "codesti",
-    "codeste"
+    "codesti"
   ],
   "thesis": [
     "tesi"
@@ -1773,7 +1767,10 @@
   ],
   "therefore": [
     "conseguentemente",
-    "pertanto"
+    "pertanto",
+    "dunque",
+    "quindi",
+    "perciò"
   ],
   "tackle": [
     "affrontare",
@@ -1997,32 +1994,19 @@
   "teletype": [
     "telescrivente"
   ],
-  "thankyou": [
+  "thank you": [
     "grazie"
   ],
   "thanks": [
     "grazie"
   ],
   "though": [
-    "nonostante"
-  ],
-  "theonewhich": [
-    "quelloche"
-  ],
-  "theonewho": [
-    "quelloche"
-  ],
-  "theonesthat": [
-    "quelloche"
-  ],
-  "theoneswho": [
-    "quelloche"
-  ],
-  "thosethat": [
-    "quelloche"
+    "nonostante",
+    "però",
+    "tuttavia"
   ],
   "ten": [
-    "decine",
+    "decina",
     "dieci"
   ],
   "tenhundred": [

@@ -703,12 +703,6 @@
   "satisfied": [
     "soddisfatto"
   ],
-  "saxon": [
-    "sassone"
-  ],
-  "scandinavian": [
-    "scandinavo"
-  ],
   "scarce": [
     "scarso"
   ],
@@ -1115,7 +1109,9 @@
   ],
   "score": [
     "marcare",
-    "punteggio"
+    "punteggio",
+    "totalizzare",
+    "ventina"
   ],
   "scourge": [
     "flagello"
@@ -1837,7 +1833,8 @@
     "ombra"
   ],
   "shake": [
-    "scossa"
+    "scossa",
+    "scuotere"
   ],
   "shame": [
     "imbarazzo",
@@ -1854,7 +1851,7 @@
   ],
   "share": [
     "condividere",
-    "partecipazione"
+    "azione"
   ],
   "shareholder": [
     "azionista"
@@ -1874,9 +1871,6 @@
   "sheet": [
     "foglio",
     "lenzuolo"
-  ],
-  "sheetofpaper": [
-    "foglio"
   ],
   "shell": [
     "conchiglia",
@@ -2670,7 +2664,8 @@
     "steganografia"
   ],
   "stem": [
-    "radice"
+    "stelo",
+    "gambo"
   ],
   "stenography": [
     "stenografia"
@@ -2881,7 +2876,7 @@
     "sottomarino"
   ],
   "submission": [
-    "presentazione"
+    "sottomissione"
   ],
   "subordination": [
     "subordinazione"
@@ -3024,14 +3019,10 @@
     "chirurgo"
   ],
   "surgery": [
-    "chirurgia",
-    "consulta"
+    "chirurgia"
   ],
   "surname": [
     "cognome"
-  ],
-  "surplus": [
-    "surplus"
   ],
   "surprise": [
     "sorprendere",
@@ -3225,7 +3216,8 @@
     "spinetta"
   ],
   "spinning": [
-    "filatura"
+    "filatura",
+    "rotante"
   ],
   "splint": [
     "stecca"
@@ -3326,7 +3318,7 @@
   ],
   "shortly": [
     "prossimamente",
-    "trapoco"
+    "a breve"
   ],
   "shortlyafter": [
     "pocodopo"
@@ -3448,7 +3440,8 @@
     "strenuamente"
   ],
   "strictly": [
-    "rigorosamente"
+    "rigorosamente",
+    "severamente"
   ],
   "strongly": [
     "fortemente",
@@ -4065,10 +4058,6 @@
   ],
   "soapy": [
     "saponoso"
-  ],
-  "sothat": [
-    "inmodoche",
-    "nelcasoincui"
   ],
   "seven": [
     "sette"

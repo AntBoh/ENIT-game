@@ -94,7 +94,8 @@
     "disuguale"
   ],
   "uneven": [
-    "disuguale"
+    "disuguale",
+    "impari"
   ],
   "unexpected": [
     "imprevisto",
@@ -152,7 +153,8 @@
     "inconoscibile"
   ],
   "unknown": [
-    "sconosciuto"
+    "sconosciuto",
+    "ignoto"
   ],
   "unlike": [
     "differente"
@@ -381,7 +383,7 @@
     "tappezzeria"
   ],
   "uprising": [
-    "sollevazione"
+    "ascesa"
   ],
   "uranium": [
     "uranio"

@@ -792,7 +792,8 @@
     "palestra"
   ],
   "gymnasium": [
-    "palestra"
+    "palestra",
+    "ginnasio"
   ],
   "gymnastics": [
     "ginnastica"
@@ -808,9 +809,6 @@
   ],
   "gypsum": [
     "gesso"
-  ],
-  "gypsy": [
-    "gitano"
   ],
   "gyroscope": [
     "giroscopio"

@@ -43,9 +43,6 @@
   "barbaric": [
     "barbaro"
   ],
-  "barcelonan": [
-    "barcellonese"
-  ],
   "barometric": [
     "barometrico"
   ],
@@ -59,13 +56,8 @@
     "basale"
   ],
   "basic": [
-    "basico"
-  ],
-  "basque": [
-    "basco"
-  ],
-  "bavarian": [
-    "bavarese"
+    "basico",
+    "basilare"
   ],
   "bearable": [
     "sopportabile"
@@ -206,14 +198,11 @@
     "sanguinario"
   ],
   "bloody": [
-    "cruento"
+    "cruento",
+    "sanguinoso"
   ],
   "blue": [
-    "azzurro",
     "blu"
-  ],
-  "blue-white": [
-    "biancazzurro"
   ],
   "bluish": [
     "bluastro"
@@ -221,7 +210,7 @@
   "blurred": [
     "sfocato"
   ],
-  "bolivian": [
+  "Bolivian": [
     "boliviano"
   ],
   "boring": [
@@ -1513,28 +1502,14 @@
   "badminton": [
     "badminton"
   ],
-  "bandwidth": [
-    "larghezzadibanda"
-  ],
-  "bivouac": [
-    "bivacco"
-  ],
-  "blastocoel": [
-    "blastocele"
-  ],
-  "blastema": [
-    "blastema"
-  ],
   "blackhead": [
     "comedone"
   ],
   "boot": [
     "bagagliaio",
-    "scalciare",
+    "avviare",
+    "scarpone",
     "stivale"
-  ],
-  "branchia": [
-    "branchia"
   ],
   "blende": [
     "blenda"
