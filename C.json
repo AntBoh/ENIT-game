@@ -1067,9 +1067,6 @@
   "calorimetry": [
     "calorimetria"
   ],
-  "camarilla": [
-    "camarilla"
-  ],
   "camel": [
     "cammello"
   ],
@@ -1696,7 +1693,7 @@
     "cioccolato"
   ],
   "choice": [
-    "elezione"
+    "scelta"
   ],
   "choir": [
     "coro"
@@ -2685,7 +2682,8 @@
   ],
   "corn": [
     "callo",
-    "mais"
+    "mais",
+    "granturco"
   ],
   "corner": [
     "angolo"
@@ -2980,7 +2978,8 @@
     "cetriolo"
   ],
   "cue": [
-    "spunto"
+    "spunto",
+    "segnale"
   ],
   "cult": [
     "culto"
@@ -3345,9 +3344,6 @@
   "chlorophyl": [
     "clorofilla"
   ],
-  "comicstrip": [
-    "fumetto"
-  ],
   "controller": [
     "controllore"
   ],
@@ -3356,9 +3352,6 @@
   ],
   "corm": [
     "cormo"
-  ],
-  "cornelian": [
-    "corniola"
   ],
   "curd": [
     "cagliata"

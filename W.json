@@ -417,15 +417,8 @@
   "wind": [
     "vento"
   ],
-  "winddirection": [
-    "direzionedelvento"
-  ],
-  "windinstrument": [
-    "strumentoafiato"
-  ],
   "window": [
-    "finestra",
-    "finestrino"
+    "finestra"
   ],
   "windscreen": [
     "parabrezza"

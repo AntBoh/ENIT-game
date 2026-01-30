@@ -975,13 +975,8 @@
   ],
   "book": [
     "libro",
-    "riservare"
-  ],
-  "bookcover": [
-    "copertinadellibro"
-  ],
-  "bookjacket": [
-    "copertinadilibro"
+    "riservare",
+    "prenotare"
   ],
   "boor": [
     "villano"
@@ -1635,20 +1630,11 @@
   "brigade": [
     "brigata"
   ],
-  "boulevard": [
-    "boulevard"
-  ],
   "boomerang": [
     "boomerang"
   ],
-  "bauxite": [
-    "bauxite"
-  ],
-  "baud": [
-    "baud"
-  ],
   "borough": [
-    "borough"
+    "borgo"
   ],
   "baking soda": [
     "bicarbonato di sodio"

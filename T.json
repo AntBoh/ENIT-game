@@ -1580,6 +1580,9 @@
   "tumour": [
     "tumore"
   ],
+    "tumor": [
+    "tumore"
+  ],
   "tundra": [
     "tundra"
   ],
@@ -1848,7 +1851,10 @@
     "indurire"
   ],
   "tow": [
-    "rimorchiare"
+    "rimorchiare",
+    "trainare",
+    "traino",
+    "rimorchio"
   ],
   "transact": [
     "trattare"

@@ -11,7 +11,7 @@
     "rupestre"
   ],
   "resulting": [
-    "proveniente"
+    "risultante"
   ],
   "racial": [
     "razziale"
@@ -163,7 +163,8 @@
     "implacabile"
   ],
   "remote": [
-    "remoto"
+    "remoto",
+    "telecomando"
   ],
   "removable": [
     "smontabile"
@@ -1781,7 +1782,8 @@
     "resistere"
   ],
   "restart": [
-    "ripartire"
+    "ripartire",
+    "ricominciare"
   ],
   "restate": [
     "riesporre"
@@ -1856,7 +1858,8 @@
     "ricostruire"
   ],
   "recall": [
-    "ricordare"
+    "ricordare",
+    "richiamare"
   ],
   "receive": [
     "ricevere"
@@ -2007,7 +2010,8 @@
     "dimettire"
   ],
   "resolve": [
-    "risolvere"
+    "risolvere",
+    "decisione"
   ],
   "respond": [
     "rispondere"

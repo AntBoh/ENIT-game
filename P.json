@@ -1133,7 +1133,10 @@
   ],
   "paint": [
     "dipingere",
-    "vernice"
+    "vernice",
+    "pittura",
+    "verniciare",
+    "pitturare"
   ],
   "painter": [
     "pittore"
@@ -1921,6 +1924,8 @@
   "place": [
     "disporre",
     "luogo",
+    "piazzare",
+    "posizionare",
     "posto"
   ],
   "placer": [
@@ -3635,7 +3640,8 @@
     "pantera"
   ],
   "proud": [
-    "orgoglioso"
+    "orgoglioso",
+    "fiero"
   ],
   "pleasant": [
     "gradevole"

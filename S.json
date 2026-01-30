@@ -364,7 +364,8 @@
     "spettrale"
   ],
   "speechless": [
-    "muto"
+    "muto",
+    "senza parole"
   ],
   "spherical": [
     "sferico"
@@ -1496,7 +1497,9 @@
   ],
   "schedule": [
     "orario",
-    "pianificare"
+    "pianificare",
+    "programmare",
+    "programma"
   ],
   "scheme": [
     "schema"
@@ -2207,7 +2210,7 @@
     "acquaneve"
   ],
   "snowman": [
-    "pupazzodineve"
+    "pupazzo di neve"
   ],
   "soap": [
     "sapone"
@@ -3461,7 +3464,7 @@
     "stilisticamente"
   ],
   "subsequently": [
-    "posteriormente"
+    "successivamente"
   ],
   "substantially": [
     "sostanzialmente"
@@ -3520,10 +3523,12 @@
     "sospettosamente"
   ],
   "soak": [
-    "infradiciare"
+    "infradiciare",
+    "inzuppare"
   ],
   "strengthen": [
-    "fortificare"
+    "fortificare",
+    "rafforzare"
   ],
   "sift": [
     "setacciare"
