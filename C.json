@@ -309,7 +309,7 @@
     "raffreddore"
   ],
   "collapsible": [
-    "piegabile"
+    "pieghevole"
   ],
   "collateral": [
     "collaterale"
@@ -1140,7 +1140,8 @@
     "capienza"
   ],
   "cape": [
-    "capo"
+    "capo",
+    "mantello"
   ],
   "capitalisation": [
     "capitalizzazione"
@@ -2086,13 +2087,6 @@
   ],
   "columnist": [
     "editorialista"
-  ],
-  "coma": [
-    "coma",
-    "virgola"
-  ],
-  "comarca": [
-    "comarca"
   ],
   "comb": [
     "pettinare",
@@ -3173,18 +3167,6 @@
   "catheter": [
     "catetere"
   ],
-  "culturalcentre": [
-    "centroculturale"
-  ],
-  "chelicera": [
-    "chelicera"
-  ],
-  "chiropter": [
-    "chiroptera"
-  ],
-  "chlorenchyma": [
-    "collenchima"
-  ],
   "chondrocite": [
     "condrocita"
   ],
@@ -3226,9 +3208,6 @@
   ],
   "canvas": [
     "tela"
-  ],
-  "catchword": [
-    "slogan"
   ],
   "confetti": [
     "coriandoli"
@@ -3279,35 +3258,11 @@
     "carovana",
     "carrozzone"
   ],
-  "coxa": [
-    "coxa"
-  ],
-  "crankshaft": [
-    "alberoagomiti"
-  ],
-  "congressman": [
-    "membrodelcongresso"
-  ],
-  "congresswoman": [
-    "membrodelcongresso"
-  ],
-  "cantata": [
-    "cantata"
-  ],
-  "caciquism": [
-    "cacicchismo"
-  ],
   "capsid": [
     "capside"
   ],
-  "crewman": [
-    "membrodiequipaggio"
-  ],
   "canoeing": [
-    "canoismo"
-  ],
-  "chequebook": [
-    "librettodegliassegni"
+    "canottaggio"
   ],
   "collyrium": [
     "collirio"
@@ -3317,9 +3272,6 @@
   ],
   "carrion": [
     "carogna"
-  ],
-  "catalase": [
-    "catalasi"
   ],
   "centriole": [
     "centriolo"
@@ -3491,9 +3443,6 @@
   ],
   "clearly": [
     "chiaramente"
-  ],
-  "closeathand": [
-    "amano"
   ],
   "closely": [
     "strettamente"

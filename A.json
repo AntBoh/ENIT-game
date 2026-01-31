@@ -1344,9 +1344,6 @@
   "aerometry": [
     "aerometria"
   ],
-  "aerophagy": [
-    "aerofagia"
-  ],
   "aestheticism": [
     "estetismo"
   ],
@@ -1498,12 +1495,6 @@
   ],
   "alarmism": [
     "allarmismo"
-  ],
-  "albatross": [
-    "albatros"
-  ],
-  "albedo": [
-    "albedo"
   ],
   "album": [
     "album"
@@ -2022,15 +2013,6 @@
   ],
   "apiculture": [
     "apicoltura"
-  ],
-  "apnoea": [
-    "apnea"
-  ],
-  "apologia": [
-    "apologia"
-  ],
-  "aporia": [
-    "aporia"
   ],
   "apostle": [
     "apostolo"
@@ -2684,7 +2666,8 @@
     "ammissione"
   ],
   "ashlar": [
-    "bugna"
+    "bugnato",
+    "concio"
   ],
   "artiodactyl": [
     "artiodattilo"
@@ -2726,12 +2709,6 @@
   ],
   "aureole": [
     "aureola"
-  ],
-  "amazon": [
-    "amazzone"
-  ],
-  "awning": [
-    "tendalino"
   ],
   "automotion": [
     "automozione"
@@ -3458,16 +3435,15 @@
     "chiunque"
   ],
   "anything": [
-    "qualsiasi cosa"
+    "qualsiasi cosa",
+    "nulla",
+    "niente"
   ],
   "adapter": [
     "adattore"
   ],
   "assessor": [
     "assessore"
-  ],
-  "acetophenone": [
-    "acetofenone"
   ],
   "acne": [
     "acne"

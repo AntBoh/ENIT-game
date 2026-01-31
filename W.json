@@ -222,7 +222,12 @@
     "avvertimento"
   ],
   "warp": [
-    "curvatura"
+    "curvatura",
+    "deformazione",
+    "deformare",
+    "curvare",
+    "distorsione",
+    "distorcere"
   ],
   "warranty": [
     "garanzia"

@@ -21,17 +21,13 @@
     "batteriologico"
   ],
   "bad": [
-    "cattivo",
-    "peggiore"
+    "cattivo"
   ],
   "bald": [
     "calvo"
   ],
-  "balearic": [
-    "balearico"
-  ],
-  "balkan": [
-    "balcanico"
+  "Balkan": [
+    "Balcanico"
   ],
   "ballistic": [
     "balistico"
@@ -677,7 +673,8 @@
     "essere"
   ],
   "belief": [
-    "credenza"
+    "credenza",
+    "credo"
   ],
   "bell tower": [
     "campanile"
@@ -947,10 +944,12 @@
     "carrozzeria"
   ],
   "boiler": [
-    "caldaia"
+    "caldaia",
+    "bollitore"
   ],
   "boiling": [
-    "ebollizione"
+    "ebollizione",
+    "bollente"
   ],
   "bomb": [
     "bomba",
@@ -1724,9 +1723,6 @@
   ],
   "be worth while": [
     "valere la pena"
-  ],
-  "benecessary": [
-    "esserenecessario"
   ],
   "become": [
     "diventare",

@@ -409,7 +409,8 @@
   ],
   "firm": [
     "fermo",
-    "impresa"
+    "impresa",
+    "ditta"
   ],
   "friendly": [
     "amichevole"
@@ -947,10 +948,12 @@
     "folclore"
   ],
   "folly": [
-    "pazzia"
+    "pazzia",
+    "follia"
   ],
   "font": [
-    "fonte"
+    "fonte",
+    "font"
   ],
   "foot": [
     "piede"
@@ -1500,10 +1503,8 @@
     "prevedere"
   ],
   "forget": [
-    "dimenticare"
-  ],
-  "forgetabout": [
-    "dimenticare"
+    "dimenticare",
+    "scordare"
   ],
   "forgive": [
     "perdonare"
@@ -1541,7 +1542,8 @@
     "scopare"
   ],
   "fulfil": [
-    "compiere"
+    "compiere",
+    "adempiere"
   ],
   "furnish": [
     "arredare"

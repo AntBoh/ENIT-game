@@ -190,9 +190,6 @@
   "grumpy": [
     "scontroso"
   ],
-  "guatemalan": [
-    "guatemalteco"
-  ],
   "guilty": [
     "colpevole"
   ],
@@ -755,17 +752,12 @@
   "guidance": [
     "orientamento"
   ],
-  "guidedog": [
-    "caneguida"
-  ],
   "guideline": [
     "direttrice"
   ],
   "guild": [
-    "corporazione"
-  ],
-  "guineapig": [
-    "cavia"
+    "corporazione",
+    "gilda"
   ],
   "guitar": [
     "chitarra"
@@ -1154,28 +1146,17 @@
   "gorilla": [
     "gorilla"
   ],
-  "gamete": [
-    "gamete"
-  ],
-  "glaucoma": [
-    "glaucoma"
-  ],
-  "granuloma": [
-    "granuloma"
-  ],
   "grenadier": [
     "granatiere"
-  ],
-  "glabella": [
-    "glabella"
   ],
   "gondola": [
     "gondola"
   ],
   "gross": [
-    "lordo"
+    "lordo",
+    "disgustoso"
   ],
-  "goodmorning": [
+  "good morning": [
     "buongiorno"
   ],
   "goodbye": [

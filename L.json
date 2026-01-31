@@ -226,6 +226,7 @@
     "longitudinale"
   ],
   "longshore": [
+    "litoraneo",
     "litorale"
   ],
   "lordly": [
@@ -309,10 +310,7 @@
   "Lent": [
     "Quaresima"
   ],
-  "lipbalm": [
-    "balsamolabiale"
-  ],
-  "livingroom": [
+  "living room": [
     "salotto"
   ],
   "load": [
@@ -734,7 +732,8 @@
     "lignaggio"
   ],
   "linen": [
-    "lino"
+    "lino",
+    "biancheria"
   ],
   "linguist": [
     "linguista"

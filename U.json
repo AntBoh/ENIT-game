@@ -76,7 +76,9 @@
     "sotterraneo"
   ],
   "underwater": [
-    "sottomarino"
+    "sottomarino",
+    "sott'acqua",
+    "subacqueo"
   ],
   "undesirable": [
     "indesiderabile"
@@ -525,7 +527,7 @@
   "up to now": [
     "finora"
   ],
-  "upuntilnow": [
+  "up until now": [
     "finora"
   ],
   "urbanistically": [

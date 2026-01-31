@@ -455,7 +455,12 @@
     "agiografia"
   ],
   "hail": [
-    "grandine"
+    "grandine",
+    "grandinare",
+    "salutare",
+    "saluto",
+    "grido",
+    "gridare"
   ],
   "hair": [
     "capello",
@@ -777,10 +782,12 @@
     "induismo"
   ],
   "hinge": [
-    "cerniera"
+    "cerniera",
+    "cardine"
   ],
   "hint": [
-    "pista"
+    "indizio",
+    "suggerimento"
   ],
   "hip": [
     "anca"
@@ -893,7 +900,7 @@
     "miele"
   ],
   "honeymoon": [
-    "lunadimiele"
+    "luna di miele"
   ],
   "honour": [
     "onorare",

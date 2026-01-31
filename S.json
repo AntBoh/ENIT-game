@@ -332,7 +332,8 @@
     "solvente"
   ],
   "sour": [
-    "acido"
+    "acido",
+    "aspro"
   ],
   "southern": [
     "delsud"
@@ -576,9 +577,6 @@
   ],
   "supplying": [
     "somministratore"
-  ],
-  "supposed": [
-    "supposto"
   ],
   "supranational": [
     "sovranazionale"
@@ -1456,7 +1454,8 @@
     "scaglia"
   ],
   "scalp": [
-    "cuoio"
+    "cuoio capelluto",
+    "scalpo"
   ],
   "scan": [
     "scanner"
@@ -2249,7 +2248,12 @@
     "solfeggio"
   ],
   "solace": [
-    "consolazione"
+    "consolazione",
+    "conforto",
+    "sollievo",
+    "consolare",
+    "sollevare",
+    "confortare"
   ],
   "solarcooker": [
     "fornosolare"
@@ -3594,7 +3598,8 @@
     "inclinare"
   ],
   "sponsor": [
-    "sponsorizzare"
+    "sponsorizzare",
+    "sponsor"
   ],
   "spur": [
     "spronare"
@@ -3969,18 +3974,6 @@
   ],
   "supplier": [
     "fornitore"
-  ],
-  "scooter": [
-    "scooter"
-  ],
-  "setter": [
-    "setter"
-  ],
-  "springer": [
-    "springer"
-  ],
-  "sepsis": [
-    "sepsi"
   ],
   "stuttering": [
     "balbuzie"

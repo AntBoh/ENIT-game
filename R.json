@@ -167,7 +167,9 @@
     "telecomando"
   ],
   "removable": [
-    "smontabile"
+    "smontabile",
+    "rimovibile",
+    "removibile"
   ],
   "renal": [
     "renale"
@@ -920,9 +922,6 @@
   "regard": [
     "riguardare",
     "riguardo"
-  ],
-  "regatta": [
-    "regata"
   ],
   "regency": [
     "reggenza"
@@ -1965,7 +1964,8 @@
     "ricordare"
   ],
   "remove": [
-    "togliere"
+    "togliere",
+    "rimuovere"
   ],
   "renegotiate": [
     "rinegoziare"

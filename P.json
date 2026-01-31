@@ -162,7 +162,7 @@
     "penale"
   ],
   "pending": [
-    "pendente"
+    "in attesa"
   ],
   "peninsular": [
     "peninsulare"
@@ -2599,7 +2599,8 @@
   ],
   "project": [
     "progettare",
-    "progetto"
+    "progetto",
+    "proiettare"
   ],
   "projectile": [
     "proiettile"
@@ -2793,9 +2794,6 @@
   ],
   "psychosis": [
     "psicosi"
-  ],
-  "publicprosecutor": [
-    "pubblicoministero"
   ],
   "publication": [
     "pubblicazione"
@@ -3368,13 +3366,17 @@
     "perturbare"
   ],
   "pick": [
-    "scegliere"
+    "scegliere",
+    "plettro"
   ],
-  "pickup": [
-    "captare"
+  "pick up": [
+    "captare",
+    "prendere"
   ],
   "pity": [
-    "compatire"
+    "compatire",
+    "pietà",
+    "compassione"
   ],
   "plagiarise": [
     "plagiare"

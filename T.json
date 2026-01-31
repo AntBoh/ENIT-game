@@ -260,7 +260,9 @@
     "titanico"
   ],
   "together": [
-    "vicino"
+    "vicino",
+    "assieme",
+    "insieme"
   ],
   "tonal": [
     "tonale"
@@ -853,12 +855,6 @@
   "telegraphy": [
     "telegrafia"
   ],
-  "telephoneexchange": [
-    "centralina"
-  ],
-  "telephonenumber": [
-    "numerotelefonico"
-  ],
   "telephony": [
     "telefonia"
   ],
@@ -1326,7 +1322,9 @@
     "tragedia"
   ],
   "trail": [
-    "scia"
+    "scia",
+    "pista",
+    "percorso"
   ],
   "train": [
     "allenare",
@@ -1425,9 +1423,6 @@
   "transposition": [
     "recepimento",
     "trasposizione"
-  ],
-  "transvestism": [
-    "travestitismo"
   ],
   "trap": [
     "intrappolare",
