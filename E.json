@@ -98,7 +98,8 @@
     "efficace"
   ],
   "efficient": [
-    "efficace"
+    "efficace",
+    "efficiente"
   ],
   "egocentric": [
     "egocentrico"
@@ -462,7 +463,7 @@
     "estrattore"
   ],
   "extracurricular": [
-    "extracurricurale"
+    "extracurriculare"
   ],
   "extraordinary": [
     "straordinario"
@@ -948,7 +949,9 @@
     "inimicizia"
   ],
   "enquiry": [
-    "ricerca"
+    "ricerca",
+    "inchiesta",
+    "indagine"
   ],
   "enrichment": [
     "arricchimento"
@@ -1895,7 +1898,9 @@
     "animare"
   ],
   "endorse": [
-    "firmare"
+    "firmare",
+    "approvare",
+    "confermare"
   ],
   "endow": [
     "dotare"

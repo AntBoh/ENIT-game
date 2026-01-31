@@ -283,9 +283,6 @@
     "destro",
     "diritto"
   ],
-  "right-hand": [
-    "diritto"
-  ],
   "rigid": [
     "rigido"
   ],
@@ -296,6 +293,8 @@
     "anello",
     "anulare",
     "cerchio",
+    "squillare",
+    "ring",
     "circolo"
   ],
   "ripe": [
@@ -361,10 +360,12 @@
     "radiografico"
   ],
   "random": [
-    "aleatorio"
+    "aleatorio",
+    "casuale"
   ],
   "realistic": [
-    "realista"
+    "realista",
+    "realistico"
   ],
   "reigning": [
     "regnante"
@@ -681,7 +682,8 @@
     "tasso"
   ],
   "rating": [
-    "indice"
+    "valutazione",
+    "voto"
   ],
   "ratio": [
     "proporzione"
@@ -1047,7 +1049,15 @@
     "caglio"
   ],
   "renovation": [
-    "rinnovo"
+    "rinnovo",
+    "rinnovamento",
+    "restauro",
+    "ristrutturazione"
+  ],
+    "renovate": [
+    "rinnovare",
+    "restaurare",
+    "ristrutturare"
   ],
   "rent": [
     "affitto"
@@ -1376,7 +1386,8 @@
     "segnale stradale"
   ],
   "robbery": [
-    "rapina"
+    "rapina",
+    "furto"
   ],
   "robot": [
     "robot"

@@ -72,10 +72,15 @@
     "lettone"
   ],
   "lawful": [
-    "lecito"
+    "lecito",
+    "legale",
+    "legittimo"
   ],
   "lawless": [
-    "anarchico"
+    "anarchico",
+    "illegittimo",
+    "illecito",
+    "illegale"
   ],
   "leading": [
     "principale",
@@ -186,7 +191,7 @@
   "lithologic": [
     "litologico"
   ],
-  "lithuanian": [
+  "Lithuanian": [
     "lituano"
   ],
   "littoral": [
@@ -1147,9 +1152,6 @@
   ],
   "lutetium": [
     "lutezio"
-  ],
-  "lignite": [
-    "lignite"
   ],
   "liposome": [
     "liposoma"

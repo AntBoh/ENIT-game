@@ -1529,21 +1529,23 @@
     "problema"
   ],
   "trousers": [
-    "pantalone"
+    "pantaloni"
   ],
   "truck": [
-    "autocarro",
+    "furgone",
     "camion"
   ],
-  "truckdriver": [
+  "truck driver": [
     "camionista"
   ],
   "trunk": [
-    "tronco"
+    "tronco",
+    "proboscide"
   ],
   "trust": [
     "affidare",
-    "fiducia"
+    "fiducia",
+    "fidarsi"
   ],
   "tsarism": [
     "zarismo"
@@ -1755,7 +1757,7 @@
     "veramente"
   ],
   "twice": [
-    "duevolte"
+    "due volte"
   ],
   "typically": [
     "tipicamente"

@@ -1,5 +1,5 @@
 {
-  "fourhundredand": [
+  "fourhundred": [
     "quattrocento"
   ],
   "fivehundredand": [
@@ -354,6 +354,12 @@
   ],
   "friable": [
     "friabile"
+  ],
+  "frostbite":[
+    "assideramento"
+  ],
+  "frostbitten":[
+    "assiderato"
   ],
   "frivolous": [
     "frivolo"
@@ -815,7 +821,8 @@
     "fissazione"
   ],
   "flag": [
-    "bandiera"
+    "bandiera",
+    "segnalare"
   ],
   "flageolet": [
     "flagioletto"
@@ -944,9 +951,6 @@
   "foliage": [
     "fogliame"
   ],
-  "folklore": [
-    "folclore"
-  ],
   "folly": [
     "pazzia",
     "follia"
@@ -1072,13 +1076,12 @@
   "frame": [
     "incorniciare",
     "marco",
-    "struttura"
+    "struttura",
+    "cornice",
+    "incastrare"
   ],
   "framework": [
-    "marco"
-  ],
-  "franchise": [
-    "franchising"
+    "struttura"
   ],
   "fraternity": [
     "fratellanza"
@@ -1099,7 +1102,8 @@
     "gelo"
   ],
   "freezing": [
-    "congelamento"
+    "congelamento",
+    "gelido"
   ],
   "freight": [
     "carica"
@@ -1117,7 +1121,8 @@
     "attrito"
   ],
   "fridge": [
-    "frigorifero"
+    "frigorifero",
+    "frigo"
   ],
   "friend": [
     "amico"
@@ -1404,7 +1409,8 @@
     "fraudolentemente"
   ],
   "freely": [
-    "gratuitamente"
+    "gratuitamente",
+    "liberamente"
   ],
   "frenetically": [
     "freneticamente"

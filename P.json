@@ -180,7 +180,8 @@
     "procapite"
   ],
   "perceivable": [
-    "percettibile"
+    "percettibile",
+    "percepibile"
   ],
   "percentage": [
     "percentuale"
@@ -726,7 +727,8 @@
     "poetico"
   ],
   "poignant": [
-    "patetico"
+    "pungente",
+    "commovente"
   ],
   "poikilothermal": [
     "poichilotermo"
@@ -735,7 +737,9 @@
     "polemico"
   ],
   "polish": [
-    "lustrare",
+    "lustrare"
+  ],
+  "Polish":[
     "polacco"
   ],
   "polycyclic": [
@@ -981,9 +985,6 @@
   "prize-giving": [
     "premiazione"
   ],
-  "presidentialcandidate": [
-    "candidatoallapresidenza"
-  ],
   "position": [
     "carica",
     "collocare",
@@ -992,19 +993,8 @@
   "python": [
     "pitone"
   ],
-  "pointofview": [
-    "puntodivista"
-  ],
-  "prisoncamp": [
-    "campodiprigionia"
-  ],
-  "papertowel": [
-    "asciugamanodicarta"
-  ],
-  "payslip": [
-    "bustapaga",
-    "cedolinopaga",
-    "prospettopaga"
+  "point of view": [
+    "punto di vista"
   ],
   "penance": [
     "penitenza"
@@ -1217,7 +1207,7 @@
     "panteismo"
   ],
   "pants": [
-    "pantalone"
+    "pantaloni"
   ],
   "paper": [
     "articolo",
@@ -1454,7 +1444,10 @@
     "pesca"
   ],
   "peak": [
-    "vertice"
+    "vertice",
+    "picco",
+    "apice",
+    "sommità"
   ],
   "peanut": [
     "arachide"
@@ -1749,9 +1742,6 @@
     "telefonare",
     "telefono"
   ],
-  "phoneexchange": [
-    "centralina"
-  ],
   "phonograph": [
     "fonografo"
   ],
@@ -1894,7 +1884,6 @@
     "pino"
   ],
   "pioneer": [
-    "avviare",
     "pioniere"
   ],
   "pipe": [
@@ -2194,7 +2183,7 @@
     "piscina"
   ],
   "pop": [
-    "farescoppiare",
+    "scoppiare",
     "pop"
   ],
   "pope": [
@@ -2331,7 +2320,8 @@
     "pre-ordinazione"
   ],
   "preaching": [
-    "predicazione"
+    "predicazione",
+    "predica"
   ],
   "precedence": [
     "precedenza"
@@ -3068,7 +3058,7 @@
     "pectina"
   ],
   "perjury": [
-    "falsatestimonianza"
+    "spergiuro"
   ],
   "pharmacopoeia": [
     "farmacopea"
@@ -3300,11 +3290,8 @@
     "prettamente",
     "puramente"
   ],
-  "purelyandsimply": [
-    "puramenteesemplicemente"
-  ],
   "purportedly": [
-    "suppostamente"
+    "presumibilmente"
   ],
   "purposely": [
     "appositamente",
@@ -3394,7 +3381,8 @@
     "polarizzare"
   ],
   "pollute": [
-    "contaminare"
+    "contaminare",
+    "inquinare"
   ],
   "ponder": [
     "ponderare"
@@ -3670,18 +3658,6 @@
   ],
   "pyjamas": [
     "pigiama"
-  ],
-  "panacea": [
-    "panacea"
-  ],
-  "paraplegia": [
-    "paraplegia"
-  ],
-  "patina": [
-    "patina"
-  ],
-  "pellagra": [
-    "pellagra"
   ],
   "photocopier": [
     "fotocopiatrice"

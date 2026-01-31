@@ -234,13 +234,21 @@
     "vaccinazione"
   ],
   "vaccine": [
-    "vaccino"
+    "vaccino",
+    "vaccinare"
   ],
   "vacillation": [
     "esitazione"
   ],
-  "vacuumcleaner": [
+  "vacuum cleaner": [
     "aspirapolvere"
+  ],
+  "void":[
+    "vuoto"
+  ],
+    "vacuum": [
+    "aspirapolvere",
+    "vuoto"
   ],
   "vagabond": [
     "vagabondo"
@@ -314,7 +322,8 @@
   ],
   "vault": [
     "tomba",
-    "volta"
+    "volta",
+    "volteggio"
   ],
   "vector": [
     "vettore"
@@ -662,7 +671,8 @@
   ],
   "vow": [
     "giurare",
-    "giuramento"
+    "giuramento",
+    "voto"
   ],
   "very": [
     "molto"

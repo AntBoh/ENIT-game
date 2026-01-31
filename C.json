@@ -1097,9 +1097,6 @@
   "chorister": [
     "corista"
   ],
-  "candidateforthepresidency": [
-    "candidatoallapresidenza"
-  ],
   "candle": [
     "candela"
   ],
@@ -1676,7 +1673,8 @@
   ],
   "chocolate": [
     "cioccolatino",
-    "cioccolato"
+    "cioccolato",
+    "cioccolata"
   ],
   "choice": [
     "scelta"
@@ -2511,7 +2509,8 @@
   "continuation": [
     "continuazione",
     "proseguimento",
-    "prosieguo"
+    "prosieguo",
+    "continuo"
   ],
   "contortionist": [
     "contorsionista"
@@ -2553,7 +2552,8 @@
     "controllo"
   ],
   "controversy": [
-    "polemica"
+    "polemica",
+    "controversia"
   ],
   "contusion": [
     "contusione"
@@ -2666,9 +2666,6 @@
   ],
   "corner": [
     "angolo"
-  ],
-  "cornice": [
-    "cornice"
   ],
   "coronation": [
     "coronazione",

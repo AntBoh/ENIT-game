@@ -2459,8 +2459,7 @@
     "attribuzione"
   ],
   "auction": [
-    "asta",
-    "vendereall'asta"
+    "asta"
   ],
   "audience": [
     "pubblico",
@@ -2835,11 +2834,8 @@
     "addirittura",
     "sopra"
   ],
-  "aboveall": [
+  "above all": [
     "soprattutto"
-  ],
-  "aboveboard": [
-    "onestamente"
   ],
   "abroad": [
     "all'estero"
@@ -2911,7 +2907,7 @@
     "dopo"
   ],
   "afterall": [
-    "dopototto"
+    "dopotutto"
   ],
   "afterwards": [
     "dopo"
@@ -3453,9 +3449,6 @@
   ],
   "americium": [
     "americio"
-  ],
-  "aphthousulcer": [
-    "afta"
   ],
   "actuator": [
     "attuatore"

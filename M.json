@@ -828,7 +828,8 @@
     "magnetometro"
   ],
   "magnitude": [
-    "magnitudine"
+    "magnitudine",
+    "magnitudo"
   ],
   "mahogany": [
     "mogano"
@@ -1938,9 +1939,6 @@
   ],
   "manually": [
     "manualmente"
-  ],
-  "manytimes": [
-    "moltevolte"
   ],
   "marginally": [
     "marginalmente"

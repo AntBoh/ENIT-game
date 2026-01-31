@@ -423,6 +423,7 @@
     "impiegare",
     "impiego",
     "usare",
+    "uso",
     "utenza",
     "utilizzo"
   ],
@@ -480,11 +481,8 @@
   "under": [
     "sotto"
   ],
-  "undercertainconditions": [
-    "adeterminatecondizioni"
-  ],
   "undercover": [
-    "insegreto"
+    "sotto copertura"
   ],
   "underneath": [
     "sotto"
@@ -563,7 +561,8 @@
     "sottovalutare"
   ],
   "undergo": [
-    "subire"
+    "subire",
+    "sottoporsi"
   ],
   "underline": [
     "sottolineare"

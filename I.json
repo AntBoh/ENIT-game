@@ -1500,8 +1500,8 @@
   "internationalisation": [
     "internazionalizzazione"
   ],
-  "internet": [
-    "internet"
+  "Internet": [
+    "Internet"
   ],
   "interpolation": [
     "interpolazione"
@@ -1568,9 +1568,6 @@
   ],
   "inundation": [
     "inondazione"
-  ],
-  "invagination": [
-    "invaginazione"
   ],
   "invalidation": [
     "annullamento"
@@ -1755,7 +1752,9 @@
     "indisciplina"
   ],
   "indorsement": [
-    "girata"
+    "girata",
+    "approvazione",
+    "appoggio"
   ],
   "insecurity": [
     "insicurezza"
@@ -1784,14 +1783,8 @@
   "insecticide": [
     "insetticida"
   ],
-  "icecream": [
+  "ice cream": [
     "gelato"
-  ],
-  "insideout": [
-    "all'indietro"
-  ],
-  "ibidem": [
-    "ibidem"
   ],
   "ideally": [
     "idealmente"
@@ -1936,9 +1929,6 @@
     "volutamente"
   ],
   "interestingly": [
-    "curiosamente"
-  ],
-  "interestinglyenough": [
     "curiosamente"
   ],
   "internally": [

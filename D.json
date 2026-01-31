@@ -313,7 +313,7 @@
     "scontento"
   ],
   "disgusting": [
-    "schifoso"
+    "disgustoso"
   ],
   "dishonest": [
     "disonesto"
@@ -1587,10 +1587,11 @@
     "bava"
   ],
   "dried": [
-    "disseccazione"
+    "essiccato"
   ],
   "drill": [
-    "trapano"
+    "trapano",
+    "trivella"
   ],
   "drilling": [
     "perforazione"
