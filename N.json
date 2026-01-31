@@ -131,14 +131,8 @@
   "nominal": [
     "nominale"
   ],
-  "non-commissioned": [
-    "sottufficiale"
-  ],
-  "non-existent": [
+  "nonexistent": [
     "inesistente"
-  ],
-  "non-smoking": [
-    "nonfumatore"
   ],
   "nondenominational": [
     "aconfessionale"
@@ -721,7 +715,8 @@
     "notevolmente"
   ],
   "noticeably": [
-    "sensibilmente"
+    "sensibilmente",
+    "notevolmente"
   ],
   "notoriously": [
     "notoriamente"
@@ -842,7 +837,8 @@
     "nobile"
   ],
   "neat": [
-    "ordinato"
+    "ordinato",
+    "pulito"
   ],
   "nine": [
     "nove"

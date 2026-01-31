@@ -360,7 +360,8 @@
     "combinatorio"
   ],
   "comfortable": [
-    "comodo"
+    "comodo",
+    "confortevole"
   ],
   "comic": [
     "comico"
@@ -2226,12 +2227,13 @@
     "compressore"
   ],
   "computation": [
-    "computazione"
+    "computazione",
+    "calcolo"
   ],
   "computer": [
     "computer"
   ],
-  "computerscience": [
+  "computer science": [
     "informatica"
   ],
   "computerisation": [
@@ -3704,10 +3706,8 @@
     "comprendere"
   ],
   "compute": [
-    "computare"
-  ],
-  "computerise": [
-    "informatizzare"
+    "computare",
+    "calcolare"
   ],
   "concatenate": [
     "concatenare"
@@ -4108,10 +4108,8 @@
     "cobalto"
   ],
   "cocoon": [
-    "bozzolo"
-  ],
-  "codicil": [
-    "codicillo"
+    "bozzolo",
+    "crisalide"
   ],
   "coefficient": [
     "coefficiente"

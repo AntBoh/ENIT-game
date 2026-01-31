@@ -776,7 +776,8 @@
     "ricombinazione"
   ],
   "recommendation": [
-    "raccomandazione"
+    "raccomandazione",
+    "consiglio"
   ],
   "reconciliation": [
     "riconciliazione"
@@ -1422,7 +1423,8 @@
     "corda"
   ],
   "ropeway": [
-    "teleferica"
+    "teleferica",
+    "funivia"
   ],
   "rosary": [
     "rosario"
@@ -1817,10 +1819,12 @@
     "riscrivere"
   ],
   "refrain": [
-    "astenersi"
+    "astenersi",
+    "ritornello"
   ],
   "relax": [
-    "rilassarsi"
+    "rilassarsi",
+    "relax"
   ],
   "raise": [
     "alzare"

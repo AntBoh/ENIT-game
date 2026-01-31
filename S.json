@@ -821,7 +821,7 @@
     "meridionale",
     "sud"
   ],
-  "soviet": [
+  "Soviet": [
     "sovietico"
   ],
   "speculative": [
@@ -2358,7 +2358,8 @@
     "barella"
   ],
   "striker": [
-    "attaccante"
+    "attaccante",
+    "battitore"
   ],
   "subclass": [
     "sottoclasse"
@@ -3475,10 +3476,8 @@
     "sufficientemente"
   ],
   "supposedly": [
-    "presuntamente"
-  ],
-  "sureenough": [
-    "effettivamente"
+    "presuntamente",
+    "apparentemente"
   ],
   "surely": [
     "sicuramente"

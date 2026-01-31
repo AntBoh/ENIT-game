@@ -102,7 +102,9 @@
     "delizioso"
   ],
   "delinquent": [
-    "moroso"
+    "delinquente",
+    "malvivente",
+    "malfattore"
   ],
   "demagogic": [
     "demagogico"
@@ -1728,8 +1730,8 @@
     "distrofia"
   ],
   "dye": [
-    "colorare",
-    "tintura"
+    "tingere",
+    "tinta"
   ],
   "decency": [
     "decenza"
@@ -2244,7 +2246,8 @@
     "differire"
   ],
   "differentiate": [
-    "differenziare"
+    "differenziare",
+    "derivare"
   ],
   "dig": [
     "scavare"
@@ -2272,7 +2275,8 @@
     "discordare"
   ],
   "disappear": [
-    "scomparire"
+    "scomparire",
+    "sparire"
   ],
   "disappoint": [
     "deludere"
@@ -2408,17 +2412,17 @@
     "abbozzare"
   ],
   "drag": [
-    "trascinare"
+    "trascinare",
+    "attrito"
   ],
   "drain": [
-    "colare"
+    "colare",
+    "prosciugare",
+    "scarico"
   ],
   "draw": [
-    "disegnare"
-  ],
-  "drinklikeafish": [
-    "berecomeunaspugna",
-    "berecomeunpesce"
+    "disegnare",
+    "pescare"
   ],
   "drip": [
     "colare"

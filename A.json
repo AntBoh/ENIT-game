@@ -30,15 +30,9 @@
     "qualsiasi",
     "qualunque"
   ],
-  "asmuch": [
-    "tanto"
-  ],
-  "american": [
+  "American": [
     "americano",
     "statunitense"
-  ],
-  "asturian": [
-    "asturiano"
   ],
   "abdominal": [
     "addominale"
@@ -59,7 +53,11 @@
     "assoluto"
   ],
   "absorbed": [
-    "assorto"
+    "assorto",
+    "assorbito"
+  ],
+  "absolved":[
+    "assolto"
   ],
   "absorbent": [
     "assorbente"
@@ -2151,6 +2149,7 @@
   "argument": [
     "argomentazione",
     "argomento",
+    "litigio",
     "discussione",
     "ragionamento"
   ],
@@ -2568,14 +2567,11 @@
   "axis": [
     "asse"
   ],
-  "azimuth": [
-    "azimut"
-  ],
   "archduke": [
     "arciduca"
   ],
   "archdutchess": [
-    "arciduca"
+    "arciduchessa"
   ],
   "arthropod": [
     "artropode"
