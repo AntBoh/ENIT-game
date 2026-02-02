@@ -492,15 +492,13 @@
   "gigantism": [
     "gigantismo"
   ],
-  "gin": [
-    "gin"
-  ],
   "girl": [
-    "bambino",
-    "ragazzo"
+    "bambina",
+    "ragazza"
   ],
   "girlfriend": [
-    "fidanzato"
+    "fidanzata",
+    "ragazza"
   ],
   "glaciation": [
     "glaciazione"
@@ -737,11 +735,9 @@
   "guarddog": [
     "canedaguardia"
   ],
-  "guerrillawarfare": [
-    "guerriglia"
-  ],
   "guerrilla": [
-    "guerrigliero"
+    "guerrigliero",
+    "guerriglia"
   ],
   "guess": [
     "indovinare",

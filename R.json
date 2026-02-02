@@ -1795,22 +1795,25 @@
     "ricominciare"
   ],
   "restate": [
-    "riesporre"
+    "riaffermare",
+    "ribadire"
   ],
   "resuscitate": [
-    "risuscitare"
-  ],
-  "retard": [
-    "ritardare"
+    "risuscitare",
+    "resuscitare",
+    "rianimare"
   ],
   "retouch": [
-    "ritoccare"
+    "ritoccare",
+    "ritocco"
   ],
   "revalidate": [
     "rivalidare"
   ],
   "revive": [
-    "rivivere"
+    "risuscitare",
+    "resuscitare",
+    "rianimare"
   ],
   "revoke": [
     "revocare"
@@ -1876,7 +1879,9 @@
     "ricevere"
   ],
   "recess": [
-    "arretrare"
+    "recesso",
+    "sospendere",
+    "ricreazione"
   ],
   "recite": [
     "recitare"

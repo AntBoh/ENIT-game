@@ -284,7 +284,10 @@
   ],
   "wave": [
     "agitare",
-    "ondata"
+    "ondata",
+    "orda",
+    "onda",
+    "salutare"
   ],
   "wax": [
     "cera"
@@ -293,10 +296,8 @@
     "cammino",
     "maniera",
     "via",
-    "precedenza"
-  ],
-  "wayoflife": [
-    "mododivita"
+    "precedenza",
+    "molto"
   ],
   "weakness": [
     "debolezza"
@@ -429,6 +430,9 @@
   "windscreen": [
     "parabrezza"
   ],
+    "windshield": [
+    "parabrezza"
+  ],
   "wine": [
     "vino"
   ],
@@ -476,12 +480,10 @@
   "woman": [
     "donna"
   ],
-  "womaninlabour": [
-    "partoriente"
-  ],
   "wonder": [
     "domandarsi",
-    "meraviglia"
+    "meraviglia",
+    "chiedersi"
   ],
   "wood": [
     "bosco",

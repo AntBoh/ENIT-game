@@ -333,11 +333,9 @@
   ],
   "mine": [
     "mina",
+    "minare",
     "miniera",
-    "mio",
-    "mia",
-    "mie",
-    "miei"
+    "mio"
   ],
   "minimum": [
     "minimo"
@@ -509,6 +507,9 @@
   "militaristic": [
     "militarista"
   ],
+  "miner":[
+    "minatore"
+  ],
   "mineral": [
     "minerale"
   ],
@@ -673,7 +674,7 @@
     "manovrare"
   ],
   "marchioness": [
-    "marchese"
+    "marchesa"
   ],
   "merger": [
     "fusione"
@@ -682,7 +683,8 @@
     "disgrazia"
   ],
   "momentum": [
-    "momento"
+    "momento",
+    "quantità di moto"
   ],
   "maoism": [
     "maoismo"
@@ -696,8 +698,11 @@
   "May": [
     "maggio"
   ],
-  "make-up": [
+  "makeup": [
     "trucco"
+  ],
+  "make up":[
+    "inventare"
   ],
   "Monsoon": [
     "Monsone"
@@ -1911,9 +1916,6 @@
   "myrrh": [
     "mirra"
   ],
-  "methylatedspirit": [
-    "alcooldenaturato"
-  ],
   "magically": [
     "magicamente"
   ],
@@ -2035,13 +2037,16 @@
     "conoscere"
   ],
   "melt": [
-    "fondere"
+    "fondere",
+    "sciogliere"
   ],
   "memorise": [
     "memorizzare"
   ],
   "merge": [
-    "amalgamare"
+    "amalgamare",
+    "unire",
+    "fondere"
   ],
   "migrate": [
     "emigrare"

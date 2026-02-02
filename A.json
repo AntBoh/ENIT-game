@@ -105,7 +105,9 @@
     "accompagnante"
   ],
   "accurate": [
-    "attento"
+    "attento",
+    "accurato",
+    "preciso"
   ],
   "accustomed": [
     "abituato"
@@ -1627,10 +1629,10 @@
   "alum": [
     "allume"
   ],
-  "alumina": [
-    "ossidodialluminio"
-  ],
   "aluminium": [
+    "alluminio"
+  ],
+  "aluminum":[
     "alluminio"
   ],
   "alumna": [
@@ -3011,9 +3013,6 @@
     "perlomeno",
     "quantomeno"
   ],
-  "at most": [
-    "al massimo"
-  ],
   "at night": [
     "di notte"
   ],
@@ -3232,7 +3231,8 @@
     "allineare"
   ],
   "allege": [
-    "dichiarare"
+    "dichiarare",
+    "affermare"
   ],
   "alleviate": [
     "alleviare"
@@ -3298,10 +3298,8 @@
     "applaudire"
   ],
   "apply": [
-    "applicare"
-  ],
-  "applyfor": [
-    "sollecitare"
+    "applicare",
+    "fare domanda"
   ],
   "appoint": [
     "nominare"

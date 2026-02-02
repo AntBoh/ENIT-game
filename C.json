@@ -961,6 +961,9 @@
   "clap": [
     "applauso"
   ],
+  "cosine":[
+    "coseno"
+  ],
   "carbuncle": [
     "carbonchio"
   ],
@@ -1910,13 +1913,17 @@
     "acquazzone"
   ],
   "clown": [
-    "pagliaccio"
+    "pagliaccio",
+    "ridicolizzare"
   ],
   "club": [
-    "club"
+    "club",
+    "mazza",
+    "clava"
   ],
   "clue": [
-    "pista"
+    "pista",
+    "indizio"
   ],
   "cluster": [
     "gruppo"
@@ -2683,13 +2690,8 @@
     "corpo"
   ],
   "corpse": [
-    "carcassa"
-  ],
-  "corpus-basedmachinetranslation": [
-    "traduzioneautomaticabasatasucorpora"
-  ],
-  "context-basedmachinetranslation": [
-    "traduzioneautomaticabasatasulcontesto"
+    "carcassa",
+    "cadavere"
   ],
   "correction": [
     "correzione"
@@ -2977,7 +2979,8 @@
     "tazza"
   ],
   "cupboard": [
-    "armadio"
+    "armadio",
+    "credenza"
   ],
   "cupid": [
     "cupido"
@@ -3888,9 +3891,6 @@
   ],
   "create": [
     "creare"
-  ],
-  "crimp": [
-    "arruolare"
   ],
   "criticise": [
     "criticare"

@@ -35,7 +35,8 @@
   ],
   "this": [
     "codesto",
-    "questo"
+    "questo",
+    "ciò"
   ],
   "tarnish": [
     "offuscare"
@@ -375,7 +376,9 @@
     "vero"
   ],
   "truthful": [
-    "sincero"
+    "sincero",
+    "veritiero",
+    "vero"
   ],
   "tubular": [
     "tubulare"
@@ -700,7 +703,8 @@
     "tavolo"
   ],
   "tableware": [
-    "vasellame"
+    "vasellame",
+    "stoviglie"
   ],
   "tabulation": [
     "tabulazione"
@@ -1058,7 +1062,9 @@
   ],
   "thrill": [
     "emozione",
-    "fremere"
+    "ebbrezza",
+    "brivido",
+    "palpito"
   ],
   "throat": [
     "gola"
@@ -1526,7 +1532,8 @@
     "troposfera"
   ],
   "trouble": [
-    "problema"
+    "problema",
+    "guaio"
   ],
   "trousers": [
     "pantaloni"

@@ -2254,9 +2254,6 @@
   "postproduction": [
     "postproduzione"
   ],
-  "postrecording": [
-    "sonorizzazione"
-  ],
   "posture": [
     "postura"
   ],
@@ -2967,19 +2964,14 @@
     "progressione"
   ],
   "purple": [
-    "porpora"
+    "porpora",
+    "viola"
   ],
   "pathogen": [
     "patogeno"
   ],
   "porch": [
     "portico"
-  ],
-  "pampa": [
-    "pampa"
-  ],
-  "pogrom": [
-    "pogrom"
   ],
   "poker": [
     "poker"
@@ -2988,7 +2980,8 @@
     "portafoglio"
   ],
   "premium": [
-    "premio"
+    "premio",
+    "premium"
   ],
   "presbytery": [
     "presbiterio"
@@ -3366,10 +3359,13 @@
     "plagiare"
   ],
   "please": [
-    "piacere"
+    "piacere",
+    "compiacere",
+    "per favore"
   ],
   "plough": [
-    "arare"
+    "arare",
+    "traduzione"
   ],
   "plumb": [
     "piombare"
@@ -3402,6 +3398,9 @@
   ],
   "postpone": [
     "posporre"
+  ],
+  "pons":[
+    "ponte"
   ],
   "pour": [
     "versare"

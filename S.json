@@ -781,9 +781,12 @@
     "scheletrico"
   ],
   "skilled": [
-    "specializzato"
+    "specializzato",
+    "dotato",
+    "esperto",
+    "qualificato"
   ],
-  "slavic": [
+  "Slavic": [
     "slavo"
   ],
   "sleepless": [
@@ -1253,7 +1256,8 @@
     "sciroppo"
   ],
   "stripe": [
-    "gallone",
+    "striscia",
+    "banda",
     "sbarrare"
   ],
   "shop assistant": [
@@ -1457,7 +1461,9 @@
     "scalpo"
   ],
   "scan": [
-    "scanner"
+    "scannerizzare",
+    "scansione",
+    "scrutare"
   ],
   "scandal": [
     "scandalo"
@@ -1472,7 +1478,7 @@
     "sciarpa"
   ],
   "scarification": [
-    "scarificazione"
+    "cicatrizzazione"
   ],
   "scenario": [
     "scenario"
@@ -1502,10 +1508,11 @@
     "schizofrenia"
   ],
   "scholar": [
-    "erudito"
+    "erudito",
+    "studioso"
   ],
   "schoolchild": [
-    "collegiale"
+    "scolaro"
   ],
   "science": [
     "scienza"
@@ -2042,23 +2049,26 @@
   "sintering": [
     "sinterizzazione"
   ],
-  "sinus": [
+  "sine": [
     "seno"
   ],
   "sir": [
-    "signore"
+    "signore",
+    "sire"
   ],
   "sister": [
     "sorella"
   ],
   "site": [
-    "posto"
+    "posto",
+    "sito"
   ],
   "situation": [
     "situazione"
   ],
   "size": [
-    "misura"
+    "misura",
+    "taglia"
   ],
   "skating": [
     "pattinaggio"
@@ -2070,7 +2080,8 @@
     "sci"
   ],
   "skin": [
-    "pelle"
+    "pelle",
+    "spellare"
   ],
   "skirt": [
     "gonna"
@@ -2176,9 +2187,6 @@
   "smoke": [
     "fumare",
     "fumo"
-  ],
-  "smoking": [
-    "tabagismo"
   ],
   "smuggling": [
     "contrabbando"
@@ -2562,7 +2570,10 @@
     "spumante"
   ],
   "spurt": [
-    "impulso"
+    "scatto",
+    "schizzo",
+    "getto",
+    "zampillo"
   ],
   "squid": [
     "calamaro"
@@ -3423,13 +3434,9 @@
     "stoicamente"
   ],
   "straight": [
-    "direttamente"
-  ],
-  "straightaway": [
-    "immediatamente"
-  ],
-  "straightthrough": [
-    "completamente"
+    "diretto",
+    "diritto",
+    "dritto"
   ],
   "strangely": [
     "stranamente"
@@ -3610,7 +3617,8 @@
     "scegliere"
   ],
   "safeguard": [
-    "salvaguardare"
+    "salvaguardare",
+    "salvaguardia"
   ],
   "salivate": [
     "salivare"

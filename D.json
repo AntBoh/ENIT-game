@@ -948,8 +948,7 @@
     "dissalazione"
   ],
   "descent": [
-    "discendenza",
-    "retrocessione"
+    "discesa"
   ],
   "description": [
     "descrizione"
@@ -1240,8 +1239,10 @@
     "disco"
   ],
   "discharge": [
-    "liberare",
-    "portata"
+    "scaricare",
+    "portata",
+    "scarica",
+    "scarico"
   ],
   "disciple": [
     "discepolo"
@@ -2044,16 +2045,13 @@
     "abbagliare"
   ],
   "deal": [
-    "trattare"
-  ],
-  "dealwith": [
-    "trattare"
+    "trattare",
+    "trattato",
+    "affare"
   ],
   "debit": [
-    "addebitare"
-  ],
-  "debug": [
-    "depurare"
+    "addebitare",
+    "debito"
   ],
   "decant": [
     "decantare"
@@ -2406,10 +2404,12 @@
     "drogare"
   ],
   "download": [
-    "scaricare"
+    "scaricare",
+    "download"
   ],
   "draft": [
-    "abbozzare"
+    "abbozzare",
+    "bozza"
   ],
   "drag": [
     "trascinare",

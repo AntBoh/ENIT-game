@@ -869,7 +869,8 @@
     "volare"
   ],
   "blazon": [
-    "blasone"
+    "blasone",
+    "stemma"
   ],
   "bleach": [
     "candeggina",
@@ -1046,7 +1047,8 @@
     "boicottare"
   ],
   "boyfriend": [
-    "fidanzato"
+    "fidanzato",
+    "ragazzo"
   ],
   "bra": [
     "reggiseno"
@@ -1435,7 +1437,9 @@
   ],
   "beat": [
     "picchiare",
-    "ritmo"
+    "ritmo",
+    "battito",
+    "battere"
   ],
   "build": [
     "corporatura",
