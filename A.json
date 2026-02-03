@@ -293,19 +293,16 @@
   "agricultural": [
     "agricolo"
   ],
-  "agrifood": [
-    "agroalimentare"
-  ],
-  "agro-industrial": [
-    "agroindustriale"
-  ],
   "akin": [
-    "somigliante"
+    "somigliante",
+    "simile",
+    "affine",
+    "analogo"
   ],
   "alarming": [
     "allarmante"
   ],
-  "albanian": [
+  "Albanian": [
     "albanese"
   ],
   "albino": [
@@ -1877,7 +1874,8 @@
     "annuncio"
   ],
   "annoyance": [
-    "disturbo"
+    "disturbo",
+    "fastidio"
   ],
   "annunciation": [
     "annunciazione"
@@ -2315,7 +2313,8 @@
     "asserzione"
   ],
   "assessment": [
-    "titolazione"
+    "valutazione",
+    "accertamento"
   ],
   "assimilation": [
     "assimilazione"
@@ -3206,7 +3205,7 @@
     "affliggere"
   ],
   "afford": [
-    "permettere"
+    "permettersi"
   ],
   "age": [
     "invecchiare"
@@ -3302,7 +3301,8 @@
     "fare domanda"
   ],
   "appoint": [
-    "nominare"
+    "nominare",
+    "designare"
   ],
   "appraise": [
     "valutare"
@@ -3336,7 +3336,7 @@
     "articolare"
   ],
   "ascertain": [
-    "constatare"
+    "accertare"
   ],
   "ask": [
     "chiedere",

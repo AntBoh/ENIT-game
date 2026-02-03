@@ -314,14 +314,15 @@
   "robust": [
     "robusto"
   ],
-  "roman": [
+  "Roman": [
     "romano"
   ],
-  "romanian": [
+  "Romanian": [
     "rumeno"
   ],
   "roomy": [
-    "capiente"
+    "capiente",
+    "spazioso"
   ],
   "round": [
     "arrotondare",
@@ -1410,7 +1411,8 @@
     "torre"
   ],
   "room": [
-    "stanza"
+    "stanza",
+    "spazio"
   ],
   "root": [
     "radicare",
@@ -1632,7 +1634,9 @@
     "prontamente"
   ],
   "really": [
-    "realmente"
+    "realmente",
+    "davvero",
+    "molto"
   ],
   "reasonably": [
     "ragionevolmente"
@@ -1646,11 +1650,9 @@
   "recursively": [
     "ricorsivamente"
   ],
-  "regardless": [
-    "atuttiicosti"
-  ],
   "regrettably": [
-    "lamentevolmente"
+    "lamentevolmente",
+    "purtroppo"
   ],
   "regularly": [
     "regolarmente"

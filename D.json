@@ -10,7 +10,7 @@
   "dangerous": [
     "pericoloso"
   ],
-  "danish": [
+  "Danish": [
     "danese"
   ],
   "dark": [
@@ -1345,11 +1345,11 @@
     "sproporzione"
   ],
   "dispute": [
-    "contenzioso",
+    "disputa",
     "disputare"
   ],
   "disqualification": [
-    "declassamento"
+    "squalifica"
   ],
   "disquisition": [
     "disquisizione"
@@ -1523,7 +1523,8 @@
     "dormitorio"
   ],
   "dose": [
-    "dose"
+    "dose",
+    "dosare"
   ],
   "dosimetry": [
     "dosimetria"
@@ -2103,7 +2104,8 @@
     "degradare"
   ],
   "delete": [
-    "eliminare"
+    "eliminare",
+    "cancellare"
   ],
   "delimit": [
     "delimitare"
@@ -2302,7 +2304,8 @@
     "interrompere"
   ],
   "discount": [
-    "scontare"
+    "scontare",
+    "sconto"
   ],
   "discover": [
     "scoprire"

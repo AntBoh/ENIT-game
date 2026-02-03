@@ -580,19 +580,22 @@
     "balneazione"
   ],
   "bathroom": [
-    "saladabagno"
+    "bagno"
   ],
   "baking powder": [
     "lievito in polvere"
   ],
   "battery": [
-    "pila"
+    "pila",
+    "batteria",
+    "aggressione"
   ],
   "batting": [
     "battuta"
   ],
   "battle": [
-    "battaglia"
+    "battaglia",
+    "combattere"
   ],
   "bay": [
     "baia"
@@ -604,7 +607,7 @@
     "spiaggia"
   ],
   "bead": [
-    "conto"
+    "perlina"
   ],
   "beak": [
     "becco"
@@ -1213,7 +1216,8 @@
   "bump": [
     "bernoccolo",
     "urtare",
-    "urto"
+    "urto",
+    "dosso"
   ],
   "bunch": [
     "mazzo"

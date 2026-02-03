@@ -110,7 +110,8 @@
     "passivo"
   ],
   "past": [
-    "passato"
+    "passato",
+    "dopo"
   ],
   "pastoral": [
     "pastorale"
@@ -1910,11 +1911,10 @@
     "posizionare",
     "posto"
   ],
-  "placer": [
-    "piacere"
-  ],
   "placing": [
-    "collocazione"
+    "collocazione",
+    "posizionamento",
+    "piazzamento"
   ],
   "plagiarism": [
     "plagio"
@@ -2552,10 +2552,13 @@
     "professore"
   ],
   "profile": [
-    "profilo"
+    "profilo",
+    "sagoma",
+    "profilare"
   ],
   "profit": [
-    "utile"
+    "profitto",
+    "profittare"
   ],
   "prognathism": [
     "prognatismo"
@@ -2605,7 +2608,8 @@
     "proliferazione"
   ],
   "promenade": [
-    "passeggio"
+    "passeggio",
+    "passeggiata"
   ],
   "promise": [
     "promessa",
@@ -3504,7 +3508,8 @@
     "tutelare"
   ],
   "prove": [
-    "comprovare"
+    "dimostrare",
+    "provare"
   ],
   "provide": [
     "fornire"
@@ -3522,10 +3527,12 @@
     "pulsare"
   ],
   "punch": [
-    "attaccare"
+    "pugno",
+    "dare un pugno"
   ],
   "puncture": [
-    "pungere"
+    "pungere",
+    "forare"
   ],
   "punish": [
     "castigare",

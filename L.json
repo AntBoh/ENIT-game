@@ -499,7 +499,6 @@
     "avvocato"
   ],
   "layer": [
-    "cappa",
     "strato"
   ],
   "layout": [
@@ -514,7 +513,10 @@
     "direzione"
   ],
   "leader": [
-    "dirigente"
+    "dirigente",
+    "guida",
+    "capo",
+    "leader"
   ],
   "leaf": [
     "foglia"
@@ -871,9 +873,6 @@
     "autocarro",
     "camion"
   ],
-  "lorrydriver": [
-    "camionista"
-  ],
   "loss": [
     "perdita"
   ],
@@ -945,12 +944,6 @@
   ],
   "lyricism": [
     "lirismo"
-  ],
-  "ligroin": [
-    "eteredipetrolio"
-  ],
-  "linguisticpackage": [
-    "pacchettolinguistico"
   ],
   "leadership": [
     "direzione"

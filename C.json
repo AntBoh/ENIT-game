@@ -959,7 +959,8 @@
     "incanto"
   ],
   "clap": [
-    "applauso"
+    "applauso",
+    "applaudire"
   ],
   "cosine":[
     "coseno"
@@ -3884,10 +3885,14 @@
     "controbilanciare"
   ],
   "creak": [
-    "cigolare"
+    "cigolare",
+    "scricchiolare"
   ],
   "crease": [
-    "danneggiare"
+    "piegare",
+    "piegatura",
+    "sgualcire",
+    "stropicciare"
   ],
   "create": [
     "creare"
@@ -4223,7 +4228,7 @@
     "equipaggio"
   ],
   "carelessly": [
-    "inavvertitamente"
+    "incautamente"
   ],
   "consequently": [
     "conseguentemente"

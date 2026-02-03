@@ -1706,7 +1706,8 @@
     "semaforo"
   ],
   "semblance": [
-    "parvenza"
+    "parvenza",
+    "sembianza"
   ],
   "semicircle": [
     "semicerchio"
@@ -1799,10 +1800,9 @@
   "set": [
     "insieme",
     "mettere",
-    "impostare"
-  ],
-  "setscrew": [
-    "prigioniero"
+    "impostare",
+    "preparare",
+    "set"
   ],
   "setting": [
     "ambientazione",
@@ -2171,7 +2171,9 @@
   ],
   "smash": [
     "rompere",
-    "scontro"
+    "scontro",
+    "distruggere",
+    "sfasciare"
   ],
   "smell": [
     "odore",
@@ -2532,9 +2534,6 @@
   "spokesperson": [
     "portavoce"
   ],
-  "spokeswoman": [
-    "portavoce"
-  ],
   "sponge": [
     "spugna"
   ],
@@ -2731,7 +2730,10 @@
   ],
   "stock": [
     "scorta",
-    "azione"
+    "azione",
+    "bestiame",
+    "riserva",
+    "provvista"
   ],
   "stockholder": [
     "azionista"
@@ -3533,7 +3535,8 @@
     "setacciare"
   ],
   "scrape": [
-    "raschiare"
+    "raschiare",
+    "grattare"
   ],
   "secrete": [
     "secernere"

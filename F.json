@@ -268,7 +268,7 @@
     "follicolare"
   ],
   "follower": [
-    "seguitore"
+    "seguace"
   ],
   "following": [
     "seguente"
@@ -570,9 +570,6 @@
   "farming": [
     "agricoltura"
   ],
-  "fart": [
-    "peto"
-  ],
   "fascism": [
     "fascismo"
   ],
@@ -583,7 +580,8 @@
     "fatalismo"
   ],
   "fate": [
-    "destino"
+    "destino",
+    "fato"
   ],
   "father": [
     "padre"
@@ -1202,8 +1200,8 @@
   "fratricide": [
     "fratricidio"
   ],
-  "freewill": [
-    "liberoarbitrio"
+  "free will": [
+    "libero arbitrio"
   ],
   "frontispiece": [
     "frontespizio"
@@ -1459,9 +1457,6 @@
   ],
   "fail": [
     "fallire"
-  ],
-  "falldown": [
-    "cadere"
   ],
   "falsify": [
     "falsificare"

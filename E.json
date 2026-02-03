@@ -514,7 +514,7 @@
     "Euclide"
   ],
   "Euler": [
-    "Eulerp"
+    "Eulero"
   ],
   "Europe": [
     "Europa"
@@ -573,7 +573,8 @@
   ],
   "ear": [
     "orecchio",
-    "spiga"
+    "spiga",
+    "pannocchia"
   ],
   "eardrum": [
     "timpano"
@@ -1923,7 +1924,9 @@
   ],
   "enrol": [
     "iscrivere",
-    "iscriversi"
+    "iscriversi",
+    "arruolare",
+    "arruolarsi"
   ],
   "ensure": [
     "assicurare"

@@ -361,14 +361,14 @@
   "officer": [
     "agente"
   ],
-  "october": [
+  "October": [
     "ottobre"
   ],
-  "olympicgames": [
-    "olimpiade"
+  "Olympic Games": [
+    "Olimpiadi"
   ],
-  "olympics": [
-    "olimpiade"
+  "Olympics": [
+    "Olimpiade"
   ],
   "occlusion": [
     "occlusione"
@@ -380,7 +380,8 @@
     "petroliera"
   ],
   "orient": [
-    "oriente"
+    "oriente",
+    "orientare"
   ],
   "occurrence": [
     "occorrenza"
@@ -570,9 +571,6 @@
   ],
   "opera": [
     "opera"
-  ],
-  "operatingtheatre": [
-    "salaoperatoria"
   ],
   "operation": [
     "funzionamento",
@@ -888,14 +886,9 @@
     "occasionalmente",
     "saltuariamente"
   ],
-  "ofcourse": [
-    "naturalmente"
-  ],
-  "oflate": [
-    "direcente"
-  ],
   "off": [
-    "di",
+    "spento",
+    "giù",
     "fuori"
   ],
   "officially": [
@@ -907,6 +900,7 @@
   "on": [
     "sopra",
     "su",
+    "acceso",
     "di"
   ],
   "openly": [

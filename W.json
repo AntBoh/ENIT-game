@@ -30,6 +30,9 @@
   "watery": [
     "acquoso"
   ],
+  "water lily":[
+    "ninfea"
+  ],
   "wayward": [
     "capriccioso"
   ],
@@ -93,13 +96,7 @@
     "vincitore"
   ],
   "wireless": [
-    "senzafili"
-  ],
-  "withoutimportance": [
-    "senzaimportanza"
-  ],
-  "withoutmeaning": [
-    "senzasenso"
+    "senza fili"
   ],
   "wonderful": [
     "meraviglioso"
@@ -249,7 +246,9 @@
   ],
   "watch": [
     "orologio",
-    "vigilare"
+    "vigilare",
+    "guardare",
+    "vigilanza"
   ],
   "watchdog": [
     "sorvegliante"
@@ -275,9 +274,6 @@
   ],
   "watering": [
     "irrigazione"
-  ],
-  "waterlily": [
-    "ninfea"
   ],
   "watermelon": [
     "anguria"

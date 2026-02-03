@@ -210,7 +210,7 @@
     "significativo"
   ],
   "meaningless": [
-    "senzasenso"
+    "insignificante"
   ],
   "measurable": [
     "misurabile"
@@ -2049,7 +2049,8 @@
     "fondere"
   ],
   "migrate": [
-    "emigrare"
+    "emigrare",
+    "migrare"
   ],
   "mitigate": [
     "mitigare"
