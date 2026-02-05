@@ -145,7 +145,12 @@
     "implacabile"
   ],
   "relevant": [
-    "pertinente"
+    "pertinente",
+    "rilevante"
+  ],
+  "rake":[
+    "rastrello",
+    "rastrellare"
   ],
   "religious": [
     "religioso"
@@ -1217,6 +1222,7 @@
   ],
   "rest": [
     "resto",
+    "quiete",
     "riposare",
     "riposo"
   ],
@@ -1954,7 +1960,8 @@
     "riferire"
   ],
   "regret": [
-    "lamentare"
+    "pentirsi",
+    "pentimento"
   ],
   "regulate": [
     "regolamentare",
@@ -2057,7 +2064,8 @@
     "retrocedere"
   ],
   "retrieve": [
-    "ritrovare"
+    "ritrovare",
+    "recuperare"
   ],
   "reunite": [
     "riunire"

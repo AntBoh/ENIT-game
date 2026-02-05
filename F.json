@@ -274,19 +274,20 @@
     "seguente"
   ],
   "fond": [
-    "affettuoso"
+    "affettuoso",
+    "appassionato",
+    "affezionato"
   ],
   "food": [
-    "alimentario",
     "alimento",
     "cibo"
   ],
   "foolish": [
-    "tonto"
+    "tonto",
+    "ingenuo"
   ],
   "football": [
-    "calcio",
-    "calcistico"
+    "calcio"
   ],
   "forbidden": [
     "proibito"

@@ -812,7 +812,8 @@
   ],
   "present": [
     "presentare",
-    "presente"
+    "presente",
+    "regalo"
   ],
   "primary": [
     "primario"
@@ -822,9 +823,6 @@
   ],
   "prismatic": [
     "prismatico"
-  ],
-  "prize-winning": [
-    "premiato"
   ],
   "profane": [
     "profano"
@@ -1086,7 +1084,7 @@
     "pacifismo"
   ],
   "pack": [
-    "impaccare",
+    "impacchettare",
     "pacco",
     "branco"
   ],
@@ -3036,14 +3034,15 @@
   ],
   "pause": [
     "pausa",
-    "sostare"
+    "fermarsi",
+    "mettere in pausa"
   ],
   "pay": [
     "paga",
     "pagare"
   ],
   "payday": [
-    "giornodipaga"
+    "giorno di paga"
   ],
   "pear": [
     "pera"

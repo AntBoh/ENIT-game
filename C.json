@@ -5,6 +5,10 @@
   "conceptualist": [
     "concettualista"
   ],
+  "coathanger":[
+    "gruccia",
+    "appendipanni"
+  ],
   "constructivist": [
     "construttivista"
   ],
@@ -16,6 +20,10 @@
   ],
   "cadastral": [
     "catastale"
+  ],
+  "couch":[
+    "divano",
+    "sofà"
   ],
   "caducous": [
     "caduco"
@@ -94,9 +102,6 @@
   ],
   "casual": [
     "casuale"
-  ],
-  "catalan": [
-    "catalano"
   ],
   "catalytic": [
     "catalitico"
@@ -976,7 +981,8 @@
   ],
   "call": [
     "chiamare",
-    "richiamo"
+    "richiamo",
+    "chiamata"
   ],
   "cabbage": [
     "cavolo"
@@ -1520,10 +1526,12 @@
   "change": [
     "cambiamento",
     "cambiare",
-    "cambio"
+    "cambio",
+    "resto"
   ],
   "channel": [
-    "canale"
+    "canale",
+    "canalare"
   ],
   "chaos": [
     "caos"
@@ -2321,7 +2329,9 @@
     "conduzione"
   ],
   "conductor": [
-    "direttore"
+    "direttore",
+    "conducente",
+    "conduttore"
   ],
   "condyle": [
     "condilo"
@@ -2746,7 +2756,9 @@
   "counter": [
     "bancone",
     "contatore",
-    "opporre"
+    "opporre",
+    "contrattaccare",
+    "contro"
   ],
   "counterculture": [
     "controcultura"
@@ -2860,7 +2872,8 @@
     "cretino"
   ],
   "crib": [
-    "presepe"
+    "presepe",
+    "culla"
   ],
   "crime": [
     "crimine",
@@ -3144,7 +3157,9 @@
     "convenienza"
   ],
   "cloth": [
-    "tessuto"
+    "tessuto",
+    "panno",
+    "stoffa"
   ],
   "cephalopod": [
     "cefalopode"
@@ -3176,14 +3191,13 @@
   "chancellor": [
     "cancelliere"
   ],
-  "charleston": [
-    "charleston"
-  ],
   "climax": [
-    "culmine"
+    "culmine",
+    "climax"
   ],
   "coach": [
-    "allenatore"
+    "allenatore",
+    "pullman"
   ],
   "collaborator": [
     "collaboratore"
@@ -3191,13 +3205,7 @@
   "colleague": [
     "collega"
   ],
-  "contractingparty": [
-    "partecontraente"
-  ],
-  "chesspiece": [
-    "pezzodegliscacchi"
-  ],
-  "chessplayer": [
+  "chess player": [
     "scacchista"
   ],
   "citation": [
@@ -3650,6 +3658,7 @@
   ],
   "collect": [
     "raccogliere",
+    "ritirare",
     "collezionare"
   ],
   "colonise": [

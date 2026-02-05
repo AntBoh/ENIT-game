@@ -12,6 +12,9 @@
   "good-looking": [
     "bello"
   ],
+  "goosebumps":[
+    "pelle d'oca"
+  ],
   "grand": [
     "grandioso"
   ],
@@ -483,7 +486,9 @@
   ],
   "gift": [
     "dono",
-    "regalo"
+    "regalo",
+    "donare",
+    "regalare"
   ],
   "gig": [
     "calesse",

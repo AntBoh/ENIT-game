@@ -72,16 +72,18 @@
     "magnifico"
   ],
   "maiden": [
-    "verginale"
+    "vergine",
+    "fanciulla",
+    "zitella"
   ],
   "main": [
-    "maggiore"
+    "maggiore",
+    "principale",
+    "primario"
   ],
   "major": [
-    "importante"
-  ],
-  "majorcan": [
-    "maiorchino"
+    "importante",
+    "maggiore"
   ],
   "majority": [
     "maggioranza",
@@ -872,19 +874,22 @@
     "malva"
   ],
   "malnutrition": [
-    "denutrizione"
+    "denutrizione",
+    "malnutrizione"
   ],
   "malt": [
     "malto"
   ],
   "maltreatment": [
-    "abuso"
+    "abuso",
+    "maltrattamento"
   ],
   "mammography": [
     "mammografia"
   ],
   "man": [
-    "uomo"
+    "uomo",
+    "umanità"
   ],
   "management": [
     "dirigenza",
@@ -1012,7 +1017,8 @@
     "messa"
   ],
   "massacre": [
-    "massacro"
+    "massacro",
+    "massacrare"
   ],
   "mastectomy": [
     "mastectomia"
@@ -1474,9 +1480,10 @@
     "melassa"
   ],
   "mold": [
-    "stampo"
+    "stampo",
+    "muffa"
   ],
-  "moldavian": [
+  "Moldavian": [
     "moldavo"
   ],
   "mole": [
@@ -1712,7 +1719,8 @@
     "mummificazione"
   ],
   "mummy": [
-    "mummia"
+    "mummia",
+    "mamma"
   ],
   "municipality": [
     "municipio"
@@ -1722,13 +1730,16 @@
   ],
   "murder": [
     "assassinare",
-    "assassinio"
+    "assassinio",
+    "omicidio",
+    "uccidere"
   ],
   "murderer": [
     "assassino"
   ],
   "murmur": [
-    "mormorio"
+    "mormorio",
+    "mormorare"
   ],
   "muscle": [
     "muscolo"
@@ -2015,7 +2026,7 @@
   ],
   "manage": [
     "riuscire",
-    "raggiungere"
+    "gestire"
   ],
   "manifest": [
     "manifestare"

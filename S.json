@@ -537,9 +537,6 @@
   "succulent": [
     "succulento"
   ],
-  "sudanese": [
-    "sudanese"
-  ],
   "sudden": [
     "improvviso"
   ],
@@ -1054,7 +1051,8 @@
     "con successo"
   ],
   "shutter": [
-    "otturatore"
+    "otturatore",
+    "serranda"
   ],
   "spillage": [
     "spargimento"
@@ -1442,6 +1440,9 @@
     "segheria"
   ],
   "saxophone": [
+    "sassofono"
+  ],
+    "sax": [
     "sassofono"
   ],
   "saxophonist": [
@@ -1936,9 +1937,6 @@
   "shortfilm": [
     "cortometraggio"
   ],
-  "shortcrustpastry": [
-    "pastafrolla"
-  ],
   "shortening": [
     "abbreviazione"
   ],
@@ -2045,6 +2043,10 @@
   ],
   "sinking": [
     "affondamento"
+  ],
+  "sofa":[
+    "divano",
+    "sofà"
   ],
   "sintering": [
     "sinterizzazione"
@@ -2435,7 +2437,7 @@
     "astronave"
   ],
   "spaghetti": [
-    "spaghetto"
+    "spaghetti"
   ],
   "spangle": [
     "lustrino"
@@ -2914,7 +2916,7 @@
   "subsoil": [
     "sottosuolo"
   ],
-  "substituteteacher": [
+  "substitute teacher": [
     "supplente"
   ],
   "substitution": [
@@ -3181,7 +3183,7 @@
     "tristezza"
   ],
   "sailboat": [
-    "barcaavela"
+    "barca a vela"
   ],
   "sap": [
     "linfa"
@@ -3193,7 +3195,9 @@
     "scapola"
   ],
   "scrub": [
-    "macchia"
+    "macchia",
+    "strofinare",
+    "pulire"
   ],
   "secrecy": [
     "segretezza"
@@ -3613,11 +3617,9 @@
   "shun": [
     "evitare"
   ],
-  "sendback": [
-    "ridare"
-  ],
   "select": [
-    "scegliere"
+    "scegliere",
+    "selezionare"
   ],
   "safeguard": [
     "salvaguardare",
@@ -3678,10 +3680,9 @@
     "vendere"
   ],
   "send": [
-    "inviare"
-  ],
-  "sendin": [
-    "inviare"
+    "inviare",
+    "mandare",
+    "spedire"
   ],
   "sensitise": [
     "sensibilizzare"
@@ -3689,34 +3690,27 @@
   "serve": [
     "servire"
   ],
-  "setup": [
-    "convocare",
-    "montare"
-  ],
   "settle": [
     "risolvere"
   ],
   "sew": [
     "cucire"
   ],
-  "shedlighton": [
-    "chiarire"
-  ],
   "ship": [
     "imbarcare",
-    "nave"
+    "nave",
+    "spedire"
   ],
   "slacken": [
     "allentare"
   ],
-  "showup": [
-    "apparire"
-  ],
   "shut": [
-    "chiudere"
+    "chiudere",
+    "serrare"
   ],
-  "shutdown": [
-    "chiudere"
+  "shut down": [
+    "chiudere",
+    "spegnere"
   ],
   "simplify": [
     "semplificare"
@@ -3728,13 +3722,16 @@
     "cantare"
   ],
   "sink": [
-    "colareapicco"
+    "affondare",
+    "lavandino"
   ],
   "sit": [
-    "sedere"
+    "sedere",
+    "sedersi"
   ],
-  "sitdown": [
-    "sedere"
+  "sit down": [
+    "sedere",
+    "sedersi"
   ],
   "situate": [
     "situare",
@@ -3756,32 +3753,41 @@
     "specificare"
   ],
   "speed": [
-    "accelerare"
+    "accelerare",
+    "velocità"
   ],
-  "speedup": [
-    "sollecitare"
+  "speed up": [
+    "velocizzare"
   ],
   "spend": [
     "passare",
     "spendere"
   ],
   "spin": [
-    "girare"
+    "girare",
+    "ruotare",
+    "roteare"
   ],
   "spit": [
-    "sputare"
+    "sputare",
+    "sputo"
   ],
   "split": [
-    "partire"
+    "partire",
+    "dividere"
   ],
   "spoil": [
-    "viziare"
+    "viziare",
+    "marcire"
   ],
   "spread": [
     "diffondere"
   ],
   "squeeze": [
-    "spremere"
+    "spremere",
+    "comprimere",
+    "schiacciare",
+    "strizzare"
   ],
   "stabilise": [
     "stabilizzare"
@@ -3798,9 +3804,6 @@
   "steal": [
     "rubare"
   ],
-  "stepinto": [
-    "entrare"
-  ],
   "sterilise": [
     "sterilizzare"
   ],
@@ -3813,14 +3816,15 @@
   "stipulate": [
     "stipulare"
   ],
-  "stirup": [
-    "rimuovere"
-  ],
   "sublimate": [
     "sublimare"
   ],
   "submit": [
-    "consegnare"
+    "consegnare",
+    "sottomettersi",
+    "sottomettere",
+    "sottoporre",
+    "inviare"
   ],
   "subsidise": [
     "sovvenzionare"

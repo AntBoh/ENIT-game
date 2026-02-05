@@ -185,7 +185,8 @@
   ],
   "blind": [
     "accecare",
-    "cieco"
+    "cieco",
+    "persiana"
   ],
   "blond": [
     "biondo"
@@ -220,7 +221,15 @@
   ],
   "bottom": [
     "fondo",
-    "inferiore"
+    "inferiore",
+    "sedere"
+  ],
+  "bound":[
+    "legato",
+    "destinato",
+    "limite",
+    "costretto",
+    "obbligato"
   ],
   "boundless": [
     "illimitato",
@@ -412,11 +421,8 @@
   "ballet": [
     "balletto"
   ],
-  "balletdancer": [
-    "ballerinoclassico"
-  ],
   "balloon": [
-    "pallone"
+    "palloncino"
   ],
   "ballroomdancer": [
     "ballerinodiliscio"
@@ -640,7 +646,8 @@
     "letto"
   ],
   "bedroom": [
-    "camera"
+    "camera da letto",
+    "stanza da letto"
   ],
   "bedspread": [
     "copriletto"
@@ -882,6 +889,9 @@
   "bleaching": [
     "candeggina"
   ],
+  "bleed":[
+    "sanguinare"
+  ],
   "bleeding": [
     "emorragia",
     "sanguinante",
@@ -934,11 +944,12 @@
     "bordo",
     "consiglio"
   ],
-  "boardgame": [
-    "giocodatavolo"
+  "board game": [
+    "gioco da tavolo"
   ],
   "boarding": [
-    "abbordaggio"
+    "abbordaggio",
+    "imbarco"
   ],
   "boat": [
     "barca"
@@ -1111,7 +1122,8 @@
   ],
   "breed": [
     "accoppiarsi",
-    "razza"
+    "razza",
+    "riprodursi"
   ],
   "breeder": [
     "allevatore"
@@ -1467,9 +1479,6 @@
   "barcarole": [
     "barcarola"
   ],
-  "barracks": [
-    "caserma"
-  ],
   "bust": [
     "busto"
   ],
@@ -1484,18 +1493,6 @@
   ],
   "bikini": [
     "bikini"
-  ],
-  "bel": [
-    "bel"
-  ],
-  "becquerel": [
-    "becquerel"
-  ],
-  "bungalow": [
-    "bungalow"
-  ],
-  "buffet": [
-    "buffet"
   ],
   "buffalo":[
     "bisonte",

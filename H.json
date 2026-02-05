@@ -370,10 +370,8 @@
   ],
   "harm": [
     "danneggiare",
-    "danno"
-  ],
-  "heiress": [
-    "erede"
+    "danno",
+    "nuocere"
   ],
   "hobby": [
     "hobby"
@@ -589,29 +587,23 @@
     "centrale"
   ],
   "headband": [
-    "fascia"
-  ],
-  "headednotepaper": [
-    "cartaintestata"
-  ],
-  "headedpaper": [
-    "cartaintestata"
+    "fascia",
+    "bandana"
   ],
   "header": [
-    "header",
     "intestazione"
   ],
   "headline": [
     "intestatario"
   ],
   "headquarters": [
-    "sede"
+    "quartier generale"
   ],
   "health": [
     "salute"
   ],
   "hearing": [
-    "audizione",
+    "udienza",
     "udito"
   ],
   "heart": [
@@ -711,10 +703,13 @@
     "erbivoro"
   ],
   "herd": [
-    "mandria"
+    "mandria",
+    "gregge",
+    "branco"
   ],
   "heritage": [
-    "patrimonio"
+    "patrimonio",
+    "eredità"
   ],
   "hernia": [
     "ernia"
@@ -727,9 +722,6 @@
   ],
   "heroism": [
     "eroismo"
-  ],
-  "herpes": [
-    "herpes"
   ],
   "hesitation": [
     "esitazione"
@@ -747,7 +739,8 @@
     "esoso"
   ],
   "hibernation": [
-    "letargo"
+    "letargo",
+    "ibernazione"
   ],
   "hiccough": [
     "singhiozzo"
@@ -757,13 +750,10 @@
   ],
   "hide": [
     "nascondere",
-    "nascondino"
+    "nascondersi"
   ],
   "hierarchy": [
     "gerarchia"
-  ],
-  "highschool": [
-    "liceo"
   ],
   "highway": [
     "autostrada"
@@ -1350,9 +1340,6 @@
   ],
   "hinder": [
     "inibire"
-  ],
-  "hireout": [
-    "affittare"
   ],
   "horrify": [
     "inorridire"

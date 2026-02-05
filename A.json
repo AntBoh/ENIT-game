@@ -131,13 +131,14 @@
     "acrilico"
   ],
   "acting": [
-    "supplente"
+    "recitazione"
   ],
   "active": [
     "attivo"
   ],
   "actual": [
-    "reale"
+    "reale",
+    "vero"
   ],
   "actuarial": [
     "attuariale"
@@ -818,9 +819,6 @@
   "All Saints' Day": [
     "Ognissanti"
   ],
-  "almuniaamann": [
-    "almuniaamann"
-  ],
   "Alsace": [
     "Alsazia"
   ],
@@ -1002,7 +1000,7 @@
     "astrazione"
   ],
   "absurdity": [
-    "assurdo"
+    "assurdità"
   ],
   "abundance": [
     "abbondanza"
@@ -1839,9 +1837,6 @@
   ],
   "anglicism": [
     "anglicismo"
-  ],
-  "angling": [
-    "angolazione"
   ],
   "animation": [
     "animazione"
@@ -3141,7 +3136,8 @@
     "acquisire"
   ],
   "actuate": [
-    "attivare"
+    "attivare",
+    "attuare"
   ],
   "adapt": [
     "adattare",
@@ -3154,7 +3150,8 @@
     "addurre"
   ],
   "adjust": [
-    "correggere"
+    "correggere",
+    "aggiustare"
   ],
   "administer": [
     "amministrare"
@@ -3418,7 +3415,8 @@
     "un altro"
   ],
   "anyone": [
-    "qualunque"
+    "chiunque",
+    "nessuno"
   ],
   "anybody": [
     "nessuno",
@@ -3426,6 +3424,7 @@
   ],
   "anything": [
     "qualsiasi cosa",
+    "qualunque cosa",
     "nulla",
     "niente"
   ],

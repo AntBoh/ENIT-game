@@ -2,6 +2,11 @@
   "diverse": [
     "diverso"
   ],
+  "dock":[
+    "ponte",
+    "molo",
+    "atrraccare"
+  ],
   "daily": [
     "giornalmente",
     "quotidianamente",
@@ -246,7 +251,8 @@
     "differente"
   ],
   "differentiable": [
-    "differenziabile"
+    "differenziabile",
+    "derivabile"
   ],
   "differential": [
     "differenziale"
@@ -1224,7 +1230,8 @@
     "sparizione"
   ],
   "disappointment": [
-    "delusione"
+    "delusione",
+    "disappunto"
   ],
   "disapproval": [
     "disapprovazione"
@@ -1272,11 +1279,13 @@
     "discussione"
   ],
   "disease": [
-    "malattia"
+    "malattia",
+    "morbo"
   ],
   "disgust": [
     "disgustare",
-    "schifo"
+    "schifo",
+    "disgusto"
   ],
   "dish": [
     "piatto",
@@ -1642,13 +1651,11 @@
     "ubriaco"
   ],
   "drunkenness": [
-    "ubriachezza"
+    "ubriachezza",
+    "ebbrezza"
   ],
   "drying": [
     "essiccazione"
-  ],
-  "dualcarriageway": [
-    "superstrada"
   ],
   "dualism": [
     "dualismo"
@@ -1660,19 +1667,22 @@
     "doppiaggio"
   ],
   "duck": [
-    "anatra"
+    "anatra",
+    "papera"
   ],
   "duel": [
-    "duello"
+    "duello",
+    "duellare"
   ],
   "duet": [
-    "duetto"
+    "duetto",
+    "duettare"
   ],
   "duke": [
     "duca"
   ],
   "dutchess": [
-    "duca"
+    "duchessa"
   ],
   "dune": [
     "duna"
@@ -1687,7 +1697,8 @@
     "crepuscolo"
   ],
   "dust": [
-    "polvere"
+    "polvere",
+    "spolverare"
   ],
   "duty": [
     "dovere"
@@ -1762,17 +1773,16 @@
   "discrepancy": [
     "discrepanza"
   ],
-  "dirtyclothes": [
-    "abitosporco"
+  "dirt": [
+    "sporcizia",
+    "terreno",
+    "terra"
   ],
   "dawn": [
     "alba"
   ],
   "dockyard": [
     "navale"
-  ],
-  "diastole": [
-    "diastole"
   ],
   "diaspora": [
     "diaspora"

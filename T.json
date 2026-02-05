@@ -125,6 +125,9 @@
   "teenage": [
     "adolescente"
   ],
+  "typewriter":[
+    "macchina da scrivere"
+  ],
   "telegraphic": [
     "telegrafico"
   ],
@@ -163,6 +166,9 @@
   ],
   "terrestrial": [
     "terrestre"
+  ],
+  "tuck":[
+    "infilare"
   ],
   "terrible": [
     "terribile"
@@ -520,7 +526,8 @@
     "talco"
   ],
   "tale": [
-    "racconto"
+    "racconto",
+    "storia"
   ],
   "tallow": [
     "sego"
@@ -909,10 +916,11 @@
     "tensore"
   ],
   "tent": [
-    "negozio"
+    "negozio",
+    "tenda"
   ],
-  "teratoma": [
-    "teratoma"
+  "tress":[
+    "ciocca"
   ],
   "term": [
     "termine"
@@ -1502,7 +1510,8 @@
   ],
   "trip": [
     "inciampare",
-    "viaggio"
+    "viaggio",
+    "gita"
   ],
   "tripartition": [
     "tripartizione"
@@ -1611,6 +1620,9 @@
   "turncoat": [
     "opportunista"
   ],
+  "treason":[
+    "tradimento"
+  ],
   "turnery": [
     "torneria"
   ],
@@ -1642,6 +1654,7 @@
   ],
   "type": [
     "scrivere",
+    "digitare",
     "tipo"
   ],
   "typist": [

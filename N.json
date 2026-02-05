@@ -165,7 +165,8 @@
     "romanzesco"
   ],
   "noxious": [
-    "pestilenziale"
+    "nocivo",
+    "dannoso"
   ],
   "nuclear": [
     "nucleare"
@@ -904,8 +905,5 @@
   ],
   "ninetyone": [
     "novantuno"
-  ],
-  "ninety-onethousand": [
-    "novantunomila"
   ]
 }
