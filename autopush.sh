@@ -1,19 +1,15 @@
 #!/bin/bash
 
-git add .
+set -e
+
+git add -A
 
 if git diff --cached --quiet; then
   echo "Niente da committare."
   exit 0
 fi
 
-git commit -m "auto commit"
+git commit -m "auto update"
 
-# recupera aggiornamenti
-git fetch origin
-
-# se ci sono cambiamenti remoti, fai rebase
-git rebase origin/main
-
-# poi push
-git push origin main
+echo "Force pushing to origin/main..."
+git push origin main --force
