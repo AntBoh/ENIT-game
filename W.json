@@ -1,0 +1,683 @@
+{
+  "wage": [
+    "salariale",
+    "salario"
+  ],
+  "wagon": [
+    "carro",
+    "vagone"
+  ],
+  "waist": [
+    "cinta"
+  ],
+  "waistcoat": [
+    "panciotto"
+  ],
+  "wait": [
+    "aspettare",
+    "attesa"
+  ],
+  "waiter": [
+    "cameriere"
+  ],
+  "waitress": [
+    "cameriere"
+  ],
+  "wake": [
+    "svegliare",
+    "veglia"
+  ],
+  "wake up": [
+    "svegliarsi"
+  ],
+  "waken": [
+    "svegliare"
+  ],
+  "Wales": [
+    "Galles"
+  ],
+  "walk": [
+    "camminare",
+    "passeggio"
+  ],
+  "wall": [
+    "muro",
+    "parete"
+  ],
+  "walled": [
+    "murato"
+  ],
+  "wallet": [
+    "portafogli",
+    "portafoglio"
+  ],
+  "walling": [
+    "muratura"
+  ],
+  "walnut": [
+    "noce"
+  ],
+  "walrus": [
+    "tricheco"
+  ],
+  "wand": [
+    "bacchetta"
+  ],
+  "wander": [
+    "vagare"
+  ],
+  "wandering": [
+    "vagabondo"
+  ],
+  "want": [
+    "volere"
+  ],
+  "wanton": [
+    "malizioso"
+  ],
+  "war": [
+    "guerra"
+  ],
+  "wardrobe": [
+    "guardaroba",
+    "vestiario"
+  ],
+  "warehouse": [
+    "magazzino"
+  ],
+  "warm": [
+    "caldo",
+    "riscaldare"
+  ],
+  "warming": [
+    "riscaldamento"
+  ],
+  "warn": [
+    "avvertire"
+  ],
+  "warning": [
+    "avvertenza",
+    "avvertimento",
+    "avviso"
+  ],
+  "warp": [
+    "curvare",
+    "curvatura",
+    "deformare",
+    "deformazione",
+    "distorcere",
+    "distorsione"
+  ],
+  "warranty": [
+    "garanzia"
+  ],
+  "warrior": [
+    "guerriero"
+  ],
+  "Warsaw": [
+    "Varsavia"
+  ],
+  "wart": [
+    "verruca"
+  ],
+  "wash": [
+    "lavare"
+  ],
+  "washing machine": [
+    "lavatrice"
+  ],
+  "wasp": [
+    "vespa"
+  ],
+  "waste": [
+    "residuo",
+    "sprecare",
+    "spreco"
+  ],
+  "watch": [
+    "guardare",
+    "orologio",
+    "vigilanza",
+    "vigilare"
+  ],
+  "watchdog": [
+    "sorvegliante"
+  ],
+  "watchmaking": [
+    "orologeria"
+  ],
+  "watchtower": [
+    "torrediguardia"
+  ],
+  "water": [
+    "abbeverare",
+    "acqua"
+  ],
+  "water lily": [
+    "ninfea"
+  ],
+  "watercolour": [
+    "acquerello"
+  ],
+  "waterfall": [
+    "cascata"
+  ],
+  "watering": [
+    "irrigazione"
+  ],
+  "watermelon": [
+    "anguria"
+  ],
+  "waterpolo": [
+    "pallanuoto"
+  ],
+  "waterproof": [
+    "impermeabile"
+  ],
+  "watery": [
+    "acquoso"
+  ],
+  "wave": [
+    "agitare",
+    "onda",
+    "ondata",
+    "orda",
+    "salutare"
+  ],
+  "wax": [
+    "cera"
+  ],
+  "way": [
+    "cammino",
+    "maniera",
+    "molto",
+    "precedenza",
+    "via"
+  ],
+  "wayward": [
+    "capriccioso"
+  ],
+  "weak": [
+    "debole"
+  ],
+  "weaken": [
+    "indebolire"
+  ],
+  "weakening": [
+    "indebolimento"
+  ],
+  "weakly": [
+    "debolmente"
+  ],
+  "weakness": [
+    "debolezza"
+  ],
+  "wealth": [
+    "ricchezza"
+  ],
+  "wealthy": [
+    "ricco"
+  ],
+  "weapon": [
+    "arma"
+  ],
+  "wear": [
+    "consumare",
+    "indossare",
+    "portare"
+  ],
+  "weather": [
+    "meteo",
+    "tempo"
+  ],
+  "weathercock": [
+    "banderuola"
+  ],
+  "weave": [
+    "tramare"
+  ],
+  "web": [
+    "ragnatela",
+    "rete",
+    "tela"
+  ],
+  "wedding": [
+    "matrimonio",
+    "nozze"
+  ],
+  "wedge": [
+    "cuneo",
+    "incastonare"
+  ],
+  "week": [
+    "settimana"
+  ],
+  "weekend": [
+    "fine settimana"
+  ],
+  "weekly": [
+    "settimanale",
+    "settimanalmente"
+  ],
+  "weekly newspaper": [
+    "settimanale"
+  ],
+  "weep": [
+    "piangere"
+  ],
+  "weepingwillow": [
+    "salicepiangente"
+  ],
+  "weevil": [
+    "curculione"
+  ],
+  "weigh": [
+    "pesare"
+  ],
+  "weight": [
+    "peso"
+  ],
+  "weightlifting": [
+    "sollevamento pesi"
+  ],
+  "weird": [
+    "strano"
+  ],
+  "welcome": [
+    "benvenuto"
+  ],
+  "weld": [
+    "saldare"
+  ],
+  "welding": [
+    "saldatura"
+  ],
+  "welfare": [
+    "benessere"
+  ],
+  "well": [
+    "bene",
+    "pozzo"
+  ],
+  "west": [
+    "dell'ovest",
+    "ovest"
+  ],
+  "western": [
+    "occidentale"
+  ],
+  "wet": [
+    "bagnare",
+    "bagnato"
+  ],
+  "wetnurse": [
+    "balia"
+  ],
+  "whale": [
+    "balena"
+  ],
+  "what": [
+    "che",
+    "cosa",
+    "quanto",
+    "quelloche"
+  ],
+  "whatever": [
+    "qualsiasi"
+  ],
+  "wheat": [
+    "frumento"
+  ],
+  "wheel": [
+    "ruota",
+    "volante"
+  ],
+  "when": [
+    "quando"
+  ],
+  "where": [
+    "dove"
+  ],
+  "whereas": [
+    "laddove",
+    "mentre"
+  ],
+  "whether": [
+    "se"
+  ],
+  "which": [
+    "che",
+    "ilquale",
+    "quale",
+    "quelle"
+  ],
+  "while": [
+    "mentre"
+  ],
+  "whim": [
+    "capriccio"
+  ],
+  "whine": [
+    "lamento",
+    "piagnisteo",
+    "piagnucolare"
+  ],
+  "whip": [
+    "frusta",
+    "frustata"
+  ],
+  "whisper": [
+    "sussurrare",
+    "sussurro"
+  ],
+  "whistle": [
+    "fischiare",
+    "fischio"
+  ],
+  "white": [
+    "bianco",
+    "white"
+  ],
+  "whiting": [
+    "merlano"
+  ],
+  "who": [
+    "che",
+    "chi",
+    "cui"
+  ],
+  "whoever": [
+    "qualunque"
+  ],
+  "whole": [
+    "intero"
+  ],
+  "whole-grain": [
+    "integrale"
+  ],
+  "wholesale": [
+    "grossista"
+  ],
+  "wholesaler": [
+    "grossista"
+  ],
+  "wholly": [
+    "completamente"
+  ],
+  "whose": [
+    "di chi"
+  ],
+  "wick": [
+    "stoppino"
+  ],
+  "wicked": [
+    "cattivo"
+  ],
+  "wide": [
+    "ampio",
+    "largo"
+  ],
+  "widely": [
+    "ampiamente"
+  ],
+  "widen": [
+    "allargare"
+  ],
+  "widow": [
+    "vedova"
+  ],
+  "widowed": [
+    "vedovo"
+  ],
+  "widower": [
+    "vedovo"
+  ],
+  "width": [
+    "larghezza"
+  ],
+  "wife": [
+    "moglie"
+  ],
+  "wig": [
+    "parrucca"
+  ],
+  "wild": [
+    "selvaggio"
+  ],
+  "will": [
+    "testamento",
+    "volontà"
+  ],
+  "willingly": [
+    "volentieri"
+  ],
+  "willingness": [
+    "disposizione"
+  ],
+  "willow": [
+    "salice"
+  ],
+  "win": [
+    "vincere",
+    "vittoria"
+  ],
+  "wind": [
+    "avvolgere",
+    "vento"
+  ],
+  "window": [
+    "finestra"
+  ],
+  "windscreen": [
+    "parabrezza"
+  ],
+  "windshield": [
+    "parabrezza"
+  ],
+  "wine": [
+    "vino"
+  ],
+  "winemaking": [
+    "vinificazione"
+  ],
+  "wing": [
+    "ala"
+  ],
+  "winner": [
+    "vincitore"
+  ],
+  "winning": [
+    "vincitore"
+  ],
+  "winter": [
+    "inverno"
+  ],
+  "wire": [
+    "cavo"
+  ],
+  "wirefence": [
+    "recinzione"
+  ],
+  "wireless": [
+    "senza fili"
+  ],
+  "wisdom": [
+    "sapienza"
+  ],
+  "wise": [
+    "saggio"
+  ],
+  "wiseperson": [
+    "saggio"
+  ],
+  "wish": [
+    "desiderare",
+    "desiderio"
+  ],
+  "wit": [
+    "arguzia",
+    "ingegno"
+  ],
+  "witch": [
+    "strega"
+  ],
+  "witchcraft": [
+    "stregoneria"
+  ],
+  "with": [
+    "con"
+  ],
+  "withdraw": [
+    "prelevare",
+    "ritirare"
+  ],
+  "withdrawal": [
+    "ritirata"
+  ],
+  "within": [
+    "dentro"
+  ],
+  "without": [
+    "senza"
+  ],
+  "without a doubt": [
+    "senzadubbio"
+  ],
+  "witness": [
+    "testimone",
+    "testimoniare"
+  ],
+  "wizard": [
+    "stregone"
+  ],
+  "wolf": [
+    "lupo"
+  ],
+  "woman": [
+    "donna"
+  ],
+  "wonder": [
+    "chiedersi",
+    "domandarsi",
+    "meraviglia"
+  ],
+  "wonderful": [
+    "meraviglioso"
+  ],
+  "wonderfully": [
+    "stupendamente"
+  ],
+  "wood": [
+    "bosco",
+    "legname",
+    "legno"
+  ],
+  "woodchuck": [
+    "marmotta"
+  ],
+  "woodworm": [
+    "tarlo"
+  ],
+  "wool": [
+    "lana"
+  ],
+  "word": [
+    "parola"
+  ],
+  "work": [
+    "lavorare",
+    "lavoro",
+    "opera"
+  ],
+  "work out": [
+    "allenarsi"
+  ],
+  "workable": [
+    "fattibile"
+  ],
+  "worker": [
+    "lavorante",
+    "operaio"
+  ],
+  "workshop": [
+    "bottega"
+  ],
+  "world": [
+    "mondiale",
+    "mondo"
+  ],
+  "world-wide": [
+    "mondiale"
+  ],
+  "worldly": [
+    "mondano"
+  ],
+  "worldwide": [
+    "globale",
+    "globalmente"
+  ],
+  "worm": [
+    "lombrico"
+  ],
+  "worrisome": [
+    "preoccupante"
+  ],
+  "worry": [
+    "infastidire",
+    "preoccupazione"
+  ],
+  "worsen": [
+    "peggiorare"
+  ],
+  "worship": [
+    "adorazione"
+  ],
+  "worth": [
+    "valore"
+  ],
+  "worthy": [
+    "degno"
+  ],
+  "wound": [
+    "ferita"
+  ],
+  "wrap": [
+    "avvolgere"
+  ],
+  "wrath": [
+    "ira"
+  ],
+  "wrench": [
+    "chiave inglese"
+  ],
+  "wrist": [
+    "polso"
+  ],
+  "write": [
+    "scrivere"
+  ],
+  "writer": [
+    "scrittore"
+  ],
+  "writing": [
+    "scritto",
+    "scrittura"
+  ],
+  "written": [
+    "scritto"
+  ],
+  "wrong": [
+    "incorretto",
+    "male",
+    "sbagliato"
+  ],
+  "wrongly": [
+    "erroneamente"
+  ],
+  "wrongsideout": [
+    "all'indietro"
+  ],
+  "wry": [
+    "amaro"
+  ]
+}

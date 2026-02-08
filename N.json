@@ -1,0 +1,922 @@
+{
+  "nacre": [
+    "madreperla"
+  ],
+  "nail": [
+    "chiodo",
+    "inchiodare",
+    "unghia"
+  ],
+  "naive": [
+    "ingenuo"
+  ],
+  "naiveness": [
+    "ingenuità"
+  ],
+  "naivety": [
+    "ingenuità"
+  ],
+  "name": [
+    "nome",
+    "nominare"
+  ],
+  "nanny": [
+    "bambinaia"
+  ],
+  "nape": [
+    "nuca"
+  ],
+  "naphtha": [
+    "nafta"
+  ],
+  "napkin": [
+    "tovagliolo"
+  ],
+  "Naples": [
+    "Napoli"
+  ],
+  "Napoleon": [
+    "Napoleone"
+  ],
+  "napoleonic": [
+    "napoleonico"
+  ],
+  "narcissism": [
+    "narcisismo"
+  ],
+  "narcissistic": [
+    "narcisista"
+  ],
+  "narcissus": [
+    "narciso"
+  ],
+  "narcolepsy": [
+    "narcolessia"
+  ],
+  "narcosis": [
+    "narcosi"
+  ],
+  "narcotic": [
+    "narcotico"
+  ],
+  "narrate": [
+    "narrare"
+  ],
+  "narration": [
+    "narrazione"
+  ],
+  "narrative": [
+    "narrativa",
+    "narrativo",
+    "narrazione"
+  ],
+  "narrator": [
+    "narratore"
+  ],
+  "narrow": [
+    "stretto"
+  ],
+  "narrowly": [
+    "strettamente"
+  ],
+  "narthex": [
+    "nartece"
+  ],
+  "nasal": [
+    "nasale"
+  ],
+  "nasalisation": [
+    "nasalizzazione"
+  ],
+  "nasty": [
+    "cattivo"
+  ],
+  "natal": [
+    "natale"
+  ],
+  "nation": [
+    "nazione"
+  ],
+  "national": [
+    "nazionale"
+  ],
+  "nationaldirectorate": [
+    "direzionenazionale"
+  ],
+  "nationalisation": [
+    "nazionalizzazione"
+  ],
+  "nationalise": [
+    "nazionalizzare"
+  ],
+  "nationalism": [
+    "nazionalismo"
+  ],
+  "nationalist": [
+    "nazionalista"
+  ],
+  "nationally": [
+    "nazionalmente"
+  ],
+  "native": [
+    "indigeno",
+    "nativo"
+  ],
+  "nativism": [
+    "nativismo"
+  ],
+  "natural": [
+    "naturale"
+  ],
+  "naturalistic": [
+    "naturalista"
+  ],
+  "naturally": [
+    "naturalmente"
+  ],
+  "nature": [
+    "natura"
+  ],
+  "naughty": [
+    "cattivo",
+    "disobbediente",
+    "impertinente"
+  ],
+  "nausea": [
+    "nausea"
+  ],
+  "nautical": [
+    "nautico"
+  ],
+  "naval": [
+    "navale"
+  ],
+  "nave": [
+    "capannone"
+  ],
+  "navel": [
+    "ombelico"
+  ],
+  "navigation": [
+    "navigazione"
+  ],
+  "nazi": [
+    "nazista"
+  ],
+  "near": [
+    "vicino",
+    "vicinoa"
+  ],
+  "nearby": [
+    "vicino"
+  ],
+  "neat": [
+    "ordinato",
+    "pulito"
+  ],
+  "Nebuchadnezzar": [
+    "Nabucodonosor"
+  ],
+  "nebula": [
+    "nebulosa"
+  ],
+  "necessarily": [
+    "necessariamente"
+  ],
+  "necessary": [
+    "necessario"
+  ],
+  "neck": [
+    "collo"
+  ],
+  "necklace": [
+    "collana"
+  ],
+  "necropolis": [
+    "necropoli"
+  ],
+  "necrosis": [
+    "necrosi"
+  ],
+  "nectar": [
+    "nettare"
+  ],
+  "need": [
+    "avere bisogno"
+  ],
+  "needle": [
+    "ago"
+  ],
+  "negation": [
+    "negazione"
+  ],
+  "negative": [
+    "negativo"
+  ],
+  "negatively": [
+    "negativamente"
+  ],
+  "neglect": [
+    "negligenza",
+    "negligere",
+    "trascurare"
+  ],
+  "negligence": [
+    "negligenza"
+  ],
+  "negligent": [
+    "negligente"
+  ],
+  "negotiable": [
+    "negoziabile"
+  ],
+  "negotiate": [
+    "trattare"
+  ],
+  "negotiation": [
+    "negoziazione",
+    "trattativa"
+  ],
+  "neighboring": [
+    "confinante",
+    "vicino"
+  ],
+  "neighborly": [
+    "amichevole",
+    "cordiale",
+    "cortese",
+    "vicino"
+  ],
+  "neighbour": [
+    "confinare",
+    "vicino"
+  ],
+  "neighbourhood": [
+    "vicinato"
+  ],
+  "neighbouring": [
+    "confinante",
+    "vicino"
+  ],
+  "neighbourly": [
+    "amichevole",
+    "cordiale",
+    "cortese",
+    "vicino"
+  ],
+  "neither": [
+    "neanche",
+    "nemmeno",
+    "neppure",
+    "né"
+  ],
+  "neoclassicism": [
+    "neoclassicismo"
+  ],
+  "neocolonialism": [
+    "neocolonialismo"
+  ],
+  "neodymium": [
+    "neodimio"
+  ],
+  "neofascism": [
+    "neofascismo"
+  ],
+  "neofascist": [
+    "neofascista"
+  ],
+  "neoliberal": [
+    "neoliberale"
+  ],
+  "neoliberalism": [
+    "neoliberismo"
+  ],
+  "neolithic": [
+    "neolitico"
+  ],
+  "neologism": [
+    "neologismo"
+  ],
+  "neology": [
+    "neologia"
+  ],
+  "neonatal": [
+    "neonatale"
+  ],
+  "neonazi": [
+    "neonazista"
+  ],
+  "nephew": [
+    "nipote"
+  ],
+  "nepotism": [
+    "nepotismo"
+  ],
+  "neptunium": [
+    "nettunio"
+  ],
+  "nerve": [
+    "nervo"
+  ],
+  "nervous": [
+    "nervoso"
+  ],
+  "nervously": [
+    "nervosamente"
+  ],
+  "nest": [
+    "annidare",
+    "nidificare",
+    "nido"
+  ],
+  "nesting": [
+    "nidificazione"
+  ],
+  "net": [
+    "netto",
+    "rete"
+  ],
+  "network": [
+    "rete"
+  ],
+  "neural": [
+    "neurale",
+    "neuronale"
+  ],
+  "neuralgia": [
+    "nevralgia"
+  ],
+  "neurofilament": [
+    "neurofilamento"
+  ],
+  "neurology": [
+    "neurologia"
+  ],
+  "neuromuscular": [
+    "neuromuscolare"
+  ],
+  "neuron": [
+    "neurone"
+  ],
+  "neuropathy": [
+    "neuropatia"
+  ],
+  "neuropsychology": [
+    "neuropsicologia"
+  ],
+  "neurotransmitter": [
+    "neurotrasmettitore"
+  ],
+  "neuter": [
+    "neutro"
+  ],
+  "neutral": [
+    "neutro"
+  ],
+  "neutralisation": [
+    "neutralizzazione"
+  ],
+  "neutralise": [
+    "neutralizzare"
+  ],
+  "neutron": [
+    "neutrone"
+  ],
+  "never": [
+    "mai"
+  ],
+  "new": [
+    "nuovo"
+  ],
+  "New Caledonia": [
+    "Nuova Caledonia"
+  ],
+  "New Zealand": [
+    "Nuova Zelanda"
+  ],
+  "newborn": [
+    "neonato"
+  ],
+  "newly": [
+    "nuovamente"
+  ],
+  "news": [
+    "notizia",
+    "notiziario"
+  ],
+  "newscast": [
+    "notiziario",
+    "telegiornale"
+  ],
+  "newspaper": [
+    "giornale"
+  ],
+  "next": [
+    "prossimo"
+  ],
+  "nicaraguan": [
+    "nicaraguense"
+  ],
+  "nice": [
+    "buono",
+    "simpatico"
+  ],
+  "nicely": [
+    "amabilmente"
+  ],
+  "niche": [
+    "nicchia"
+  ],
+  "nicotine": [
+    "nicotina"
+  ],
+  "niece": [
+    "nipote"
+  ],
+  "nigerian": [
+    "nigeriano"
+  ],
+  "night": [
+    "notte"
+  ],
+  "nightingale": [
+    "usignolo"
+  ],
+  "nightmare": [
+    "incubo"
+  ],
+  "nihilism": [
+    "nichilismo"
+  ],
+  "nihilistic": [
+    "nichilista"
+  ],
+  "nil": [
+    "zero"
+  ],
+  "nilpotent": [
+    "nilpotente"
+  ],
+  "nine": [
+    "nove"
+  ],
+  "ninehundred": [
+    "novecento"
+  ],
+  "ninehundredth": [
+    "novecentesimo"
+  ],
+  "ninehundredthousand": [
+    "novecentomila"
+  ],
+  "nineteen": [
+    "diciannove"
+  ],
+  "nineteenth": [
+    "diciannovesimo"
+  ],
+  "nineteenthousand": [
+    "diciannovemila"
+  ],
+  "ninethousand": [
+    "novemila"
+  ],
+  "ninetieth": [
+    "novantesimo"
+  ],
+  "ninety": [
+    "novanta"
+  ],
+  "ninetyeight": [
+    "novantotto"
+  ],
+  "ninetyeightthousand": [
+    "novantottomila"
+  ],
+  "ninetyfive": [
+    "novantacinque"
+  ],
+  "ninetyfivethousand": [
+    "novantacinquemila"
+  ],
+  "ninetyfour": [
+    "novantaquattro"
+  ],
+  "ninetyfourthousand": [
+    "novantaquattromila"
+  ],
+  "ninetynine": [
+    "novantanove"
+  ],
+  "ninetyninethousand": [
+    "novantanovemila"
+  ],
+  "ninetyone": [
+    "novantuno"
+  ],
+  "ninetyonethousand": [
+    "novantunomila"
+  ],
+  "ninetyseven": [
+    "novantasette"
+  ],
+  "ninetyseventhousand": [
+    "novantasettemila"
+  ],
+  "ninetysix": [
+    "novantasei"
+  ],
+  "ninetysixthousand": [
+    "novantaseimila"
+  ],
+  "ninetythousand": [
+    "novantamila"
+  ],
+  "ninetythreethousand": [
+    "novantatremila"
+  ],
+  "ninetytwo": [
+    "novantadue"
+  ],
+  "ninetytwothousand": [
+    "novantaduemila"
+  ],
+  "ninth": [
+    "nono"
+  ],
+  "niobium": [
+    "niobio"
+  ],
+  "nitrate": [
+    "nitrato"
+  ],
+  "nitric": [
+    "nitrico"
+  ],
+  "nitrification": [
+    "nitratazione"
+  ],
+  "nitrite": [
+    "nitrito"
+  ],
+  "nitrocellulose": [
+    "nitrocellulosa"
+  ],
+  "nitrogen": [
+    "azoto"
+  ],
+  "nitrogenous": [
+    "nitrogenato"
+  ],
+  "nitroglycerine": [
+    "nitroglicerina"
+  ],
+  "no": [
+    "nessuno",
+    "no",
+    "non"
+  ],
+  "No man's land": [
+    "Terra nullius"
+  ],
+  "no one": [
+    "nessuno"
+  ],
+  "no sooner": [
+    "appena"
+  ],
+  "Nobel Prize": [
+    "Premio Nobel"
+  ],
+  "nobelium": [
+    "nobelio"
+  ],
+  "noble": [
+    "nobile"
+  ],
+  "nobody": [
+    "nessuno"
+  ],
+  "nocturnal": [
+    "notturno"
+  ],
+  "nod": [
+    "accenno",
+    "annuire"
+  ],
+  "node": [
+    "nodo"
+  ],
+  "nodule": [
+    "nodulo"
+  ],
+  "noise": [
+    "rumore"
+  ],
+  "noisy": [
+    "rumoroso"
+  ],
+  "nomad": [
+    "nomade"
+  ],
+  "nomadic": [
+    "nomade"
+  ],
+  "nomadism": [
+    "nomadismo"
+  ],
+  "nomenclature": [
+    "nomenclatura"
+  ],
+  "nominal": [
+    "nominale"
+  ],
+  "nominalism": [
+    "nominalismo"
+  ],
+  "nominate": [
+    "candidare",
+    "nominare"
+  ],
+  "nomination": [
+    "nomina"
+  ],
+  "nominee": [
+    "candidato"
+  ],
+  "nomogram": [
+    "nomogramma"
+  ],
+  "nondenominational": [
+    "aconfessionale"
+  ],
+  "none": [
+    "nessuno"
+  ],
+  "nonexistence": [
+    "nonesistenza"
+  ],
+  "nonexistent": [
+    "inesistente"
+  ],
+  "nontronite": [
+    "nontronite"
+  ],
+  "noon": [
+    "mezzogiorno"
+  ],
+  "noose": [
+    "cappio"
+  ],
+  "norm": [
+    "norma"
+  ],
+  "normal": [
+    "normale"
+  ],
+  "normalisation": [
+    "normalizzazione"
+  ],
+  "normalise": [
+    "normalizzare"
+  ],
+  "normally": [
+    "normalmente"
+  ],
+  "Normandy": [
+    "Normandia"
+  ],
+  "normative": [
+    "normativo"
+  ],
+  "north": [
+    "delnord",
+    "nord"
+  ],
+  "North America": [
+    "Nord America"
+  ],
+  "northeast": [
+    "nordest"
+  ],
+  "northeastern": [
+    "nordorientale"
+  ],
+  "northern": [
+    "nordico"
+  ],
+  "Northern Ireland": [
+    "Irlanda del Nord"
+  ],
+  "northerner": [
+    "nordico"
+  ],
+  "northwest": [
+    "nordovest"
+  ],
+  "Norway": [
+    "Norvegia"
+  ],
+  "norwegian": [
+    "norvegese"
+  ],
+  "nose": [
+    "naso"
+  ],
+  "nostalgia": [
+    "nostalgia"
+  ],
+  "nostril": [
+    "narice"
+  ],
+  "not": [
+    "non"
+  ],
+  "notable": [
+    "notevole"
+  ],
+  "notably": [
+    "notevolmente"
+  ],
+  "notarial": [
+    "notarile"
+  ],
+  "notarise": [
+    "autenticare"
+  ],
+  "notary": [
+    "notaio"
+  ],
+  "notation": [
+    "notazione"
+  ],
+  "notch": [
+    "intaccare",
+    "tacca"
+  ],
+  "note": [
+    "annotare",
+    "nota"
+  ],
+  "notebook": [
+    "taccuino"
+  ],
+  "notepad": [
+    "blocco note"
+  ],
+  "nothing": [
+    "niente",
+    "nulla"
+  ],
+  "notice": [
+    "avviso",
+    "notare"
+  ],
+  "noticeably": [
+    "notevolmente",
+    "sensibilmente"
+  ],
+  "notification": [
+    "notifica"
+  ],
+  "notify": [
+    "notificare"
+  ],
+  "notion": [
+    "nozione"
+  ],
+  "notorious": [
+    "notorio"
+  ],
+  "notoriously": [
+    "notoriamente"
+  ],
+  "noun": [
+    "sostantivo"
+  ],
+  "nourish": [
+    "nutrire"
+  ],
+  "nourishment": [
+    "nutrimento"
+  ],
+  "novel": [
+    "novellino",
+    "novello",
+    "romanzo"
+  ],
+  "novelist": [
+    "romanziere"
+  ],
+  "novelistic": [
+    "novellistico",
+    "romanzesco"
+  ],
+  "November": [
+    "novembre"
+  ],
+  "novice": [
+    "novellino"
+  ],
+  "now": [
+    "adesso"
+  ],
+  "nowadays": [
+    "odiernamente",
+    "oggigiorno"
+  ],
+  "nowandagain": [
+    "ognitanto"
+  ],
+  "nowandthen": [
+    "ognitanto"
+  ],
+  "nowhere": [
+    "da nessuna parte"
+  ],
+  "noxious": [
+    "dannoso",
+    "nocivo"
+  ],
+  "nozzle": [
+    "boccalino"
+  ],
+  "nth": [
+    "ennesimo"
+  ],
+  "nuance": [
+    "sfumatura"
+  ],
+  "nuclear": [
+    "nucleare"
+  ],
+  "nucleolus": [
+    "nucleolo"
+  ],
+  "nucleoplasm": [
+    "nucleoplasma"
+  ],
+  "nucleotide": [
+    "nucleotide"
+  ],
+  "nucleus": [
+    "nucleo"
+  ],
+  "nude": [
+    "nudo"
+  ],
+  "nudism": [
+    "naturismo"
+  ],
+  "number": [
+    "numerare",
+    "numero"
+  ],
+  "numberless": [
+    "innumerevole"
+  ],
+  "numerical": [
+    "numerico"
+  ],
+  "numerically": [
+    "numericamente"
+  ],
+  "numerous": [
+    "numeroso"
+  ],
+  "numismatist": [
+    "numismatico"
+  ],
+  "nuptial": [
+    "nuziale"
+  ],
+  "nurse": [
+    "infermiera"
+  ],
+  "nursemaid": [
+    "bambinaia"
+  ],
+  "nursery": [
+    "asilo",
+    "vivaio"
+  ],
+  "nut": [
+    "dado",
+    "noce"
+  ],
+  "nutation": [
+    "nutazione"
+  ],
+  "nutrition": [
+    "nutrizione"
+  ],
+  "nutritional": [
+    "nutrizionale"
+  ],
+  "nutritious": [
+    "nutritivo"
+  ],
+  "nymph": [
+    "ninfa"
+  ]
+}

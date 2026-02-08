@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <title>Word Game</title>
+  <link rel="stylesheet" href="style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+
+<body>
+
+
+<div id="counters">
+  <div id="completedCounter">Parole completate: 0</div>
+  <div id="translationsCounter">Traduzioni effettuate: 0</div>
+</div>
+
+  <h1>Traduci la parola (test15)</h1>
+
+
+
+
+
+<div class="game-container">
+  <div class="game-box">
+  <div id="word"></div>
+  <form id="gameForm">
+<input
+  id="answer"
+  type="text"
+  autocomplete="off"
+  readonly
+  autocorrect="off"
+  autocapitalize="off"
+  spellcheck="false"
+>
+
+    <button id="check" type="submit">Invia</button>
+    <button id="skip" type="button">Salta</button>
+  </form>
+  <div id="feedback"></div>
+</div>
+
+
+</div>
+
+<div id="foundContainer" class="found-container hidden">
+  <div id="found"></div>
+</div>
+
+
+
+  <!-- BOTTONE HAMBURGER -->
+<button id="menuBtn" class="menu-btn">☰</button>
+
+<div class="sidebar" id="sidebar">
+  <button class="close-btn" id="closeBtn">×</button>
+
+  <div class="menu-item" id="gameBtn">Gioco</div>
+  <div class="menu-item" id="worddexBtn">Worddex</div>
+
+  <!-- ACCORDION IMPOSTAZIONI -->
+<button class="accordion-btn" id="settingsAccordionBtn">Impostazioni</button>
+
+<div class="accordion-panel" id="settingsAccordionPanel">
+  <button class="accordion-item" id="darkModeBtn">🌙 Dark mode ON/OFF</button>
+  <button class="accordion-item" id="resetBtn">Reset progressi</button>
+</div>
+
+
+  <button class="menu-item disabled" id="toggle">Cambia lingua</button>
+</div>
+
+
+</div>
+
+
+
+<!-- PAGINA WORDDEX (overlay) -->
+<div id="worddexPage" class="worddex-page hidden">
+  <div class="worddex-topbar">
+    <button id="backToGame" class="menu-item">← Torna al gioco</button>
+  </div>
+
+ <div class="worddex-body">
+  <div id="accordionContainer"></div>
+</div>
+
+</div>
+
+
+
+
+
+  <script src="script.js?v=1"></script>
+
+</body>
+</html>
+
+
