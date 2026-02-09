@@ -8,6 +8,13 @@
   "baccello": [
     "pod"
   ],
+  "borbottare":[
+    "mumble"
+  ],
+  "borbottio":[
+    "mumble",
+    "mumbling"
+  ],
   "bacchetta": [
     "wand"
   ],
@@ -1191,7 +1198,8 @@
     "heath"
   ],
   "bruno": [
-    "brown"
+    "brown",
+    "dark"
   ],
   "bruscamente": [
     "abruptly",

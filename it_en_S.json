@@ -88,7 +88,8 @@
     "essayist"
   ],
   "sagoma": [
-    "profile"
+    "profile",
+    "shape"
   ],
   "sala": [
     "hall"
@@ -414,7 +415,7 @@
     "pound"
   ],
   "sbilanciare": [
-    "throwoffbalance"
+    "unbalance"
   ],
   "sbloccare": [
     "unblock"
@@ -437,7 +438,7 @@
   "scacchista": [
     "chess player"
   ],
-  "scaccomatto": [
+  "scacco matto": [
     "checkmate"
   ],
   "scadenza": [
@@ -635,11 +636,9 @@
   "scettro": [
     "scepter"
   ],
-  "schegge": [
-    "shrapnel"
-  ],
   "scheggia": [
-    "splinter"
+    "splinter",
+    "shard"
   ],
   "scheletrico": [
     "skeletal"
@@ -1742,7 +1741,8 @@
     "strictly"
   ],
   "severo": [
-    "severe"
+    "severe",
+    "strict"
   ],
   "sezione": [
     "section"
@@ -1992,7 +1992,8 @@
     "symbiotic"
   ],
   "simboleggiare": [
-    "symbolise"
+    "symbolise",
+    "simbolize"
   ],
   "simbolicamente": [
     "symbolically"
@@ -3282,7 +3283,8 @@
     "urge"
   ],
   "spinoso": [
-    "prickly"
+    "prickly",
+    "spiky"
   ],
   "spionaggio": [
     "espionage"

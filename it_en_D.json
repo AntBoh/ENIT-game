@@ -47,7 +47,8 @@
     "daltonism"
   ],
   "dama": [
-    "lady"
+    "lady",
+    "checkers"
   ],
   "Damasco": [
     "Damascus"
@@ -400,7 +401,8 @@
     "dehydrogenation"
   ],
   "deindustrializzazione": [
-    "deindustrialisation"
+    "deindustrialisation",
+    "deindustrialization"
   ],
   "deionizzazione": [
     "deionisation"
@@ -1755,10 +1757,12 @@
     "dishonest"
   ],
   "disonorare": [
-    "dishonour"
+    "dishonour",
+    "dishonor"
   ],
   "disonore": [
-    "dishonour"
+    "dishonour",
+    "dishonor"
   ],
   "disordine": [
     "disorder",
@@ -2002,13 +2006,8 @@
   ],
   "disturbo": [
     "annoyance",
-    "disturbance"
-  ],
-  "disturboossessivo-compulsivo": [
-    "obsessive-compulsivedisorder"
-  ],
-  "disturboossessivocompulsivo": [
-    "obsessivecompulsivedisorder"
+    "disturbance",
+    "disorder"
   ],
   "disuguaglianza": [
     "inequality"
@@ -2021,7 +2020,8 @@
     "unevenly"
   ],
   "disumanizzazione": [
-    "dehumanisation"
+    "dehumanisation",
+    "dehumanization"
   ],
   "disumano": [
     "inhuman"
@@ -2143,7 +2143,8 @@
     "divorce"
   ],
   "divulgare": [
-    "divulge"
+    "divulge",
+    "spread"
   ],
   "divulgativo": [
     "popular"
@@ -2321,7 +2322,8 @@
     "afterall"
   ],
   "doppiaggio": [
-    "dubbing"
+    "dubbing",
+    "dub"
   ],
   "doppiamente": [
     "doubly"
@@ -2346,7 +2348,8 @@
     "doric"
   ],
   "dormiente": [
-    "sleeper"
+    "sleeping",
+    "dormant"
   ],
   "dormire": [
     "sleep"

@@ -1092,7 +1092,8 @@
     "precautionary"
   ],
   "cauterizzazione": [
-    "cauterisation"
+    "cauterisation",
+    "cauterization"
   ],
   "cauzione": [
     "bail",
@@ -2834,6 +2835,7 @@
   ],
   "comprendere": [
     "comprise",
+    "comprehend",
     "understand"
   ],
   "comprensibile": [
@@ -2842,7 +2844,8 @@
     "intelligible"
   ],
   "comprensione": [
-    "understanding"
+    "understanding",
+    "comprehension"
   ],
   "compressa": [
     "compress"
@@ -3430,7 +3433,8 @@
     "consign"
   ],
   "consenso": [
-    "consensus"
+    "consensus",
+    "consent"
   ],
   "consentire": [
     "consent"
@@ -4811,7 +4815,8 @@
     "culturally"
   ],
   "cumulo": [
-    "accumulation"
+    "accumulation",
+    "heap"
   ],
   "cuneiforme": [
     "cuneiform"

@@ -11,10 +11,12 @@
     "shortly"
   ],
   "a caso": [
-    "at random"
+    "at random",
+    "randomly"
   ],
   "a favore": [
-    "in favour"
+    "in favour",
+    "in favor"
   ],
   "a galla": [
     "afloat"
@@ -301,7 +303,9 @@
     "beside"
   ],
   "accatastare": [
-    "bank"
+    "bank",
+    "pile",
+    "stack"
   ],
   "accattivare": [
     "captivate"
@@ -414,7 +418,8 @@
     "acclimate"
   ],
   "acclimatazione": [
-    "acclimatisation"
+    "acclimatisation",
+    "acclimatization"
   ],
   "accoglienza": [
     "reception"
@@ -443,6 +448,7 @@
   ],
   "accordare": [
     "agree",
+    "tune",
     "concede"
   ],
   "accordatura": [
@@ -558,6 +564,7 @@
   ],
   "acquario": [
     "aquarium",
+    "aquarius",
     "fishtank",
     "tank"
   ],
@@ -565,13 +572,14 @@
     "aquatic"
   ],
   "acquazzone": [
-    "cloudburst"
+    "downpour"
   ],
   "acquedotto": [
     "aqueduct"
   ],
   "acquerello": [
-    "watercolour"
+    "watercolour",
+    "watercolor"
   ],
   "acquifera": [
     "aquifer"
@@ -1738,8 +1746,7 @@
   ],
   "ambiente": [
     "ambient",
-    "environment",
-    "surroundings"
+    "environment"
   ],
   "ambiguo": [
     "ambiguous"
@@ -1970,7 +1977,8 @@
   "ampliare": [
     "broaden",
     "enlarge",
-    "expand"
+    "expand",
+    "widen"
   ],
   "amplificare": [
     "amplify"
@@ -2904,7 +2912,8 @@
     "storage"
   ],
   "archivio": [
-    "file"
+    "file",
+    "archive"
   ],
   "archivistico": [
     "archival"
@@ -3286,7 +3295,8 @@
     "dry"
   ],
   "ascoltare": [
-    "listen"
+    "listen",
+    "listen to"
   ],
   "asepsi": [
     "asepsis"
@@ -4033,7 +4043,8 @@
     "self-determination"
   ],
   "autodifesa": [
-    "self-defence"
+    "self-defence",
+    "self-defense"
   ],
   "autoecologia": [
     "autoecology"

@@ -703,9 +703,6 @@
   "renale": [
     "renal"
   ],
-  "rendereincapace": [
-    "disable"
-  ],
   "rene": [
     "kidney"
   ],
@@ -725,7 +722,7 @@
     "retort"
   ],
   "replicare": [
-    "retort"
+    "replicate"
   ],
   "replicazione": [
     "replication"
@@ -1248,7 +1245,7 @@
     "recess",
     "recreation"
   ],
-  "ricvuta": [
+  "ricevuta": [
     "receipt"
   ],
   "ridare": [
@@ -1879,10 +1876,8 @@
     "withdrawal"
   ],
   "ritirato": [
-    "retired"
-  ],
-  "ritmare": [
-    "changerhythm"
+    "retired",
+    "retreated"
   ],
   "ritmico": [
     "rhythmical"
@@ -2108,7 +2103,7 @@
     "smash"
   ],
   "ronda": [
-    "round"
+    "patrol"
   ],
   "rondine": [
     "swallow"

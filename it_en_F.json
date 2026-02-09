@@ -722,6 +722,9 @@
   "filo interdentale": [
     "dental floss"
   ],
+  "farfugliare":[
+    "mumble"
+  ],
   "filologia": [
     "philology"
   ],
@@ -1496,7 +1499,8 @@
     "halfbrother"
   ],
   "fraterno": [
-    "fraternal"
+    "fraternal",
+    "brotherly"
   ],
   "fratricidio": [
     "fratricide"
@@ -1708,7 +1712,9 @@
     "funiculus"
   ],
   "funivia": [
-    "ropeway"
+    "ropeway",
+    "cable car",
+    "cableway"
   ],
   "funzionale": [
     "functional"

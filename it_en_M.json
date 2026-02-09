@@ -197,8 +197,9 @@
   "mais": [
     "corn"
   ],
-  "maiuscola": [
-    "capitalletter"
+  "maiuscolo": [
+    "capital",
+    "uppercase"
   ],
   "malachite": [
     "malachite"
@@ -1027,7 +1028,8 @@
     "purely"
   ],
   "meraviglia": [
-    "wonder"
+    "wonder",
+    "marvel"
   ],
   "meraviglioso": [
     "marvellous",
@@ -1470,7 +1472,8 @@
     "militarily"
   ],
   "milizia": [
-    "militia"
+    "militia",
+    "army"
   ],
   "mille": [
     "tenhundred",
@@ -1584,7 +1587,8 @@
     "minuet"
   ],
   "minuscolo": [
-    "tiny"
+    "tiny",
+    "lowercase"
   ],
   "minuto": [
     "minute",
@@ -1801,10 +1805,12 @@
     "modernist"
   ],
   "modernizzare": [
-    "modernise"
+    "modernise",
+    "modernize"
   ],
   "modernizzazione": [
-    "modernisation"
+    "modernisation",
+    "modernization"
   ],
   "moderno": [
     "modern"
@@ -2356,8 +2362,8 @@
     "municipal"
   ],
   "municipio": [
-    "municipality",
-    "townhall"
+    "town hall",
+    "city hall"
   ],
   "munizione": [
     "ammunition"

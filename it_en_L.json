@@ -590,14 +590,15 @@
     "licence"
   ],
   "licenziamento": [
-    "dismissal"
+    "dismissal",
+    "firing"
   ],
   "licenziare": [
-    "dismiss"
+    "dismiss",
+    "fire"
   ],
   "liceo": [
-    "college",
-    "secondaryschool"
+    "college"
   ],
   "lieve": [
     "slight"
@@ -994,6 +995,7 @@
   ],
   "luminoso": [
     "light",
+    "bright",
     "lightful",
     "luminous"
   ],

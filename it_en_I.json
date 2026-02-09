@@ -271,7 +271,8 @@
     "illogical"
   ],
   "illuminare": [
-    "lighten"
+    "lighten",
+    "brighten"
   ],
   "illuminato": [
     "lighted"
@@ -1190,10 +1191,12 @@
     "incremental"
   ],
   "incrementare": [
-    "increase"
+    "increase",
+    "increment"
   ],
   "incremento": [
-    "increase"
+    "increase",
+    "increment"
   ],
   "incriminare": [
     "incriminate"
@@ -1384,7 +1387,8 @@
     "indisposition"
   ],
   "indistinguibile": [
-    "indiscernible"
+    "indiscernible",
+    "indistinguishable"
   ],
   "indistintamente": [
     "indistinctly"
@@ -1469,10 +1473,12 @@
     "industrial"
   ],
   "industrializzare": [
-    "industrialise"
+    "industrialise",
+    "industrialize"
   ],
   "industrializzazione": [
-    "industrialisation"
+    "industrialisation",
+    "industrialization"
   ],
   "industrialmente": [
     "industrially"
