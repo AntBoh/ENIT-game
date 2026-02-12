@@ -15,8 +15,14 @@
   "cable": [
     "cavo"
   ],
+  "cable car": [
+    "funivia"
+  ],
   "cablegram": [
     "telegrafo"
+  ],
+  "cableway": [
+    "funivia"
   ],
   "cachexia": [
     "cachessia"
@@ -38,6 +44,9 @@
   ],
   "cadastre": [
     "catasto"
+  ],
+  "cadaver": [
+    "cadavere"
   ],
   "cadence": [
     "cadenza"
@@ -282,7 +291,8 @@
     "capillare"
   ],
   "capital": [
-    "capitale"
+    "capitale",
+    "maiuscolo"
   ],
   "capitalisation": [
     "capitalizzazione"
@@ -295,9 +305,6 @@
   ],
   "capitalist": [
     "capitalista"
-  ],
-  "capitalletter": [
-    "maiuscola"
   ],
   "capitalpunishment": [
     "penadimorte"
@@ -718,6 +725,9 @@
   "cauterisation": [
     "cauterizzazione"
   ],
+  "cauterization": [
+    "cauterizzazione"
+  ],
   "caution": [
     "attenzione",
     "avvertenza",
@@ -798,6 +808,9 @@
   ],
   "cent": [
     "centesimo"
+  ],
+  "center": [
+    "centro"
   ],
   "centigrade": [
     "centigrado"
@@ -977,9 +990,6 @@
   "changeable": [
     "cambiabile"
   ],
-  "changerhythm": [
-    "ritmare"
-  ],
   "channel": [
     "canalare",
     "canale"
@@ -1081,8 +1091,11 @@
     "controllo",
     "verificare"
   ],
+  "checkers": [
+    "dama"
+  ],
   "checkmate": [
-    "scaccomatto"
+    "scacco matto"
   ],
   "checkout": [
     "lasciare"
@@ -1500,6 +1513,9 @@
     "agrume",
     "citrico"
   ],
+  "city hall": [
+    "municipio"
+  ],
   "citycouncil": [
     "comune"
   ],
@@ -1750,9 +1766,6 @@
   "cloud": [
     "nube",
     "nuvola"
-  ],
-  "cloudburst": [
-    "acquazzone"
   ],
   "cloudcomputing": [
     "cloudcomputing"
@@ -2024,6 +2037,9 @@
   "collision": [
     "collisione"
   ],
+  "collocation": [
+    "collocazione"
+  ],
   "colloid": [
     "colloide"
   ],
@@ -2228,6 +2244,12 @@
   ],
   "commercialism": [
     "mercantilismo"
+  ],
+  "commercialization": [
+    "commercializzazione"
+  ],
+  "commercialize": [
+    "commercializzare"
   ],
   "commercially": [
     "commercialmente"
@@ -2440,8 +2462,14 @@
   "compound": [
     "composto"
   ],
+  "comprehend": [
+    "comprendere"
+  ],
   "comprehensible": [
     "comprensibile"
+  ],
+  "comprehension": [
+    "comprensione"
   ],
   "comprehensive": [
     "comprensibile"
@@ -2868,6 +2896,7 @@
     "consenso"
   ],
   "consent": [
+    "consenso",
     "consentire",
     "sopportazione"
   ],
@@ -2897,7 +2926,8 @@
     "conservare"
   ],
   "consider": [
-    "considerare"
+    "considerare",
+    "ritenere"
   ],
   "considerable": [
     "considerabile"
@@ -3297,9 +3327,6 @@
     "conversare",
     "dialogare"
   ],
-  "conversely": [
-    "incambio"
-  ],
   "conversion": [
     "conversione"
   ],
@@ -3349,6 +3376,7 @@
   ],
   "cook": [
     "cucinare",
+    "cuocere",
     "cuoco"
   ],
   "cooker": [
@@ -3900,6 +3928,9 @@
   "criticism": [
     "critica"
   ],
+  "critique": [
+    "critica"
+  ],
   "Croatia": [
     "Croazia"
   ],
@@ -4109,6 +4140,9 @@
     "curio"
   ],
   "curl": [
+    "riccio"
+  ],
+  "curly": [
     "riccio"
   ],
   "currency": [

@@ -333,9 +333,6 @@
   "olio": [
     "oil"
   ],
-  "oliodicolza": [
-    "rapeseedoil"
-  ],
   "oliva": [
     "olive"
   ],
@@ -705,6 +702,7 @@
   ],
   "ordinato": [
     "neat",
+    "ordered",
     "tidy"
   ],
   "ordinazione": [
@@ -750,7 +748,8 @@
     "organisational"
   ],
   "organizzazione": [
-    "organisation"
+    "organisation",
+    "organization"
   ],
   "organo": [
     "organ"

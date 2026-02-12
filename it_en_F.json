@@ -359,7 +359,7 @@
     "faecal"
   ],
   "feccia": [
-    "dregs"
+    "scum"
   ],
   "feci": [
     "faeces"
@@ -534,7 +534,8 @@
     "fruitful"
   ],
   "fertilizzazione": [
-    "fertilisation"
+    "fertilisation",
+    "fertilization"
   ],
   "fervente": [
     "fervent"
@@ -548,9 +549,6 @@
   ],
   "festival": [
     "festival"
-  ],
-  "festivalcinematografico": [
-    "filmfestival"
   ],
   "festivo": [
     "festive"
@@ -641,7 +639,15 @@
     "fair"
   ],
   "fieramente": [
-    "fiercely"
+    "proudly"
+  ],
+  "feroce":[
+    "fierce",
+    "ferocious"
+  ],
+  "ferocemente":[
+    "fiercely",
+    "ferociously"
   ],
   "fiero": [
     "proud"
@@ -935,7 +941,8 @@
     "river"
   ],
   "flagello": [
-    "scourge"
+    "scourge",
+    "flail"
   ],
   "flagioletto": [
     "flageolet"
@@ -953,7 +960,8 @@
     "flange"
   ],
   "flatulenza": [
-    "flatulence"
+    "flatulence",
+    "fart"
   ],
   "flautista": [
     "flautist"

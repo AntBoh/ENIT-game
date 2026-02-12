@@ -737,13 +737,11 @@
     "adhesion"
   ],
   "adesivo": [
-    "adhesive"
+    "adhesive",
+    "sticker"
   ],
   "adesso": [
     "now"
-  ],
-  "adhoc": [
-    "adhoc"
   ],
   "adiabatico": [
     "adiabatic"
@@ -754,7 +752,7 @@
   "adipocita": [
     "adipocyte"
   ],
-  "adognimodo": [
+  "ad ogni modo": [
     "anyway"
   ],
   "adolescente": [
@@ -933,7 +931,8 @@
     "fond"
   ],
   "affezionato": [
-    "fond"
+    "fond",
+    "attached"
   ],
   "affezione": [
     "affection"
@@ -1027,16 +1026,13 @@
     "africanism"
   ],
   "africano": [
-    "african"
+    "African"
   ],
   "afrodisiaco": [
     "aphrodisiac"
   ],
   "Agamennone": [
     "Agamemnon"
-  ],
-  "agata": [
-    "agate"
   ],
   "agente": [
     "agent",
@@ -1202,7 +1198,8 @@
     "assistant"
   ],
   "aiutare": [
-    "help"
+    "help",
+    "aid"
   ],
   "aiuto": [
     "aid",
@@ -1310,9 +1307,6 @@
   ],
   "algerino": [
     "Algerian"
-  ],
-  "algiorno": [
-    "perday"
   ],
   "algoritmico": [
     "algorithmic"
@@ -1661,11 +1655,13 @@
     "others"
   ],
   "altruismo": [
-    "altruism"
+    "altruism",
+    "selflessness"
   ],
   "altruista": [
     "altruist",
-    "altruistic"
+    "altruistic",
+    "selfless"
   ],
   "alunno": [
     "alumna",
@@ -1859,7 +1855,8 @@
     "crowd"
   ],
   "ammasso": [
-    "cluster"
+    "cluster",
+    "heap"
   ],
   "ammettere": [
     "admit"
@@ -2211,7 +2208,12 @@
     "corner"
   ],
   "angoscia": [
-    "distress"
+    "distress",
+    "anxiety",
+    "anguish"
+  ],
+  "angosciare":[
+    "anguish"
   ],
   "anguilla": [
     "eel"
@@ -2724,6 +2726,9 @@
   "apprendista": [
     "apprentice"
   ],
+  "apprendistato":[
+    "apprenticeship"
+  ],
   "apprensione": [
     "apprehension"
   ],
@@ -2956,7 +2961,8 @@
     "ardour"
   ],
   "arduo": [
-    "arduous"
+    "arduous",
+    "hard"
   ],
   "area": [
     "area"

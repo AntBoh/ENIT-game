@@ -1093,6 +1093,7 @@
   ],
   "riccio": [
     "curl",
+    "curly",
     "hedgehog"
   ],
   "ricco": [
@@ -1425,7 +1426,8 @@
     "rigour"
   ],
   "rigorosamente": [
-    "strictly"
+    "strictly",
+    "rigorously"
   ],
   "rigoroso": [
     "rigorous"
@@ -1603,10 +1605,12 @@
     "rhinoplasty"
   ],
   "riorganizzare": [
-    "reorganise"
+    "reorganise",
+    "reorganize"
   ],
   "riorganizzazione": [
-    "reorganisation"
+    "reorganisation",
+    "reorganization"
   ],
   "riorientare": [
     "reorient"
@@ -1865,7 +1869,9 @@
     "delay"
   ],
   "ritenere": [
-    "retain"
+    "retain",
+    "consider",
+    "believe"
   ],
   "ritirare": [
     "collect",
@@ -2178,13 +2184,16 @@
     "trade route"
   ],
   "rottamare": [
-    "scrap"
+    "scrap",
+    "wreck"
   ],
   "rottame": [
-    "scrap"
+    "scrap",
+    "wreckage"
   ],
   "rottura": [
-    "break"
+    "break",
+    "rupture"
   ],
   "rovesciamento": [
     "overthrow"

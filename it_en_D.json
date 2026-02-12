@@ -71,7 +71,8 @@
     "harm"
   ],
   "dannoso": [
-    "noxious"
+    "noxious",
+    "harmful"
   ],
   "danza": [
     "dance",
@@ -515,7 +516,8 @@
     "dementia"
   ],
   "demineralizzazione": [
-    "demineralisation"
+    "demineralisation",
+    "demineralization"
   ],
   "demistificazione": [
     "demystification"
@@ -829,7 +831,8 @@
     "desolation"
   ],
   "desolforazione": [
-    "desulphurisation"
+    "desulphurisation",
+    "desulphurization"
   ],
   "desquamazione": [
     "desquamation"
@@ -884,7 +887,8 @@
     "determinable"
   ],
   "determinante": [
-    "decisive"
+    "decisive",
+    "determinant"
   ],
   "determinare": [
     "determine"
@@ -1134,9 +1138,6 @@
   ],
   "diciottomila": [
     "eighteenthousand"
-  ],
-  "diconseguenza": [
-    "accordingly"
   ],
   "dicotomia": [
     "dichotomy"
@@ -2505,7 +2506,8 @@
     "dune"
   ],
   "dunque": [
-    "therefore"
+    "therefore",
+    "so"
   ],
   "duodecimale": [
     "duodecimal"

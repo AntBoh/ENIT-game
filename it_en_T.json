@@ -3,7 +3,7 @@
     "tobacco"
   ],
   "tabella": [
-    "picture"
+    "table"
   ],
   "tabellare": [
     "tabular"
@@ -31,9 +31,6 @@
   ],
   "taciturno": [
     "taciturn"
-  ],
-  "taenia": [
-    "taenia"
   ],
   "taglia": [
     "size"
@@ -109,7 +106,7 @@
     "tangible"
   ],
   "tanica": [
-    "jerrycan"
+    "tank"
   ],
   "tantalio": [
     "tantalum"
@@ -848,7 +845,8 @@
     "throw"
   ],
   "tirocinio": [
-    "training"
+    "training",
+    "apprenticeship"
   ],
   "tiroide": [
     "thyroid"

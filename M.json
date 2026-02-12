@@ -501,7 +501,10 @@
   "martyrdom": [
     "martirio"
   ],
-  "marvellous": [
+  "marvel": [
+    "meraviglia"
+  ],
+  "marvelous": [
     "meraviglioso"
   ],
   "marxism": [
@@ -605,6 +608,12 @@
   "materialist": [
     "materialista"
   ],
+  "materialization": [
+    "materializzazione"
+  ],
+  "materialize": [
+    "materializzare"
+  ],
   "maternal": [
     "materno"
   ],
@@ -683,6 +692,7 @@
     "sindaco"
   ],
   "me": [
+    "io",
     "me",
     "mi"
   ],
@@ -1071,7 +1081,8 @@
     "meteorologia"
   ],
   "meter": [
-    "contatore"
+    "contatore",
+    "metro"
   ],
   "methanol": [
     "metanolo"
@@ -1350,6 +1361,9 @@
   "mineralisation": [
     "mineralizzazione"
   ],
+  "mineralization": [
+    "mineralizzazione"
+  ],
   "mineralogy": [
     "mineralogia"
   ],
@@ -1544,6 +1558,12 @@
   ],
   "modernist": [
     "modernista"
+  ],
+  "modernization": [
+    "modernizzazione"
+  ],
+  "modernize": [
+    "modernizzare"
   ],
   "modest": [
     "modesto"
@@ -2060,6 +2080,14 @@
   "mum": [
     "mamma"
   ],
+  "mumble": [
+    "borbottare",
+    "borbottio",
+    "farfugliare"
+  ],
+  "mumbling": [
+    "borbottio"
+  ],
   "mummification": [
     "mummificazione"
   ],
@@ -2075,9 +2103,6 @@
   ],
   "municipal": [
     "municipale"
-  ],
-  "municipality": [
-    "municipio"
   ],
   "muon": [
     "muone"

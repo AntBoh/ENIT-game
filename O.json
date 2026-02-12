@@ -105,12 +105,6 @@
   "obsessive": [
     "ossessivo"
   ],
-  "obsessive-compulsivedisorder": [
-    "disturboossessivo-compulsivo"
-  ],
-  "obsessivecompulsivedisorder": [
-    "disturboossessivocompulsivo"
-  ],
   "obsidian": [
     "ossidiana"
   ],
@@ -665,6 +659,9 @@
     "ordinazione",
     "ordine"
   ],
+  "ordered": [
+    "ordinato"
+  ],
   "ordinal": [
     "ordinale"
   ],
@@ -843,7 +840,8 @@
     "struzzo"
   ],
   "other": [
-    "altro"
+    "altro",
+    "ulteriore"
   ],
   "others": [
     "altro"

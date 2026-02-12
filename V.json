@@ -184,6 +184,9 @@
   "vehicle": [
     "veicolo"
   ],
+  "veil": [
+    "velo"
+  ],
   "vein": [
     "vena"
   ],
@@ -407,7 +410,6 @@
     "villa"
   ],
   "village": [
-    "popolo",
     "villaggio"
   ],
   "vinaigrette": [
@@ -610,6 +612,9 @@
     "volatile"
   ],
   "volatilisation": [
+    "volatilizzazione"
+  ],
+  "volatilization": [
     "volatilizzazione"
   ],
   "volcanic": [

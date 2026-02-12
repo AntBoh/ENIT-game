@@ -2,6 +2,9 @@
   "pace": [
     "passo"
   ],
+  "pacific": [
+    "pacifico"
+  ],
   "Pacific Ocean": [
     "Oceano Pacifico"
   ],
@@ -630,7 +633,8 @@
   ],
   "patrol": [
     "pattuglia",
-    "pattugliare"
+    "pattugliare",
+    "ronda"
   ],
   "patron": [
     "mecenate",
@@ -851,15 +855,16 @@
   "penultimate": [
     "penultimo"
   ],
+  "people": [
+    "gente",
+    "popolo"
+  ],
   "pepper": [
     "pepe",
     "peperone"
   ],
   "pepsin": [
     "pepsina"
-  ],
-  "percapita": [
-    "procapite"
   ],
   "perceivable": [
     "percepibile",
@@ -883,9 +888,6 @@
   ],
   "percussion": [
     "percussione"
-  ],
-  "perday": [
-    "algiorno"
   ],
   "peremptory": [
     "perentorio"
@@ -1076,7 +1078,6 @@
     "persistente"
   ],
   "person": [
-    "gente",
     "persona"
   ],
   "personal": [
@@ -1472,8 +1473,7 @@
   ],
   "picture": [
     "fotografia",
-    "quadro",
-    "tabella"
+    "quadro"
   ],
   "pie": [
     "pasticcio",
@@ -1515,6 +1515,7 @@
     "luccio"
   ],
   "pile": [
+    "accatastare",
     "mucchio",
     "pila"
   ],
@@ -1625,8 +1626,10 @@
   "placebo": [
     "placebo"
   ],
+  "placement": [
+    "collocazione"
+  ],
   "placing": [
-    "collocazione",
     "piazzamento",
     "posizionamento"
   ],
@@ -2431,9 +2434,6 @@
   "pre-existing": [
     "preesistente"
   ],
-  "pre-ordering": [
-    "pre-ordinazione"
-  ],
   "preach": [
     "predicare"
   ],
@@ -2621,6 +2621,9 @@
   ],
   "premonition": [
     "premonizione"
+  ],
+  "preordering": [
+    "preordinazione"
   ],
   "preparation": [
     "preparazione"
@@ -3208,6 +3211,9 @@
   "prose": [
     "prosa"
   ],
+  "prosecute": [
+    "perseguire"
+  ],
   "proselytism": [
     "proselitismo"
   ],
@@ -3316,6 +3322,9 @@
   "proud": [
     "fiero",
     "orgoglioso"
+  ],
+  "proudly": [
+    "fieramente"
   ],
   "provable": [
     "dimostrabile"
@@ -3517,6 +3526,15 @@
   ],
   "pulverisation": [
     "polverizzazione"
+  ],
+  "pulverise": [
+    "polverizzare"
+  ],
+  "pulverization": [
+    "polverizzazione"
+  ],
+  "pulverize": [
+    "polverizzare"
   ],
   "pump": [
     "bomba",

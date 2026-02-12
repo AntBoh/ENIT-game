@@ -168,6 +168,9 @@
   "randomisation": [
     "randomizzazione"
   ],
+  "randomly": [
+    "a caso"
+  ],
   "range": [
     "allineare",
     "gamma",
@@ -182,9 +185,6 @@
   ],
   "rapeseed": [
     "colza"
-  ],
-  "rapeseedoil": [
-    "oliodicolza"
   ],
   "rapid": [
     "rapido"
@@ -382,7 +382,7 @@
     "ricordare"
   ],
   "receipt": [
-    "ricvuta",
+    "ricevuta",
     "scontrino"
   ],
   "receive": [
@@ -1150,6 +1150,9 @@
   "replacement": [
     "sostituzione"
   ],
+  "replicate": [
+    "replicare"
+  ],
   "replication": [
     "replicazione"
   ],
@@ -1507,7 +1510,6 @@
   ],
   "retort": [
     "replica",
-    "replicare",
     "ribattere",
     "storta"
   ],
@@ -1532,6 +1534,9 @@
   ],
   "retreat": [
     "retrocedere"
+  ],
+  "retreated": [
+    "ritirato"
   ],
   "retribution": [
     "retribuzione"
@@ -1796,6 +1801,9 @@
   "rigorous": [
     "rigoroso"
   ],
+  "rigorously": [
+    "rigorosamente"
+  ],
   "rigour": [
     "rigore"
   ],
@@ -2005,7 +2013,6 @@
   "round": [
     "arrotondare",
     "intornoa",
-    "ronda",
     "rotondo"
   ],
   "roundabout": [
@@ -2029,6 +2036,7 @@
   ],
   "row": [
     "fila",
+    "remare",
     "riga"
   ],
   "royal": [
@@ -2126,6 +2134,9 @@
   ],
   "rupicolous": [
     "rupicolo"
+  ],
+  "rupture": [
+    "rottura"
   ],
   "rural": [
     "rurale"

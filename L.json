@@ -327,7 +327,8 @@
   ],
   "leave": [
     "congedo",
-    "lasciare"
+    "lasciare",
+    "partire"
   ],
   "leaveaside": [
     "prescindere"
@@ -787,6 +788,9 @@
   "listen": [
     "ascoltare"
   ],
+  "listen to": [
+    "ascoltare"
+  ],
   "listing": [
     "quotazione"
   ],
@@ -906,7 +910,6 @@
     "localizzare"
   ],
   "location": [
-    "collocazione",
     "localizzazione",
     "luogo",
     "ubicazione"
@@ -980,6 +983,9 @@
     "guardare",
     "parere"
   ],
+  "look for": [
+    "cercare"
+  ],
   "lookafter": [
     "vigilare"
   ],
@@ -1049,6 +1055,9 @@
   ],
   "lower": [
     "scendere"
+  ],
+  "lowercase": [
+    "minuscolo"
   ],
   "lowing": [
     "muggito"

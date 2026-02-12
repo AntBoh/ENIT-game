@@ -92,6 +92,7 @@
   ],
   "maggiore": [
     "great",
+    "greater",
     "main",
     "major"
   ],
@@ -727,10 +728,12 @@
     "materialist"
   ],
   "materializzare": [
-    "materialise"
+    "materialise",
+    "materialize"
   ],
   "materializzazione": [
-    "materialisation"
+    "materialisation",
+    "materialization"
   ],
   "materno": [
     "maternal"
@@ -1032,7 +1035,7 @@
     "marvel"
   ],
   "meraviglioso": [
-    "marvellous",
+    "marvelous",
     "wonderful"
   ],
   "mercantile": [
@@ -1119,7 +1122,7 @@
     "mesodermal"
   ],
   "mesone": [
-    "inn"
+    "meson"
   ],
   "mesosfera": [
     "mesosphere"
@@ -1263,7 +1266,8 @@
   ],
   "metro": [
     "metre",
-    "tube"
+    "meter",
+    "subway"
   ],
   "metrologia": [
     "metrology"
@@ -1527,7 +1531,8 @@
     "mineral"
   ],
   "mineralizzazione": [
-    "mineralisation"
+    "mineralisation",
+    "mineralization"
   ],
   "mineralogia": [
     "mineralogy"

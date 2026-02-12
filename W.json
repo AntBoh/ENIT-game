@@ -38,6 +38,7 @@
   ],
   "walk": [
     "camminare",
+    "camminata",
     "passeggio"
   ],
   "wall": [
@@ -155,6 +156,9 @@
   ],
   "water lily": [
     "ninfea"
+  ],
+  "watercolor": [
+    "acquerello"
   ],
   "watercolour": [
     "acquerello"
@@ -378,6 +382,9 @@
     "bianco",
     "white"
   ],
+  "whiteboard": [
+    "lavagna"
+  ],
   "whiting": [
     "merlano"
   ],
@@ -421,7 +428,8 @@
     "ampiamente"
   ],
   "widen": [
-    "allargare"
+    "allargare",
+    "ampliare"
   ],
   "widow": [
     "vedova"
@@ -540,9 +548,6 @@
   "without": [
     "senza"
   ],
-  "without a doubt": [
-    "senzadubbio"
-  ],
   "witness": [
     "testimone",
     "testimoniare"
@@ -647,6 +652,12 @@
   "wrath": [
     "ira"
   ],
+  "wreck": [
+    "rottamare"
+  ],
+  "wreckage": [
+    "rottame"
+  ],
   "wrench": [
     "chiave inglese"
   ],
@@ -660,7 +671,6 @@
     "scrittore"
   ],
   "writing": [
-    "scritto",
     "scrittura"
   ],
   "written": [

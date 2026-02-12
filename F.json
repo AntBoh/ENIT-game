@@ -187,6 +187,9 @@
   "farmyard": [
     "aia"
   ],
+  "fart": [
+    "flatulenza"
+  ],
   "fascinating": [
     "affascinante"
   ],
@@ -392,6 +395,12 @@
   "fermium": [
     "fermio"
   ],
+  "ferocious": [
+    "feroce"
+  ],
+  "ferociously": [
+    "ferocemente"
+  ],
   "ferric": [
     "ferrico"
   ],
@@ -489,8 +498,11 @@
   "field": [
     "campo"
   ],
+  "fierce": [
+    "feroce"
+  ],
   "fiercely": [
-    "fieramente"
+    "ferocemente"
   ],
   "fifteen": [
     "quindici"
@@ -600,6 +612,7 @@
     "filigrana"
   ],
   "fill": [
+    "colmare",
     "riempire"
   ],
   "fillup": [
@@ -690,6 +703,7 @@
   "fire": [
     "fuoco",
     "incendio",
+    "licenziare",
     "sparare"
   ],
   "firefighter": [
@@ -703,6 +717,9 @@
   ],
   "firewood": [
     "legna"
+  ],
+  "firing": [
+    "licenziamento"
   ],
   "firm": [
     "ditta",
@@ -720,13 +737,15 @@
     "fermezza"
   ],
   "first": [
+    "prima",
     "primo"
   ],
   "first and foremost": [
     "innanzitutto"
   ],
   "firstly": [
-    "innanzitutto"
+    "innanzitutto",
+    "prima"
   ],
   "fiscal": [
     "fiscale"

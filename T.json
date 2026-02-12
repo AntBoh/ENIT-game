@@ -3,6 +3,7 @@
     "maglietta"
   ],
   "table": [
+    "tabella",
     "tavola",
     "tavolo"
   ],
@@ -42,7 +43,6 @@
     "girino"
   ],
   "taenia": [
-    "taenia",
     "tenia"
   ],
   "tail": [
@@ -55,6 +55,7 @@
     "taiwanese"
   ],
   "take": [
+    "impiegare",
     "portare",
     "prendere"
   ],
@@ -120,7 +121,8 @@
   "tank": [
     "acquario",
     "carro armato",
-    "contenitore"
+    "contenitore",
+    "tanica"
   ],
   "tanned": [
     "abbronzato"
@@ -211,6 +213,7 @@
     "insegnare"
   ],
   "teacher": [
+    "docente",
     "maestro",
     "professore"
   ],
@@ -926,9 +929,6 @@
   "thrower": [
     "lanciatore"
   ],
-  "throwoffbalance": [
-    "sbilanciare"
-  ],
   "thrust": [
     "spingere"
   ],
@@ -1005,9 +1005,6 @@
   ],
   "timeless": [
     "atemporale"
-  ],
-  "timelimit": [
-    "terminemassimo"
   ],
   "timer": [
     "cronometro"
@@ -1300,7 +1297,7 @@
   "tower": [
     "torre"
   ],
-  "townhall": [
+  "town hall": [
     "municipio"
   ],
   "toxic": [
@@ -1877,9 +1874,6 @@
   "tuba": [
     "tuba"
   ],
-  "tube": [
-    "metro"
-  ],
   "tuber": [
     "tubero"
   ],
@@ -1917,6 +1911,7 @@
     "tundra"
   ],
   "tune": [
+    "accordare",
     "melodia"
   ],
   "tuner": [

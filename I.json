@@ -517,6 +517,9 @@
   "in fairness": [
     "sinceramente"
   ],
+  "in favor": [
+    "a favore"
+  ],
   "in favour": [
     "a favore"
   ],
@@ -742,6 +745,10 @@
   "incredibly": [
     "incredibilmente"
   ],
+  "increment": [
+    "incrementare",
+    "incremento"
+  ],
   "incremental": [
     "incrementale"
   ],
@@ -885,6 +892,9 @@
   "indistinctly": [
     "indistintamente"
   ],
+  "indistinguishable": [
+    "indistinguibile"
+  ],
   "individual": [
     "individuale",
     "individuo"
@@ -940,6 +950,12 @@
     "industrializzazione"
   ],
   "industrialise": [
+    "industrializzare"
+  ],
+  "industrialization": [
+    "industrializzazione"
+  ],
+  "industrialize": [
     "industrializzare"
   ],
   "industrially": [
@@ -1446,7 +1462,6 @@
     "instaurazione"
   ],
   "instead": [
-    "incambio",
     "tuttavia"
   ],
   "instigation": [
@@ -2003,6 +2018,9 @@
   "inversely": [
     "inversamente"
   ],
+  "invert": [
+    "invertire"
+  ],
   "invertible": [
     "invertibile"
   ],
@@ -2076,6 +2094,9 @@
   ],
   "ion": [
     "ione"
+  ],
+  "ionian": [
+    "ionico"
   ],
   "ionic": [
     "ionico"

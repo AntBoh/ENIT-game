@@ -602,7 +602,9 @@
     "particularly"
   ],
   "partire": [
-    "split"
+    "split",
+    "leave",
+    "depart"
   ],
   "partita": [
     "match"
@@ -662,7 +664,8 @@
     "stroll"
   ],
   "passeggiata": [
-    "promenade"
+    "promenade",
+    "walk"
   ],
   "passeggino": [
     "pram",
@@ -1186,9 +1189,6 @@
   "perineo": [
     "perineum"
   ],
-  "perintero": [
-    "entirely"
-  ],
   "periodicamente": [
     "periodically"
   ],
@@ -1307,6 +1307,7 @@
   ],
   "perseguire": [
     "chase",
+    "prosecute",
     "pursue"
   ],
   "perseveranza": [
@@ -2203,10 +2204,13 @@
     "gunpowder"
   ],
   "polverizzare": [
-    "powder"
+    "powder",
+    "pulverise",
+    "pulverize"
   ],
   "polverizzazione": [
-    "pulverisation"
+    "pulverisation",
+    "pulverization"
   ],
   "pomeriggio": [
     "afternoon"
@@ -2253,7 +2257,7 @@
     "population"
   ],
   "popolo": [
-    "village"
+    "people"
   ],
   "poppa": [
     "stern"
@@ -3015,6 +3019,7 @@
   ],
   "primario": [
     "main",
+    "paramount",
     "primary"
   ],
   "primato": [
@@ -3036,12 +3041,11 @@
   "primogenitura": [
     "primogeniture"
   ],
-  "primoministro": [
-    "primeminister"
+  "primo ministro": [
+    "prime minister"
   ],
   "primordiale": [
-    "overriding",
-    "paramount"
+    "primordiale"
   ],
   "principale": [
     "leading",

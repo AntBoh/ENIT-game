@@ -265,7 +265,8 @@
     "lawless"
   ],
   "illimitato": [
-    "boundless"
+    "boundless",
+    "unlimited"
   ],
   "illogico": [
     "illogical"
@@ -600,7 +601,8 @@
   ],
   "impiegare": [
     "employ",
-    "use"
+    "use",
+    "take"
   ],
   "impiegato": [
     "clerk",
@@ -902,10 +904,6 @@
   "incalcolabile": [
     "incalculable"
   ],
-  "incambio": [
-    "conversely",
-    "instead"
-  ],
   "incandescenza": [
     "incandescence"
   ],
@@ -985,7 +983,8 @@
     "incentive"
   ],
   "incerto": [
-    "uncertain"
+    "uncertain",
+    "unsure"
   ],
   "incessante": [
     "incessant"
@@ -1042,10 +1041,12 @@
   "inclinare": [
     "bend",
     "incline",
-    "skew"
+    "skew",
+    "slant"
   ],
   "inclinato": [
-    "inclined"
+    "inclined",
+    "slanted"
   ],
   "inclinazione": [
     "inclination"
@@ -1461,7 +1462,8 @@
     "reprieve"
   ],
   "indurire": [
-    "toughen"
+    "toughen",
+    "harden"
   ],
   "indurre": [
     "induce"
@@ -2744,7 +2746,8 @@
     "invertible"
   ],
   "invertire": [
-    "reverse"
+    "reverse",
+    "invert"
   ],
   "investigare": [
     "investigate"
@@ -2839,7 +2842,8 @@
     "ion"
   ],
   "ionico": [
-    "ionic"
+    "ionic",
+    "ionian"
   ],
   "ionizzazione": [
     "ionisation"

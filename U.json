@@ -68,6 +68,9 @@
   "unavoidable": [
     "inevitabile"
   ],
+  "unbalance": [
+    "sbilanciare"
+  ],
   "unbalanced": [
     "squilibrato"
   ],
@@ -191,6 +194,9 @@
     "sottomarino",
     "subacqueo"
   ],
+  "underwear": [
+    "biancheria"
+  ],
   "undesirable": [
     "indesiderabile"
   ],
@@ -287,9 +293,6 @@
   "unimportance": [
     "insignificanza"
   ],
-  "unimportant": [
-    "senzaimportanza"
-  ],
   "unintellegible": [
     "incomprensibile"
   ],
@@ -362,6 +365,9 @@
   ],
   "unlikely": [
     "improbabile"
+  ],
+  "unlimited": [
+    "illimitato"
   ],
   "unload": [
     "scaricare"
@@ -444,6 +450,7 @@
     "instabile"
   ],
   "unsure": [
+    "incerto",
     "insicuro"
   ],
   "unsustainable": [
@@ -484,6 +491,9 @@
   "upper": [
     "superiore"
   ],
+  "uppercase": [
+    "maiuscolo"
+  ],
   "uprising": [
     "ascesa"
   ],
@@ -515,6 +525,9 @@
   ],
   "urbanistically": [
     "urbanisticamente"
+  ],
+  "urbanization": [
+    "urbanizzazione"
   ],
   "ureter": [
     "uretere"

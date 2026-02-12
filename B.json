@@ -607,7 +607,8 @@
     "credo"
   ],
   "believe": [
-    "credere"
+    "credere",
+    "ritenere"
   ],
   "believer": [
     "credente"
@@ -742,6 +743,9 @@
   ],
   "bevel": [
     "smussatura"
+  ],
+  "beverage": [
+    "bevanda"
   ],
   "bewitch": [
     "incantare"
@@ -1221,7 +1225,8 @@
   "board": [
     "abbordare",
     "bordo",
-    "consiglio"
+    "consiglio",
+    "lavagna"
   ],
   "board game": [
     "gioco da tavolo"
@@ -1240,6 +1245,7 @@
     "corpetto"
   ],
   "body": [
+    "cadavere",
     "corpo"
   ],
   "bodyguard": [
@@ -1341,7 +1347,8 @@
   ],
   "bore": [
     "annoiare",
-    "forare"
+    "forare",
+    "stufare"
   ],
   "boredom": [
     "noia"
@@ -1610,7 +1617,11 @@
     "brigata"
   ],
   "bright": [
-    "brillante"
+    "brillante",
+    "luminoso"
+  ],
+  "brighten": [
+    "illuminare"
   ],
   "brilliant": [
     "brillante"
@@ -1706,6 +1717,9 @@
   ],
   "brotherhood": [
     "fratellanza"
+  ],
+  "brotherly": [
+    "fraterno"
   ],
   "brown": [
     "bruno",

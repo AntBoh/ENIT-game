@@ -948,11 +948,7 @@
     "creak"
   ],
   "scritto": [
-    "writing",
     "written"
-  ],
-  "scrittoconuntrattino": [
-    "hyphenated"
   ],
   "scrittore": [
     "writer"
@@ -1010,7 +1006,8 @@
     "excuse"
   ],
   "sdegnare": [
-    "disdain"
+    "disdain",
+    "despise"
   ],
   "se": [
     "if",
@@ -1258,11 +1255,11 @@
   "semestrale": [
     "semiannual"
   ],
-  "semi-presidenziale": [
-    "semi-presidential"
+  "semipresidenziale": [
+    "semipresidential"
   ],
   "semiautomatico": [
-    "semi-automatic"
+    "semiautomatic"
   ],
   "semicerchio": [
     "semicircle"
@@ -1415,12 +1412,6 @@
   ],
   "senza sforzo": [
     "effortlessly"
-  ],
-  "senzadubbio": [
-    "without a doubt"
-  ],
-  "senzaimportanza": [
-    "unimportant"
   ],
   "separabile": [
     "detachable",
@@ -1829,7 +1820,8 @@
     "exploit"
   ],
   "sfumatura": [
-    "nuance"
+    "nuance",
+    "shade"
   ],
   "sgelare": [
     "thaw"
@@ -2244,10 +2236,12 @@
     "systematic"
   ],
   "sistematizzare": [
-    "systematise"
+    "systematise",
+    "systematize"
   ],
   "sistematizzazione": [
-    "systematisation"
+    "systematisation",
+    "systematization"
   ],
   "sistemazione": [
     "arrangement"
@@ -2392,7 +2386,8 @@
     "Socrates"
   ],
   "soddisfacente": [
-    "satisfactory"
+    "satisfactory",
+    "satisfying"
   ],
   "soddisfare": [
     "satisfy"
@@ -2724,7 +2719,8 @@
     "swallow"
   ],
   "sorvegliante": [
-    "watchdog"
+    "watchdog",
+    "supervisor"
   ],
   "sorveglianza": [
     "surveillance"
@@ -2942,7 +2938,8 @@
     "supernatural"
   ],
   "sovrano": [
-    "sovereign"
+    "sovereign",
+    "paramount"
   ],
   "sovrappopolazione": [
     "overpopulation"
@@ -3568,6 +3565,7 @@
   ],
   "stare": [
     "be",
+    "stay",
     "stand"
   ],
   "starnutire": [
@@ -3660,7 +3658,10 @@
     "blazon"
   ],
   "stendere": [
-    "tend"
+    "lay",
+    "spread",
+    "spread out",
+    "stretch"
   ],
   "stenografia": [
     "shorthand",
@@ -3726,10 +3727,12 @@
     "stigmatic"
   ],
   "stigmatizzare": [
-    "stigmatise"
+    "stigmatise",
+    "stigmatize"
   ],
   "stigmatizzazione": [
-    "stigmatisation"
+    "stigmatisation",
+    "stigmatization"
   ],
   "stile": [
     "style"
@@ -4029,9 +4032,6 @@
   "studente": [
     "student"
   ],
-  "studentesco": [
-    "student"
-  ],
   "studiare": [
     "study"
   ],
@@ -4043,10 +4043,12 @@
     "studious"
   ],
   "stufa": [
-    "stove"
+    "stove",
+    "heater"
   ],
   "stufare": [
-    "stew"
+    "stew",
+    "bore"
   ],
   "stufato": [
     "stew"
@@ -4231,6 +4233,7 @@
   ],
   "superare": [
     "exceed",
+    "overcome",
     "surpass"
   ],
   "superbia": [

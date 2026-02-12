@@ -143,6 +143,9 @@
   "abrogation": [
     "abrogazione"
   ],
+  "abrupt": [
+    "brusco"
+  ],
   "abruptly": [
     "bruscamente"
   ],
@@ -350,6 +353,9 @@
   ],
   "acclimatise": [
     "ambientare"
+  ],
+  "acclimatization": [
+    "acclimatazione"
   ],
   "accommodate": [
     "accogliere"
@@ -710,9 +716,6 @@
   "adhesive": [
     "adesivo"
   ],
-  "adhoc": [
-    "adhoc"
-  ],
   "adiabatic": [
     "adiabatico"
   ],
@@ -1025,7 +1028,7 @@
   "afloat": [
     "a galla"
   ],
-  "african": [
+  "African": [
     "africano"
   ],
   "africanism": [
@@ -1055,9 +1058,6 @@
   ],
   "Agamemnon": [
     "Agamennone"
-  ],
-  "agate": [
-    "agata"
   ],
   "age": [
     "invecchiare"
@@ -1161,6 +1161,7 @@
     "avanti"
   ],
   "aid": [
+    "aiutare",
     "aiuto"
   ],
   "aide": [
@@ -1911,6 +1912,10 @@
   "angry": [
     "arrabbiato"
   ],
+  "anguish": [
+    "angoscia",
+    "angosciare"
+  ],
   "angular": [
     "angolare"
   ],
@@ -2181,6 +2186,7 @@
     "incudine"
   ],
   "anxiety": [
+    "angoscia",
     "ansia"
   ],
   "anxious": [
@@ -2213,7 +2219,7 @@
     "qualunque cosa"
   ],
   "anyway": [
-    "adognimodo"
+    "ad ogni modo"
   ],
   "aorta": [
     "aorta"
@@ -2376,6 +2382,10 @@
   "apprentice": [
     "apprendista"
   ],
+  "apprenticeship": [
+    "apprendistato",
+    "tirocinio"
+  ],
   "approach": [
     "approccio",
     "avvicinamento",
@@ -2391,6 +2401,7 @@
     "approvazione"
   ],
   "approve": [
+    "approvare",
     "vistare"
   ],
   "approximate": [
@@ -2429,6 +2440,9 @@
     "acquacoltura"
   ],
   "aquarium": [
+    "acquario"
+  ],
+  "aquarius": [
     "acquario"
   ],
   "aquatic": [
@@ -2543,6 +2557,9 @@
   "archival": [
     "archivistico"
   ],
+  "archive": [
+    "archivio"
+  ],
   "archivolt": [
     "archivolto"
   ],
@@ -2652,7 +2669,8 @@
   ],
   "army": [
     "armata",
-    "esercito"
+    "esercito",
+    "milizia"
   ],
   "aroma": [
     "aroma"

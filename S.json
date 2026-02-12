@@ -250,7 +250,6 @@
     "soddisfatto"
   ],
   "satisfy": [
-    "colmare",
     "soddisfare"
   ],
   "satrap": [
@@ -302,6 +301,9 @@
   ],
   "saving": [
     "risparmio"
+  ],
+  "savior": [
+    "salvatore"
   ],
   "saviour": [
     "salvatore"
@@ -570,6 +572,9 @@
   "sculpture": [
     "scultura"
   ],
+  "scum": [
+    "feccia"
+  ],
   "sea": [
     "mare"
   ],
@@ -622,9 +627,6 @@
   ],
   "secondary": [
     "secondario"
-  ],
-  "secondaryschool": [
-    "liceo"
   ],
   "secondly": [
     "insecondoluogo"
@@ -793,6 +795,9 @@
   "self-defence": [
     "autodifesa"
   ],
+  "self-defense": [
+    "autodifesa"
+  ],
   "self-determination": [
     "autodeterminazione"
   ],
@@ -815,7 +820,11 @@
     "egoismo"
   ],
   "selfless": [
+    "altruista",
     "disinteressando"
+  ],
+  "selflessness": [
+    "altruismo"
   ],
   "sell": [
     "vendere"
@@ -839,14 +848,11 @@
   "semen": [
     "sperma"
   ],
-  "semi-automatic": [
-    "semiautomatico"
-  ],
-  "semi-presidential": [
-    "semi-presidenziale"
-  ],
   "semiannual": [
     "semestrale"
+  ],
+  "semiautomatic": [
+    "semiautomatico"
   ],
   "semicircle": [
     "semicerchio"
@@ -871,6 +877,9 @@
   ],
   "semiology": [
     "semiologia"
+  ],
+  "semipresidential": [
+    "semipresidenziale"
   ],
   "semivocal": [
     "semivocale"
@@ -1194,7 +1203,8 @@
     "sessualmente"
   ],
   "shade": [
-    "ombra"
+    "ombra",
+    "sfumatura"
   ],
   "shadow": [
     "ombra"
@@ -1233,7 +1243,11 @@
   "shape": [
     "metodo",
     "plasmare",
+    "sagoma",
     "veste"
+  ],
+  "shard": [
+    "scheggia"
   ],
   "share": [
     "azione",
@@ -1443,9 +1457,6 @@
   "showy": [
     "vistoso"
   ],
-  "shrapnel": [
-    "schegge"
-  ],
   "shrew": [
     "toporagno"
   ],
@@ -1594,6 +1605,9 @@
   ],
   "silver": [
     "argento"
+  ],
+  "simbolize": [
+    "simboleggiare"
   ],
   "similar": [
     "simile"
@@ -1894,6 +1908,12 @@
   "slacken": [
     "allentare"
   ],
+  "slant": [
+    "inclinare"
+  ],
+  "slanted": [
+    "inclinato"
+  ],
   "slap": [
     "schiaffo"
   ],
@@ -1926,8 +1946,10 @@
     "sonno"
   ],
   "sleeper": [
-    "dormiente",
     "traversina"
+  ],
+  "sleeping": [
+    "dormiente"
   ],
   "sleepless": [
     "insonne"
@@ -2091,6 +2113,7 @@
   ],
   "so": [
     "così",
+    "dunque",
     "talmente"
   ],
   "soak": [
@@ -2366,7 +2389,8 @@
     "insonorizzazione"
   ],
   "soup": [
-    "minestra"
+    "minestra",
+    "zuppa"
   ],
   "sour": [
     "acido",
@@ -2585,7 +2609,8 @@
   "spiky": [
     "appuntito",
     "irto",
-    "pungente"
+    "pungente",
+    "spinoso"
   ],
   "spill": [
     "rovesciare",
@@ -2667,6 +2692,7 @@
     "scheggia"
   ],
   "split": [
+    "biforcarsi",
     "dividere",
     "partire"
   ],
@@ -2742,7 +2768,8 @@
     "distorsione"
   ],
   "spread": [
-    "diffondere"
+    "diffondere",
+    "divulgare"
   ],
   "spring": [
     "fonte",
@@ -2797,6 +2824,9 @@
   ],
   "stably": [
     "stabilmente"
+  ],
+  "stack": [
+    "accatastare"
   ],
   "stadium": [
     "stadio"
@@ -2885,6 +2915,7 @@
     "stellato"
   ],
   "start": [
+    "avviare",
     "avvio",
     "iniziare"
   ],
@@ -3047,6 +3078,9 @@
     "conficcare",
     "palo"
   ],
+  "sticker": [
+    "adesivo"
+  ],
   "stigma": [
     "stigma"
   ],
@@ -3057,6 +3091,12 @@
     "stigmatizzazione"
   ],
   "stigmatise": [
+    "stigmatizzare"
+  ],
+  "stigmatization": [
+    "stigmatizzazione"
+  ],
+  "stigmatize": [
     "stigmatizzare"
   ],
   "still": [
@@ -3261,6 +3301,9 @@
   "stretcher": [
     "barella"
   ],
+  "strict": [
+    "severo"
+  ],
   "strictly": [
     "rigorosamente",
     "severamente"
@@ -3356,8 +3399,7 @@
   "student": [
     "allievo",
     "alunno",
-    "studente",
-    "studentesco"
+    "studente"
   ],
   "studious": [
     "studioso"
@@ -3593,6 +3635,7 @@
     "suburbano"
   ],
   "subway": [
+    "metro",
     "metropolitana"
   ],
   "succeed": [
@@ -3818,6 +3861,9 @@
   "supervision": [
     "supervisione"
   ],
+  "supervisor": [
+    "sorvegliante"
+  ],
   "supplement": [
     "supplemento"
   ],
@@ -3920,9 +3966,6 @@
   "surrounding": [
     "circostante"
   ],
-  "surroundings": [
-    "ambiente"
-  ],
   "surtax": [
     "soprattassa"
   ],
@@ -4022,6 +4065,9 @@
   ],
   "sweetly": [
     "dolcemente"
+  ],
+  "swelling": [
+    "gonfiore"
   ],
   "swift": [
     "rapido",

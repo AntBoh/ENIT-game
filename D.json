@@ -55,6 +55,7 @@
     "osare"
   ],
   "dark": [
+    "bruno",
     "buio",
     "moro",
     "scuro"
@@ -452,6 +453,9 @@
   "dehumanisation": [
     "disumanizzazione"
   ],
+  "dehumanization": [
+    "disumanizzazione"
+  ],
   "dehumidifier": [
     "deumidificatore"
   ],
@@ -465,6 +469,9 @@
     "divinizzazione"
   ],
   "deindustrialisation": [
+    "deindustrializzazione"
+  ],
+  "deindustrialization": [
     "deindustrializzazione"
   ],
   "deionisation": [
@@ -565,6 +572,9 @@
     "demenza"
   ],
   "demineralisation": [
+    "demineralizzazione"
+  ],
+  "demineralization": [
     "demineralizzazione"
   ],
   "demise": [
@@ -707,8 +717,8 @@
   "dental": [
     "dentale"
   ],
-  "dentalfloss": [
-    "filointerdentale"
+  "dental floss": [
+    "filo interdentale"
   ],
   "dentine": [
     "dentina"
@@ -747,6 +757,9 @@
   ],
   "depalatalisation": [
     "depalatalizzazione"
+  ],
+  "depart": [
+    "partire"
   ],
   "departamental": [
     "dipartimentale"
@@ -979,7 +992,8 @@
     "disperatamente"
   ],
   "despise": [
-    "disprezzare"
+    "disprezzare",
+    "sdegnare"
   ],
   "despite": [
     "nonostante"
@@ -1025,6 +1039,9 @@
   "desulphurisation": [
     "desolforazione"
   ],
+  "desulphurization": [
+    "desolforazione"
+  ],
   "detachable": [
     "separabile"
   ],
@@ -1066,6 +1083,9 @@
   ],
   "determinable": [
     "determinabile"
+  ],
+  "determinant": [
+    "determinante"
   ],
   "determination": [
     "determinazione"
@@ -1367,6 +1387,9 @@
   "dilate": [
     "dilatare"
   ],
+  "dilation": [
+    "dilatazione"
+  ],
   "dilemma": [
     "dilemma"
   ],
@@ -1487,8 +1510,7 @@
     "sporco"
   ],
   "disable": [
-    "disabilitare",
-    "rendereincapace"
+    "disabilitare"
   ],
   "disabled": [
     "disabilitato"
@@ -1670,6 +1692,10 @@
   "dishonest": [
     "disonesto"
   ],
+  "dishonor": [
+    "disonorare",
+    "disonore"
+  ],
   "dishonour": [
     "disonorare",
     "disonore"
@@ -1740,7 +1766,8 @@
     "disobbedienza"
   ],
   "disorder": [
-    "disordine"
+    "disordine",
+    "disturbo"
   ],
   "dispatch": [
     "inviare",
@@ -2155,6 +2182,9 @@
   "doric": [
     "dorico"
   ],
+  "dormant": [
+    "dormiente"
+  ],
   "dormitory": [
     "dormitorio"
   ],
@@ -2210,6 +2240,9 @@
   ],
   "downloadable": [
     "scaricabile"
+  ],
+  "downpour": [
+    "acquazzone"
   ],
   "downward": [
     "discendente",
@@ -2281,9 +2314,6 @@
   "dream": [
     "sognare",
     "sogno"
-  ],
-  "dregs": [
-    "feccia"
   ],
   "dress": [
     "abito",
@@ -2372,6 +2402,9 @@
   "drunkard": [
     "ubriaco"
   ],
+  "drunken": [
+    "ubriaco"
+  ],
   "drunkenness": [
     "ebbrezza",
     "ubriachezza"
@@ -2400,6 +2433,7 @@
     "dualismo"
   ],
   "dub": [
+    "doppiaggio",
     "doppiare"
   ],
   "dubbing": [

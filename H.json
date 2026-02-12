@@ -376,6 +376,10 @@
   "healthy": [
     "sano"
   ],
+  "heap": [
+    "ammasso",
+    "cumulo"
+  ],
   "hear": [
     "sentire",
     "udire"
@@ -396,7 +400,8 @@
   ],
   "heater": [
     "riscaldatore",
-    "scaldabagno"
+    "scaldabagno",
+    "stufa"
   ],
   "heath": [
     "brughiera"
@@ -960,6 +965,10 @@
   "honeymoon": [
     "luna di miele"
   ],
+  "honor": [
+    "onorare",
+    "onore"
+  ],
   "honorific": [
     "onorifico"
   ],
@@ -1079,9 +1088,6 @@
   "household": [
     "casa"
   ],
-  "houseofrepresentatives": [
-    "cameradeirappresentanti"
-  ],
   "housing": [
     "alloggio"
   ],
@@ -1096,6 +1102,9 @@
   ],
   "howmuch": [
     "quanto"
+  ],
+  "hug": [
+    "abbracciare"
   ],
   "huge": [
     "enorme"
@@ -1126,6 +1135,12 @@
   ],
   "humanitarian": [
     "umanitario"
+  ],
+  "humanity": [
+    "umanità"
+  ],
+  "humanize": [
+    "umanizzare"
   ],
   "humanly": [
     "umanamente"
@@ -1351,9 +1366,6 @@
   ],
   "hyphen": [
     "trattino"
-  ],
-  "hyphenated": [
-    "scrittoconuntrattino"
   ],
   "hypnosis": [
     "ipnosi"

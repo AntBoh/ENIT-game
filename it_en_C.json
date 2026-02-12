@@ -32,7 +32,9 @@
     "cactus"
   ],
   "cadavere": [
-    "corpse"
+    "corpse",
+    "body",
+    "cadaver"
   ],
   "cadenza": [
     "cadence"
@@ -231,9 +233,6 @@
   "camera da letto": [
     "bedroom"
   ],
-  "cameradeirappresentanti": [
-    "houseofrepresentatives"
-  ],
   "cameraman": [
     "cameraman"
   ],
@@ -273,7 +272,8 @@
     "walk"
   ],
   "camminata": [
-    "trek"
+    "trek",
+    "walk"
   ],
   "cammino": [
     "path",
@@ -1063,7 +1063,8 @@
     "capture"
   ],
   "catturare": [
-    "capture"
+    "capture",
+    "catch"
   ],
   "causa": [
     "cause"
@@ -1285,7 +1286,8 @@
     "centriole"
   ],
   "centro": [
-    "centre"
+    "centre",
+    "center"
   ],
   "centro giovanile": [
     "youth centre"
@@ -1313,7 +1315,8 @@
   ],
   "cercare": [
     "search",
-    "seek"
+    "seek",
+    "look for"
   ],
   "cerchio": [
     "circle",
@@ -1961,7 +1964,8 @@
     "civilise"
   ],
   "ciò": [
-    "this"
+    "this",
+    "that"
   ],
   "cladismo": [
     "cladism"
@@ -2336,8 +2340,8 @@
     "position"
   ],
   "collocazione": [
-    "location",
-    "placing"
+    "collocation",
+    "placement"
   ],
   "colloide": [
     "colloid"
@@ -2358,7 +2362,7 @@
     "colluvial"
   ],
   "colmare": [
-    "satisfy"
+    "fill"
   ],
   "colofonia": [
     "colophony"
@@ -2449,7 +2453,8 @@
     "fault"
   ],
   "colpevole": [
-    "guilty"
+    "guilty",
+    "culprit"
   ],
   "colpire": [
     "bang",
@@ -2457,7 +2462,8 @@
     "strike"
   ],
   "colpito": [
-    "struck"
+    "struck",
+    "hit"
   ],
   "colpo": [
     "bang",
@@ -2584,10 +2590,12 @@
     "commercial"
   ],
   "commercializzare": [
-    "commercialise"
+    "commercialise",
+    "commercialize"
   ],
   "commercializzazione": [
-    "commercialisation"
+    "commercialisation",
+    "commercialization"
   ],
   "commercialmente": [
     "commercially"
@@ -4355,9 +4363,6 @@
   "costante": [
     "constant"
   ],
-  "costantedidirac": [
-    "diracconstant"
-  ],
   "costantemente": [
     "constantly"
   ],
@@ -4825,7 +4830,8 @@
     "wedge"
   ],
   "cuocere": [
-    "bake"
+    "bake",
+    "cook"
   ],
   "cuoco": [
     "chef",
