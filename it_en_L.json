@@ -19,14 +19,12 @@
     "labiodental"
   ],
   "labirinto": [
-    "labyrinth"
+    "labyrinth",
+    "maze"
   ],
   "laboratorio": [
     "lab",
     "laboratory"
-  ],
-  "laburista": [
-    "labour party member"
   ],
   "laccare": [
     "lacquer"
@@ -91,6 +89,16 @@
   ],
   "lampada": [
     "lamp"
+  ],
+  "lampeggiare":[
+    "flicker",
+    "flash",
+    "blink"
+  ],
+  "lampeggiante":[
+    "flickering",
+    "flashing",
+    "blinking"
   ],
   "lampadina": [
     "lightbulb"
@@ -420,6 +428,9 @@
   ],
   "leone": [
     "lion",
+    "leo"
+  ],
+  "leonessa":[
     "lioness"
   ],
   "leopardato": [
@@ -547,10 +558,12 @@
     "liberality"
   ],
   "liberalizzare": [
-    "liberalise"
+    "liberalise",
+    "liberalize"
   ],
   "liberalizzazione": [
-    "liberalisation"
+    "liberalisation",
+    "liberalization"
   ],
   "liberamente": [
     "freely",
@@ -720,7 +733,8 @@
     "liquefaction"
   ],
   "liquidare": [
-    "clear"
+    "clear",
+    "liquidate"
   ],
   "liquidazione": [
     "liquidation"
@@ -733,7 +747,8 @@
   ],
   "liquore": [
     "liqueur",
-    "liquor"
+    "liquor",
+    "booze"
   ],
   "lira": [
     "lyre"
@@ -795,7 +810,8 @@
     "lithosphere"
   ],
   "litro": [
-    "litre"
+    "litre",
+    "liter"
   ],
   "Lituania": [
     "Lithuania"
@@ -946,7 +962,8 @@
     "padlock"
   ],
   "luccichio": [
-    "shine"
+    "glitter",
+    "sparkle"
   ],
   "luccio": [
     "pike"

@@ -236,13 +236,15 @@
     "imprecation"
   ],
   "maleducato": [
-    "boor"
+    "boor",
+    "rude"
   ],
   "malevolenza": [
     "malevolence"
   ],
   "malfattore": [
-    "delinquent"
+    "delinquent",
+    "evil doer"
   ],
   "malformazione": [
     "malformation"
@@ -251,22 +253,20 @@
     "although"
   ],
   "maligno": [
-    "malignant"
+    "malignant",
+    "evil"
   ],
   "malizia": [
     "malice"
   ],
   "malizioso": [
-    "wanton"
+    "malicious"
   ],
   "malleabile": [
     "malleable"
   ],
   "malnutrizione": [
     "malnutrition"
-  ],
-  "maltese": [
-    "maltese"
   ],
   "malto": [
     "malt"
@@ -672,7 +672,8 @@
     "maximalist"
   ],
   "massimizzazione": [
-    "maximisation"
+    "maximisation",
+    "maximization"
   ],
   "massimo": [
     "maximal",
@@ -701,7 +702,9 @@
     "mastodon"
   ],
   "matematica": [
-    "mathematics"
+    "mathematics",
+    "math",
+    "maths"
   ],
   "matematicamente": [
     "mathematically"
@@ -1497,10 +1500,12 @@
     "milligramme"
   ],
   "millilitro": [
-    "millilitre"
+    "millilitre",
+    "milliliter"
   ],
   "millimetro": [
-    "millimetre"
+    "millimetre",
+    "millimeter"
   ],
   "millisecondo": [
     "millisecond"
@@ -1718,7 +1723,8 @@
   ],
   "misura": [
     "measure",
-    "size"
+    "size",
+    "measurement"
   ],
   "misurabile": [
     "measurable"
@@ -2208,7 +2214,10 @@
     "mosque"
   ],
   "moscovito": [
-    "muscovite"
+    "Muscovite"
+  ],
+  "muso":[
+    "snout"
   ],
   "mossa": [
     "move"

@@ -112,7 +112,8 @@
     "crossbow"
   ],
   "balia": [
-    "wetnurse"
+    "wetnurse",
+    "mercy"
   ],
   "balistico": [
     "ballistic"
@@ -241,6 +242,9 @@
     "barbarism"
   ],
   "barbaro": [
+    "barbarian"
+  ],
+  "barbarico":[
     "barbaric"
   ],
   "barbecue": [
@@ -357,7 +361,8 @@
   ],
   "bastone": [
     "baton",
-    "rod"
+    "rod",
+    "stick"
   ],
   "batista": [
     "batiste"
@@ -476,7 +481,9 @@
     "beneficial"
   ],
   "benessere": [
-    "welfare"
+    "welfare",
+    "well being",
+    "comfort"
   ],
   "benevolenza": [
     "benevolence"

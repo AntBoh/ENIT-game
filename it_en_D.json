@@ -32,16 +32,8 @@
   ],
   "dado": [
     "die",
-    "nut"
-  ],
-  "dafrutta": [
-    "fruit"
-  ],
-  "dall'estero": [
-    "fromabroad"
-  ],
-  "dalmomentoche": [
-    "since"
+    "nut",
+    "dice"
   ],
   "daltonismo": [
     "daltonism"
@@ -54,7 +46,8 @@
     "Damascus"
   ],
   "damigiana": [
-    "carboy"
+    "carboy",
+    "demijohn"
   ],
   "danese": [
     "Danish"
@@ -257,10 +250,14 @@
     "take off"
   ],
   "decolonizzazione": [
-    "decolonisation"
+    "decolonisation",
+    "decolonization"
   ],
   "decolorazione": [
-    "decolourisation"
+    "decolourisation",
+    "decolorisation",
+    "decolourization",
+    "decolorization"
   ],
   "decompilare": [
     "decompile"
@@ -470,20 +467,8 @@
     "delicious",
     "delightful"
   ],
-  "dell'ovest": [
-    "west"
-  ],
-  "delnord": [
-    "north"
-  ],
   "delocalizzazione": [
     "relocation"
-  ],
-  "delsud": [
-    "southern"
-  ],
-  "delta": [
-    "delta"
   ],
   "deltoide": [
     "deltoid"
@@ -946,7 +931,9 @@
     "devastation"
   ],
   "deviare": [
-    "divert"
+    "divert",
+    "deviate",
+    "deflect"
   ],
   "deviazione": [
     "detour",
@@ -1110,7 +1097,9 @@
     "declaredly"
   ],
   "dichiarazione": [
-    "statement"
+    "statement",
+    "declaration",
+    "proposal"
   ],
   "diciannove": [
     "nineteen"

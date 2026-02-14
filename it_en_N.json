@@ -800,7 +800,8 @@
     "invalid"
   ],
   "numerabile": [
-    "denumerable"
+    "denumerable",
+    "countable"
   ],
   "numerare": [
     "number"
@@ -851,7 +852,8 @@
     "nourishment"
   ],
   "nutrire": [
-    "nourish"
+    "nourish",
+    "feed"
   ],
   "nutritivo": [
     "nutritious"

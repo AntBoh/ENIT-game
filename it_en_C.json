@@ -913,7 +913,8 @@
     "punish"
   ],
   "castiglianizzazione": [
-    "castilianisation"
+    "castilianisation",
+    "castilianization"
   ],
   "castigo": [
     "punishment"
@@ -1218,7 +1219,8 @@
     "dine"
   ],
   "cenere": [
-    "ash"
+    "ash",
+    "cinder"
   ],
   "censimento": [
     "census"
@@ -1242,10 +1244,12 @@
     "centigrade"
   ],
   "centilitro": [
-    "centilitre"
+    "centilitre",
+    "centiliter"
   ],
   "centimetro": [
-    "centimetre"
+    "centimetre",
+    "centimeter"
   ],
   "centinaio": [
     "hundred"
@@ -1365,6 +1369,10 @@
   ],
   "cervelletto": [
     "cerebellum"
+  ],
+  "clacson":[
+    "horn",
+    "klaxon"
   ],
   "cervello": [
     "brain"
@@ -1517,7 +1525,8 @@
     "quinine"
   ],
   "chiocciola": [
-    "snail"
+    "snail",
+    "at"
   ],
   "chiodo": [
     "nail"
@@ -2806,16 +2815,22 @@
     "compose"
   ],
   "comportamentale": [
-    "behavioural"
+    "behavioural",
+    "behavioral"
   ],
   "comportamentismo": [
-    "behaviourism"
+    "behaviourism",
+    "behaviorism"
   ],
   "comportamento": [
-    "behaviour"
+    "behaviour",
+    "behavior"
   ],
   "comportare": [
     "comport"
+  ],
+  "comportarsi":[
+    "behave"
   ],
   "compositore": [
     "composer",
@@ -3030,7 +3045,8 @@
   ],
   "concorrente": [
     "competitor",
-    "concurrent"
+    "concurrent",
+    "contestant"
   ],
   "concorrenza": [
     "competition"
@@ -3162,7 +3178,9 @@
     "confectionery"
   ],
   "confezione": [
-    "package"
+    "packaging",
+    "package",
+    "confection"
   ],
   "conficcare": [
     "stick"
@@ -3483,7 +3501,7 @@
   ],
   "consigliabile": [
     "advisable",
-    "advisory"
+    "recommendable"
   ],
   "consigliare": [
     "advise",
@@ -3577,7 +3595,8 @@
     "consultation"
   ],
   "consultivo": [
-    "consultative"
+    "consultative",
+    "advisory"
   ],
   "consumare": [
     "consume",
@@ -3859,13 +3878,13 @@
     "controllable"
   ],
   "controllare": [
-    "control"
+    "control",
+    "check",
+    "monitor"
   ],
   "controllo": [
-    "auditing",
     "check",
     "control",
-    "hold",
     "monitoring"
   ],
   "controllore": [
@@ -4245,7 +4264,8 @@
     "correspond"
   ],
   "corrompere": [
-    "bribe"
+    "bribe",
+    "corrupt"
   ],
   "corrosione": [
     "corrosion"
@@ -4254,7 +4274,8 @@
     "corrosive"
   ],
   "corrotto": [
-    "corrupt"
+    "corrupt",
+    "corrupted"
   ],
   "corruzione": [
     "bribery",

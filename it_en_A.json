@@ -4,6 +4,10 @@
     "in",
     "to"
   ],
+  "agio":[
+    "ease",
+    "comfort"
+  ],
   "a bordo": [
     "aboard"
   ],
@@ -796,11 +800,8 @@
     "adrenaline",
     "epinephrine"
   ],
-  "adret": [
-    "adret"
-  ],
   "adriatico": [
-    "adriatic"
+    "Adriatic"
   ],
   "adsorbimento": [
     "adsorption"
@@ -1091,13 +1092,15 @@
     "aggravate"
   ],
   "aggredire": [
-    "attack"
+    "attack",
+    "assault"
   ],
   "aggregazione": [
     "aggregation"
   ],
   "aggressione": [
     "assault",
+    "aggression",
     "battery"
   ],
   "aggressivo": [
@@ -1340,7 +1343,8 @@
     "alimentation"
   ],
   "alimento": [
-    "food"
+    "food",
+    "aliment"
   ],
   "aliquota": [
     "rate"
@@ -1352,9 +1356,7 @@
     "abroad"
   ],
   "all'indietro": [
-    "backtofront",
-    "backwards",
-    "wrongsideout"
+    "backwards"
   ],
   "all'inizio": [
     "at first"
@@ -1401,7 +1403,8 @@
     "ally"
   ],
   "allegato": [
-    "annex"
+    "attachment",
+    "attached"
   ],
   "allegoria": [
     "allegory"
@@ -1954,7 +1957,8 @@
     "amperometry"
   ],
   "amperometro": [
-    "ammeter"
+    "ammeter",
+    "amperometer"
   ],
   "ampiamente": [
     "widely"
@@ -3222,6 +3226,10 @@
   "artigiano": [
     "artisan"
   ],
+  "attutire":[
+    "cushion",
+    "deaden"
+  ],
   "artiglieria": [
     "artillery"
   ],
@@ -3280,7 +3288,8 @@
     "lift"
   ],
   "ascesa": [
-    "uprising"
+    "uprising",
+    "ascent"
   ],
   "ascesso": [
     "abscess"
@@ -3407,20 +3416,24 @@
     "assault"
   ],
   "assassinare": [
-    "murder"
+    "murder",
+    "assassinate"
   ],
   "assassinio": [
-    "murder"
+    "murder",
+    "assassination"
   ],
   "assassino": [
-    "murderer"
+    "murderer",
+    "assassin"
   ],
   "asse": [
     "axis",
-    "iron"
+    "plank"
   ],
   "assediare": [
-    "besiege"
+    "besiege",
+    "siege"
   ],
   "assedio": [
     "siege"
@@ -4004,7 +4017,7 @@
     "authentically"
   ],
   "autenticare": [
-    "notarise"
+    "authenticate"
   ],
   "autenticazione": [
     "authentication"
@@ -4143,6 +4156,7 @@
   "autorizzazione": [
     "authorisation",
     "permission",
+    "authorization",
     "permit"
   ],
   "autosoma": [

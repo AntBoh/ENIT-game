@@ -166,7 +166,8 @@
   "raggiungere": [
     "achieve",
     "attain",
-    "get"
+    "get",
+    "reach"
   ],
   "raggruppare": [
     "group"
@@ -391,16 +392,21 @@
     "attainable"
   ],
   "realizzare": [
-    "realise"
+    "realise",
+    "realize"
   ],
   "realizzazione": [
-    "realisation"
+    "realisation",
+    "realization"
   ],
   "realmente": [
     "really"
   ],
   "reato": [
     "offence"
+  ],
+  "rimare":[
+    "rhyme"
   ],
   "reattanza": [
     "reactance"
@@ -602,7 +608,8 @@
     "rule"
   ],
   "regolamentare": [
-    "regulate"
+    "regulate",
+    "regulatory"
   ],
   "regolamento": [
     "regulation"
@@ -612,7 +619,8 @@
     "regulate"
   ],
   "regolarizzazione": [
-    "regularisation"
+    "regularisation",
+    "regularization"
   ],
   "regolarmente": [
     "regularly"

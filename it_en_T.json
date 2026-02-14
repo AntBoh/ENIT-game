@@ -996,7 +996,8 @@
     "lathe"
   ],
   "toro": [
-    "bull"
+    "bull",
+    "taurus"
   ],
   "torre": [
     "rook",
@@ -1184,14 +1185,15 @@
     "plot"
   ],
   "tramare": [
-    "weave"
+    "weave",
+    "plot"
   ],
   "trambusto": [
     "bustle"
   ],
   "tramite": [
-    "by mean sof",
-    "link"
+    "through",
+    "medium"
   ],
   "trance": [
     "hardship"
@@ -1716,7 +1718,8 @@
     "trick"
   ],
   "truffa": [
-    "swindle"
+    "swindle",
+    "scam"
   ],
   "truppa": [
     "troop"

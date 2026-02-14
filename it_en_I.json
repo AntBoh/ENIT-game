@@ -986,6 +986,9 @@
     "uncertain",
     "unsure"
   ],
+  "incertezza":[
+    "uncertainty"
+  ],
   "incessante": [
     "incessant"
   ],
@@ -1273,7 +1276,8 @@
     "indeterminate"
   ],
   "indeterminazione": [
-    "uncertainty"
+    "uncertainty",
+    "indeterminazione"
   ],
   "indiano": [
     "Indian"
@@ -1334,7 +1338,8 @@
     "indignation"
   ],
   "indimostrabile": [
-    "undemonstrable"
+    "undemonstrable",
+    "unprovable"
   ],
   "indipendente": [
     "independent"
@@ -2023,9 +2028,6 @@
     "set",
     "together"
   ],
-  "insignia": [
-    "insignia"
-  ],
   "insignificante": [
     "insignificant",
     "meaningless"
@@ -2361,7 +2363,8 @@
     "interminable"
   ],
   "intermittente": [
-    "intermittent"
+    "intermittent",
+    "flickering"
   ],
   "intermolecolare": [
     "intermolecular"
@@ -3124,7 +3127,8 @@
     "isogamy"
   ],
   "isola": [
-    "island"
+    "island",
+    "isle"
   ],
   "Isola di Man": [
     "Isle of Man"

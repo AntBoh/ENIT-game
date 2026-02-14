@@ -267,7 +267,9 @@
     "sanitary"
   ],
   "sano": [
-    "healthy"
+    "healthy",
+    "sano",
+    "sound"
   ],
   "Sansone": [
     "Samson"
@@ -1495,13 +1497,13 @@
     "shut"
   ],
   "serratura": [
-    "lock"
+    "lock",
+    "keyhole"
   ],
-  "serse": [
-    "xerxes"
+  "Serse": [
+    "Xerxes"
   ],
   "servire": [
-    "dish",
     "serve"
   ],
   "servizievole": [
@@ -2095,7 +2097,8 @@
     "syndicalist"
   ],
   "sindacato": [
-    "union"
+    "union",
+    "syndicate"
   ],
   "sindaco": [
     "mayor"
@@ -2320,7 +2323,10 @@
     "grimace"
   ],
   "smorzare": [
-    "dim"
+    "dim",
+    "cushion",
+    "dampen",
+    "muffle"
   ],
   "smussatura": [
     "bevel"
@@ -2470,7 +2476,8 @@
     "cruise"
   ],
   "solco": [
-    "rut"
+    "rut",
+    "furrow"
   ],
   "soldato": [
     "soldier"
@@ -3390,7 +3397,7 @@
     "marry"
   ],
   "sposarsi": [
-    "getmarried"
+    "get married"
   ],
   "sposo": [
     "spouse"
@@ -3838,10 +3845,12 @@
     "historiography"
   ],
   "storno": [
-    "transfer"
+    "transfer",
+    "starling"
   ],
   "storta": [
-    "retort"
+    "retort",
+    "sprain"
   ],
   "stoviglie": [
     "tableware"
@@ -3901,7 +3910,8 @@
     "strategically"
   ],
   "strategico": [
-    "strategic"
+    "strategic",
+    "strategical"
   ],
   "stratificazione": [
     "stratification"
@@ -4226,7 +4236,7 @@
     "sound"
   ],
   "suoneria": [
-    "ringer"
+    "ringtone"
   ],
   "suono": [
     "sound"

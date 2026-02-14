@@ -170,12 +170,6 @@
   "fare domanda": [
     "apply"
   ],
-  "fareappello": [
-    "appeal"
-  ],
-  "farerima": [
-    "rhyme"
-  ],
   "farfalla": [
     "butterfly"
   ],
@@ -208,7 +202,11 @@
     "pharmacopoeia"
   ],
   "faro": [
-    "lighthouse"
+    "lighthouse",
+    "headlight"
+  ],
+  "fanale":[
+    "headlight"
   ],
   "farsa": [
     "farce"
@@ -610,10 +608,8 @@
     "fibrin"
   ],
   "fico": [
-    "fig"
-  ],
-  "ficus": [
-    "ficus"
+    "fig",
+    "cool"
   ],
   "fidanzamento": [
     "engagement"
@@ -661,8 +657,10 @@
   ],
   "figlio": [
     "child",
-    "daughter",
     "son"
+  ],
+  "figlia":[
+    "daughter"
   ],
   "figlioccia": [
     "goddaughter"
@@ -1435,7 +1433,7 @@
     "fragile"
   ],
   "fragola": [
-    "fragaria"
+    "strawberry"
   ],
   "frammentazione": [
     "fragmentation"
@@ -1642,6 +1640,9 @@
   ],
   "frustrare": [
     "frustrate"
+  ],
+  "frutteto":[
+    "orchard"
   ],
   "frustrazione": [
     "frustration"

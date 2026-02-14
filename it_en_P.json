@@ -1091,7 +1091,9 @@
   ],
   "percorso": [
     "route",
-    "trail"
+    "trail",
+    "path",
+    "course"
   ],
   "percussione": [
     "percussion"
@@ -1373,7 +1375,9 @@
     "therefore"
   ],
   "pertica": [
-    "pole"
+    "pole",
+    "perch",
+    "roost"
   ],
   "pertinente": [
     "pertinent",
@@ -1674,7 +1678,8 @@
     "art gallery"
   ],
   "pineta": [
-    "pinewood"
+    "pinewood",
+    "pine forest"
   ],
   "pinguino": [
     "penguin"
@@ -1683,7 +1688,9 @@
     "pine"
   ],
   "pinza": [
-    "clip"
+    "clip",
+    "plier",
+    "claw"
   ],
   "pioggia": [
     "rain"
@@ -2259,9 +2266,6 @@
   "popolo": [
     "people"
   ],
-  "poppa": [
-    "stern"
-  ],
   "populismo": [
     "populism"
   ],
@@ -2269,11 +2273,13 @@
     "populist"
   ],
   "porcellana": [
-    "china"
+    "china",
+    "porcelain"
   ],
   "porcile": [
-    "pig pen",
-    "pigsty"
+    "pigpen",
+    "pigsty",
+    "sty"
   ],
   "porco": [
     "pig",
