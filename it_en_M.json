@@ -59,6 +59,9 @@
   "madrileno": [
     "Madridian"
   ],
+  "manufatto":[
+    "artifact"
+  ],
   "madrina": [
     "godmother"
   ],
@@ -165,7 +168,8 @@
   "magnifico": [
     "glorious",
     "magnificent",
-    "superb"
+    "superb",
+    "splendid"
   ],
   "magnitudine": [
     "magnitude"
@@ -174,7 +178,10 @@
     "magnitude"
   ],
   "mago": [
-    "magician"
+    "magician",
+    "wizard",
+    "mage",
+    "warlock"
   ],
   "magrebino": [
     "maghrebian"
@@ -509,9 +516,6 @@
     "rot",
     "spoil"
   ],
-  "marco": [
-    "frame"
-  ],
   "mare": [
     "sea"
   ],
@@ -642,9 +646,6 @@
   ],
   "mascolino": [
     "masculine"
-  ],
-  "maser": [
-    "maser"
   ],
   "masochismo": [
     "masochism"
@@ -962,10 +963,12 @@
     "memory"
   ],
   "memorizzare": [
-    "memorise"
+    "memorise",
+    "memorize"
   ],
   "memorizzazione": [
-    "memorisation"
+    "memorisation",
+    "memorization"
   ],
   "mendelevio": [
     "mendelevium"
@@ -973,11 +976,9 @@
   "mendicante": [
     "beggar"
   ],
-  "menhir": [
-    "menhir"
-  ],
   "meno": [
     "fewer",
+    "minus",
     "least",
     "less"
   ],
@@ -2057,7 +2058,8 @@
     "monopoly"
   ],
   "monopolizzare": [
-    "monopolise"
+    "monopolise",
+    "monopolize"
   ],
   "monopolo": [
     "monopole"

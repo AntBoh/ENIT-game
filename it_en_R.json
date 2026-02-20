@@ -282,7 +282,8 @@
     "representative"
   ],
   "rappresentazione": [
-    "representation"
+    "representation",
+    "depiction"
   ],
   "rapsodia": [
     "rhapsody"
@@ -587,6 +588,9 @@
   "registrare": [
     "record",
     "register"
+  ],
+  "ratto":[
+    "rat"
   ],
   "registrazione": [
     "recording"
@@ -1287,7 +1291,8 @@
     "redistribution"
   ],
   "ridondanza": [
-    "redundancy"
+    "redundancy",
+    "redundance"
   ],
   "riducibile": [
     "reducible"
@@ -1502,9 +1507,6 @@
     "refund",
     "repayment"
   ],
-  "rimborsoanticipato": [
-    "earlyrepayment"
-  ],
   "rimboscare": [
     "reforest"
   ],
@@ -1515,7 +1517,8 @@
     "remedy"
   ],
   "rimessa": [
-    "shed"
+    "shed",
+    "depot"
   ],
   "rimettere": [
     "remit"
@@ -1782,7 +1785,9 @@
     "resource"
   ],
   "risparmiare": [
-    "spare"
+    "spare",
+    "save up",
+    "save"
   ],
   "risparmio": [
     "saving"
@@ -2291,7 +2296,8 @@
     "rural"
   ],
   "ruralizzazione": [
-    "ruralisation"
+    "ruralisation",
+    "ruralization"
   ],
   "ruscello": [
     "brook"

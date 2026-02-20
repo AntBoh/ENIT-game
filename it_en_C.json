@@ -116,7 +116,8 @@
     "calculable"
   ],
   "calcolare": [
-    "compute"
+    "compute",
+    "calculate"
   ],
   "calcolatore": [
     "calculator"
@@ -597,7 +598,9 @@
     "capsule"
   ],
   "captare": [
-    "pick up"
+    "pick up",
+    "detect",
+    "capture"
   ],
   "captazione": [
     "catchment"
@@ -856,14 +859,9 @@
     "house",
     "household"
   ],
-  "casaeditrice": [
-    "publishinghouse"
-  ],
-  "casamadre": [
-    "parentcompany"
-  ],
   "cascare": [
-    "crack"
+    "tumble",
+    "fall"
   ],
   "cascata": [
     "waterfall"
@@ -1120,7 +1118,8 @@
     "horse"
   ],
   "caverna": [
-    "cave"
+    "cave",
+    "cavern"
   ],
   "cavezza": [
     "halter"
@@ -1503,7 +1502,8 @@
     "kilocalory"
   ],
   "chilogrammo": [
-    "kilogram"
+    "kilogram",
+    "kilogramme"
   ],
   "chilometro": [
     "kilometre"
@@ -2153,6 +2153,12 @@
   "coda": [
     "tail"
   ],
+  "codardo":[
+    "coward"
+  ],
+  "codardia":[
+    "cowardice"
+  ],
   "codesti": [
     "these"
   ],
@@ -2230,12 +2236,6 @@
   ],
   "coinvolgimento": [
     "involvement"
-  ],
-  "coito": [
-    "coitus"
-  ],
-  "coitus": [
-    "coitus"
   ],
   "colare": [
     "drain",
@@ -3246,19 +3246,21 @@
     "forming"
   ],
   "conforme": [
-    "standard"
+    "compliant"
   ],
   "conformismo": [
     "conformism"
   ],
   "confortare": [
-    "solace"
+    "solace",
+    "comfort"
   ],
   "confortevole": [
     "comfortable"
   ],
   "conforto": [
-    "solace"
+    "solace",
+    "comfort"
   ],
   "confraternita": [
     "confraternity",
@@ -3538,7 +3540,6 @@
     "solace"
   ],
   "console": [
-    "console",
     "consul"
   ],
   "consolidamento": [
@@ -3546,9 +3547,6 @@
   ],
   "consolidare": [
     "consolidate"
-  ],
-  "consolle": [
-    "console"
   ],
   "consonante": [
     "consonant"
@@ -3892,6 +3890,9 @@
   ],
   "controprogrammazione": [
     "counterprogramming"
+  ],
+  "controproducente":[
+    "counterproductive"
   ],
   "controspionaggio": [
     "counterespionage"

@@ -53,9 +53,6 @@
     "be worth",
     "cost"
   ],
-  "valere la pena": [
-    "be worth while"
-  ],
   "validare": [
     "validate"
   ],
@@ -71,17 +68,15 @@
   ],
   "valore": [
     "value",
-    "worth"
+    "worth",
+    "valor"
   ],
   "valorizzazione": [
-    "valorisation"
+    "valorisation",
+    "valorization"
   ],
   "valuta": [
     "currency"
-  ],
-  "valutadireserva": [
-    "anchorcurrency",
-    "reservecurrency"
   ],
   "valutare": [
     "appraise",
@@ -97,9 +92,6 @@
   ],
   "valvola": [
     "valve"
-  ],
-  "vampiressa": [
-    "vamp"
   ],
   "vampiro": [
     "vampire"
@@ -264,6 +256,9 @@
   ],
   "velluto": [
     "velvet"
+  ],
+  "vello":[
+    "fleece"
   ],
   "velo": [
     "shroud",
@@ -583,7 +578,8 @@
     "glassmaker"
   ],
   "vetreria": [
-    "glassware"
+    "glassware",
+    "glassworks"
   ],
   "vetrina": [
     "shopwindow"
@@ -900,10 +896,14 @@
     "visual"
   ],
   "visualizzare": [
-    "visualise"
+    "visualise",
+    "view",
+    "visualize"
   ],
   "visualizzazione": [
-    "visualisation"
+    "visualisation",
+    "view",
+    "visualization"
   ],
   "vita": [
     "life"

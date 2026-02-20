@@ -428,7 +428,8 @@
     "homophone"
   ],
   "omogeneizzazione": [
-    "homogenisation"
+    "homogenisation",
+    "homogenization"
   ],
   "omografia": [
     "homography"
@@ -501,21 +502,23 @@
     "onomatopoeic"
   ],
   "onorabile": [
-    "honourable"
+    "honourable",
+    "honorable"
   ],
   "onorare": [
     "honour",
     "honor"
   ],
   "onorario": [
-    "honourary"
+    "honorary"
   ],
   "onore": [
     "honour",
     "honor"
   ],
   "onorificenza": [
-    "honour"
+    "honour",
+    "honor"
   ],
   "onorifico": [
     "honorific"
@@ -585,7 +588,8 @@
     "opposable"
   ],
   "opporre": [
-    "counter"
+    "counter",
+    "oppose"
   ],
   "opportunamente": [
     "opportunely"
@@ -829,7 +833,10 @@
     "horizon"
   ],
   "orlo": [
-    "brink"
+    "brink",
+    "rim",
+    "brim",
+    "verge"
   ],
   "ormone": [
     "hormone"

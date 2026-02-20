@@ -10,7 +10,9 @@
     "manufacturer"
   ],
   "fabbricare": [
-    "manufacture"
+    "manufacture",
+    "fabricate",
+    "craft"
   ],
   "fabbricazione": [
     "manufacturing"
@@ -258,7 +260,17 @@
     "fatalistic"
   ],
   "faticosamente": [
-    "painstakingly"
+    "painstakingly",
+    "laboriously"
+  ],
+  "fatica":[
+    "fatigue",
+    "effort"
+  ],
+  "faticoso":[
+    "wearisome",
+    "tiring",
+    "strenuous"
   ],
   "fatidico": [
     "fateful"
@@ -599,7 +611,8 @@
     "buckle"
   ],
   "fibra": [
-    "fibre"
+    "fibre",
+    "fiber"
   ],
   "fibrillazione": [
     "fibrillation"
@@ -1177,6 +1190,7 @@
   ],
   "forare": [
     "bore",
+    "pierce",
     "puncture"
   ],
   "forbici": [
@@ -1646,9 +1660,6 @@
   ],
   "frustrazione": [
     "frustration"
-  ],
-  "frutta": [
-    "fruit"
   ],
   "fruttifero": [
     "fruitful"

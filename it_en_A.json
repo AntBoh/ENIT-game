@@ -173,7 +173,9 @@
     "fir"
   ],
   "abile": [
-    "skillful"
+    "skillful",
+    "able",
+    "skilful"
   ],
   "abilitazione": [
     "habilitation"
@@ -869,6 +871,9 @@
   "aeroporto": [
     "airport"
   ],
+  "apogeo":[
+    "apogee"
+  ],
   "aerosol": [
     "aerosol"
   ],
@@ -1194,10 +1199,11 @@
     "farmyard"
   ],
   "aiuola": [
-    "flower-bed"
+    "flowerbed"
   ],
   "aiutante": [
     "aide",
+    "helper",
     "assistant"
   ],
   "aiutare": [
@@ -1434,6 +1440,7 @@
   ],
   "allenarsi": [
     "exercise",
+    "train",
     "work out"
   ],
   "allenatore": [
@@ -1486,7 +1493,7 @@
   "allineare": [
     "align",
     "line",
-    "lineup",
+    "line up",
     "range"
   ],
   "allitterare": [
@@ -2502,7 +2509,8 @@
     "antisemitism"
   ],
   "antisimmetrico": [
-    "antisymmetric"
+    "antisymmetric",
+    "antisymmetrical"
   ],
   "antistatico": [
     "antistatic"
@@ -2915,7 +2923,8 @@
     "architrave"
   ],
   "archiviare": [
-    "file"
+    "file",
+    "archive"
   ],
   "archiviazione": [
     "storage"
@@ -3001,10 +3010,8 @@
     "air"
   ],
   "arido": [
-    "arid"
-  ],
-  "arietta": [
-    "arietta"
+    "arid",
+    "dry"
   ],
   "aristocratico": [
     "aristocrat",
@@ -3216,7 +3223,7 @@
     "artifice"
   ],
   "artigianale": [
-    "crafted",
+    "artisanal",
     "handmade"
   ],
   "artigianato": [
@@ -3349,7 +3356,8 @@
     "asymmetry"
   ],
   "asimmetrico": [
-    "asymmetric"
+    "asymmetric",
+    "asymmetrical"
   ],
   "asintotico": [
     "asymptotic"
@@ -4029,7 +4037,7 @@
     "autism"
   ],
   "autista": [
-    "chauffeur"
+    "driver"
   ],
   "auto": [
     "car"
@@ -4233,7 +4241,10 @@
     "be hungry"
   ],
   "aviatore": [
-    "flyer"
+    "flyer",
+    "aviator",
+    "flier",
+    "airman"
   ],
   "aviazione": [
     "aviation"

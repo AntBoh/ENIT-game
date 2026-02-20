@@ -437,7 +437,8 @@
     "parametric"
   ],
   "parametrizzazione": [
-    "parametrisation"
+    "parametrisation",
+    "parametrization"
   ],
   "parametro": [
     "parameter"
@@ -470,7 +471,8 @@
     "park"
   ],
   "parcheggio": [
-    "parking"
+    "parking",
+    "park"
   ],
   "parco": [
     "park"
@@ -819,11 +821,19 @@
   ],
   "pazzia": [
     "folly",
-    "madness"
+    "madness",
+    "insanity",
+    "craze"
   ],
   "pazzo": [
     "crazy",
-    "mad"
+    "mad",
+    "insane"
+  ],
+  "più":[
+    "more",
+    "most",
+    "plus"
   ],
   "pecca": [
     "flaw"
@@ -910,7 +920,7 @@
     "pilgrim"
   ],
   "pellicceria": [
-    "fur"
+    "furrier"
   ],
   "pellicciaio": [
     "furrier"
@@ -919,7 +929,8 @@
     "film"
   ],
   "pelo": [
-    "hair"
+    "hair",
+    "fur"
   ],
   "peloso": [
     "hairy"
@@ -1182,6 +1193,9 @@
   "periglaciale": [
     "periglacial"
   ],
+  "perigeo":[
+    "perigee"
+  ],
   "perimetro": [
     "perimeter"
   ],
@@ -1281,9 +1295,6 @@
   "perpendicolare": [
     "perpendicular"
   ],
-  "perpersona": [
-    "perperson"
-  ],
   "perpetrare": [
     "perpetrate"
   ],
@@ -1298,9 +1309,6 @@
   ],
   "perpetuo": [
     "perpetual"
-  ],
-  "persecondo": [
-    "persecond"
   ],
   "persecuzione": [
     "chase",
@@ -1831,7 +1839,8 @@
     "appease"
   ],
   "placca": [
-    "plate"
+    "plate",
+    "plaque"
   ],
   "placebo": [
     "placebo"
@@ -2426,7 +2435,7 @@
     "postal"
   ],
   "poster": [
-    "sign"
+    "poster"
   ],
   "posteriore": [
     "back",
@@ -3316,7 +3325,8 @@
     "prohibit"
   ],
   "proibito": [
-    "forbidden"
+    "forbidden",
+    "prohibited"
   ],
   "proibizione": [
     "prohibition"
@@ -3482,7 +3492,8 @@
     "continuation"
   ],
   "proseguire": [
-    "continue"
+    "continue",
+    "go on"
   ],
   "proselitismo": [
     "proselytism"
@@ -3879,7 +3890,9 @@
     "purely"
   ],
   "pure": [
-    "even"
+    "even",
+    "too",
+    "also"
   ],
   "purezza": [
     "purity"

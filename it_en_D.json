@@ -24,12 +24,6 @@
   "da qualche parte": [
     "somewhere"
   ],
-  "daallora": [
-    "since"
-  ],
-  "dacirca": [
-    "fromabout"
-  ],
   "dado": [
     "die",
     "nut",
@@ -1358,8 +1352,8 @@
   "dinosauro": [
     "dinosaur"
   ],
-  "dio": [
-    "god"
+  "Dio": [
+    "God"
   ],
   "diocesi": [
     "diocese"
@@ -1780,7 +1774,8 @@
     "hopeless"
   ],
   "disperazione": [
-    "despair"
+    "despair",
+    "desperation"
   ],
   "disperdere": [
     "disperse"

@@ -247,7 +247,8 @@
     "unique"
   ],
   "unicolore": [
-    "unicoloured"
+    "unicoloured",
+    "unicolored"
   ],
   "unicorno": [
     "unicorn"
@@ -457,19 +458,22 @@
   ],
   "utile": [
     "helpful",
-    "useful"
+    "useful",
+    "handy"
   ],
   "utilitario": [
-    "handy"
+    "utilitarian"
   ],
   "utilitarismo": [
     "utilitarism"
   ],
   "utilizzare": [
-    "utilise"
+    "utilise",
+    "utilize"
   ],
   "utilizzazione": [
-    "utilisation"
+    "utilisation",
+    "utilization"
   ],
   "utilizzo": [
     "use"

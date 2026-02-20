@@ -349,7 +349,8 @@
     "stuff"
   ],
   "imbracatura": [
-    "sling"
+    "sling",
+    "harness"
   ],
   "imbrogliare": [
     "cheat"
@@ -524,7 +525,9 @@
     "pledge"
   ],
   "impegno": [
-    "engagement"
+    "engagement",
+    "effort",
+    "commitment"
   ],
   "impenetrabile": [
     "impenetrable"
@@ -1557,7 +1560,7 @@
   ],
   "infastidire": [
     "bother",
-    "worry"
+    "annoy"
   ],
   "infatti": [
     "in fact",
@@ -1666,7 +1669,8 @@
     "influence"
   ],
   "influire": [
-    "affect"
+    "affect",
+    "influence"
   ],
   "infondato": [
     "groundless"
@@ -2055,6 +2059,9 @@
   ],
   "insoddisfacente": [
     "unsatisfactory"
+  ],
+  "insopportabile":[
+    "unbearable"
   ],
   "insoddisfatto": [
     "unsatisfied"
@@ -2454,7 +2461,8 @@
     "interview"
   ],
   "interrogativo": [
-    "interrogative"
+    "interrogative",
+    "question"
   ],
   "interrogatorio": [
     "interrogation"
@@ -2475,7 +2483,8 @@
   ],
   "intervallo": [
     "intermission",
-    "interval"
+    "interval",
+    "recess"
   ],
   "intervenire": [
     "intervene"

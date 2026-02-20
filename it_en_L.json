@@ -26,6 +26,9 @@
     "lab",
     "laboratory"
   ],
+  "laboriosamente":[
+    "laboriously"
+  ],
   "laccare": [
     "lacquer"
   ],
@@ -604,7 +607,8 @@
   ],
   "licenziamento": [
     "dismissal",
-    "firing"
+    "redundancy",
+    "redundance"
   ],
   "licenziare": [
     "dismiss",
@@ -972,7 +976,9 @@
     "light"
   ],
   "lucentezza": [
-    "shine"
+    "shine",
+    "brightness",
+    "luster"
   ],
   "lucertola": [
     "lizard"

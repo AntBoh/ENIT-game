@@ -42,7 +42,7 @@
     "cutting"
   ],
   "taglio": [
-    "court",
+    "shear",
     "cut"
   ],
   "tailandese": [
@@ -176,9 +176,6 @@
   "tasso": [
     "badger",
     "rate"
-  ],
-  "tassodicambio": [
-    "exchangerate"
   ],
   "tassonomia": [
     "taxonomy"
@@ -393,7 +390,9 @@
     "temperature"
   ],
   "temperino": [
-    "penknife"
+    "penknife",
+    "sharpener",
+    "pencil sharpener"
   ],
   "tempio": [
     "temple"
@@ -923,13 +922,15 @@
     "tonsil"
   ],
   "tonto": [
-    "foolish"
+    "foolish",
+    "dumb"
   ],
   "topico": [
     "topical"
   ],
   "topo": [
-    "mouse"
+    "mouse",
+    "rat"
   ],
   "topografia": [
     "topography"
@@ -1036,6 +1037,9 @@
   ],
   "tosatura": [
     "shearing"
+  ],
+  "tosare":[
+    "shear"
   ],
   "tosse": [
     "cough"
@@ -1393,7 +1397,8 @@
     "treatment"
   ],
   "trattino": [
-    "hyphen"
+    "hyphen",
+    "dash"
   ],
   "tratto": [
     "stretch",

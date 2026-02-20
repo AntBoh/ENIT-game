@@ -84,6 +84,9 @@
     "wise",
     "wiseperson"
   ],
+  "saggiamente":[
+    "wisely"
+  ],
   "saggista": [
     "essayist"
   ],
@@ -168,6 +171,9 @@
   ],
   "salsiccia": [
     "sausage"
+  ],
+  "siccità":[
+    "drought"
   ],
   "saltare": [
     "jump",
@@ -293,8 +299,15 @@
   "sanzione": [
     "sanction"
   ],
+  "sapore":[
+    "taste"
+  ],
+  "scatenare":[
+    "unleash"
+  ],
   "sapere": [
     "know",
+    "taste",
     "knowledge"
   ],
   "sapienza": [
@@ -309,12 +322,6 @@
   ],
   "saprofita": [
     "saprophyte"
-  ],
-  "saragozza": [
-    "zaragoza"
-  ],
-  "saragozzano": [
-    "Saragossan"
   ],
   "sarcasmo": [
     "sarcasm"
@@ -475,14 +482,16 @@
   ],
   "scaltrezza": [
     "shrewdness",
-    "slyness"
+    "slyness",
+    "cunning"
   ],
   "scambiare": [
     "exchange",
     "trade"
   ],
   "scambio": [
-    "trade"
+    "trade",
+    "exchange"
   ],
   "scanalatura": [
     "groove"
@@ -573,7 +582,9 @@
     "kit"
   ],
   "scatto": [
-    "spurt"
+    "spurt",
+    "dash",
+    "shot"
   ],
   "scavare": [
     "dig",
@@ -809,7 +820,8 @@
     "bowl"
   ],
   "scogliera": [
-    "cliff"
+    "cliff",
+    "reef"
   ],
   "scoiattolo": [
     "squirrel"
@@ -1098,12 +1110,6 @@
   ],
   "sedile": [
     "seat"
-  ],
-  "sediledelpasseggero": [
-    "passengerseat"
-  ],
-  "sedilepasseggero": [
-    "passengerseat"
   ],
   "sedimentazione": [
     "sedimentation"
@@ -1903,10 +1909,12 @@
     "sigillography"
   ],
   "sigla": [
-    "acronym"
+    "acronym",
+    "abbreviation"
   ],
   "siglare": [
-    "sign"
+    "sign",
+    "abbreviate"
   ],
   "significare": [
     "mean"
@@ -2026,7 +2034,8 @@
     "symmetry"
   ],
   "simmetrico": [
-    "symmetrical"
+    "symmetrical",
+    "symmetric"
   ],
   "simonia": [
     "simony"
@@ -2685,14 +2694,8 @@
   "sordo": [
     "deaf"
   ],
-  "sordomuto": [
-    "deaf-mute"
-  ],
   "sorella": [
     "sister"
-  ],
-  "sorellamezza": [
-    "halfsister"
   ],
   "sorellastra": [
     "stepsister"
@@ -3550,7 +3553,13 @@
     "mould"
   ],
   "stancante": [
-    "tiresome"
+    "tiresome",
+    "tiring",
+    "weary",
+    "wearisome"
+  ],
+  "stancare":[
+    "tire"
   ],
   "stanco": [
     "tired"
@@ -3870,7 +3879,9 @@
     "strangely"
   ],
   "stranezza": [
-    "oddity"
+    "oddity",
+    "strangeness",
+    "weirdness"
   ],
   "straniero": [
     "foreign",
@@ -4139,6 +4150,7 @@
   ],
   "successivamente": [
     "subsequently",
+    "next",
     "successively"
   ],
   "successivo": [

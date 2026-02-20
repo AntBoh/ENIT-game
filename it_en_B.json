@@ -311,7 +311,8 @@
     "barricade"
   ],
   "barriera": [
-    "barrier"
+    "barrier",
+    "reef"
   ],
   "barzelletta": [
     "joke"
@@ -631,6 +632,9 @@
   ],
   "bigamia": [
     "bigamy"
+  ],
+  "biglia":[
+    "marble"
   ],
   "biglietteria": [
     "ticket office"
@@ -1093,11 +1097,14 @@
   "branda": [
     "bunk"
   ],
+  "brandire":[
+    "wield"
+  ],
   "Brasile": [
     "Brazil"
   ],
   "brasiliano": [
-    "brazilian"
+    "Brazilian"
   ],
   "brattea": [
     "bract"
@@ -1230,6 +1237,11 @@
   ],
   "bucalo": [
     "buccal"
+  ],
+  "bucare":[
+    "pierce",
+    "bore",
+    "puncture"
   ],
   "buco": [
     "gap",

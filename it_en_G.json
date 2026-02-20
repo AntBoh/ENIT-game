@@ -1025,6 +1025,9 @@
   "gradiente": [
     "gradient"
   ],
+  "gradino":[
+    "step"
+  ],
   "grado": [
     "degree",
     "grade",
@@ -1072,7 +1075,8 @@
     "grammage"
   ],
   "grammo": [
-    "gram"
+    "gram",
+    "gramme"
   ],
   "grammofono": [
     "gramophone"
