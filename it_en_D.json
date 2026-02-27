@@ -1,13 +1,8 @@
 {
   "d'ora in avanti": [
     "henceforth",
-    "hereby"
-  ],
-  "d'orainavanti": [
-    "fromnowon"
-  ],
-  "d'orainpoi": [
-    "fromnowon"
+    "hereby",
+    "from now on"
   ],
   "da": [
     "by",
@@ -186,13 +181,16 @@
     "decent"
   ],
   "decentralizzazione": [
-    "decentralisation"
+    "decentralisation",
+    "decentralization"
   ],
   "decenza": [
     "decency"
   ],
   "decesso": [
-    "demise"
+    "demise",
+    "death",
+    "decease"
   ],
   "decibel": [
     "decibel"
@@ -293,7 +291,7 @@
     "decrease"
   ],
   "decrescente": [
-    "declining"
+    "decreasing"
   ],
   "decretare": [
     "decree"
@@ -548,13 +546,16 @@
     "demoniac"
   ],
   "demonizzazione": [
-    "demonisation"
+    "demonisation",
+    "demonization"
   ],
   "demoralizzare": [
-    "demoralise"
+    "demoralise",
+    "demoralize"
   ],
   "demoralizzazione": [
-    "demoralisation"
+    "demoralisation",
+    "demoralization"
   ],
   "Demostene": [
     "Demosthenes"
@@ -650,7 +651,8 @@
     "deontological"
   ],
   "depalatalizzazione": [
-    "depalatalisation"
+    "depalatalisation",
+    "depalatalization"
   ],
   "depilazione": [
     "depilation"
@@ -659,7 +661,8 @@
     "deplorable"
   ],
   "depolimerizzazione": [
-    "depolymerisation"
+    "depolymerisation",
+    "depolymerization"
   ],
   "deporre": [
     "depose"
@@ -712,6 +715,9 @@
   ],
   "deragliamento": [
     "derailment"
+  ],
+  "derapare":[
+    "drift"
   ],
   "deragliare": [
     "derail"
@@ -1217,7 +1223,8 @@
   "diffondere": [
     "disseminate",
     "popularise",
-    "spread"
+    "spread",
+    "diffuse"
   ],
   "diffrazione": [
     "diffraction"
@@ -1389,7 +1396,8 @@
   ],
   "dipendenza": [
     "dependence",
-    "dependency"
+    "dependency",
+    "addiction"
   ],
   "dipendere": [
     "depend"
@@ -1475,10 +1483,8 @@
     "lead"
   ],
   "dirigibile": [
-    "airship"
-  ],
-  "diriserva": [
-    "spare"
+    "airship",
+    "blimp"
   ],
   "diritto": [
     "law",
@@ -1486,7 +1492,8 @@
     "straight"
   ],
   "dirupo": [
-    "crag"
+    "crag",
+    "cliff"
   ],
   "disabilitare": [
     "disable"

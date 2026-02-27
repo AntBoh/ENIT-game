@@ -1141,7 +1141,8 @@
     "inconsequential"
   ],
   "incontenibile": [
-    "irrepressible"
+    "irrepressible",
+    "uncontainable"
   ],
   "incontestabile": [
     "incontestable"
@@ -1799,7 +1800,8 @@
     "english"
   ],
   "ingranaggio": [
-    "gear"
+    "gear",
+    "cog"
   ],
   "ingrassare": [
     "fatten"
@@ -1830,7 +1832,8 @@
     "initial"
   ],
   "inizializzazione": [
-    "initialisation"
+    "initialisation",
+    "initialization"
   ],
   "inizialmente": [
     "initially"
@@ -2126,7 +2129,6 @@
     "install"
   ],
   "installazione": [
-    "facility",
     "installation"
   ],
   "instaurare": [
@@ -2392,7 +2394,8 @@
     "international"
   ],
   "internazionalizzazione": [
-    "internationalisation"
+    "internationalisation",
+    "internationalization"
   ],
   "internazionalmente": [
     "internationally"
@@ -2681,7 +2684,7 @@
     "useless"
   ],
   "inutilizzabile": [
-    "unavailable"
+    "unusable"
   ],
   "inutilmente": [
     "pointlessly",
@@ -2858,7 +2861,8 @@
     "ionian"
   ],
   "ionizzazione": [
-    "ionisation"
+    "ionisation",
+    "ionization"
   ],
   "ionosfera": [
     "ionosphere"
@@ -2969,13 +2973,14 @@
     "wrath"
   ],
   "iracheno": [
-    "iraqi"
+    "Iraqi"
   ],
   "iraniano": [
     "iranian"
   ],
   "irascibile": [
-    "irascible"
+    "irascible",
+    "cantankerous"
   ],
   "iride": [
     "iris"
@@ -3106,7 +3111,8 @@
     "enrol"
   ],
   "iscriversi": [
-    "enrol"
+    "enrol",
+    "subscribe"
   ],
   "iscrizione": [
     "registration"

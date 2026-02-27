@@ -126,7 +126,8 @@
     "radon"
   ],
   "raffigurazione": [
-    "representation"
+    "representation",
+    "depiction"
   ],
   "raffinazione": [
     "refining"
@@ -445,7 +446,8 @@
     "receptor"
   ],
   "recinto": [
-    "enclosure"
+    "enclosure",
+    "fence"
   ],
   "recinzione": [
     "fence",
@@ -1083,7 +1085,8 @@
     "ribosome"
   ],
   "ricamo": [
-    "embroidery"
+    "embroidery",
+    "needlework"
   ],
   "ricattare": [
     "blackmail"
@@ -1248,8 +1251,8 @@
     "reconstruction"
   ],
   "ricreare": [
-    "re-create",
-    "recreate"
+    "recreate",
+    "remake"
   ],
   "ricreativo": [
     "recreational"
@@ -1338,7 +1341,8 @@
     "evocation"
   ],
   "rifare": [
-    "redo"
+    "redo",
+    "remake"
   ],
   "riferimento": [
     "reference"
@@ -1976,6 +1980,9 @@
   "rivale": [
     "rival"
   ],
+  "rivalità":[
+    "rivalry"
+  ],
   "rivalidare": [
     "revalidate"
   ],
@@ -2039,7 +2046,8 @@
     "revolver"
   ],
   "rivoluzionare": [
-    "revolutionise"
+    "revolutionise",
+    "revolutionize"
   ],
   "rivoluzionario": [
     "revolutionary"
@@ -2084,7 +2092,8 @@
     "romance"
   ],
   "romanizzazione": [
-    "romanisation"
+    "romanisation",
+    "romanization"
   ],
   "romano": [
     "Roman"

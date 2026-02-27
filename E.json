@@ -161,18 +161,17 @@
   "edaphology": [
     "edafologia"
   ],
-  "edema": [
-    "edema"
-  ],
   "edge": [
-    "canto",
-    "filo"
+    "bordo",
+    "margine",
+    "spigolo"
   ],
   "edible": [
     "commestibile"
   ],
   "edict": [
-    "bando"
+    "bando",
+    "editto"
   ],
   "Edinburgh": [
     "Edimburgo"

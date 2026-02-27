@@ -18,7 +18,8 @@
     "manufacturing"
   ],
   "fabbro": [
-    "smith"
+    "smith",
+    "blacksmith"
   ],
   "faccia": [
     "face"
@@ -143,7 +144,8 @@
     "fantasy"
   ],
   "fantasma": [
-    "ghost"
+    "ghost",
+    "phantom"
   ],
   "fantasticamente": [
     "beautifully",
@@ -1318,15 +1320,13 @@
     "thankfully"
   ],
   "fortunato": [
-    "lucky"
+    "lucky",
+    "fortunate"
   ],
   "forza": [
     "force",
     "might",
     "strength"
-  ],
-  "forzaarmata": [
-    "armedforces"
   ],
   "forzare": [
     "force"
@@ -1334,11 +1334,9 @@
   "forzatamente": [
     "forcedly"
   ],
-  "forzedell'ordine": [
-    "securityforces"
-  ],
   "foschia": [
-    "haze"
+    "haze",
+    "mist"
   ],
   "fosfato": [
     "phosphate"

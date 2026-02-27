@@ -321,6 +321,9 @@
   "mancino": [
     "left-handed"
   ],
+  "mancia":[
+    "tip"
+  ],
   "mandante": [
     "mandator"
   ],
@@ -535,7 +538,8 @@
     "marginally"
   ],
   "margine": [
-    "margin"
+    "margin",
+    "edge"
   ],
   "marinaio": [
     "sailor"
@@ -826,10 +830,12 @@
     "machinable"
   ],
   "meccanizzare": [
-    "mechanise"
+    "mechanise",
+    "mechanize"
   ],
   "meccanizzazione": [
-    "mechanisation"
+    "mechanisation",
+    "mechanization"
   ],
   "mecenate": [
     "patron"
@@ -1102,7 +1108,9 @@
     "mere"
   ],
   "mescolare": [
-    "stir"
+    "stir",
+    "mix",
+    "blend"
   ],
   "mese": [
     "month"
@@ -1598,7 +1606,7 @@
     "minuet"
   ],
   "minuscolo": [
-    "tiny",
+    "minuscule",
     "lowercase"
   ],
   "minuto": [
@@ -1840,7 +1848,8 @@
     "modification"
   ],
   "modificabile": [
-    "modifiable"
+    "modifiable",
+    "editable"
   ],
   "modificare": [
     "amend",
@@ -2260,10 +2269,12 @@
     "searchengine"
   ],
   "motorizzare": [
-    "motorise"
+    "motorise",
+    "motorize"
   ],
   "motorizzazione": [
-    "motorisation"
+    "motorisation",
+    "motorization"
   ],
   "mottetto": [
     "motet"

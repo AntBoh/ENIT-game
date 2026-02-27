@@ -158,10 +158,12 @@
     "nationalist"
   ],
   "nazionalizzare": [
-    "nationalise"
+    "nationalise",
+    "nationalize"
   ],
   "nazionalizzazione": [
-    "nationalisation"
+    "nationalisation",
+    "nationalization"
   ],
   "nazionalmente": [
     "nationally"
@@ -316,6 +318,7 @@
     "anyone",
     "no",
     "no one",
+    "noone",
     "nobody",
     "none"
   ],
@@ -500,7 +503,8 @@
     "nodule"
   ],
   "noi": [
-    "us"
+    "us",
+    "we"
   ],
   "noi stessi": [
     "ourselves"
@@ -594,18 +598,18 @@
     "norm"
   ],
   "normale": [
-    "normal",
-    "ordinary"
+    "normal"
   ],
   "normalizzare": [
-    "normalise"
+    "normalise",
+    "normalize"
   ],
   "normalizzazione": [
-    "normalisation"
+    "normalisation",
+    "normalization"
   ],
   "normalmente": [
-    "normally",
-    "ordinarily"
+    "normally"
   ],
   "Normandia": [
     "Normandy"

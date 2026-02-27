@@ -72,13 +72,15 @@
     "secular"
   ],
   "lama": [
-    "llama"
+    "llama",
+    "blade"
   ],
   "lamentarsi": [
     "complain"
   ],
   "lamentela": [
-    "grievance"
+    "grievance",
+    "complaint"
   ],
   "lamentevolmente": [
     "lamentably",
@@ -183,13 +185,11 @@
     "latifundium"
   ],
   "latinizzazione": [
-    "latinisation"
+    "latinisation",
+    "latinization"
   ],
   "latino": [
     "Latin"
-  ],
-  "latinoamericano": [
-    "latinamerican"
   ],
   "latitudine": [
     "latitude"
@@ -200,8 +200,10 @@
   "latrina": [
     "latrine"
   ],
+  "lattina":[
+    "can"
+  ],
   "latta": [
-    "can",
     "tin"
   ],
   "latte": [
@@ -307,10 +309,12 @@
     "legalism"
   ],
   "legalizzare": [
-    "legalise"
+    "legalise",
+    "legalize"
   ],
   "legalizzazione": [
-    "legalisation"
+    "legalisation",
+    "legalization"
   ],
   "legalmente": [
     "legally"
@@ -784,7 +788,13 @@
     "litigate"
   ],
   "litigio": [
-    "argument"
+    "argument",
+    "quarrel"
+  ],
+  "litigioso":[
+    "quarrelsome",
+    "litigious",
+    "cantankerous"
   ],
   "litio": [
     "lithium"
@@ -866,7 +876,9 @@
     "trace"
   ],
   "localizzazione": [
-    "location"
+    "location",
+    "localization",
+    "localisation"
   ],
   "localmente": [
     "locally"

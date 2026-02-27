@@ -135,9 +135,6 @@
   "edafologia": [
     "edaphology"
   ],
-  "edema": [
-    "edema"
-  ],
   "edificare": [
     "build"
   ],
@@ -778,11 +775,15 @@
   "entusiasmare": [
     "excite"
   ],
+  "editto":[
+    "edict"
+  ],
   "entusiasmo": [
     "enthusiasm"
   ],
   "entusiasta": [
-    "keen"
+    "keen",
+    "enthusiastic"
   ],
   "enumerabile": [
     "enumerable"
@@ -1109,9 +1110,6 @@
     "exam",
     "examination"
   ],
-  "esamedellavista": [
-    "eyeexamination"
-  ],
   "esametro": [
     "hexameter"
   ],
@@ -1135,13 +1133,18 @@
     "just"
   ],
   "esattezza": [
-    "accuracy"
+    "exactness"
   ],
   "esatto": [
     "exact"
   ],
   "esaurire": [
     "exhaust"
+  ],
+  "esaudire":[
+    "fulfil",
+    "fulfill",
+    "grant"
   ],
   "esaustivo": [
     "exhaustive"
@@ -1424,7 +1427,8 @@
     "exposure"
   ],
   "esposto": [
-    "exhibit"
+    "exhibited",
+    "exposed"
   ],
   "espressamente": [
     "purposely"

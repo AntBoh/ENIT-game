@@ -500,6 +500,9 @@
   "accurato": [
     "accurate"
   ],
+  "accuratezza":[
+    "accuracy"
+  ],
   "accusare": [
     "accuse"
   ],
@@ -975,7 +978,7 @@
     "affixation"
   ],
   "affittare": [
-    "hire",
+    "rent",
     "lease"
   ],
   "affitto": [
@@ -1290,6 +1293,10 @@
   "aldeide": [
     "aldehyde"
   ],
+  "aldilà":[
+    "afterlife",
+    "underworld"
+  ],
   "aleatorio": [
     "random"
   ],
@@ -1419,15 +1426,13 @@
     "breezily",
     "cheerfully"
   ],
-  "allegre": [
-    "cheerful"
-  ],
   "allegretto": [
     "allegretto"
   ],
   "allegro": [
     "allegro",
-    "merry"
+    "merry",
+    "cheerful"
   ],
   "alleluia": [
     "hallelujah"
@@ -1855,6 +1860,7 @@
   ],
   "ammalato": [
     "ill",
+    "sick",
     "patient"
   ],
   "ammanettare": [
@@ -2045,10 +2051,12 @@
     "analytical"
   ],
   "analizzare": [
-    "analyse"
+    "analyse",
+    "analyze"
   ],
   "analizzatore": [
-    "analyser"
+    "analyser",
+    "analyzer"
   ],
   "analogamente": [
     "analogously"
@@ -2123,9 +2131,6 @@
   "andare in panico": [
     "panic"
   ],
-  "andarealladeriva": [
-    "drift"
-  ],
   "andesina": [
     "andesine"
   ],
@@ -2178,7 +2183,8 @@
     "anaesthetic"
   ],
   "anestetizzare": [
-    "anaesthetise"
+    "anaesthetise",
+    "anaesthetize"
   ],
   "aneurisma": [
     "aneurism"
@@ -2191,7 +2197,8 @@
     "amphibology"
   ],
   "anfiteatro": [
-    "amphitheatre"
+    "amphitheatre",
+    "amphitheater"
   ],
   "anfora": [
     "amphora"
@@ -2953,7 +2960,8 @@
   ],
   "arco": [
     "arch",
-    "bow"
+    "bow",
+    "arc"
   ],
   "arcobaleno": [
     "rainbow"
@@ -3076,10 +3084,12 @@
     "harmonium"
   ],
   "armonizzare": [
-    "harmonise"
+    "harmonise",
+    "harmonize"
   ],
   "armonizzazione": [
-    "harmonisation"
+    "harmonisation",
+    "harmonization"
   ],
   "arnese": [
     "tool"
@@ -3392,7 +3402,9 @@
     "aspectual"
   ],
   "aspirante": [
-    "applicant"
+    "applicant",
+    "aspiring",
+    "aspirant"
   ],
   "aspirapolvere": [
     "vacuum",
@@ -3856,7 +3868,7 @@
     "actively"
   ],
   "attivare": [
-    "actuate"
+    "activate"
   ],
   "attivazione": [
     "activation"
@@ -4192,7 +4204,8 @@
     "autumnal"
   ],
   "autunno": [
-    "autumn"
+    "autumn",
+    "fall"
   ],
   "avallo": [
     "guarantee"

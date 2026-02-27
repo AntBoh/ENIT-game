@@ -274,7 +274,7 @@
   ],
   "sano": [
     "healthy",
-    "sano",
+    "sane",
     "sound"
   ],
   "Sansone": [
@@ -491,6 +491,7 @@
   ],
   "scambio": [
     "trade",
+    "interchange",
     "exchange"
   ],
   "scanalatura": [
@@ -855,6 +856,13 @@
   "scomporre": [
     "decompose"
   ],
+  "scorbuto":[
+    "scurvy"
+  ],
+  "scorbutico":[
+    "scorbutic",
+    "cantankeorus"
+  ],
   "scomposizione": [
     "decomposition"
   ],
@@ -908,14 +916,12 @@
   "scontroso": [
     "grumpy"
   ],
-  "scopare": [
-    "fuck"
-  ],
   "scoperta": [
     "discovery"
   ],
   "scopo": [
-    "aim"
+    "aim",
+    "objective"
   ],
   "scoppiare": [
     "burst",
@@ -1018,6 +1024,10 @@
   ],
   "scusare": [
     "excuse"
+  ],
+  "scusarsi":[
+    "apologise",
+    "apologize"
   ],
   "sdegnare": [
     "disdain",
@@ -1699,7 +1709,7 @@
     "sevenhundredth"
   ],
   "settecento": [
-    "sevenhundredand"
+    "seven hundred"
   ],
   "settembre": [
     "september"
@@ -2304,7 +2314,8 @@
     "emerald"
   ],
   "smettere": [
-    "quit"
+    "quit",
+    "stop"
   ],
   "sminuire": [
     "derogate"
@@ -2365,7 +2376,8 @@
     "socialist"
   ],
   "socializzazione": [
-    "socialisation"
+    "socialisation",
+    "socialization"
   ],
   "socialmente": [
     "socially"
@@ -2374,7 +2386,8 @@
     "sociable"
   ],
   "socio": [
-    "associate"
+    "associate",
+    "partner"
   ],
   "sociobiologia": [
     "sociobiology"
@@ -2658,6 +2671,7 @@
     "above",
     "aloft",
     "on",
+    "up",
     "over",
     "upward"
   ],
@@ -3034,7 +3048,6 @@
     "scare"
   ],
   "spaziale": [
-    "space",
     "spatial"
   ],
   "spaziare": [
@@ -3044,7 +3057,6 @@
     "spacer"
   ],
   "spazio": [
-    "blank",
     "room",
     "space"
   ],
@@ -3052,7 +3064,8 @@
     "roomy"
   ],
   "spazzatura": [
-    "rubbish"
+    "rubbish",
+    "trash"
   ],
   "spazzino": [
     "sweeper"
@@ -3077,13 +3090,15 @@
     "specialist"
   ],
   "specializzare": [
-    "specialise"
+    "specialise",
+    "specialize"
   ],
   "specializzato": [
     "skilled"
   ],
   "specializzazione": [
-    "specialisation"
+    "specialisation",
+    "specialization"
   ],
   "specialmente": [
     "especially",
@@ -3204,7 +3219,10 @@
     "spectral"
   ],
   "spettro": [
-    "spectrum"
+    "spectrum",
+    "ghost",
+    "specter",
+    "wraith"
   ],
   "spettrofotometria": [
     "spectrophotometry"
@@ -3262,6 +3280,10 @@
   ],
   "spiga": [
     "ear"
+  ],
+  "spigolo":[
+    "edge",
+    "corner"
   ],
   "spilla": [
     "brooch",
@@ -3971,6 +3993,7 @@
   ],
   "strettamente": [
     "closely",
+    "strictly",
     "narrowly",
     "tightly"
   ],

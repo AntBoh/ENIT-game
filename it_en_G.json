@@ -1303,11 +1303,8 @@
   "guardia": [
     "guard"
   ],
-  "guardiadelcorpo": [
+  "guardia del corpo": [
     "bodyguard"
-  ],
-  "guardone": [
-    "eavesdropper"
   ],
   "guarnigione": [
     "garrison"
@@ -1316,7 +1313,8 @@
     "garnish"
   ],
   "guasto": [
-    "breakdown"
+    "breakdown",
+    "broken"
   ],
   "guerra": [
     "war"

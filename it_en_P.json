@@ -13,9 +13,6 @@
   "pace": [
     "peace"
   ],
-  "pachistano": [
-    "pakistani"
-  ],
   "pacificamente": [
     "peacefully"
   ],
@@ -621,7 +618,8 @@
     "childbirth"
   ],
   "partorire": [
-    "bear"
+    "bear",
+    "give birth"
   ],
   "parvenza": [
     "semblance"
@@ -828,6 +826,7 @@
   "pazzo": [
     "crazy",
     "mad",
+    "madman",
     "insane"
   ],
   "più":[
@@ -842,7 +841,8 @@
     "sin"
   ],
   "peccato": [
-    "sin"
+    "sin",
+    "pity"
   ],
   "Pechino": [
     "Beijing"
@@ -947,7 +947,7 @@
   "penale": [
     "penal"
   ],
-  "penalty": [
+  "penalità": [
     "penalty"
   ],
   "pendenza": [
@@ -1344,9 +1344,6 @@
   "personaggio": [
     "character"
   ],
-  "personagiuridica": [
-    "juridicperson"
-  ],
   "personale": [
     "personal",
     "personnel",
@@ -1356,10 +1353,13 @@
     "personalism"
   ],
   "personalizzato": [
-    "custom"
+    "custom",
+    "personalized",
+    "personalised"
   ],
   "personalizzazione": [
-    "personalisation"
+    "personalisation",
+    "personalization"
   ],
   "personalmente": [
     "personally"
@@ -2300,7 +2300,8 @@
     "purpura"
   ],
   "porre": [
-    "put"
+    "put",
+    "pose"
   ],
   "porro": [
     "leek"
@@ -2330,6 +2331,7 @@
     "discharge",
     "extent",
     "range",
+    "reach",
     "scope"
   ],
   "portatile": [
@@ -2402,7 +2404,7 @@
     "position",
     "stand"
   ],
-  "posporre": [
+  "posticipare": [
     "postpone"
   ],
   "possedere": [
@@ -3026,6 +3028,7 @@
   "prima": [
     "before",
     "prior",
+    "earlier",
     "first",
     "firstly"
   ],
@@ -3666,9 +3669,6 @@
     "stock",
     "supply"
   ],
-  "prpers": [
-    "themselves"
-  ],
   "prudente": [
     "careful"
   ],
@@ -3917,9 +3917,6 @@
   ],
   "purtroppo": [
     "regrettably"
-  ],
-  "pus": [
-    "pus"
   ],
   "pusillanime": [
     "pusillanimous"

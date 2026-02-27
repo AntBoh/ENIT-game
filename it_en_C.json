@@ -113,7 +113,8 @@
     "chalcography"
   ],
   "calcolabile": [
-    "calculable"
+    "calculable",
+    "computable"
   ],
   "calcolare": [
     "compute",
@@ -228,7 +229,7 @@
     "Cambodia"
   ],
   "camera": [
-    "camera",
+    "room",
     "chamber"
   ],
   "camera da letto": [
@@ -383,12 +384,6 @@
   "cane": [
     "dog"
   ],
-  "canedaguardia": [
-    "guarddog"
-  ],
-  "canepastore": [
-    "sheepdog"
-  ],
   "canfora": [
     "camphor"
   ],
@@ -430,7 +425,8 @@
     "canonical"
   ],
   "canonizzazione": [
-    "canonisation"
+    "canonisation",
+    "canonization"
   ],
   "canottaggio": [
     "canoeing"
@@ -576,10 +572,14 @@
     "goat"
   ],
   "capriccio": [
-    "whim"
+    "whim",
+    "caprice",
+    "tantrum"
   ],
   "capriccioso": [
-    "wayward"
+    "wayward",
+    "capricious",
+    "whimsical"
   ],
   "capriola": [
     "flip",
@@ -1068,10 +1068,6 @@
   "causa": [
     "cause"
   ],
-  "causadiforzamaggiore": [
-    "actofgod",
-    "actofnature"
-  ],
   "causale": [
     "causal"
   ],
@@ -1364,7 +1360,8 @@
     "certification"
   ],
   "certo": [
-    "some"
+    "certain",
+    "sure"
   ],
   "cervelletto": [
     "cerebellum"
@@ -1459,14 +1456,14 @@
     "buttock"
   ],
   "chiaramente": [
-    "clearly",
-    "distinctly"
+    "clearly"
   ],
   "chiarezza": [
     "clarity"
   ],
   "chiarire": [
-    "clarify"
+    "clarify",
+    "clear"
   ],
   "chiaro": [
     "clear",
@@ -1485,9 +1482,6 @@
   ],
   "chiedere": [
     "ask"
-  ],
-  "chiederescusa": [
-    "apologise"
   ],
   "chiedersi": [
     "wonder"
@@ -2529,6 +2523,9 @@
   "combinabile": [
     "combinable"
   ],
+  "combinaguai":[
+    "troublemaker"
+  ],
   "combinare": [
     "combine"
   ],
@@ -3059,7 +3056,8 @@
     "specifically"
   ],
   "concretizzare": [
-    "concretise"
+    "concretise",
+    "concretize"
   ],
   "concreto": [
     "concrete"
@@ -3829,7 +3827,7 @@
   ],
   "contratto": [
     "contract",
-    "contracting"
+    "contracted"
   ],
   "contrattuale": [
     "contractual"
@@ -4475,6 +4473,9 @@
   "cotone": [
     "cotton"
   ],
+  "cotta":[
+    "crush"
+  ],
   "covalente": [
     "covalent"
   ],
@@ -4622,16 +4623,19 @@
     "crisis"
   ],
   "cristalleria": [
-    "glass"
+    "glassware",
+    "crystalware"
   ],
   "cristallino": [
     "crystalline"
   ],
   "cristallizzare": [
-    "crystallise"
+    "crystallise",
+    "crystallize"
   ],
   "cristallizzazione": [
-    "crystallisation"
+    "crystallisation",
+    "crystallization"
   ],
   "cristallo": [
     "crystal"
