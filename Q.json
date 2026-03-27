@@ -66,6 +66,12 @@
   "quark": [
     "quark"
   ],
+  "quarrel": [
+    "litigio"
+  ],
+  "quarrelsome": [
+    "litigioso"
+  ],
   "quarry": [
     "cava"
   ],
@@ -91,6 +97,7 @@
   "question": [
     "domanda",
     "domandare",
+    "interrogativo",
     "questionare",
     "questione"
   ],

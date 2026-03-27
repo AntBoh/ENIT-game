@@ -21,7 +21,8 @@
     "umido"
   ],
   "dampen": [
-    "inumidire"
+    "inumidire",
+    "smorzare"
   ],
   "dance": [
     "ballare",
@@ -66,6 +67,10 @@
   "dart": [
     "dardo"
   ],
+  "dash": [
+    "scatto",
+    "trattino"
+  ],
   "data": [
     "dato"
   ],
@@ -79,7 +84,7 @@
     "datazione"
   ],
   "daughter": [
-    "figlio"
+    "figlia"
   ],
   "daughter-in-law": [
     "nuora"
@@ -103,6 +108,9 @@
   "dead": [
     "morto"
   ],
+  "deaden": [
+    "attutire"
+  ],
   "deadline": [
     "scadenza"
   ],
@@ -114,9 +122,6 @@
   ],
   "deaf": [
     "sordo"
-  ],
-  "deaf-mute": [
-    "sordomuto"
   ],
   "deal": [
     "affare",
@@ -136,6 +141,7 @@
     "molto"
   ],
   "death": [
+    "decesso",
     "morte"
   ],
   "debatable": [
@@ -186,6 +192,9 @@
   "decay": [
     "rovina"
   ],
+  "decease": [
+    "decesso"
+  ],
   "deceased": [
     "defunto"
   ],
@@ -207,6 +216,9 @@
   "decentralisation": [
     "decentralizzazione",
     "devoluzione"
+  ],
+  "decentralization": [
+    "decentralizzazione"
   ],
   "deception": [
     "inganno"
@@ -242,6 +254,9 @@
   "declarant": [
     "dichiarante"
   ],
+  "declaration": [
+    "dichiarazione"
+  ],
   "declare": [
     "dichiarare"
   ],
@@ -258,9 +273,6 @@
     "declinare",
     "diminuzione"
   ],
-  "declining": [
-    "decrescente"
-  ],
   "decoction": [
     "decotto"
   ],
@@ -273,7 +285,19 @@
   "decolonisation": [
     "decolonizzazione"
   ],
+  "decolonization": [
+    "decolonizzazione"
+  ],
+  "decolorisation": [
+    "decolorazione"
+  ],
+  "decolorization": [
+    "decolorazione"
+  ],
   "decolourisation": [
+    "decolorazione"
+  ],
+  "decolourization": [
     "decolorazione"
   ],
   "decompile": [
@@ -316,6 +340,7 @@
     "diminuzione"
   ],
   "decreasing": [
+    "decrescente",
     "diminuzione"
   ],
   "decree": [
@@ -412,6 +437,9 @@
   ],
   "deflation": [
     "deflazione"
+  ],
+  "deflect": [
+    "deviare"
   ],
   "deflector": [
     "deflettore"
@@ -543,9 +571,6 @@
     "consegna",
     "erogazione"
   ],
-  "delta": [
-    "delta"
-  ],
   "deltoid": [
     "deltoide"
   ],
@@ -570,6 +595,9 @@
   ],
   "dementia": [
     "demenza"
+  ],
+  "demijohn": [
+    "damigiana"
   ],
   "demineralisation": [
     "demineralizzazione"
@@ -638,6 +666,9 @@
   "demonisation": [
     "demonizzazione"
   ],
+  "demonization": [
+    "demonizzazione"
+  ],
   "demonstrate": [
     "dimostrare"
   ],
@@ -651,6 +682,12 @@
     "demoralizzazione"
   ],
   "demoralise": [
+    "demoralizzare"
+  ],
+  "demoralization": [
+    "demoralizzazione"
+  ],
+  "demoralize": [
     "demoralizzare"
   ],
   "Demosthenes": [
@@ -758,6 +795,9 @@
   "depalatalisation": [
     "depalatalizzazione"
   ],
+  "depalatalization": [
+    "depalatalizzazione"
+  ],
   "depart": [
     "partire"
   ],
@@ -788,6 +828,10 @@
   "depict": [
     "ritrarre"
   ],
+  "depiction": [
+    "raffigurazione",
+    "rappresentazione"
+  ],
   "depilation": [
     "depilazione"
   ],
@@ -804,6 +848,9 @@
     "distribuzione"
   ],
   "depolymerisation": [
+    "depolimerizzazione"
+  ],
+  "depolymerization": [
     "depolimerizzazione"
   ],
   "deport": [
@@ -825,6 +872,9 @@
   ],
   "depository": [
     "depositario"
+  ],
+  "depot": [
+    "rimessa"
   ],
   "depravation": [
     "depravazione"
@@ -977,6 +1027,7 @@
     "desistere"
   ],
   "desk": [
+    "banco",
     "scrivania"
   ],
   "desolation": [
@@ -990,6 +1041,9 @@
   ],
   "desperately": [
     "disperatamente"
+  ],
+  "desperation": [
+    "disperazione"
   ],
   "despise": [
     "disprezzare",
@@ -1056,6 +1110,7 @@
     "detenere"
   ],
   "detect": [
+    "captare",
     "scoprire"
   ],
   "detection": [
@@ -1144,6 +1199,9 @@
   "development": [
     "sviluppo"
   ],
+  "deviate": [
+    "deviare"
+  ],
   "deviation": [
     "deviazione"
   ],
@@ -1158,7 +1216,8 @@
   ],
   "devise": [
     "concepire",
-    "escogitare"
+    "escogitare",
+    "ideare"
   ],
   "devote": [
     "dedicare"
@@ -1261,6 +1320,9 @@
   "diatonic": [
     "diatonico"
   ],
+  "dice": [
+    "dado"
+  ],
   "dichotomous": [
     "dicotomico"
   ],
@@ -1341,6 +1403,9 @@
   "diffraction": [
     "diffrazione"
   ],
+  "diffuse": [
+    "diffondere"
+  ],
   "diffusely": [
     "diffusamente"
   ],
@@ -1406,6 +1471,7 @@
     "diluizione"
   ],
   "dim": [
+    "offuscare",
     "smorzare"
   ],
   "dimension": [
@@ -1477,9 +1543,6 @@
   ],
   "diptych": [
     "dittico"
-  ],
-  "diracconstant": [
-    "costantedidirac"
   ],
   "direct": [
     "diretto",
@@ -1683,8 +1746,7 @@
     "disgustoso"
   ],
   "dish": [
-    "piatto",
-    "servire"
+    "piatto"
   ],
   "disharmony": [
     "disarmonia"
@@ -1926,9 +1988,6 @@
   ],
   "distinctive": [
     "distintivo"
-  ],
-  "distinctly": [
-    "chiaramente"
   ],
   "distinguish": [
     "distinguere"
@@ -2333,7 +2392,7 @@
     "essiccato"
   ],
   "drift": [
-    "andarealladeriva"
+    "derapare"
   ],
   "drill": [
     "trapano",
@@ -2357,6 +2416,7 @@
     "guidare"
   ],
   "driver": [
+    "autista",
     "conduttore",
     "guidatore"
   ],
@@ -2376,6 +2436,9 @@
   ],
   "dropsy": [
     "idropisia"
+  ],
+  "drought": [
+    "siccità"
   ],
   "drown": [
     "inondare"
@@ -2413,6 +2476,7 @@
     "drupa"
   ],
   "dry": [
+    "arido",
     "asciugare",
     "seccare",
     "secco"
@@ -2469,16 +2533,18 @@
     "ottundere"
   ],
   "dumb": [
-    "stupido"
+    "stupido",
+    "tonto"
   ],
   "dump": [
-    "buttare"
+    "scaricare",
+    "discarica"
+  ],
+  "dumpster":[
+    "discarica"
   ],
   "dune": [
     "duna"
-  ],
-  "dungeon": [
-    "prigionesotterranea"
   ],
   "duodecimal": [
     "duodecimale"

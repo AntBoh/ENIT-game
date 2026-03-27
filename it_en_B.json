@@ -1348,10 +1348,8 @@
     "compass"
   ],
   "busta": [
-    "envelope"
-  ],
-  "bustadell'immondizia": [
-    "trashbag"
+    "envelope",
+    "bag"
   ],
   "busto": [
     "bust"

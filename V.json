@@ -40,6 +40,9 @@
   "vaguely": [
     "vagamente"
   ],
+  "vain": [
+    "vano"
+  ],
   "valencian": [
     "valenziano"
   ],
@@ -59,7 +62,13 @@
   "valley": [
     "valle"
   ],
+  "valor": [
+    "valore"
+  ],
   "valorisation": [
+    "valorizzazione"
+  ],
+  "valorization": [
     "valorizzazione"
   ],
   "valuation": [
@@ -71,9 +80,6 @@
   ],
   "valve": [
     "valvola"
-  ],
-  "vamp": [
-    "vampiressa"
   ],
   "vampire": [
     "vampiro"
@@ -99,11 +105,14 @@
   "vaporise": [
     "vaporizzare"
   ],
+  "vaporization": [
+    "vaporizzazione"
+  ],
+  "vaporize": [
+    "vaporizzare"
+  ],
   "vapour": [
     "vapore"
-  ],
-  "varactor": [
-    "varicap"
   ],
   "variable": [
     "variabile"
@@ -122,9 +131,6 @@
   ],
   "various": [
     "vario"
-  ],
-  "variscite": [
-    "variscite"
   ],
   "vary": [
     "variare"
@@ -253,6 +259,9 @@
   ],
   "verdict": [
     "verdetto"
+  ],
+  "verge": [
+    "orlo"
   ],
   "vergence": [
     "vergenza"
@@ -389,7 +398,9 @@
   ],
   "view": [
     "vedere",
-    "vista"
+    "vista",
+    "visualizzare",
+    "visualizzazione"
   ],
   "viewer": [
     "spettatore"
@@ -541,6 +552,12 @@
   "visualise": [
     "visualizzare"
   ],
+  "visualization": [
+    "visualizzazione"
+  ],
+  "visualize": [
+    "visualizzare"
+  ],
   "visually": [
     "visivamente"
   ],
@@ -589,6 +606,9 @@
   ],
   "vocalist": [
     "vocalista"
+  ],
+  "vocalization": [
+    "vocalizzazione"
   ],
   "vocation": [
     "vocazione"

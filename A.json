@@ -34,10 +34,12 @@
     "abate"
   ],
   "abbreviate": [
-    "abbreviare"
+    "abbreviare",
+    "siglare"
   ],
   "abbreviation": [
-    "abbreviazione"
+    "abbreviazione",
+    "sigla"
   ],
   "abdicate": [
     "abdicare"
@@ -82,6 +84,7 @@
     "ablativo"
   ],
   "able": [
+    "abile",
     "capace"
   ],
   "ably": [
@@ -388,9 +391,6 @@
   "according to": [
     "secondo"
   ],
-  "accordingly": [
-    "diconseguenza"
-  ],
   "accordion": [
     "fisarmonica"
   ],
@@ -427,7 +427,7 @@
     "accumulatore"
   ],
   "accuracy": [
-    "esattezza"
+    "accuratezza"
   ],
   "accurate": [
     "accurato",
@@ -567,6 +567,9 @@
   "action": [
     "azione"
   ],
+  "activate": [
+    "attivare"
+  ],
   "activation": [
     "attivazione"
   ],
@@ -582,12 +585,6 @@
   "activist": [
     "attivista",
     "combattente"
-  ],
-  "actofgod": [
-    "causadiforzamaggiore"
-  ],
-  "actofnature": [
-    "causadiforzamaggiore"
   ],
   "actor": [
     "attore"
@@ -606,7 +603,6 @@
     "attuariale"
   ],
   "actuate": [
-    "attivare",
     "attuare"
   ],
   "actuator": [
@@ -662,6 +658,9 @@
   ],
   "addict": [
     "dipendente"
+  ],
+  "addiction": [
+    "dipendenza"
   ],
   "addition": [
     "addizione"
@@ -823,10 +822,7 @@
   "adrenaline": [
     "adrenalina"
   ],
-  "adret": [
-    "adret"
-  ],
-  "adriatic": [
+  "Adriatic": [
     "adriatico"
   ],
   "adrift": [
@@ -902,9 +898,6 @@
   "advertising": [
     "pubblicitario"
   ],
-  "advertisingagent": [
-    "pubblicitario"
-  ],
   "advice": [
     "consiglio",
     "consulenza"
@@ -919,7 +912,7 @@
     "consigliere"
   ],
   "advisory": [
-    "consigliabile"
+    "consultivo"
   ],
   "advocacy": [
     "avvocatura"
@@ -1040,6 +1033,10 @@
   "afterall": [
     "dopotutto"
   ],
+  "afterlife": [
+    "aldilà",
+    "oltretomba"
+  ],
   "afternoon": [
     "pomeriggio"
   ],
@@ -1088,6 +1085,9 @@
   ],
   "aggregation": [
     "aggregazione"
+  ],
+  "aggression": [
+    "aggressione"
   ],
   "aggressive": [
     "aggressivo"
@@ -1189,6 +1189,9 @@
   ],
   "airliner": [
     "aereo"
+  ],
+  "airman": [
+    "aviatore"
   ],
   "airplane": [
     "aereo",
@@ -1304,6 +1307,9 @@
   "alike": [
     "simile",
     "ugualmente"
+  ],
+  "aliment": [
+    "alimento"
   ],
   "alimentary": [
     "alimentare"
@@ -1445,7 +1451,8 @@
     "Alsazia"
   ],
   "also": [
-    "anche"
+    "anche",
+    "pure"
   ],
   "altaic": [
     "altaico"
@@ -1539,16 +1546,15 @@
     "amalgamazione"
   ],
   "amateur": [
-    "amatore"
+    "amatore",
+    "amatoriale"
   ],
   "amateurism": [
     "dilettantismo"
   ],
   "amazement": [
-    "stupore"
-  ],
-  "amazonite": [
-    "amazonite"
+    "stupore",
+    "meraviglia"
   ],
   "ambassador": [
     "ambasciatore"
@@ -1674,6 +1680,9 @@
   "ampere": [
     "ampere"
   ],
+  "amperometer": [
+    "amperometro"
+  ],
   "amperometry": [
     "amperometria"
   ],
@@ -1685,6 +1694,9 @@
   ],
   "amphibology": [
     "anfibologia"
+  ],
+  "amphitheater": [
+    "anfiteatro"
   ],
   "amphitheatre": [
     "anfiteatro"
@@ -1767,6 +1779,9 @@
   "anaesthetist": [
     "anestesista"
   ],
+  "anaesthetize": [
+    "anestetizzare"
+  ],
   "anal": [
     "anale"
   ],
@@ -1800,6 +1815,12 @@
   ],
   "analytical": [
     "analitico"
+  ],
+  "analyze": [
+    "analizzare"
+  ],
+  "analyzer": [
+    "analizzatore"
   ],
   "anaphylaxis": [
     "anafilassi"
@@ -1838,9 +1859,6 @@
   "anchor": [
     "ancora",
     "ancorare"
-  ],
-  "anchorcurrency": [
-    "valutadireserva"
   ],
   "anchovy": [
     "acciuga"
@@ -1944,7 +1962,6 @@
     "anellide"
   ],
   "annex": [
-    "allegato",
     "annesso",
     "annettere"
   ],
@@ -1974,6 +1991,7 @@
   ],
   "annoy": [
     "importunare",
+    "infastidire",
     "molestare"
   ],
   "annoyance": [
@@ -2164,6 +2182,9 @@
   "antisymmetric": [
     "antisimmetrico"
   ],
+  "antisymmetrical": [
+    "antisimmetrico"
+  ],
   "antithesis": [
     "antitesi"
   ],
@@ -2263,11 +2284,17 @@
   "apiculture": [
     "apicoltura"
   ],
+  "apogee": [
+    "apogeo"
+  ],
   "apologetic": [
     "apologetico"
   ],
   "apologise": [
-    "chiederescusa"
+    "scusarsi"
+  ],
+  "apologize": [
+    "scusarsi"
   ],
   "apostle": [
     "apostolo"
@@ -2295,8 +2322,7 @@
   ],
   "appeal": [
     "appello",
-    "attrazione",
-    "fareappello"
+    "attrazione"
   ],
   "appealable": [
     "appellabile"
@@ -2315,9 +2341,6 @@
   ],
   "appellative": [
     "appellativo"
-  ],
-  "appellarsi":[
-    "appeal"
   ],
   "appendix": [
     "appendice"
@@ -2362,6 +2385,7 @@
   ],
   "appoint": [
     "designare",
+    "eleggere",
     "nominare"
   ],
   "appointment": [
@@ -2502,6 +2526,9 @@
   "arboriculture": [
     "arboricoltura"
   ],
+  "arc": [
+    "arco"
+  ],
   "arcade": [
     "passaggio"
   ],
@@ -2561,6 +2588,7 @@
     "archivistico"
   ],
   "archive": [
+    "archiviare",
     "archivio"
   ],
   "archivolt": [
@@ -2609,9 +2637,6 @@
   "arid": [
     "arido"
   ],
-  "arietta": [
-    "arietta"
-  ],
   "arise": [
     "sorgere"
   ],
@@ -2649,9 +2674,6 @@
   ],
   "armchair": [
     "poltrona"
-  ],
-  "armedforces": [
-    "forzaarmata"
   ],
   "armistice": [
     "armistizio"
@@ -2784,7 +2806,8 @@
     "articolatorio"
   ],
   "artifact": [
-    "artefatto"
+    "artefatto",
+    "manufatto"
   ],
   "artifice": [
     "artificio"
@@ -2803,6 +2826,9 @@
   ],
   "artisan": [
     "artigiano"
+  ],
+  "artisanal": [
+    "artigianale"
   ],
   "artist": [
     "artista"
@@ -2835,7 +2861,8 @@
     "ascendente"
   ],
   "ascent": [
-    "ascenso"
+    "ascenso",
+    "ascesa"
   ],
   "ascertain": [
     "accertare"
@@ -2895,6 +2922,9 @@
   "asphyxia": [
     "asfissia"
   ],
+  "aspirant": [
+    "aspirante"
+  ],
   "aspiration": [
     "aspirazione"
   ],
@@ -2904,10 +2934,23 @@
   "aspirin": [
     "aspirina"
   ],
+  "aspiring": [
+    "aspirante"
+  ],
   "ass": [
     "somaro"
   ],
+  "assassin": [
+    "assassino"
+  ],
+  "assassinate": [
+    "assassinare"
+  ],
+  "assassination": [
+    "assassinio"
+  ],
   "assault": [
+    "aggredire",
     "aggressione",
     "assaltare"
   ],
@@ -3051,6 +3094,9 @@
   "asymmetric": [
     "asimmetrico"
   ],
+  "asymmetrical": [
+    "asimmetrico"
+  ],
   "asymmetry": [
     "asimmetria"
   ],
@@ -3062,6 +3108,7 @@
   ],
   "at": [
     "a",
+    "chiocciola",
     "in"
   ],
   "at first": [
@@ -3159,7 +3206,12 @@
   "attach": [
     "attaccare"
   ],
+  "attached": [
+    "affezionato",
+    "allegato"
+  ],
   "attachment": [
+    "allegato",
     "attaccamento"
   ],
   "attack": [
@@ -3260,9 +3312,6 @@
   "audiphone": [
     "audiphone"
   ],
-  "auditing": [
-    "controllo"
-  ],
   "audition": [
     "audizione"
   ],
@@ -3323,6 +3372,9 @@
   "authentically": [
     "autenticamente"
   ],
+  "authenticate": [
+    "autenticare"
+  ],
   "authentication": [
     "autenticazione"
   ],
@@ -3340,6 +3392,9 @@
   ],
   "authoritarianism": [
     "autoritarismo"
+  ],
+  "authorization": [
+    "autorizzazione"
   ],
   "autism": [
     "autismo"
@@ -3459,6 +3514,9 @@
   ],
   "aviation": [
     "aviazione"
+  ],
+  "aviator": [
+    "aviatore"
   ],
   "avid": [
     "avido"

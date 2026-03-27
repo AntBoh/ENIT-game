@@ -42,6 +42,9 @@
   "madden": [
     "impazzire"
   ],
+  "madman": [
+    "pazzo"
+  ],
   "madness": [
     "follia",
     "pazzia"
@@ -54,6 +57,9 @@
   ],
   "magazine": [
     "rivista"
+  ],
+  "mage": [
+    "mago"
   ],
   "magenta": [
     "magenta"
@@ -200,6 +206,9 @@
   "malice": [
     "malizia"
   ],
+  "malicious": [
+    "malizioso"
+  ],
   "maliciousness": [
     "cattiveria"
   ],
@@ -218,9 +227,6 @@
   ],
   "malt": [
     "malto"
-  ],
-  "maltese": [
-    "maltese"
   ],
   "maltose": [
     "maltosio"
@@ -385,6 +391,7 @@
     "maratona"
   ],
   "marble": [
+    "biglia",
     "marmo"
   ],
   "marcasite": [
@@ -519,9 +526,6 @@
   "masculinity": [
     "maschilismo"
   ],
-  "maser": [
-    "maser"
-  ],
   "mask": [
     "maschera",
     "mascherare"
@@ -617,6 +621,9 @@
   "maternal": [
     "materno"
   ],
+  "math": [
+    "matematica"
+  ],
   "mathematical": [
     "matematico"
   ],
@@ -627,6 +634,9 @@
     "matematico"
   ],
   "mathematics": [
+    "matematica"
+  ],
+  "maths": [
     "matematica"
   ],
   "matriarchy": [
@@ -670,6 +680,9 @@
   "maximisation": [
     "massimizzazione"
   ],
+  "maximization": [
+    "massimizzazione"
+  ],
   "maximum": [
     "massimo"
   ],
@@ -691,6 +704,9 @@
   "mayor": [
     "sindaco"
   ],
+  "maze": [
+    "labirinto"
+  ],
   "me": [
     "io",
     "me",
@@ -707,6 +723,7 @@
   ],
   "mean": [
     "cattivo",
+    "intendere",
     "significare"
   ],
   "meander": [
@@ -736,6 +753,7 @@
     "misurare"
   ],
   "measurement": [
+    "misura",
     "misurazione"
   ],
   "meat": [
@@ -758,6 +776,12 @@
   ],
   "mechanism": [
     "meccanismo"
+  ],
+  "mechanization": [
+    "meccanizzazione"
+  ],
+  "mechanize": [
+    "meccanizzare"
   ],
   "meconium": [
     "meconio"
@@ -804,7 +828,8 @@
   ],
   "medium": [
     "medio",
-    "mezzo"
+    "mezzo",
+    "tramite"
   ],
   "medlar": [
     "nespolo"
@@ -885,15 +910,18 @@
   "memorise": [
     "memorizzare"
   ],
+  "memorization": [
+    "memorizzazione"
+  ],
+  "memorize": [
+    "memorizzare"
+  ],
   "memory": [
     "memoria",
     "ricordo"
   ],
   "mendelevium": [
     "mendelevio"
-  ],
-  "menhir": [
-    "menhir"
   ],
   "menopause": [
     "menopausa"
@@ -932,6 +960,9 @@
   ],
   "Mercury": [
     "Mercurio"
+  ],
+  "mercy": [
+    "balia"
   ],
   "mere": [
     "mero"
@@ -986,6 +1017,9 @@
   ],
   "mesodermal": [
     "mesodermico"
+  ],
+  "meson": [
+    "mesone"
   ],
   "mesosphere": [
     "mesosfera"
@@ -1081,7 +1115,6 @@
     "meteorologia"
   ],
   "meter": [
-    "contatore",
     "metro"
   ],
   "methanol": [
@@ -1321,8 +1354,14 @@
   "milligramme": [
     "milligrammo"
   ],
+  "milliliter": [
+    "millilitro"
+  ],
   "millilitre": [
     "millilitro"
+  ],
+  "millimeter": [
+    "millimetro"
   ],
   "millimetre": [
     "millimetro"
@@ -1416,6 +1455,12 @@
   "minuet": [
     "minuetto"
   ],
+  "minus": [
+    "meno"
+  ],
+  "minuscule": [
+    "minuscolo"
+  ],
   "minute": [
     "minuto"
   ],
@@ -1470,6 +1515,7 @@
     "missionario"
   ],
   "mist": [
+    "foschia",
     "nebbia"
   ],
   "mistral": [
@@ -1501,6 +1547,7 @@
     "mitra"
   ],
   "mix": [
+    "mescolare",
     "miscela",
     "miscelare",
     "mischiare",
@@ -1686,6 +1733,7 @@
     "monismo"
   ],
   "monitor": [
+    "controllare",
     "monitorare",
     "schermo"
   ],
@@ -1753,6 +1801,9 @@
     "monopolo"
   ],
   "monopolise": [
+    "monopolizzare"
+  ],
+  "monopolize": [
     "monopolizzare"
   ],
   "monopoly": [
@@ -1832,6 +1883,9 @@
   "moratorium": [
     "moratoria"
   ],
+  "more": [
+    "più"
+  ],
   "moreover": [
     "oltretutto"
   ],
@@ -1901,6 +1955,9 @@
   "moss": [
     "muschio"
   ],
+  "most": [
+    "più"
+  ],
   "motet": [
     "mottetto"
   ],
@@ -1949,6 +2006,12 @@
   ],
   "motorist": [
     "automobilista"
+  ],
+  "motorization": [
+    "motorizzazione"
+  ],
+  "motorize": [
+    "motorizzare"
   ],
   "mould": [
     "muffa",
@@ -2027,6 +2090,9 @@
   "muddy": [
     "fangoso",
     "torbido"
+  ],
+  "muffle": [
+    "smorzare"
   ],
   "mulch": [
     "pacciame"
@@ -2126,7 +2192,7 @@
   "muscle": [
     "muscolo"
   ],
-  "muscovite": [
+  "Muscovite": [
     "moscovito"
   ],
   "muscular": [

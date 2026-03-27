@@ -21,12 +21,13 @@
   "laboratory": [
     "laboratorio"
   ],
+  "laboriously": [
+    "faticosamente",
+    "laboriosamente"
+  ],
   "labour": [
     "lavorativo",
     "lavoro"
-  ],
-  "labour party member": [
-    "laburista"
   ],
   "labyrinth": [
     "labirinto"
@@ -81,6 +82,9 @@
   ],
   "lamp": [
     "lampada"
+  ],
+  "lamppost":[
+    "lampione"
   ],
   "Lancelot": [
     "Lancillotto"
@@ -180,10 +184,10 @@
   "Latin": [
     "latino"
   ],
-  "latinamerican": [
-    "latinoamericano"
-  ],
   "latinisation": [
+    "latinizzazione"
+  ],
+  "latinization": [
     "latinizzazione"
   ],
   "latitude": [
@@ -253,7 +257,8 @@
     "avvocato"
   ],
   "lay": [
-    "mettere"
+    "mettere",
+    "stendere"
   ],
   "layer": [
     "strato"
@@ -377,6 +382,12 @@
   "legalism": [
     "legalismo"
   ],
+  "legalization": [
+    "legalizzazione"
+  ],
+  "legalize": [
+    "legalizzare"
+  ],
   "legally": [
     "legalmente"
   ],
@@ -448,6 +459,9 @@
   ],
   "lentil": [
     "lenticchia"
+  ],
+  "leo": [
+    "leone"
   ],
   "leopard": [
     "leopardo"
@@ -551,6 +565,12 @@
   ],
   "liberality": [
     "liberalismo"
+  ],
+  "liberalization": [
+    "liberalizzazione"
+  ],
+  "liberalize": [
+    "liberalizzare"
   ],
   "liberally": [
     "liberamente"
@@ -698,6 +718,9 @@
     "fila",
     "linea"
   ],
+  "line up": [
+    "allineare"
+  ],
   "lineage": [
     "lignaggio"
   ],
@@ -707,9 +730,6 @@
   "linen": [
     "biancheria",
     "lino"
-  ],
-  "lineup": [
-    "allineare"
   ],
   "lingual": [
     "linguale"
@@ -731,8 +751,7 @@
     "collegamento",
     "collegare",
     "connessione",
-    "connettere",
-    "tramite"
+    "connettere"
   ],
   "linkage": [
     "connessione"
@@ -747,7 +766,7 @@
     "leone"
   ],
   "lioness": [
-    "leone"
+    "leonessa"
   ],
   "lip": [
     "labbro"
@@ -769,6 +788,9 @@
   ],
   "liquid": [
     "liquido"
+  ],
+  "liquidate": [
+    "liquidare"
   ],
   "liquidation": [
     "liquidazione"
@@ -796,6 +818,9 @@
   ],
   "litany": [
     "litania"
+  ],
+  "liter": [
+    "litro"
   ],
   "literacy": [
     "alfabetizzazione"
@@ -841,6 +866,9 @@
   ],
   "litigate": [
     "litigare"
+  ],
+  "litigious": [
+    "litigioso"
   ],
   "litre": [
     "litro"
@@ -900,8 +928,14 @@
   "local": [
     "locale"
   ],
+  "localisation": [
+    "localizzazione"
+  ],
   "localism": [
     "localismo"
+  ],
+  "localization": [
+    "localizzazione"
   ],
   "locally": [
     "localmente"
@@ -968,9 +1002,6 @@
   "long": [
     "lungo"
   ],
-  "long live": [
-    "viva"
-  ],
   "longitudinal": [
     "longitudinale"
   ],
@@ -980,21 +1011,12 @@
   ],
   "look": [
     "aspetto",
+    "sembrare",
     "guardare",
     "parere"
   ],
   "look for": [
     "cercare"
-  ],
-  "lookafter": [
-    "vigilare"
-  ],
-  "lookfor": [
-    "buscare"
-  ],
-  "looklike": [
-    "parere",
-    "sembrare"
   ],
   "lookout": [
     "vedetta"
@@ -1125,6 +1147,9 @@
   ],
   "lust": [
     "lussuria"
+  ],
+  "luster": [
+    "lucentezza"
   ],
   "lustrum": [
     "lustro"

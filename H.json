@@ -69,9 +69,6 @@
   "halfbrother": [
     "fratellomezzo"
   ],
-  "halfsister": [
-    "sorellamezza"
-  ],
   "halide": [
     "alogenuro"
   ],
@@ -176,7 +173,7 @@
     "manoscritto"
   ],
   "handy": [
-    "utilitario"
+    "utile"
   ],
   "hang": [
     "appendere",
@@ -218,7 +215,11 @@
     "porto"
   ],
   "hard": [
+    "arduo",
     "duro"
+  ],
+  "harden": [
+    "indurire"
   ],
   "hardly": [
     "difficilmente",
@@ -245,6 +246,7 @@
     "nuocere"
   ],
   "harmful": [
+    "dannoso",
     "nocivo"
   ],
   "harmonic": [
@@ -259,8 +261,17 @@
   "harmonium": [
     "armonium"
   ],
+  "harmonization": [
+    "armonizzazione"
+  ],
+  "harmonize": [
+    "armonizzare"
+  ],
   "harmony": [
     "armonia"
+  ],
+  "harness": [
+    "imbracatura"
   ],
   "harp": [
     "arpa"
@@ -277,9 +288,6 @@
   "harvest": [
     "raccogliere",
     "raccolto"
-  ],
-  "hashish": [
-    "hascisc"
   ],
   "haste": [
     "fretta"
@@ -350,6 +358,10 @@
   ],
   "header": [
     "intestazione"
+  ],
+  "headlight": [
+    "fanale",
+    "faro"
   ],
   "headline": [
     "intestatario"
@@ -500,6 +512,9 @@
     "aiutare",
     "aiuto",
     "soccorrere"
+  ],
+  "helper": [
+    "aiutante"
   ],
   "helpful": [
     "utile"
@@ -771,7 +786,6 @@
     "ippopotamo"
   ],
   "hire": [
-    "affittare",
     "affitto"
   ],
   "his": [
@@ -803,8 +817,8 @@
     "storia"
   ],
   "hit": [
+    "colpito",
     "colpo",
-    "hit",
     "impatto",
     "successo"
   ],
@@ -825,7 +839,6 @@
     "hockey"
   ],
   "hold": [
-    "controllo",
     "tenere"
   ],
   "holder": [
@@ -908,6 +921,9 @@
   "homogenisation": [
     "omogeneizzazione"
   ],
+  "homogenization": [
+    "omogeneizzazione"
+  ],
   "homography": [
     "omografia"
   ],
@@ -967,7 +983,14 @@
   ],
   "honor": [
     "onorare",
-    "onore"
+    "onore",
+    "onorificenza"
+  ],
+  "honorable": [
+    "onorabile"
+  ],
+  "honorary": [
+    "onorario"
   ],
   "honorific": [
     "onorifico"
@@ -979,9 +1002,6 @@
   ],
   "honourable": [
     "onorabile"
-  ],
-  "honourary": [
-    "onorario"
   ],
   "hook": [
     "agganciare",
@@ -1017,6 +1037,7 @@
     "ormone"
   ],
   "horn": [
+    "clacson",
     "corno"
   ],
   "hornblende": [

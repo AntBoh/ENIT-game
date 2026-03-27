@@ -37,7 +37,8 @@
     "oggettivazione"
   ],
   "objective": [
-    "obiettivo"
+    "obiettivo",
+    "scopo"
   ],
   "objectively": [
     "obiettivamente",
@@ -554,6 +555,9 @@
   "opposable": [
     "opponibile"
   ],
+  "oppose": [
+    "opporre"
+  ],
   "opposed": [
     "contrapposto"
   ],
@@ -633,6 +637,7 @@
     "orbitale"
   ],
   "orchard": [
+    "frutteto",
     "orto"
   ],
   "orchestra": [
@@ -668,11 +673,7 @@
   "ordinance": [
     "ordinanza"
   ],
-  "ordinarily": [
-    "normalmente"
-  ],
   "ordinary": [
-    "normale",
     "ordinario"
   ],
   "organ": [
@@ -701,6 +702,9 @@
   ],
   "organist": [
     "organista"
+  ],
+  "organization": [
+    "organizzazione"
   ],
   "orgasm": [
     "orgasmo"
@@ -859,20 +863,15 @@
     "oncia"
   ],
   "our": [
-    "ilnostro",
     "nostro"
   ],
   "ours": [
-    "ilnostro",
     "nostro"
   ],
   "ourselves": [
     "noi stessi"
   ],
   "out": [
-    "fuori"
-  ],
-  "out of": [
     "fuori"
   ],
   "out of place": [
@@ -893,6 +892,9 @@
   ],
   "outer": [
     "esteriore"
+  ],
+  "outgoing": [
+    "espansivo"
   ],
   "outlay": [
     "costo",
@@ -946,6 +948,7 @@
     "ingenerale"
   ],
   "overcome": [
+    "superare",
     "vincere"
   ],
   "overdose": [
@@ -974,9 +977,6 @@
   ],
   "overproduction": [
     "sovrapproduzione"
-  ],
-  "overriding": [
-    "primordiale"
   ],
   "overtaking": [
     "sorpasso"

@@ -126,10 +126,12 @@
     "vapour"
   ],
   "vaporizzare": [
-    "vaporise"
+    "vaporise",
+    "vaporize"
   ],
   "vaporizzazione": [
-    "vaporisation"
+    "vaporisation",
+    "vaporization"
   ],
   "variabile": [
     "variable"
@@ -150,14 +152,8 @@
   "variazione": [
     "variation"
   ],
-  "varicap": [
-    "varactor"
-  ],
   "vario": [
     "various"
-  ],
-  "variscite": [
-    "variscite"
   ],
   "Varsavia": [
     "Warsaw"

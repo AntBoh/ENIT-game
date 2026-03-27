@@ -62,6 +62,12 @@
   "idealistic": [
     "idealista"
   ],
+  "idealization": [
+    "idealizzazione"
+  ],
+  "idealize": [
+    "idealizzare"
+  ],
   "ideally": [
     "idealmente"
   ],
@@ -816,6 +822,9 @@
   "indeterminate": [
     "indeterminato"
   ],
+  "indeterminazione": [
+    "indeterminazione"
+  ],
   "index": [
     "indice"
   ],
@@ -1108,7 +1117,8 @@
   ],
   "influence": [
     "influenza",
-    "influenzare"
+    "influenzare",
+    "influire"
   ],
   "influential": [
     "influente"
@@ -1171,9 +1181,6 @@
   "ingredient": [
     "ingrediente"
   ],
-  "ingrowntoenail": [
-    "unghiaincarnita"
-  ],
   "inhabitant": [
     "abitante",
     "abitatore"
@@ -1219,6 +1226,9 @@
   "initialisation": [
     "inizializzazione"
   ],
+  "initialization": [
+    "inizializzazione"
+  ],
   "initially": [
     "inizialmente"
   ],
@@ -1262,9 +1272,6 @@
   "inlet": [
     "insenatura",
     "sacca"
-  ],
-  "inn": [
-    "mesone"
   ],
   "innate": [
     "innato"
@@ -1315,7 +1322,11 @@
     "inquisizione"
   ],
   "insane": [
-    "demente"
+    "demente",
+    "pazzo"
+  ],
+  "insanity": [
+    "pazzia"
   ],
   "inscribe": [
     "inscrivere"
@@ -1369,9 +1380,6 @@
   ],
   "insight": [
     "idea"
-  ],
-  "insignia": [
-    "insignia"
   ],
   "insignificant": [
     "insignificante"
@@ -1626,7 +1634,8 @@
     "intenzione"
   ],
   "intentional": [
-    "intenzionato"
+    "intenzionato",
+    "intenzionale"
   ],
   "intentionally": [
     "intenzionalmente",
@@ -1654,7 +1663,8 @@
     "intercettazione"
   ],
   "interchange": [
-    "baratto"
+    "baratto",
+    "scambio"
   ],
   "interchangeable": [
     "intercambiabile"
@@ -1753,6 +1763,9 @@
     "internazionale"
   ],
   "internationalisation": [
+    "internazionalizzazione"
+  ],
+  "internationalization": [
     "internazionalizzazione"
   ],
   "internationally": [
@@ -1856,9 +1869,6 @@
   ],
   "intestine": [
     "intestino"
-  ],
-  "inthetwinklingofaneye": [
-    "inunbatterd'occhio"
   ],
   "intimate": [
     "intimo"
@@ -2104,13 +2114,16 @@
   "ionisation": [
     "ionizzazione"
   ],
+  "ionization": [
+    "ionizzazione"
+  ],
   "ionosphere": [
     "ionosfera"
   ],
   "iranian": [
     "iraniano"
   ],
-  "iraqi": [
+  "Iraqi": [
     "iracheno"
   ],
   "irascible": [
@@ -2142,7 +2155,6 @@
     "irlandese"
   ],
   "iron": [
-    "asse",
     "ferreo",
     "ferro",
     "stirare"
@@ -2238,6 +2250,9 @@
     "islamista"
   ],
   "island": [
+    "isola"
+  ],
+  "isle": [
     "isola"
   ],
   "Isle of Man": [

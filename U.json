@@ -62,9 +62,6 @@
   "unappealable": [
     "inappellabile"
   ],
-  "unavailable": [
-    "inutilizzabile"
-  ],
   "unavoidable": [
     "inevitabile"
   ],
@@ -73,6 +70,9 @@
   ],
   "unbalanced": [
     "squilibrato"
+  ],
+  "unbearable": [
+    "insopportabile"
   ],
   "unbelievably": [
     "incredibilmente"
@@ -87,6 +87,7 @@
     "incerto"
   ],
   "uncertainty": [
+    "incertezza",
     "indeterminazione"
   ],
   "unchain": [
@@ -114,6 +115,9 @@
   ],
   "unconformity": [
     "discordanza"
+  ],
+  "uncontainable": [
+    "incontenibile"
   ],
   "uncontrolled": [
     "incontrollato"
@@ -184,7 +188,9 @@
     "intraprendere"
   ],
   "undertaking": [
-    "garanzia"
+    "garanzia",
+    "impresa",
+    "assicurazione"
   ],
   "undervaluation": [
     "sottovalutazione"
@@ -196,6 +202,10 @@
   ],
   "underwear": [
     "biancheria"
+  ],
+  "underworld": [
+    "aldilà",
+    "oltretomba"
   ],
   "undesirable": [
     "indesiderabile"
@@ -264,6 +274,9 @@
   ],
   "unicellular": [
     "unicellulare"
+  ],
+  "unicolored": [
+    "unicolore"
   ],
   "unicoloured": [
     "unicolore"
@@ -359,6 +372,9 @@
     "ignoto",
     "sconosciuto"
   ],
+  "unleash": [
+    "scatenare"
+  ],
   "unless": [
     "a meno che",
     "tranne"
@@ -407,6 +423,9 @@
   ],
   "unprotected": [
     "indifeso"
+  ],
+  "unprovable": [
+    "indimostrabile"
   ],
   "unquestionable": [
     "inquestionabile"
@@ -462,6 +481,9 @@
   "until": [
     "fino a"
   ],
+  "unusable": [
+    "inutilizzabile"
+  ],
   "unusual": [
     "insolito",
     "inusuale"
@@ -473,6 +495,7 @@
     "indegno"
   ],
   "up": [
+    "sopra",
     "su"
   ],
   "up to now": [
@@ -619,8 +642,17 @@
   "utilise": [
     "utilizzare"
   ],
+  "utilitarian": [
+    "utilitario"
+  ],
   "utilitarism": [
     "utilitarismo"
+  ],
+  "utilization": [
+    "utilizzazione"
+  ],
+  "utilize": [
+    "utilizzare"
   ],
   "utopia": [
     "utopia"

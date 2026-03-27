@@ -24,11 +24,11 @@
   "earl": [
     "conte"
   ],
+  "earlier": [
+    "prima"
+  ],
   "early": [
     "presto"
-  ],
-  "earlyrepayment": [
-    "rimborsoanticipato"
   ],
   "earn": [
     "guadagnare",
@@ -60,6 +60,7 @@
     "grossolano"
   ],
   "ease": [
+    "agio",
     "alleviare"
   ],
   "easily": [
@@ -81,9 +82,6 @@
   ],
   "eat": [
     "mangiare"
-  ],
-  "eavesdropper": [
-    "guardone"
   ],
   "ebony": [
     "ebano"
@@ -162,7 +160,8 @@
     "edafologia"
   ],
   "edge": [
-    "bordo",
+    "canto",
+    "filo",
     "margine",
     "spigolo"
   ],
@@ -181,7 +180,8 @@
     "redigere"
   ],
   "editable": [
-    "editabile"
+    "editabile",
+    "modificabile"
   ],
   "edition": [
     "edizione"
@@ -251,6 +251,8 @@
     "effluente"
   ],
   "effort": [
+    "fatica",
+    "impegno",
     "sforzo"
   ],
   "effortlessly": [
@@ -408,6 +410,7 @@
     "anziano"
   ],
   "elect": [
+    "eleggere",
     "eletto",
     "scegliere"
   ],
@@ -837,6 +840,12 @@
   "encyclopaedic": [
     "enciclopedico"
   ],
+  "encyclopedia": [
+    "enciclopedia"
+  ],
+  "encyclopedic": [
+    "enciclopedico"
+  ],
   "end": [
     "fine",
     "finire",
@@ -959,13 +968,17 @@
     "godimento"
   ],
   "enlarge": [
-    "ampliare"
+    "ampliare",
+    "allargare"
   ],
   "enlistment": [
     "arruolamento"
   ],
   "enmity": [
     "inimicizia"
+  ],
+  "ennoble": [
+    "nobilitare"
   ],
   "enormous": [
     "enorme"
@@ -1030,6 +1043,9 @@
   ],
   "enthusiast": [
     "appassionato"
+  ],
+  "enthusiastic": [
+    "entusiasta"
   ],
   "entire": [
     "intero"
@@ -1629,7 +1645,8 @@
     "sfratto"
   ],
   "evidence": [
-    "evidenza"
+    "evidenza",
+    "prova"
   ],
   "evident": [
     "evidente"
@@ -1641,7 +1658,11 @@
     "evidentemente"
   ],
   "evil": [
-    "male"
+    "male",
+    "maligno"
+  ],
+  "evil doer": [
+    "malfattore"
   ],
   "evocation": [
     "evocazione",
@@ -1673,6 +1694,9 @@
   ],
   "exactly": [
     "esattamente"
+  ],
+  "exactness": [
+    "esattezza"
   ],
   "exaggerate": [
     "esagerare"
@@ -1754,13 +1778,11 @@
   ],
   "exchange": [
     "cambio",
-    "scambiare"
+    "scambiare",
+    "scambio"
   ],
   "exchangeable": [
     "intercambiabile"
-  ],
-  "exchangerate": [
-    "tassodicambio"
   ],
   "excitation": [
     "eccitazione"
@@ -1769,6 +1791,7 @@
     "entusiasmare"
   ],
   "excitement": [
+    "eccitazione",
     "emozione"
   ],
   "exclaim": [
@@ -1849,7 +1872,9 @@
     "esaustivo"
   ],
   "exhibit": [
-    "esibire",
+    "esibire"
+  ],
+  "exhibited": [
     "esposto"
   ],
   "exhibition": [
@@ -1929,14 +1954,14 @@
     "ampliamento",
     "espansione"
   ],
-  "expansionary": [
-    "espansivo"
-  ],
   "expansionism": [
     "espansionismo"
   ],
   "expansionist": [
     "espansionista"
+  ],
+  "expansive": [
+    "espansivo"
   ],
   "expatriation": [
     "espatrio"
@@ -1995,7 +2020,6 @@
     "scadenza"
   ],
   "explain": [
-    "contare",
     "raccontare",
     "spiegare"
   ],
@@ -2047,6 +2071,9 @@
   ],
   "expose": [
     "esporre"
+  ],
+  "exposed": [
+    "esposto"
   ],
   "exposition": [
     "esposizione"
@@ -2116,11 +2143,17 @@
   "externally": [
     "esternamente"
   ],
+  "extinct": [
+    "estinto"
+  ],
   "extinction": [
     "estinzione"
   ],
   "extinguish": [
     "estinguere"
+  ],
+  "extinguished": [
+    "estinto"
   ],
   "extinguisher": [
     "estintore"
@@ -2203,9 +2236,6 @@
   ],
   "eyedrop": [
     "collirio"
-  ],
-  "eyeexamination": [
-    "esamedellavista"
   ],
   "eyelash": [
     "ciglio"

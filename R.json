@@ -201,6 +201,10 @@
   "raspberry": [
     "lampone"
   ],
+  "rat": [
+    "ratto",
+    "topo"
+  ],
   "rate": [
     "aliquota",
     "indice",
@@ -248,10 +252,9 @@
   "razor": [
     "rasoio"
   ],
-  "re-create": [
-    "ricreare"
-  ],
   "reach": [
+    "portata",
+    "raggiungere",
     "riuscire"
   ],
   "reachfor": [
@@ -324,6 +327,12 @@
   "realistic": [
     "realista",
     "realistico"
+  ],
+  "realization": [
+    "realizzazione"
+  ],
+  "realize": [
+    "realizzare"
   ],
   "reallocation": [
     "riassegnazione"
@@ -405,6 +414,7 @@
     "recettore"
   ],
   "recess": [
+    "intervallo",
     "recesso",
     "ricreazione",
     "sospendere"
@@ -439,9 +449,6 @@
   "reckon": [
     "considerare"
   ],
-  "reclaimed": [
-    "rivendicativo"
-  ],
   "recognise": [
     "riconoscere"
   ],
@@ -455,6 +462,9 @@
   "recommend": [
     "consigliare",
     "raccomandare"
+  ],
+  "recommendable": [
+    "consigliabile"
   ],
   "recommendation": [
     "consiglio",
@@ -620,7 +630,12 @@
     "abbuono",
     "riduzione"
   ],
+  "redundance": [
+    "licenziamento",
+    "ridondanza"
+  ],
   "redundancy": [
+    "licenziamento",
     "ridondanza"
   ],
   "reed": [
@@ -631,6 +646,10 @@
   ],
   "reeducation": [
     "rieducazione"
+  ],
+  "reef": [
+    "barriera",
+    "scogliera"
   ],
   "reelect": [
     "rieleggere"
@@ -812,6 +831,9 @@
   "regularisation": [
     "regolarizzazione"
   ],
+  "regularization": [
+    "regolarizzazione"
+  ],
   "regularly": [
     "regolarmente"
   ],
@@ -824,6 +846,7 @@
     "regolamento"
   ],
   "regulatory": [
+    "regolamentare",
     "regolatore"
   ],
   "rehabilitation": [
@@ -981,6 +1004,10 @@
   "remains": [
     "resto"
   ],
+  "remake": [
+    "ricreare",
+    "rifare"
+  ],
   "remark": [
     "osservare",
     "osservazione"
@@ -1080,6 +1107,7 @@
     "ristrutturazione"
   ],
   "rent": [
+    "affittare",
     "affitto"
   ],
   "rental": [
@@ -1096,6 +1124,12 @@
   ],
   "reorganise": [
     "ridimensionare",
+    "riorganizzare"
+  ],
+  "reorganization": [
+    "riorganizzazione"
+  ],
+  "reorganize": [
     "riorganizzare"
   ],
   "reorient": [
@@ -1304,9 +1338,6 @@
     "prenotare",
     "riserva",
     "riservare"
-  ],
-  "reservecurrency": [
-    "valutadireserva"
   ],
   "residence": [
     "residenza"
@@ -1667,6 +1698,9 @@
   "revolutionise": [
     "rivoluzionare"
   ],
+  "revolutionize": [
+    "rivoluzionare"
+  ],
   "revolver": [
     "rivoltella"
   ],
@@ -1737,8 +1771,8 @@
     "rabarbaro"
   ],
   "rhyme": [
-    "farerima",
-    "rima"
+    "rima",
+    "rimare"
   ],
   "rhythm": [
     "ritmo"
@@ -1807,6 +1841,9 @@
   "rigour": [
     "rigore"
   ],
+  "rim": [
+    "orlo"
+  ],
   "ring": [
     "anello",
     "anulare",
@@ -1817,7 +1854,7 @@
     "tintinnare",
     "tintinnio"
   ],
-  "ringer": [
+  "ringtone": [
     "suoneria"
   ],
   "riot": [
@@ -1852,7 +1889,7 @@
   "rival": [
     "rivale"
   ],
-  "rivalry":[
+  "rivalry": [
     "rivalità"
   ],
   "river": [
@@ -1936,6 +1973,9 @@
   "romanisation": [
     "romanizzazione"
   ],
+  "romanization": [
+    "romanizzazione"
+  ],
   "romantic": [
     "romantico"
   ],
@@ -1952,12 +1992,16 @@
     "torre"
   ],
   "room": [
+    "camera",
     "spazio",
     "stanza"
   ],
   "roomy": [
     "capiente",
     "spazioso"
+  ],
+  "roost": [
+    "pertica"
   ],
   "rooster": [
     "gallo"
@@ -2073,6 +2117,7 @@
     "timone"
   ],
   "rude": [
+    "maleducato",
     "scortese"
   ],
   "rudimentary": [
@@ -2145,6 +2190,9 @@
     "rurale"
   ],
   "ruralisation": [
+    "ruralizzazione"
+  ],
+  "ruralization": [
     "ruralizzazione"
   ],
   "russian": [

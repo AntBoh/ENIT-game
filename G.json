@@ -162,6 +162,9 @@
     "ingranaggio",
     "marcia"
   ],
+  "gelatin": [
+    "gelatina"
+  ],
   "gelatinous": [
     "gelatinoso"
   ],
@@ -292,6 +295,9 @@
   "geographic": [
     "geografico"
   ],
+  "geographical": [
+    "geografico"
+  ],
   "geographically": [
     "geograficamente"
   ],
@@ -406,6 +412,9 @@
   "get in": [
     "entrare"
   ],
+  "get married": [
+    "sposarsi"
+  ],
   "get off": [
     "scendere"
   ],
@@ -427,9 +436,6 @@
   "getaway": [
     "scappare"
   ],
-  "getmarried": [
-    "sposarsi"
-  ],
   "geyser": [
     "geyser"
   ],
@@ -437,7 +443,8 @@
     "ghetto"
   ],
   "ghost": [
-    "fantasma"
+    "fantasma",
+    "spettro"
   ],
   "giant": [
     "gigante"
@@ -495,6 +502,9 @@
     "dare",
     "regalare"
   ],
+  "give birth": [
+    "partorire"
+  ],
   "giveback": [
     "ridare"
   ],
@@ -532,7 +542,6 @@
   ],
   "glass": [
     "bicchiere",
-    "cristalleria",
     "vetro"
   ],
   "glasses": [
@@ -542,6 +551,10 @@
     "vetraio"
   ],
   "glassware": [
+    "cristalleria",
+    "vetreria"
+  ],
+  "glassworks": [
     "vetreria"
   ],
   "glide": [
@@ -554,6 +567,9 @@
   ],
   "glimpse": [
     "intravedere"
+  ],
+  "glitter": [
+    "luccichio"
   ],
   "global": [
     "globale"
@@ -641,6 +657,9 @@
   "go down": [
     "scendere"
   ],
+  "go on": [
+    "proseguire"
+  ],
   "goal": [
     "goal",
     "obiettivo"
@@ -651,8 +670,8 @@
   "goblin": [
     "folletto"
   ],
-  "god": [
-    "dio"
+  "God": [
+    "Dio"
   ],
   "godchild": [
     "figlioccio"
@@ -792,6 +811,9 @@
   "grammaticalisation": [
     "grammaticalizzazione"
   ],
+  "gramme": [
+    "grammo"
+  ],
   "gramophone": [
     "grammofono"
   ],
@@ -814,7 +836,7 @@
     "nonno"
   ],
   "grandmother": [
-    "nonno"
+    "nonna"
   ],
   "grandparent": [
     "nonno"
@@ -830,6 +852,7 @@
   ],
   "grant": [
     "concedere",
+    "esaudire",
     "sovvenzione"
   ],
   "granular": [
@@ -997,7 +1020,8 @@
     "smorfia"
   ],
   "grind": [
-    "macinare"
+    "macinare",
+    "triturare"
   ],
   "grinder": [
     "mulinello"
@@ -1066,9 +1090,6 @@
   ],
   "guard": [
     "guardia"
-  ],
-  "guarddog": [
-    "canedaguardia"
   ],
   "guerrilla": [
     "guerriglia",

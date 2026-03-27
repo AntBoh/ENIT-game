@@ -91,6 +91,7 @@
     "calcolabile"
   ],
   "calculate": [
+    "calcolare",
     "computare"
   ],
   "calculation": [
@@ -154,9 +155,6 @@
   "camel": [
     "cammello"
   ],
-  "camera": [
-    "camera"
-  ],
   "cameraman": [
     "cameraman"
   ],
@@ -180,7 +178,7 @@
     "canfora"
   ],
   "can": [
-    "latta",
+    "lattina",
     "potere"
   ],
   "Canadian": [
@@ -257,6 +255,16 @@
   "canonisation": [
     "canonizzazione"
   ],
+  "canonization": [
+    "canonizzazione"
+  ],
+  "cantankeorus": [
+    "scorbutico"
+  ],
+  "cantankerous": [
+    "irascibile",
+    "litigioso"
+  ],
   "canteen": [
     "mensa"
   ],
@@ -321,6 +329,12 @@
   "cappuccino": [
     "cappuccino"
   ],
+  "caprice": [
+    "capriccio"
+  ],
+  "capricious": [
+    "capriccioso"
+  ],
   "capsid": [
     "capside"
   ],
@@ -345,6 +359,7 @@
     "prigioniero"
   ],
   "capture": [
+    "captare",
     "cattura",
     "catturare"
   ],
@@ -572,6 +587,9 @@
   "castilianisation": [
     "castiglianizzazione"
   ],
+  "castilianization": [
+    "castiglianizzazione"
+  ],
   "casting": [
     "casting"
   ],
@@ -642,6 +660,7 @@
   ],
   "catch": [
     "afferrare",
+    "catturare",
     "fregatura",
     "prendere",
     "problema"
@@ -739,6 +758,9 @@
     "caverna",
     "grotta"
   ],
+  "cavern": [
+    "caverna"
+  ],
   "caviar": [
     "caviale"
   ],
@@ -815,8 +837,14 @@
   "centigrade": [
     "centigrado"
   ],
+  "centiliter": [
+    "centilitro"
+  ],
   "centilitre": [
     "centilitro"
+  ],
+  "centimeter": [
+    "centimetro"
   ],
   "centimetre": [
     "centimetro"
@@ -887,6 +915,7 @@
     "cerio"
   ],
   "certain": [
+    "certo",
     "sicuro"
   ],
   "certainly": [
@@ -1066,9 +1095,6 @@
     "chiacchierare",
     "chiacchierata"
   ],
-  "chauffeur": [
-    "autista"
-  ],
   "chauvinist": [
     "sciovinista"
   ],
@@ -1088,6 +1114,7 @@
     "tradire"
   ],
   "check": [
+    "controllare",
     "controllo",
     "verificare"
   ],
@@ -1110,7 +1137,7 @@
     "acclamare"
   ],
   "cheerful": [
-    "allegre"
+    "allegro"
   ],
   "cheerfully": [
     "allegramente"
@@ -1180,8 +1207,8 @@
   "chew": [
     "masticare"
   ],
-  "chewinggum": [
-    "gommadamasticare"
+  "chewing gum": [
+    "gomma da masticare"
   ],
   "chiasmus": [
     "chiasmo"
@@ -1290,7 +1317,6 @@
     "condrocita"
   ],
   "choose": [
-    "eleggere",
     "scegliere"
   ],
   "choral": [
@@ -1427,6 +1453,9 @@
   ],
   "ciliate": [
     "ciliato"
+  ],
+  "cinder": [
+    "cenere"
   ],
   "cinema": [
     "cinema"
@@ -1612,6 +1641,9 @@
   "clavicle": [
     "clavicola"
   ],
+  "claw": [
+    "pinza"
+  ],
   "clay": [
     "argilla"
   ],
@@ -1630,6 +1662,7 @@
     "detergente"
   ],
   "clear": [
+    "chiarire",
     "chiaro",
     "liquidare"
   ],
@@ -1671,6 +1704,7 @@
     "clientela"
   ],
   "cliff": [
+    "dirupo",
     "scogliera"
   ],
   "climate": [
@@ -1710,6 +1744,9 @@
   ],
   "clip": [
     "pinza"
+  ],
+  "clipper": [
+    "clipper"
   ],
   "clitoridectomy": [
     "clitoridectomia"
@@ -1863,7 +1900,7 @@
     "cocktail"
   ],
   "coconut": [
-    "nocedicocco"
+    "noce di cocco"
   ],
   "cocoon": [
     "bozzolo",
@@ -1901,6 +1938,9 @@
   ],
   "coffin": [
     "bara"
+  ],
+  "cog": [
+    "ingranaggio"
   ],
   "cogeneration": [
     "cogenerazione"
@@ -1947,10 +1987,6 @@
   ],
   "coining": [
     "coniazione"
-  ],
-  "coitus": [
-    "coito",
-    "coitus"
   ],
   "colchicum": [
     "colchico",
@@ -2179,6 +2215,10 @@
     "commedia"
   ],
   "comfort": [
+    "agio",
+    "benessere",
+    "confortare",
+    "conforto",
     "consolare"
   ],
   "comfortable": [
@@ -2265,7 +2305,8 @@
     "commettere"
   ],
   "commitment": [
-    "compromesso"
+    "compromesso",
+    "impegno"
   ],
   "committee": [
     "comitato"
@@ -2308,6 +2349,9 @@
     "comunista"
   ],
   "commutate": [
+    "commutare"
+  ],
+  "commute": [
     "commutare"
   ],
   "compact": [
@@ -2403,7 +2447,8 @@
     "querelante"
   ],
   "complaint": [
-    "denuncia"
+    "denuncia",
+    "lamentela"
   ],
   "complement": [
     "complementare",
@@ -2428,6 +2473,9 @@
   ],
   "complex": [
     "complesso"
+  ],
+  "compliant": [
+    "conforme"
   ],
   "complicate": [
     "complicare"
@@ -2489,6 +2537,9 @@
   ],
   "compulsory": [
     "obbligatorio"
+  ],
+  "computable": [
+    "calcolabile"
   ],
   "computation": [
     "calcolo",
@@ -2622,6 +2673,9 @@
   "concretise": [
     "concretizzare"
   ],
+  "concretize": [
+    "concretizzare"
+  ],
   "concurrent": [
     "concorrente"
   ],
@@ -2688,6 +2742,9 @@
   "cone": [
     "cono"
   ],
+  "confection": [
+    "confezione"
+  ],
   "confectionery": [
     "confetteria"
   ],
@@ -2739,7 +2796,7 @@
     "confermare"
   ],
   "confirmation": [
-    "caso",
+    "conferma",
     "confermazione"
   ],
   "confiscate": [
@@ -2953,10 +3010,6 @@
   "consolation": [
     "consolazione"
   ],
-  "console": [
-    "console",
-    "consolle"
-  ],
   "consolidate": [
     "consolidare"
   ],
@@ -3108,6 +3161,12 @@
   "containment": [
     "contenimento"
   ],
+  "contaminare": [
+    "contaminare"
+  ],
+  "contamination": [
+    "contaminazione"
+  ],
   "contemplate": [
     "contemplare"
   ],
@@ -3137,6 +3196,9 @@
   "contest": [
     "concorso",
     "contestare"
+  ],
+  "contestant": [
+    "concorrente"
   ],
   "context": [
     "contesto"
@@ -3198,11 +3260,11 @@
     "contrarre",
     "contratto"
   ],
+  "contracted": [
+    "contratto"
+  ],
   "contractile": [
     "contrattile"
-  ],
-  "contracting": [
-    "contratto"
   ],
   "contraction": [
     "contrazione"
@@ -3386,6 +3448,7 @@
     "cucina"
   ],
   "cool": [
+    "fico",
     "figo",
     "fresco",
     "rinfrescare"
@@ -3403,7 +3466,7 @@
     "cooperazione"
   ],
   "cooperative": [
-    "cooperativa"
+    "cooperativo"
   ],
   "coordinate": [
     "coordinare",
@@ -3496,7 +3559,8 @@
     "corneale"
   ],
   "corner": [
-    "angolo"
+    "angolo",
+    "spigolo"
   ],
   "cornflower": [
     "fiordaliso"
@@ -3583,6 +3647,10 @@
     "corrosivo"
   ],
   "corrupt": [
+    "corrompere",
+    "corrotto"
+  ],
+  "corrupted": [
     "corrotto"
   ],
   "corruption": [
@@ -3647,7 +3715,8 @@
     "coguaro"
   ],
   "cough": [
-    "tosse"
+    "tosse",
+    "tossire"
   ],
   "council": [
     "consiglio"
@@ -3658,13 +3727,15 @@
   ],
   "count": [
     "contare",
+    "conte",
     "raccontare"
   ],
   "Count Dracula": [
     "Conte Dracula"
   ],
   "countable": [
-    "contabile"
+    "contabile",
+    "numerabile"
   ],
   "counter": [
     "bancone",
@@ -3699,6 +3770,9 @@
   "counterpoint": [
     "contrappunto"
   ],
+  "counterproductive": [
+    "controproducente"
+  ],
   "counterprogramming": [
     "controprogrammazione"
   ],
@@ -3731,10 +3805,8 @@
   ],
   "course": [
     "corso",
-    "marcia"
-  ],
-  "court": [
-    "taglio"
+    "marcia",
+    "percorso"
   ],
   "courtesy": [
     "cortesia"
@@ -3771,6 +3843,12 @@
   "cow": [
     "mucca"
   ],
+  "coward": [
+    "codardo"
+  ],
+  "cowardice": [
+    "codardia"
+  ],
   "cowboy": [
     "mandriano"
   ],
@@ -3787,17 +3865,14 @@
     "granchio"
   ],
   "crack": [
-    "cascare",
     "crepa"
   ],
   "cradle": [
     "culla"
   ],
   "craft": [
-    "artigianato"
-  ],
-  "crafted": [
-    "artigianale"
+    "artigianato",
+    "fabbricare"
   ],
   "crag": [
     "dirupo"
@@ -3823,6 +3898,9 @@
   ],
   "crawl": [
     "indicizzazione"
+  ],
+  "craze": [
+    "pazzia"
   ],
   "crazy": [
     "pazzo"
@@ -4001,13 +4079,15 @@
     "crociato"
   ],
   "crush": [
+    "cotta",
     "schiacciare"
   ],
   "crusher": [
     "frantoio"
   ],
   "crushing": [
-    "frantumazione"
+    "frantumazione",
+    "schiacciante"
   ],
   "crustacean": [
     "crostaceo"
@@ -4044,8 +4124,17 @@
   "crystallise": [
     "cristallizzare"
   ],
+  "crystallization": [
+    "cristallizzazione"
+  ],
+  "crystallize": [
+    "cristallizzare"
+  ],
   "crystallography": [
     "cristallografia"
+  ],
+  "crystalware": [
+    "cristalleria"
   ],
   "Cuban": [
     "cubano"
@@ -4075,6 +4164,9 @@
   "culminate": [
     "culminare"
   ],
+  "culprit": [
+    "colpevole"
+  ],
   "cult": [
     "culto"
   ],
@@ -4100,7 +4192,8 @@
     "cuneiforme"
   ],
   "cunning": [
-    "astuto"
+    "astuto",
+    "scaltrezza"
   ],
   "cunt": [
     "vulva"
@@ -4175,6 +4268,10 @@
   "curve": [
     "curva",
     "torcere"
+  ],
+  "cushion": [
+    "attutire",
+    "smorzare"
   ],
   "cusp": [
     "cuspide"

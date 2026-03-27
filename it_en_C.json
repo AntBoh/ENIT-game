@@ -2649,7 +2649,8 @@
     "concussion"
   ],
   "commutare": [
-    "commutate"
+    "commutate",
+    "commute"
   ],
   "commutazione": [
     "switching"
@@ -3635,24 +3636,25 @@
     "container"
   ],
   "contaminare": [
-    "pollute"
+    "pollute",
+    "contaminare"
   ],
   "contaminazione": [
-    "pollution"
+    "pollution",
+    "contamination"
   ],
   "contare": [
-    "count",
-    "explain"
+    "count"
   ],
   "contatore": [
-    "counter",
-    "meter"
+    "counter"
   ],
   "contatto": [
     "contact"
   ],
   "conte": [
-    "earl"
+    "earl",
+    "count"
   ],
   "Conte Dracula": [
     "Count Dracula"
@@ -4195,7 +4197,8 @@
     "corporate"
   ],
   "corporatura": [
-    "build"
+    "build",
+    "physique"
   ],
   "corporazione": [
     "guild"

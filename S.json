@@ -189,6 +189,9 @@
   "sandy": [
     "sabbioso"
   ],
+  "sane": [
+    "sano"
+  ],
   "sanitary": [
     "sanitario"
   ],
@@ -200,9 +203,6 @@
   ],
   "saprophyte": [
     "saprofita"
-  ],
-  "Saragossan": [
-    "saragozzano"
   ],
   "sarcasm": [
     "sarcasmo"
@@ -252,6 +252,9 @@
   "satisfy": [
     "soddisfare"
   ],
+  "satisfying": [
+    "soddisfacente"
+  ],
   "satrap": [
     "satrapo"
   ],
@@ -265,7 +268,7 @@
   "saturation": [
     "saturazione"
   ],
-  "saturday": [
+  "Saturday": [
     "sabato"
   ],
   "Saturn": [
@@ -296,8 +299,12 @@
     "savana"
   ],
   "save": [
+    "risparmiare",
     "salvare",
     "salvataggio"
+  ],
+  "save up": [
+    "risparmiare"
   ],
   "saving": [
     "risparmio"
@@ -348,6 +355,9 @@
   ],
   "scalpel": [
     "bisturi"
+  ],
+  "scam": [
+    "truffa"
   ],
   "scan": [
     "scannerizzare",
@@ -479,7 +489,11 @@
     "paletta"
   ],
   "scope": [
-    "portata"
+    "portata",
+    "mirino"
+  ],
+  "scorbutic": [
+    "scorbutico"
   ],
   "score": [
     "marcare",
@@ -574,6 +588,9 @@
   ],
   "scum": [
     "feccia"
+  ],
+  "scurvy": [
+    "scorbuto"
   ],
   "sea": [
     "mare"
@@ -678,9 +695,6 @@
   ],
   "security": [
     "sicurezza"
-  ],
-  "securityforces": [
-    "forzedell'ordine"
   ],
   "sedation": [
     "sedazione"
@@ -1074,7 +1088,7 @@
   "seven": [
     "sette"
   ],
-  "sevenhundredand": [
+  "seven hundred": [
     "settecento"
   ],
   "sevenhundredth": [
@@ -1266,6 +1280,9 @@
   "sharpen": [
     "affilare"
   ],
+  "sharpener": [
+    "temperino"
+  ],
   "sharply": [
     "bruscamente"
   ],
@@ -1275,6 +1292,10 @@
   "she": [
     "ella",
     "lei"
+  ],
+  "shear": [
+    "taglio",
+    "tosare"
   ],
   "shearing": [
     "tosatura"
@@ -1289,9 +1310,6 @@
   ],
   "sheep": [
     "pecora"
-  ],
-  "sheepdog": [
-    "canepastore"
   ],
   "sheet": [
     "foglio",
@@ -1325,7 +1343,6 @@
   "shine": [
     "brillare",
     "brillio",
-    "luccichio",
     "lucentezza",
     "splendere"
   ],
@@ -1394,7 +1411,7 @@
     "acquisto",
     "spesa"
   ],
-  "shopwindow": [
+  "showcase": [
     "vetrina"
   ],
   "shore": [
@@ -1425,6 +1442,7 @@
   ],
   "shot": [
     "colpo",
+    "scatto",
     "sparato",
     "tiro"
   ],
@@ -1507,6 +1525,7 @@
     "sibilante"
   ],
   "sick": [
+    "ammalato",
     "malato"
   ],
   "side": [
@@ -1520,6 +1539,7 @@
     "marciapiede"
   ],
   "siege": [
+    "assediare",
     "assedio"
   ],
   "sieve": [
@@ -1542,7 +1562,6 @@
   "sign": [
     "distintivo",
     "firmare",
-    "poster",
     "segnale",
     "segno",
     "siglare"
@@ -1658,8 +1677,6 @@
   ],
   "since": [
     "da",
-    "daallora",
-    "dalmomentoche",
     "daquando"
   ],
   "sincere": [
@@ -1760,7 +1777,7 @@
   "six": [
     "sei"
   ],
-  "sixhundredand": [
+  "six hundred": [
     "seicento"
   ],
   "sixhundredth": [
@@ -1871,6 +1888,9 @@
   ],
   "skier": [
     "sciatore"
+  ],
+  "skilful": [
+    "abile"
   ],
   "skilled": [
     "dotato",
@@ -2102,6 +2122,9 @@
   "snob": [
     "snob"
   ],
+  "snout": [
+    "muso"
+  ],
   "snow": [
     "neve"
   ],
@@ -2143,6 +2166,9 @@
   ],
   "socialist": [
     "socialista"
+  ],
+  "socialization": [
+    "socializzazione"
   ],
   "socially": [
     "socialmente"
@@ -2298,7 +2324,6 @@
   "some": [
     "alcun",
     "alcuno",
-    "certo",
     "qualche",
     "taluno"
   ],
@@ -2382,6 +2407,7 @@
     "anima"
   ],
   "sound": [
+    "sano",
     "suonare",
     "suono"
   ],
@@ -2406,9 +2432,6 @@
   "Southafrica": [
     "Sudafrica"
   ],
-  "southern": [
-    "delsud"
-  ],
   "sovereign": [
     "sovrano"
   ],
@@ -2423,7 +2446,6 @@
     "soia"
   ],
   "space": [
-    "spaziale",
     "spaziare",
     "spazio"
   ],
@@ -2452,11 +2474,13 @@
     "spagnolo"
   ],
   "spare": [
-    "diriserva",
     "risparmiare"
   ],
   "spark": [
     "scintilla"
+  ],
+  "sparkle": [
+    "luccichio"
   ],
   "sparrow": [
     "passero"
@@ -2482,6 +2506,12 @@
   ],
   "specialist": [
     "specialista"
+  ],
+  "specialization": [
+    "specializzazione"
+  ],
+  "specialize": [
+    "specializzare"
   ],
   "specially": [
     "specialmente"
@@ -2517,6 +2547,9 @@
   ],
   "spectacularly": [
     "spettacolarmente"
+  ],
+  "specter": [
+    "spettro"
   ],
   "spectral": [
     "spettrale"
@@ -2677,6 +2710,7 @@
     "milza"
   ],
   "splendid": [
+    "magnifico",
     "splendido"
   ],
   "splenic": [
@@ -2765,11 +2799,16 @@
     "sposo"
   ],
   "sprain": [
-    "distorsione"
+    "distorsione",
+    "storta"
   ],
   "spread": [
     "diffondere",
-    "divulgare"
+    "divulgare",
+    "stendere"
+  ],
+  "spread out": [
+    "stendere"
   ],
   "spring": [
     "fonte",
@@ -2891,7 +2930,6 @@
     "stare"
   ],
   "standard": [
-    "conforme",
     "standard"
   ],
   "standardisation": [
@@ -2910,6 +2948,9 @@
   ],
   "stark": [
     "duro"
+  ],
+  "starling": [
+    "storno"
   ],
   "starry": [
     "stellato"
@@ -2970,7 +3011,8 @@
   ],
   "stay": [
     "restare",
-    "soggiorno"
+    "soggiorno",
+    "stare"
   ],
   "steadily": [
     "fermamente"
@@ -3011,6 +3053,7 @@
     "stenografia"
   ],
   "step": [
+    "gradino",
     "passo"
   ],
   "stepbrother": [
@@ -3058,9 +3101,6 @@
   "sterilise": [
     "sterilizzare"
   ],
-  "stern": [
-    "poppa"
-  ],
   "sternum": [
     "sterno"
   ],
@@ -3072,11 +3112,12 @@
   ],
   "stew": [
     "stufare",
-    "stufato"
+    "stufato",
+    "minestra"
   ],
   "stick": [
-    "conficcare",
-    "palo"
+    "bastone",
+    "conficcare"
   ],
   "sticker": [
     "adesivo"
@@ -3175,14 +3216,16 @@
     "stoma"
   ],
   "stomach": [
-    "stomaco"
+    "stomaco",
+    "pancia"
   ],
   "stone": [
     "pietra"
   ],
   "stop": [
     "fermarsi",
-    "fermata"
+    "fermata",
+    "smettere"
   ],
   "storage": [
     "archiviazione",
@@ -3196,6 +3239,9 @@
   ],
   "storm": [
     "bufera",
+    "tempesta",
+    "assalto",
+    "assalire",
     "tormenta"
   ],
   "story": [
@@ -3231,6 +3277,9 @@
   "strangely": [
     "stranamente"
   ],
+  "strangeness": [
+    "stranezza"
+  ],
   "stranger": [
     "sconosciuto"
   ],
@@ -3238,6 +3287,9 @@
     "Strasburgo"
   ],
   "strategic": [
+    "strategico"
+  ],
+  "strategical": [
     "strategico"
   ],
   "strategically": [
@@ -3264,6 +3316,9 @@
   "straw": [
     "paglia"
   ],
+  "strawberry": [
+    "fragola"
+  ],
   "stream": [
     "corrente",
     "flusso"
@@ -3284,6 +3339,9 @@
   "strengthening": [
     "fortificazione"
   ],
+  "strenuous": [
+    "faticoso"
+  ],
   "strenuously": [
     "strenuamente"
   ],
@@ -3296,6 +3354,7 @@
   ],
   "stretch": [
     "estendere",
+    "stendere",
     "tratto"
   ],
   "stretcher": [
@@ -3306,7 +3365,8 @@
   ],
   "strictly": [
     "rigorosamente",
-    "severamente"
+    "severamente",
+    "strettamente"
   ],
   "strident": [
     "stridente"
@@ -3328,7 +3388,10 @@
     "stringa"
   ],
   "strip": [
-    "nastro"
+    "nastro",
+    "striscia",
+    "spogliare",
+    "spogliarsi"
   ],
   "stripe": [
     "banda",
@@ -3438,7 +3501,8 @@
     "stoccarda"
   ],
   "sty": [
-    "gufo"
+    "gufo",
+    "porcile"
   ],
   "style": [
     "stile"
@@ -3546,6 +3610,9 @@
   ],
   "subrogation": [
     "surrogazione"
+  ],
+  "subscribe": [
+    "iscriversi"
   ],
   "subscriber": [
     "abbonato"
@@ -3916,6 +3983,7 @@
     "supremo"
   ],
   "sure": [
+    "certo",
     "sicuro"
   ],
   "surely": [
@@ -4159,6 +4227,9 @@
   "symbolist": [
     "simbolista"
   ],
+  "symmetric": [
+    "simmetrico"
+  ],
   "symmetrical": [
     "simmetrico"
   ],
@@ -4212,6 +4283,9 @@
   ],
   "syndicalist": [
     "sindacalista"
+  ],
+  "syndicate": [
+    "sindacato"
   ],
   "syndrome": [
     "sindrome"
@@ -4272,6 +4346,12 @@
     "sistematizzazione"
   ],
   "systematise": [
+    "sistematizzare"
+  ],
+  "systematization": [
+    "sistematizzazione"
+  ],
+  "systematize": [
     "sistematizzare"
   ]
 }

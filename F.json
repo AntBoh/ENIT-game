@@ -2,6 +2,9 @@
   "fabric": [
     "tessuto"
   ],
+  "fabricate": [
+    "fabbricare"
+  ],
   "fabulation": [
     "affabulazione"
   ],
@@ -28,8 +31,7 @@
     "facilitazione"
   ],
   "facility": [
-    "impianto",
-    "installazione"
+    "impianto"
   ],
   "fact": [
     "fatto"
@@ -96,8 +98,10 @@
     "falconeria"
   ],
   "fall": [
+    "autunno",
     "cadere",
-    "caduta"
+    "caduta",
+    "cascare"
   ],
   "fallacy": [
     "fallacia"
@@ -238,6 +242,9 @@
   "fathomless": [
     "insondabile"
   ],
+  "fatigue": [
+    "fatica"
+  ],
   "fatten": [
     "ingrassare"
   ],
@@ -336,7 +343,8 @@
   ],
   "feed": [
     "alimentare",
-    "mangime"
+    "mangime",
+    "nutrire"
   ],
   "feedback": [
     "retroazione"
@@ -378,6 +386,7 @@
   ],
   "fence": [
     "palizzata",
+    "recinto",
     "recinzione"
   ],
   "fencing": [
@@ -423,7 +432,17 @@
     "fertilizzazione"
   ],
   "fertiliser": [
-    "concime"
+    "concime",
+    "fertilizzante"
+  ],
+    "fertilizer": [
+    "concime",
+    "fertilizzante"
+  ],
+  "fertilization": [
+    "concimazione",
+    "fecondazione",
+    "fertilizzazione"
   ],
   "fervent": [
     "fervente"
@@ -474,6 +493,9 @@
   "fiasco": [
     "fiasco"
   ],
+  "fiber": [
+    "fibra"
+  ],
   "fibre": [
     "fibra"
   ],
@@ -488,9 +510,6 @@
   ],
   "fiction": [
     "finzione"
-  ],
-  "ficus": [
-    "ficus"
   ],
   "fiefdom": [
     "infeudazione"
@@ -623,9 +642,6 @@
     "filmare",
     "pellicola"
   ],
-  "filmfestival": [
-    "festivalcinematografico"
-  ],
   "filmframe": [
     "fotogramma"
   ],
@@ -706,6 +722,9 @@
     "licenziare",
     "sparare"
   ],
+  "fire extinguisher": [
+    "estintore"
+  ],
   "firefighter": [
     "pompiere"
   ],
@@ -717,9 +736,6 @@
   ],
   "firewood": [
     "legna"
-  ],
-  "firing": [
-    "licenziamento"
   ],
   "firm": [
     "ditta",
@@ -810,6 +826,9 @@
   "flagrant": [
     "flagrante"
   ],
+  "flail": [
+    "flagello"
+  ],
   "flake": [
     "fiocco",
     "squama"
@@ -835,6 +854,12 @@
   "flare": [
     "bagliore",
     "fiammata"
+  ],
+  "flash": [
+    "lampeggiare"
+  ],
+  "flashing": [
+    "lampeggiante"
   ],
   "flat": [
     "pavimento",
@@ -878,6 +903,9 @@
   "flee": [
     "fuggire"
   ],
+  "fleece": [
+    "vello"
+  ],
   "fleet": [
     "flotta"
   ],
@@ -889,6 +917,16 @@
   ],
   "flexible": [
     "flessibile"
+  ],
+  "flicker": [
+    "lampeggiare"
+  ],
+  "flickering": [
+    "intermittente",
+    "lampeggiante"
+  ],
+  "flier": [
+    "aviatore"
   ],
   "flight": [
     "volo"
@@ -961,7 +999,7 @@
     "fiore",
     "fiorire"
   ],
-  "flower-bed": [
+  "flowerbed": [
     "aiuola"
   ],
   "flowering": [
@@ -1021,9 +1059,6 @@
   ],
   "flyer": [
     "aviatore"
-  ],
-  "flying": [
-    "volo"
   ],
   "foal": [
     "puledro"
@@ -1280,6 +1315,9 @@
     "fortezza",
     "potere"
   ],
+  "fortunate": [
+    "fortunato"
+  ],
   "fortunately": [
     "fortunatamente"
   ],
@@ -1391,7 +1429,7 @@
     "quattrocento"
   ],
   "fourhundredth": [
-    "quattrecentesimo"
+    "quattrocentesimo"
   ],
   "fourteen": [
     "quattordici"
@@ -1420,9 +1458,6 @@
   "fracture": [
     "frattura"
   ],
-  "fragaria": [
-    "fragola"
-  ],
   "fragile": [
     "fragile"
   ],
@@ -1436,7 +1471,6 @@
     "cornice",
     "incastrare",
     "incorniciare",
-    "marco",
     "struttura"
   ],
   "framework": [
@@ -1591,15 +1625,8 @@
     "da",
     "di"
   ],
-  "fromabout": [
-    "dacirca"
-  ],
-  "fromabroad": [
-    "dall'estero"
-  ],
-  "fromnowon": [
-    "d'orainavanti",
-    "d'orainpoi"
+  "from now on": [
+    "d'ora in avanti"
   ],
   "fromtimetotime": [
     "ditantoinquando"
@@ -1623,8 +1650,6 @@
     "assiderato"
   ],
   "fruit": [
-    "dafrutta",
-    "frutta",
     "frutto"
   ],
   "fruitful": [
@@ -1649,9 +1674,6 @@
     "friggere",
     "patatina"
   ],
-  "fuck": [
-    "scopare"
-  ],
   "fuel": [
     "combustibile"
   ],
@@ -1663,7 +1685,11 @@
   ],
   "fulfil": [
     "adempiere",
-    "compiere"
+    "compiere",
+    "esaudire"
+  ],
+  "fulfill": [
+    "esaudire"
   ],
   "fulfillment": [
     "compimento"
@@ -1741,7 +1767,7 @@
     "buffo"
   ],
   "fur": [
-    "pellicceria"
+    "pelo"
   ],
   "furious": [
     "furibondo"
@@ -1758,10 +1784,15 @@
     "mobilio"
   ],
   "furrier": [
+    "pellicceria",
     "pellicciaio"
   ],
+  "furrow": [
+    "solco"
+  ],
   "furthermore": [
-    "oltretutto"
+    "oltretutto",
+    "inoltre"
   ],
   "fury": [
     "furia"
@@ -1780,8 +1811,7 @@
     "fusione"
   ],
   "futile": [
-    "futile",
-    "vano"
+    "futile"
   ],
   "future": [
     "futuro"

@@ -39,6 +39,7 @@
   "walk": [
     "camminare",
     "camminata",
+    "passeggiata",
     "passeggio"
   ],
   "wall": [
@@ -73,9 +74,6 @@
   "want": [
     "volere"
   ],
-  "wanton": [
-    "malizioso"
-  ],
   "war": [
     "guerra"
   ],
@@ -85,6 +83,9 @@
   ],
   "warehouse": [
     "magazzino"
+  ],
+  "warlock": [
+    "mago"
   ],
   "warm": [
     "caldo",
@@ -201,6 +202,9 @@
   "wayward": [
     "capriccioso"
   ],
+  "we": [
+    "noi"
+  ],
   "weak": [
     "debole"
   ],
@@ -229,6 +233,13 @@
     "consumare",
     "indossare",
     "portare"
+  ],
+  "wearisome": [
+    "faticoso",
+    "stancante"
+  ],
+  "weary": [
+    "stancante"
   ],
   "weather": [
     "meteo",
@@ -287,6 +298,9 @@
   "weird": [
     "strano"
   ],
+  "weirdness": [
+    "stranezza"
+  ],
   "welcome": [
     "benvenuto"
   ],
@@ -303,8 +317,10 @@
     "bene",
     "pozzo"
   ],
+  "well being": [
+    "benessere"
+  ],
   "west": [
-    "dell'ovest",
     "ovest"
   ],
   "western": [
@@ -360,6 +376,9 @@
   ],
   "whim": [
     "capriccio"
+  ],
+  "whimsical": [
+    "capriccioso"
   ],
   "whine": [
     "lamento",
@@ -443,6 +462,9 @@
   "width": [
     "larghezza"
   ],
+  "wield": [
+    "brandire"
+  ],
   "wife": [
     "moglie"
   ],
@@ -454,6 +476,7 @@
   ],
   "will": [
     "testamento",
+    "volere",
     "volontà"
   ],
   "willingly": [
@@ -515,6 +538,9 @@
   "wise": [
     "saggio"
   ],
+  "wisely": [
+    "saggiamente"
+  ],
   "wiseperson": [
     "saggio"
   ],
@@ -553,6 +579,7 @@
     "testimoniare"
   ],
   "wizard": [
+    "mago",
     "stregone"
   ],
   "wolf": [
@@ -628,7 +655,6 @@
     "preoccupante"
   ],
   "worry": [
-    "infastidire",
     "preoccupazione"
   ],
   "worsen": [
@@ -645,6 +671,9 @@
   ],
   "wound": [
     "ferita"
+  ],
+  "wraith": [
+    "spettro"
   ],
   "wrap": [
     "avvolgere"
@@ -678,14 +707,10 @@
   ],
   "wrong": [
     "incorretto",
-    "male",
     "sbagliato"
   ],
   "wrongly": [
     "erroneamente"
-  ],
-  "wrongsideout": [
-    "all'indietro"
   ],
   "wry": [
     "amaro"

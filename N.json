@@ -88,6 +88,9 @@
   "nasalisation": [
     "nasalizzazione"
   ],
+  "nasalization": [
+    "nasalizzazione"
+  ],
   "nasty": [
     "cattivo"
   ],
@@ -100,9 +103,6 @@
   "national": [
     "nazionale"
   ],
-  "nationaldirectorate": [
-    "direzionenazionale"
-  ],
   "nationalisation": [
     "nazionalizzazione"
   ],
@@ -114,6 +114,12 @@
   ],
   "nationalist": [
     "nazionalista"
+  ],
+  "nationalization": [
+    "nazionalizzazione"
+  ],
+  "nationalize": [
+    "nazionalizzare"
   ],
   "nationally": [
     "nazionalmente"
@@ -206,6 +212,9 @@
   ],
   "needle": [
     "ago"
+  ],
+  "needlework": [
+    "ricamo"
   ],
   "negation": [
     "negazione"
@@ -412,9 +421,10 @@
     "giornale"
   ],
   "next": [
-    "prossimo"
+    "prossimo",
+    "successivamente"
   ],
-  "nicaraguan": [
+  "Nicaraguan": [
     "nicaraguense"
   ],
   "nice": [
@@ -600,6 +610,9 @@
   "nocturnal": [
     "notturno"
   ],
+  "nocturne": [
+    "notturno"
+  ],
   "nod": [
     "accenno",
     "annuire"
@@ -665,6 +678,9 @@
   "noon": [
     "mezzogiorno"
   ],
+  "noone": [
+    "nessuno"
+  ],
   "noose": [
     "cappio"
   ],
@@ -683,6 +699,12 @@
   "normalise": [
     "normalizzare"
   ],
+  "normalization": [
+    "normalizzazione"
+  ],
+  "normalize": [
+    "normalizzare"
+  ],
   "normally": [
     "normalmente"
   ],
@@ -693,7 +715,6 @@
     "normativo"
   ],
   "north": [
-    "delnord",
     "nord"
   ],
   "North America": [
@@ -743,9 +764,6 @@
   ],
   "notarial": [
     "notarile"
-  ],
-  "notarise": [
-    "autenticare"
   ],
   "notary": [
     "notaio"
