@@ -303,30 +303,7 @@ const loadedLetters = { en_it: new Set(), it_en: new Set() };
         const isSeen = Array.isArray(progress[mode]?.[word]);
         itemLeft.textContent = isSeen ? word : "???";
 
-        const saveDataBtn = document.getElementById("saveDataBtn");
-const loadDataBtn = document.getElementById("loadDataBtn");
-const loadFileInput = document.getElementById("loadFileInput");
-
-
-saveDataBtn.addEventListener("click", () => {
-  saveData();
-});
-
-
-loadDataBtn.addEventListener("click", () => {
-  loadFileInput.click();
-});
-
-
-loadFileInput.addEventListener("change", () => {
-
-  const file = loadFileInput.files[0];
-
-  if (file) {
-    loadData(file);
-  }
-
-});
+       
 
         if (isSeen && found.length === all.length) {
           itemLeft.textContent += " ✔";
@@ -384,6 +361,30 @@ input.addEventListener("blur", () => {
   const gameBtn = document.getElementById("gameBtn");
   const skipButton = document.getElementById("skip");
   const form = document.getElementById("gameForm");
+   const saveDataBtn = document.getElementById("saveDataBtn");
+const loadDataBtn = document.getElementById("loadDataBtn");
+const loadFileInput = document.getElementById("loadFileInput");
+
+
+saveDataBtn.addEventListener("click", () => {
+  saveData();
+});
+
+
+loadDataBtn.addEventListener("click", () => {
+  loadFileInput.click();
+});
+
+
+loadFileInput.addEventListener("change", () => {
+
+  const file = loadFileInput.files[0];
+
+  if (file) {
+    loadData(file);
+  }
+
+});
 
 
 form.addEventListener("submit", (e) => {
