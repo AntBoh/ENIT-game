@@ -96,6 +96,88 @@ function showFoundTranslations() {
     "Traduzioni già trovate:<br>" + found.join(", ");
 }
 
+function saveData() {
+
+  const backup = {
+    progress: progress,
+    counters: counters,
+    mode: mode,
+    date: new Date().toISOString()
+  };
+
+  const blob = new Blob(
+    [JSON.stringify(backup, null, 2)],
+    { type: "application/json" }
+  );
+
+  const url = URL.createObjectURL(blob);
+
+  const a = document.createElement("a");
+  a.href = url;
+  a.download = "ENIT_backup.json";
+
+  a.click();
+
+  URL.revokeObjectURL(url);
+}
+
+
+function loadData(file) {
+
+  const reader = new FileReader();
+
+  reader.onload = function(e) {
+
+    try {
+
+      const backup = JSON.parse(e.target.result);
+
+
+      if (!backup.progress) {
+        throw new Error("File non valido");
+      }
+
+
+      progress = backup.progress;
+
+      if (backup.counters) {
+        counters = backup.counters;
+      }
+
+      if (backup.mode) {
+        mode = backup.mode;
+        localStorage.setItem("mode", mode);
+      }
+
+
+      localStorage.setItem(
+        "progress",
+        JSON.stringify(progress)
+      );
+
+      localStorage.setItem(
+        "counters",
+        JSON.stringify(counters)
+      );
+
+
+      alert("Dati caricati correttamente!");
+
+      location.reload();
+
+
+    } catch(err) {
+
+      alert("Errore: file di salvataggio non valido.");
+
+    }
+
+  };
+
+
+  reader.readAsText(file);
+}
+
 
 function loadDictionaryForLetter(letter) {
   let filePath;
@@ -220,6 +302,31 @@ const loadedLetters = { en_it: new Set(), it_en: new Set() };
 
         const isSeen = Array.isArray(progress[mode]?.[word]);
         itemLeft.textContent = isSeen ? word : "???";
+
+        const saveDataBtn = document.getElementById("saveDataBtn");
+const loadDataBtn = document.getElementById("loadDataBtn");
+const loadFileInput = document.getElementById("loadFileInput");
+
+
+saveDataBtn.addEventListener("click", () => {
+  saveData();
+});
+
+
+loadDataBtn.addEventListener("click", () => {
+  loadFileInput.click();
+});
+
+
+loadFileInput.addEventListener("change", () => {
+
+  const file = loadFileInput.files[0];
+
+  if (file) {
+    loadData(file);
+  }
+
+});
 
         if (isSeen && found.length === all.length) {
           itemLeft.textContent += " ✔";
