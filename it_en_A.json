@@ -4,10 +4,6 @@
     "in",
     "to"
   ],
-  "agio":[
-    "ease",
-    "comfort"
-  ],
   "a bordo": [
     "aboard"
   ],
@@ -19,8 +15,8 @@
     "randomly"
   ],
   "a favore": [
-    "in favour",
-    "in favor"
+    "in favor",
+    "in favour"
   ],
   "a galla": [
     "afloat"
@@ -131,8 +127,8 @@
     "draft"
   ],
   "abbozzo": [
-    "outline",
-    "draft"
+    "draft",
+    "outline"
   ],
   "abbracciare": [
     "embrace",
@@ -173,9 +169,9 @@
     "fir"
   ],
   "abile": [
-    "skillful",
     "able",
-    "skilful"
+    "skilful",
+    "skillful"
   ],
   "abilitazione": [
     "habilitation"
@@ -454,8 +450,8 @@
   ],
   "accordare": [
     "agree",
-    "tune",
-    "concede"
+    "concede",
+    "tune"
   ],
   "accordatura": [
     "tuning"
@@ -497,11 +493,11 @@
   "accuratamente": [
     "accurately"
   ],
+  "accuratezza": [
+    "accuracy"
+  ],
   "accurato": [
     "accurate"
-  ],
-  "accuratezza":[
-    "accuracy"
   ],
   "accusare": [
     "accuse"
@@ -587,8 +583,8 @@
     "aqueduct"
   ],
   "acquerello": [
-    "watercolour",
-    "watercolor"
+    "watercolor",
+    "watercolour"
   ],
   "acquifera": [
     "aquifer"
@@ -650,6 +646,9 @@
   "acuto": [
     "acute"
   ],
+  "ad ogni modo": [
+    "anyway"
+  ],
   "ad-hoc": [
     "ad-hoc"
   ],
@@ -671,11 +670,11 @@
   "adattativo": [
     "adaptative"
   ],
+  "adattatore": [
+    "adapter"
+  ],
   "adatto": [
     "suitable"
-  ],
-  "adattore": [
-    "adapter"
   ],
   "addebitare": [
     "debit"
@@ -760,9 +759,6 @@
   ],
   "adipocita": [
     "adipocyte"
-  ],
-  "ad ogni modo": [
-    "anyway"
   ],
   "adolescente": [
     "adolescent",
@@ -874,9 +870,6 @@
   "aeroporto": [
     "airport"
   ],
-  "apogeo":[
-    "apogee"
-  ],
   "aerosol": [
     "aerosol"
   ],
@@ -940,8 +933,8 @@
     "fond"
   ],
   "affezionato": [
-    "fond",
-    "attached"
+    "attached",
+    "fond"
   ],
   "affezione": [
     "affection"
@@ -978,8 +971,8 @@
     "affixation"
   ],
   "affittare": [
-    "rent",
-    "lease"
+    "lease",
+    "rent"
   ],
   "affitto": [
     "hire",
@@ -1100,15 +1093,15 @@
     "aggravate"
   ],
   "aggredire": [
-    "attack",
-    "assault"
+    "assault",
+    "attack"
   ],
   "aggregazione": [
     "aggregation"
   ],
   "aggressione": [
-    "assault",
     "aggression",
+    "assault",
     "battery"
   ],
   "aggressivo": [
@@ -1119,6 +1112,10 @@
   ],
   "agile": [
     "agile"
+  ],
+  "agio": [
+    "comfort",
+    "ease"
   ],
   "agiografia": [
     "hagiography"
@@ -1206,12 +1203,12 @@
   ],
   "aiutante": [
     "aide",
-    "helper",
-    "assistant"
+    "assistant",
+    "helper"
   ],
   "aiutare": [
-    "help",
-    "aid"
+    "aid",
+    "help"
   ],
   "aiuto": [
     "aid",
@@ -1283,8 +1280,8 @@
     "alcove"
   ],
   "alcun": [
-    "some",
-    "any"
+    "any",
+    "some"
   ],
   "alcuno": [
     "any",
@@ -1293,7 +1290,7 @@
   "aldeide": [
     "aldehyde"
   ],
-  "aldilà":[
+  "aldilà": [
     "afterlife",
     "underworld"
   ],
@@ -1356,8 +1353,8 @@
     "alimentation"
   ],
   "alimento": [
-    "food",
-    "aliment"
+    "aliment",
+    "food"
   ],
   "aliquota": [
     "rate"
@@ -1391,6 +1388,7 @@
     "blindly"
   ],
   "allargare": [
+    "enlarge",
     "widen"
   ],
   "allarmante": [
@@ -1416,8 +1414,8 @@
     "ally"
   ],
   "allegato": [
-    "attachment",
-    "attached"
+    "attached",
+    "attachment"
   ],
   "allegoria": [
     "allegory"
@@ -1431,8 +1429,8 @@
   ],
   "allegro": [
     "allegro",
-    "merry",
-    "cheerful"
+    "cheerful",
+    "merry"
   ],
   "alleluia": [
     "hallelujah"
@@ -1731,8 +1729,8 @@
   "amatore": [
     "amateur"
   ],
-  "amazonite": [
-    "amazonite"
+  "amatoriale": [
+    "amateur"
   ],
   "ambasciata": [
     "embassy"
@@ -1860,12 +1858,12 @@
   ],
   "ammalato": [
     "ill",
-    "sick",
-    "patient"
+    "patient",
+    "sick"
   ],
   "ammanettare": [
-    "manacle",
-    "handcuff"
+    "handcuff",
+    "manacle"
   ],
   "ammassare": [
     "crowd"
@@ -2131,6 +2129,9 @@
   "andare in panico": [
     "panic"
   ],
+  "andatura": [
+    "pace"
+  ],
   "andesina": [
     "andesine"
   ],
@@ -2197,8 +2198,8 @@
     "amphibology"
   ],
   "anfiteatro": [
-    "amphitheatre",
-    "amphitheater"
+    "amphitheater",
+    "amphitheatre"
   ],
   "anfora": [
     "amphora"
@@ -2226,11 +2227,11 @@
     "corner"
   ],
   "angoscia": [
-    "distress",
+    "anguish",
     "anxiety",
-    "anguish"
+    "distress"
   ],
-  "angosciare":[
+  "angosciare": [
     "anguish"
   ],
   "anguilla": [
@@ -2600,6 +2601,9 @@
   "aploide": [
     "haploid"
   ],
+  "apogeo": [
+    "apogee"
+  ],
   "apologetico": [
     "apologetic"
   ],
@@ -2745,7 +2749,7 @@
   "apprendista": [
     "apprentice"
   ],
-  "apprendistato":[
+  "apprendistato": [
     "apprenticeship"
   ],
   "apprensione": [
@@ -2791,8 +2795,8 @@
     "approximation"
   ],
   "approvare": [
-    "endorse",
-    "approve"
+    "approve",
+    "endorse"
   ],
   "approvazione": [
     "approval",
@@ -2930,15 +2934,15 @@
     "architrave"
   ],
   "archiviare": [
-    "file",
-    "archive"
+    "archive",
+    "file"
   ],
   "archiviazione": [
     "storage"
   ],
   "archivio": [
-    "file",
-    "archive"
+    "archive",
+    "file"
   ],
   "archivistico": [
     "archival"
@@ -2959,9 +2963,9 @@
     "archbishop"
   ],
   "arco": [
+    "arc",
     "arch",
-    "bow",
-    "arc"
+    "bow"
   ],
   "arcobaleno": [
     "rainbow"
@@ -3243,10 +3247,6 @@
   "artigiano": [
     "artisan"
   ],
-  "attutire":[
-    "cushion",
-    "deaden"
-  ],
   "artiglieria": [
     "artillery"
   ],
@@ -3305,8 +3305,8 @@
     "lift"
   ],
   "ascesa": [
-    "uprising",
-    "ascent"
+    "ascent",
+    "uprising"
   ],
   "ascesso": [
     "abscess"
@@ -3403,8 +3403,8 @@
   ],
   "aspirante": [
     "applicant",
-    "aspiring",
-    "aspirant"
+    "aspirant",
+    "aspiring"
   ],
   "aspirapolvere": [
     "vacuum",
@@ -3432,20 +3432,26 @@
   "aspro": [
     "sour"
   ],
+  "assalire": [
+    "storm"
+  ],
   "assaltare": [
     "assault"
   ],
+  "assalto": [
+    "storm"
+  ],
   "assassinare": [
-    "murder",
-    "assassinate"
+    "assassinate",
+    "murder"
   ],
   "assassinio": [
-    "murder",
-    "assassination"
+    "assassination",
+    "murder"
   ],
   "assassino": [
-    "murderer",
-    "assassin"
+    "assassin",
+    "murderer"
   ],
   "asse": [
     "axis",
@@ -3512,7 +3518,8 @@
     "secure"
   ],
   "assicurazione": [
-    "insurance"
+    "insurance",
+    "undertaking"
   ],
   "assideramento": [
     "frostbite"
@@ -3958,6 +3965,10 @@
   "attuazione": [
     "implementation"
   ],
+  "attutire": [
+    "cushion",
+    "deaden"
+  ],
   "audace": [
     "audacious"
   ],
@@ -4175,8 +4186,8 @@
   ],
   "autorizzazione": [
     "authorisation",
-    "permission",
     "authorization",
+    "permission",
     "permit"
   ],
   "autosoma": [
@@ -4254,10 +4265,10 @@
     "be hungry"
   ],
   "aviatore": [
-    "flyer",
+    "airman",
     "aviator",
     "flier",
-    "airman"
+    "flyer"
   ],
   "aviazione": [
     "aviation"
@@ -4336,8 +4347,8 @@
   ],
   "avviare": [
     "boot",
-    "start",
-    "initiate"
+    "initiate",
+    "start"
   ],
   "avvicinamento": [
     "approach"

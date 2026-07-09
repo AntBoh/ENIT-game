@@ -26,7 +26,7 @@
     "lab",
     "laboratory"
   ],
-  "laboriosamente":[
+  "laboriosamente": [
     "laboriously"
   ],
   "laccare": [
@@ -72,15 +72,15 @@
     "secular"
   ],
   "lama": [
-    "llama",
-    "blade"
+    "blade",
+    "llama"
   ],
   "lamentarsi": [
     "complain"
   ],
   "lamentela": [
-    "grievance",
-    "complaint"
+    "complaint",
+    "grievance"
   ],
   "lamentevolmente": [
     "lamentably",
@@ -95,18 +95,21 @@
   "lampada": [
     "lamp"
   ],
-  "lampeggiare":[
-    "flicker",
-    "flash",
-    "blink"
-  ],
-  "lampeggiante":[
-    "flickering",
-    "flashing",
-    "blinking"
-  ],
   "lampadina": [
     "lightbulb"
+  ],
+  "lampeggiante": [
+    "blinking",
+    "flashing",
+    "flickering"
+  ],
+  "lampeggiare": [
+    "blink",
+    "flash",
+    "flicker"
+  ],
+  "lampione": [
+    "lamppost"
   ],
   "lampone": [
     "raspberry"
@@ -200,9 +203,6 @@
   "latrina": [
     "latrine"
   ],
-  "lattina":[
-    "can"
-  ],
   "latta": [
     "tin"
   ],
@@ -211,6 +211,9 @@
   ],
   "latteo": [
     "milky"
+  ],
+  "lattina": [
+    "can"
   ],
   "lattosio": [
     "lactose"
@@ -235,8 +238,8 @@
   ],
   "lavagna": [
     "blackboard",
-    "whiteboard",
-    "board"
+    "board",
+    "whiteboard"
   ],
   "lavanda": [
     "lavender"
@@ -434,10 +437,10 @@
     "sheet"
   ],
   "leone": [
-    "lion",
-    "leo"
+    "leo",
+    "lion"
   ],
-  "leonessa":[
+  "leonessa": [
     "lioness"
   ],
   "leopardato": [
@@ -611,8 +614,8 @@
   ],
   "licenziamento": [
     "dismissal",
-    "redundancy",
-    "redundance"
+    "redundance",
+    "redundancy"
   ],
   "licenziare": [
     "dismiss",
@@ -754,9 +757,9 @@
     "licorice"
   ],
   "liquore": [
+    "booze",
     "liqueur",
-    "liquor",
-    "booze"
+    "liquor"
   ],
   "lira": [
     "lyre"
@@ -791,10 +794,10 @@
     "argument",
     "quarrel"
   ],
-  "litigioso":[
-    "quarrelsome",
+  "litigioso": [
+    "cantankerous",
     "litigious",
-    "cantankerous"
+    "quarrelsome"
   ],
   "litio": [
     "lithium"
@@ -824,8 +827,8 @@
     "lithosphere"
   ],
   "litro": [
-    "litre",
-    "liter"
+    "liter",
+    "litre"
   ],
   "Lituania": [
     "Lithuania"
@@ -855,7 +858,8 @@
     "level"
   ],
   "livello": [
-    "level"
+    "level",
+    "stage"
   ],
   "livido": [
     "bruise"
@@ -876,9 +880,9 @@
     "trace"
   ],
   "localizzazione": [
-    "location",
+    "localisation",
     "localization",
-    "localisation"
+    "location"
   ],
   "localmente": [
     "locally"
@@ -988,9 +992,9 @@
     "light"
   ],
   "lucentezza": [
-    "shine",
     "brightness",
-    "luster"
+    "luster",
+    "shine"
   ],
   "lucertola": [
     "lizard"
@@ -1029,8 +1033,8 @@
     "luminescence"
   ],
   "luminoso": [
-    "light",
     "bright",
+    "light",
     "lightful",
     "luminous"
   ],

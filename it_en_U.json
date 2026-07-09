@@ -10,8 +10,8 @@
   ],
   "ubriaco": [
     "drunk",
-    "drunken",
-    "drunkard"
+    "drunkard",
+    "drunken"
   ],
   "uccello": [
     "bird"
@@ -82,8 +82,8 @@
     "olive"
   ],
   "ulteriore": [
-    "ulterior",
-    "other"
+    "other",
+    "ulterior"
   ],
   "ulteriormente": [
     "incidentally"
@@ -129,8 +129,8 @@
     "humanitarian"
   ],
   "umanità": [
-    "man",
-    "humanity"
+    "humanity",
+    "man"
   ],
   "umanizzare": [
     "humanise",
@@ -184,8 +184,8 @@
     "an"
   ],
   "un altro": [
-    "another one",
-    "another"
+    "another",
+    "another one"
   ],
   "un'": [
     "a",
@@ -233,6 +233,7 @@
   ],
   "unicamente": [
     "only",
+    "solely",
     "uniquely"
   ],
   "unicellulare": [
@@ -244,8 +245,8 @@
     "unique"
   ],
   "unicolore": [
-    "unicoloured",
-    "unicolored"
+    "unicolored",
+    "unicoloured"
   ],
   "unicorno": [
     "unicorn"
@@ -454,9 +455,9 @@
     "uterus"
   ],
   "utile": [
+    "handy",
     "helpful",
-    "useful",
-    "handy"
+    "useful"
   ],
   "utilitario": [
     "utilitarian"

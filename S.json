@@ -2256,7 +2256,9 @@
     "unico"
   ],
   "solely": [
-    "soltanto"
+    "soltanto",
+    "solamente",
+    "unicamente"
   ],
   "solemn": [
     "solenne"
@@ -2865,20 +2867,23 @@
     "stabilmente"
   ],
   "stack": [
-    "accatastare"
+    "accatastare",
+    "catasta",
+    "pila"
   ],
   "stadium": [
     "stadio"
   ],
   "staff": [
-    "maestranze",
+    "scettro",
+    "staffa",
     "personale"
   ],
   "stage": [
     "inscenare",
     "palco",
     "palcoscenico",
-    "tappa"
+    "livello"
   ],
   "stagnate": [
     "ristagnare"
@@ -3211,9 +3216,6 @@
   ],
   "stole": [
     "stola"
-  ],
-  "stoma": [
-    "stoma"
   ],
   "stomach": [
     "stomaco",

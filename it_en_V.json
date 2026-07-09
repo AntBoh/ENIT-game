@@ -67,9 +67,9 @@
     "valley"
   ],
   "valore": [
+    "valor",
     "value",
-    "worth",
-    "valor"
+    "worth"
   ],
   "valorizzazione": [
     "valorisation",
@@ -250,11 +250,11 @@
     "aircraft",
     "airplane"
   ],
+  "vello": [
+    "fleece"
+  ],
   "velluto": [
     "velvet"
-  ],
-  "vello":[
-    "fleece"
   ],
   "velo": [
     "shroud",
@@ -291,6 +291,9 @@
   "vendere": [
     "sell"
   ],
+  "vendetta": [
+    "revenge"
+  ],
   "vendibile": [
     "marketable"
   ],
@@ -304,8 +307,8 @@
     "vendor"
   ],
   "venerare": [
-    "venerate",
-    "praise"
+    "praise",
+    "venerate"
   ],
   "venerazione": [
     "veneration"
@@ -417,9 +420,6 @@
   ],
   "verbale": [
     "verbal"
-  ],
-  "vendetta":[
-    "revenge"
   ],
   "verbalmente": [
     "verbally"
@@ -578,7 +578,7 @@
     "glassworks"
   ],
   "vetrina": [
-    "shopwindow"
+    "showcase"
   ],
   "vetro": [
     "glass"
@@ -695,7 +695,6 @@
   ],
   "vigilare": [
     "keep watch",
-    "lookafter",
     "watch"
   ],
   "vigneto": [
@@ -882,8 +881,8 @@
     "approve"
   ],
   "visto": [
-    "visa",
-    "seen"
+    "seen",
+    "visa"
   ],
   "vistoso": [
     "showy"
@@ -892,13 +891,13 @@
     "visual"
   ],
   "visualizzare": [
-    "visualise",
     "view",
+    "visualise",
     "visualize"
   ],
   "visualizzazione": [
-    "visualisation",
     "view",
+    "visualisation",
     "visualization"
   ],
   "vita": [

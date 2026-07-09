@@ -20,8 +20,8 @@
     "pacification"
   ],
   "pacifico": [
-    "peaceful",
-    "pacific"
+    "pacific",
+    "peaceful"
   ],
   "pacifismo": [
     "pacifism"
@@ -36,8 +36,7 @@
     "Padua"
   ],
   "padre": [
-    "father",
-    "parent"
+    "father"
   ],
   "padrino": [
     "godfather"
@@ -86,6 +85,9 @@
   ],
   "pakistano": [
     "pakistani"
+  ],
+  "pala": [
+    "shovel"
   ],
   "pala d'altare": [
     "altarpiece"
@@ -155,11 +157,8 @@
     "gymnasium"
   ],
   "paletta": [
+    "paddle",
     "scoop",
-    "shovel",
-    "paddle"
-  ],
-  "pala":[
     "shovel"
   ],
   "palindromo": [
@@ -215,8 +214,7 @@
     "palm"
   ],
   "palo": [
-    "pole",
-    "stick"
+    "pole"
   ],
   "palpabile": [
     "palpable"
@@ -244,7 +242,8 @@
     "bacon"
   ],
   "pancia": [
-    "belly"
+    "belly",
+    "stomach"
   ],
   "panciotto": [
     "waistcoat"
@@ -468,8 +467,8 @@
     "park"
   ],
   "parcheggio": [
-    "parking",
-    "park"
+    "park",
+    "parking"
   ],
   "parco": [
     "park"
@@ -501,7 +500,6 @@
   "parere": [
     "appear",
     "look",
-    "looklike",
     "opinion"
   ],
   "parestesia": [
@@ -601,9 +599,9 @@
     "particularly"
   ],
   "partire": [
-    "split",
+    "depart",
     "leave",
-    "depart"
+    "split"
   ],
   "partita": [
     "match"
@@ -818,21 +816,16 @@
     "patiently"
   ],
   "pazzia": [
+    "craze",
     "folly",
-    "madness",
     "insanity",
-    "craze"
+    "madness"
   ],
   "pazzo": [
     "crazy",
+    "insane",
     "mad",
-    "madman",
-    "insane"
-  ],
-  "più":[
-    "more",
-    "most",
-    "plus"
+    "madman"
   ],
   "pecca": [
     "flaw"
@@ -841,8 +834,8 @@
     "sin"
   ],
   "peccato": [
-    "sin",
-    "pity"
+    "pity",
+    "sin"
   ],
   "Pechino": [
     "Beijing"
@@ -929,8 +922,8 @@
     "film"
   ],
   "pelo": [
-    "hair",
-    "fur"
+    "fur",
+    "hair"
   ],
   "peloso": [
     "hairy"
@@ -1101,10 +1094,10 @@
     "distance"
   ],
   "percorso": [
-    "route",
-    "trail",
+    "course",
     "path",
-    "course"
+    "route",
+    "trail"
   ],
   "percussione": [
     "percussion"
@@ -1190,11 +1183,11 @@
   "perifrastico": [
     "periphrastic"
   ],
+  "perigeo": [
+    "perigee"
+  ],
   "periglaciale": [
     "periglacial"
-  ],
-  "perigeo":[
-    "perigee"
   ],
   "perimetro": [
     "perimeter"
@@ -1354,8 +1347,8 @@
   ],
   "personalizzato": [
     "custom",
-    "personalized",
-    "personalised"
+    "personalised",
+    "personalized"
   ],
   "personalizzazione": [
     "personalisation",
@@ -1383,8 +1376,8 @@
     "therefore"
   ],
   "pertica": [
-    "pole",
     "perch",
+    "pole",
     "roost"
   ],
   "pertinente": [
@@ -1451,8 +1444,8 @@
     "pessimistic"
   ],
   "peste": [
-    "plague",
-    "pest"
+    "pest",
+    "plague"
   ],
   "petalo": [
     "petal"
@@ -1660,7 +1653,8 @@
   ],
   "pila": [
     "battery",
-    "pile"
+    "pile",
+    "stack"
   ],
   "pilastro": [
     "pillar"
@@ -1687,8 +1681,8 @@
     "art gallery"
   ],
   "pineta": [
-    "pinewood",
-    "pine forest"
+    "pine forest",
+    "pinewood"
   ],
   "pinguino": [
     "penguin"
@@ -1697,9 +1691,9 @@
     "pine"
   ],
   "pinza": [
+    "claw",
     "clip",
-    "plier",
-    "claw"
+    "plier"
   ],
   "pioggia": [
     "rain"
@@ -1836,12 +1830,17 @@
   "pizzico": [
     "pinch"
   ],
+  "più": [
+    "more",
+    "most",
+    "plus"
+  ],
   "placare": [
     "appease"
   ],
   "placca": [
-    "plate",
-    "plaque"
+    "plaque",
+    "plate"
   ],
   "placebo": [
     "placebo"
@@ -2144,9 +2143,6 @@
   "politicamente": [
     "politically"
   ],
-  "politicamonetaria": [
-    "monetarypolicy"
-  ],
   "politicizzazione": [
     "politisation"
   ],
@@ -2301,8 +2297,8 @@
     "purpura"
   ],
   "porre": [
-    "put",
-    "pose"
+    "pose",
+    "put"
   ],
   "porro": [
     "leek"
@@ -2341,9 +2337,6 @@
   "portatore": [
     "bearer",
     "carrier"
-  ],
-  "portatoredihandicap": [
-    "handicappedperson"
   ],
   "portavoce": [
     "spokesman",
@@ -2405,9 +2398,6 @@
     "position",
     "stand"
   ],
-  "posticipare": [
-    "postpone"
-  ],
   "possedere": [
     "own",
     "possess"
@@ -2446,6 +2436,9 @@
   ],
   "posteriormente": [
     "later"
+  ],
+  "posticipare": [
+    "postpone"
   ],
   "postino": [
     "postman"
@@ -2573,9 +2566,6 @@
   ],
   "pre-eiaculazione": [
     "pre-ejaculate"
-  ],
-  "preordinazione": [
-    "preordering"
   ],
   "precariamente": [
     "precariously"
@@ -2818,6 +2808,9 @@
     "concern",
     "worry"
   ],
+  "preordinazione": [
+    "preordering"
+  ],
   "preparare": [
     "prepare",
     "prime",
@@ -2972,6 +2965,9 @@
   "prevedibile": [
     "predictable"
   ],
+  "prevedibilmente": [
+    "predictably"
+  ],
   "prevenire": [
     "prevent"
   ],
@@ -2992,9 +2988,6 @@
   ],
   "previo": [
     "previous"
-  ],
-  "previsibilmente": [
-    "predictably"
   ],
   "previsione": [
     "forecast",
@@ -3019,19 +3012,16 @@
     "jail",
     "prison"
   ],
-  "prigionesotterranea": [
-    "dungeon"
-  ],
   "prigioniero": [
     "captive",
     "prisoner"
   ],
   "prima": [
     "before",
-    "prior",
     "earlier",
     "first",
-    "firstly"
+    "firstly",
+    "prior"
   ],
   "primariamente": [
     "primarily"
@@ -3057,11 +3047,11 @@
     "first",
     "prime"
   ],
-  "primogenitura": [
-    "primogeniture"
-  ],
   "primo ministro": [
     "prime minister"
+  ],
+  "primogenitura": [
+    "primogeniture"
   ],
   "primordiale": [
     "primordiale"
@@ -3620,6 +3610,7 @@
     "protuberance"
   ],
   "prova": [
+    "evidence",
     "proof",
     "rehearsal",
     "test",
@@ -3757,8 +3748,7 @@
     "publicist"
   ],
   "pubblicitario": [
-    "advertising",
-    "advertisingagent"
+    "advertising"
   ],
   "pubblicizzare": [
     "advertise"
@@ -3891,9 +3881,9 @@
     "purely"
   ],
   "pure": [
+    "also",
     "even",
-    "too",
-    "also"
+    "too"
   ],
   "purezza": [
     "purity"

@@ -32,9 +32,9 @@
     "cactus"
   ],
   "cadavere": [
-    "corpse",
     "body",
-    "cadaver"
+    "cadaver",
+    "corpse"
   ],
   "cadenza": [
     "cadence"
@@ -117,8 +117,8 @@
     "computable"
   ],
   "calcolare": [
-    "compute",
-    "calculate"
+    "calculate",
+    "compute"
   ],
   "calcolatore": [
     "calculator"
@@ -229,8 +229,8 @@
     "Cambodia"
   ],
   "camera": [
-    "room",
-    "chamber"
+    "chamber",
+    "room"
   ],
   "camera da letto": [
     "bedroom"
@@ -572,13 +572,13 @@
     "goat"
   ],
   "capriccio": [
-    "whim",
     "caprice",
-    "tantrum"
+    "tantrum",
+    "whim"
   ],
   "capriccioso": [
-    "wayward",
     "capricious",
+    "wayward",
     "whimsical"
   ],
   "capriola": [
@@ -598,9 +598,9 @@
     "capsule"
   ],
   "captare": [
-    "pick up",
+    "capture",
     "detect",
-    "capture"
+    "pick up"
   ],
   "captazione": [
     "catchment"
@@ -710,7 +710,6 @@
   ],
   "carica": [
     "charge",
-    "freight",
     "position",
     "tackle"
   ],
@@ -729,6 +728,7 @@
   ],
   "carico": [
     "charge",
+    "freight",
     "load",
     "post"
   ],
@@ -860,8 +860,8 @@
     "household"
   ],
   "cascare": [
-    "tumble",
-    "fall"
+    "fall",
+    "tumble"
   ],
   "cascata": [
     "waterfall"
@@ -880,7 +880,6 @@
   ],
   "caso": [
     "case",
-    "confirmation",
     "instance"
   ],
   "cassaforma": [
@@ -981,6 +980,9 @@
   ],
   "catartico": [
     "cathartic"
+  ],
+  "catasta": [
+    "stack"
   ],
   "catastale": [
     "cadastral"
@@ -1239,12 +1241,12 @@
     "centigrade"
   ],
   "centilitro": [
-    "centilitre",
-    "centiliter"
+    "centiliter",
+    "centilitre"
   ],
   "centimetro": [
-    "centimetre",
-    "centimeter"
+    "centimeter",
+    "centimetre"
   ],
   "centinaio": [
     "hundred"
@@ -1285,8 +1287,8 @@
     "centriole"
   ],
   "centro": [
-    "centre",
-    "center"
+    "center",
+    "centre"
   ],
   "centro giovanile": [
     "youth centre"
@@ -1313,9 +1315,9 @@
     "fawn"
   ],
   "cercare": [
+    "look for",
     "search",
-    "seek",
-    "look for"
+    "seek"
   ],
   "cerchio": [
     "circle",
@@ -1365,10 +1367,6 @@
   ],
   "cervelletto": [
     "cerebellum"
-  ],
-  "clacson":[
-    "horn",
-    "klaxon"
   ],
   "cervello": [
     "brain"
@@ -1519,8 +1517,8 @@
     "quinine"
   ],
   "chiocciola": [
-    "snail",
-    "at"
+    "at",
+    "snail"
   ],
   "chiodo": [
     "nail"
@@ -1561,7 +1559,8 @@
   ],
   "chiunque": [
     "anybody",
-    "anyone"
+    "anyone",
+    "whoever"
   ],
   "chiusura": [
     "closing",
@@ -1584,6 +1583,7 @@
     "cyanide"
   ],
   "ciao": [
+    "bye",
     "ciao",
     "hello",
     "hi"
@@ -1967,8 +1967,12 @@
     "civilise"
   ],
   "ciò": [
-    "this",
-    "that"
+    "that",
+    "this"
+  ],
+  "clacson": [
+    "horn",
+    "klaxon"
   ],
   "cladismo": [
     "cladism"
@@ -2147,11 +2151,11 @@
   "coda": [
     "tail"
   ],
-  "codardo":[
-    "coward"
-  ],
-  "codardia":[
+  "codardia": [
     "cowardice"
+  ],
+  "codardo": [
+    "coward"
   ],
   "codesti": [
     "these"
@@ -2456,8 +2460,8 @@
     "fault"
   ],
   "colpevole": [
-    "guilty",
-    "culprit"
+    "culprit",
+    "guilty"
   ],
   "colpire": [
     "bang",
@@ -2465,8 +2469,8 @@
     "strike"
   ],
   "colpito": [
-    "struck",
-    "hit"
+    "hit",
+    "struck"
   ],
   "colpo": [
     "bang",
@@ -2523,7 +2527,7 @@
   "combinabile": [
     "combinable"
   ],
-  "combinaguai":[
+  "combinaguai": [
     "troublemaker"
   ],
   "combinare": [
@@ -2813,21 +2817,21 @@
     "compose"
   ],
   "comportamentale": [
-    "behavioural",
-    "behavioral"
+    "behavioral",
+    "behavioural"
   ],
   "comportamentismo": [
-    "behaviourism",
-    "behaviorism"
+    "behaviorism",
+    "behaviourism"
   ],
   "comportamento": [
-    "behaviour",
-    "behavior"
+    "behavior",
+    "behaviour"
   ],
   "comportare": [
     "comport"
   ],
-  "comportarsi":[
+  "comportarsi": [
     "behave"
   ],
   "compositore": [
@@ -2855,8 +2859,8 @@
     "purchaser"
   ],
   "comprendere": [
-    "comprise",
     "comprehend",
+    "comprise",
     "understand"
   ],
   "comprensibile": [
@@ -2865,8 +2869,8 @@
     "intelligible"
   ],
   "comprensione": [
-    "understanding",
-    "comprehension"
+    "comprehension",
+    "understanding"
   ],
   "compressa": [
     "compress"
@@ -3012,10 +3016,12 @@
     "conciliation"
   ],
   "concimazione": [
-    "fertilisation"
+    "fertilisation",
+    "fertilization"
   ],
   "concime": [
-    "fertiliser"
+    "fertiliser",
+    "fertilizer"
   ],
   "concio": [
     "ashlar"
@@ -3160,6 +3166,9 @@
     "award",
     "confer"
   ],
+  "conferma": [
+    "confirmation"
+  ],
   "confermare": [
     "confirm",
     "endorse"
@@ -3177,9 +3186,9 @@
     "confectionery"
   ],
   "confezione": [
-    "packaging",
+    "confection",
     "package",
-    "confection"
+    "packaging"
   ],
   "conficcare": [
     "stick"
@@ -3251,15 +3260,15 @@
     "conformism"
   ],
   "confortare": [
-    "solace",
-    "comfort"
+    "comfort",
+    "solace"
   ],
   "confortevole": [
     "comfortable"
   ],
   "conforto": [
-    "solace",
-    "comfort"
+    "comfort",
+    "solace"
   ],
   "confraternita": [
     "confraternity",
@@ -3592,8 +3601,8 @@
     "consultation"
   ],
   "consultivo": [
-    "consultative",
-    "advisory"
+    "advisory",
+    "consultative"
   ],
   "consumare": [
     "consume",
@@ -3636,12 +3645,12 @@
     "container"
   ],
   "contaminare": [
-    "pollute",
-    "contaminare"
+    "contaminare",
+    "pollute"
   ],
   "contaminazione": [
-    "pollution",
-    "contamination"
+    "contamination",
+    "pollution"
   ],
   "contare": [
     "count"
@@ -3653,8 +3662,8 @@
     "contact"
   ],
   "conte": [
-    "earl",
-    "count"
+    "count",
+    "earl"
   ],
   "Conte Dracula": [
     "Count Dracula"
@@ -3876,8 +3885,8 @@
     "controllable"
   ],
   "controllare": [
-    "control",
     "check",
+    "control",
     "monitor"
   ],
   "controllo": [
@@ -3888,11 +3897,11 @@
   "controllore": [
     "controller"
   ],
+  "controproducente": [
+    "counterproductive"
+  ],
   "controprogrammazione": [
     "counterprogramming"
-  ],
-  "controproducente":[
-    "counterproductive"
   ],
   "controspionaggio": [
     "counterespionage"
@@ -4000,7 +4009,9 @@
     "cooperate"
   ],
   "cooperativa": [
-    "co-op",
+    "co-op"
+  ],
+  "cooperativo": [
     "cooperative"
   ],
   "cooperazione": [
@@ -4183,9 +4194,6 @@
   "corpo": [
     "body",
     "corps"
-  ],
-  "corpoinsegnante": [
-    "teachingstaff"
   ],
   "corporale": [
     "corporal"
@@ -4476,7 +4484,7 @@
   "cotone": [
     "cotton"
   ],
-  "cotta":[
+  "cotta": [
     "crush"
   ],
   "covalente": [
@@ -4626,8 +4634,8 @@
     "crisis"
   ],
   "cristalleria": [
-    "glassware",
-    "crystalware"
+    "crystalware",
+    "glassware"
   ],
   "cristallino": [
     "crystalline"

@@ -644,7 +644,7 @@
     "adattativo"
   ],
   "adapter": [
-    "adattore"
+    "adattatore"
   ],
   "add": [
     "aggiungere"
@@ -1057,7 +1057,9 @@
     "Agamennone"
   ],
   "age": [
-    "invecchiare"
+    "invecchiare",
+    "età",
+    "era"
   ],
   "agency": [
     "agenzia"

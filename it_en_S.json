@@ -1,6 +1,6 @@
 {
   "sabato": [
-    "saturday"
+    "Saturday"
   ],
   "sabbatico": [
     "sabbatical"
@@ -79,13 +79,13 @@
   "saga": [
     "saga"
   ],
+  "saggiamente": [
+    "wisely"
+  ],
   "saggio": [
     "essay",
     "wise",
     "wiseperson"
-  ],
-  "saggiamente":[
-    "wisely"
   ],
   "saggista": [
     "essayist"
@@ -172,9 +172,6 @@
   "salsiccia": [
     "sausage"
   ],
-  "siccità":[
-    "drought"
-  ],
   "saltare": [
     "jump",
     "leap",
@@ -226,8 +223,8 @@
     "save"
   ],
   "salvatore": [
-    "saviour",
-    "savior"
+    "savior",
+    "saviour"
   ],
   "salvezza": [
     "salvation"
@@ -299,16 +296,10 @@
   "sanzione": [
     "sanction"
   ],
-  "sapore":[
-    "taste"
-  ],
-  "scatenare":[
-    "unleash"
-  ],
   "sapere": [
     "know",
-    "taste",
-    "knowledge"
+    "knowledge",
+    "taste"
   ],
   "sapienza": [
     "knowledge",
@@ -319,6 +310,9 @@
   ],
   "saponoso": [
     "soapy"
+  ],
+  "sapore": [
+    "taste"
   ],
   "saprofita": [
     "saprophyte"
@@ -481,18 +475,18 @@
     "onthesly"
   ],
   "scaltrezza": [
+    "cunning",
     "shrewdness",
-    "slyness",
-    "cunning"
+    "slyness"
   ],
   "scambiare": [
     "exchange",
     "trade"
   ],
   "scambio": [
-    "trade",
+    "exchange",
     "interchange",
-    "exchange"
+    "trade"
   ],
   "scanalatura": [
     "groove"
@@ -538,6 +532,7 @@
   "scaricare": [
     "discharge",
     "download",
+    "dump",
     "unload"
   ],
   "scarico": [
@@ -578,14 +573,17 @@
     "lurch",
     "scrap"
   ],
+  "scatenare": [
+    "unleash"
+  ],
   "scatola": [
     "box",
     "kit"
   ],
   "scatto": [
-    "spurt",
     "dash",
-    "shot"
+    "shot",
+    "spurt"
   ],
   "scavare": [
     "dig",
@@ -619,8 +617,8 @@
   "scendere": [
     "bring down",
     "drop",
-    "go down",
     "get off",
+    "go down",
     "lower"
   ],
   "sceneggiatore": [
@@ -648,11 +646,12 @@
     "skeptical"
   ],
   "scettro": [
-    "scepter"
+    "scepter",
+    "staff"
   ],
   "scheggia": [
-    "splinter",
-    "shard"
+    "shard",
+    "splinter"
   ],
   "scheletrico": [
     "skeletal"
@@ -684,6 +683,9 @@
   ],
   "scherzosamente": [
     "jokingly"
+  ],
+  "schiacciante": [
+    "crushing"
   ],
   "schiacciare": [
     "crush",
@@ -856,13 +858,6 @@
   "scomporre": [
     "decompose"
   ],
-  "scorbuto":[
-    "scurvy"
-  ],
-  "scorbutico":[
-    "scorbutic",
-    "cantankeorus"
-  ],
   "scomposizione": [
     "decomposition"
   ],
@@ -938,6 +933,13 @@
   ],
   "scoraggiare": [
     "deter"
+  ],
+  "scorbutico": [
+    "cantankeorus",
+    "scorbutic"
+  ],
+  "scorbuto": [
+    "scurvy"
   ],
   "scordare": [
     "forget"
@@ -1025,13 +1027,13 @@
   "scusare": [
     "excuse"
   ],
-  "scusarsi":[
+  "scusarsi": [
     "apologise",
     "apologize"
   ],
   "sdegnare": [
-    "disdain",
-    "despise"
+    "despise",
+    "disdain"
   ],
   "se": [
     "if",
@@ -1220,7 +1222,7 @@
     "sixhundredth"
   ],
   "seicento": [
-    "sixhundredand"
+    "six hundred"
   ],
   "seimila": [
     "sixthousand"
@@ -1263,7 +1265,7 @@
     "semblance"
   ],
   "sembrare": [
-    "looklike",
+    "look",
     "seem",
     "seemlike"
   ],
@@ -1272,9 +1274,6 @@
   ],
   "semestrale": [
     "semiannual"
-  ],
-  "semipresidenziale": [
-    "semipresidential"
   ],
   "semiautomatico": [
     "semiautomatic"
@@ -1309,6 +1308,9 @@
   ],
   "semiotico": [
     "semeiotic"
+  ],
+  "semipresidenziale": [
+    "semipresidential"
   ],
   "semivocale": [
     "semivocal"
@@ -1513,8 +1515,8 @@
     "shut"
   ],
   "serratura": [
-    "lock",
-    "keyhole"
+    "keyhole",
+    "lock"
   ],
   "Serse": [
     "Xerxes"
@@ -1874,6 +1876,9 @@
   "sibilante": [
     "sibilant"
   ],
+  "siccità": [
+    "drought"
+  ],
   "sicomoro": [
     "sycamore"
   ],
@@ -1919,12 +1924,12 @@
     "sigillography"
   ],
   "sigla": [
-    "acronym",
-    "abbreviation"
+    "abbreviation",
+    "acronym"
   ],
   "siglare": [
-    "sign",
-    "abbreviate"
+    "abbreviate",
+    "sign"
   ],
   "significare": [
     "mean"
@@ -2004,8 +2009,8 @@
     "symbiotic"
   ],
   "simboleggiare": [
-    "symbolise",
-    "simbolize"
+    "simbolize",
+    "symbolise"
   ],
   "simbolicamente": [
     "symbolically"
@@ -2044,8 +2049,8 @@
     "symmetry"
   ],
   "simmetrico": [
-    "symmetrical",
-    "symmetric"
+    "symmetric",
+    "symmetrical"
   ],
   "simonia": [
     "simony"
@@ -2116,8 +2121,8 @@
     "syndicalist"
   ],
   "sindacato": [
-    "union",
-    "syndicate"
+    "syndicate",
+    "union"
   ],
   "sindaco": [
     "mayor"
@@ -2343,9 +2348,9 @@
     "grimace"
   ],
   "smorzare": [
-    "dim",
     "cushion",
     "dampen",
+    "dim",
     "muffle"
   ],
   "smussatura": [
@@ -2489,7 +2494,8 @@
     "soy"
   ],
   "solamente": [
-    "only"
+    "only",
+    "solely"
   ],
   "solare": [
     "solar"
@@ -2498,8 +2504,8 @@
     "cruise"
   ],
   "solco": [
-    "rut",
-    "furrow"
+    "furrow",
+    "rut"
   ],
   "soldato": [
     "soldier"
@@ -2671,8 +2677,8 @@
     "above",
     "aloft",
     "on",
-    "up",
     "over",
+    "up",
     "upward"
   ],
   "sopracciglio": [
@@ -2743,8 +2749,8 @@
     "swallow"
   ],
   "sorvegliante": [
-    "watchdog",
-    "supervisor"
+    "supervisor",
+    "watchdog"
   ],
   "sorveglianza": [
     "surveillance"
@@ -2888,9 +2894,6 @@
   "sottoporsi": [
     "undergo"
   ],
-  "sottoprodotto": [
-    "by-product"
-  ],
   "sottoprogetto": [
     "subproject"
   ],
@@ -2962,8 +2965,8 @@
     "supernatural"
   ],
   "sovrano": [
-    "sovereign",
-    "paramount"
+    "paramount",
+    "sovereign"
   ],
   "sovrappopolazione": [
     "overpopulation"
@@ -3219,9 +3222,9 @@
     "spectral"
   ],
   "spettro": [
-    "spectrum",
     "ghost",
     "specter",
+    "spectrum",
     "wraith"
   ],
   "spettrofotometria": [
@@ -3281,9 +3284,9 @@
   "spiga": [
     "ear"
   ],
-  "spigolo":[
-    "edge",
-    "corner"
+  "spigolo": [
+    "corner",
+    "edge"
   ],
   "spilla": [
     "brooch",
@@ -3360,6 +3363,13 @@
   ],
   "splenomegalia": [
     "splenomegaly"
+  ],
+  "spogliare": [
+    "strip",
+    "undress"
+  ],
+  "spogliarsi": [
+    "strip"
   ],
   "spolverare": [
     "dust"
@@ -3521,6 +3531,9 @@
   "stadio": [
     "stadium"
   ],
+  "staffa": [
+    "staff"
+  ],
   "stagionale": [
     "seasonal"
   ],
@@ -3577,10 +3590,10 @@
   "stancante": [
     "tiresome",
     "tiring",
-    "weary",
-    "wearisome"
+    "wearisome",
+    "weary"
   ],
-  "stancare":[
+  "stancare": [
     "tire"
   ],
   "stanco": [
@@ -3603,8 +3616,8 @@
   ],
   "stare": [
     "be",
-    "stay",
-    "stand"
+    "stand",
+    "stay"
   ],
   "starnutire": [
     "sneeze"
@@ -3634,9 +3647,6 @@
   "stato": [
     "state",
     "status"
-  ],
-  "statofrancese": [
-    "frenchstate"
   ],
   "statore": [
     "stator"
@@ -3847,9 +3857,6 @@
   "stola": [
     "stole"
   ],
-  "stoma": [
-    "stoma"
-  ],
   "stomaco": [
     "stomach"
   ],
@@ -3876,8 +3883,8 @@
     "historiography"
   ],
   "storno": [
-    "transfer",
-    "starling"
+    "starling",
+    "transfer"
   ],
   "storta": [
     "retort",
@@ -3993,8 +4000,8 @@
   ],
   "strettamente": [
     "closely",
-    "strictly",
     "narrowly",
+    "strictly",
     "tightly"
   ],
   "stretto": [
@@ -4011,6 +4018,7 @@
     "tighten"
   ],
   "striscia": [
+    "strip",
     "stripe"
   ],
   "strizzare": [
@@ -4087,12 +4095,12 @@
     "studious"
   ],
   "stufa": [
-    "stove",
-    "heater"
+    "heater",
+    "stove"
   ],
   "stufare": [
-    "stew",
-    "bore"
+    "bore",
+    "stew"
   ],
   "stufato": [
     "stew"
@@ -4172,8 +4180,8 @@
     "succeed"
   ],
   "successivamente": [
-    "subsequently",
     "next",
+    "subsequently",
     "successively"
   ],
   "successivo": [

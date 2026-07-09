@@ -76,8 +76,8 @@
     "galvanic"
   ],
   "galvanizzazione": [
-    "galvanization",
-    "galvanisation"
+    "galvanisation",
+    "galvanization"
   ],
   "galvanometro": [
     "galvanometer"
@@ -184,8 +184,8 @@
     "freeze"
   ],
   "gelatina": [
-    "jelly",
-    "gelatin"
+    "gelatin",
+    "jelly"
   ],
   "gelatinoso": [
     "gelatinous"
@@ -304,14 +304,17 @@
     "genic"
   ],
   "genio": [
-    "genius",
-    "genie"
+    "genie",
+    "genius"
   ],
   "genitale": [
     "genital"
   ],
   "genitivo": [
     "genitive"
+  ],
+  "genitore": [
+    "parent"
   ],
   "genitoriale": [
     "parental"
@@ -1026,7 +1029,7 @@
   "gradiente": [
     "gradient"
   ],
-  "gradino":[
+  "gradino": [
     "step"
   ],
   "grado": [
@@ -1214,8 +1217,8 @@
     "Greek"
   ],
   "gregge": [
-    "herd",
-    "flock"
+    "flock",
+    "herd"
   ],
   "grembiule": [
     "apron"

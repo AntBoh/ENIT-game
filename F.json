@@ -1158,7 +1158,8 @@
     "sentiero"
   ],
   "footprint": [
-    "impronta"
+    "impronta",
+    "orma"
   ],
   "for": [
     "per"
@@ -1548,13 +1549,13 @@
     "gelido"
   ],
   "freight": [
-    "carica"
+    "fregata",
+    "nolo",
+    "merce",
+    "carico"
   ],
-  "french": [
+  "French": [
     "francese"
-  ],
-  "frenchstate": [
-    "statofrancese"
   ],
   "frenetically": [
     "freneticamente"

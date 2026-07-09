@@ -220,8 +220,8 @@
     "offer"
   ],
   "offuscare": [
-    "tarnish",
-    "dim"
+    "dim",
+    "tarnish"
   ],
   "oftalmia": [
     "ophthalmia"
@@ -365,9 +365,9 @@
     "beyond",
     "over"
   ],
-  "oltretomba":[
-    "underworld",
-    "afterlife"
+  "oltretomba": [
+    "afterlife",
+    "underworld"
   ],
   "oltretutto": [
     "additionally",
@@ -383,8 +383,8 @@
     "umbilical"
   ],
   "ombelico": [
-    "navel",
-    "belly button"
+    "belly button",
+    "navel"
   ],
   "ombra": [
     "shade",
@@ -478,7 +478,7 @@
     "wave"
   ],
   "onduregno": [
-    "honduran"
+    "Honduran"
   ],
   "onestamente": [
     "honestly"
@@ -506,23 +506,23 @@
     "onomatopoeic"
   ],
   "onorabile": [
-    "honourable",
-    "honorable"
+    "honorable",
+    "honourable"
   ],
   "onorare": [
-    "honour",
-    "honor"
+    "honor",
+    "honour"
   ],
   "onorario": [
     "honorary"
   ],
   "onore": [
-    "honour",
-    "honor"
+    "honor",
+    "honour"
   ],
   "onorificenza": [
-    "honour",
-    "honor"
+    "honor",
+    "honour"
   ],
   "onorifico": [
     "honorific"
@@ -554,8 +554,8 @@
     "operable"
   ],
   "operaio": [
-    "worker",
-    "construction worker"
+    "construction worker",
+    "worker"
   ],
   "operare": [
     "operate"
@@ -837,10 +837,13 @@
     "horizon"
   ],
   "orlo": [
+    "brim",
     "brink",
     "rim",
-    "brim",
     "verge"
+  ],
+  "orma": [
+    "footprint"
   ],
   "ormone": [
     "hormone"

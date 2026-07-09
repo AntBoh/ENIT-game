@@ -126,8 +126,8 @@
     "radon"
   ],
   "raffigurazione": [
-    "representation",
-    "depiction"
+    "depiction",
+    "representation"
   ],
   "raffinazione": [
     "refining"
@@ -160,6 +160,7 @@
     "boyfriend"
   ],
   "raggio": [
+    "beam",
     "radius",
     "range",
     "ray"
@@ -245,9 +246,6 @@
     "rapidly",
     "swiftly"
   ],
-  "remare":[
-    "row"
-  ],
   "rapido": [
     "fast",
     "quick",
@@ -283,8 +281,8 @@
     "representative"
   ],
   "rappresentazione": [
-    "representation",
-    "depiction"
+    "depiction",
+    "representation"
   ],
   "rapsodia": [
     "rhapsody"
@@ -331,6 +329,9 @@
   ],
   "ratificare": [
     "ratify"
+  ],
+  "ratto": [
+    "rat"
   ],
   "ravvicinamento": [
     "approximation"
@@ -406,9 +407,6 @@
   ],
   "reato": [
     "offence"
-  ],
-  "rimare":[
-    "rhyme"
   ],
   "reattanza": [
     "reactance"
@@ -591,9 +589,6 @@
     "record",
     "register"
   ],
-  "ratto":[
-    "rat"
-  ],
   "registrazione": [
     "recording"
   ],
@@ -699,6 +694,9 @@
   "reliquia": [
     "relic"
   ],
+  "remare": [
+    "row"
+  ],
   "reminiscenza": [
     "reminiscence"
   ],
@@ -799,10 +797,10 @@
     "residual"
   ],
   "residuo": [
+    "leftover",
     "refuse",
     "residue",
-    "waste",
-    "leftover"
+    "waste"
   ],
   "resina": [
     "resin"
@@ -877,6 +875,7 @@
     "rest"
   ],
   "restringere": [
+    "restrict",
     "shrink"
   ],
   "restrittivo": [
@@ -1141,6 +1140,9 @@
     "get",
     "receive"
   ],
+  "ricevuta": [
+    "receipt"
+  ],
   "ricezione": [
     "reception"
   ],
@@ -1261,9 +1263,6 @@
     "recess",
     "recreation"
   ],
-  "ricevuta": [
-    "receipt"
-  ],
   "ridare": [
     "giveback"
   ],
@@ -1294,8 +1293,8 @@
     "redistribution"
   ],
   "ridondanza": [
-    "redundancy",
-    "redundance"
+    "redundance",
+    "redundancy"
   ],
   "riducibile": [
     "reducible"
@@ -1443,8 +1442,8 @@
     "rigour"
   ],
   "rigorosamente": [
-    "strictly",
-    "rigorously"
+    "rigorously",
+    "strictly"
   ],
   "rigoroso": [
     "rigorous"
@@ -1494,6 +1493,9 @@
   "rimanere": [
     "remain"
   ],
+  "rimare": [
+    "rhyme"
+  ],
   "rimasto": [
     "left"
   ],
@@ -1521,8 +1523,8 @@
     "remedy"
   ],
   "rimessa": [
-    "shed",
-    "depot"
+    "depot",
+    "shed"
   ],
   "rimettere": [
     "remit"
@@ -1789,9 +1791,9 @@
     "resource"
   ],
   "risparmiare": [
-    "spare",
+    "save",
     "save up",
-    "save"
+    "spare"
   ],
   "risparmio": [
     "saving"
@@ -1886,9 +1888,9 @@
     "delay"
   ],
   "ritenere": [
-    "retain",
+    "believe",
     "consider",
-    "believe"
+    "retain"
   ],
   "ritirare": [
     "collect",
@@ -1907,6 +1909,7 @@
   ],
   "ritmo": [
     "beat",
+    "pace",
     "rate",
     "rhythm"
   ],
@@ -1980,11 +1983,11 @@
   "rivale": [
     "rival"
   ],
-  "rivalità":[
-    "rivalry"
-  ],
   "rivalidare": [
     "revalidate"
+  ],
+  "rivalità": [
+    "rivalry"
   ],
   "rivalutazione": [
     "revaluation"
@@ -2001,9 +2004,6 @@
   ],
   "rivendicare": [
     "claim"
-  ],
-  "rivendicativo": [
-    "reclaimed"
   ],
   "rivendicazione": [
     "claim",

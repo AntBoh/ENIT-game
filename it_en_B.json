@@ -8,13 +8,6 @@
   "baccello": [
     "pod"
   ],
-  "borbottare":[
-    "mumble"
-  ],
-  "borbottio":[
-    "mumble",
-    "mumbling"
-  ],
   "bacchetta": [
     "wand"
   ],
@@ -112,8 +105,8 @@
     "crossbow"
   ],
   "balia": [
-    "wetnurse",
-    "mercy"
+    "mercy",
+    "wetnurse"
   ],
   "balistico": [
     "ballistic"
@@ -163,9 +156,9 @@
     "doll"
   ],
   "banale": [
+    "banal",
     "platitudinous",
-    "trivial",
-    "banal"
+    "trivial"
   ],
   "banana": [
     "banana"
@@ -184,8 +177,8 @@
     "banker"
   ],
   "banco": [
-    "school",
-    "desk"
+    "desk",
+    "school"
   ],
   "bancone": [
     "bar",
@@ -235,20 +228,23 @@
     "barter",
     "interchange"
   ],
+  "barattolo": [
+    "jar"
+  ],
   "barba": [
     "beard"
   ],
   "barbabietola": [
     "beetroot"
   ],
+  "barbarico": [
+    "barbaric"
+  ],
   "barbarie": [
     "barbarism"
   ],
   "barbaro": [
     "barbarian"
-  ],
-  "barbarico":[
-    "barbaric"
   ],
   "barbecue": [
     "barbecue"
@@ -428,7 +424,7 @@
     "bleat"
   ],
   "belga": [
-    "belgian"
+    "Belgian"
   ],
   "Belgio": [
     "Belgium"
@@ -485,15 +481,12 @@
     "beneficial"
   ],
   "benessere": [
+    "comfort",
     "welfare",
-    "well being",
-    "comfort"
+    "well being"
   ],
   "benevolenza": [
     "benevolence"
-  ],
-  "beniamino": [
-    "teacher'spet"
   ],
   "bentonite": [
     "bentonite"
@@ -551,8 +544,8 @@
     "birch"
   ],
   "bevanda": [
-    "drink",
-    "beverage"
+    "beverage",
+    "drink"
   ],
   "biancheria": [
     "linen",
@@ -636,7 +629,7 @@
   "bigamia": [
     "bigamy"
   ],
-  "biglia":[
+  "biglia": [
     "marble"
   ],
   "biglietteria": [
@@ -656,6 +649,9 @@
   ],
   "bilancia": [
     "scale"
+  ],
+  "bilanciare": [
+    "balance"
   ],
   "bilancio": [
     "balance"
@@ -998,6 +994,13 @@
   "boomerang": [
     "boomerang"
   ],
+  "borbottare": [
+    "mumble"
+  ],
+  "borbottio": [
+    "mumble",
+    "mumbling"
+  ],
   "bordare": [
     "embroider"
   ],
@@ -1100,7 +1103,7 @@
   "branda": [
     "bunk"
   ],
-  "brandire":[
+  "brandire": [
     "wield"
   ],
   "Brasile": [
@@ -1226,8 +1229,8 @@
     "sharply"
   ],
   "brusco": [
-    "brusque",
-    "abrupt"
+    "abrupt",
+    "brusque"
   ],
   "brutale": [
     "brutal"
@@ -1241,9 +1244,9 @@
   "bucalo": [
     "buccal"
   ],
-  "bucare":[
-    "pierce",
+  "bucare": [
     "bore",
+    "pierce",
     "puncture"
   ],
   "buco": [
@@ -1338,9 +1341,6 @@
   "bus": [
     "bus"
   ],
-  "buscare": [
-    "lookfor"
-  ],
   "bussare": [
     "knock"
   ],
@@ -1348,8 +1348,8 @@
     "compass"
   ],
   "busta": [
-    "envelope",
-    "bag"
+    "bag",
+    "envelope"
   ],
   "busto": [
     "bust"
@@ -1359,9 +1359,6 @@
   ],
   "butile": [
     "butyl"
-  ],
-  "buttare": [
-    "dump"
   ],
   "byte": [
     "byte"

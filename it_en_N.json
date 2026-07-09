@@ -318,9 +318,9 @@
     "anyone",
     "no",
     "no one",
-    "noone",
     "nobody",
-    "none"
+    "none",
+    "noone"
   ],
   "nettamente": [
     "cleanly"
@@ -516,6 +516,9 @@
     "boring",
     "dull"
   ],
+  "nolo": [
+    "freight"
+  ],
   "nomade": [
     "nomad",
     "nomadic"
@@ -560,9 +563,11 @@
   "nonesistenza": [
     "nonexistence"
   ],
+  "nonna": [
+    "grandmother"
+  ],
   "nonno": [
     "grandfather",
-    "grandmother",
     "grandparent"
   ],
   "nono": [
@@ -808,8 +813,8 @@
     "invalid"
   ],
   "numerabile": [
-    "denumerable",
-    "countable"
+    "countable",
+    "denumerable"
   ],
   "numerare": [
     "number"
@@ -860,8 +865,8 @@
     "nourishment"
   ],
   "nutrire": [
-    "nourish",
-    "feed"
+    "feed",
+    "nourish"
   ],
   "nutritivo": [
     "nutritious"

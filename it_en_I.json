@@ -275,8 +275,8 @@
     "illogical"
   ],
   "illuminare": [
-    "lighten",
-    "brighten"
+    "brighten",
+    "lighten"
   ],
   "illuminato": [
     "lighted"
@@ -298,10 +298,6 @@
   ],
   "illustre": [
     "illustrious"
-  ],
-  "ilnostro": [
-    "our",
-    "ours"
   ],
   "ilquale": [
     "which"
@@ -352,8 +348,8 @@
     "stuff"
   ],
   "imbracatura": [
-    "sling",
-    "harness"
+    "harness",
+    "sling"
   ],
   "imbrogliare": [
     "cheat"
@@ -528,9 +524,9 @@
     "pledge"
   ],
   "impegno": [
-    "engagement",
+    "commitment",
     "effort",
-    "commitment"
+    "engagement"
   ],
   "impenetrabile": [
     "impenetrable"
@@ -607,8 +603,8 @@
   ],
   "impiegare": [
     "employ",
-    "use",
-    "take"
+    "take",
+    "use"
   ],
   "impiegato": [
     "clerk",
@@ -727,7 +723,8 @@
     "company",
     "corporation",
     "enterprise",
-    "firm"
+    "firm",
+    "undertaking"
   ],
   "imprescrittibile": [
     "imprescriptible"
@@ -988,12 +985,12 @@
   "incentivo": [
     "incentive"
   ],
+  "incertezza": [
+    "uncertainty"
+  ],
   "incerto": [
     "uncertain",
     "unsure"
-  ],
-  "incertezza":[
-    "uncertainty"
   ],
   "incessante": [
     "incessant"
@@ -1283,8 +1280,8 @@
     "indeterminate"
   ],
   "indeterminazione": [
-    "uncertainty",
-    "indeterminazione"
+    "indeterminazione",
+    "uncertainty"
   ],
   "indiano": [
     "Indian"
@@ -1474,8 +1471,8 @@
     "reprieve"
   ],
   "indurire": [
-    "toughen",
-    "harden"
+    "harden",
+    "toughen"
   ],
   "indurre": [
     "induce"
@@ -1563,8 +1560,8 @@
     "infarct"
   ],
   "infastidire": [
-    "bother",
-    "annoy"
+    "annoy",
+    "bother"
   ],
   "infatti": [
     "in fact",
@@ -1615,9 +1612,9 @@
     "infibulation"
   ],
   "infilare": [
-    "tuck",
     "insert",
-    "plug"
+    "plug",
+    "tuck"
   ],
   "infiltrare": [
     "infiltrate"
@@ -1803,8 +1800,8 @@
     "english"
   ],
   "ingranaggio": [
-    "gear",
-    "cog"
+    "cog",
+    "gear"
   ],
   "ingrassare": [
     "fatten"
@@ -1909,7 +1906,8 @@
     "inoculation"
   ],
   "inoltre": [
-    "besides"
+    "besides",
+    "furthermore"
   ],
   "inondare": [
     "drown",
@@ -1979,6 +1977,9 @@
   ],
   "insegnamento": [
     "teaching"
+  ],
+  "insegnante": [
+    "teacher"
   ],
   "insegnare": [
     "teach"
@@ -2066,9 +2067,6 @@
   "insoddisfacente": [
     "unsatisfactory"
   ],
-  "insopportabile":[
-    "unbearable"
-  ],
   "insoddisfatto": [
     "unsatisfied"
   ],
@@ -2109,6 +2107,9 @@
   ],
   "insonorizzazione": [
     "soundproofing"
+  ],
+  "insopportabile": [
+    "unbearable"
   ],
   "insostenibile": [
     "unsustainable"
@@ -2234,6 +2235,9 @@
   "intendente": [
     "intendant"
   ],
+  "intendere": [
+    "mean"
+  ],
   "intendimento": [
     "understanding"
   ],
@@ -2257,6 +2261,9 @@
   ],
   "intento": [
     "attempt"
+  ],
+  "intenzionale": [
+    "intentional"
   ],
   "intenzionalmente": [
     "intentionally"
@@ -2375,8 +2382,8 @@
     "interminable"
   ],
   "intermittente": [
-    "intermittent",
-    "flickering"
+    "flickering",
+    "intermittent"
   ],
   "intermolecolare": [
     "intermolecular"
@@ -2761,8 +2768,8 @@
     "invertible"
   ],
   "invertire": [
-    "reverse",
-    "invert"
+    "invert",
+    "reverse"
   ],
   "investigare": [
     "investigate"
@@ -2857,8 +2864,8 @@
     "ion"
   ],
   "ionico": [
-    "ionic",
-    "ionian"
+    "ionian",
+    "ionic"
   ],
   "ionizzazione": [
     "ionisation",
@@ -2979,8 +2986,8 @@
     "iranian"
   ],
   "irascibile": [
-    "irascible",
-    "cantankerous"
+    "cantankerous",
+    "irascible"
   ],
   "iride": [
     "iris"

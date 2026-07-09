@@ -1,10 +1,4 @@
 {
-  "zuppa":[
-    "soup"
-  ],
-  "zerbino":[
-    "doormat"
-  ],
   "zafferano": [
     "saffron"
   ],
@@ -59,6 +53,9 @@
   ],
   "zenzero": [
     "ginger"
+  ],
+  "zerbino": [
+    "doormat"
   ],
   "zero": [
     "nil",
@@ -141,6 +138,9 @@
   ],
   "zucchero": [
     "sugar"
+  ],
+  "zuppa": [
+    "soup"
   ],
   "zuppiera": [
     "tureen"

@@ -21,8 +21,8 @@
   ],
   "ebreo": [
     "Hebrew",
-    "Jewish",
-    "Jew"
+    "Jew",
+    "Jewish"
   ],
   "ecatombe": [
     "hecatomb"
@@ -168,6 +168,9 @@
   "editorialista": [
     "columnist",
     "editorialist"
+  ],
+  "editto": [
+    "edict"
   ],
   "edizione": [
     "edition"
@@ -775,15 +778,12 @@
   "entusiasmare": [
     "excite"
   ],
-  "editto":[
-    "edict"
-  ],
   "entusiasmo": [
     "enthusiasm"
   ],
   "entusiasta": [
-    "keen",
-    "enthusiastic"
+    "enthusiastic",
+    "keen"
   ],
   "enumerabile": [
     "enumerable"
@@ -962,6 +962,7 @@
     "misunderstanding"
   ],
   "era": [
+    "age",
     "era"
   ],
   "eradicare": [
@@ -1138,13 +1139,13 @@
   "esatto": [
     "exact"
   ],
-  "esaurire": [
-    "exhaust"
-  ],
-  "esaudire":[
+  "esaudire": [
     "fulfil",
     "fulfill",
     "grant"
+  ],
+  "esaurire": [
+    "exhaust"
   ],
   "esaustivo": [
     "exhaustive"
@@ -1343,8 +1344,8 @@
     "expansionist"
   ],
   "espansivo": [
-    "outgoing",
-    "expansive"
+    "expansive",
+    "outgoing"
   ],
   "espatrio": [
     "expatriation"
@@ -1543,16 +1544,16 @@
   "estinguere": [
     "extinguish"
   ],
+  "estinto": [
+    "extinct",
+    "extinguished"
+  ],
   "estintore": [
     "extinguisher",
     "fire extinguisher"
   ],
   "estinzione": [
     "extinction"
-  ],
-  "estinto":[
-    "extinguished",
-    "extinct"
   ],
   "estirpazione": [
     "extirpation"
@@ -1725,6 +1726,9 @@
   ],
   "ettaro": [
     "hectare"
+  ],
+  "età": [
+    "age"
   ],
   "eucarestia": [
     "eucharist"

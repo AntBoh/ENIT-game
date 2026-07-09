@@ -1,4 +1,7 @@
 {
+  "quaderno": [
+    "notebook"
+  ],
   "quadrangolare": [
     "quadrangular"
   ],
@@ -70,8 +73,7 @@
   ],
   "qualunque": [
     "any",
-    "either",
-    "whoever"
+    "either"
   ],
   "qualunque cosa": [
     "anything"
@@ -211,11 +213,11 @@
   "quattordicimila": [
     "fourteenthousand"
   ],
-  "quattrocentesimo": [
-    "fourhundredth"
-  ],
   "quattro": [
     "four"
+  ],
+  "quattrocentesimo": [
+    "fourhundredth"
   ],
   "quattrocento": [
     "fourhundred"

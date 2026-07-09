@@ -1,8 +1,8 @@
 {
   "d'ora in avanti": [
+    "from now on",
     "henceforth",
-    "hereby",
-    "from now on"
+    "hereby"
   ],
   "da": [
     "by",
@@ -20,16 +20,16 @@
     "somewhere"
   ],
   "dado": [
+    "dice",
     "die",
-    "nut",
-    "dice"
+    "nut"
   ],
   "daltonismo": [
     "daltonism"
   ],
   "dama": [
-    "lady",
-    "checkers"
+    "checkers",
+    "lady"
   ],
   "Damasco": [
     "Damascus"
@@ -53,8 +53,8 @@
     "harm"
   ],
   "dannoso": [
-    "noxious",
-    "harmful"
+    "harmful",
+    "noxious"
   ],
   "danza": [
     "dance",
@@ -188,9 +188,9 @@
     "decency"
   ],
   "decesso": [
-    "demise",
     "death",
-    "decease"
+    "decease",
+    "demise"
   ],
   "decibel": [
     "decibel"
@@ -246,10 +246,10 @@
     "decolonization"
   ],
   "decolorazione": [
-    "decolourisation",
     "decolorisation",
-    "decolourization",
-    "decolorization"
+    "decolorization",
+    "decolourisation",
+    "decolourization"
   ],
   "decompilare": [
     "decompile"
@@ -716,11 +716,11 @@
   "deragliamento": [
     "derailment"
   ],
-  "derapare":[
-    "drift"
-  ],
   "deragliare": [
     "derail"
+  ],
+  "derapare": [
+    "drift"
   ],
   "derisione": [
     "derision"
@@ -931,9 +931,9 @@
     "devastation"
   ],
   "deviare": [
-    "divert",
+    "deflect",
     "deviate",
-    "deflect"
+    "divert"
   ],
   "deviazione": [
     "detour",
@@ -1097,9 +1097,9 @@
     "declaredly"
   ],
   "dichiarazione": [
-    "statement",
     "declaration",
-    "proposal"
+    "proposal",
+    "statement"
   ],
   "diciannove": [
     "nineteen"
@@ -1221,10 +1221,10 @@
     "distrust"
   ],
   "diffondere": [
+    "diffuse",
     "disseminate",
     "popularise",
-    "spread",
-    "diffuse"
+    "spread"
   ],
   "diffrazione": [
     "diffraction"
@@ -1395,9 +1395,9 @@
     "employee"
   ],
   "dipendenza": [
+    "addiction",
     "dependence",
-    "dependency",
-    "addiction"
+    "dependency"
   ],
   "dipendere": [
     "depend"
@@ -1489,8 +1489,8 @@
     "straight"
   ],
   "dirupo": [
-    "crag",
-    "cliff"
+    "cliff",
+    "crag"
   ],
   "disabilitare": [
     "disable"
@@ -1542,6 +1542,10 @@
   ],
   "disattivazione": [
     "deactivation"
+  ],
+  "discarica": [
+    "dump",
+    "dumpster"
   ],
   "discendente": [
     "downward"
@@ -1745,12 +1749,12 @@
     "dishonest"
   ],
   "disonorare": [
-    "dishonour",
-    "dishonor"
+    "dishonor",
+    "dishonour"
   ],
   "disonore": [
-    "dishonour",
-    "dishonor"
+    "dishonor",
+    "dishonour"
   ],
   "disordine": [
     "disorder",
@@ -1814,6 +1818,7 @@
   "disposizione": [
     "disposal",
     "disposition",
+    "layout",
     "provision",
     "regulation",
     "willingness"
@@ -1995,8 +2000,8 @@
   ],
   "disturbo": [
     "annoyance",
-    "disturbance",
-    "disorder"
+    "disorder",
+    "disturbance"
   ],
   "disuguaglianza": [
     "inequality"
@@ -2311,8 +2316,8 @@
     "afterall"
   ],
   "doppiaggio": [
-    "dubbing",
-    "dub"
+    "dub",
+    "dubbing"
   ],
   "doppiamente": [
     "doubly"
@@ -2337,8 +2342,8 @@
     "doric"
   ],
   "dormiente": [
-    "sleeping",
-    "dormant"
+    "dormant",
+    "sleeping"
   ],
   "dormire": [
     "sleep"
@@ -2386,7 +2391,6 @@
     "where"
   ],
   "dovere": [
-    " have to",
     "duty",
     "homework",
     "owe",
@@ -2494,8 +2498,8 @@
     "dune"
   ],
   "dunque": [
-    "therefore",
-    "so"
+    "so",
+    "therefore"
   ],
   "duodecimale": [
     "duodecimal"

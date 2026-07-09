@@ -44,7 +44,8 @@
   ],
   "jar": [
     "giara",
-    "vaso"
+    "vaso",
+    "barattolo"
   ],
   "jasmine": [
     "gelsomino"

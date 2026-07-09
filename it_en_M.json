@@ -59,9 +59,6 @@
   "madrileno": [
     "Madridian"
   ],
-  "manufatto":[
-    "artifact"
-  ],
   "madrina": [
     "godmother"
   ],
@@ -69,8 +66,6 @@
     "majestically"
   ],
   "maestranze": [
-    "staff",
-    "team",
     "template"
   ],
   "maestro": [
@@ -168,8 +163,8 @@
   "magnifico": [
     "glorious",
     "magnificent",
-    "superb",
-    "splendid"
+    "splendid",
+    "superb"
   ],
   "magnitudine": [
     "magnitude"
@@ -178,10 +173,10 @@
     "magnitude"
   ],
   "mago": [
-    "magician",
-    "wizard",
     "mage",
-    "warlock"
+    "magician",
+    "warlock",
+    "wizard"
   ],
   "magrebino": [
     "maghrebian"
@@ -231,9 +226,9 @@
     "headache"
   ],
   "male": [
+    "bad",
     "badly",
-    "evil",
-    "bad"
+    "evil"
   ],
   "maledire": [
     "curse"
@@ -260,8 +255,8 @@
     "although"
   ],
   "maligno": [
-    "malignant",
-    "evil"
+    "evil",
+    "malignant"
   ],
   "malizia": [
     "malice"
@@ -318,11 +313,11 @@
     "lack",
     "miss"
   ],
+  "mancia": [
+    "tip"
+  ],
   "mancino": [
     "left-handed"
-  ],
-  "mancia":[
-    "tip"
   ],
   "mandante": [
     "mandator"
@@ -452,6 +447,9 @@
     "handle",
     "handlebar"
   ],
+  "manufatto": [
+    "artifact"
+  ],
   "manutenzione": [
     "maintenance"
   ],
@@ -538,8 +536,8 @@
     "marginally"
   ],
   "margine": [
-    "margin",
-    "edge"
+    "edge",
+    "margin"
   ],
   "marinaio": [
     "sailor"
@@ -551,7 +549,8 @@
     "marine"
   ],
   "marionetta": [
-    "marionette"
+    "marionette",
+    "puppet"
   ],
   "maritale": [
     "marital"
@@ -707,8 +706,8 @@
     "mastodon"
   ],
   "matematica": [
-    "mathematics",
     "math",
+    "mathematics",
     "maths"
   ],
   "matematicamente": [
@@ -858,9 +857,6 @@
   "mediale": [
     "medial"
   ],
-  "mediante": [
-    "by mean sof"
-  ],
   "mediazione": [
     "mediation"
   ],
@@ -984,9 +980,9 @@
   ],
   "meno": [
     "fewer",
-    "minus",
     "least",
-    "less"
+    "less",
+    "minus"
   ],
   "menopausa": [
     "menopause"
@@ -1041,8 +1037,9 @@
     "purely"
   ],
   "meraviglia": [
-    "wonder",
-    "marvel"
+    "amazement",
+    "marvel",
+    "wonder"
   ],
   "meraviglioso": [
     "marvelous",
@@ -1064,7 +1061,8 @@
     "stock market"
   ],
   "merce": [
-    "commodity"
+    "commodity",
+    "freight"
   ],
   "mercenario": [
     "mercenary"
@@ -1108,9 +1106,9 @@
     "mere"
   ],
   "mescolare": [
-    "stir",
+    "blend",
     "mix",
-    "blend"
+    "stir"
   ],
   "mese": [
     "month"
@@ -1277,8 +1275,8 @@
     "metric"
   ],
   "metro": [
-    "metre",
     "meter",
+    "metre",
     "subway"
   ],
   "metrologia": [
@@ -1488,8 +1486,8 @@
     "militarily"
   ],
   "milizia": [
-    "militia",
-    "army"
+    "army",
+    "militia"
   ],
   "mille": [
     "tenhundred",
@@ -1509,12 +1507,12 @@
     "milligramme"
   ],
   "millilitro": [
-    "millilitre",
-    "milliliter"
+    "milliliter",
+    "millilitre"
   ],
   "millimetro": [
-    "millimetre",
-    "millimeter"
+    "millimeter",
+    "millimetre"
   ],
   "millisecondo": [
     "millisecond"
@@ -1555,7 +1553,8 @@
     "mining"
   ],
   "minestra": [
-    "soup"
+    "soup",
+    "stew"
   ],
   "miniatura": [
     "miniature"
@@ -1606,8 +1605,8 @@
     "minuet"
   ],
   "minuscolo": [
-    "minuscule",
-    "lowercase"
+    "lowercase",
+    "minuscule"
   ],
   "minuto": [
     "minute",
@@ -1659,6 +1658,9 @@
   ],
   "miriade": [
     "plethora"
+  ],
+  "mirino": [
+    "scope"
   ],
   "mirra": [
     "myrrh"
@@ -1732,8 +1734,8 @@
   ],
   "misura": [
     "measure",
-    "size",
-    "measurement"
+    "measurement",
+    "size"
   ],
   "misurabile": [
     "measurable"
@@ -1848,8 +1850,8 @@
     "modification"
   ],
   "modificabile": [
-    "modifiable",
-    "editable"
+    "editable",
+    "modifiable"
   ],
   "modificare": [
     "amend",
@@ -1941,11 +1943,11 @@
     "moment",
     "momentum"
   ],
-  "Monaco": [
-    "Munich"
-  ],
   "monaco": [
     "monk"
+  ],
+  "Monaco": [
+    "Munich"
   ],
   "monarca": [
     "monarch"
@@ -2227,9 +2229,6 @@
   "moscovito": [
     "Muscovite"
   ],
-  "muso":[
-    "snout"
-  ],
   "mossa": [
     "move"
   ],
@@ -2389,8 +2388,8 @@
     "municipal"
   ],
   "municipio": [
-    "town hall",
-    "city hall"
+    "city hall",
+    "town hall"
   ],
   "munizione": [
     "ammunition"
@@ -2456,6 +2455,9 @@
   ],
   "musicologia": [
     "musicology"
+  ],
+  "muso": [
+    "snout"
   ],
   "mussulmano": [
     "muslim"

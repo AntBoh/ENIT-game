@@ -42,8 +42,8 @@
     "cutting"
   ],
   "taglio": [
-    "shear",
-    "cut"
+    "cut",
+    "shear"
   ],
   "tailandese": [
     "thai"
@@ -119,9 +119,6 @@
   ],
   "taoismo": [
     "taoism"
-  ],
-  "tappa": [
-    "stage"
   ],
   "tappetino": [
     "mat"
@@ -222,6 +219,9 @@
   ],
   "te stesso": [
     "yourself"
+  ],
+  "team": [
+    "team"
   ],
   "teatrale": [
     "theatrical"
@@ -390,9 +390,12 @@
     "temperature"
   ],
   "temperino": [
+    "pencil sharpener",
     "penknife",
-    "sharpener",
-    "pencil sharpener"
+    "sharpener"
+  ],
+  "tempesta": [
+    "storm"
   ],
   "tempio": [
     "temple"
@@ -786,16 +789,16 @@
     "dye"
   ],
   "tintinnare": [
-    "tinkle",
-    "jingle",
     "clink",
-    "ring"
+    "jingle",
+    "ring",
+    "tinkle"
   ],
   "tintinnio": [
-    "tinkle",
-    "jingle",
     "clink",
-    "ring"
+    "jingle",
+    "ring",
+    "tinkle"
   ],
   "tintura": [
     "dyeing"
@@ -844,8 +847,8 @@
     "throw"
   ],
   "tirocinio": [
-    "training",
-    "apprenticeship"
+    "apprenticeship",
+    "training"
   ],
   "tiroide": [
     "thyroid"
@@ -923,8 +926,8 @@
     "tonsil"
   ],
   "tonto": [
-    "foolish",
-    "dumb"
+    "dumb",
+    "foolish"
   ],
   "topico": [
     "topical"
@@ -1036,11 +1039,11 @@
   "torturare": [
     "torture"
   ],
+  "tosare": [
+    "shear"
+  ],
   "tosatura": [
     "shearing"
-  ],
-  "tosare":[
-    "shear"
   ],
   "tosse": [
     "cough"
@@ -1053,6 +1056,9 @@
   ],
   "tossina": [
     "toxin"
+  ],
+  "tossire": [
+    "cough"
   ],
   "tostapane": [
     "toaster"
@@ -1191,16 +1197,16 @@
     "plot"
   ],
   "tramare": [
-    "weave",
-    "plot"
+    "plot",
+    "weave"
   ],
   "trambusto": [
     "bustle"
   ],
   "tramite": [
-    "through",
+    "by",
     "medium",
-    "by"
+    "through"
   ],
   "trance": [
     "hardship"
@@ -1400,8 +1406,8 @@
     "treatment"
   ],
   "trattino": [
-    "hyphen",
-    "dash"
+    "dash",
+    "hyphen"
   ],
   "tratto": [
     "stretch",
@@ -1652,6 +1658,9 @@
   "trittico": [
     "triptych"
   ],
+  "triturare": [
+    "grind"
+  ],
   "triumvirato": [
     "triumvirate"
   ],
@@ -1726,8 +1735,8 @@
     "trick"
   ],
   "truffa": [
-    "swindle",
-    "scam"
+    "scam",
+    "swindle"
   ],
   "truppa": [
     "troop"
