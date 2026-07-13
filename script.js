@@ -488,24 +488,6 @@ document.querySelectorAll(".accordion-btn").forEach(btn => {
     sidebar.classList.remove("open");
   });
 
-  resetButton.addEventListener("click", () => {
-    if (!confirm("Sei sicuro di resettare tutto?")) return;
-
-    progress = { en_it: {}, it_en: {} };
-
-    localStorage.removeItem("progress");
-
-    feedback.textContent = "Progressi resettati!";
-    feedback.style.color = "orange";
-
-    counters = { completed: 0, translations: 0 };
-    localStorage.removeItem("counters");
-
-    chooseWord();
-    renderWorddexAccordion();
-    updateCounters();
-  });
-
 
 
 
