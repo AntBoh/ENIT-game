@@ -1,93 +1,115 @@
-{
-  "yard": [
-    {"id": 15995,"text": ["cortile"]}
-  ],
-  "yawn": [
-    {"id": 15996,"text": ["sbadigliare"]},
-    {"id": 15997,"text": ["sbadiglio"]}
-  ],
-  "year": [
-    {"id": 15998,"text": ["anno"]}
-  ],
-  "yearbook": [
-    {"id": 15999,"text": ["annuario"]}
-  ],
-  "yearly": [
-    {"id": 16000,"text": ["annuale"]}
-  ],
-  "yeast": [
-    {"id": 16001,"text": ["lievito"]}
-  ],
-  "yellow": [
-    {"id": 16002,"text": ["giallo"]}
-  ],
-  "yellowish": [
-    {"id": 16003,"text": ["giallastro"]}
-  ],
-  "yesterday": [
-    {"id": 16004,"text": ["ieri"]}
-  ],
-  "yet": [
-    {"id": 16005,"text": ["ancora"]},
-    {"id": 16006,"text": ["già"]}
-  ],
-  "yield": [
-    {"id": 16007,"text": ["cedere"]},
-    {"id": 16008,"text": ["raccolto"]}
-  ],
-  "yielding": [
-    {"id": 16009,"text": ["lucrativo"]}
-  ],
-  "yoghurt": [
-    {"id": 16010,"text": ["yogurt"]}
-  ],
-  "yoke": [
-    {"id": 16011,"text": ["giogo"]}
-  ],
-  "you": [
-    {"id": 16012,"text": ["te"]},
-    {"id": 16013,"text": ["ti"]},
-    {"id": 16014,"text": ["tu"]},
-    {"id": 16015,"text": ["vi"]},
-    {"id": 16016,"text": ["voi"]}
-  ],
-  "young": [
-    {"id": 16017,"text": ["giovane"]}
-  ],
-  "youngster": [
-    {"id": 16018,"text": ["giovane"]}
-  ],
-  "your": [
-    {"id": 16019,"text": ["tua"]},
-    {"id": 16020,"text": ["tue"]},
-    {"id": 16021,"text": ["tuo"]},
-    {"id": 16022,"text": ["tuoi"]},
-    {"id": 16023,"text": ["vostra"]},
-    {"id": 16024,"text": ["vostre"]},
-    {"id": 16025,"text": ["vostri"]},
-    {"id": 16026,"text": ["vostro"]}
-  ],
-  "yours": [
-    {"id": 16027,"text": ["tuo"]},
-    {"id": 16028,"text": ["vostro"]}
-  ],
-  "yourself": [
-    {"id": 16029,"text": ["te stesso"]}
-  ],
-  "yourselves": [
-    {"id": 16030,"text": ["voi stessi"]}
-  ],
-  "youth": [
-    {"id": 16031,"text": ["gioventù"]},
-    {"id": 16032,"text": ["giovinezza"]}
-  ],
-  "youth centre": [
-    {"id": 16033,"text": ["centro giovanile"]}
-  ],
-  "yttrium": [
-    {"id": 16034,"text": ["ittrio"]}
-  ],
-  "yugoslavian": [
-    {"id": 16035,"text": ["iugoslavo"]}
-  ]
-}
+{"yard": [
+  {"id":15995,"text":["cortile"]}
+ ],
+
+"yawn": [
+  {"id":15996,"text":["sbadigliare"]},
+  {"id":15997,"text":["sbadiglio"]}
+ ],
+
+"year": [
+  {"id":15998,"text":["anno"]}
+ ],
+
+"yearbook": [
+  {"id":15999,"text":["annuario"]}
+ ],
+
+"yearly": [
+  {"id":16000,"text":["annuale"]}
+ ],
+
+"yeast": [
+  {"id":16001,"text":["lievito"]}
+ ],
+
+"yellow": [
+  {"id":16002,"text":["giallo"]}
+ ],
+
+"yellowish": [
+  {"id":16003,"text":["giallastro"]}
+ ],
+
+"yesterday": [
+  {"id":16004,"text":["ieri"]}
+ ],
+
+"yet": [
+  {"id":16005,"text":["ancora"]},
+  {"id":16006,"text":["già"]}
+ ],
+
+"yield": [
+  {"id":16007,"text":["cedere"]},
+  {"id":16008,"text":["raccolto"]}
+ ],
+
+"yielding": [
+  {"id":16009,"text":["lucrativo"]}
+ ],
+
+"yoghurt": [
+  {"id":16010,"text":["yogurt"]}
+ ],
+
+"yoke": [
+  {"id":16011,"text":["giogo"]}
+ ],
+
+"you": [
+  {"id":16012,"text":["te"]},
+  {"id":16013,"text":["ti"]},
+  {"id":16014,"text":["tu"]},
+  {"id":16015,"text":["vi"]},
+  {"id":16016,"text":["voi"]}
+ ],
+
+"young": [
+  {"id":16017,"text":["giovane"]}
+ ],
+
+"youngster": [
+  {"id":16018,"text":["giovane"]}
+ ],
+
+"your": [
+  {"id":16019,"text":["tua"]},
+  {"id":16020,"text":["tue"]},
+  {"id":16021,"text":["tuo"]},
+  {"id":16022,"text":["tuoi"]},
+  {"id":16023,"text":["vostra"]},
+  {"id":16024,"text":["vostre"]},
+  {"id":16025,"text":["vostri"]},
+  {"id":16026,"text":["vostro"]}
+ ],
+
+"yours": [
+  {"id":16027,"text":["tuo"]},
+  {"id":16028,"text":["vostro"]}
+ ],
+
+"yourself": [
+  {"id":16029,"text":["te stesso"]}
+ ],
+
+"yourselves": [
+  {"id":16030,"text":["voi stessi"]}
+ ],
+
+"youth": [
+  {"id":16031,"text":["gioventù"]},
+  {"id":16032,"text":["giovinezza"]}
+ ],
+
+"youth centre": [
+  {"id":16033,"text":["centro giovanile"]}
+ ],
+
+"yttrium": [
+  {"id":16034,"text":["ittrio"]}
+ ],
+
+"yugoslavian": [
+  {"id":16035,"text":["iugoslavo"]}
+ ]}

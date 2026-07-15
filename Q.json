@@ -1,155 +1,198 @@
-{
-  "quadrangular": [
-    {"id": 11726,"text": ["quadrangolare"]}
-  ],
-  "quadrant": [
-    {"id": 11727,"text": ["quadrante"]}
-  ],
-  "quadratic": [
-    {"id": 11728,"text": ["quadratico"]}
-  ],
-  "quadrature": [
-    {"id": 11729,"text": ["quadratura"]}
-  ],
-  "quadrilateral": [
-    {"id": 11730,"text": ["quadrilatero"]}
-  ],
-  "quadruped": [
-    {"id": 11731,"text": ["quadrupede"]}
-  ],
-  "quail": [
-    {"id": 11732,"text": ["quaglia"]}
-  ],
-  "quaint": [
-    {"id": 11733,"text": ["bizzarro"]},
-    {"id": 11734,"text": ["pittoresco"]},
-    {"id": 11735,"text": ["strano"]}
-  ],
-  "qualification": [
-    {"id": 11736,"text": ["qualificazione"]}
-  ],
-  "qualified": [
-    {"id": 11737,"text": ["qualificato"]}
-  ],
-  "qualify": [
-    {"id": 11738,"text": ["qualificare"]}
-  ],
-  "qualitatively": [
-    {"id": 11739,"text": ["qualitativamente"]}
-  ],
-  "quantifiable": [
-    {"id": 11740,"text": ["quantificabile"]}
-  ],
-  "quantifier": [
-    {"id": 11741,"text": ["quantificatore"]}
-  ],
-  "quantify": [
-    {"id": 11742,"text": ["quantificare"]}
-  ],
-  "quantitatively": [
-    {"id": 11743,"text": ["quantitativamente"]}
-  ],
-  "quantity": [
-    {"id": 11744,"text": ["quantitativo"]},
-    {"id": 11745,"text": ["quantità"]}
-  ],
-  "quantization": [
-    {"id": 11746,"text": ["quantizzazione"]}
-  ],
-  "quantum": [
-    {"id": 11747,"text": ["quantistico"]},
-    {"id": 11748,"text": ["quanto"]}
-  ],
-  "quarantine": [
-    {"id": 11749,"text": ["quarantena"]}
-  ],
-  "quark": [
-    {"id": 11750,"text": ["quark"]}
-  ],
-  "quarrel": [
-    {"id": 11751,"text": ["litigio"]}
-  ],
-  "quarrelsome": [
-    {"id": 11752,"text": ["litigioso"]}
-  ],
-  "quarry": [
-    {"id": 11753,"text": ["cava"]}
-  ],
-  "quarter": [
-    {"id": 11754,"text": ["quartiere"]},
-    {"id": 11755,"text": ["quarto"]}
-  ],
-  "quarterly": [
-    {"id": 11756,"text": ["trimestrale"]}
-  ],
-  "quartz": [
-    {"id": 11757,"text": ["quarzo"]}
-  ],
-  "quaver": [
-    {"id": 11758,"text": ["croma"]}
-  ],
-  "queen": [
-    {"id": 11759,"text": ["regina"]}
-  ],
-  "query": [
-    {"id": 11760,"text": ["consulta"]}
-  ],
-  "question": [
-    {"id": 11761,"text": ["domanda"]},
-    {"id": 11762,"text": ["domandare"]},
-    {"id": 11763,"text": ["interrogativo"]},
-    {"id": 11764,"text": ["questionare"]},
-    {"id": 11765,"text": ["questione"]}
-  ],
-  "question mark": [
-    {"id": 11766,"text": ["punto interrogativo"]}
-  ],
-  "questionable": [
-    {"id": 11767,"text": ["discutibile"]}
-  ],
-  "questionnaire": [
-    {"id": 11768,"text": ["questionario"]}
-  ],
-  "quick": [
-    {"id": 11769,"text": ["rapidamente"]},
-    {"id": 11770,"text": ["rapido"]}
-  ],
-  "quickly": [
-    {"id": 11771,"text": ["rapidamente"]},
-    {"id": 11772,"text": ["velocemente"]}
-  ],
-  "quiet": [
-    {"id": 11773,"text": ["silenzioso"]},
-    {"id": 11774,"text": ["tranquillo"]}
-  ],
-  "quietly": [
-    {"id": 11775,"text": ["silenziosamente"]}
-  ],
-  "quinine": [
-    {"id": 11776,"text": ["chinino"]}
-  ],
-  "quintet": [
-    {"id": 11777,"text": ["quintetto"]}
-  ],
-  "quit": [
-    {"id": 11778,"text": ["abbandonare"]},
-    {"id": 11779,"text": ["smettere"]},
-    {"id": 11780,"text": ["uscire"]}
-  ],
-  "quite": [
-    {"id": 11781,"text": ["abbastanza"]}
-  ],
-  "quota": [
-    {"id": 11782,"text": ["quota"]}
-  ],
-  "quotation": [
-    {"id": 11783,"text": ["quotazione"]}
-  ],
-  "quotation mark": [
-    {"id": 11784,"text": ["virgolette"]}
-  ],
-  "quote": [
-    {"id": 11785,"text": ["citare"]},
-    {"id": 11786,"text": ["citazione"]}
-  ]
-}
+{"quadrangular": [
+  {"id":11726,"text":["quadrangolare"]}
+ ],
+
+"quadrant": [
+  {"id":11727,"text":["quadrante"]}
+ ],
+
+"quadratic": [
+  {"id":11728,"text":["quadratico"]}
+ ],
+
+"quadrature": [
+  {"id":11729,"text":["quadratura"]}
+ ],
+
+"quadrilateral": [
+  {"id":11730,"text":["quadrilatero"]}
+ ],
+
+"quadruped": [
+  {"id":11731,"text":["quadrupede"]}
+ ],
+
+"quail": [
+  {"id":11732,"text":["quaglia"]}
+ ],
+
+"quaint": [
+  {"id":11733,"text":["bizzarro"]},
+  {"id":11734,"text":["pittoresco"]},
+  {"id":11735,"text":["strano"]}
+ ],
+
+"qualification": [
+  {"id":11736,"text":["qualificazione"]}
+ ],
+
+"qualified": [
+  {"id":11737,"text":["qualificato"]}
+ ],
+
+"qualify": [
+  {"id":11738,"text":["qualificare"]}
+ ],
+
+"qualitatively": [
+  {"id":11739,"text":["qualitativamente"]}
+ ],
+
+"quantifiable": [
+  {"id":11740,"text":["quantificabile"]}
+ ],
+
+"quantifier": [
+  {"id":11741,"text":["quantificatore"]}
+ ],
+
+"quantify": [
+  {"id":11742,"text":["quantificare"]}
+ ],
+
+"quantitatively": [
+  {"id":11743,"text":["quantitativamente"]}
+ ],
+
+"quantity": [
+  {"id":11744,"text":["quantitativo"]},
+  {"id":11745,"text":["quantità"]}
+ ],
+
+"quantization": [
+  {"id":11746,"text":["quantizzazione"]}
+ ],
+
+"quantum": [
+  {"id":11747,"text":["quantistico"]},
+  {"id":11748,"text":["quanto"]}
+ ],
+
+"quarantine": [
+  {"id":11749,"text":["quarantena"]}
+ ],
+
+"quark": [
+  {"id":11750,"text":["quark"]}
+ ],
+
+"quarrel": [
+  {"id":11751,"text":["litigio"]}
+ ],
+
+"quarrelsome": [
+  {"id":11752,"text":["litigioso"]}
+ ],
+
+"quarry": [
+  {"id":11753,"text":["cava"]}
+ ],
+
+"quarter": [
+  {"id":11754,"text":["quartiere"]},
+  {"id":11755,"text":["quarto"]}
+ ],
+
+"quarterly": [
+  {"id":11756,"text":["trimestrale"]}
+ ],
+
+"quartz": [
+  {"id":11757,"text":["quarzo"]}
+ ],
+
+"quaver": [
+  {"id":11758,"text":["croma"]}
+ ],
+
+"queen": [
+  {"id":11759,"text":["regina"]}
+ ],
+
+"query": [
+  {"id":11760,"text":["consulta"]}
+ ],
+
+"question": [
+  {"id":11761,"text":["domanda"]},
+  {"id":11762,"text":["domandare"]},
+  {"id":11763,"text":["interrogativo"]},
+  {"id":11764,"text":["questionare"]},
+  {"id":11765,"text":["questione"]}
+ ],
+
+"question mark": [
+  {"id":11766,"text":["punto interrogativo"]}
+ ],
+
+"questionable": [
+  {"id":11767,"text":["discutibile"]}
+ ],
+
+"questionnaire": [
+  {"id":11768,"text":["questionario"]}
+ ],
+
+"quick": [
+  {"id":11769,"text":["rapidamente"]},
+  {"id":11770,"text":["rapido"]}
+ ],
+
+"quickly": [
+  {"id":11771,"text":["rapidamente"]},
+  {"id":11772,"text":["velocemente"]}
+ ],
+
+"quiet": [
+  {"id":11773,"text":["silenzioso"]},
+  {"id":11774,"text":["tranquillo"]}
+ ],
+
+"quietly": [
+  {"id":11775,"text":["silenziosamente"]}
+ ],
+
+"quinine": [
+  {"id":11776,"text":["chinino"]}
+ ],
+
+"quintet": [
+  {"id":11777,"text":["quintetto"]}
+ ],
+
+"quit": [
+  {"id":11778,"text":["abbandonare"]},
+  {"id":11779,"text":["smettere"]},
+  {"id":11780,"text":["uscire"]}
+ ],
+
+"quite": [
+  {"id":11781,"text":["abbastanza"]}
+ ],
+
+"quota": [
+  {"id":11782,"text":["quota"]}
+ ],
+
+"quotation": [
+  {"id":11783,"text":["quotazione"]}
+ ],
+
+"quotation mark": [
+  {"id":11784,"text":["virgolette"]}
+ ],
+
+"quote": [
+  {"id":11785,"text":["citare"]},
+  {"id":11786,"text":["citazione"]}
+ ]}

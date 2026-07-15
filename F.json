@@ -1,1826 +1,2384 @@
-{
-  "fabric": [
-    {"id": 5581,"text": ["tessuto"]}
-  ],
-  "fabricate": [
-    {"id": 5582,"text": ["fabbricare"]}
-  ],
-  "fabulation": [
-    {"id": 5583,"text": ["affabulazione"]}
-  ],
-  "face": [
-    {"id": 5584,"text": ["affrontare"]},
-    {"id": 5585,"text": ["faccia"]},
-    {"id": 5586,"text": ["viso"]},
-    {"id": 5587,"text": ["volto"]}
-  ],
-  "facet": [
-    {"id": 5588,"text": ["sfaccettatura"]}
-  ],
-  "facial": [
-    {"id": 5589,"text": ["facciale"]}
-  ],
-  "facile": [
-    {"id": 5590,"text": ["semplice"]}
-  ],
-  "facilitate": [
-    {"id": 5591,"text": ["facilitare"]}
-  ],
-  "facilitation": [
-    {"id": 5592,"text": ["agevolazione"]},
-    {"id": 5593,"text": ["facilitazione"]}
-  ],
-  "facility": [
-    {"id": 5594,"text": ["impianto"]}
-  ],
-  "fact": [
-    {"id": 5595,"text": ["fatto"]}
-  ],
-  "faction": [
-    {"id": 5596,"text": ["fazione"]}
-  ],
-  "factor": [
-    {"id": 5597,"text": ["fattore"]},
-    {"id": 5598,"text": ["sostanza"]}
-  ],
-  "factorial": [
-    {"id": 5599,"text": ["fattoriale"]}
-  ],
-  "factorisation": [
-    {"id": 5600,"text": ["fattorizzazione"]}
-  ],
-  "factory": [
-    {"id": 5601,"text": ["fabbrica"]}
-  ],
-  "faecal": [
-    {"id": 5602,"text": ["fecale"]}
-  ],
-  "faeces": [
-    {"id": 5603,"text": ["feci"]}
-  ],
-  "fail": [
-    {"id": 5604,"text": ["fallire"]}
-  ],
-  "failure": [
-    {"id": 5605,"text": ["fallimento"]},
-    {"id": 5606,"text": ["fallo"]}
-  ],
-  "fair": [
-    {"id": 5607,"text": ["chiaro"]},
-    {"id": 5608,"text": ["fiera"]},
-    {"id": 5609,"text": ["giusto"]}
-  ],
-  "fairly": [
-    {"id": 5610,"text": ["abbastanza"]}
-  ],
-  "fairy": [
-    {"id": 5611,"text": ["fata"]}
-  ],
-  "faith": [
-    {"id": 5612,"text": ["fede"]}
-  ],
-  "faithful": [
-    {"id": 5613,"text": ["fedele"]}
-  ],
-  "faithfully": [
-    {"id": 5614,"text": ["fedelmente"]}
-  ],
-  "fake": [
-    {"id": 5615,"text": ["contraffazione"]},
-    {"id": 5616,"text": ["falsificare"]},
-    {"id": 5617,"text": ["falso"]},
-    {"id": 5618,"text": ["finto"]}
-  ],
-  "falangist": [
-    {"id": 5619,"text": ["falangista"]}
-  ],
-  "falconry": [
-    {"id": 5620,"text": ["falconeria"]}
-  ],
-  "fall": [
-    {"id": 5621,"text": ["autunno"]},
-    {"id": 5622,"text": ["cadere"]},
-    {"id": 5623,"text": ["caduta"]},
-    {"id": 5624,"text": ["cascare"]}
-  ],
-  "fallacy": [
-    {"id": 5625,"text": ["fallacia"]}
-  ],
-  "fallible": [
-    {"id": 5626,"text": ["fallibile"]}
-  ],
-  "false": [
-    {"id": 5627,"text": ["falso"]}
-  ],
-  "falsely": [
-    {"id": 5628,"text": ["falsamente"]}
-  ],
-  "falsify": [
-    {"id": 5629,"text": ["falsificare"]}
-  ],
-  "fame": [
-    {"id": 5630,"text": ["fama"]}
-  ],
-  "familiar": [
-    {"id": 5631,"text": ["familiare"]}
-  ],
-  "family": [
-    {"id": 5632,"text": ["famiglia"]},
-    {"id": 5633,"text": ["familiare"]}
-  ],
-  "famine": [
-    {"id": 5634,"text": ["carestia"]}
-  ],
-  "famous": [
-    {"id": 5635,"text": ["celebre"]},
-    {"id": 5636,"text": ["famoso"]}
-  ],
-  "fan": [
-    {"id": 5637,"text": ["sventolare"]},
-    {"id": 5638,"text": ["ventaglio"]},
-    {"id": 5639,"text": ["ventilatore"]}
-  ],
-  "fanatical": [
-    {"id": 5640,"text": ["fanatico"]}
-  ],
-  "fanatically": [
-    {"id": 5641,"text": ["fanaticamente"]}
-  ],
-  "fanaticism": [
-    {"id": 5642,"text": ["fanatismo"]}
-  ],
-  "fancy": [
-    {"id": 5643,"text": ["desiderare"]},
-    {"id": 5644,"text": ["fantasia"]},
-    {"id": 5645,"text": ["stravagante"]}
-  ],
-  "fanfare": [
-    {"id": 5646,"text": ["fanfara"]}
-  ],
-  "fang": [
-    {"id": 5647,"text": ["zanna"]}
-  ],
-  "fantastic": [
-    {"id": 5648,"text": ["fantastico"]}
-  ],
-  "fantastically": [
-    {"id": 5649,"text": ["fantasticamente"]}
-  ],
-  "fantasy": [
-    {"id": 5650,"text": ["fantasia"]}
-  ],
-  "far": [
-    {"id": 5651,"text": ["lontano"]}
-  ],
-  "far-right": [
-    {"id": 5652,"text": ["ultradestra"]}
-  ],
-  "farce": [
-    {"id": 5653,"text": ["farsa"]}
-  ],
-  "farm": [
-    {"id": 5654,"text": ["coltivare"]},
-    {"id": 5655,"text": ["fattoria"]}
-  ],
-  "farmer": [
-    {"id": 5656,"text": ["contadino"]}
-  ],
-  "farming": [
-    {"id": 5657,"text": ["agricoltura"]}
-  ],
-  "farmyard": [
-    {"id": 5658,"text": ["aia"]}
-  ],
-  "fart": [
-    {"id": 5659,"text": ["flatulenza"]}
-  ],
-  "fascinating": [
-    {"id": 5660,"text": ["affascinante"]}
-  ],
-  "fascination": [
-    {"id": 5661,"text": ["fascino"]}
-  ],
-  "fascism": [
-    {"id": 5662,"text": ["fascismo"]}
-  ],
-  "fascist": [
-    {"id": 5663,"text": ["fascista"]}
-  ],
-  "fashion": [
-    {"id": 5664,"text": ["moda"]}
-  ],
-  "fast": [
-    {"id": 5665,"text": ["rapidamente"]},
-    {"id": 5666,"text": ["rapido"]},
-    {"id": 5667,"text": ["veloce"]}
-  ],
-  "fat": [
-    {"id": 5668,"text": ["grasso"]}
-  ],
-  "fatal": [
-    {"id": 5669,"text": ["fatale"]}
-  ],
-  "fatalism": [
-    {"id": 5670,"text": ["fatalismo"]}
-  ],
-  "fatalist": [
-    {"id": 5671,"text": ["fatalista"]}
-  ],
-  "fatalistic": [
-    {"id": 5672,"text": ["fatalista"]}
-  ],
-  "fate": [
-    {"id": 5673,"text": ["destino"]},
-    {"id": 5674,"text": ["fato"]}
-  ],
-  "fateful": [
-    {"id": 5675,"text": ["fatidico"]}
-  ],
-  "father": [
-    {"id": 5676,"text": ["padre"]}
-  ],
-  "fathomless": [
-    {"id": 5677,"text": ["insondabile"]}
-  ],
-  "fatigue": [
-    {"id": 5678,"text": ["fatica"]}
-  ],
-  "fatten": [
-    {"id": 5679,"text": ["ingrassare"]}
-  ],
-  "faucet": [
-    {"id": 5680,"text": ["rubinetto"]}
-  ],
-  "fault": [
-    {"id": 5681,"text": ["colpa"]},
-    {"id": 5682,"text": ["mancanza"]}
-  ],
-  "fauna": [
-    {"id": 5683,"text": ["fauna"]}
-  ],
-  "favor": [
-    {"id": 5684,"text": ["favore"]},
-    {"id": 5685,"text": ["favorire"]},
-    {"id": 5686,"text": ["privilegiare"]}
-  ],
-  "favorably": [
-    {"id": 5687,"text": ["favorevolmente"]}
-  ],
-  "favorite": [
-    {"id": 5688,"text": ["favorito"]},
-    {"id": 5689,"text": ["preferito"]}
-  ],
-  "favoritism": [
-    {"id": 5690,"text": ["favoritismo"]}
-  ],
-  "favour": [
-    {"id": 5691,"text": ["favore"]},
-    {"id": 5692,"text": ["favorire"]},
-    {"id": 5693,"text": ["privilegiare"]}
-  ],
-  "favourably": [
-    {"id": 5694,"text": ["favorevolmente"]}
-  ],
-  "favourite": [
-    {"id": 5695,"text": ["favorito"]},
-    {"id": 5696,"text": ["preferito"]}
-  ],
-  "favouritism": [
-    {"id": 5697,"text": ["favoritismo"]}
-  ],
-  "fawn": [
-    {"id": 5698,"text": ["cerbiatto"]}
-  ],
-  "fear": [
-    {"id": 5699,"text": ["paura"]},
-    {"id": 5700,"text": ["temere"]}
-  ],
-  "fearless": [
-    {"id": 5701,"text": ["osato"]}
-  ],
-  "fearsome": [
-    {"id": 5702,"text": ["temibile"]}
-  ],
-  "feasible": [
-    {"id": 5703,"text": ["fattibile"]}
-  ],
-  "feather": [
-    {"id": 5704,"text": ["piuma"]}
-  ],
-  "feather duster": [
-    {"id": 5705,"text": ["piumino"]}
-  ],
-  "feature": [
-    {"id": 5706,"text": ["caratteristica"]},
-    {"id": 5707,"text": ["constare"]}
-  ],
-  "February": [
-    {"id": 5708,"text": ["febbraio"]}
-  ],
-  "federal": [
-    {"id": 5709,"text": ["federale"]}
-  ],
-  "federalism": [
-    {"id": 5710,"text": ["federalismo"]}
-  ],
-  "federalist": [
-    {"id": 5711,"text": ["federalista"]}
-  ],
-  "federalistic": [
-    {"id": 5712,"text": ["federalista"]}
-  ],
-  "federation": [
-    {"id": 5713,"text": ["federazione"]}
-  ],
-  "fee": [
-    {"id": 5714,"text": ["costo"]}
-  ],
-  "feeble": [
-    {"id": 5715,"text": ["debole"]}
-  ],
-  "feed": [
-    {"id": 5716,"text": ["alimentare"]},
-    {"id": 5717,"text": ["mangime"]},
-    {"id": 5718,"text": ["nutrire"]}
-  ],
-  "feedback": [
-    {"id": 5719,"text": ["retroazione"]}
-  ],
-  "feeder": [
-    {"id": 5720,"text": ["alimentatore"]}
-  ],
-  "feel": [
-    {"id": 5721,"text": ["sentire"]}
-  ],
-  "feeling": [
-    {"id": 5722,"text": ["sentimento"]}
-  ],
-  "felicitous": [
-    {"id": 5723,"text": ["adeguato"]}
-  ],
-  "fellow": [
-    {"id": 5724,"text": ["amico"]},
-    {"id": 5725,"text": ["individuo"]}
-  ],
-  "felt": [
-    {"id": 5726,"text": ["feltro"]}
-  ],
-  "female": [
-    {"id": 5727,"text": ["femmina"]},
-    {"id": 5728,"text": ["femminile"]}
-  ],
-  "feminine": [
-    {"id": 5729,"text": ["femminile"]}
-  ],
-  "feminism": [
-    {"id": 5730,"text": ["femminismo"]}
-  ],
-  "feminist": [
-    {"id": 5731,"text": ["femminista"]}
-  ],
-  "femur": [
-    {"id": 5732,"text": ["femore"]}
-  ],
-  "fence": [
-    {"id": 5733,"text": ["palizzata"]},
-    {"id": 5734,"text": ["recinto"]},
-    {"id": 5735,"text": ["recinzione"]}
-  ],
-  "fencing": [
-    {"id": 5736,"text": ["scherma"]}
-  ],
-  "fennel": [
-    {"id": 5737,"text": ["finocchio"]}
-  ],
-  "ferment": [
-    {"id": 5738,"text": ["fermentare"]}
-  ],
-  "fermentation": [
-    {"id": 5739,"text": ["fermentazione"]}
-  ],
-  "fermium": [
-    {"id": 5740,"text": ["fermio"]}
-  ],
-  "ferocious": [
-    {"id": 5741,"text": ["feroce"]}
-  ],
-  "ferociously": [
-    {"id": 5742,"text": ["ferocemente"]}
-  ],
-  "ferric": [
-    {"id": 5743,"text": ["ferrico"]}
-  ],
-  "ferritin": [
-    {"id": 5744,"text": ["ferritina"]}
-  ],
-  "ferromagnetism": [
-    {"id": 5745,"text": ["ferromagnetismo"]}
-  ],
-  "ferry": [
-    {"id": 5746,"text": ["traghetto"]}
-  ],
-  "fertile": [
-    {"id": 5747,"text": ["fecondo"]},
-    {"id": 5748,"text": ["fertile"]}
-  ],
-  "fertilisation": [
-    {"id": 5749,"text": ["concimazione"]},
-    {"id": 5750,"text": ["fecondazione"]},
-    {"id": 5751,"text": ["fertilizzazione"]}
-  ],
-  "fertiliser": [
-    {"id": 5752,"text": ["concime"]},
-    {"id": 5753,"text": ["fertilizzante"]}
-  ],
-  "fertilizer": [
-    {"id": 5754,"text": ["concime"]},
-    {"id": 5755,"text": ["fertilizzante"]}
-  ],
-  "fertilization": [
-    {"id": 5756,"text": ["concimazione"]},
-    {"id": 5757,"text": ["fecondazione"]},
-    {"id": 5758,"text": ["fertilizzazione"]}
-  ],
-  "fervent": [
-    {"id": 5759,"text": ["fervente"]}
-  ],
-  "festival": [
-    {"id": 5760,"text": ["festival"]}
-  ],
-  "festive": [
-    {"id": 5761,"text": ["festivo"]}
-  ],
-  "fetal": [
-    {"id": 5762,"text": ["fetale"]}
-  ],
-  "fetish": [
-    {"id": 5763,"text": ["feticcio"]}
-  ],
-  "fetishism": [
-    {"id": 5764,"text": ["feticismo"]}
-  ],
-  "fetishist": [
-    {"id": 5765,"text": ["feticista"]}
-  ],
-  "fetishistic": [
-    {"id": 5766,"text": ["feticista"]}
-  ],
-  "feudal": [
-    {"id": 5767,"text": ["feudale"]}
-  ],
-  "feudalism": [
-    {"id": 5768,"text": ["feudalesimo"]}
-  ],
-  "fever": [
-    {"id": 5769,"text": ["febbre"]}
-  ],
-  "feverish": [
-    {"id": 5770,"text": ["febbrile"]}
-  ],
-  "feverishly": [
-    {"id": 5771,"text": ["febbrilmente"]}
-  ],
-  "few": [
-    {"id": 5772,"text": ["poco"]},
-    {"id": 5773,"text": ["pocos"]}
-  ],
-  "fewer": [
-    {"id": 5774,"text": ["meno"]}
-  ],
-  "fiasco": [
-    {"id": 5775,"text": ["fiasco"]}
-  ],
-  "fiber": [
-    {"id": 5776,"text": ["fibra"]}
-  ],
-  "fibre": [
-    {"id": 5777,"text": ["fibra"]}
-  ],
-  "fibrillation": [
-    {"id": 5778,"text": ["fibrillazione"]}
-  ],
-  "fibrin": [
-    {"id": 5779,"text": ["fibrina"]}
-  ],
-  "fibula": [
-    {"id": 5780,"text": ["perone"]}
-  ],
-  "fiction": [
-    {"id": 5781,"text": ["finzione"]}
-  ],
-  "fiefdom": [
-    {"id": 5782,"text": ["infeudazione"]}
-  ],
-  "field": [
-    {"id": 5783,"text": ["campo"]}
-  ],
-  "fierce": [
-    {"id": 5784,"text": ["feroce"]}
-  ],
-  "fiercely": [
-    {"id": 5785,"text": ["ferocemente"]}
-  ],
-  "fifteen": [
-    {"id": 5786,"text": ["quindici"]}
-  ],
-  "fifteenth": [
-    {"id": 5787,"text": ["quindicesimo"]}
-  ],
-  "fifteenthousand": [
-    {"id": 5788,"text": ["quindicimila"]}
-  ],
-  "fifth": [
-    {"id": 5789,"text": ["quinto"]}
-  ],
-  "fiftieth": [
-    {"id": 5790,"text": ["cinquantesimo"]}
-  ],
-  "fifty": [
-    {"id": 5791,"text": ["cinquanta"]}
-  ],
-  "fiftyeight": [
-    {"id": 5792,"text": ["cinquantotto"]}
-  ],
-  "fiftyeightthousand": [
-    {"id": 5793,"text": ["cinquantottomila"]}
-  ],
-  "fiftyfive": [
-    {"id": 5794,"text": ["cinquantacinque"]}
-  ],
-  "fiftyfivethousand": [
-    {"id": 5795,"text": ["cinquantacinquemila"]}
-  ],
-  "fiftyfour": [
-    {"id": 5796,"text": ["cinquantaquattro"]}
-  ],
-  "fiftyfourthousand": [
-    {"id": 5797,"text": ["cinquantaquattromila"]}
-  ],
-  "fiftynine": [
-    {"id": 5798,"text": ["cinquantanove"]}
-  ],
-  "fiftyninethousand": [
-    {"id": 5799,"text": ["cinquantanovemila"]}
-  ],
-  "fiftyone": [
-    {"id": 5800,"text": ["cinquantuno"]}
-  ],
-  "fiftyonethousand": [
-    {"id": 5801,"text": ["cinquantunomila"]}
-  ],
-  "fiftyseven": [
-    {"id": 5802,"text": ["cinquantasette"]}
-  ],
-  "fiftyseventhousand": [
-    {"id": 5803,"text": ["cinquantasettemila"]}
-  ],
-  "fiftysix": [
-    {"id": 5804,"text": ["cinquantasei"]}
-  ],
-  "fiftysixthousand": [
-    {"id": 5805,"text": ["cinquantaseimila"]}
-  ],
-  "fiftythousand": [
-    {"id": 5806,"text": ["cinquantamila"]}
-  ],
-  "fiftythreethousand": [
-    {"id": 5807,"text": ["cinquantatremila"]}
-  ],
-  "fiftytwo": [
-    {"id": 5808,"text": ["cinquantadue"]}
-  ],
-  "fiftytwothousand": [
-    {"id": 5809,"text": ["cinquantaduemila"]}
-  ],
-  "fig": [
-    {"id": 5810,"text": ["fico"]}
-  ],
-  "fight": [
-    {"id": 5811,"text": ["combattere"]},
-    {"id": 5812,"text": ["combattimento"]},
-    {"id": 5813,"text": ["lotta"]},
-    {"id": 5814,"text": ["lottare"]}
-  ],
-  "fighter": [
-    {"id": 5815,"text": ["caccia"]},
-    {"id": 5816,"text": ["combattente"]}
-  ],
-  "figurative": [
-    {"id": 5817,"text": ["figurativo"]}
-  ],
-  "figure": [
-    {"id": 5818,"text": ["figura"]},
-    {"id": 5819,"text": ["rappresentare"]}
-  ],
-  "filament": [
-    {"id": 5820,"text": ["filamento"]}
-  ],
-  "file": [
-    {"id": 5821,"text": ["archiviare"]},
-    {"id": 5822,"text": ["archivio"]},
-    {"id": 5823,"text": ["file"]},
-    {"id": 5824,"text": ["lima"]}
-  ],
-  "filial": [
-    {"id": 5825,"text": ["filiale"]}
-  ],
-  "filigree": [
-    {"id": 5826,"text": ["filigrana"]}
-  ],
-  "fill": [
-    {"id": 5827,"text": ["colmare"]},
-    {"id": 5828,"text": ["riempire"]}
-  ],
-  "fillup": [
-    {"id": 5829,"text": ["riempire"]}
-  ],
-  "film": [
-    {"id": 5830,"text": ["film"]},
-    {"id": 5831,"text": ["filmare"]},
-    {"id": 5832,"text": ["pellicola"]}
-  ],
-  "filmframe": [
-    {"id": 5833,"text": ["fotogramma"]}
-  ],
-  "filter": [
-    {"id": 5834,"text": ["filtrare"]},
-    {"id": 5835,"text": ["filtro"]}
-  ],
-  "final": [
-    {"id": 5836,"text": ["finale"]}
-  ],
-  "finalisation": [
-    {"id": 5837,"text": ["ultimazione"]}
-  ],
-  "finalism": [
-    {"id": 5838,"text": ["finalismo"]}
-  ],
-  "finalist": [
-    {"id": 5839,"text": ["finalista"]}
-  ],
-  "finally": [
-    {"id": 5840,"text": ["finalmente"]},
-    {"id": 5841,"text": ["infine"]}
-  ],
-  "finance": [
-    {"id": 5842,"text": ["finanza"]},
-    {"id": 5843,"text": ["finanziare"]}
-  ],
-  "financial": [
-    {"id": 5844,"text": ["finanziario"]}
-  ],
-  "financially": [
-    {"id": 5845,"text": ["finanziariamente"]}
-  ],
-  "find": [
-    {"id": 5846,"text": ["incontrare"]},
-    {"id": 5847,"text": ["trovare"]}
-  ],
-  "finding": [
-    {"id": 5848,"text": ["constatazione"]}
-  ],
-  "findout": [
-    {"id": 5849,"text": ["scoprire"]}
-  ],
-  "fine": [
-    {"id": 5850,"text": ["bene"]},
-    {"id": 5851,"text": ["fino"]},
-    {"id": 5852,"text": ["multa"]},
-    {"id": 5853,"text": ["multare"]}
-  ],
-  "finger": [
-    {"id": 5854,"text": ["dito"]}
-  ],
-  "finish": [
-    {"id": 5855,"text": ["arrivo"]},
-    {"id": 5856,"text": ["finire"]}
-  ],
-  "finishing": [
-    {"id": 5857,"text": ["rifinitura"]}
-  ],
-  "finite": [
-    {"id": 5858,"text": ["finito"]}
-  ],
-  "Finland": [
-    {"id": 5859,"text": ["Finlandia"]}
-  ],
-  "finnish": [
-    {"id": 5860,"text": ["finlandese"]}
-  ],
-  "fiord": [
-    {"id": 5861,"text": ["fiordo"]}
-  ],
-  "fir": [
-    {"id": 5862,"text": ["abete"]}
-  ],
-  "fire": [
-    {"id": 5863,"text": ["fuoco"]},
-    {"id": 5864,"text": ["incendio"]},
-    {"id": 5865,"text": ["licenziare"]},
-    {"id": 5866,"text": ["sparare"]}
-  ],
-  "fire extinguisher": [
-    {"id": 5867,"text": ["estintore"]}
-  ],
-  "firefighter": [
-    {"id": 5868,"text": ["pompiere"]}
-  ],
-  "fireman": [
-    {"id": 5869,"text": ["pompiere"]}
-  ],
-  "fireplace": [
-    {"id": 5870,"text": ["camino"]}
-  ],
-  "firewood": [
-    {"id": 5871,"text": ["legna"]}
-  ],
-  "firm": [
-    {"id": 5872,"text": ["ditta"]},
-    {"id": 5873,"text": ["fermo"]},
-    {"id": 5874,"text": ["impresa"]}
-  ],
-  "firmament": [
-    {"id": 5875,"text": ["firmamento"]}
-  ],
-  "firmly": [
-    {"id": 5876,"text": ["fermamente"]},
-    {"id": 5877,"text": ["saldamente"]}
-  ],
-  "firmness": [
-    {"id": 5878,"text": ["fermezza"]}
-  ],
-  "first": [
-    {"id": 5879,"text": ["prima"]},
-    {"id": 5880,"text": ["primo"]}
-  ],
-  "first and foremost": [
-    {"id": 5881,"text": ["innanzitutto"]}
-  ],
-  "firstly": [
-    {"id": 5882,"text": ["innanzitutto"]},
-    {"id": 5883,"text": ["prima"]}
-  ],
-  "fiscal": [
-    {"id": 5884,"text": ["fiscale"]}
-  ],
-  "fish": [
-    {"id": 5885,"text": ["pescare"]},
-    {"id": 5886,"text": ["pesce"]}
-  ],
-  "fisherman": [
-    {"id": 5887,"text": ["pescatore"]}
-  ],
-  "fisherwoman": [
-    {"id": 5888,"text": ["pescatore"]}
-  ],
-  "fishing": [
-    {"id": 5889,"text": ["pesca"]}
-  ],
-  "fishmonger": [
-    {"id": 5890,"text": ["pescivendolo"]}
-  ],
-  "fishtank": [
-    {"id": 5891,"text": ["acquario"]}
-  ],
-  "fission": [
-    {"id": 5892,"text": ["fissione"]}
-  ],
-  "fist": [
-    {"id": 5893,"text": ["pugno"]}
-  ],
-  "fistula": [
-    {"id": 5894,"text": ["fistola"]}
-  ],
-  "fit": [
-    {"id": 5895,"text": ["adattare"]},
-    {"id": 5896,"text": ["atto"]}
-  ],
-  "five": [
-    {"id": 5897,"text": ["cinque"]}
-  ],
-  "fivehundredand": [
-    {"id": 5898,"text": ["cinquecento"]}
-  ],
-  "fivehundredth": [
-    {"id": 5899,"text": ["cinquecentesimo"]}
-  ],
-  "fivethousand": [
-    {"id": 5900,"text": ["cinquemila"]}
-  ],
-  "fix": [
-    {"id": 5901,"text": ["riparare"]}
-  ],
-  "fixation": [
-    {"id": 5902,"text": ["fissazione"]}
-  ],
-  "flag": [
-    {"id": 5903,"text": ["bandiera"]},
-    {"id": 5904,"text": ["segnalare"]}
-  ],
-  "flageolet": [
-    {"id": 5905,"text": ["flagioletto"]}
-  ],
-  "flagrant": [
-    {"id": 5906,"text": ["flagrante"]}
-  ],
-  "flail": [
-    {"id": 5907,"text": ["flagello"]}
-  ],
-  "flake": [
-    {"id": 5908,"text": ["fiocco"]},
-    {"id": 5909,"text": ["squama"]}
-  ],
-  "flame": [
-    {"id": 5910,"text": ["fiamma"]}
-  ],
-  "flamenco": [
-    {"id": 5911,"text": ["flamenco"]}
-  ],
-  "flamingo": [
-    {"id": 5912,"text": ["fenicottero"]}
-  ],
-  "flange": [
-    {"id": 5913,"text": ["flangia"]}
-  ],
-  "flank": [
-    {"id": 5914,"text": ["fianco"]}
-  ],
-  "flannel": [
-    {"id": 5915,"text": ["flanella"]}
-  ],
-  "flare": [
-    {"id": 5916,"text": ["bagliore"]},
-    {"id": 5917,"text": ["fiammata"]}
-  ],
-  "flash": [
-    {"id": 5918,"text": ["lampeggiare"]}
-  ],
-  "flashing": [
-    {"id": 5919,"text": ["lampeggiante"]}
-  ],
-  "flat": [
-    {"id": 5920,"text": ["pavimento"]},
-    {"id": 5921,"text": ["piatto"]}
-  ],
-  "flatly": [
-    {"id": 5922,"text": ["completamente"]}
-  ],
-  "flatter": [
-    {"id": 5923,"text": ["lusingare"]}
-  ],
-  "flatterer": [
-    {"id": 5924,"text": ["adulatore"]}
-  ],
-  "flatulence": [
-    {"id": 5925,"text": ["flatulenza"]}
-  ],
-  "flautist": [
-    {"id": 5926,"text": ["flautista"]}
-  ],
-  "flavor": [
-    {"id": 5927,"text": ["gusto"]}
-  ],
-  "flavour": [
-    {"id": 5928,"text": ["gusto"]}
-  ],
-  "flaw": [
-    {"id": 5929,"text": ["difetto"]},
-    {"id": 5930,"text": ["imperfezione"]},
-    {"id": 5931,"text": ["pecca"]}
-  ],
-  "flawless": [
-    {"id": 5932,"text": ["impeccabile"]}
-  ],
-  "flawlessly": [
-    {"id": 5933,"text": ["impeccabilmente"]}
-  ],
-  "flea": [
-    {"id": 5934,"text": ["pulce"]}
-  ],
-  "flee": [
-    {"id": 5935,"text": ["fuggire"]}
-  ],
-  "fleece": [
-    {"id": 5936,"text": ["vello"]}
-  ],
-  "fleet": [
-    {"id": 5937,"text": ["flotta"]}
-  ],
-  "flemish": [
-    {"id": 5938,"text": ["fiammingo"]}
-  ],
-  "flesh": [
-    {"id": 5939,"text": ["carne"]}
-  ],
-  "flexible": [
-    {"id": 5940,"text": ["flessibile"]}
-  ],
-  "flicker": [
-    {"id": 5941,"text": ["lampeggiare"]}
-  ],
-  "flickering": [
-    {"id": 5942,"text": ["intermittente"]},
-    {"id": 5943,"text": ["lampeggiante"]}
-  ],
-  "flier": [
-    {"id": 5944,"text": ["aviatore"]}
-  ],
-  "flight": [
-    {"id": 5945,"text": ["volo"]}
-  ],
-  "flint": [
-    {"id": 5946,"text": ["selce"]}
-  ],
-  "flip": [
-    {"id": 5947,"text": ["capriola"]}
-  ],
-  "float": [
-    {"id": 5948,"text": ["fluttuare"]},
-    {"id": 5949,"text": ["galleggiante"]},
-    {"id": 5950,"text": ["galleggiare"]}
-  ],
-  "floating": [
-    {"id": 5951,"text": ["galleggiante"]}
-  ],
-  "flocculation": [
-    {"id": 5952,"text": ["flocculazione"]}
-  ],
-  "flocculus": [
-    {"id": 5953,"text": ["floculo"]}
-  ],
-  "flock": [
-    {"id": 5954,"text": ["gregge"]}
-  ],
-  "flood": [
-    {"id": 5955,"text": ["diluvio"]},
-    {"id": 5956,"text": ["inondare"]},
-    {"id": 5957,"text": ["inondazione"]}
-  ],
-  "floor": [
-    {"id": 5958,"text": ["pavimento"]},
-    {"id": 5959,"text": ["suolo"]}
-  ],
-  "floppy": [
-    {"id": 5960,"text": ["flessibile"]}
-  ],
-  "flora": [
-    {"id": 5961,"text": ["flora"]}
-  ],
-  "floral": [
-    {"id": 5962,"text": ["floreale"]}
-  ],
-  "floriculture": [
-    {"id": 5963,"text": ["floricoltura"]}
-  ],
-  "florist": [
-    {"id": 5964,"text": ["fioreria"]},
-    {"id": 5965,"text": ["fiorista"]}
-  ],
-  "flotation": [
-    {"id": 5966,"text": ["flottazione"]}
-  ],
-  "flotilla": [
-    {"id": 5967,"text": ["flottiglia"]}
-  ],
-  "flour": [
-    {"id": 5968,"text": ["farina"]}
-  ],
-  "flourishing": [
-    {"id": 5969,"text": ["florido"]}
-  ],
-  "flow": [
-    {"id": 5970,"text": ["fluire"]},
-    {"id": 5971,"text": ["flusso"]}
-  ],
-  "flower": [
-    {"id": 5972,"text": ["fiore"]},
-    {"id": 5973,"text": ["fiorire"]}
-  ],
-  "flowerbed": [
-    {"id": 5974,"text": ["aiuola"]}
-  ],
-  "flowering": [
-    {"id": 5975,"text": ["fioritura"]}
-  ],
-  "flu": [
-    {"id": 5976,"text": ["influenza"]}
-  ],
-  "fluctuate": [
-    {"id": 5977,"text": ["fluttuare"]}
-  ],
-  "fluctuation": [
-    {"id": 5978,"text": ["fluttuazione"]}
-  ],
-  "fluent": [
-    {"id": 5979,"text": ["fluido"]}
-  ],
-  "fluently": [
-    {"id": 5980,"text": ["fluentemente"]}
-  ],
-  "fluid": [
-    {"id": 5981,"text": ["fluido"]}
-  ],
-  "fluorescein": [
-    {"id": 5982,"text": ["fluoresceina"]}
-  ],
-  "fluorescence": [
-    {"id": 5983,"text": ["fluorescenza"]}
-  ],
-  "fluorescent": [
-    {"id": 5984,"text": ["fluorescente"]}
-  ],
-  "fluoridation": [
-    {"id": 5985,"text": ["fluorizzazione"]}
-  ],
-  "fluoride": [
-    {"id": 5986,"text": ["fluoruro"]}
-  ],
-  "fluorine": [
-    {"id": 5987,"text": ["fluoro"]}
-  ],
-  "fluorite": [
-    {"id": 5988,"text": ["fluorite"]}
-  ],
-  "flute": [
-    {"id": 5989,"text": ["flauto"]}
-  ],
-  "fluvial": [
-    {"id": 5990,"text": ["fluviale"]}
-  ],
-  "fluvirus": [
-    {"id": 5991,"text": ["virusdell'influenza"]}
-  ],
-  "fly": [
-    {"id": 5992,"text": ["mosca"]},
-    {"id": 5993,"text": ["volare"]}
-  ],
-  "flyer": [
-    {"id": 5994,"text": ["aviatore"]}
-  ],
-  "foal": [
-    {"id": 5995,"text": ["puledro"]}
-  ],
-  "foam": [
-    {"id": 5996,"text": ["schiuma"]},
-    {"id": 5997,"text": ["spuma"]},
-    {"id": 5998,"text": ["spumare"]}
-  ],
-  "focal": [
-    {"id": 5999,"text": ["focale"]}
-  ],
-  "focus": [
-    {"id": 6000,"text": ["centrare"]},
-    {"id": 6001,"text": ["fuoco"]}
-  ],
-  "foetus": [
-    {"id": 6002,"text": ["feto"]}
-  ],
-  "fog": [
-    {"id": 6003,"text": ["nebbia"]}
-  ],
-  "foggy": [
-    {"id": 6004,"text": ["nebbioso"]}
-  ],
-  "foil": [
-    {"id": 6005,"text": ["lamina"]}
-  ],
-  "fold": [
-    {"id": 6006,"text": ["piega"]},
-    {"id": 6007,"text": ["piegare"]}
-  ],
-  "folder": [
-    {"id": 6008,"text": ["cartella"]}
-  ],
-  "folding": [
-    {"id": 6009,"text": ["piegatura"]}
-  ],
-  "foliage": [
-    {"id": 6010,"text": ["fogliame"]}
-  ],
-  "follicular": [
-    {"id": 6011,"text": ["follicolare"]}
-  ],
-  "follow": [
-    {"id": 6012,"text": ["seguire"]}
-  ],
-  "follower": [
-    {"id": 6013,"text": ["seguace"]}
-  ],
-  "following": [
-    {"id": 6014,"text": ["seguente"]}
-  ],
-  "folly": [
-    {"id": 6015,"text": ["follia"]},
-    {"id": 6016,"text": ["pazzia"]}
-  ],
-  "fond": [
-    {"id": 6017,"text": ["affettuoso"]},
-    {"id": 6018,"text": ["affezionato"]},
-    {"id": 6019,"text": ["appassionato"]}
-  ],
-  "fondly": [
-    {"id": 6020,"text": ["affettuosamente"]}
-  ],
-  "fondue": [
-    {"id": 6021,"text": ["fonduta"]}
-  ],
-  "font": [
-    {"id": 6022,"text": ["font"]},
-    {"id": 6023,"text": ["fonte"]}
-  ],
-  "food": [
-    {"id": 6024,"text": ["alimento"]},
-    {"id": 6025,"text": ["cibo"]}
-  ],
-  "foolish": [
-    {"id": 6026,"text": ["ingenuo"]},
-    {"id": 6027,"text": ["tonto"]}
-  ],
-  "foolishness": [
-    {"id": 6028,"text": ["sciocchezza"]}
-  ],
-  "foot": [
-    {"id": 6029,"text": ["piede"]}
-  ],
-  "football": [
-    {"id": 6030,"text": ["calcio"]}
-  ],
-  "footballer": [
-    {"id": 6031,"text": ["calciatore"]}
-  ],
-  "foothold": [
-    {"id": 6032,"text": ["appiglio"]}
-  ],
-  "footpath": [
-    {"id": 6033,"text": ["sentiero"]}
-  ],
-  "footprint": [
-    {"id": 6034,"text": ["impronta"]},
-    {"id": 6035,"text": ["orma"]}
-  ],
-  "for": [
-    {"id": 6036,"text": ["per"]}
-  ],
-  "for example": [
-    {"id": 6037,"text": ["per esempio"]}
-  ],
-  "forage": [
-    {"id": 6038,"text": ["foraggio"]}
-  ],
-  "forbid": [
-    {"id": 6039,"text": ["proibire"]}
-  ],
-  "forbidden": [
-    {"id": 6040,"text": ["proibito"]}
-  ],
-  "force": [
-    {"id": 6041,"text": ["forza"]},
-    {"id": 6042,"text": ["forzare"]}
-  ],
-  "forcedly": [
-    {"id": 6043,"text": ["forzatamente"]}
-  ],
-  "forceful": [
-    {"id": 6044,"text": ["forte"]}
-  ],
-  "forearm": [
-    {"id": 6045,"text": ["avambraccio"]}
-  ],
-  "forecast": [
-    {"id": 6046,"text": ["previsione"]}
-  ],
-  "forehead": [
-    {"id": 6047,"text": ["fronte"]}
-  ],
-  "foreign": [
-    {"id": 6048,"text": ["estero"]},
-    {"id": 6049,"text": ["straniero"]}
-  ],
-  "foreigner": [
-    {"id": 6050,"text": ["straniero"]}
-  ],
-  "foresee": [
-    {"id": 6051,"text": ["prevedere"]}
-  ],
-  "forest": [
-    {"id": 6052,"text": ["foresta"]}
-  ],
-  "forestry": [
-    {"id": 6053,"text": ["forestale"]}
-  ],
-  "forever": [
-    {"id": 6054,"text": ["per sempre"]}
-  ],
-  "forge": [
-    {"id": 6055,"text": ["forgia"]},
-    {"id": 6056,"text": ["fucina"]}
-  ],
-  "forget": [
-    {"id": 6057,"text": ["dimenticare"]},
-    {"id": 6058,"text": ["scordare"]}
-  ],
-  "forging": [
-    {"id": 6059,"text": ["forgiatura"]}
-  ],
-  "forgive": [
-    {"id": 6060,"text": ["perdonare"]}
-  ],
-  "fork": [
-    {"id": 6061,"text": ["biforcarsi"]},
-    {"id": 6062,"text": ["forchetta"]},
-    {"id": 6063,"text": ["inforcare"]}
-  ],
-  "form": [
-    {"id": 6064,"text": ["forma"]},
-    {"id": 6065,"text": ["formare"]},
-    {"id": 6066,"text": ["metodo"]},
-    {"id": 6067,"text": ["modulo"]},
-    {"id": 6068,"text": ["veste"]}
-  ],
-  "formal": [
-    {"id": 6069,"text": ["formale"]}
-  ],
-  "formalisation": [
-    {"id": 6070,"text": ["formalizzazione"]}
-  ],
-  "formalise": [
-    {"id": 6071,"text": ["formalizzare"]}
-  ],
-  "formally": [
-    {"id": 6072,"text": ["formalmente"]}
-  ],
-  "format": [
-    {"id": 6073,"text": ["formato"]}
-  ],
-  "formation": [
-    {"id": 6074,"text": ["educazione"]}
-  ],
-  "formative": [
-    {"id": 6075,"text": ["formativo"]}
-  ],
-  "former": [
-    {"id": 6076,"text": ["anteriore"]}
-  ],
-  "formerly": [
-    {"id": 6077,"text": ["anteriormente"]}
-  ],
-  "formidable": [
-    {"id": 6078,"text": ["formidabile"]}
-  ],
-  "forming": [
-    {"id": 6079,"text": ["conformazione"]}
-  ],
-  "formula": [
-    {"id": 6080,"text": ["formula"]}
-  ],
-  "formulate": [
-    {"id": 6081,"text": ["formulare"]}
-  ],
-  "formulation": [
-    {"id": 6082,"text": ["formulazione"]}
-  ],
-  "formwork": [
-    {"id": 6083,"text": ["cassaforma"]}
-  ],
-  "forsake": [
-    {"id": 6084,"text": ["abbandonare"]}
-  ],
-  "forte": [
-    {"id": 6085,"text": ["forte"]}
-  ],
-  "forth": [
-    {"id": 6086,"text": ["avanti"]}
-  ],
-  "forthcoming": [
-    {"id": 6087,"text": ["prossimo"]}
-  ],
-  "forthwith": [
-    {"id": 6088,"text": ["immediatamente"]}
-  ],
-  "fortieth": [
-    {"id": 6089,"text": ["quarantesimo"]}
-  ],
-  "fortification": [
-    {"id": 6090,"text": ["fortificazione"]}
-  ],
-  "fortify": [
-    {"id": 6091,"text": ["fortificare"]}
-  ],
-  "fortnightly": [
-    {"id": 6092,"text": ["bimensile"]}
-  ],
-  "fortress": [
-    {"id": 6093,"text": ["fortezza"]},
-    {"id": 6094,"text": ["potere"]}
-  ],
-  "fortunate": [
-    {"id": 6095,"text": ["fortunato"]}
-  ],
-  "fortunately": [
-    {"id": 6096,"text": ["fortunatamente"]}
-  ],
-  "fortune": [
-    {"id": 6097,"text": ["fortuna"]}
-  ],
-  "fortuneteller": [
-    {"id": 6098,"text": ["indovino"]}
-  ],
-  "forty": [
-    {"id": 6099,"text": ["quaranta"]}
-  ],
-  "fortyeight": [
-    {"id": 6100,"text": ["quarantotto"]}
-  ],
-  "fortyeightthousand": [
-    {"id": 6101,"text": ["quarantottomila"]}
-  ],
-  "fortyfive": [
-    {"id": 6102,"text": ["quarantacinque"]}
-  ],
-  "fortyfivethousand": [
-    {"id": 6103,"text": ["quarantacinquemila"]}
-  ],
-  "fortyfour": [
-    {"id": 6104,"text": ["quarantaquattro"]}
-  ],
-  "fortyfourthousand": [
-    {"id": 6105,"text": ["quarantaquattromila"]}
-  ],
-  "fortynine": [
-    {"id": 6106,"text": ["quarantanove"]}
-  ],
-  "fortyninethousand": [
-    {"id": 6107,"text": ["quarantanovemila"]}
-  ],
-  "fortyone": [
-    {"id": 6108,"text": ["quarantuno"]}
-  ],
-  "fortyonethousand": [
-    {"id": 6109,"text": ["quarantunomila"]}
-  ],
-  "fortyseven": [
-    {"id": 6110,"text": ["quarantasette"]}
-  ],
-  "fortyseventhousand": [
-    {"id": 6111,"text": ["quarantasettemila"]}
-  ],
-  "fortysix": [
-    {"id": 6112,"text": ["quarantasei"]}
-  ],
-  "fortysixthousand": [
-    {"id": 6113,"text": ["quarantaseimila"]}
-  ],
-  "fortythousand": [
-    {"id": 6114,"text": ["quarantamila"]}
-  ],
-  "fortythreethousand": [
-    {"id": 6115,"text": ["quarantatremila"]}
-  ],
-  "fortytwo": [
-    {"id": 6116,"text": ["quarantadue"]}
-  ],
-  "fortytwothousand": [
-    {"id": 6117,"text": ["quarantaduemila"]}
-  ],
-  "forum": [
-    {"id": 6118,"text": ["foro"]}
-  ],
-  "forward": [
-    {"id": 6119,"text": ["avanti"]},
-    {"id": 6120,"text": ["inviare"]}
-  ],
-  "fossil": [
-    {"id": 6121,"text": ["fossile"]}
-  ],
-  "fossilisation": [
-    {"id": 6122,"text": ["fossilizzazione"]}
-  ],
-  "foster": [
-    {"id": 6123,"text": ["adottivo"]}
-  ],
-  "foul": [
-    {"id": 6124,"text": ["fallo"]},
-    {"id": 6125,"text": ["ripugnante"]}
-  ],
-  "found": [
-    {"id": 6126,"text": ["fondare"]}
-  ],
-  "foundation": [
-    {"id": 6127,"text": ["fondazione"]}
-  ],
-  "founder": [
-    {"id": 6128,"text": ["fondatore"]}
-  ],
-  "foundry": [
-    {"id": 6129,"text": ["fusione"]}
-  ],
-  "fountain": [
-    {"id": 6130,"text": ["fonte"]}
-  ],
-  "four": [
-    {"id": 6131,"text": ["quattro"]}
-  ],
-  "four-leafclover": [
-    {"id": 6132,"text": ["quadrifoglio"]}
-  ],
-  "fourhundred": [
-    {"id": 6133,"text": ["quattrocento"]}
-  ],
-  "fourhundredth": [
-    {"id": 6134,"text": ["quattrocentesimo"]}
-  ],
-  "fourteen": [
-    {"id": 6135,"text": ["quattordici"]}
-  ],
-  "fourteenth": [
-    {"id": 6136,"text": ["quattordicesimo"]}
-  ],
-  "fourteenthousand": [
-    {"id": 6137,"text": ["quattordicimila"]}
-  ],
-  "fourth": [
-    {"id": 6138,"text": ["quarto"]}
-  ],
-  "fourthousand": [
-    {"id": 6139,"text": ["quattromila"]}
-  ],
-  "fox": [
-    {"id": 6140,"text": ["volpe"]}
-  ],
-  "fraction": [
-    {"id": 6141,"text": ["frazione"]}
-  ],
-  "fractionate": [
-    {"id": 6142,"text": ["frazionare"]}
-  ],
-  "fracture": [
-    {"id": 6143,"text": ["frattura"]}
-  ],
-  "fragile": [
-    {"id": 6144,"text": ["fragile"]}
-  ],
-  "fragment": [
-    {"id": 6145,"text": ["frammento"]}
-  ],
-  "fragmentation": [
-    {"id": 6146,"text": ["frammentazione"]}
-  ],
-  "frame": [
-    {"id": 6147,"text": ["cornice"]},
-    {"id": 6148,"text": ["incastrare"]},
-    {"id": 6149,"text": ["incorniciare"]},
-    {"id": 6150,"text": ["struttura"]}
-  ],
-  "framework": [
-    {"id": 6151,"text": ["struttura"]}
-  ],
-  "France": [
-    {"id": 6152,"text": ["Francia"]}
-  ],
-  "francoist": [
-    {"id": 6153,"text": ["franchista"]}
-  ],
-  "frank": [
-    {"id": 6154,"text": ["franco"]}
-  ],
-  "frankly": [
-    {"id": 6155,"text": ["francamente"]}
-  ],
-  "frankness": [
-    {"id": 6156,"text": ["franchezza"]}
-  ],
-  "frantic": [
-    {"id": 6157,"text": ["frenetico"]}
-  ],
-  "frantically": [
-    {"id": 6158,"text": ["freneticamente"]}
-  ],
-  "fraternal": [
-    {"id": 6159,"text": ["fraterno"]}
-  ],
-  "fraternity": [
-    {"id": 6160,"text": ["fratellanza"]}
-  ],
-  "fratricide": [
-    {"id": 6161,"text": ["fratricidio"]}
-  ],
-  "fraud": [
-    {"id": 6162,"text": ["frode"]}
-  ],
-  "fraudulent": [
-    {"id": 6163,"text": ["fraudolento"]}
-  ],
-  "fraudulently": [
-    {"id": 6164,"text": ["fraudolentemente"]}
-  ],
-  "Frechman": [
-    {"id": 6165,"text": ["francese"]}
-  ],
-  "freckle": [
-    {"id": 6166,"text": ["lentiggine"]}
-  ],
-  "free": [
-    {"id": 6167,"text": ["gratis"]},
-    {"id": 6168,"text": ["gratuito"]},
-    {"id": 6169,"text": ["liberare"]},
-    {"id": 6170,"text": ["libero"]}
-  ],
-  "free will": [
-    {"id": 6171,"text": ["libero arbitrio"]}
-  ],
-  "freely": [
-    {"id": 6172,"text": ["gratuitamente"]},
-    {"id": 6173,"text": ["liberamente"]}
-  ],
-  "freemasonry": [
-    {"id": 6174,"text": ["massoneria"]}
-  ],
-  "freeze": [
-    {"id": 6175,"text": ["congelamento"]},
-    {"id": 6176,"text": ["congelare"]},
-    {"id": 6177,"text": ["gelare"]},
-    {"id": 6178,"text": ["gelo"]}
-  ],
-  "freezing": [
-    {"id": 6179,"text": ["congelamento"]},
-    {"id": 6180,"text": ["gelido"]}
-  ],
-  "freight": [
-    {"id": 6181,"text": ["fregata"]},
-    {"id": 6182,"text": ["nolo"]},
-    {"id": 6183,"text": ["merce"]},
-    {"id": 6184,"text": ["carico"]}
-  ],
-  "French": [
-    {"id": 6185,"text": ["francese"]}
-  ],
-  "frenetically": [
-    {"id": 6186,"text": ["freneticamente"]}
-  ],
-  "frequency": [
-    {"id": 6187,"text": ["frequenza"]}
-  ],
-  "frequent": [
-    {"id": 6188,"text": ["frequente"]}
-  ],
-  "frequently": [
-    {"id": 6189,"text": ["frequentemente"]}
-  ],
-  "fresco": [
-    {"id": 6190,"text": ["affresco"]}
-  ],
-  "fresh": [
-    {"id": 6191,"text": ["fresco"]}
-  ],
-  "freshen": [
-    {"id": 6192,"text": ["rinfrescare"]}
-  ],
-  "freshly": [
-    {"id": 6193,"text": ["recentemente"]}
-  ],
-  "freshness": [
-    {"id": 6194,"text": ["freschezza"]}
-  ],
-  "friable": [
-    {"id": 6195,"text": ["friabile"]}
-  ],
-  "friar": [
-    {"id": 6196,"text": ["frate"]}
-  ],
-  "friction": [
-    {"id": 6197,"text": ["attrito"]}
-  ],
-  "fridge": [
-    {"id": 6198,"text": ["frigo"]},
-    {"id": 6199,"text": ["frigorifero"]}
-  ],
-  "friend": [
-    {"id": 6200,"text": ["amico"]}
-  ],
-  "friendly": [
-    {"id": 6201,"text": ["amichevole"]}
-  ],
-  "friendship": [
-    {"id": 6202,"text": ["amicizia"]}
-  ],
-  "frigate": [
-    {"id": 6203,"text": ["fregata"]}
-  ],
-  "frighten": [
-    {"id": 6204,"text": ["impaurire"]},
-    {"id": 6205,"text": ["spaventare"]}
-  ],
-  "fringe": [
-    {"id": 6206,"text": ["frangia"]}
-  ],
-  "frivolous": [
-    {"id": 6207,"text": ["frivolo"]}
-  ],
-  "frog": [
-    {"id": 6208,"text": ["rana"]}
-  ],
-  "from": [
-    {"id": 6209,"text": ["da"]},
-    {"id": 6210,"text": ["di"]}
-  ],
-  "from now on": [
-    {"id": 6211,"text": ["d'ora in avanti"]}
-  ],
-  "fromtimetotime": [
-    {"id": 6212,"text": ["ditantoinquando"]}
-  ],
-  "front": [
-    {"id": 6213,"text": ["fronte"]}
-  ],
-  "frontal": [
-    {"id": 6214,"text": ["frontale"]}
-  ],
-  "frontier": [
-    {"id": 6215,"text": ["frontiera"]}
-  ],
-  "frontispiece": [
-    {"id": 6216,"text": ["frontespizio"]}
-  ],
-  "frostbite": [
-    {"id": 6217,"text": ["assideramento"]}
-  ],
-  "frostbitten": [
-    {"id": 6218,"text": ["assiderato"]}
-  ],
-  "fruit": [
-    {"id": 6219,"text": ["frutto"]}
-  ],
-  "fruitful": [
-    {"id": 6220,"text": ["fecondo"]},
-    {"id": 6221,"text": ["fertile"]},
-    {"id": 6222,"text": ["fruttifero"]},
-    {"id": 6223,"text": ["fruttuoso"]}
-  ],
-  "fruition": [
-    {"id": 6224,"text": ["fruizione"]}
-  ],
-  "fruitless": [
-    {"id": 6225,"text": ["infruttuoso"]}
-  ],
-  "frustrate": [
-    {"id": 6226,"text": ["frustrare"]}
-  ],
-  "frustration": [
-    {"id": 6227,"text": ["frustrazione"]}
-  ],
-  "fry": [
-    {"id": 6228,"text": ["friggere"]},
-    {"id": 6229,"text": ["patatina"]}
-  ],
-  "fuel": [
-    {"id": 6230,"text": ["combustibile"]}
-  ],
-  "fugitive": [
-    {"id": 6231,"text": ["fuggitivo"]}
-  ],
-  "fulcrum": [
-    {"id": 6232,"text": ["fulcro"]}
-  ],
-  "fulfil": [
-    {"id": 6233,"text": ["adempiere"]},
-    {"id": 6234,"text": ["compiere"]},
-    {"id": 6235,"text": ["esaudire"]}
-  ],
-  "fulfill": [
-    {"id": 6236,"text": ["esaudire"]}
-  ],
-  "fulfillment": [
-    {"id": 6237,"text": ["compimento"]}
-  ],
-  "full": [
-    {"id": 6238,"text": ["pieno"]}
-  ],
-  "fullblast": [
-    {"id": 6239,"text": ["rapidamente"]}
-  ],
-  "fully": [
-    {"id": 6240,"text": ["pienamente"]}
-  ],
-  "fulminate": [
-    {"id": 6241,"text": ["fulminare"]}
-  ],
-  "fumigation": [
-    {"id": 6242,"text": ["fumigazione"]}
-  ],
-  "fun": [
-    {"id": 6243,"text": ["divertimento"]}
-  ],
-  "function": [
-    {"id": 6244,"text": ["funzionare"]},
-    {"id": 6245,"text": ["funzione"]}
-  ],
-  "functional": [
-    {"id": 6246,"text": ["funzionale"]}
-  ],
-  "functionalism": [
-    {"id": 6247,"text": ["funzionalismo"]}
-  ],
-  "functioning": [
-    {"id": 6248,"text": ["funzionamento"]},
-    {"id": 6249,"text": ["funzionante"]}
-  ],
-  "fund": [
-    {"id": 6250,"text": ["finanziare"]},
-    {"id": 6251,"text": ["fondo"]}
-  ],
-  "fundamental": [
-    {"id": 6252,"text": ["fondamentale"]}
-  ],
-  "fundamentalism": [
-    {"id": 6253,"text": ["fondamentalismo"]}
-  ],
-  "fundamentalist": [
-    {"id": 6254,"text": ["fondamentalista"]}
-  ],
-  "fundamentally": [
-    {"id": 6255,"text": ["fondamentalmente"]}
-  ],
-  "funding": [
-    {"id": 6256,"text": ["finanziamento"]}
-  ],
-  "funeral": [
-    {"id": 6257,"text": ["funerale"]}
-  ],
-  "fungible": [
-    {"id": 6258,"text": ["fungibile"]}
-  ],
-  "fungus": [
-    {"id": 6259,"text": ["fungo"]}
-  ],
-  "funicular": [
-    {"id": 6260,"text": ["funicolare"]}
-  ],
-  "funiculus": [
-    {"id": 6261,"text": ["funicolo"]}
-  ],
-  "funnel": [
-    {"id": 6262,"text": ["imbuto"]}
-  ],
-  "funny": [
-    {"id": 6263,"text": ["buffo"]}
-  ],
-  "fur": [
-    {"id": 6264,"text": ["pelo"]}
-  ],
-  "furious": [
-    {"id": 6265,"text": ["furibondo"]}
-  ],
-  "furiously": [
-    {"id": 6266,"text": ["furiosamente"]}
-  ],
-  "furnish": [
-    {"id": 6267,"text": ["arredare"]}
-  ],
-  "furniture": [
-    {"id": 6268,"text": ["arredamento"]},
-    {"id": 6269,"text": ["arredo"]},
-    {"id": 6270,"text": ["mobilio"]}
-  ],
-  "furrier": [
-    {"id": 6271,"text": ["pellicceria"]},
-    {"id": 6272,"text": ["pellicciaio"]}
-  ],
-  "furrow": [
-    {"id": 6273,"text": ["solco"]}
-  ],
-  "furthermore": [
-    {"id": 6274,"text": ["oltretutto"]},
-    {"id": 6275,"text": ["inoltre"]}
-  ],
-  "fury": [
-    {"id": 6276,"text": ["furia"]}
-  ],
-  "fuse": [
-    {"id": 6277,"text": ["fondere"]},
-    {"id": 6278,"text": ["stoppino"]}
-  ],
-  "fuselage": [
-    {"id": 6279,"text": ["fusoliera"]}
-  ],
-  "fusible": [
-    {"id": 6280,"text": ["fusibile"]}
-  ],
-  "fusion": [
-    {"id": 6281,"text": ["fusione"]}
-  ],
-  "futile": [
-    {"id": 6282,"text": ["futile"]}
-  ],
-  "future": [
-    {"id": 6283,"text": ["futuro"]}
-  ],
-  "futurism": [
-    {"id": 6284,"text": ["futurismo"]}
-  ],
-  "futurist": [
-    {"id": 6285,"text": ["futurista"]}
-  ],
-  "futuristic": [
-    {"id": 6286,"text": ["futurista"]}
-  ]
-}
+{"fabric": [
+  {"id":5581,"text":["tessuto"]}
+ ],
+
+"fabricate": [
+  {"id":5582,"text":["fabbricare"]}
+ ],
+
+"fabulation": [
+  {"id":5583,"text":["affabulazione"]}
+ ],
+
+"face": [
+  {"id":5584,"text":["affrontare"]},
+  {"id":5585,"text":["faccia"]},
+  {"id":5586,"text":["viso"]},
+  {"id":5587,"text":["volto"]}
+ ],
+
+"facet": [
+  {"id":5588,"text":["sfaccettatura"]}
+ ],
+
+"facial": [
+  {"id":5589,"text":["facciale"]}
+ ],
+
+"facile": [
+  {"id":5590,"text":["semplice"]}
+ ],
+
+"facilitate": [
+  {"id":5591,"text":["facilitare"]}
+ ],
+
+"facilitation": [
+  {"id":5592,"text":["agevolazione"]},
+  {"id":5593,"text":["facilitazione"]}
+ ],
+
+"facility": [
+  {"id":5594,"text":["impianto"]}
+ ],
+
+"fact": [
+  {"id":5595,"text":["fatto"]}
+ ],
+
+"faction": [
+  {"id":5596,"text":["fazione"]}
+ ],
+
+"factor": [
+  {"id":5597,"text":["fattore"]},
+  {"id":5598,"text":["sostanza"]}
+ ],
+
+"factorial": [
+  {"id":5599,"text":["fattoriale"]}
+ ],
+
+"factorisation": [
+  {"id":5600,"text":["fattorizzazione"]}
+ ],
+
+"factory": [
+  {"id":5601,"text":["fabbrica"]}
+ ],
+
+"faecal": [
+  {"id":5602,"text":["fecale"]}
+ ],
+
+"faeces": [
+  {"id":5603,"text":["feci"]}
+ ],
+
+"fail": [
+  {"id":5604,"text":["fallire"]}
+ ],
+
+"failure": [
+  {"id":5605,"text":["fallimento"]},
+  {"id":5606,"text":["fallo"]}
+ ],
+
+"fair": [
+  {"id":5607,"text":["chiaro"]},
+  {"id":5608,"text":["fiera"]},
+  {"id":5609,"text":["giusto"]}
+ ],
+
+"fairly": [
+  {"id":5610,"text":["abbastanza"]}
+ ],
+
+"fairy": [
+  {"id":5611,"text":["fata"]}
+ ],
+
+"faith": [
+  {"id":5612,"text":["fede"]}
+ ],
+
+"faithful": [
+  {"id":5613,"text":["fedele"]}
+ ],
+
+"faithfully": [
+  {"id":5614,"text":["fedelmente"]}
+ ],
+
+"fake": [
+  {"id":5615,"text":["contraffazione"]},
+  {"id":5616,"text":["falsificare"]},
+  {"id":5617,"text":["falso"]},
+  {"id":5618,"text":["finto"]}
+ ],
+
+"falangist": [
+  {"id":5619,"text":["falangista"]}
+ ],
+
+"falconry": [
+  {"id":5620,"text":["falconeria"]}
+ ],
+
+"fall": [
+  {"id":5621,"text":["autunno"]},
+  {"id":5622,"text":["cadere"]},
+  {"id":5623,"text":["caduta"]},
+  {"id":5624,"text":["cascare"]}
+ ],
+
+"fallacy": [
+  {"id":5625,"text":["fallacia"]}
+ ],
+
+"fallible": [
+  {"id":5626,"text":["fallibile"]}
+ ],
+
+"false": [
+  {"id":5627,"text":["falso"]}
+ ],
+
+"falsely": [
+  {"id":5628,"text":["falsamente"]}
+ ],
+
+"falsify": [
+  {"id":5629,"text":["falsificare"]}
+ ],
+
+"fame": [
+  {"id":5630,"text":["fama"]}
+ ],
+
+"familiar": [
+  {"id":5631,"text":["familiare"]}
+ ],
+
+"family": [
+  {"id":5632,"text":["famiglia"]},
+  {"id":5633,"text":["familiare"]}
+ ],
+
+"famine": [
+  {"id":5634,"text":["carestia"]}
+ ],
+
+"famous": [
+  {"id":5635,"text":["celebre"]},
+  {"id":5636,"text":["famoso"]}
+ ],
+
+"fan": [
+  {"id":5637,"text":["sventolare"]},
+  {"id":5638,"text":["ventaglio"]},
+  {"id":5639,"text":["ventilatore"]}
+ ],
+
+"fanatical": [
+  {"id":5640,"text":["fanatico"]}
+ ],
+
+"fanatically": [
+  {"id":5641,"text":["fanaticamente"]}
+ ],
+
+"fanaticism": [
+  {"id":5642,"text":["fanatismo"]}
+ ],
+
+"fancy": [
+  {"id":5643,"text":["desiderare"]},
+  {"id":5644,"text":["fantasia"]},
+  {"id":5645,"text":["stravagante"]}
+ ],
+
+"fanfare": [
+  {"id":5646,"text":["fanfara"]}
+ ],
+
+"fang": [
+  {"id":5647,"text":["zanna"]}
+ ],
+
+"fantastic": [
+  {"id":5648,"text":["fantastico"]}
+ ],
+
+"fantastically": [
+  {"id":5649,"text":["fantasticamente"]}
+ ],
+
+"fantasy": [
+  {"id":5650,"text":["fantasia"]}
+ ],
+
+"far": [
+  {"id":5651,"text":["lontano"]}
+ ],
+
+"far-right": [
+  {"id":5652,"text":["ultradestra"]}
+ ],
+
+"farce": [
+  {"id":5653,"text":["farsa"]}
+ ],
+
+"farm": [
+  {"id":5654,"text":["coltivare"]},
+  {"id":5655,"text":["fattoria"]}
+ ],
+
+"farmer": [
+  {"id":5656,"text":["contadino"]}
+ ],
+
+"farming": [
+  {"id":5657,"text":["agricoltura"]}
+ ],
+
+"farmyard": [
+  {"id":5658,"text":["aia"]}
+ ],
+
+"fart": [
+  {"id":5659,"text":["flatulenza","scoreggia"]}
+ ],
+
+"fascinating": [
+  {"id":5660,"text":["affascinante"]}
+ ],
+
+"fascination": [
+  {"id":2525,"text":["fascino"]}
+ ],
+
+"fascism": [
+  {"id":5662,"text":["fascismo"]}
+ ],
+
+"fascist": [
+  {"id":5663,"text":["fascista"]}
+ ],
+
+"fashion": [
+  {"id":5664,"text":["moda"]}
+ ],
+
+"fast": [
+  {"id":5665,"text":["rapidamente"]},
+  {"id":5666,"text":["rapido"]},
+  {"id":5667,"text":["veloce"]},
+  {"id":17286,"text":["digiunare"]},
+  {"id":17728,"text":["digiuno"]}
+ ],
+
+"fat": [
+  {"id":5668,"text":["grasso"]}
+ ],
+
+"fatal": [
+  {"id":5669,"text":["fatale"]}
+ ],
+
+"fatalism": [
+  {"id":5670,"text":["fatalismo"]}
+ ],
+
+"fatalist": [
+  {"id":5671,"text":["fatalista"]}
+ ],
+
+"fatalistic": [
+  {"id":5672,"text":["fatalista"]}
+ ],
+
+"fate": [
+  {"id":5673,"text":["destino"]},
+  {"id":5674,"text":["fato"]}
+ ],
+
+"fateful": [
+  {"id":5675,"text":["fatidico"]}
+ ],
+
+"father": [
+  {"id":5676,"text":["padre"]}
+ ],
+
+"fathomless": [
+  {"id":5677,"text":["insondabile"]}
+ ],
+
+"fatigue": [
+  {"id":5678,"text":["fatica"]}
+ ],
+
+"fatten": [
+  {"id":5679,"text":["ingrassare"]}
+ ],
+
+"faucet": [
+  {"id":5680,"text":["rubinetto"]}
+ ],
+
+"fault": [
+  {"id":5681,"text":["colpa"]},
+  {"id":5682,"text":["mancanza"]}
+ ],
+
+"fauna": [
+  {"id":5683,"text":["fauna"]}
+ ],
+
+"favor": [
+  {"id":5684,"text":["favore"]},
+  {"id":5685,"text":["favorire"]},
+  {"id":5686,"text":["privilegiare"]}
+ ],
+
+"favorably": [
+  {"id":5687,"text":["favorevolmente"]}
+ ],
+
+"favorite": [
+  {"id":5688,"text":["favorito"]},
+  {"id":5689,"text":["preferito"]}
+ ],
+
+"favoritism": [
+  {"id":5690,"text":["favoritismo"]}
+ ],
+
+"favour": [
+  {"id":5691,"text":["favore"]},
+  {"id":5692,"text":["favorire"]},
+  {"id":5693,"text":["privilegiare"]}
+ ],
+
+"favourably": [
+  {"id":5694,"text":["favorevolmente"]}
+ ],
+
+"favourite": [
+  {"id":5695,"text":["favorito"]},
+  {"id":5696,"text":["preferito"]}
+ ],
+
+"favouritism": [
+  {"id":5697,"text":["favoritismo"]}
+ ],
+
+"fawn": [
+  {"id":5698,"text":["cerbiatto"]}
+ ],
+
+"fear": [
+  {"id":5699,"text":["paura"]},
+  {"id":5700,"text":["temere"]}
+ ],
+
+"fearless": [
+  {"id":5701,"text":["osato"]}
+ ],
+
+"fearsome": [
+  {"id":5702,"text":["temibile"]}
+ ],
+
+"feasible": [
+  {"id":5703,"text":["fattibile"]}
+ ],
+
+"feather": [
+  {"id":5704,"text":["piuma"]}
+ ],
+
+"feather duster": [
+  {"id":5705,"text":["piumino"]}
+ ],
+
+"feature": [
+  {"id":5706,"text":["caratteristica"]},
+  {"id":5707,"text":["constare"]}
+ ],
+
+"February": [
+  {"id":5708,"text":["febbraio"]}
+ ],
+
+"federal": [
+  {"id":5709,"text":["federale"]}
+ ],
+
+"federalism": [
+  {"id":5710,"text":["federalismo"]}
+ ],
+
+"federalist": [
+  {"id":5711,"text":["federalista"]}
+ ],
+
+"federalistic": [
+  {"id":5712,"text":["federalista"]}
+ ],
+
+"federation": [
+  {"id":5713,"text":["federazione"]}
+ ],
+
+"fee": [
+  {"id":5714,"text":["costo"]}
+ ],
+
+"feeble": [
+  {"id":5715,"text":["debole"]}
+ ],
+
+"feed": [
+  {"id":5716,"text":["alimentare"]},
+  {"id":5717,"text":["mangime"]},
+  {"id":5718,"text":["nutrire"]}
+ ],
+
+"feedback": [
+  {"id":5719,"text":["retroazione"]}
+ ],
+
+"feeder": [
+  {"id":5720,"text":["alimentatore"]}
+ ],
+
+"feel": [
+  {"id":5721,"text":["sentire"]}
+ ],
+
+"feeling": [
+  {"id":5722,"text":["sentimento"]}
+ ],
+
+"felicitous": [
+  {"id":5723,"text":["adeguato"]}
+ ],
+
+"fellow": [
+  {"id":5724,"text":["amico"]},
+  {"id":5725,"text":["individuo"]}
+ ],
+
+"felt": [
+  {"id":5726,"text":["feltro"]}
+ ],
+
+"female": [
+  {"id":5727,"text":["femmina"]},
+  {"id":5728,"text":["femminile"]}
+ ],
+
+"feminine": [
+  {"id":5729,"text":["femminile"]}
+ ],
+
+"feminism": [
+  {"id":5730,"text":["femminismo"]}
+ ],
+
+"feminist": [
+  {"id":5731,"text":["femminista"]}
+ ],
+
+"femur": [
+  {"id":5732,"text":["femore"]}
+ ],
+
+"fence": [
+  {"id":5733,"text":["palizzata"]},
+  {"id":5734,"text":["recinto"]},
+  {"id":5735,"text":["recinzione"]}
+ ],
+
+"fencing": [
+  {"id":5736,"text":["scherma"]}
+ ],
+
+"fennel": [
+  {"id":5737,"text":["finocchio"]}
+ ],
+
+"ferment": [
+  {"id":5738,"text":["fermentare"]}
+ ],
+
+"fermentation": [
+  {"id":5739,"text":["fermentazione"]}
+ ],
+
+"fermium": [
+  {"id":5740,"text":["fermio"]}
+ ],
+
+"ferocious": [
+  {"id":5741,"text":["feroce"]}
+ ],
+
+"ferociously": [
+  {"id":5742,"text":["ferocemente"]}
+ ],
+
+"ferric": [
+  {"id":5743,"text":["ferrico"]}
+ ],
+
+"ferritin": [
+  {"id":5744,"text":["ferritina"]}
+ ],
+
+"ferromagnetism": [
+  {"id":5745,"text":["ferromagnetismo"]}
+ ],
+
+"ferry": [
+  {"id":5746,"text":["traghetto"]}
+ ],
+
+"fertile": [
+  {"id":5747,"text":["fecondo"]},
+  {"id":5748,"text":["fertile"]}
+ ],
+
+"fertilisation": [
+  {"id":5749,"text":["concimazione"]},
+  {"id":5750,"text":["fecondazione"]},
+  {"id":5751,"text":["fertilizzazione"]}
+ ],
+
+"fertiliser": [
+  {"id":5752,"text":["concime"]},
+  {"id":5753,"text":["fertilizzante"]}
+ ],
+
+"fertilization": [
+  {"id":5756,"text":["concimazione"]},
+  {"id":5757,"text":["fecondazione"]},
+  {"id":5758,"text":["fertilizzazione"]}
+ ],
+
+"fertilizer": [
+  {"id":5754,"text":["concime"]},
+  {"id":5755,"text":["fertilizzante"]}
+ ],
+
+"fervent": [
+  {"id":5759,"text":["fervente"]}
+ ],
+
+"festival": [
+  {"id":5760,"text":["festival"]}
+ ],
+
+"festive": [
+  {"id":5761,"text":["festivo"]}
+ ],
+
+"fetal": [
+  {"id":5762,"text":["fetale"]}
+ ],
+
+"fetish": [
+  {"id":5763,"text":["feticcio"]}
+ ],
+
+"fetishism": [
+  {"id":5764,"text":["feticismo"]}
+ ],
+
+"fetishist": [
+  {"id":5765,"text":["feticista"]}
+ ],
+
+"fetishistic": [
+  {"id":5766,"text":["feticista"]}
+ ],
+
+"feudal": [
+  {"id":5767,"text":["feudale"]}
+ ],
+
+"feudalism": [
+  {"id":5768,"text":["feudalesimo"]}
+ ],
+
+"fever": [
+  {"id":5769,"text":["febbre"]}
+ ],
+
+"feverish": [
+  {"id":5770,"text":["febbrile"]}
+ ],
+
+"feverishly": [
+  {"id":5771,"text":["febbrilmente"]}
+ ],
+
+"few": [
+  {"id":5772,"text":["poco"]},
+  {"id":5773,"text":["pocos"]}
+ ],
+
+"fewer": [
+  {"id":5774,"text":["meno"]}
+ ],
+
+"fiasco": [
+  {"id":5775,"text":["fiasco"]}
+ ],
+
+"fiber": [
+  {"id":5776,"text":["fibra"]}
+ ],
+
+"fibre": [
+  {"id":5777,"text":["fibra"]}
+ ],
+
+"fibrillation": [
+  {"id":5778,"text":["fibrillazione"]}
+ ],
+
+"fibrin": [
+  {"id":5779,"text":["fibrina"]}
+ ],
+
+"fibula": [
+  {"id":5780,"text":["perone"]}
+ ],
+
+"fiction": [
+  {"id":5781,"text":["finzione"]}
+ ],
+
+"fiefdom": [
+  {"id":5782,"text":["infeudazione"]}
+ ],
+
+"field": [
+  {"id":5783,"text":["campo"]}
+ ],
+
+"fierce": [
+  {"id":5784,"text":["feroce"]}
+ ],
+
+"fiercely": [
+  {"id":5785,"text":["ferocemente"]}
+ ],
+
+"fifteen": [
+  {"id":5786,"text":["quindici"]}
+ ],
+
+"fifteenth": [
+  {"id":5787,"text":["quindicesimo"]}
+ ],
+
+"fifteenthousand": [
+  {"id":5788,"text":["quindicimila"]}
+ ],
+
+"fifth": [
+  {"id":5789,"text":["quinto"]}
+ ],
+
+"fiftieth": [
+  {"id":5790,"text":["cinquantesimo"]}
+ ],
+
+"fifty": [
+  {"id":5791,"text":["cinquanta"]}
+ ],
+
+"fiftyeight": [
+  {"id":5792,"text":["cinquantotto"]}
+ ],
+
+"fiftyeightthousand": [
+  {"id":5793,"text":["cinquantottomila"]}
+ ],
+
+"fiftyfive": [
+  {"id":5794,"text":["cinquantacinque"]}
+ ],
+
+"fiftyfivethousand": [
+  {"id":5795,"text":["cinquantacinquemila"]}
+ ],
+
+"fiftyfour": [
+  {"id":5796,"text":["cinquantaquattro"]}
+ ],
+
+"fiftyfourthousand": [
+  {"id":5797,"text":["cinquantaquattromila"]}
+ ],
+
+"fiftynine": [
+  {"id":5798,"text":["cinquantanove"]}
+ ],
+
+"fiftyninethousand": [
+  {"id":5799,"text":["cinquantanovemila"]}
+ ],
+
+"fiftyone": [
+  {"id":5800,"text":["cinquantuno"]}
+ ],
+
+"fiftyonethousand": [
+  {"id":5801,"text":["cinquantunomila"]}
+ ],
+
+"fiftyseven": [
+  {"id":5802,"text":["cinquantasette"]}
+ ],
+
+"fiftyseventhousand": [
+  {"id":5803,"text":["cinquantasettemila"]}
+ ],
+
+"fiftysix": [
+  {"id":5804,"text":["cinquantasei"]}
+ ],
+
+"fiftysixthousand": [
+  {"id":5805,"text":["cinquantaseimila"]}
+ ],
+
+"fiftythousand": [
+  {"id":5806,"text":["cinquantamila"]}
+ ],
+
+"fiftythreethousand": [
+  {"id":5807,"text":["cinquantatremila"]}
+ ],
+
+"fiftytwo": [
+  {"id":5808,"text":["cinquantadue"]}
+ ],
+
+"fiftytwothousand": [
+  {"id":5809,"text":["cinquantaduemila"]}
+ ],
+
+"fig": [
+  {"id":5810,"text":["fico"]}
+ ],
+
+"fight": [
+  {"id":5811,"text":["combattere"]},
+  {"id":5812,"text":["combattimento"]},
+  {"id":5813,"text":["lotta"]},
+  {"id":5814,"text":["lottare"]}
+ ],
+
+"fighter": [
+  {"id":5815,"text":["caccia"]},
+  {"id":5816,"text":["combattente"]}
+ ],
+
+"figurative": [
+  {"id":5817,"text":["figurativo"]}
+ ],
+
+"figure": [
+  {"id":5818,"text":["figura"]},
+  {"id":5819,"text":["rappresentare"]}
+ ],
+
+"filament": [
+  {"id":5820,"text":["filamento"]}
+ ],
+
+"file": [
+  {"id":5821,"text":["archiviare"]},
+  {"id":5822,"text":["archivio"]},
+  {"id":5823,"text":["file"]},
+  {"id":5824,"text":["lima"]}
+ ],
+
+"filial": [
+  {"id":5825,"text":["filiale"]}
+ ],
+
+"filigree": [
+  {"id":5826,"text":["filigrana"]}
+ ],
+
+"fill": [
+  {"id":5827,"text":["colmare"]},
+  {"id":5828,"text":["riempire"]}
+ ],
+
+"fillup": [
+  {"id":5829,"text":["riempire"]}
+ ],
+
+"film": [
+  {"id":5830,"text":["film"]},
+  {"id":5831,"text":["filmare"]},
+  {"id":5832,"text":["pellicola"]}
+ ],
+
+"filmframe": [
+  {"id":5833,"text":["fotogramma"]}
+ ],
+
+"filter": [
+  {"id":5834,"text":["filtrare"]},
+  {"id":5835,"text":["filtro"]}
+ ],
+
+"final": [
+  {"id":5836,"text":["finale"]}
+ ],
+
+"finalisation": [
+  {"id":5837,"text":["ultimazione"]}
+ ],
+
+"finalism": [
+  {"id":5838,"text":["finalismo"]}
+ ],
+
+"finalist": [
+  {"id":5839,"text":["finalista"]}
+ ],
+
+"finally": [
+  {"id":5840,"text":["finalmente"]},
+  {"id":5841,"text":["infine"]}
+ ],
+
+"finance": [
+  {"id":5842,"text":["finanza"]},
+  {"id":5843,"text":["finanziare"]}
+ ],
+
+"financial": [
+  {"id":5844,"text":["finanziario"]}
+ ],
+
+"financially": [
+  {"id":5845,"text":["finanziariamente"]}
+ ],
+
+"find": [
+  {"id":5846,"text":["incontrare"]},
+  {"id":5847,"text":["trovare"]}
+ ],
+
+"finding": [
+  {"id":5848,"text":["constatazione"]}
+ ],
+
+"findout": [
+  {"id":5849,"text":["scoprire"]}
+ ],
+
+"fine": [
+  {"id":5850,"text":["bene"]},
+  {"id":5851,"text":["fino"]},
+  {"id":5852,"text":["multa"]},
+  {"id":5853,"text":["multare"]}
+ ],
+
+"finger": [
+  {"id":5854,"text":["dito"]}
+ ],
+
+"finish": [
+  {"id":5855,"text":["arrivo"]},
+  {"id":5856,"text":["finire"]}
+ ],
+
+"finishing": [
+  {"id":5857,"text":["rifinitura"]}
+ ],
+
+"finite": [
+  {"id":5858,"text":["finito"]}
+ ],
+
+"Finland": [
+  {"id":5859,"text":["Finlandia"]}
+ ],
+
+"finnish": [
+  {"id":5860,"text":["finlandese"]}
+ ],
+
+"fiord": [
+  {"id":5861,"text":["fiordo"]}
+ ],
+
+"fir": [
+  {"id":5862,"text":["abete"]}
+ ],
+
+"fire": [
+  {"id":5863,"text":["fuoco"]},
+  {"id":5864,"text":["incendio"]},
+  {"id":5865,"text":["licenziare"]},
+  {"id":5866,"text":["sparare"]}
+ ],
+
+"fire extinguisher": [
+  {"id":5867,"text":["estintore"]}
+ ],
+
+"firefighter": [
+  {"id":5868,"text":["pompiere"]}
+ ],
+
+"fireman": [
+  {"id":5869,"text":["pompiere"]}
+ ],
+
+"fireplace": [
+  {"id":5870,"text":["camino"]}
+ ],
+
+"firewood": [
+  {"id":5871,"text":["legna"]}
+ ],
+
+"firm": [
+  {"id":5872,"text":["ditta"]},
+  {"id":5873,"text":["fermo"]},
+  {"id":5874,"text":["impresa"]}
+ ],
+
+"firmament": [
+  {"id":5875,"text":["firmamento"]}
+ ],
+
+"firmly": [
+  {"id":5876,"text":["fermamente"]},
+  {"id":5877,"text":["saldamente"]}
+ ],
+
+"firmness": [
+  {"id":5878,"text":["fermezza"]}
+ ],
+
+"first": [
+  {"id":5879,"text":["prima"]},
+  {"id":5880,"text":["primo"]}
+ ],
+
+"first and foremost": [
+  {"id":5881,"text":["innanzitutto"]}
+ ],
+
+"firstly": [
+  {"id":5882,"text":["innanzitutto"]},
+  {"id":5883,"text":["prima"]}
+ ],
+
+"fiscal": [
+  {"id":5884,"text":["fiscale"]}
+ ],
+
+"fish": [
+  {"id":5885,"text":["pescare"]},
+  {"id":5886,"text":["pesce"]}
+ ],
+
+"fisherman": [
+  {"id":5887,"text":["pescatore"]}
+ ],
+
+"fisherwoman": [
+  {"id":5888,"text":["pescatore"]}
+ ],
+
+"fishing": [
+  {"id":5889,"text":["pesca"]}
+ ],
+
+"fishmonger": [
+  {"id":5890,"text":["pescivendolo"]}
+ ],
+
+"fishtank": [
+  {"id":5891,"text":["acquario"]}
+ ],
+
+"fission": [
+  {"id":5892,"text":["fissione"]}
+ ],
+
+"fist": [
+  {"id":5893,"text":["pugno"]}
+ ],
+
+"fistula": [
+  {"id":5894,"text":["fistola"]}
+ ],
+
+"fit": [
+  {"id":5895,"text":["adattare"]},
+  {"id":5896,"text":["atto"]}
+ ],
+
+"five": [
+  {"id":5897,"text":["cinque"]}
+ ],
+
+"fivehundredand": [
+  {"id":5898,"text":["cinquecento"]}
+ ],
+
+"fivehundredth": [
+  {"id":5899,"text":["cinquecentesimo"]}
+ ],
+
+"fivethousand": [
+  {"id":5900,"text":["cinquemila"]}
+ ],
+
+"fix": [
+  {"id":5901,"text":["riparare"]}
+ ],
+
+"fixation": [
+  {"id":5902,"text":["fissazione"]}
+ ],
+
+"flag": [
+  {"id":5903,"text":["bandiera"]},
+  {"id":5904,"text":["segnalare"]}
+ ],
+
+"flageolet": [
+  {"id":5905,"text":["flagioletto"]}
+ ],
+
+"flagrant": [
+  {"id":5906,"text":["flagrante"]}
+ ],
+
+"flail": [
+  {"id":5907,"text":["flagello"]}
+ ],
+
+"flake": [
+  {"id":5908,"text":["fiocco"]},
+  {"id":5909,"text":["squama"]}
+ ],
+
+"flame": [
+  {"id":5910,"text":["fiamma"]}
+ ],
+
+"flamenco": [
+  {"id":5911,"text":["flamenco"]}
+ ],
+
+"flamingo": [
+  {"id":5912,"text":["fenicottero"]}
+ ],
+
+"flange": [
+  {"id":5913,"text":["flangia"]}
+ ],
+
+"flank": [
+  {"id":5914,"text":["fianco"]}
+ ],
+
+"flannel": [
+  {"id":5915,"text":["flanella"]}
+ ],
+
+"flare": [
+  {"id":5916,"text":["bagliore"]},
+  {"id":5917,"text":["fiammata"]}
+ ],
+
+"flash": [
+  {"id":5918,"text":["lampeggiare"]}
+ ],
+
+"flashing": [
+  {"id":5919,"text":["lampeggiante"]}
+ ],
+
+"flat": [
+  {"id":5920,"text":["pavimento"]},
+  {"id":5921,"text":["piatto"]}
+ ],
+
+"flatly": [
+  {"id":5922,"text":["completamente"]}
+ ],
+
+"flatter": [
+  {"id":5923,"text":["lusingare"]}
+ ],
+
+"flatterer": [
+  {"id":5924,"text":["adulatore"]}
+ ],
+
+"flatulence": [
+  {"id":5925,"text":["flatulenza"]}
+ ],
+
+"flautist": [
+  {"id":5926,"text":["flautista"]}
+ ],
+
+"flavor": [
+  {"id":5927,"text":["gusto"]}
+ ],
+
+"flavour": [
+  {"id":5928,"text":["gusto"]}
+ ],
+
+"flaw": [
+  {"id":5929,"text":["difetto"]},
+  {"id":5930,"text":["imperfezione"]},
+  {"id":5931,"text":["pecca"]}
+ ],
+
+"flawless": [
+  {"id":5932,"text":["impeccabile"]}
+ ],
+
+"flawlessly": [
+  {"id":5933,"text":["impeccabilmente"]}
+ ],
+
+"flea": [
+  {"id":5934,"text":["pulce"]}
+ ],
+
+"flee": [
+  {"id":5935,"text":["fuggire"]}
+ ],
+
+"fleece": [
+  {"id":5936,"text":["vello"]}
+ ],
+
+"fleet": [
+  {"id":5937,"text":["flotta"]}
+ ],
+
+"flemish": [
+  {"id":5938,"text":["fiammingo"]}
+ ],
+
+"flesh": [
+  {"id":5939,"text":["carne"]}
+ ],
+
+"flexible": [
+  {"id":5940,"text":["flessibile"]}
+ ],
+
+"flicker": [
+  {"id":5941,"text":["lampeggiare"]}
+ ],
+
+"flickering": [
+  {"id":5942,"text":["intermittente"]},
+  {"id":5943,"text":["lampeggiante"]}
+ ],
+
+"flier": [
+  {"id":5944,"text":["aviatore"]}
+ ],
+
+"flight": [
+  {"id":5945,"text":["volo"]}
+ ],
+
+"flint": [
+  {"id":5946,"text":["selce"]}
+ ],
+
+"flip": [
+  {"id":5947,"text":["capriola"]}
+ ],
+
+"float": [
+  {"id":5948,"text":["fluttuare"]},
+  {"id":5949,"text":["galleggiante"]},
+  {"id":5950,"text":["galleggiare"]}
+ ],
+
+"floating": [
+  {"id":5951,"text":["galleggiante"]}
+ ],
+
+"flocculation": [
+  {"id":5952,"text":["flocculazione"]}
+ ],
+
+"flocculus": [
+  {"id":5953,"text":["floculo"]}
+ ],
+
+"flock": [
+  {"id":5954,"text":["gregge"]}
+ ],
+
+"flood": [
+  {"id":5955,"text":["diluvio"]},
+  {"id":5956,"text":["inondare"]},
+  {"id":5957,"text":["inondazione"]}
+ ],
+
+"floor": [
+  {"id":5958,"text":["pavimento"]},
+  {"id":5959,"text":["suolo"]}
+ ],
+
+"floppy": [
+  {"id":5960,"text":["flessibile"]}
+ ],
+
+"flora": [
+  {"id":5961,"text":["flora"]}
+ ],
+
+"floral": [
+  {"id":5962,"text":["floreale"]}
+ ],
+
+"floriculture": [
+  {"id":5963,"text":["floricoltura"]}
+ ],
+
+"florist": [
+  {"id":5964,"text":["fioreria"]},
+  {"id":5965,"text":["fiorista"]}
+ ],
+
+"flotation": [
+  {"id":5966,"text":["flottazione"]}
+ ],
+
+"flotilla": [
+  {"id":5967,"text":["flottiglia"]}
+ ],
+
+"flour": [
+  {"id":5968,"text":["farina"]}
+ ],
+
+"flourishing": [
+  {"id":5969,"text":["florido"]}
+ ],
+
+"flow": [
+  {"id":5970,"text":["fluire"]},
+  {"id":5971,"text":["flusso"]}
+ ],
+
+"flower": [
+  {"id":5972,"text":["fiore"]},
+  {"id":5973,"text":["fiorire"]}
+ ],
+
+"flowerbed": [
+  {"id":5974,"text":["aiuola"]}
+ ],
+
+"flowering": [
+  {"id":5975,"text":["fioritura"]}
+ ],
+
+"flu": [
+  {"id":5976,"text":["influenza"]}
+ ],
+
+"fluctuate": [
+  {"id":5977,"text":["fluttuare"]}
+ ],
+
+"fluctuation": [
+  {"id":5978,"text":["fluttuazione"]}
+ ],
+
+"fluent": [
+  {"id":5979,"text":["fluido"]}
+ ],
+
+"fluently": [
+  {"id":5980,"text":["fluentemente"]}
+ ],
+
+"fluid": [
+  {"id":5981,"text":["fluido"]}
+ ],
+
+"fluorescein": [
+  {"id":5982,"text":["fluoresceina"]}
+ ],
+
+"fluorescence": [
+  {"id":5983,"text":["fluorescenza"]}
+ ],
+
+"fluorescent": [
+  {"id":5984,"text":["fluorescente"]}
+ ],
+
+"fluoridation": [
+  {"id":5985,"text":["fluorizzazione"]}
+ ],
+
+"fluoride": [
+  {"id":5986,"text":["fluoruro"]}
+ ],
+
+"fluorine": [
+  {"id":5987,"text":["fluoro"]}
+ ],
+
+"fluorite": [
+  {"id":5988,"text":["fluorite"]}
+ ],
+
+"flute": [
+  {"id":5989,"text":["flauto"]}
+ ],
+
+"fluvial": [
+  {"id":5990,"text":["fluviale"]}
+ ],
+
+"fluvirus": [
+  {"id":5991,"text":["virusdell'influenza"]}
+ ],
+
+"fly": [
+  {"id":5992,"text":["mosca"]},
+  {"id":5993,"text":["volare"]}
+ ],
+
+"flyer": [
+  {"id":5994,"text":["aviatore"]}
+ ],
+
+"foal": [
+  {"id":5995,"text":["puledro"]}
+ ],
+
+"foam": [
+  {"id":5996,"text":["schiuma"]},
+  {"id":5997,"text":["spuma"]},
+  {"id":5998,"text":["spumare"]}
+ ],
+
+"focal": [
+  {"id":5999,"text":["focale"]}
+ ],
+
+"focus": [
+  {"id":6000,"text":["centrare"]},
+  {"id":6001,"text":["fuoco"]}
+ ],
+
+"foetus": [
+  {"id":6002,"text":["feto"]}
+ ],
+
+"fog": [
+  {"id":6003,"text":["nebbia"]}
+ ],
+
+"foggy": [
+  {"id":6004,"text":["nebbioso"]}
+ ],
+
+"foil": [
+  {"id":6005,"text":["lamina"]}
+ ],
+
+"fold": [
+  {"id":6006,"text":["piega"]},
+  {"id":6007,"text":["piegare"]}
+ ],
+
+"folder": [
+  {"id":6008,"text":["cartella"]}
+ ],
+
+"folding": [
+  {"id":6009,"text":["piegatura"]}
+ ],
+
+"foliage": [
+  {"id":6010,"text":["fogliame"]}
+ ],
+
+"follicular": [
+  {"id":6011,"text":["follicolare"]}
+ ],
+
+"follow": [
+  {"id":6012,"text":["seguire"]}
+ ],
+
+"follower": [
+  {"id":6013,"text":["seguace"]}
+ ],
+
+"following": [
+  {"id":6014,"text":["seguente"]}
+ ],
+
+"folly": [
+  {"id":6015,"text":["follia"]},
+  {"id":6016,"text":["pazzia"]}
+ ],
+
+"fond": [
+  {"id":6017,"text":["affettuoso"]},
+  {"id":6018,"text":["affezionato"]},
+  {"id":6019,"text":["appassionato"]}
+ ],
+
+"fondly": [
+  {"id":6020,"text":["affettuosamente"]}
+ ],
+
+"fondue": [
+  {"id":6021,"text":["fonduta"]}
+ ],
+
+"font": [
+  {"id":6022,"text":["font"]},
+  {"id":6023,"text":["fonte"]}
+ ],
+
+"food": [
+  {"id":6024,"text":["alimento"]},
+  {"id":6025,"text":["cibo"]}
+ ],
+
+"foolish": [
+  {"id":6026,"text":["ingenuo"]},
+  {"id":6027,"text":["tonto"]}
+ ],
+
+"foolishness": [
+  {"id":6028,"text":["sciocchezza"]}
+ ],
+
+"foot": [
+  {"id":6029,"text":["piede"]}
+ ],
+
+"football": [
+  {"id":6030,"text":["calcio"]}
+ ],
+
+"footballer": [
+  {"id":6031,"text":["calciatore"]}
+ ],
+
+"foothold": [
+  {"id":6032,"text":["appiglio"]}
+ ],
+
+"footpath": [
+  {"id":6033,"text":["sentiero"]}
+ ],
+
+"footprint": [
+  {"id":6034,"text":["impronta"]},
+  {"id":6035,"text":["orma"]}
+ ],
+
+"for": [
+  {"id":6036,"text":["per"]}
+ ],
+
+"for example": [
+  {"id":6037,"text":["per esempio"]}
+ ],
+
+"forage": [
+  {"id":6038,"text":["foraggio"]}
+ ],
+
+"forbid": [
+  {"id":6039,"text":["proibire"]}
+ ],
+
+"forbidden": [
+  {"id":6040,"text":["proibito"]}
+ ],
+
+"force": [
+  {"id":6041,"text":["forza"]},
+  {"id":6042,"text":["forzare"]}
+ ],
+
+"forcedly": [
+  {"id":6043,"text":["forzatamente"]}
+ ],
+
+"forceful": [
+  {"id":6044,"text":["forte"]}
+ ],
+
+"forearm": [
+  {"id":6045,"text":["avambraccio"]}
+ ],
+
+"forecast": [
+  {"id":6046,"text":["previsione"]}
+ ],
+
+"forehead": [
+  {"id":6047,"text":["fronte"]}
+ ],
+
+"foreign": [
+  {"id":6048,"text":["estero"]},
+  {"id":6049,"text":["straniero"]}
+ ],
+
+"foreigner": [
+  {"id":6050,"text":["straniero"]}
+ ],
+
+"foresee": [
+  {"id":6051,"text":["prevedere"]}
+ ],
+
+"forest": [
+  {"id":6052,"text":["foresta"]}
+ ],
+
+"forestry": [
+  {"id":6053,"text":["forestale"]}
+ ],
+
+"forever": [
+  {"id":6054,"text":["per sempre"]}
+ ],
+
+"forge": [
+  {"id":6055,"text":["forgia"]},
+  {"id":6056,"text":["fucina"]}
+ ],
+
+"forget": [
+  {"id":6057,"text":["dimenticare"]},
+  {"id":6058,"text":["scordare"]}
+ ],
+
+"forging": [
+  {"id":6059,"text":["forgiatura"]}
+ ],
+
+"forgive": [
+  {"id":6060,"text":["perdonare"]}
+ ],
+
+"fork": [
+  {"id":6061,"text":["biforcarsi"]},
+  {"id":6062,"text":["forchetta"]},
+  {"id":6063,"text":["inforcare"]}
+ ],
+
+"form": [
+  {"id":6064,"text":["forma"]},
+  {"id":6065,"text":["formare"]},
+  {"id":6066,"text":["metodo"]},
+  {"id":6067,"text":["modulo"]},
+  {"id":6068,"text":["veste"]}
+ ],
+
+"formal": [
+  {"id":6069,"text":["formale"]}
+ ],
+
+"formalisation": [
+  {"id":6070,"text":["formalizzazione"]}
+ ],
+
+"formalise": [
+  {"id":6071,"text":["formalizzare"]}
+ ],
+
+"formally": [
+  {"id":6072,"text":["formalmente"]}
+ ],
+
+"format": [
+  {"id":6073,"text":["formato"]}
+ ],
+
+"formation": [
+  {"id":6074,"text":["educazione"]}
+ ],
+
+"formative": [
+  {"id":6075,"text":["formativo"]}
+ ],
+
+"former": [
+  {"id":6076,"text":["anteriore"]}
+ ],
+
+"formerly": [
+  {"id":6077,"text":["anteriormente"]}
+ ],
+
+"formidable": [
+  {"id":6078,"text":["formidabile"]}
+ ],
+
+"forming": [
+  {"id":6079,"text":["conformazione"]}
+ ],
+
+"formula": [
+  {"id":6080,"text":["formula"]}
+ ],
+
+"formulate": [
+  {"id":6081,"text":["formulare"]}
+ ],
+
+"formulation": [
+  {"id":6082,"text":["formulazione"]}
+ ],
+
+"formwork": [
+  {"id":6083,"text":["cassaforma"]}
+ ],
+
+"forsake": [
+  {"id":6084,"text":["abbandonare"]}
+ ],
+
+"forte": [
+  {"id":6085,"text":["forte"]}
+ ],
+
+"forth": [
+  {"id":6086,"text":["avanti"]}
+ ],
+
+"forthcoming": [
+  {"id":6087,"text":["prossimo"]}
+ ],
+
+"forthwith": [
+  {"id":6088,"text":["immediatamente"]}
+ ],
+
+"fortieth": [
+  {"id":6089,"text":["quarantesimo"]}
+ ],
+
+"fortification": [
+  {"id":6090,"text":["fortificazione"]}
+ ],
+
+"fortify": [
+  {"id":6091,"text":["fortificare"]}
+ ],
+
+"fortnightly": [
+  {"id":6092,"text":["bimensile"]}
+ ],
+
+"fortress": [
+  {"id":6093,"text":["fortezza"]},
+  {"id":6094,"text":["potere"]}
+ ],
+
+"fortunate": [
+  {"id":6095,"text":["fortunato"]}
+ ],
+
+"fortunately": [
+  {"id":6096,"text":["fortunatamente"]}
+ ],
+
+"fortune": [
+  {"id":6097,"text":["fortuna"]}
+ ],
+
+"fortuneteller": [
+  {"id":6098,"text":["indovino"]}
+ ],
+
+"forty": [
+  {"id":6099,"text":["quaranta"]}
+ ],
+
+"fortyeight": [
+  {"id":6100,"text":["quarantotto"]}
+ ],
+
+"fortyeightthousand": [
+  {"id":6101,"text":["quarantottomila"]}
+ ],
+
+"fortyfive": [
+  {"id":6102,"text":["quarantacinque"]}
+ ],
+
+"fortyfivethousand": [
+  {"id":6103,"text":["quarantacinquemila"]}
+ ],
+
+"fortyfour": [
+  {"id":6104,"text":["quarantaquattro"]}
+ ],
+
+"fortyfourthousand": [
+  {"id":6105,"text":["quarantaquattromila"]}
+ ],
+
+"fortynine": [
+  {"id":6106,"text":["quarantanove"]}
+ ],
+
+"fortyninethousand": [
+  {"id":6107,"text":["quarantanovemila"]}
+ ],
+
+"fortyone": [
+  {"id":6108,"text":["quarantuno"]}
+ ],
+
+"fortyonethousand": [
+  {"id":6109,"text":["quarantunomila"]}
+ ],
+
+"fortyseven": [
+  {"id":6110,"text":["quarantasette"]}
+ ],
+
+"fortyseventhousand": [
+  {"id":6111,"text":["quarantasettemila"]}
+ ],
+
+"fortysix": [
+  {"id":6112,"text":["quarantasei"]}
+ ],
+
+"fortysixthousand": [
+  {"id":6113,"text":["quarantaseimila"]}
+ ],
+
+"fortythousand": [
+  {"id":6114,"text":["quarantamila"]}
+ ],
+
+"fortythreethousand": [
+  {"id":6115,"text":["quarantatremila"]}
+ ],
+
+"fortytwo": [
+  {"id":6116,"text":["quarantadue"]}
+ ],
+
+"fortytwothousand": [
+  {"id":6117,"text":["quarantaduemila"]}
+ ],
+
+"forum": [
+  {"id":6118,"text":["foro"]}
+ ],
+
+"forward": [
+  {"id":6119,"text":["avanti"]},
+  {"id":6120,"text":["inviare"]}
+ ],
+
+"fossil": [
+  {"id":6121,"text":["fossile"]}
+ ],
+
+"fossilisation": [
+  {"id":6122,"text":["fossilizzazione"]}
+ ],
+
+"foster": [
+  {"id":6123,"text":["adottivo"]}
+ ],
+
+"foul": [
+  {"id":6124,"text":["fallo"]},
+  {"id":6125,"text":["ripugnante"]}
+ ],
+
+"found": [
+  {"id":6126,"text":["fondare"]}
+ ],
+
+"foundation": [
+  {"id":6127,"text":["fondazione"]}
+ ],
+
+"founder": [
+  {"id":6128,"text":["fondatore"]}
+ ],
+
+"foundry": [
+  {"id":6129,"text":["fusione"]}
+ ],
+
+"fountain": [
+  {"id":6130,"text":["fonte"]}
+ ],
+
+"four": [
+  {"id":6131,"text":["quattro"]}
+ ],
+
+"four-leafclover": [
+  {"id":6132,"text":["quadrifoglio"]}
+ ],
+
+"fourhundred": [
+  {"id":6133,"text":["quattrocento"]}
+ ],
+
+"fourhundredth": [
+  {"id":6134,"text":["quattrocentesimo"]}
+ ],
+
+"fourteen": [
+  {"id":6135,"text":["quattordici"]}
+ ],
+
+"fourteenth": [
+  {"id":6136,"text":["quattordicesimo"]}
+ ],
+
+"fourteenthousand": [
+  {"id":6137,"text":["quattordicimila"]}
+ ],
+
+"fourth": [
+  {"id":6138,"text":["quarto"]}
+ ],
+
+"fourthousand": [
+  {"id":6139,"text":["quattromila"]}
+ ],
+
+"fox": [
+  {"id":6140,"text":["volpe"]}
+ ],
+
+"fraction": [
+  {"id":6141,"text":["frazione"]}
+ ],
+
+"fractionate": [
+  {"id":6142,"text":["frazionare"]}
+ ],
+
+"fracture": [
+  {"id":6143,"text":["frattura"]}
+ ],
+
+"fragile": [
+  {"id":6144,"text":["fragile"]}
+ ],
+
+"fragment": [
+  {"id":6145,"text":["frammento"]}
+ ],
+
+"fragmentation": [
+  {"id":6146,"text":["frammentazione"]}
+ ],
+
+"frame": [
+  {"id":6147,"text":["cornice"]},
+  {"id":6148,"text":["incastrare"]},
+  {"id":6149,"text":["incorniciare"]},
+  {"id":6150,"text":["struttura"]}
+ ],
+
+"framework": [
+  {"id":6151,"text":["struttura"]}
+ ],
+
+"France": [
+  {"id":6152,"text":["Francia"]}
+ ],
+
+"francoist": [
+  {"id":6153,"text":["franchista"]}
+ ],
+
+"frank": [
+  {"id":6154,"text":["franco"]}
+ ],
+
+"frankly": [
+  {"id":6155,"text":["francamente"]}
+ ],
+
+"frankness": [
+  {"id":6156,"text":["franchezza"]}
+ ],
+
+"frantic": [
+  {"id":6157,"text":["frenetico"]}
+ ],
+
+"frantically": [
+  {"id":6158,"text":["freneticamente"]}
+ ],
+
+"fraternal": [
+  {"id":6159,"text":["fraterno"]}
+ ],
+
+"fraternity": [
+  {"id":6160,"text":["fratellanza"]}
+ ],
+
+"fratricide": [
+  {"id":6161,"text":["fratricidio"]}
+ ],
+
+"fraud": [
+  {"id":6162,"text":["frode"]}
+ ],
+
+"fraudulent": [
+  {"id":6163,"text":["fraudolento"]}
+ ],
+
+"fraudulently": [
+  {"id":6164,"text":["fraudolentemente"]}
+ ],
+
+"Frechman": [
+  {"id":6165,"text":["francese"]}
+ ],
+
+"freckle": [
+  {"id":6166,"text":["lentiggine"]}
+ ],
+
+"free": [
+  {"id":6167,"text":["gratis"]},
+  {"id":6168,"text":["gratuito"]},
+  {"id":6169,"text":["liberare"]},
+  {"id":6170,"text":["libero"]}
+ ],
+
+"free will": [
+  {"id":6171,"text":["libero arbitrio"]}
+ ],
+
+"freely": [
+  {"id":6172,"text":["gratuitamente"]},
+  {"id":6173,"text":["liberamente"]}
+ ],
+
+"freemasonry": [
+  {"id":6174,"text":["massoneria"]}
+ ],
+
+"freeze": [
+  {"id":6175,"text":["congelamento"]},
+  {"id":6176,"text":["congelare"]},
+  {"id":6177,"text":["gelare"]},
+  {"id":6178,"text":["gelo"]}
+ ],
+
+"freezing": [
+  {"id":6179,"text":["congelamento"]},
+  {"id":6180,"text":["gelido"]}
+ ],
+
+"freight": [
+  {"id":6181,"text":["fregata"]},
+  {"id":6182,"text":["nolo"]},
+  {"id":6183,"text":["merce"]},
+  {"id":6184,"text":["carico"]}
+ ],
+
+"French": [
+  {"id":6185,"text":["francese"]}
+ ],
+
+"frenetically": [
+  {"id":6186,"text":["freneticamente"]}
+ ],
+
+"frequency": [
+  {"id":6187,"text":["frequenza"]}
+ ],
+
+"frequent": [
+  {"id":6188,"text":["frequente"]}
+ ],
+
+"frequently": [
+  {"id":6189,"text":["frequentemente"]}
+ ],
+
+"fresco": [
+  {"id":6190,"text":["affresco"]}
+ ],
+
+"fresh": [
+  {"id":6191,"text":["fresco"]}
+ ],
+
+"freshen": [
+  {"id":6192,"text":["rinfrescare"]}
+ ],
+
+"freshly": [
+  {"id":6193,"text":["recentemente"]}
+ ],
+
+"freshness": [
+  {"id":6194,"text":["freschezza"]}
+ ],
+
+"friable": [
+  {"id":6195,"text":["friabile"]}
+ ],
+
+"friar": [
+  {"id":6196,"text":["frate"]}
+ ],
+
+"friction": [
+  {"id":6197,"text":["attrito"]}
+ ],
+
+"fridge": [
+  {"id":6198,"text":["frigo"]},
+  {"id":6199,"text":["frigorifero"]}
+ ],
+
+"friend": [
+  {"id":6200,"text":["amico"]}
+ ],
+
+"friendly": [
+  {"id":6201,"text":["amichevole"]}
+ ],
+
+"friendship": [
+  {"id":6202,"text":["amicizia"]}
+ ],
+
+"frigate": [
+  {"id":6203,"text":["fregata"]}
+ ],
+
+"frighten": [
+  {"id":6204,"text":["impaurire"]},
+  {"id":6205,"text":["spaventare"]}
+ ],
+
+"fringe": [
+  {"id":6206,"text":["frangia"]}
+ ],
+
+"frivolous": [
+  {"id":6207,"text":["frivolo"]}
+ ],
+
+"frog": [
+  {"id":6208,"text":["rana"]}
+ ],
+
+"from": [
+  {"id":6209,"text":["da"]},
+  {"id":6210,"text":["di"]}
+ ],
+
+"from now on": [
+  {"id":6211,"text":["d'ora in avanti"]}
+ ],
+
+"fromtimetotime": [
+  {"id":6212,"text":["ditantoinquando"]}
+ ],
+
+"front": [
+  {"id":6213,"text":["fronte"]}
+ ],
+
+"frontal": [
+  {"id":6214,"text":["frontale"]}
+ ],
+
+"frontier": [
+  {"id":6215,"text":["frontiera"]}
+ ],
+
+"frontispiece": [
+  {"id":6216,"text":["frontespizio"]}
+ ],
+
+"frostbite": [
+  {"id":6217,"text":["assideramento"]}
+ ],
+
+"frostbitten": [
+  {"id":6218,"text":["assiderato"]}
+ ],
+
+"fruit": [
+  {"id":6219,"text":["frutto"]}
+ ],
+
+"fruitful": [
+  {"id":6220,"text":["fecondo"]},
+  {"id":6221,"text":["fertile"]},
+  {"id":6222,"text":["fruttifero"]},
+  {"id":6223,"text":["fruttuoso"]}
+ ],
+
+"fruition": [
+  {"id":6224,"text":["fruizione"]}
+ ],
+
+"fruitless": [
+  {"id":6225,"text":["infruttuoso"]}
+ ],
+
+"frustrate": [
+  {"id":6226,"text":["frustrare"]}
+ ],
+
+"frustration": [
+  {"id":6227,"text":["frustrazione"]}
+ ],
+
+"fry": [
+  {"id":6228,"text":["friggere"]},
+  {"id":6229,"text":["patatina"]}
+ ],
+
+"fuel": [
+  {"id":6230,"text":["combustibile"]}
+ ],
+
+"fugitive": [
+  {"id":6231,"text":["fuggitivo"]}
+ ],
+
+"fulcrum": [
+  {"id":6232,"text":["fulcro"]}
+ ],
+
+"fulfil": [
+  {"id":6233,"text":["adempiere"]},
+  {"id":6234,"text":["compiere"]},
+  {"id":6235,"text":["esaudire"]}
+ ],
+
+"fulfill": [
+  {"id":6233,"text":["adempiere"]},
+  {"id":6234,"text":["compiere"]},
+  {"id":6235,"text":["esaudire"]}
+ ],
+
+"fulfillment": [
+  {"id":6237,"text":["compimento"]}
+ ],
+
+"full": [
+  {"id":6238,"text":["pieno"]}
+ ],
+
+"fullblast": [
+  {"id":6239,"text":["rapidamente"]}
+ ],
+
+"fully": [
+  {"id":6240,"text":["pienamente"]}
+ ],
+
+"fulminate": [
+  {"id":6241,"text":["fulminare"]}
+ ],
+
+"fumigation": [
+  {"id":6242,"text":["fumigazione"]}
+ ],
+
+"fun": [
+  {"id":6243,"text":["divertimento"]}
+ ],
+
+"function": [
+  {"id":6244,"text":["funzionare"]},
+  {"id":6245,"text":["funzione"]}
+ ],
+
+"functional": [
+  {"id":6246,"text":["funzionale"]}
+ ],
+
+"functionalism": [
+  {"id":6247,"text":["funzionalismo"]}
+ ],
+
+"functioning": [
+  {"id":6248,"text":["funzionamento"]},
+  {"id":6249,"text":["funzionante"]}
+ ],
+
+"fund": [
+  {"id":6250,"text":["finanziare"]},
+  {"id":6251,"text":["fondo"]}
+ ],
+
+"fundamental": [
+  {"id":6252,"text":["fondamentale"]}
+ ],
+
+"fundamentalism": [
+  {"id":6253,"text":["fondamentalismo"]}
+ ],
+
+"fundamentalist": [
+  {"id":6254,"text":["fondamentalista"]}
+ ],
+
+"fundamentally": [
+  {"id":6255,"text":["fondamentalmente"]}
+ ],
+
+"funding": [
+  {"id":6256,"text":["finanziamento"]}
+ ],
+
+"funeral": [
+  {"id":6257,"text":["funerale"]}
+ ],
+
+"fungible": [
+  {"id":6258,"text":["fungibile"]}
+ ],
+
+"fungus": [
+  {"id":6259,"text":["fungo"]}
+ ],
+
+"funicular": [
+  {"id":6260,"text":["funicolare"]}
+ ],
+
+"funiculus": [
+  {"id":6261,"text":["funicolo"]}
+ ],
+
+"funnel": [
+  {"id":6262,"text":["imbuto"]}
+ ],
+
+"funny": [
+  {"id":6263,"text":["buffo"]}
+ ],
+
+"fur": [
+  {"id":6264,"text":["pelo"]}
+ ],
+
+"furious": [
+  {"id":6265,"text":["furibondo"]}
+ ],
+
+"furiously": [
+  {"id":6266,"text":["furiosamente"]}
+ ],
+
+"furnish": [
+  {"id":6267,"text":["arredare"]}
+ ],
+
+"furniture": [
+  {"id":6268,"text":["arredamento", "arredo", "mobilio"]}
+ ],
+
+"furrier": [
+  {"id":6271,"text":["pellicceria"]},
+  {"id":6272,"text":["pellicciaio"]}
+ ],
+
+"furrow": [
+  {"id":6273,"text":["solco"]}
+ ],
+
+"furthermore": [
+  {"id":6274,"text":["oltretutto"]},
+  {"id":6275,"text":["inoltre"]}
+ ],
+
+"fury": [
+  {"id":6276,"text":["furia"]}
+ ],
+
+"fuse": [
+  {"id":6277,"text":["fondere"]},
+  {"id":6278,"text":["stoppino"]}
+ ],
+
+"fuselage": [
+  {"id":6279,"text":["fusoliera"]}
+ ],
+
+"fusible": [
+  {"id":6280,"text":["fusibile"]}
+ ],
+
+"fusion": [
+  {"id":6281,"text":["fusione"]}
+ ],
+
+"futile": [
+  {"id":6282,"text":["futile"]}
+ ],
+
+"future": [
+  {"id":6283,"text":["futuro"]}
+ ],
+
+"futurism": [
+  {"id":6284,"text":["futurismo"]}
+ ],
+
+"futurist": [
+  {"id":6285,"text":["futurista"]}
+ ],
+
+"futuristic": [
+  {"id":6286,"text":["futurista"]}
+ ]}

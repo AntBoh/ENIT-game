@@ -1,1197 +1,1572 @@
-{
-  "gadolinium": [
-    {"id": 6287,"text": ["gadolinio"]}
-  ],
-  "Gaelic": [
-    {"id": 6288,"text": ["gaelico"]}
-  ],
-  "gain": [
-    {"id": 6289,"text": ["ottenere"]}
-  ],
-  "galaxy": [
-    {"id": 6290,"text": ["galassia"]}
-  ],
-  "Galician": [
-    {"id": 6291,"text": ["galiziano"]}
-  ],
-  "gallery": [
-    {"id": 6292,"text": ["galleria"]}
-  ],
-  "galliard": [
-    {"id": 6293,"text": ["gagliardo"]}
-  ],
-  "gallic": [
-    {"id": 6294,"text": ["gallico"]}
-  ],
-  "gallicism": [
-    {"id": 6295,"text": ["francesismo"]}
-  ],
-  "gallium": [
-    {"id": 6296,"text": ["gallio"]}
-  ],
-  "gallon": [
-    {"id": 6297,"text": ["gallone"]}
-  ],
-  "gallop": [
-    {"id": 6298,"text": ["galoppare"]},
-    {"id": 6299,"text": ["galoppo"]}
-  ],
-  "galvanic": [
-    {"id": 6300,"text": ["galvanico"]}
-  ],
-  "galvanisation": [
-    {"id": 6301,"text": ["galvanizzazione"]}
-  ],
-  "galvanization": [
-    {"id": 6302,"text": ["galvanizzazione"]}
-  ],
-  "galvanometer": [
-    {"id": 6303,"text": ["galvanometro"]}
-  ],
-  "gamble": [
-    {"id": 6304,"text": ["scommessa"]}
-  ],
-  "gambling": [
-    {"id": 6305,"text": ["gioco d'azzardo"]}
-  ],
-  "game": [
-    {"id": 6306,"text": ["gioco"]}
-  ],
-  "gametophyte": [
-    {"id": 6307,"text": ["gametofito"]}
-  ],
-  "gammaglobulin": [
-    {"id": 6308,"text": ["gammaglobuline"]}
-  ],
-  "gammagraphy": [
-    {"id": 6309,"text": ["gammagrafia"]}
-  ],
-  "gang": [
-    {"id": 6310,"text": ["banda"]},
-    {"id": 6311,"text": ["gang"]}
-  ],
-  "ganglion": [
-    {"id": 6312,"text": ["ganglio"]}
-  ],
-  "gangrene": [
-    {"id": 6313,"text": ["cancrena"]}
-  ],
-  "gap": [
-    {"id": 6314,"text": ["buco"]},
-    {"id": 6315,"text": ["vuoto"]}
-  ],
-  "garage": [
-    {"id": 6316,"text": ["garage"]}
-  ],
-  "garbage": [
-    {"id": 6317,"text": ["immondizia"]}
-  ],
-  "garbled": [
-    {"id": 6318,"text": ["confuso"]}
-  ],
-  "garden": [
-    {"id": 6319,"text": ["giardino"]}
-  ],
-  "gardener": [
-    {"id": 6320,"text": ["giardiniere"]}
-  ],
-  "gardening": [
-    {"id": 6321,"text": ["giardinaggio"]}
-  ],
-  "Garfield": [
-    {"id": 6322,"text": ["Garfield"]}
-  ],
-  "garlic": [
-    {"id": 6323,"text": ["aglio"]}
-  ],
-  "garnish": [
-    {"id": 6324,"text": ["guarnire"]}
-  ],
-  "garrison": [
-    {"id": 6325,"text": ["guarnigione"]}
-  ],
-  "gas": [
-    {"id": 6326,"text": ["gas"]}
-  ],
-  "gasification": [
-    {"id": 6327,"text": ["gassificazione"]}
-  ],
-  "gasoline": [
-    {"id": 6328,"text": ["benzina"]}
-  ],
-  "gasometry": [
-    {"id": 6329,"text": ["gasometria"]}
-  ],
-  "gassing": [
-    {"id": 6330,"text": ["gassazione"]}
-  ],
-  "gastric": [
-    {"id": 6331,"text": ["gastrico"]}
-  ],
-  "gastronomy": [
-    {"id": 6332,"text": ["gastronomia"]}
-  ],
-  "gastroscopy": [
-    {"id": 6333,"text": ["gastroscopia"]}
-  ],
-  "gastrulation": [
-    {"id": 6334,"text": ["gastrulazione"]}
-  ],
-  "gate": [
-    {"id": 6335,"text": ["paratoia"]}
-  ],
-  "gateway": [
-    {"id": 6336,"text": ["porta"]}
-  ],
-  "gather": [
-    {"id": 6337,"text": ["congregare"]},
-    {"id": 6338,"text": ["riunire"]}
-  ],
-  "gay": [
-    {"id": 6339,"text": ["gaio"]},
-    {"id": 6340,"text": ["gay"]}
-  ],
-  "gazelle": [
-    {"id": 6341,"text": ["gazzella"]}
-  ],
-  "gazette": [
-    {"id": 6342,"text": ["gazzetta"]}
-  ],
-  "gear": [
-    {"id": 6343,"text": ["equipaggiamento"]},
-    {"id": 6344,"text": ["ingranaggio"]},
-    {"id": 6345,"text": ["marcia"]}
-  ],
-  "gelatin": [
-    {"id": 6346,"text": ["gelatina"]}
-  ],
-  "gelatinous": [
-    {"id": 6347,"text": ["gelatinoso"]}
-  ],
-  "gelling": [
-    {"id": 6348,"text": ["gelificazione"]}
-  ],
-  "gemination": [
-    {"id": 6349,"text": ["geminazione"]}
-  ],
-  "gemmation": [
-    {"id": 6350,"text": ["gemmazione"]}
-  ],
-  "gemology": [
-    {"id": 6351,"text": ["gemmologia"]}
-  ],
-  "gender": [
-    {"id": 6352,"text": ["genere"]}
-  ],
-  "gene": [
-    {"id": 6353,"text": ["gene"]}
-  ],
-  "genealogical": [
-    {"id": 6354,"text": ["genealogico"]}
-  ],
-  "genealogy": [
-    {"id": 6355,"text": ["genealogia"]}
-  ],
-  "general": [
-    {"id": 6356,"text": ["generale"]}
-  ],
-  "generalisation": [
-    {"id": 6357,"text": ["generalizzazione"]}
-  ],
-  "generalise": [
-    {"id": 6358,"text": ["generalizzare"]}
-  ],
-  "generally": [
-    {"id": 6359,"text": ["generalmente"]}
-  ],
-  "generate": [
-    {"id": 6360,"text": ["generare"]}
-  ],
-  "generation": [
-    {"id": 6361,"text": ["generazione"]}
-  ],
-  "generational": [
-    {"id": 6362,"text": ["generazionale"]}
-  ],
-  "generator": [
-    {"id": 6363,"text": ["generatore"]}
-  ],
-  "generic": [
-    {"id": 6364,"text": ["generico"]}
-  ],
-  "generically": [
-    {"id": 6365,"text": ["genericamente"]}
-  ],
-  "generous": [
-    {"id": 6366,"text": ["generoso"]}
-  ],
-  "generously": [
-    {"id": 6367,"text": ["generosamente"]}
-  ],
-  "genetic": [
-    {"id": 6368,"text": ["genetico"]}
-  ],
-  "genetically": [
-    {"id": 6369,"text": ["geneticamente"]}
-  ],
-  "genial": [
-    {"id": 6370,"text": ["geniale"]}
-  ],
-  "genic": [
-    {"id": 6371,"text": ["genico"]}
-  ],
-  "genie": [
-    {"id": 6372,"text": ["genio"]}
-  ],
-  "genital": [
-    {"id": 6373,"text": ["genitale"]}
-  ],
-  "genitive": [
-    {"id": 6374,"text": ["genitivo"]}
-  ],
-  "genius": [
-    {"id": 6375,"text": ["genio"]}
-  ],
-  "Genoa": [
-    {"id": 6376,"text": ["Genova"]}
-  ],
-  "genocide": [
-    {"id": 6377,"text": ["genocidio"]}
-  ],
-  "genome": [
-    {"id": 6378,"text": ["genoma"]}
-  ],
-  "genotype": [
-    {"id": 6379,"text": ["genotipo"]}
-  ],
-  "genre": [
-    {"id": 6380,"text": ["genere"]}
-  ],
-  "gentian": [
-    {"id": 6381,"text": ["genziana"]}
-  ],
-  "gentle": [
-    {"id": 6382,"text": ["gentile"]},
-    {"id": 6383,"text": ["soave"]}
-  ],
-  "gentleman": [
-    {"id": 6384,"text": ["signore"]}
-  ],
-  "genuine": [
-    {"id": 6385,"text": ["genuino"]}
-  ],
-  "genuinely": [
-    {"id": 6386,"text": ["sinceramente"]}
-  ],
-  "geochronology": [
-    {"id": 6387,"text": ["geocronologia"]}
-  ],
-  "geodesic": [
-    {"id": 6388,"text": ["geodetico"]}
-  ],
-  "geodesy": [
-    {"id": 6389,"text": ["geodesia"]}
-  ],
-  "geographic": [
-    {"id": 6390,"text": ["geografico"]}
-  ],
-  "geographical": [
-    {"id": 6391,"text": ["geografico"]}
-  ],
-  "geographically": [
-    {"id": 6392,"text": ["geograficamente"]}
-  ],
-  "geography": [
-    {"id": 6393,"text": ["geografia"]}
-  ],
-  "geoid": [
-    {"id": 6394,"text": ["geoide"]}
-  ],
-  "geological": [
-    {"id": 6395,"text": ["geologico"]}
-  ],
-  "geologically": [
-    {"id": 6396,"text": ["geologicamente"]}
-  ],
-  "geology": [
-    {"id": 6397,"text": ["geologia"]}
-  ],
-  "geomagnetic": [
-    {"id": 6398,"text": ["geomagnetico"]}
-  ],
-  "geometrical": [
-    {"id": 6399,"text": ["geometrico"]}
-  ],
-  "geometrically": [
-    {"id": 6400,"text": ["geometricamente"]}
-  ],
-  "geometry": [
-    {"id": 6401,"text": ["geometria"]}
-  ],
-  "geomorphic": [
-    {"id": 6402,"text": ["geomorfico"]}
-  ],
-  "geomorphological": [
-    {"id": 6403,"text": ["geomorfologico"]}
-  ],
-  "geopolitical": [
-    {"id": 6404,"text": ["geopolitico"]}
-  ],
-  "geothermal": [
-    {"id": 6405,"text": ["geotermico"]}
-  ],
-  "geranium": [
-    {"id": 6406,"text": ["geranio"]}
-  ],
-  "geriatrics": [
-    {"id": 6407,"text": ["geriatria"]}
-  ],
-  "germ": [
-    {"id": 6408,"text": ["germe"]}
-  ],
-  "german": [
-    {"id": 6409,"text": ["tedesco"]}
-  ],
-  "germanic": [
-    {"id": 6410,"text": ["germanico"]}
-  ],
-  "germanisation": [
-    {"id": 6411,"text": ["germanizzazione"]}
-  ],
-  "germanism": [
-    {"id": 6412,"text": ["germanesimo"]}
-  ],
-  "germanium": [
-    {"id": 6413,"text": ["germanio"]}
-  ],
-  "germanization": [
-    {"id": 6414,"text": ["germanizzazione"]}
-  ],
-  "Germany": [
-    {"id": 6415,"text": ["Germania"]}
-  ],
-  "germinal": [
-    {"id": 6416,"text": ["germinale"]}
-  ],
-  "germinate": [
-    {"id": 6417,"text": ["germinare"]}
-  ],
-  "germination": [
-    {"id": 6418,"text": ["germinazione"]}
-  ],
-  "gerontology": [
-    {"id": 6419,"text": ["gerontologia"]}
-  ],
-  "gerund": [
-    {"id": 6420,"text": ["gerundio"]}
-  ],
-  "gestation": [
-    {"id": 6421,"text": ["gestazione"]}
-  ],
-  "gestural": [
-    {"id": 6422,"text": ["gestuale"]}
-  ],
-  "gesture": [
-    {"id": 6423,"text": ["gesto"]}
-  ],
-  "get": [
-    {"id": 6424,"text": ["avere"]},
-    {"id": 6425,"text": ["ottenere"]},
-    {"id": 6426,"text": ["raggiungere"]},
-    {"id": 6427,"text": ["ricevere"]}
-  ],
-  "get better": [
-    {"id": 6428,"text": ["migliorare"]}
-  ],
-  "get close": [
-    {"id": 6429,"text": ["avvicinarsi"]}
-  ],
-  "get dressed": [
-    {"id": 6430,"text": ["vestirsi"]}
-  ],
-  "get in": [
-    {"id": 6431,"text": ["entrare"]}
-  ],
-  "get married": [
-    {"id": 6432,"text": ["sposarsi"]}
-  ],
-  "get off": [
-    {"id": 6433,"text": ["scendere"]}
-  ],
-  "get on": [
-    {"id": 6434,"text": ["salire"]}
-  ],
-  "get out": [
-    {"id": 6435,"text": ["uscire"]}
-  ],
-  "get sick": [
-    {"id": 6436,"text": ["ammalarsi"]}
-  ],
-  "get up": [
-    {"id": 6437,"text": ["alzarsi"]}
-  ],
-  "get worse": [
-    {"id": 6438,"text": ["peggiorare"]}
-  ],
-  "getaway": [
-    {"id": 6439,"text": ["scappare"]}
-  ],
-  "geyser": [
-    {"id": 6440,"text": ["geyser"]}
-  ],
-  "ghetto": [
-    {"id": 6441,"text": ["ghetto"]}
-  ],
-  "ghost": [
-    {"id": 6442,"text": ["fantasma"]},
-    {"id": 6443,"text": ["spettro"]}
-  ],
-  "giant": [
-    {"id": 6444,"text": ["gigante"]}
-  ],
-  "Gibraltar": [
-    {"id": 6445,"text": ["Gibilterra"]}
-  ],
-  "gibraltarian": [
-    {"id": 6446,"text": ["gibilterrino"]}
-  ],
-  "giddiness": [
-    {"id": 6447,"text": ["vertigine"]}
-  ],
-  "gift": [
-    {"id": 6448,"text": ["donare"]},
-    {"id": 6449,"text": ["dono"]},
-    {"id": 6450,"text": ["regalare"]},
-    {"id": 6451,"text": ["regalo"]}
-  ],
-  "gig": [
-    {"id": 6452,"text": ["calesse"]},
-    {"id": 6453,"text": ["spettacolo"]}
-  ],
-  "gigantic": [
-    {"id": 6454,"text": ["gigantesco"]}
-  ],
-  "gigantism": [
-    {"id": 6455,"text": ["gigantismo"]}
-  ],
-  "gild": [
-    {"id": 6456,"text": ["dorare"]}
-  ],
-  "gilding": [
-    {"id": 6457,"text": ["doratura"]}
-  ],
-  "ginger": [
-    {"id": 6458,"text": ["rosso"]},
-    {"id": 6459,"text": ["zenzero"]}
-  ],
-  "gingival": [
-    {"id": 6460,"text": ["gengivale"]}
-  ],
-  "giraffe": [
-    {"id": 6461,"text": ["giraffa"]}
-  ],
-  "girl": [
-    {"id": 6462,"text": ["bambina"]},
-    {"id": 6463,"text": ["ragazza"]}
-  ],
-  "girlfriend": [
-    {"id": 6464,"text": ["fidanzata"]},
-    {"id": 6465,"text": ["ragazza"]}
-  ],
-  "give": [
-    {"id": 6466,"text": ["dare"]},
-    {"id": 6467,"text": ["regalare"]}
-  ],
-  "give birth": [
-    {"id": 6468,"text": ["partorire"]}
-  ],
-  "giveback": [
-    {"id": 6469,"text": ["ridare"]}
-  ],
-  "giveup": [
-    {"id": 6470,"text": ["lasciare"]}
-  ],
-  "gizzard": [
-    {"id": 6471,"text": ["ventriglio"]}
-  ],
-  "glacial": [
-    {"id": 6472,"text": ["glaciale"]}
-  ],
-  "glaciation": [
-    {"id": 6473,"text": ["glaciazione"]}
-  ],
-  "glacier": [
-    {"id": 6474,"text": ["ghiacciaio"]}
-  ],
-  "glaciology": [
-    {"id": 6475,"text": ["glaciologia"]}
-  ],
-  "glad": [
-    {"id": 6476,"text": ["felice"]}
-  ],
-  "gladden": [
-    {"id": 6477,"text": ["allietare"]}
-  ],
-  "glance": [
-    {"id": 6478,"text": ["guardare"]},
-    {"id": 6479,"text": ["occhiata"]},
-    {"id": 6480,"text": ["sguardo"]}
-  ],
-  "gland": [
-    {"id": 6481,"text": ["ghiandola"]}
-  ],
-  "glass": [
-    {"id": 6482,"text": ["bicchiere"]},
-    {"id": 6483,"text": ["vetro"]}
-  ],
-  "glasses": [
-    {"id": 6484,"text": ["occhiale"]}
-  ],
-  "glassmaker": [
-    {"id": 6485,"text": ["vetraio"]}
-  ],
-  "glassware": [
-    {"id": 6486,"text": ["cristalleria"]},
-    {"id": 6487,"text": ["vetreria"]}
-  ],
-  "glassworks": [
-    {"id": 6488,"text": ["vetreria"]}
-  ],
-  "glide": [
-    {"id": 6489,"text": ["planare"]},
-    {"id": 6490,"text": ["planata"]},
-    {"id": 6491,"text": ["scivolare"]}
-  ],
-  "glider": [
-    {"id": 6492,"text": ["aliante"]}
-  ],
-  "glimpse": [
-    {"id": 6493,"text": ["intravedere"]}
-  ],
-  "glitter": [
-    {"id": 6494,"text": ["luccichio"]}
-  ],
-  "global": [
-    {"id": 6495,"text": ["globale"]}
-  ],
-  "globalisation": [
-    {"id": 6496,"text": ["globalizzazione"]}
-  ],
-  "globalization": [
-    {"id": 6497,"text": ["globalizzazione"]}
-  ],
-  "globally": [
-    {"id": 6498,"text": ["globalmente"]}
-  ],
-  "globe": [
-    {"id": 6499,"text": ["globo"]}
-  ],
-  "globin": [
-    {"id": 6500,"text": ["globina"]}
-  ],
-  "globular": [
-    {"id": 6501,"text": ["globulare"]}
-  ],
-  "glorification": [
-    {"id": 6502,"text": ["glorificazione"]}
-  ],
-  "glorify": [
-    {"id": 6503,"text": ["glorificare"]}
-  ],
-  "glorious": [
-    {"id": 6504,"text": ["magnifico"]}
-  ],
-  "gloriously": [
-    {"id": 6505,"text": ["gloriosamente"]}
-  ],
-  "glory": [
-    {"id": 6506,"text": ["gloria"]}
-  ],
-  "gloss": [
-    {"id": 6507,"text": ["lucidare"]}
-  ],
-  "glossary": [
-    {"id": 6508,"text": ["glossario"]}
-  ],
-  "glottochronology": [
-    {"id": 6509,"text": ["glottocronologia"]}
-  ],
-  "glove": [
-    {"id": 6510,"text": ["guanto"]}
-  ],
-  "glow": [
-    {"id": 6511,"text": ["bagliore"]},
-    {"id": 6512,"text": ["brillare"]}
-  ],
-  "glucose": [
-    {"id": 6513,"text": ["glucosio"]}
-  ],
-  "glue": [
-    {"id": 6514,"text": ["colla"]},
-    {"id": 6515,"text": ["incollare"]}
-  ],
-  "gluon": [
-    {"id": 6516,"text": ["gluone"]}
-  ],
-  "glutamine": [
-    {"id": 6517,"text": ["glutammina"]}
-  ],
-  "gluten": [
-    {"id": 6518,"text": ["glutine"]}
-  ],
-  "glycine": [
-    {"id": 6519,"text": ["glicina"]}
-  ],
-  "glycoprotein": [
-    {"id": 6520,"text": ["glicoproteina"]}
-  ],
-  "gnome": [
-    {"id": 6521,"text": ["gnomo"]}
-  ],
-  "gnomon": [
-    {"id": 6522,"text": ["gnomone"]}
-  ],
-  "go": [
-    {"id": 6523,"text": ["andare"]}
-  ],
-  "go down": [
-    {"id": 6524,"text": ["scendere"]}
-  ],
-  "go on": [
-    {"id": 6525,"text": ["proseguire"]}
-  ],
-  "goal": [
-    {"id": 6526,"text": ["goal"]},
-    {"id": 6527,"text": ["obiettivo"]}
-  ],
-  "goat": [
-    {"id": 6528,"text": ["capra"]}
-  ],
-  "goblin": [
-    {"id": 6529,"text": ["folletto"]}
-  ],
-  "God": [
-    {"id": 6530,"text": ["Dio"]}
-  ],
-  "godchild": [
-    {"id": 6531,"text": ["figlioccio"]}
-  ],
-  "goddaughter": [
-    {"id": 6532,"text": ["figlioccia"]}
-  ],
-  "goddess": [
-    {"id": 6533,"text": ["dea"]}
-  ],
-  "godfather": [
-    {"id": 6534,"text": ["padrino"]}
-  ],
-  "godmother": [
-    {"id": 6535,"text": ["madrina"]}
-  ],
-  "godson": [
-    {"id": 6536,"text": ["figlioccio"]}
-  ],
-  "gold": [
-    {"id": 6537,"text": ["oro"]}
-  ],
-  "golden": [
-    {"id": 6538,"text": ["aureo"]},
-    {"id": 6539,"text": ["dorato"]}
-  ],
-  "goldsmith": [
-    {"id": 6540,"text": ["orafo"]}
-  ],
-  "goldsmithing": [
-    {"id": 6541,"text": ["oreficeria"]}
-  ],
-  "gondola": [
-    {"id": 6542,"text": ["gondola"]}
-  ],
-  "gong": [
-    {"id": 6543,"text": ["gong"]}
-  ],
-  "goniometer": [
-    {"id": 6544,"text": ["goniometro"]}
-  ],
-  "good": [
-    {"id": 6545,"text": ["bene"]},
-    {"id": 6546,"text": ["buono"]},
-    {"id": 6547,"text": ["migliore"]}
-  ],
-  "good morning": [
-    {"id": 6548,"text": ["buongiorno"]}
-  ],
-  "good-looking": [
-    {"id": 6549,"text": ["bello"]}
-  ],
-  "goodbye": [
-    {"id": 6550,"text": ["arrivederci"]}
-  ],
-  "goose": [
-    {"id": 6551,"text": ["oca"]}
-  ],
-  "goosebumps": [
-    {"id": 6552,"text": ["pelle d'oca"]}
-  ],
-  "gorilla": [
-    {"id": 6553,"text": ["gorilla"]}
-  ],
-  "goth": [
-    {"id": 6554,"text": ["goto"]}
-  ],
-  "gothic": [
-    {"id": 6555,"text": ["gotico"]}
-  ],
-  "gouge": [
-    {"id": 6556,"text": ["sgorbia"]}
-  ],
-  "goup": [
-    {"id": 6557,"text": ["risalire"]}
-  ],
-  "govern": [
-    {"id": 6558,"text": ["governare"]}
-  ],
-  "governess": [
-    {"id": 6559,"text": ["governante"]}
-  ],
-  "government": [
-    {"id": 6560,"text": ["governo"]}
-  ],
-  "governmental": [
-    {"id": 6561,"text": ["governativo"]}
-  ],
-  "governor": [
-    {"id": 6562,"text": ["governatore"]}
-  ],
-  "grace": [
-    {"id": 6563,"text": ["grazia"]}
-  ],
-  "gradation": [
-    {"id": 6564,"text": ["gradazione"]}
-  ],
-  "grade": [
-    {"id": 6565,"text": ["grado"]},
-    {"id": 6566,"text": ["nota"]}
-  ],
-  "gradient": [
-    {"id": 6567,"text": ["gradiente"]}
-  ],
-  "gradual": [
-    {"id": 6568,"text": ["graduale"]}
-  ],
-  "gradually": [
-    {"id": 6569,"text": ["gradualmente"]}
-  ],
-  "graduate": [
-    {"id": 6570,"text": ["laureare"]},
-    {"id": 6571,"text": ["laureato"]}
-  ],
-  "graft": [
-    {"id": 6572,"text": ["innestare"]},
-    {"id": 6573,"text": ["innesto"]}
-  ],
-  "grain": [
-    {"id": 6574,"text": ["grano"]}
-  ],
-  "gram": [
-    {"id": 6575,"text": ["grammo"]}
-  ],
-  "grammage": [
-    {"id": 6576,"text": ["grammatura"]}
-  ],
-  "grammar": [
-    {"id": 6577,"text": ["grammatica"]}
-  ],
-  "grammarian": [
-    {"id": 6578,"text": ["grammatico"]}
-  ],
-  "grammatical": [
-    {"id": 6579,"text": ["grammaticale"]}
-  ],
-  "grammaticalisation": [
-    {"id": 6580,"text": ["grammaticalizzazione"]}
-  ],
-  "gramme": [
-    {"id": 6581,"text": ["grammo"]}
-  ],
-  "gramophone": [
-    {"id": 6582,"text": ["grammofono"]}
-  ],
-  "granary": [
-    {"id": 6583,"text": ["granaio"]}
-  ],
-  "grand": [
-    {"id": 6584,"text": ["grandioso"]}
-  ],
-  "grand prix": [
-    {"id": 6585,"text": ["gran premio"]}
-  ],
-  "grandchild": [
-    {"id": 6586,"text": ["nipote"]}
-  ],
-  "granddaughter": [
-    {"id": 6587,"text": ["nipote"]}
-  ],
-  "grandfather": [
-    {"id": 6588,"text": ["nonno"]}
-  ],
-  "grandmother": [
-    {"id": 6589,"text": ["nonna"]}
-  ],
-  "grandparent": [
-    {"id": 6590,"text": ["nonno"]}
-  ],
-  "grandson": [
-    {"id": 6591,"text": ["nipote"]}
-  ],
-  "grandstand": [
-    {"id": 6592,"text": ["tribuna"]}
-  ],
-  "granite": [
-    {"id": 6593,"text": ["granito"]}
-  ],
-  "grant": [
-    {"id": 6594,"text": ["concedere"]},
-    {"id": 6595,"text": ["esaudire"]},
-    {"id": 6596,"text": ["sovvenzione"]}
-  ],
-  "granular": [
-    {"id": 6597,"text": ["granulare"]}
-  ],
-  "granulation": [
-    {"id": 6598,"text": ["granulazione"]}
-  ],
-  "granulometry": [
-    {"id": 6599,"text": ["granulometria"]}
-  ],
-  "grape": [
-    {"id": 6600,"text": ["uva"]}
-  ],
-  "grapefruit": [
-    {"id": 6601,"text": ["pompelmo"]}
-  ],
-  "graph": [
-    {"id": 6602,"text": ["grafico"]}
-  ],
-  "graphical": [
-    {"id": 6603,"text": ["grafico"]}
-  ],
-  "graphite": [
-    {"id": 6604,"text": ["grafite"]}
-  ],
-  "graphology": [
-    {"id": 6605,"text": ["grafologia"]}
-  ],
-  "grasp": [
-    {"id": 6606,"text": ["afferrare"]}
-  ],
-  "grass": [
-    {"id": 6607,"text": ["erba"]}
-  ],
-  "grassland": [
-    {"id": 6608,"text": ["prateria"]}
-  ],
-  "grated": [
-    {"id": 6609,"text": ["grattugiato"]}
-  ],
-  "gratefully": [
-    {"id": 6610,"text": ["gratamente"]}
-  ],
-  "grater": [
-    {"id": 6611,"text": ["grattugia"]}
-  ],
-  "gratify": [
-    {"id": 6612,"text": ["gratificare"]}
-  ],
-  "grave": [
-    {"id": 6613,"text": ["grave"]},
-    {"id": 6614,"text": ["tomba"]}
-  ],
-  "gravel": [
-    {"id": 6615,"text": ["ghiaia"]}
-  ],
-  "gravely": [
-    {"id": 6616,"text": ["gravemente"]}
-  ],
-  "gravestone": [
-    {"id": 6617,"text": ["lapide"]}
-  ],
-  "gravimetry": [
-    {"id": 6618,"text": ["gravimetria"]}
-  ],
-  "gravitation": [
-    {"id": 6619,"text": ["gravitazione"]}
-  ],
-  "gravitational": [
-    {"id": 6620,"text": ["gravitazionale"]}
-  ],
-  "gravitationally": [
-    {"id": 6621,"text": ["gravitazionalmente"]}
-  ],
-  "graze": [
-    {"id": 6622,"text": ["pascolare"]}
-  ],
-  "grazier": [
-    {"id": 6623,"text": ["allevamento"]}
-  ],
-  "grease": [
-    {"id": 6624,"text": ["brillantina"]},
-    {"id": 6625,"text": ["grasso"]},
-    {"id": 6626,"text": ["ungere"]}
-  ],
-  "greasy": [
-    {"id": 6627,"text": ["grasso"]},
-    {"id": 6628,"text": ["unto"]}
-  ],
-  "great": [
-    {"id": 6629,"text": ["grande"]},
-    {"id": 6630,"text": ["maggiore"]}
-  ],
-  "Great Britain": [
-    {"id": 6631,"text": ["Gran Bretagna"]}
-  ],
-  "Great War": [
-    {"id": 6632,"text": ["Grande Guerra"]}
-  ],
-  "greater": [
-    {"id": 6633,"text": ["maggiore"]}
-  ],
-  "greatly": [
-    {"id": 6634,"text": ["grandemente"]},
-    {"id": 6635,"text": ["molto"]}
-  ],
-  "greatness": [
-    {"id": 6636,"text": ["grandezza"]}
-  ],
-  "Greece": [
-    {"id": 6637,"text": ["Grecia"]}
-  ],
-  "greedily": [
-    {"id": 6638,"text": ["avidamente"]}
-  ],
-  "greedy": [
-    {"id": 6639,"text": ["avido"]}
-  ],
-  "Greek": [
-    {"id": 6640,"text": ["greco"]}
-  ],
-  "green": [
-    {"id": 6641,"text": ["verde"]}
-  ],
-  "greenhouse": [
-    {"id": 6642,"text": ["serra"]}
-  ],
-  "Greenland": [
-    {"id": 6643,"text": ["Groenlandia"]}
-  ],
-  "greet": [
-    {"id": 6644,"text": ["salutare"]}
-  ],
-  "greeting": [
-    {"id": 6645,"text": ["saluto"]}
-  ],
-  "grenadier": [
-    {"id": 6646,"text": ["granatiere"]}
-  ],
-  "grey": [
-    {"id": 6647,"text": ["grigio"]}
-  ],
-  "greyhound": [
-    {"id": 6648,"text": ["levriero"]}
-  ],
-  "grid": [
-    {"id": 6649,"text": ["griglia"]}
-  ],
-  "grievance": [
-    {"id": 6650,"text": ["lamentela"]}
-  ],
-  "griffin": [
-    {"id": 6651,"text": ["grifone"]}
-  ],
-  "grille": [
-    {"id": 6652,"text": ["griglia"]}
-  ],
-  "grim": [
-    {"id": 6653,"text": ["cupo"]},
-    {"id": 6654,"text": ["sinistro"]},
-    {"id": 6655,"text": ["triste"]}
-  ],
-  "grimace": [
-    {"id": 6656,"text": ["smorfia"]}
-  ],
-  "grind": [
-    {"id": 6657,"text": ["macinare"]},
-    {"id": 6658,"text": ["triturare"]}
-  ],
-  "grinder": [
-    {"id": 6659,"text": ["mulinello"]}
-  ],
-  "grip": [
-    {"id": 6660,"text": ["stretta"]},
-    {"id": 6661,"text": ["stringere"]}
-  ],
-  "grisaille": [
-    {"id": 6662,"text": ["grisaille"]}
-  ],
-  "groan": [
-    {"id": 6663,"text": ["gemere"]}
-  ],
-  "groom": [
-    {"id": 6664,"text": ["fidanzato"]},
-    {"id": 6665,"text": ["spazzolare"]}
-  ],
-  "groove": [
-    {"id": 6666,"text": ["scanalatura"]}
-  ],
-  "gropingly": [
-    {"id": 6667,"text": ["a tentoni"]}
-  ],
-  "gross": [
-    {"id": 6668,"text": ["disgustoso"]},
-    {"id": 6669,"text": ["lordo"]}
-  ],
-  "grotto": [
-    {"id": 6670,"text": ["grotta"]}
-  ],
-  "ground": [
-    {"id": 6671,"text": ["punire"]},
-    {"id": 6672,"text": ["terra"]}
-  ],
-  "groundhog": [
-    {"id": 6673,"text": ["marmotta"]}
-  ],
-  "groundless": [
-    {"id": 6674,"text": ["infondato"]}
-  ],
-  "group": [
-    {"id": 6675,"text": ["gruppo"]},
-    {"id": 6676,"text": ["insieme"]},
-    {"id": 6677,"text": ["raggruppare"]}
-  ],
-  "grouping": [
-    {"id": 6678,"text": ["raggruppazione"]}
-  ],
-  "grow": [
-    {"id": 6679,"text": ["coltivare"]},
-    {"id": 6680,"text": ["crescere"]}
-  ],
-  "growth": [
-    {"id": 6681,"text": ["crescita"]}
-  ],
-  "grumpy": [
-    {"id": 6682,"text": ["scontroso"]}
-  ],
-  "guanine": [
-    {"id": 6683,"text": ["guanina"]}
-  ],
-  "guarantee": [
-    {"id": 6684,"text": ["avallo"]},
-    {"id": 6685,"text": ["garantire"]}
-  ],
-  "guard": [
-    {"id": 6686,"text": ["guardia"]}
-  ],
-  "guerrilla": [
-    {"id": 6687,"text": ["guerriglia"]},
-    {"id": 6688,"text": ["guerrigliero"]}
-  ],
-  "guess": [
-    {"id": 6689,"text": ["indovinare"]},
-    {"id": 6690,"text": ["supposizione"]}
-  ],
-  "guest": [
-    {"id": 6691,"text": ["ospite"]}
-  ],
-  "guesthouse": [
-    {"id": 6692,"text": ["pensione"]}
-  ],
-  "guffaw": [
-    {"id": 6693,"text": ["risata"]}
-  ],
-  "guidance": [
-    {"id": 6694,"text": ["orientamento"]}
-  ],
-  "guide": [
-    {"id": 6695,"text": ["guida"]},
-    {"id": 6696,"text": ["guidare"]}
-  ],
-  "guideline": [
-    {"id": 6697,"text": ["direttrice"]}
-  ],
-  "guild": [
-    {"id": 6698,"text": ["corporazione"]},
-    {"id": 6699,"text": ["gilda"]}
-  ],
-  "guillotine": [
-    {"id": 6700,"text": ["ghigliottina"]}
-  ],
-  "guilty": [
-    {"id": 6701,"text": ["colpevole"]}
-  ],
-  "guitar": [
-    {"id": 6702,"text": ["chitarra"]}
-  ],
-  "guitarist": [
-    {"id": 6703,"text": ["chitarrista"]}
-  ],
-  "gulf": [
-    {"id": 6704,"text": ["golfo"]}
-  ],
-  "gully": [
-    {"id": 6705,"text": ["burrone"]},
-    {"id": 6706,"text": ["gola"]},
-    {"id": 6707,"text": ["canale"]}
-  ],
-  "gum": [
-    {"id": 6708,"text": ["gengiva"]}
-  ],
-  "gun": [
-    {"id": 6709,"text": ["pistola"]}
-  ],
-  "gunboat": [
-    {"id": 6710,"text": ["cannoniera"]}
-  ],
-  "gunpowder": [
-    {"id": 6711,"text": ["polveredasparo"]}
-  ],
-  "guttural": [
-    {"id": 6712,"text": ["gutturale"]}
-  ],
-  "guy": [
-    {"id": 6713,"text": ["tipo"]}
-  ],
-  "gym": [
-    {"id": 6714,"text": ["palestra"]}
-  ],
-  "gymnasium": [
-    {"id": 6715,"text": ["ginnasio"]},
-    {"id": 6716,"text": ["palestra"]}
-  ],
-  "gymnast": [
-    {"id": 6717,"text": ["ginnasta"]}
-  ],
-  "gymnastic": [
-    {"id": 6718,"text": ["ginnastico"]}
-  ],
-  "gymnastics": [
-    {"id": 6719,"text": ["ginnastica"]}
-  ],
-  "gynaecologist": [
-    {"id": 6720,"text": ["ginecologo"]}
-  ],
-  "gynaecology": [
-    {"id": 6721,"text": ["ginecologia"]}
-  ],
-  "gynecomastia": [
-    {"id": 6722,"text": ["ginecomastia"]}
-  ],
-  "gypsum": [
-    {"id": 6723,"text": ["gesso"]}
-  ],
-  "gyroscope": [
-    {"id": 6724,"text": ["giroscopio"]}
-  ],
-  "gyroscopic": [
-    {"id": 6725,"text": ["giroscopico"]}
-  ]
-}
+{"gadolinium": [
+  {"id":6287,"text":["gadolinio"]}
+ ],
+
+"Gaelic": [
+  {"id":6288,"text":["gaelico"]}
+ ],
+
+"gain": [
+  {"id":6289,"text":["ottenere"]}
+ ],
+
+"galaxy": [
+  {"id":6290,"text":["galassia"]}
+ ],
+
+"Galician": [
+  {"id":6291,"text":["galiziano"]}
+ ],
+
+"gallery": [
+  {"id":6292,"text":["galleria"]}
+ ],
+
+"galliard": [
+  {"id":6293,"text":["gagliardo"]}
+ ],
+
+"gallic": [
+  {"id":6294,"text":["gallico"]}
+ ],
+
+"gallicism": [
+  {"id":6295,"text":["francesismo"]}
+ ],
+
+"gallium": [
+  {"id":6296,"text":["gallio"]}
+ ],
+
+"gallon": [
+  {"id":6297,"text":["gallone"]}
+ ],
+
+"gallop": [
+  {"id":6298,"text":["galoppare"]},
+  {"id":6299,"text":["galoppo"]}
+ ],
+
+"galvanic": [
+  {"id":6300,"text":["galvanico"]}
+ ],
+
+"galvanisation": [
+  {"id":6301,"text":["galvanizzazione"]}
+ ],
+
+"galvanization": [
+  {"id":6302,"text":["galvanizzazione"]}
+ ],
+
+"galvanometer": [
+  {"id":6303,"text":["galvanometro"]}
+ ],
+
+"gamble": [
+  {"id":6304,"text":["scommessa"]}
+ ],
+
+"gambling": [
+  {"id":6305,"text":["gioco d'azzardo"]}
+ ],
+
+"game": [
+  {"id":6306,"text":["gioco"]}
+ ],
+
+"gametophyte": [
+  {"id":6307,"text":["gametofito"]}
+ ],
+
+"gammaglobulin": [
+  {"id":6308,"text":["gammaglobuline"]}
+ ],
+
+"gammagraphy": [
+  {"id":6309,"text":["gammagrafia"]}
+ ],
+
+"gang": [
+  {"id":6310,"text":["banda"]},
+  {"id":6311,"text":["gang"]}
+ ],
+
+"ganglion": [
+  {"id":6312,"text":["ganglio"]}
+ ],
+
+"gangrene": [
+  {"id":6313,"text":["cancrena"]}
+ ],
+
+"gap": [
+  {"id":6314,"text":["buco"]},
+  {"id":6315,"text":["vuoto"]}
+ ],
+
+"garage": [
+  {"id":6316,"text":["garage"]}
+ ],
+
+"garbage": [
+  {"id":6317,"text":["immondizia"]}
+ ],
+
+"garbled": [
+  {"id":6318,"text":["confuso"]}
+ ],
+
+"garden": [
+  {"id":6319,"text":["giardino"]}
+ ],
+
+"gardener": [
+  {"id":6320,"text":["giardiniere"]}
+ ],
+
+"gardening": [
+  {"id":6321,"text":["giardinaggio"]}
+ ],
+
+"Garfield": [
+  {"id":6322,"text":["Garfield"]}
+ ],
+
+"garlic": [
+  {"id":6323,"text":["aglio"]}
+ ],
+
+"garnish": [
+  {"id":6324,"text":["guarnire"]}
+ ],
+
+"garrison": [
+  {"id":6325,"text":["guarnigione"]}
+ ],
+
+"gas": [
+  {"id":6326,"text":["gas"]}
+ ],
+
+"gasification": [
+  {"id":6327,"text":["gassificazione"]}
+ ],
+
+"gasoline": [
+  {"id":6328,"text":["benzina"]}
+ ],
+
+"gasometry": [
+  {"id":6329,"text":["gasometria"]}
+ ],
+
+"gassing": [
+  {"id":6330,"text":["gassazione"]}
+ ],
+
+"gastric": [
+  {"id":6331,"text":["gastrico"]}
+ ],
+
+"gastronomy": [
+  {"id":6332,"text":["gastronomia"]}
+ ],
+
+"gastroscopy": [
+  {"id":6333,"text":["gastroscopia"]}
+ ],
+
+"gastrulation": [
+  {"id":6334,"text":["gastrulazione"]}
+ ],
+
+"gate": [
+  {"id":6335,"text":["paratoia"]}
+ ],
+
+"gateway": [
+  {"id":6336,"text":["porta"]}
+ ],
+
+"gather": [
+  {"id":6337,"text":["congregare"]},
+  {"id":6338,"text":["riunire"]}
+ ],
+
+"gay": [
+  {"id":6339,"text":["gaio"]},
+  {"id":6340,"text":["gay"]}
+ ],
+
+"gazelle": [
+  {"id":6341,"text":["gazzella"]}
+ ],
+
+"gazette": [
+  {"id":6342,"text":["gazzetta"]}
+ ],
+
+"gear": [
+  {"id":6343,"text":["equipaggiamento"]},
+  {"id":6344,"text":["ingranaggio"]},
+  {"id":6345,"text":["marcia"]}
+ ],
+
+"gelatin": [
+  {"id":6346,"text":["gelatina"]}
+ ],
+
+"gelatinous": [
+  {"id":6347,"text":["gelatinoso"]}
+ ],
+
+"gelling": [
+  {"id":6348,"text":["gelificazione"]}
+ ],
+
+"gemination": [
+  {"id":6349,"text":["geminazione"]}
+ ],
+
+"gemmation": [
+  {"id":6350,"text":["gemmazione"]}
+ ],
+
+"gemology": [
+  {"id":6351,"text":["gemmologia"]}
+ ],
+
+"gender": [
+  {"id":6352,"text":["genere"]}
+ ],
+
+"gene": [
+  {"id":6353,"text":["gene"]}
+ ],
+
+"genealogical": [
+  {"id":6354,"text":["genealogico"]}
+ ],
+
+"genealogy": [
+  {"id":6355,"text":["genealogia"]}
+ ],
+
+"general": [
+  {"id":6356,"text":["generale"]}
+ ],
+
+"generalisation": [
+  {"id":6357,"text":["generalizzazione"]}
+ ],
+
+"generalise": [
+  {"id":6358,"text":["generalizzare"]}
+ ],
+
+"generally": [
+  {"id":6359,"text":["generalmente"]}
+ ],
+
+"generate": [
+  {"id":6360,"text":["generare"]}
+ ],
+
+"generation": [
+  {"id":6361,"text":["generazione"]}
+ ],
+
+"generational": [
+  {"id":6362,"text":["generazionale"]}
+ ],
+
+"generator": [
+  {"id":6363,"text":["generatore"]}
+ ],
+
+"generic": [
+  {"id":6364,"text":["generico"]}
+ ],
+
+"generically": [
+  {"id":6365,"text":["genericamente"]}
+ ],
+
+"generous": [
+  {"id":6366,"text":["generoso"]}
+ ],
+
+"generously": [
+  {"id":6367,"text":["generosamente"]}
+ ],
+
+"genetic": [
+  {"id":6368,"text":["genetico"]}
+ ],
+
+"genetically": [
+  {"id":6369,"text":["geneticamente"]}
+ ],
+
+"genial": [
+  {"id":6370,"text":["geniale"]}
+ ],
+
+"genic": [
+  {"id":6371,"text":["genico"]}
+ ],
+
+"genie": [
+  {"id":6372,"text":["genio"]}
+ ],
+
+"genital": [
+  {"id":6373,"text":["genitale"]}
+ ],
+
+"genitive": [
+  {"id":6374,"text":["genitivo"]}
+ ],
+
+"genius": [
+  {"id":6375,"text":["genio"]}
+ ],
+
+"Genoa": [
+  {"id":6376,"text":["Genova"]}
+ ],
+
+"genocide": [
+  {"id":6377,"text":["genocidio"]}
+ ],
+
+"genome": [
+  {"id":6378,"text":["genoma"]}
+ ],
+
+"genotype": [
+  {"id":6379,"text":["genotipo"]}
+ ],
+
+"genre": [
+  {"id":6380,"text":["genere"]}
+ ],
+
+"gentian": [
+  {"id":6381,"text":["genziana"]}
+ ],
+
+"gentle": [
+  {"id":6382,"text":["gentile"]},
+  {"id":6383,"text":["soave"]}
+ ],
+
+"gentleman": [
+  {"id":6384,"text":["signore"]}
+ ],
+
+"genuine": [
+  {"id":6385,"text":["genuino"]}
+ ],
+
+"genuinely": [
+  {"id":6386,"text":["sinceramente"]}
+ ],
+
+"geochronology": [
+  {"id":6387,"text":["geocronologia"]}
+ ],
+
+"geodesic": [
+  {"id":6388,"text":["geodetico"]}
+ ],
+
+"geodesy": [
+  {"id":6389,"text":["geodesia"]}
+ ],
+
+"geographic": [
+  {"id":6390,"text":["geografico"]}
+ ],
+
+"geographical": [
+  {"id":6391,"text":["geografico"]}
+ ],
+
+"geographically": [
+  {"id":6392,"text":["geograficamente"]}
+ ],
+
+"geography": [
+  {"id":6393,"text":["geografia"]}
+ ],
+
+"geoid": [
+  {"id":6394,"text":["geoide"]}
+ ],
+
+"geological": [
+  {"id":6395,"text":["geologico"]}
+ ],
+
+"geologically": [
+  {"id":6396,"text":["geologicamente"]}
+ ],
+
+"geology": [
+  {"id":6397,"text":["geologia"]}
+ ],
+
+"geomagnetic": [
+  {"id":6398,"text":["geomagnetico"]}
+ ],
+
+"geometrical": [
+  {"id":6399,"text":["geometrico"]}
+ ],
+
+"geometrically": [
+  {"id":6400,"text":["geometricamente"]}
+ ],
+
+"geometry": [
+  {"id":6401,"text":["geometria"]}
+ ],
+
+"geomorphic": [
+  {"id":6402,"text":["geomorfico"]}
+ ],
+
+"geomorphological": [
+  {"id":6403,"text":["geomorfologico"]}
+ ],
+
+"geopolitical": [
+  {"id":6404,"text":["geopolitico"]}
+ ],
+
+"geothermal": [
+  {"id":6405,"text":["geotermico"]}
+ ],
+
+"geranium": [
+  {"id":6406,"text":["geranio"]}
+ ],
+
+"geriatrics": [
+  {"id":6407,"text":["geriatria"]}
+ ],
+
+"germ": [
+  {"id":6408,"text":["germe"]}
+ ],
+
+"german": [
+  {"id":6409,"text":["tedesco"]}
+ ],
+
+"germanic": [
+  {"id":6410,"text":["germanico"]}
+ ],
+
+"germanisation": [
+  {"id":6411,"text":["germanizzazione"]}
+ ],
+
+"germanism": [
+  {"id":6412,"text":["germanesimo"]}
+ ],
+
+"germanium": [
+  {"id":6413,"text":["germanio"]}
+ ],
+
+"germanization": [
+  {"id":6414,"text":["germanizzazione"]}
+ ],
+
+"Germany": [
+  {"id":6415,"text":["Germania"]}
+ ],
+
+"germinal": [
+  {"id":6416,"text":["germinale"]}
+ ],
+
+"germinate": [
+  {"id":6417,"text":["germinare"]}
+ ],
+
+"germination": [
+  {"id":6418,"text":["germinazione"]}
+ ],
+
+"gerontology": [
+  {"id":6419,"text":["gerontologia"]}
+ ],
+
+"gerund": [
+  {"id":6420,"text":["gerundio"]}
+ ],
+
+"gestation": [
+  {"id":6421,"text":["gestazione"]}
+ ],
+
+"gestural": [
+  {"id":6422,"text":["gestuale"]}
+ ],
+
+"gesture": [
+  {"id":6423,"text":["gesto"]}
+ ],
+
+"get": [
+  {"id":6424,"text":["avere"]},
+  {"id":6425,"text":["ottenere"]},
+  {"id":6426,"text":["raggiungere"]},
+  {"id":6427,"text":["ricevere"]}
+ ],
+
+"get better": [
+  {"id":6428,"text":["migliorare"]}
+ ],
+
+"get close": [
+  {"id":6429,"text":["avvicinarsi"]}
+ ],
+
+"get dressed": [
+  {"id":6430,"text":["vestirsi"]}
+ ],
+
+"get in": [
+  {"id":6431,"text":["entrare"]}
+ ],
+
+"get married": [
+  {"id":6432,"text":["sposarsi"]}
+ ],
+
+"get off": [
+  {"id":6433,"text":["scendere"]}
+ ],
+
+"get on": [
+  {"id":6434,"text":["salire"]}
+ ],
+
+"get out": [
+  {"id":6435,"text":["uscire"]}
+ ],
+
+"get sick": [
+  {"id":6436,"text":["ammalarsi"]}
+ ],
+
+"get up": [
+  {"id":6437,"text":["alzarsi"]}
+ ],
+
+"get worse": [
+  {"id":6438,"text":["peggiorare"]}
+ ],
+
+"getaway": [
+  {"id":6439,"text":["scappare"]}
+ ],
+
+"geyser": [
+  {"id":6440,"text":["geyser"]}
+ ],
+
+"ghetto": [
+  {"id":6441,"text":["ghetto"]}
+ ],
+
+"ghost": [
+  {"id":6442,"text":["fantasma"]},
+  {"id":6443,"text":["spettro"]}
+ ],
+
+"giant": [
+  {"id":6444,"text":["gigante"]}
+ ],
+
+"Gibraltar": [
+  {"id":6445,"text":["Gibilterra"]}
+ ],
+
+"gibraltarian": [
+  {"id":6446,"text":["gibilterrino"]}
+ ],
+
+"giddiness": [
+  {"id":6447,"text":["vertigine"]}
+ ],
+
+"gift": [
+  {"id":6448,"text":["donare"]},
+  {"id":6449,"text":["dono"]},
+  {"id":6450,"text":["regalare"]},
+  {"id":6451,"text":["regalo"]}
+ ],
+
+"gig": [
+  {"id":6452,"text":["calesse"]},
+  {"id":6453,"text":["spettacolo"]}
+ ],
+
+"gigantic": [
+  {"id":6454,"text":["gigantesco"]}
+ ],
+
+"gigantism": [
+  {"id":6455,"text":["gigantismo"]}
+ ],
+
+"gild": [
+  {"id":6456,"text":["dorare"]}
+ ],
+
+"gilding": [
+  {"id":6457,"text":["doratura"]}
+ ],
+
+"ginger": [
+  {"id":6458,"text":["rosso"]},
+  {"id":6459,"text":["zenzero"]}
+ ],
+
+"gingival": [
+  {"id":6460,"text":["gengivale"]}
+ ],
+
+"giraffe": [
+  {"id":6461,"text":["giraffa"]}
+ ],
+
+"girl": [
+  {"id":6462,"text":["bambina"]},
+  {"id":6463,"text":["ragazza"]}
+ ],
+
+"girlfriend": [
+  {"id":6464,"text":["fidanzata"]},
+  {"id":6465,"text":["ragazza"]}
+ ],
+
+"give": [
+  {"id":6466,"text":["dare"]},
+  {"id":6467,"text":["regalare"]}
+ ],
+
+"give birth": [
+  {"id":6468,"text":["partorire"]}
+ ],
+
+"giveback": [
+  {"id":6469,"text":["ridare"]}
+ ],
+
+"giveup": [
+  {"id":6470,"text":["lasciare"]}
+ ],
+
+"gizzard": [
+  {"id":6471,"text":["ventriglio"]}
+ ],
+
+"glacial": [
+  {"id":6472,"text":["glaciale"]}
+ ],
+
+"glaciation": [
+  {"id":6473,"text":["glaciazione"]}
+ ],
+
+"glacier": [
+  {"id":6474,"text":["ghiacciaio"]}
+ ],
+
+"glaciology": [
+  {"id":6475,"text":["glaciologia"]}
+ ],
+
+"glad": [
+  {"id":6476,"text":["felice"]}
+ ],
+
+"gladden": [
+  {"id":6477,"text":["allietare"]}
+ ],
+
+"glance": [
+  {"id":6478,"text":["guardare"]},
+  {"id":6479,"text":["occhiata"]},
+  {"id":6480,"text":["sguardo"]}
+ ],
+
+"gland": [
+  {"id":6481,"text":["ghiandola"]}
+ ],
+
+"glass": [
+  {"id":6482,"text":["bicchiere"]},
+  {"id":6483,"text":["vetro"]}
+ ],
+
+"glasses": [
+  {"id":6484,"text":["occhiale"]}
+ ],
+
+"glassmaker": [
+  {"id":6485,"text":["vetraio"]}
+ ],
+
+"glassware": [
+  {"id":6486,"text":["cristalleria"]},
+  {"id":6487,"text":["vetreria"]}
+ ],
+
+"glassworks": [
+  {"id":6488,"text":["vetreria"]}
+ ],
+
+"glide": [
+  {"id":6489,"text":["planare"]},
+  {"id":6490,"text":["planata"]},
+  {"id":6491,"text":["scivolare"]}
+ ],
+
+"glider": [
+  {"id":6492,"text":["aliante"]}
+ ],
+
+"glimpse": [
+  {"id":6493,"text":["intravedere"]}
+ ],
+
+"glitter": [
+  {"id":6494,"text":["luccichio"]}
+ ],
+
+"global": [
+  {"id":6495,"text":["globale"]}
+ ],
+
+"globalisation": [
+  {"id":6496,"text":["globalizzazione"]}
+ ],
+
+"globalization": [
+  {"id":6497,"text":["globalizzazione"]}
+ ],
+
+"globally": [
+  {"id":6498,"text":["globalmente"]}
+ ],
+
+"globe": [
+  {"id":6499,"text":["globo"]}
+ ],
+
+"globin": [
+  {"id":6500,"text":["globina"]}
+ ],
+
+"globular": [
+  {"id":6501,"text":["globulare"]}
+ ],
+
+"glorification": [
+  {"id":6502,"text":["glorificazione"]}
+ ],
+
+"glorify": [
+  {"id":6503,"text":["glorificare"]}
+ ],
+
+"glorious": [
+  {"id":6504,"text":["magnifico"]}
+ ],
+
+"gloriously": [
+  {"id":6505,"text":["gloriosamente"]}
+ ],
+
+"glory": [
+  {"id":6506,"text":["gloria"]}
+ ],
+
+"gloss": [
+  {"id":6507,"text":["lucidare"]}
+ ],
+
+"glossary": [
+  {"id":6508,"text":["glossario"]}
+ ],
+
+"glottochronology": [
+  {"id":6509,"text":["glottocronologia"]}
+ ],
+
+"glove": [
+  {"id":6510,"text":["guanto"]}
+ ],
+
+"glow": [
+  {"id":6511,"text":["bagliore"]},
+  {"id":6512,"text":["brillare"]}
+ ],
+
+"glucose": [
+  {"id":6513,"text":["glucosio"]}
+ ],
+
+"glue": [
+  {"id":6514,"text":["colla"]},
+  {"id":6515,"text":["incollare"]}
+ ],
+
+"gluon": [
+  {"id":6516,"text":["gluone"]}
+ ],
+
+"glutamine": [
+  {"id":6517,"text":["glutammina"]}
+ ],
+
+"gluten": [
+  {"id":6518,"text":["glutine"]}
+ ],
+
+"glycine": [
+  {"id":6519,"text":["glicina"]}
+ ],
+
+"glycoprotein": [
+  {"id":6520,"text":["glicoproteina"]}
+ ],
+
+"gnome": [
+  {"id":6521,"text":["gnomo"]}
+ ],
+
+"gnomon": [
+  {"id":6522,"text":["gnomone"]}
+ ],
+
+"go": [
+  {"id":6523,"text":["andare"]}
+ ],
+
+"go down": [
+  {"id":6524,"text":["scendere"]}
+ ],
+
+"go on": [
+  {"id":6525,"text":["proseguire"]}
+ ],
+
+"goal": [
+  {"id":6526,"text":["goal"]},
+  {"id":6527,"text":["obiettivo"]}
+ ],
+
+"goat": [
+  {"id":6528,"text":["capra"]}
+ ],
+
+"goblin": [
+  {"id":6529,"text":["folletto"]}
+ ],
+
+"God": [
+  {"id":6530,"text":["Dio"]}
+ ],
+
+"godchild": [
+  {"id":6531,"text":["figlioccio"]}
+ ],
+
+"goddaughter": [
+  {"id":6532,"text":["figlioccia"]}
+ ],
+
+"goddess": [
+  {"id":6533,"text":["dea"]}
+ ],
+
+"godfather": [
+  {"id":6534,"text":["padrino"]}
+ ],
+
+"godmother": [
+  {"id":6535,"text":["madrina"]}
+ ],
+
+"godson": [
+  {"id":6536,"text":["figlioccio"]}
+ ],
+
+"gold": [
+  {"id":6537,"text":["oro"]}
+ ],
+
+"golden": [
+  {"id":6538,"text":["aureo"]},
+  {"id":6539,"text":["dorato"]}
+ ],
+
+"goldsmith": [
+  {"id":6540,"text":["orafo"]}
+ ],
+
+"goldsmithing": [
+  {"id":6541,"text":["oreficeria"]}
+ ],
+
+"gondola": [
+  {"id":6542,"text":["gondola"]}
+ ],
+
+"gong": [
+  {"id":6543,"text":["gong"]}
+ ],
+
+"goniometer": [
+  {"id":6544,"text":["goniometro"]}
+ ],
+
+"good": [
+  {"id":6545,"text":["bene"]},
+  {"id":6546,"text":["buono"]},
+  {"id":6547,"text":["migliore"]}
+ ],
+
+"good morning": [
+  {"id":6548,"text":["buongiorno"]}
+ ],
+
+"good-looking": [
+  {"id":6549,"text":["bello"]}
+ ],
+
+"goodbye": [
+  {"id":6550,"text":["arrivederci"]}
+ ],
+
+"goose": [
+  {"id":6551,"text":["oca"]}
+ ],
+
+"goosebumps": [
+  {"id":6552,"text":["pelle d'oca"]}
+ ],
+
+"gorilla": [
+  {"id":6553,"text":["gorilla"]}
+ ],
+
+"goth": [
+  {"id":6554,"text":["goto"]}
+ ],
+
+"gothic": [
+  {"id":6555,"text":["gotico"]}
+ ],
+
+"gouge": [
+  {"id":6556,"text":["sgorbia"]}
+ ],
+
+"goup": [
+  {"id":6557,"text":["risalire"]}
+ ],
+
+"govern": [
+  {"id":6558,"text":["governare"]}
+ ],
+
+"governess": [
+  {"id":6559,"text":["governante"]}
+ ],
+
+"government": [
+  {"id":6560,"text":["governo"]}
+ ],
+
+"governmental": [
+  {"id":6561,"text":["governativo"]}
+ ],
+
+"governor": [
+  {"id":6562,"text":["governatore"]}
+ ],
+
+"grace": [
+  {"id":6563,"text":["grazia"]}
+ ],
+
+"gradation": [
+  {"id":6564,"text":["gradazione"]}
+ ],
+
+"grade": [
+  {"id":6565,"text":["grado"]},
+  {"id":6566,"text":["nota"]}
+ ],
+
+"gradient": [
+  {"id":6567,"text":["gradiente"]}
+ ],
+
+"gradual": [
+  {"id":6568,"text":["graduale"]}
+ ],
+
+"gradually": [
+  {"id":6569,"text":["gradualmente"]}
+ ],
+
+"graduate": [
+  {"id":6570,"text":["laureare"]},
+  {"id":6571,"text":["laureato"]}
+ ],
+
+"graft": [
+  {"id":6572,"text":["innestare"]},
+  {"id":6573,"text":["innesto"]}
+ ],
+
+"grain": [
+  {"id":6574,"text":["grano"]}
+ ],
+
+"gram": [
+  {"id":6575,"text":["grammo"]}
+ ],
+
+"grammage": [
+  {"id":6576,"text":["grammatura"]}
+ ],
+
+"grammar": [
+  {"id":6577,"text":["grammatica"]}
+ ],
+
+"grammarian": [
+  {"id":6578,"text":["grammatico"]}
+ ],
+
+"grammatical": [
+  {"id":6579,"text":["grammaticale"]}
+ ],
+
+"grammaticalisation": [
+  {"id":6580,"text":["grammaticalizzazione"]}
+ ],
+
+"gramme": [
+  {"id":6581,"text":["grammo"]}
+ ],
+
+"gramophone": [
+  {"id":6582,"text":["grammofono"]}
+ ],
+
+"granary": [
+  {"id":6583,"text":["granaio"]}
+ ],
+
+"grand": [
+  {"id":6584,"text":["grandioso"]}
+ ],
+
+"grand prix": [
+  {"id":6585,"text":["gran premio"]}
+ ],
+
+"grandchild": [
+  {"id":6586,"text":["nipote"]}
+ ],
+
+"granddaughter": [
+  {"id":6587,"text":["nipote"]}
+ ],
+
+"grandfather": [
+  {"id":6588,"text":["nonno"]}
+ ],
+
+"grandmother": [
+  {"id":6589,"text":["nonna"]}
+ ],
+
+"grandparent": [
+  {"id":6590,"text":["nonno"]}
+ ],
+
+"grandson": [
+  {"id":6591,"text":["nipote"]}
+ ],
+
+"grandstand": [
+  {"id":6592,"text":["tribuna"]}
+ ],
+
+"granite": [
+  {"id":6593,"text":["granito"]}
+ ],
+
+"grant": [
+  {"id":6594,"text":["concedere"]},
+  {"id":6595,"text":["esaudire"]},
+  {"id":6596,"text":["sovvenzione"]}
+ ],
+
+"granular": [
+  {"id":6597,"text":["granulare"]}
+ ],
+
+"granulation": [
+  {"id":6598,"text":["granulazione"]}
+ ],
+
+"granulometry": [
+  {"id":6599,"text":["granulometria"]}
+ ],
+
+"grape": [
+  {"id":6600,"text":["uva"]}
+ ],
+
+"grapefruit": [
+  {"id":6601,"text":["pompelmo"]}
+ ],
+
+"graph": [
+  {"id":6602,"text":["grafico"]}
+ ],
+
+"graphical": [
+  {"id":6603,"text":["grafico"]}
+ ],
+
+"graphite": [
+  {"id":6604,"text":["grafite"]}
+ ],
+
+"graphology": [
+  {"id":6605,"text":["grafologia"]}
+ ],
+
+"grasp": [
+  {"id":6606,"text":["afferrare"]}
+ ],
+
+"grass": [
+  {"id":6607,"text":["erba"]}
+ ],
+
+"grassland": [
+  {"id":6608,"text":["prateria"]}
+ ],
+
+"grated": [
+  {"id":6609,"text":["grattugiato"]}
+ ],
+
+"gratefully": [
+  {"id":6610,"text":["gratamente"]}
+ ],
+
+"grater": [
+  {"id":6611,"text":["grattugia"]}
+ ],
+
+"gratify": [
+  {"id":6612,"text":["gratificare"]}
+ ],
+
+"grave": [
+  {"id":6613,"text":["grave"]},
+  {"id":6614,"text":["tomba"]}
+ ],
+
+"gravel": [
+  {"id":6615,"text":["ghiaia"]}
+ ],
+
+"gravely": [
+  {"id":6616,"text":["gravemente"]}
+ ],
+
+"gravestone": [
+  {"id":6617,"text":["lapide"]}
+ ],
+
+"gravimetry": [
+  {"id":6618,"text":["gravimetria"]}
+ ],
+
+"gravitation": [
+  {"id":6619,"text":["gravitazione"]}
+ ],
+
+"gravitational": [
+  {"id":6620,"text":["gravitazionale"]}
+ ],
+
+"gravitationally": [
+  {"id":6621,"text":["gravitazionalmente"]}
+ ],
+
+"graze": [
+  {"id":6622,"text":["pascolare"]}
+ ],
+
+"grazier": [
+  {"id":6623,"text":["allevamento"]}
+ ],
+
+"grease": [
+  {"id":6624,"text":["brillantina"]},
+  {"id":6625,"text":["grasso"]},
+  {"id":6626,"text":["ungere"]}
+ ],
+
+"greasy": [
+  {"id":6627,"text":["grasso"]},
+  {"id":6628,"text":["unto"]}
+ ],
+
+"great": [
+  {"id":6629,"text":["grande"]},
+  {"id":6630,"text":["maggiore"]}
+ ],
+
+"Great Britain": [
+  {"id":6631,"text":["Gran Bretagna"]}
+ ],
+
+"Great War": [
+  {"id":6632,"text":["Grande Guerra"]}
+ ],
+
+"greater": [
+  {"id":6633,"text":["maggiore"]}
+ ],
+
+"greatly": [
+  {"id":6634,"text":["grandemente"]},
+  {"id":6635,"text":["molto"]}
+ ],
+
+"greatness": [
+  {"id":6636,"text":["grandezza"]}
+ ],
+
+"Greece": [
+  {"id":6637,"text":["Grecia"]}
+ ],
+
+"greedily": [
+  {"id":6638,"text":["avidamente"]}
+ ],
+
+"greedy": [
+  {"id":6639,"text":["avido"]}
+ ],
+
+"Greek": [
+  {"id":6640,"text":["greco"]}
+ ],
+
+"green": [
+  {"id":6641,"text":["verde"]}
+ ],
+
+"greenhouse": [
+  {"id":6642,"text":["serra"]}
+ ],
+
+"Greenland": [
+  {"id":6643,"text":["Groenlandia"]}
+ ],
+
+"greet": [
+  {"id":6644,"text":["salutare"]}
+ ],
+
+"greeting": [
+  {"id":6645,"text":["saluto"]}
+ ],
+
+"grenadier": [
+  {"id":6646,"text":["granatiere"]}
+ ],
+
+"grey": [
+  {"id":6647,"text":["grigio"]}
+ ],
+
+"greyhound": [
+  {"id":6648,"text":["levriero"]}
+ ],
+
+"grid": [
+  {"id":6649,"text":["griglia"]}
+ ],
+
+"grievance": [
+  {"id":6650,"text":["lamentela"]}
+ ],
+
+"griffin": [
+  {"id":6651,"text":["grifone"]}
+ ],
+
+"grille": [
+  {"id":6652,"text":["griglia"]}
+ ],
+
+"grim": [
+  {"id":6653,"text":["cupo"]},
+  {"id":6654,"text":["sinistro"]},
+  {"id":6655,"text":["triste"]}
+ ],
+
+"grimace": [
+  {"id":6656,"text":["smorfia"]}
+ ],
+
+"grind": [
+  {"id":6657,"text":["macinare"]},
+  {"id":6658,"text":["triturare"]}
+ ],
+
+"grinder": [
+  {"id":6659,"text":["mulinello"]}
+ ],
+
+"grip": [
+  {"id":6660,"text":["stretta"]},
+  {"id":6661,"text":["stringere"]}
+ ],
+
+"grisaille": [
+  {"id":6662,"text":["grisaille"]}
+ ],
+
+"groan": [
+  {"id":6663,"text":["gemere"]}
+ ],
+
+"groom": [
+  {"id":6664,"text":["fidanzato"]},
+  {"id":6665,"text":["spazzolare"]}
+ ],
+
+"groove": [
+  {"id":6666,"text":["scanalatura"]}
+ ],
+
+"gropingly": [
+  {"id":6667,"text":["a tentoni"]}
+ ],
+
+"gross": [
+  {"id":6668,"text":["disgustoso"]},
+  {"id":6669,"text":["lordo"]}
+ ],
+
+"grotto": [
+  {"id":6670,"text":["grotta"]}
+ ],
+
+"ground": [
+  {"id":6671,"text":["punire"]},
+  {"id":6672,"text":["terra"]}
+ ],
+
+"groundhog": [
+  {"id":6673,"text":["marmotta"]}
+ ],
+
+"groundless": [
+  {"id":6674,"text":["infondato"]}
+ ],
+
+"group": [
+  {"id":6675,"text":["gruppo"]},
+  {"id":6676,"text":["insieme"]},
+  {"id":6677,"text":["raggruppare"]}
+ ],
+
+"grouping": [
+  {"id":6678,"text":["raggruppazione"]}
+ ],
+
+"grow": [
+  {"id":6679,"text":["coltivare"]},
+  {"id":6680,"text":["crescere"]}
+ ],
+
+"growth": [
+  {"id":6681,"text":["crescita"]}
+ ],
+
+"grumpy": [
+  {"id":6682,"text":["scontroso"]}
+ ],
+
+"guanine": [
+  {"id":6683,"text":["guanina"]}
+ ],
+
+"guarantee": [
+  {"id":6684,"text":["avallo"]},
+  {"id":6685,"text":["garantire"]}
+ ],
+
+"guard": [
+  {"id":6686,"text":["guardia"]}
+ ],
+
+"guerrilla": [
+  {"id":6687,"text":["guerriglia"]},
+  {"id":6688,"text":["guerrigliero"]}
+ ],
+
+"guess": [
+  {"id":6689,"text":["indovinare"]},
+  {"id":6690,"text":["supposizione"]}
+ ],
+
+"guest": [
+  {"id":6691,"text":["ospite"]}
+ ],
+
+"guesthouse": [
+  {"id":6692,"text":["pensione"]}
+ ],
+
+"guffaw": [
+  {"id":6693,"text":["risata"]}
+ ],
+
+"guidance": [
+  {"id":6694,"text":["orientamento"]}
+ ],
+
+"guide": [
+  {"id":6695,"text":["guida"]},
+  {"id":6696,"text":["guidare"]}
+ ],
+
+"guideline": [
+  {"id":6697,"text":["direttrice"]}
+ ],
+
+"guild": [
+  {"id":6698,"text":["corporazione"]},
+  {"id":6699,"text":["gilda"]}
+ ],
+
+"guillotine": [
+  {"id":6700,"text":["ghigliottina"]}
+ ],
+
+"guilty": [
+  {"id":6701,"text":["colpevole"]}
+ ],
+
+"guitar": [
+  {"id":6702,"text":["chitarra"]}
+ ],
+
+"guitarist": [
+  {"id":6703,"text":["chitarrista"]}
+ ],
+
+"gulf": [
+  {"id":6704,"text":["golfo"]}
+ ],
+
+"gully": [
+  {"id":6705,"text":["burrone"]},
+  {"id":6706,"text":["gola"]},
+  {"id":6707,"text":["canale"]}
+ ],
+
+"gum": [
+  {"id":6708,"text":["gengiva"]}
+ ],
+
+"gun": [
+  {"id":6709,"text":["pistola"]}
+ ],
+
+"gunboat": [
+  {"id":6710,"text":["cannoniera"]}
+ ],
+
+"gunpowder": [
+  {"id":6711,"text":["polveredasparo"]}
+ ],
+
+"guttural": [
+  {"id":6712,"text":["gutturale"]}
+ ],
+
+"guy": [
+  {"id":6713,"text":["tipo"]}
+ ],
+
+"gym": [
+  {"id":6714,"text":["palestra"]}
+ ],
+
+"gymnasium": [
+  {"id":6715,"text":["ginnasio"]},
+  {"id":6716,"text":["palestra"]}
+ ],
+
+"gymnast": [
+  {"id":6717,"text":["ginnasta"]}
+ ],
+
+"gymnastic": [
+  {"id":6718,"text":["ginnastico"]}
+ ],
+
+"gymnastics": [
+  {"id":6719,"text":["ginnastica"]}
+ ],
+
+"gynaecologist": [
+  {"id":6720,"text":["ginecologo"]}
+ ],
+
+"gynaecology": [
+  {"id":6721,"text":["ginecologia"]}
+ ],
+
+"gynecomastia": [
+  {"id":6722,"text":["ginecomastia"]}
+ ],
+
+"gypsum": [
+  {"id":6723,"text":["gesso"]}
+ ],
+
+"gyroscope": [
+  {"id":6724,"text":["giroscopio"]}
+ ],
+
+"gyroscopic": [
+  {"id":6725,"text":["giroscopico"]}
+ ]}

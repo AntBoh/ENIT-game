@@ -1,1189 +1,1561 @@
-{
-"oasi": [
+{"oasi": [
   {"id":9941,"text":["oasis"]}
-],
+ ],
+
 "obbediente": [
   {"id":4739,"text":["dutiful"]},
   {"id":9943,"text":["obedient"]}
-],
+ ],
+
 "obbedienza": [
   {"id":9942,"text":["obedience"]}
-],
+ ],
+
 "obbedire": [
   {"id":9946,"text":["obey"]}
-],
+ ],
+
 "obbligare": [
   {"id":9956,"text":["obligate"]}
-],
+ ],
+
 "obbligato": [
   {"id":1895,"text":["bound"]},
   {"id":9960,"text":["obliged"]}
-],
+ ],
+
 "obbligatorio": [
   {"id":1667,"text":["binding"]},
   {"id":3079,"text":["compulsory"]},
   {"id":9959,"text":["obligatory"]}
-],
+ ],
+
 "obbligazione": [
   {"id":9957,"text":["obligation"]}
-],
+ ],
+
 "obbligo": [
   {"id":9958,"text":["obligation"]}
-],
+ ],
+
 "obelisco": [
   {"id":9944,"text":["obelisk"]}
-],
+ ],
+
 "obeso": [
   {"id":9945,"text":["obese"]}
-],
+ ],
+
 "obiettare": [
   {"id":9948,"text":["object"]}
-],
+ ],
+
 "obiettivamente": [
   {"id":9954,"text":["objectively"]}
-],
+ ],
+
 "obiettivo": [
   {"id":424,"text":["aim"]},
   {"id":6527,"text":["goal"]},
   {"id":9952,"text":["objective"]},
   {"id":14413,"text":["target"]}
-],
+ ],
+
 "obiezione": [
   {"id":9950,"text":["objection"]}
-],
+ ],
+
 "oblio": [
   {"id":9962,"text":["oblivion"]}
-],
+ ],
+
 "oboe": [
   {"id":9963,"text":["oboe"]}
-],
+ ],
+
 "obsolescenza": [
   {"id":9979,"text":["obsolescence"]}
-],
+ ],
+
 "obsoleto": [
   {"id":9980,"text":["obsolete"]}
-],
+ ],
+
 "oca": [
   {"id":6551,"text":["goose"]}
-],
+ ],
+
 "ocarina": [
   {"id":9996,"text":["ocarina"]}
-],
+ ],
+
 "occasionale": [
   {"id":9998,"text":["occasional"]}
-],
+ ],
+
 "occasionalmente": [
   {"id":9999,"text":["occasionally"]}
-],
+ ],
+
 "occasione": [
   {"id":2493,"text":["chance"]},
   {"id":9997,"text":["occasion"]}
-],
+ ],
+
 "occhiale": [
   {"id":6484,"text":["glasses"]}
-],
+ ],
+
 "occhiata": [
   {"id":6479,"text":["glance"]}
-],
+ ],
+
 "occhiello": [
   {"id":2104,"text":["buttonhole"]}
-],
+ ],
+
 "occhio": [
   {"id":5577,"text":["eye"]}
-],
+ ],
+
 "occidentale": [
   {"id":10002,"text":["occidental"]},
   {"id":15834,"text":["western"]}
-],
+ ],
+
 "occidente": [
   {"id":10001,"text":["occident"]}
-],
+ ],
+
 "occipitale": [
   {"id":10003,"text":["occipital"]}
-],
+ ],
+
 "occlusione": [
   {"id":10004,"text":["occlusion"]}
-],
+ ],
+
 "occorrenza": [
   {"id":10015,"text":["occurrence"]}
-],
+ ],
+
 "occorrere": [
   {"id":10014,"text":["occur"]}
-],
+ ],
+
 "occultamento": [
   {"id":3096,"text":["concealment"]}
-],
+ ],
+
 "occultazione": [
   {"id":10005,"text":["occultation"]}
-],
+ ],
+
 "occultismo": [
   {"id":10006,"text":["occultism"]}
-],
+ ],
+
 "occulto": [
   {"id":15355,"text":["unseen"]}
-],
+ ],
+
 "occupante": [
   {"id":10007,"text":["occupant"]}
-],
+ ],
+
 "occupare": [
   {"id":10011,"text":["occupy"]}
-],
+ ],
+
 "occupato": [
   {"id":2093,"text":["busy"]},
   {"id":10010,"text":["occupied"]}
-],
+ ],
+
 "occupazionale": [
   {"id":10009,"text":["occupational"]}
-],
+ ],
+
 "occupazione": [
   {"id":5030,"text":["employment"]},
   {"id":10008,"text":["occupation"]}
-],
+ ],
+
 "oceanico": [
   {"id":10017,"text":["oceanic"]}
-],
+ ],
+
 "oceano": [
   {"id":10016,"text":["ocean"]}
-],
+ ],
+
 "Oceano Pacifico": [
   {"id":10331,"text":["Pacific Ocean"]}
-],
+ ],
+
 "oceanografia": [
   {"id":10019,"text":["oceanography"]}
-],
+ ],
+
 "oceanografico": [
   {"id":10018,"text":["oceanographic"]}
-],
+ ],
+
 "ocra": [
   {"id":10021,"text":["ochre"]}
-],
+ ],
+
 "oculare": [
   {"id":10030,"text":["ocular"]}
-],
+ ],
+
 "oculista": [
   {"id":10133,"text":["ophthalmologist"]},
   {"id":10153,"text":["optician"]}
-],
+ ],
+
 "ode": [
   {"id":10034,"text":["ode"]}
-],
+ ],
+
 "odeon": [
   {"id":10035,"text":["odeon"]}
-],
+ ],
+
 "odiare": [
   {"id":6841,"text":["hate"]}
-],
+ ],
+
 "odiernamente": [
   {"id":9903,"text":["nowadays"]}
-],
+ ],
+
 "odio": [
   {"id":6842,"text":["hate"]},
   {"id":6844,"text":["hatred"]}
-],
+ ],
+
 "odioso": [
   {"id":6843,"text":["hateful"]}
-],
+ ],
+
 "odissea": [
   {"id":10038,"text":["odyssey"]}
-],
+ ],
+
 "odontoiatria": [
   {"id":10036,"text":["odontology"]}
-],
+ ],
+
 "odontologia": [
   {"id":10037,"text":["odontology"]}
-],
+ ],
+
 "odore": [
   {"id":13454,"text":["smell"]}
-],
+ ],
+
 "offendere": [
   {"id":10047,"text":["offend"]}
-],
+ ],
+
 "offensiva": [
   {"id":10048,"text":["offensive"]}
-],
+ ],
+
 "offensivo": [
   {"id":10049,"text":["offensive"]}
-],
+ ],
+
 "offerta": [
   {"id":1637,"text":["bid"]},
   {"id":1639,"text":["bidding"]},
   {"id":10051,"text":["offer"]},
   {"id":14503,"text":["tender"]}
-],
+ ],
+
 "offline": [
   {"id":10059,"text":["offline"]}
-],
+ ],
+
 "offrire": [
   {"id":1638,"text":["bid"]},
   {"id":10052,"text":["offer"]}
-],
+ ],
+
 "offuscare": [
   {"id":4315,"text":["dim"]},
   {"id":14416,"text":["tarnish"]}
-],
+ ],
+
 "oftalmia": [
   {"id":10131,"text":["ophthalmia"]}
-],
+ ],
+
 "oftalmico": [
   {"id":10132,"text":["ophthalmic"]}
-],
+ ],
+
 "oftalmologia": [
   {"id":10134,"text":["ophthalmology"]}
-],
+ ],
+
 "oftalmoscopio": [
   {"id":10135,"text":["ophthalmoscope"]}
-],
+ ],
+
 "oggettivamente": [
   {"id":9955,"text":["objectively"]}
-],
+ ],
+
 "oggettivazione": [
   {"id":9951,"text":["objectivation"]}
-],
+ ],
+
 "oggetto": [
   {"id":9949,"text":["object"]}
-],
+ ],
+
 "oggi": [
   {"id":14781,"text":["today"]}
-],
+ ],
+
 "oggigiorno": [
   {"id":9904,"text":["nowadays"]}
-],
+ ],
+
 "ogiva": [
   {"id":10064,"text":["ogive"]}
-],
+ ],
+
 "ogivale": [
   {"id":10063,"text":["ogival"]}
-],
+ ],
+
 "ogni": [
   {"id":4762,"text":["each"]},
   {"id":5350,"text":["every"]}
-],
+ ],
+
 "ogni anno": [
   {"id":5356,"text":["every year"]}
-],
+ ],
+
 "ogni mattina": [
   {"id":5352,"text":["every morning"]}
-],
+ ],
+
 "ogni mese": [
   {"id":5351,"text":["every month"]}
-],
+ ],
+
 "ogni notte": [
   {"id":5353,"text":["every night"]}
-],
+ ],
+
 "ogni tanto": [
   {"id":5355,"text":["every so often"]}
-],
+ ],
+
 "ogni volta": [
   {"id":5362,"text":["everytime"]}
-],
+ ],
+
 "ognigiorno": [
   {"id":5358,"text":["everyday"]}
-],
+ ],
+
 "Ognissanti": [
   {"id":485,"text":["All Saints' Day"]}
-],
+ ],
+
 "ognitanto": [
   {"id":5354,"text":["every now and then"]},
   {"id":9905,"text":["nowandagain"]},
   {"id":9906,"text":["nowandthen"]}
-],
+ ],
+
 "ognivolta": [
   {"id":4764,"text":["eachtime"]}
-],
+ ],
+
 "ognuno": [
   {"id":4763,"text":["each"]}
-],
+ ],
+
 "ohm": [
   {"id":10066,"text":["ohm"]}
-],
+ ],
+
 "ohmico": [
   {"id":10067,"text":["ohmic"]}
-],
+ ],
+
 "ok": [
   {"id":10072,"text":["ok"]}
-],
+ ],
+
 "Olanda": [
   {"id":7055,"text":["Holland"]}
-],
+ ],
+
 "olandese": [
   {"id":4737,"text":["Dutch"]}
-],
+ ],
+
 "olfattivo": [
   {"id":10076,"text":["olfactory"]}
-],
+ ],
+
 "oligarca": [
   {"id":10077,"text":["oligarch"]}
-],
+ ],
+
 "oligarchia": [
   {"id":10079,"text":["oligarchy"]}
-],
+ ],
+
 "oligarchico": [
   {"id":10078,"text":["oligarchical"]}
-],
+ ],
+
 "Olimpiade": [
   {"id":10084,"text":["Olympics"]}
-],
+ ],
+
 "Olimpiadi": [
   {"id":10083,"text":["Olympic Games"]}
-],
+ ],
+
 "olimpico": [
   {"id":10082,"text":["olympic"]}
-],
+ ],
+
 "olio": [
   {"id":10068,"text":["oil"]}
-],
+ ],
+
 "oliva": [
   {"id":10080,"text":["olive"]}
-],
+ ],
+
 "olivina": [
   {"id":2652,"text":["chrysolite"]}
-],
+ ],
+
 "olmio": [
   {"id":7058,"text":["holmium"]}
-],
+ ],
+
 "olmo": [
   {"id":4966,"text":["elm"]}
-],
+ ],
+
 "olocausto": [
   {"id":7059,"text":["holocaust"]}
-],
+ ],
+
 "olografia": [
   {"id":7061,"text":["holography"]}
-],
+ ],
+
 "ologramma": [
   {"id":7060,"text":["hologram"]}
-],
+ ],
+
 "olotipo": [
   {"id":7062,"text":["holotype"]}
-],
+ ],
+
 "oltraggio": [
   {"id":10275,"text":["outrage"]}
-],
+ ],
+
 "oltre": [
   {"id":1624,"text":["beyond"]},
   {"id":10286,"text":["over"]}
-],
+ ],
+
 "oltretomba": [
   {"id":373,"text":["afterlife"]},
   {"id":15261,"text":["underworld"]}
-],
+ ],
+
 "oltretutto": [
   {"id":245,"text":["additionally"]},
   {"id":1606,"text":["besides"]},
   {"id":6274,"text":["furthermore"]},
   {"id":7937,"text":["intothebargain"]},
   {"id":9421,"text":["moreover"]}
-],
+ ],
+
 "omaggio": [
   {"id":7068,"text":["homage"]}
-],
+ ],
+
 "ombelicale": [
   {"id":15197,"text":["umbilical"]}
-],
+ ],
+
 "ombelico": [
   {"id":1578,"text":["belly button"]},
   {"id":9649,"text":["navel"]}
-],
+ ],
+
 "ombra": [
   {"id":13101,"text":["shade"]},
   {"id":13103,"text":["shadow"]}
-],
+ ],
+
 "ombreggiato": [
   {"id":13105,"text":["shady"]}
-],
+ ],
+
 "ombrello": [
   {"id":15196,"text":["umbella"]},
   {"id":15198,"text":["umbrella"]}
-],
+ ],
+
 "omeomorfismo": [
   {"id":7074,"text":["homeomorphism"]}
-],
+ ],
+
 "omeopatia": [
   {"id":7079,"text":["homoeopathy"]}
-],
+ ],
+
 "omeopatico": [
   {"id":7078,"text":["homoeopathic"]}
-],
+ ],
+
 "Omero": [
   {"id":7075,"text":["Homer"]}
-],
+ ],
+
 "omero": [
   {"id":7172,"text":["humerus"]}
-],
+ ],
+
 "omettere": [
   {"id":10086,"text":["omit"]}
-],
+ ],
+
 "omicidio": [
   {"id":7077,"text":["homicide"]},
   {"id":9531,"text":["murder"]}
-],
+ ],
+
 "omissione": [
   {"id":10085,"text":["omission"]}
-],
+ ],
+
 "omofobia": [
   {"id":7089,"text":["homophobia"]}
-],
+ ],
+
 "omofonia": [
   {"id":7091,"text":["homophony"]}
-],
+ ],
+
 "omofono": [
   {"id":7090,"text":["homophone"]}
-],
+ ],
+
 "omogeneizzazione": [
   {"id":7080,"text":["homogenisation"]},
   {"id":7081,"text":["homogenization"]}
-],
+ ],
+
 "omografia": [
   {"id":7082,"text":["homography"]}
-],
+ ],
+
 "omologazione": [
   {"id":7083,"text":["homologation"]}
-],
+ ],
+
 "omologia": [
   {"id":7085,"text":["homology"]}
-],
+ ],
+
 "omologo": [
   {"id":7084,"text":["homologous"]}
-],
+ ],
+
 "omomorfismo": [
   {"id":7086,"text":["homomorphism"]}
-],
+ ],
+
 "omonimia": [
   {"id":7088,"text":["homonymy"]}
-],
+ ],
+
 "omonimo": [
   {"id":7087,"text":["homonym"]}
-],
+ ],
+
 "omopolare": [
   {"id":7092,"text":["homopolar"]}
-],
+ ],
+
 "omopolimero": [
   {"id":7093,"text":["homopolymer"]}
-],
+ ],
+
 "omosessuale": [
   {"id":7094,"text":["homosexual"]}
-],
+ ],
+
 "omotopia": [
   {"id":7095,"text":["homotopy"]}
-],
+ ],
+
 "oncia": [
   {"id":10256,"text":["ounce"]}
-],
+ ],
+
 "onda": [
   {"id":15776,"text":["wave"]}
-],
+ ],
+
 "ondata": [
   {"id":15777,"text":["wave"]}
-],
+ ],
+
 "onduregno": [
   {"id":7096,"text":["Honduran"]}
-],
+ ],
+
 "onestamente": [
   {"id":7098,"text":["honestly"]}
-],
+ ],
+
 "onesto": [
   {"id":7097,"text":["honest"]}
-],
+ ],
+
 "onirico": [
   {"id":10099,"text":["oneiric"]}
-],
+ ],
+
 "onnipotente": [
   {"id":10087,"text":["omnipotent"]}
-],
+ ],
+
 "onnivoro": [
   {"id":10088,"text":["omnivore"]},
   {"id":10089,"text":["omnivorous"]}
-],
+ ],
+
 "onomastico": [
   {"id":10106,"text":["onomastic"]}
-],
+ ],
+
 "onomatopea": [
   {"id":10107,"text":["onomatopoeia"]}
-],
+ ],
+
 "onomatopeico": [
   {"id":10108,"text":["onomatopoeic"]}
-],
+ ],
+
 "onorabile": [
   {"id":7104,"text":["honorable"]},
   {"id":7110,"text":["honourable"]}
-],
+ ],
+
 "onorare": [
   {"id":7101,"text":["honor"]},
   {"id":7107,"text":["honour"]}
-],
+ ],
+
 "onorario": [
   {"id":7105,"text":["honorary"]}
-],
+ ],
+
 "onore": [
   {"id":7102,"text":["honor"]},
   {"id":7108,"text":["honour"]}
-],
+ ],
+
 "onorificenza": [
   {"id":7103,"text":["honor"]},
   {"id":7109,"text":["honour"]}
-],
+ ],
+
 "onorifico": [
   {"id":7106,"text":["honorific"]}
-],
+ ],
+
 "ontogenesi": [
   {"id":10110,"text":["ontogeny"]}
-],
+ ],
+
 "ontologia": [
   {"id":10112,"text":["ontology"]}
-],
+ ],
+
 "ontologico": [
   {"id":10111,"text":["ontological"]}
-],
+ ],
+
 "oogamia": [
   {"id":10113,"text":["oogamy"]}
-],
+ ],
+
 "opaco": [
   {"id":4717,"text":["dull"]},
   {"id":10115,"text":["opaque"]}
-],
+ ],
+
 "opale": [
   {"id":10114,"text":["opal"]}
-],
+ ],
+
 "opera": [
   {"id":10121,"text":["opera"]},
   {"id":15955,"text":["work"]}
-],
+ ],
+
 "operabile": [
   {"id":10122,"text":["operable"]}
-],
+ ],
+
 "operaio": [
   {"id":3278,"text":["construction worker"]},
   {"id":15959,"text":["worker"]}
-],
+ ],
+
 "operare": [
   {"id":10123,"text":["operate"]}
-],
+ ],
+
 "operativo": [
   {"id":10125,"text":["operating"]},
   {"id":10129,"text":["operative"]}
-],
+ ],
+
 "operatore": [
   {"id":10130,"text":["operator"]}
-],
+ ],
+
 "operazionale": [
   {"id":10128,"text":["operational"]}
-],
+ ],
+
 "operazione": [
   {"id":10127,"text":["operation"]}
-],
+ ],
+
 "operistico": [
   {"id":10124,"text":["operatic"]}
-],
+ ],
+
 "opinare": [
   {"id":14634,"text":["think"]}
-],
+ ],
+
 "opinione": [
   {"id":10136,"text":["opinion"]}
-],
+ ],
+
 "oppio": [
   {"id":10138,"text":["opium"]}
-],
+ ],
+
 "opponente": [
   {"id":10140,"text":["opponent"]}
-],
+ ],
+
 "opponibile": [
   {"id":10145,"text":["opposable"]}
-],
+ ],
+
 "opporre": [
   {"id":3528,"text":["counter"]},
   {"id":10146,"text":["oppose"]}
-],
+ ],
+
 "opportunamente": [
   {"id":10142,"text":["opportunely"]}
-],
+ ],
+
 "opportunismo": [
   {"id":10143,"text":["opportunism"]}
-],
+ ],
+
 "opportunista": [
   {"id":10144,"text":["opportunist"]},
   {"id":15121,"text":["turncoat"]}
-],
+ ],
+
 "oppositore": [
   {"id":10141,"text":["opponent"]}
-],
+ ],
+
 "opposizione": [
   {"id":10150,"text":["opposition"]}
-],
+ ],
+
 "opposto": [
   {"id":10148,"text":["opposite"]}
-],
+ ],
+
 "optare": [
   {"id":10151,"text":["opt"]}
-],
+ ],
+
 "optoelettronico": [
   {"id":10163,"text":["optoelectronical"]}
-],
+ ],
+
 "optoisolatore": [
   {"id":10162,"text":["optocoupler"]}
-],
+ ],
+
 "optometria": [
   {"id":10165,"text":["optometry"]}
-],
+ ],
+
 "optometrista": [
   {"id":10164,"text":["optometrist"]}
-],
+ ],
+
 "opulenza": [
   {"id":10166,"text":["opulence"]}
-],
+ ],
+
 "opuscolo": [
   {"id":10401,"text":["pamphlet"]}
-],
+ ],
+
 "opzionale": [
   {"id":10161,"text":["optional"]}
-],
+ ],
+
 "opzione": [
   {"id":10160,"text":["option"]}
-],
+ ],
+
 "ora": [
   {"id":7147,"text":["hour"]},
   {"id":14740,"text":["time"]}
-],
+ ],
+
 "oracolo": [
   {"id":10167,"text":["oracle"]}
-],
+ ],
+
 "orafo": [
   {"id":6540,"text":["goldsmith"]}
-],
+ ],
+
 "orale": [
   {"id":10168,"text":["oral"]}
-],
+ ],
+
 "orario": [
   {"id":12804,"text":["schedule"]},
   {"id":14741,"text":["time"]},
   {"id":14746,"text":["timetable"]}
-],
+ ],
+
 "oratoria": [
   {"id":10171,"text":["oratory"]}
-],
+ ],
+
 "Orazio": [
   {"id":7119,"text":["Horace"]}
-],
+ ],
+
 "orbita": [
   {"id":10172,"text":["orbit"]}
-],
+ ],
+
 "orbitale": [
   {"id":10174,"text":["orbital"]}
-],
+ ],
+
 "orbitare": [
   {"id":10173,"text":["orbit"]}
-],
+ ],
+
 "orchestra": [
   {"id":10177,"text":["orchestra"]}
-],
+ ],
+
 "orchestrale": [
   {"id":10178,"text":["orchestral"]}
-],
+ ],
+
 "orchestrazione": [
   {"id":10179,"text":["orchestration"]}
-],
+ ],
+
 "orchidea": [
   {"id":10180,"text":["orchid"]}
-],
+ ],
+
 "orchiectomia": [
   {"id":10181,"text":["orchiectomy"]}
-],
+ ],
+
 "orco": [
   {"id":10065,"text":["ogre"]}
-],
+ ],
+
 "orda": [
   {"id":15778,"text":["wave"]}
-],
+ ],
+
 "ordinale": [
   {"id":10188,"text":["ordinal"]}
-],
+ ],
+
 "ordinanza": [
   {"id":10189,"text":["ordinance"]}
-],
+ ],
+
 "ordinare": [
   {"id":10184,"text":["order"]},
   {"id":13581,"text":["sort"]},
   {"id":14729,"text":["tidy"]}
-],
+ ],
+
 "ordinario": [
   {"id":10190,"text":["ordinary"]}
-],
+ ],
+
 "ordinato": [
   {"id":9655,"text":["neat"]},
   {"id":10187,"text":["ordered"]},
   {"id":14730,"text":["tidy"]}
-],
+ ],
+
 "ordinazione": [
   {"id":10185,"text":["order"]}
-],
+ ],
+
 "ordine": [
   {"id":10186,"text":["order"]}
-],
+ ],
+
 "orecchino": [
   {"id":4778,"text":["earring"]}
-],
+ ],
+
 "orecchio": [
   {"id":4767,"text":["ear"]}
-],
+ ],
+
 "oreficeria": [
   {"id":6541,"text":["goldsmithing"]}
-],
+ ],
+
 "orfano": [
   {"id":10227,"text":["orphan"]}
-],
+ ],
+
 "orfanotrofio": [
   {"id":10228,"text":["orphanage"]}
-],
+ ],
+
 "Orfeo": [
   {"id":10229,"text":["Orpheus"]}
-],
+ ],
+
 "organicismo": [
   {"id":10194,"text":["organicism"]}
-],
+ ],
+
 "organico": [
   {"id":10193,"text":["organic"]}
-],
+ ],
+
 "organismo": [
   {"id":10198,"text":["organism"]}
-],
+ ],
+
 "organista": [
   {"id":10199,"text":["organist"]}
-],
+ ],
+
 "organizzare": [
   {"id":10197,"text":["organise"]}
-],
+ ],
+
 "organizzativo": [
   {"id":10196,"text":["organisational"]}
-],
+ ],
+
 "organizzazione": [
   {"id":10195,"text":["organisation"]},
   {"id":10200,"text":["organization"]}
-],
+ ],
+
 "organo": [
   {"id":10191,"text":["organ"]}
-],
+ ],
+
 "organulo": [
   {"id":10192,"text":["organelle"]}
-],
+ ],
+
 "orgasmo": [
   {"id":10201,"text":["orgasm"]}
-],
+ ],
+
 "orgia": [
   {"id":10203,"text":["orgy"]}
-],
+ ],
+
 "orgoglio": [
   {"id":11384,"text":["pride"]}
-],
+ ],
+
 "orgoglioso": [
   {"id":11589,"text":["proud"]}
-],
+ ],
+
 "orientale": [
   {"id":4792,"text":["eastern"]},
   {"id":10207,"text":["oriental"]}
-],
+ ],
+
 "orientalismo": [
   {"id":10208,"text":["orientalism"]}
-],
+ ],
+
 "orientamento": [
   {"id":6694,"text":["guidance"]},
   {"id":10209,"text":["orientation"]},
   {"id":10212,"text":["orienteering"]}
-],
+ ],
+
 "orientare": [
   {"id":4343,"text":["direct"]},
   {"id":10205,"text":["orient"]}
-],
+ ],
+
 "orientativo": [
   {"id":10211,"text":["orientative"]}
-],
+ ],
+
 "orientazione": [
   {"id":10210,"text":["orientation"]}
-],
+ ],
+
 "oriente": [
   {"id":10206,"text":["orient"]}
-],
+ ],
+
 "orifizio": [
   {"id":10213,"text":["orifice"]}
-],
+ ],
+
 "originale": [
   {"id":10215,"text":["original"]}
-],
+ ],
+
 "originalmente": [
   {"id":10217,"text":["originally"]}
-],
+ ],
+
 "originare": [
   {"id":10219,"text":["originate"]}
-],
+ ],
+
 "originariamente": [
   {"id":10218,"text":["originally"]}
-],
+ ],
+
 "originario": [
   {"id":10216,"text":["original"]}
-],
+ ],
+
 "origine": [
   {"id":10214,"text":["origin"]}
-],
+ ],
+
 "orina": [
   {"id":15399,"text":["urine"]}
-],
+ ],
+
 "orizzontale": [
   {"id":7121,"text":["horizontal"]}
-],
+ ],
+
 "orizzontalmente": [
   {"id":7122,"text":["horizontally"]}
-],
+ ],
+
 "orizzonte": [
   {"id":7120,"text":["horizon"]}
-],
+ ],
+
 "orlo": [
   {"id":1986,"text":["brim"]},
   {"id":1994,"text":["brink"]},
   {"id":12498,"text":["rim"]},
   {"id":15530,"text":["verge"]}
-],
+ ],
+
 "orma": [
   {"id":6035,"text":["footprint"]}
-],
+ ],
+
 "ormone": [
   {"id":7123,"text":["hormone"]}
-],
+ ],
+
 "ornamentale": [
   {"id":10222,"text":["ornamental"]}
-],
+ ],
+
 "ornamento": [
   {"id":10221,"text":["ornament"]}
-],
+ ],
+
 "orneblenda": [
   {"id":7126,"text":["hornblende"]}
-],
+ ],
+
 "ornitologia": [
   {"id":10223,"text":["ornithology"]}
-],
+ ],
+
 "oro": [
   {"id":6537,"text":["gold"]}
-],
+ ],
+
 "orogenesi": [
   {"id":10224,"text":["orogeny"]}
-],
+ ],
+
 "orografia": [
   {"id":10226,"text":["orography"]}
-],
+ ],
+
 "orografico": [
   {"id":10225,"text":["orographic"]}
-],
+ ],
+
 "orologeria": [
   {"id":15762,"text":["watchmaking"]}
-],
+ ],
+
 "orologio": [
   {"id":2777,"text":["clock"]},
   {"id":15758,"text":["watch"]}
-],
+ ],
+
 "oroscopo": [
   {"id":7127,"text":["horoscope"]}
-],
+ ],
+
 "orribile": [
   {"id":7128,"text":["horrible"]}
-],
+ ],
+
 "orrore": [
   {"id":7130,"text":["horror"]}
-],
+ ],
+
 "orso": [
   {"id":1516,"text":["bear"]}
-],
+ ],
+
 "ortaggio": [
   {"id":15495,"text":["vegetable"]}
-],
+ ],
+
 "ortensia": [
   {"id":7204,"text":["hydrangea"]}
-],
+ ],
+
 "orticoltura": [
   {"id":7134,"text":["horticulture"]}
-],
+ ],
+
 "orto": [
   {"id":10176,"text":["orchard"]}
-],
+ ],
+
 "ortocentro": [
   {"id":10230,"text":["orthocenter"]}
-],
+ ],
+
 "ortodonzia": [
   {"id":10231,"text":["orthodontics"]}
-],
+ ],
+
 "ortodosso": [
   {"id":10232,"text":["orthodox"]}
-],
+ ],
+
 "ortoepia": [
   {"id":10233,"text":["orthoepy"]}
-],
+ ],
+
 "ortogonale": [
   {"id":10234,"text":["orthogonal"]}
-],
+ ],
+
 "ortografia": [
   {"id":13659,"text":["spelling"]}
-],
+ ],
+
 "ortografico": [
   {"id":10235,"text":["orthographical"]}
-],
+ ],
+
 "ortonormale": [
   {"id":10236,"text":["orthonormal"]}
-],
+ ],
+
 "ortopedia": [
   {"id":10237,"text":["orthopaedics"]}
-],
+ ],
+
 "ortopedico": [
   {"id":10238,"text":["orthopedist"]}
-],
+ ],
+
 "orzata": [
   {"id":10202,"text":["orgeat"]}
-],
+ ],
+
 "orzo": [
   {"id":1446,"text":["barley"]}
-],
+ ],
+
 "osare": [
   {"id":3797,"text":["dare"]}
-],
+ ],
+
 "osato": [
   {"id":5701,"text":["fearless"]}
-],
+ ],
+
 "osceno": [
   {"id":9964,"text":["obscene"]}
-],
+ ],
+
 "oscillare": [
   {"id":10239,"text":["oscillate"]},
   {"id":14284,"text":["swing"]}
-],
+ ],
+
 "oscillatorio": [
   {"id":10240,"text":["oscillatory"]}
-],
+ ],
+
 "oscillazione": [
   {"id":14285,"text":["swing"]}
-],
+ ],
+
 "oscilloscopio": [
   {"id":10241,"text":["oscilloscope"]}
-],
+ ],
+
 "oscuramento": [
   {"id":1738,"text":["blackout"]}
-],
+ ],
+
 "oscurantismo": [
   {"id":9965,"text":["obscurantism"]}
-],
+ ],
+
 "oscurare": [
   {"id":3802,"text":["darken"]},
   {"id":9966,"text":["obscure"]}
-],
+ ],
+
 "osmio": [
   {"id":10242,"text":["osmium"]}
-],
+ ],
+
 "osmosi": [
   {"id":10243,"text":["osmosis"]}
-],
+ ],
+
 "ospedale": [
   {"id":7136,"text":["hospital"]}
-],
+ ],
+
 "ospedalizzazione": [
   {"id":7137,"text":["hospitalisation"]}
-],
+ ],
+
 "ospite": [
   {"id":6691,"text":["guest"]},
   {"id":7138,"text":["host"]}
-],
+ ],
+
 "ospizio": [
   {"id":7135,"text":["hospice"]}
-],
+ ],
+
 "osseo": [
   {"id":10244,"text":["osseous"]}
-],
+ ],
+
 "osservabile": [
   {"id":9968,"text":["observable"]}
-],
+ ],
+
 "osservanza": [
   {"id":9969,"text":["observance"]}
-],
+ ],
+
 "osservare": [
   {"id":9974,"text":["observe"]},
   {"id":12172,"text":["remark"]}
-],
+ ],
+
 "osservatore": [
   {"id":9970,"text":["observant"]},
   {"id":9975,"text":["observer"]}
-],
+ ],
+
 "osservatorio": [
   {"id":9973,"text":["observatory"]}
-],
+ ],
+
 "osservazionale": [
   {"id":9972,"text":["observational"]}
-],
+ ],
+
 "osservazione": [
   {"id":9971,"text":["observation"]},
   {"id":12173,"text":["remark"]}
-],
+ ],
+
 "ossessione": [
   {"id":9976,"text":["obsession"]}
-],
+ ],
+
 "ossessivo": [
   {"id":9977,"text":["obsessive"]}
-],
+ ],
+
 "ossidante": [
   {"id":10318,"text":["oxidant"]}
-],
+ ],
+
 "ossidazione": [
   {"id":10319,"text":["oxidation"]}
-],
+ ],
+
 "ossidiana": [
   {"id":9978,"text":["obsidian"]}
-],
+ ],
+
 "ossido": [
   {"id":10320,"text":["oxide"]}
-],
+ ],
+
 "ossidoreduttasi": [
   {"id":10321,"text":["oxidoreductase"]}
-],
+ ],
+
 "ossificazione": [
   {"id":10245,"text":["ossification"]}
-],
+ ],
+
 "ossigeno": [
   {"id":10322,"text":["oxygen"]}
-],
+ ],
+
 "ossimoro": [
   {"id":10323,"text":["oxymoron"]}
-],
+ ],
+
 "ossitocina": [
   {"id":10324,"text":["oxytocin"]}
-],
+ ],
+
 "osso": [
   {"id":1835,"text":["bone"]}
-],
+ ],
+
 "ostacolare": [
   {"id":6769,"text":["hamper"]}
-],
+ ],
+
 "ostacolo": [
   {"id":9981,"text":["obstacle"]}
-],
+ ],
+
 "ostaggio": [
   {"id":7140,"text":["hostage"]}
-],
+ ],
+
 "oste": [
   {"id":7139,"text":["host"]}
-],
+ ],
+
 "ostello": [
   {"id":7141,"text":["hostel"]}
-],
+ ],
+
 "ostentazione": [
   {"id":10246,"text":["ostentation"]}
-],
+ ],
+
 "osteosarcoma": [
   {"id":10247,"text":["osteosarcoma"]}
-],
+ ],
+
 "ostetricia": [
   {"id":9982,"text":["obstetrics"]}
-],
+ ],
+
 "ostile": [
   {"id":7142,"text":["hostile"]}
-],
+ ],
+
 "ostinatamente": [
   {"id":14014,"text":["stubbornly"]}
-],
+ ],
+
 "ostinato": [
   {"id":9984,"text":["obstinate"]},
   {"id":14013,"text":["stubborn"]}
-],
+ ],
+
 "ostinazione": [
   {"id":9983,"text":["obstinacy"]}
-],
+ ],
+
 "ostracismo": [
   {"id":10248,"text":["ostracism"]}
-],
+ ],
+
 "ostrica": [
   {"id":10325,"text":["oyster"]}
-],
+ ],
+
 "ostruente": [
   {"id":9987,"text":["obstruent"]}
-],
+ ],
+
 "ostruire": [
   {"id":9985,"text":["obstruct"]}
-],
+ ],
+
 "ostruzione": [
   {"id":9986,"text":["obstruction"]}
-],
+ ],
+
 "otorinolaringoiatria": [
   {"id":10254,"text":["otorhinolaryngology"]}
-],
+ ],
+
 "ottaedrico": [
   {"id":10023,"text":["octahedral"]}
-],
+ ],
+
 "ottaedro": [
   {"id":10024,"text":["octahedron"]}
-],
+ ],
+
 "ottagono": [
   {"id":10022,"text":["octagon"]}
-],
+ ],
+
 "ottanta": [
   {"id":4884,"text":["eighty"]}
-],
+ ],
+
 "ottantacinque": [
   {"id":4887,"text":["eightyfive"]}
-],
+ ],
+
 "ottantacinquemila": [
   {"id":4888,"text":["eightyfivethousand"]}
-],
+ ],
+
 "ottantadue": [
   {"id":4901,"text":["eightytwo"]}
-],
+ ],
+
 "ottantaduemila": [
   {"id":4902,"text":["eightytwothousand"]}
-],
+ ],
+
 "ottantamila": [
   {"id":4899,"text":["eightythousand"]}
-],
+ ],
+
 "ottantanove": [
   {"id":4891,"text":["eightynine"]}
-],
+ ],
+
 "ottantanovemila": [
   {"id":4892,"text":["eightyninethousand"]}
-],
+ ],
+
 "ottantaquattro": [
   {"id":4889,"text":["eightyfour"]}
-],
+ ],
+
 "ottantaquattromila": [
   {"id":4890,"text":["eightyfourthousand"]}
-],
+ ],
+
 "ottantasei": [
   {"id":4897,"text":["eightysix"]}
-],
+ ],
+
 "ottantaseimila": [
   {"id":4898,"text":["eightysixthousand"]}
-],
+ ],
+
 "ottantasette": [
   {"id":4895,"text":["eightyseven"]}
-],
+ ],
+
 "ottantasettemila": [
   {"id":4896,"text":["eightyseventhousand"]}
-],
+ ],
+
 "ottantatremila": [
   {"id":4900,"text":["eightythreethousand"]}
-],
+ ],
+
 "ottante": [
   {"id":10025,"text":["octant"]}
-],
+ ],
+
 "ottantesimo": [
   {"id":4882,"text":["eightieth"]}
-],
+ ],
+
 "ottantotto": [
   {"id":4885,"text":["eightyeight"]}
-],
+ ],
+
 "ottantottomila": [
   {"id":4886,"text":["eightyeightthousand"]}
-],
+ ],
+
 "ottantuno": [
   {"id":4893,"text":["eightyone"]}
-],
+ ],
+
 "ottantunomila": [
   {"id":4894,"text":["eightyonethousand"]}
-],
+ ],
+
 "ottava": [
   {"id":10026,"text":["octave"]}
-],
+ ],
+
 "ottavo": [
   {"id":4879,"text":["eighth"]}
-],
+ ],
+
 "ottenere": [
   {"id":1189,"text":["attain"]},
   {"id":4775,"text":["earn"]},
@@ -1191,105 +1563,137 @@
   {"id":6425,"text":["get"]},
   {"id":9988,"text":["obtain"]},
   {"id":11092,"text":["poll"]}
-],
+ ],
+
 "ottenibile": [
   {"id":9989,"text":["obtainable"]}
-],
+ ],
+
 "ottenimento": [
   {"id":9990,"text":["obtaining"]}
-],
+ ],
+
 "ottetto": [
   {"id":10027,"text":["octet"]}
-],
+ ],
+
 "ottico": [
   {"id":10152,"text":["optical"]}
-],
+ ],
+
 "ottimismo": [
   {"id":10156,"text":["optimism"]}
-],
+ ],
+
 "ottimista": [
   {"id":10157,"text":["optimist"]},
   {"id":10158,"text":["optimistic"]}
-],
+ ],
+
 "ottimizzare": [
   {"id":10155,"text":["optimise"]}
-],
+ ],
+
 "ottimizzazione": [
   {"id":10154,"text":["optimisation"]}
-],
+ ],
+
 "ottimo": [
   {"id":10159,"text":["optimum"]}
-],
+ ],
+
 "otto": [
   {"id":4875,"text":["eight"]}
-],
+ ],
+
 "ottobre": [
   {"id":10028,"text":["October"]}
-],
+ ],
+
 "ottocentesimo": [
   {"id":4881,"text":["eighthundredth"]}
-],
+ ],
+
 "ottocento": [
   {"id":4880,"text":["eighthundredand"]}
-],
+ ],
+
 "ottomila": [
   {"id":4883,"text":["eightthousand"]}
-],
+ ],
+
 "ottundere": [
   {"id":4718,"text":["dull"]}
-],
+ ],
+
 "otturatore": [
   {"id":13237,"text":["shutter"]}
-],
+ ],
+
 "ottuso": [
   {"id":9991,"text":["obtuse"]}
-],
+ ],
+
 "ovaia": [
   {"id":10283,"text":["ovary"]}
-],
+ ],
+
 "ovale": [
   {"id":10281,"text":["oval"]}
-],
+ ],
+
 "ovarico": [
   {"id":10282,"text":["ovarian"]}
-],
+ ],
+
 "ovazione": [
   {"id":10284,"text":["ovation"]}
-],
+ ],
+
 "overdose": [
   {"id":10292,"text":["overdose"]}
-],
+ ],
+
 "ovest": [
   {"id":15833,"text":["west"]}
-],
+ ],
+
 "ovidotto": [
   {"id":10305,"text":["oviduct"]}
-],
+ ],
+
 "oviparo": [
   {"id":10306,"text":["oviparous"]}
-],
+ ],
+
 "ovoidale": [
   {"id":10307,"text":["ovoid"]}
-],
+ ],
+
 "ovoviviparo": [
   {"id":10308,"text":["ovoviviparous"]}
-],
+ ],
+
 "ovulazione": [
   {"id":10309,"text":["ovulation"]}
-],
+ ],
+
 "ovulo": [
   {"id":10310,"text":["ovule"]}
-],
+ ],
+
 "ovviamente": [
   {"id":9994,"text":["obviously"]}
-],
+ ],
+
 "ovvio": [
   {"id":9993,"text":["obvious"]}
-],
+ ],
+
 "ozio": [
   {"id":8438,"text":["leisure"]}
-],
+ ],
+
 "ozono": [
   {"id":10326,"text":["ozone"]}
-]
-}
+ ]}

@@ -1,945 +1,1235 @@
-{
-  "nacre": [
-    {"id": 9590,"text": ["madreperla"]}
-  ],
-  "nail": [
-    {"id": 9591,"text": ["chiodo"]},
-    {"id": 9592,"text": ["inchiodare"]},
-    {"id": 9593,"text": ["unghia"]}
-  ],
-  "naive": [
-    {"id": 9594,"text": ["ingenuo"]}
-  ],
-  "naiveness": [
-    {"id": 9595,"text": ["ingenuità"]}
-  ],
-  "naivety": [
-    {"id": 9596,"text": ["ingenuità"]}
-  ],
-  "name": [
-    {"id": 9597,"text": ["nome"]},
-    {"id": 9598,"text": ["nominare"]}
-  ],
-  "nanny": [
-    {"id": 9599,"text": ["bambinaia"]}
-  ],
-  "nape": [
-    {"id": 9600,"text": ["nuca"]}
-  ],
-  "naphtha": [
-    {"id": 9601,"text": ["nafta"]}
-  ],
-  "napkin": [
-    {"id": 9602,"text": ["tovagliolo"]}
-  ],
-  "Naples": [
-    {"id": 9603,"text": ["Napoli"]}
-  ],
-  "Napoleon": [
-    {"id": 9604,"text": ["Napoleone"]}
-  ],
-  "napoleonic": [
-    {"id": 9605,"text": ["napoleonico"]}
-  ],
-  "narcissism": [
-    {"id": 9606,"text": ["narcisismo"]}
-  ],
-  "narcissistic": [
-    {"id": 9607,"text": ["narcisista"]}
-  ],
-  "narcissus": [
-    {"id": 9608,"text": ["narciso"]}
-  ],
-  "narcolepsy": [
-    {"id": 9609,"text": ["narcolessia"]}
-  ],
-  "narcosis": [
-    {"id": 9610,"text": ["narcosi"]}
-  ],
-  "narcotic": [
-    {"id": 9611,"text": ["narcotico"]}
-  ],
-  "narrate": [
-    {"id": 9612,"text": ["narrare"]}
-  ],
-  "narration": [
-    {"id": 9613,"text": ["narrazione"]}
-  ],
-  "narrative": [
-    {"id": 9614,"text": ["narrativa"]},
-    {"id": 9615,"text": ["narrativo"]},
-    {"id": 9616,"text": ["narrazione"]}
-  ],
-  "narrator": [
-    {"id": 9617,"text": ["narratore"]}
-  ],
-  "narrow": [
-    {"id": 9618,"text": ["stretto"]}
-  ],
-  "narrowly": [
-    {"id": 9619,"text": ["strettamente"]}
-  ],
-  "narthex": [
-    {"id": 9620,"text": ["nartece"]}
-  ],
-  "nasal": [
-    {"id": 9621,"text": ["nasale"]}
-  ],
-  "nasalisation": [
-    {"id": 9622,"text": ["nasalizzazione"]}
-  ],
-  "nasalization": [
-    {"id": 9623,"text": ["nasalizzazione"]}
-  ],
-  "nasty": [
-    {"id": 9624,"text": ["cattivo"]}
-  ],
-  "natal": [
-    {"id": 9625,"text": ["natale"]}
-  ],
-  "nation": [
-    {"id": 9626,"text": ["nazione"]}
-  ],
-  "national": [
-    {"id": 9627,"text": ["nazionale"]}
-  ],
-  "nationalisation": [
-    {"id": 9628,"text": ["nazionalizzazione"]}
-  ],
-  "nationalise": [
-    {"id": 9629,"text": ["nazionalizzare"]}
-  ],
-  "nationalism": [
-    {"id": 9630,"text": ["nazionalismo"]}
-  ],
-  "nationalist": [
-    {"id": 9631,"text": ["nazionalista"]}
-  ],
-  "nationalization": [
-    {"id": 9632,"text": ["nazionalizzazione"]}
-  ],
-  "nationalize": [
-    {"id": 9633,"text": ["nazionalizzare"]}
-  ],
-  "nationally": [
-    {"id": 9634,"text": ["nazionalmente"]}
-  ],
-  "native": [
-    {"id": 9635,"text": ["indigeno"]},
-    {"id": 9636,"text": ["nativo"]}
-  ],
-  "nativism": [
-    {"id": 9637,"text": ["nativismo"]}
-  ],
-  "natural": [
-    {"id": 9638,"text": ["naturale"]}
-  ],
-  "naturalistic": [
-    {"id": 9639,"text": ["naturalista"]}
-  ],
-  "naturally": [
-    {"id": 9640,"text": ["naturalmente"]}
-  ],
-  "nature": [
-    {"id": 9641,"text": ["natura"]}
-  ],
-  "naughty": [
-    {"id": 9642,"text": ["cattivo"]},
-    {"id": 9643,"text": ["disobbediente"]},
-    {"id": 9644,"text": ["impertinente"]}
-  ],
-  "nausea": [
-    {"id": 9645,"text": ["nausea"]}
-  ],
-  "nautical": [
-    {"id": 9646,"text": ["nautico"]}
-  ],
-  "naval": [
-    {"id": 9647,"text": ["navale"]}
-  ],
-  "nave": [
-    {"id": 9648,"text": ["capannone"]}
-  ],
-  "navel": [
-    {"id": 9649,"text": ["ombelico"]}
-  ],
-  "navigation": [
-    {"id": 9650,"text": ["navigazione"]}
-  ],
-  "nazi": [
-    {"id": 9651,"text": ["nazista"]}
-  ],
-  "near": [
-    {"id": 9652,"text": ["vicino"]},
-    {"id": 9653,"text": ["vicinoa"]}
-  ],
-  "nearby": [
-    {"id": 9654,"text": ["vicino"]}
-  ],
-  "neat": [
-    {"id": 9655,"text": ["ordinato"]},
-    {"id": 9656,"text": ["pulito"]}
-  ],
-  "Nebuchadnezzar": [
-    {"id": 9657,"text": ["Nabucodonosor"]}
-  ],
-  "nebula": [
-    {"id": 9658,"text": ["nebulosa"]}
-  ],
-  "necessarily": [
-    {"id": 9659,"text": ["necessariamente"]}
-  ],
-  "necessary": [
-    {"id": 9660,"text": ["necessario"]}
-  ],
-  "neck": [
-    {"id": 9661,"text": ["collo"]}
-  ],
-  "necklace": [
-    {"id": 9662,"text": ["collana"]}
-  ],
-  "necropolis": [
-    {"id": 9663,"text": ["necropoli"]}
-  ],
-  "necrosis": [
-    {"id": 9664,"text": ["necrosi"]}
-  ],
-  "nectar": [
-    {"id": 9665,"text": ["nettare"]}
-  ],
-  "need": [
-    {"id": 9666,"text": ["avere bisogno"]}
-  ],
-  "needle": [
-    {"id": 9667,"text": ["ago"]}
-  ],
-  "needlework": [
-    {"id": 9668,"text": ["ricamo"]}
-  ],
-  "negation": [
-    {"id": 9669,"text": ["negazione"]}
-  ],
-  "negative": [
-    {"id": 9670,"text": ["negativo"]}
-  ],
-  "negatively": [
-    {"id": 9671,"text": ["negativamente"]}
-  ],
-  "neglect": [
-    {"id": 9672,"text": ["negligenza"]},
-    {"id": 9673,"text": ["negligere"]},
-    {"id": 9674,"text": ["trascurare"]}
-  ],
-  "negligence": [
-    {"id": 9675,"text": ["negligenza"]}
-  ],
-  "negligent": [
-    {"id": 9676,"text": ["negligente"]}
-  ],
-  "negotiable": [
-    {"id": 9677,"text": ["negoziabile"]}
-  ],
-  "negotiate": [
-    {"id": 9678,"text": ["trattare"]}
-  ],
-  "negotiation": [
-    {"id": 9679,"text": ["negoziazione"]},
-    {"id": 9680,"text": ["trattativa"]}
-  ],
-  "neighboring": [
-    {"id": 9681,"text": ["confinante"]},
-    {"id": 9682,"text": ["vicino"]}
-  ],
-  "neighborly": [
-    {"id": 9683,"text": ["amichevole"]},
-    {"id": 9684,"text": ["cordiale"]},
-    {"id": 9685,"text": ["cortese"]},
-    {"id": 9686,"text": ["vicino"]}
-  ],
-  "neighbour": [
-    {"id": 9687,"text": ["confinare"]},
-    {"id": 9688,"text": ["vicino"]}
-  ],
-  "neighbourhood": [
-    {"id": 9689,"text": ["vicinato"]}
-  ],
-  "neighbouring": [
-    {"id": 9690,"text": ["confinante"]},
-    {"id": 9691,"text": ["vicino"]}
-  ],
-  "neighbourly": [
-    {"id": 9692,"text": ["amichevole"]},
-    {"id": 9693,"text": ["cordiale"]},
-    {"id": 9694,"text": ["cortese"]},
-    {"id": 9695,"text": ["vicino"]}
-  ],
-  "neither": [
-    {"id": 9696,"text": ["neanche"]},
-    {"id": 9697,"text": ["nemmeno"]},
-    {"id": 9698,"text": ["neppure"]},
-    {"id": 9699,"text": ["né"]}
-  ],
-  "neoclassicism": [
-    {"id": 9700,"text": ["neoclassicismo"]}
-  ],
-  "neocolonialism": [
-    {"id": 9701,"text": ["neocolonialismo"]}
-  ],
-  "neodymium": [
-    {"id": 9702,"text": ["neodimio"]}
-  ],
-  "neofascism": [
-    {"id": 9703,"text": ["neofascismo"]}
-  ],
-  "neofascist": [
-    {"id": 9704,"text": ["neofascista"]}
-  ],
-  "neoliberal": [
-    {"id": 9705,"text": ["neoliberale"]}
-  ],
-  "neoliberalism": [
-    {"id": 9706,"text": ["neoliberismo"]}
-  ],
-  "neolithic": [
-    {"id": 9707,"text": ["neolitico"]}
-  ],
-  "neologism": [
-    {"id": 9708,"text": ["neologismo"]}
-  ],
-  "neology": [
-    {"id": 9709,"text": ["neologia"]}
-  ],
-  "neonatal": [
-    {"id": 9710,"text": ["neonatale"]}
-  ],
-  "neonazi": [
-    {"id": 9711,"text": ["neonazista"]}
-  ],
-  "nephew": [
-    {"id": 9712,"text": ["nipote"]}
-  ],
-  "nepotism": [
-    {"id": 9713,"text": ["nepotismo"]}
-  ],
-  "neptunium": [
-    {"id": 9714,"text": ["nettunio"]}
-  ],
-  "nerve": [
-    {"id": 9715,"text": ["nervo"]}
-  ],
-  "nervous": [
-    {"id": 9716,"text": ["nervoso"]}
-  ],
-  "nervously": [
-    {"id": 9717,"text": ["nervosamente"]}
-  ],
-  "nest": [
-    {"id": 9718,"text": ["annidare"]},
-    {"id": 9719,"text": ["nidificare"]},
-    {"id": 9720,"text": ["nido"]}
-  ],
-  "nesting": [
-    {"id": 9721,"text": ["nidificazione"]}
-  ],
-  "net": [
-    {"id": 9722,"text": ["netto"]},
-    {"id": 9723,"text": ["rete"]}
-  ],
-  "network": [
-    {"id": 9724,"text": ["rete"]}
-  ],
-  "neural": [
-    {"id": 9725,"text": ["neurale"]},
-    {"id": 9726,"text": ["neuronale"]}
-  ],
-  "neuralgia": [
-    {"id": 9727,"text": ["nevralgia"]}
-  ],
-  "neurofilament": [
-    {"id": 9728,"text": ["neurofilamento"]}
-  ],
-  "neurology": [
-    {"id": 9729,"text": ["neurologia"]}
-  ],
-  "neuromuscular": [
-    {"id": 9730,"text": ["neuromuscolare"]}
-  ],
-  "neuron": [
-    {"id": 9731,"text": ["neurone"]}
-  ],
-  "neuropathy": [
-    {"id": 9732,"text": ["neuropatia"]}
-  ],
-  "neuropsychology": [
-    {"id": 9733,"text": ["neuropsicologia"]}
-  ],
-  "neurotransmitter": [
-    {"id": 9734,"text": ["neurotrasmettitore"]}
-  ],
-  "neuter": [
-    {"id": 9735,"text": ["neutro"]}
-  ],
-  "neutral": [
-    {"id": 9736,"text": ["neutro"]}
-  ],
-  "neutralisation": [
-    {"id": 9737,"text": ["neutralizzazione"]}
-  ],
-  "neutralise": [
-    {"id": 9738,"text": ["neutralizzare"]}
-  ],
-  "neutron": [
-    {"id": 9739,"text": ["neutrone"]}
-  ],
-  "never": [
-    {"id": 9740,"text": ["mai"]}
-  ],
-  "new": [
-    {"id": 9741,"text": ["nuovo"]}
-  ],
-  "New Caledonia": [
-    {"id": 9742,"text": ["Nuova Caledonia"]}
-  ],
-  "New Zealand": [
-    {"id": 9743,"text": ["Nuova Zelanda"]}
-  ],
-  "newborn": [
-    {"id": 9744,"text": ["neonato"]}
-  ],
-  "newly": [
-    {"id": 9745,"text": ["nuovamente"]}
-  ],
-  "news": [
-    {"id": 9746,"text": ["notizia"]},
-    {"id": 9747,"text": ["notiziario"]}
-  ],
-  "newscast": [
-    {"id": 9748,"text": ["notiziario"]},
-    {"id": 9749,"text": ["telegiornale"]}
-  ],
-  "newspaper": [
-    {"id": 9750,"text": ["giornale"]}
-  ],
-  "next": [
-    {"id": 9751,"text": ["prossimo"]},
-    {"id": 9752,"text": ["successivamente"]}
-  ],
-  "Nicaraguan": [
-    {"id": 9753,"text": ["nicaraguense"]}
-  ],
-  "nice": [
-    {"id": 9754,"text": ["buono"]},
-    {"id": 9755,"text": ["simpatico"]}
-  ],
-  "nicely": [
-    {"id": 9756,"text": ["amabilmente"]},
-    {"id": 9757,"text": ["gentilmente"]}
-  ],
-  "niche": [
-    {"id": 9758,"text": ["nicchia"]}
-  ],
-  "nicotine": [
-    {"id": 9759,"text": ["nicotina"]}
-  ],
-  "niece": [
-    {"id": 9760,"text": ["nipote"]}
-  ],
-  "nigerian": [
-    {"id": 9761,"text": ["nigeriano"]}
-  ],
-  "night": [
-    {"id": 9762,"text": ["notte"]}
-  ],
-  "nightingale": [
-    {"id": 9763,"text": ["usignolo"]}
-  ],
-  "nightmare": [
-    {"id": 9764,"text": ["incubo"]}
-  ],
-  "nihilism": [
-    {"id": 9765,"text": ["nichilismo"]}
-  ],
-  "nihilistic": [
-    {"id": 9766,"text": ["nichilista"]}
-  ],
-  "nil": [
-    {"id": 9767,"text": ["zero"]}
-  ],
-  "nilpotent": [
-    {"id": 9768,"text": ["nilpotente"]}
-  ],
-  "nine": [
-    {"id": 9769,"text": ["nove"]}
-  ],
-  "ninehundred": [
-    {"id": 9770,"text": ["novecento"]}
-  ],
-  "ninehundredth": [
-    {"id": 9771,"text": ["novecentesimo"]}
-  ],
-  "ninehundredthousand": [
-    {"id": 9772,"text": ["novecentomila"]}
-  ],
-  "nineteen": [
-    {"id": 9773,"text": ["diciannove"]}
-  ],
-  "nineteenth": [
-    {"id": 9774,"text": ["diciannovesimo"]}
-  ],
-  "nineteenthousand": [
-    {"id": 9775,"text": ["diciannovemila"]}
-  ],
-  "ninethousand": [
-    {"id": 9776,"text": ["novemila"]}
-  ],
-  "ninetieth": [
-    {"id": 9777,"text": ["novantesimo"]}
-  ],
-  "ninety": [
-    {"id": 9778,"text": ["novanta"]}
-  ],
-  "ninetyeight": [
-    {"id": 9779,"text": ["novantotto"]}
-  ],
-  "ninetyeightthousand": [
-    {"id": 9780,"text": ["novantottomila"]}
-  ],
-  "ninetyfive": [
-    {"id": 9781,"text": ["novantacinque"]}
-  ],
-  "ninetyfivethousand": [
-    {"id": 9782,"text": ["novantacinquemila"]}
-  ],
-  "ninetyfour": [
-    {"id": 9783,"text": ["novantaquattro"]}
-  ],
-  "ninetyfourthousand": [
-    {"id": 9784,"text": ["novantaquattromila"]}
-  ],
-  "ninetynine": [
-    {"id": 9785,"text": ["novantanove"]}
-  ],
-  "ninetyninethousand": [
-    {"id": 9786,"text": ["novantanovemila"]}
-  ],
-  "ninetyone": [
-    {"id": 9787,"text": ["novantuno"]}
-  ],
-  "ninetyonethousand": [
-    {"id": 9788,"text": ["novantunomila"]}
-  ],
-  "ninetyseven": [
-    {"id": 9789,"text": ["novantasette"]}
-  ],
-  "ninetyseventhousand": [
-    {"id": 9790,"text": ["novantasettemila"]}
-  ],
-  "ninetysix": [
-    {"id": 9791,"text": ["novantasei"]}
-  ],
-  "ninetysixthousand": [
-    {"id": 9792,"text": ["novantaseimila"]}
-  ],
-  "ninetythousand": [
-    {"id": 9793,"text": ["novantamila"]}
-  ],
-  "ninetythreethousand": [
-    {"id": 9794,"text": ["novantatremila"]}
-  ],
-  "ninetytwo": [
-    {"id": 9795,"text": ["novantadue"]}
-  ],
-  "ninetytwothousand": [
-    {"id": 9796,"text": ["novantaduemila"]}
-  ],
-  "ninth": [
-    {"id": 9797,"text": ["nono"]}
-  ],
-  "niobium": [
-    {"id": 9798,"text": ["niobio"]}
-  ],
-  "nitrate": [
-    {"id": 9799,"text": ["nitrato"]}
-  ],
-  "nitric": [
-    {"id": 9800,"text": ["nitrico"]}
-  ],
-  "nitrification": [
-    {"id": 9801,"text": ["nitratazione"]}
-  ],
-  "nitrite": [
-    {"id": 9802,"text": ["nitrito"]}
-  ],
-  "nitrocellulose": [
-    {"id": 9803,"text": ["nitrocellulosa"]}
-  ],
-  "nitrogen": [
-    {"id": 9804,"text": ["azoto"]}
-  ],
-  "nitrogenous": [
-    {"id": 9805,"text": ["nitrogenato"]}
-  ],
-  "nitroglycerine": [
-    {"id": 9806,"text": ["nitroglicerina"]}
-  ],
-  "no": [
-    {"id": 9807,"text": ["nessuno"]},
-    {"id": 9808,"text": ["no"]},
-    {"id": 9809,"text": ["non"]}
-  ],
-  "No man's land": [
-    {"id": 9810,"text": ["Terra nullius"]}
-  ],
-  "no one": [
-    {"id": 9811,"text": ["nessuno"]}
-  ],
-  "no sooner": [
-    {"id": 9812,"text": ["appena"]}
-  ],
-  "Nobel Prize": [
-    {"id": 9813,"text": ["Premio Nobel"]}
-  ],
-  "nobelium": [
-    {"id": 9814,"text": ["nobelio"]}
-  ],
-  "noble": [
-    {"id": 9815,"text": ["nobile"]}
-  ],
-  "nobody": [
-    {"id": 9816,"text": ["nessuno"]}
-  ],
-  "nocturnal": [
-    {"id": 9817,"text": ["notturno"]}
-  ],
-  "nocturne": [
-    {"id": 9818,"text": ["notturno"]}
-  ],
-  "nod": [
-    {"id": 9819,"text": ["accenno"]},
-    {"id": 9820,"text": ["annuire"]}
-  ],
-  "node": [
-    {"id": 9821,"text": ["nodo"]}
-  ],
-  "nodule": [
-    {"id": 9822,"text": ["nodulo"]}
-  ],
-  "noise": [
-    {"id": 9823,"text": ["rumore"]}
-  ],
-  "noisy": [
-    {"id": 9824,"text": ["rumoroso"]}
-  ],
-  "nomad": [
-    {"id": 9825,"text": ["nomade"]}
-  ],
-  "nomadic": [
-    {"id": 9826,"text": ["nomade"]}
-  ],
-  "nomadism": [
-    {"id": 9827,"text": ["nomadismo"]}
-  ],
-  "nomenclature": [
-    {"id": 9828,"text": ["nomenclatura"]}
-  ],
-  "nominal": [
-    {"id": 9829,"text": ["nominale"]}
-  ],
-  "nominalism": [
-    {"id": 9830,"text": ["nominalismo"]}
-  ],
-  "nominate": [
-    {"id": 9831,"text": ["candidare"]},
-    {"id": 9832,"text": ["nominare"]}
-  ],
-  "nomination": [
-    {"id": 9833,"text": ["nomina"]}
-  ],
-  "nominee": [
-    {"id": 9834,"text": ["candidato"]}
-  ],
-  "nomogram": [
-    {"id": 9835,"text": ["nomogramma"]}
-  ],
-  "nondenominational": [
-    {"id": 9836,"text": ["aconfessionale"]}
-  ],
-  "none": [
-    {"id": 9837,"text": ["nessuno"]}
-  ],
-  "nonexistence": [
-    {"id": 9838,"text": ["nonesistenza"]}
-  ],
-  "nonexistent": [
-    {"id": 9839,"text": ["inesistente"]}
-  ],
-  "nontronite": [
-    {"id": 9840,"text": ["nontronite"]}
-  ],
-  "noon": [
-    {"id": 9841,"text": ["mezzogiorno"]}
-  ],
-  "noone": [
-    {"id": 9842,"text": ["nessuno"]}
-  ],
-  "noose": [
-    {"id": 9843,"text": ["cappio"]}
-  ],
-  "nor": [
-    {"id": 9844,"text": ["neppure"]}
-  ],
-  "norm": [
-    {"id": 9845,"text": ["norma"]}
-  ],
-  "normal": [
-    {"id": 9846,"text": ["normale"]}
-  ],
-  "normalisation": [
-    {"id": 9847,"text": ["normalizzazione"]}
-  ],
-  "normalise": [
-    {"id": 9848,"text": ["normalizzare"]}
-  ],
-  "normalization": [
-    {"id": 9849,"text": ["normalizzazione"]}
-  ],
-  "normalize": [
-    {"id": 9850,"text": ["normalizzare"]}
-  ],
-  "normally": [
-    {"id": 9851,"text": ["normalmente"]}
-  ],
-  "Normandy": [
-    {"id": 9852,"text": ["Normandia"]}
-  ],
-  "normative": [
-    {"id": 9853,"text": ["normativo"]}
-  ],
-  "north": [
-    {"id": 9854,"text": ["nord"]}
-  ],
-  "North America": [
-    {"id": 9855,"text": ["Nord America"]}
-  ],
-  "northeast": [
-    {"id": 9856,"text": ["nordest"]}
-  ],
-  "northeastern": [
-    {"id": 9857,"text": ["nordorientale"]}
-  ],
-  "northern": [
-    {"id": 9858,"text": ["nordico"]}
-  ],
-  "Northern Ireland": [
-    {"id": 9859,"text": ["Irlanda del Nord"]}
-  ],
-  "northerner": [
-    {"id": 9860,"text": ["nordico"]}
-  ],
-  "northwest": [
-    {"id": 9861,"text": ["nordovest"]}
-  ],
-  "Norway": [
-    {"id": 9862,"text": ["Norvegia"]}
-  ],
-  "norwegian": [
-    {"id": 9863,"text": ["norvegese"]}
-  ],
-  "nose": [
-    {"id": 9864,"text": ["naso"]}
-  ],
-  "nostalgia": [
-    {"id": 9865,"text": ["nostalgia"]}
-  ],
-  "nostril": [
-    {"id": 9866,"text": ["narice"]}
-  ],
-  "not": [
-    {"id": 9867,"text": ["non"]}
-  ],
-  "notable": [
-    {"id": 9868,"text": ["notevole"]}
-  ],
-  "notably": [
-    {"id": 9869,"text": ["notevolmente"]}
-  ],
-  "notarial": [
-    {"id": 9870,"text": ["notarile"]}
-  ],
-  "notary": [
-    {"id": 9871,"text": ["notaio"]}
-  ],
-  "notation": [
-    {"id": 9872,"text": ["notazione"]}
-  ],
-  "notch": [
-    {"id": 9873,"text": ["intaccare"]},
-    {"id": 9874,"text": ["tacca"]}
-  ],
-  "note": [
-    {"id": 9875,"text": ["annotare"]},
-    {"id": 9876,"text": ["nota"]}
-  ],
-  "notebook": [
-    {"id": 9877,"text": ["taccuino"]},
-    {"id": 9878,"text": ["quaderno"]}
-  ],
-  "notepad": [
-    {"id": 9879,"text": ["blocco note"]}
-  ],
-  "nothing": [
-    {"id": 9880,"text": ["niente"]},
-    {"id": 9881,"text": ["nulla"]}
-  ],
-  "notice": [
-    {"id": 9882,"text": ["avviso"]},
-    {"id": 9883,"text": ["notare"]}
-  ],
-  "noticeably": [
-    {"id": 9884,"text": ["notevolmente"]},
-    {"id": 9885,"text": ["sensibilmente"]}
-  ],
-  "notification": [
-    {"id": 9886,"text": ["notifica"]}
-  ],
-  "notify": [
-    {"id": 9887,"text": ["notificare"]}
-  ],
-  "notion": [
-    {"id": 9888,"text": ["nozione"]}
-  ],
-  "notorious": [
-    {"id": 9889,"text": ["notorio"]}
-  ],
-  "notoriously": [
-    {"id": 9890,"text": ["notoriamente"]}
-  ],
-  "noun": [
-    {"id": 9891,"text": ["sostantivo"]}
-  ],
-  "nourish": [
-    {"id": 9892,"text": ["nutrire"]}
-  ],
-  "nourishment": [
-    {"id": 9893,"text": ["nutrimento"]}
-  ],
-  "novel": [
-    {"id": 9894,"text": ["novellino"]},
-    {"id": 9895,"text": ["novello"]},
-    {"id": 9896,"text": ["romanzo"]}
-  ],
-  "novelist": [
-    {"id": 9897,"text": ["romanziere"]}
-  ],
-  "novelistic": [
-    {"id": 9898,"text": ["novellistico"]},
-    {"id": 9899,"text": ["romanzesco"]}
-  ],
-  "November": [
-    {"id": 9900,"text": ["novembre"]}
-  ],
-  "novice": [
-    {"id": 9901,"text": ["novellino"]}
-  ],
-  "now": [
-    {"id": 9902,"text": ["adesso"]}
-  ],
-  "nowadays": [
-    {"id": 9903,"text": ["odiernamente"]},
-    {"id": 9904,"text": ["oggigiorno"]}
-  ],
-  "nowandagain": [
-    {"id": 9905,"text": ["ognitanto"]}
-  ],
-  "nowandthen": [
-    {"id": 9906,"text": ["ognitanto"]}
-  ],
-  "nowhere": [
-    {"id": 9907,"text": ["da nessuna parte"]}
-  ],
-  "noxious": [
-    {"id": 9908,"text": ["dannoso"]},
-    {"id": 9909,"text": ["nocivo"]}
-  ],
-  "nozzle": [
-    {"id": 9910,"text": ["boccalino"]}
-  ],
-  "nth": [
-    {"id": 9911,"text": ["ennesimo"]}
-  ],
-  "nuance": [
-    {"id": 9912,"text": ["sfumatura"]}
-  ],
-  "nuclear": [
-    {"id": 9913,"text": ["nucleare"]}
-  ],
-  "nucleolus": [
-    {"id": 9914,"text": ["nucleolo"]}
-  ],
-  "nucleoplasm": [
-    {"id": 9915,"text": ["nucleoplasma"]}
-  ],
-  "nucleotide": [
-    {"id": 9916,"text": ["nucleotide"]}
-  ],
-  "nucleus": [
-    {"id": 9917,"text": ["nucleo"]}
-  ],
-  "nude": [
-    {"id": 9918,"text": ["nudo"]}
-  ],
-  "nudism": [
-    {"id": 9919,"text": ["naturismo"]}
-  ],
-  "number": [
-    {"id": 9920,"text": ["numerare"]},
-    {"id": 9921,"text": ["numero"]}
-  ],
-  "numberless": [
-    {"id": 9922,"text": ["innumerevole"]}
-  ],
-  "numerical": [
-    {"id": 9923,"text": ["numerico"]}
-  ],
-  "numerically": [
-    {"id": 9924,"text": ["numericamente"]}
-  ],
-  "numerous": [
-    {"id": 9925,"text": ["numeroso"]}
-  ],
-  "numismatist": [
-    {"id": 9926,"text": ["numismatico"]}
-  ],
-  "nuptial": [
-    {"id": 9927,"text": ["nuziale"]}
-  ],
-  "nurse": [
-    {"id": 9928,"text": ["infermiera"]}
-  ],
-  "nursemaid": [
-    {"id": 9929,"text": ["bambinaia"]}
-  ],
-  "nursery": [
-    {"id": 9930,"text": ["asilo"]},
-    {"id": 9931,"text": ["vivaio"]}
-  ],
-  "nut": [
-    {"id": 9932,"text": ["dado"]},
-    {"id": 9933,"text": ["noce"]}
-  ],
-  "nutation": [
-    {"id": 9934,"text": ["nutazione"]}
-  ],
-  "nutrition": [
-    {"id": 9935,"text": ["nutrizione"]}
-  ],
-  "nutritional": [
-    {"id": 9936,"text": ["nutrizionale"]}
-  ],
-  "nutritious": [
-    {"id": 9937,"text": ["nutritivo"]}
-  ],
-  "nymph": [
-    {"id": 9938,"text": ["ninfa"]}
-  ]
-}
+{"nacre": [
+  {"id":9590,"text":["madreperla"]}
+ ],
+
+"nail": [
+  {"id":9591,"text":["chiodo"]},
+  {"id":9592,"text":["inchiodare"]},
+  {"id":9593,"text":["unghia"]}
+ ],
+
+"naive": [
+  {"id":9594,"text":["ingenuo"]}
+ ],
+
+"naiveness": [
+  {"id":9595,"text":["ingenuità"]}
+ ],
+
+"naivety": [
+  {"id":9596,"text":["ingenuità"]}
+ ],
+
+"name": [
+  {"id":9597,"text":["nome"]},
+  {"id":9598,"text":["nominare"]}
+ ],
+
+"nanny": [
+  {"id":9599,"text":["bambinaia"]}
+ ],
+
+"nape": [
+  {"id":9600,"text":["nuca"]}
+ ],
+
+"naphtha": [
+  {"id":9601,"text":["nafta"]}
+ ],
+
+"napkin": [
+  {"id":9602,"text":["tovagliolo"]}
+ ],
+
+"Naples": [
+  {"id":9603,"text":["Napoli"]}
+ ],
+
+"Napoleon": [
+  {"id":9604,"text":["Napoleone"]}
+ ],
+
+"napoleonic": [
+  {"id":9605,"text":["napoleonico"]}
+ ],
+
+"narcissism": [
+  {"id":9606,"text":["narcisismo"]}
+ ],
+
+"narcissistic": [
+  {"id":9607,"text":["narcisista"]}
+ ],
+
+"narcissus": [
+  {"id":9608,"text":["narciso"]}
+ ],
+
+"narcolepsy": [
+  {"id":9609,"text":["narcolessia"]}
+ ],
+
+"narcosis": [
+  {"id":9610,"text":["narcosi"]}
+ ],
+
+"narcotic": [
+  {"id":9611,"text":["narcotico"]}
+ ],
+
+"narrate": [
+  {"id":9612,"text":["narrare"]}
+ ],
+
+"narration": [
+  {"id":9613,"text":["narrazione"]}
+ ],
+
+"narrative": [
+  {"id":9614,"text":["narrativa"]},
+  {"id":9615,"text":["narrativo"]},
+  {"id":9616,"text":["narrazione"]}
+ ],
+
+"narrator": [
+  {"id":9617,"text":["narratore"]}
+ ],
+
+"narrow": [
+  {"id":9618,"text":["stretto"]}
+ ],
+
+"narrowly": [
+  {"id":9619,"text":["strettamente"]}
+ ],
+
+"narthex": [
+  {"id":9620,"text":["nartece"]}
+ ],
+
+"nasal": [
+  {"id":9621,"text":["nasale"]}
+ ],
+
+"nasalisation": [
+  {"id":9622,"text":["nasalizzazione"]}
+ ],
+
+"nasalization": [
+  {"id":9623,"text":["nasalizzazione"]}
+ ],
+
+"nasty": [
+  {"id":9624,"text":["cattivo"]}
+ ],
+
+"natal": [
+  {"id":9625,"text":["natale"]}
+ ],
+
+"nation": [
+  {"id":9626,"text":["nazione"]}
+ ],
+
+"national": [
+  {"id":9627,"text":["nazionale"]}
+ ],
+
+"nationalisation": [
+  {"id":9628,"text":["nazionalizzazione"]}
+ ],
+
+"nationalise": [
+  {"id":9629,"text":["nazionalizzare"]}
+ ],
+
+"nationalism": [
+  {"id":9630,"text":["nazionalismo"]}
+ ],
+
+"nationalist": [
+  {"id":9631,"text":["nazionalista"]}
+ ],
+
+"nationalization": [
+  {"id":9632,"text":["nazionalizzazione"]}
+ ],
+
+"nationalize": [
+  {"id":9633,"text":["nazionalizzare"]}
+ ],
+
+"nationally": [
+  {"id":9634,"text":["nazionalmente"]}
+ ],
+
+"native": [
+  {"id":9635,"text":["indigeno"]},
+  {"id":9636,"text":["nativo"]}
+ ],
+
+"nativism": [
+  {"id":9637,"text":["nativismo"]}
+ ],
+
+"natural": [
+  {"id":9638,"text":["naturale"]}
+ ],
+
+"naturalistic": [
+  {"id":9639,"text":["naturalista"]}
+ ],
+
+"naturally": [
+  {"id":9640,"text":["naturalmente"]}
+ ],
+
+"nature": [
+  {"id":9641,"text":["natura"]}
+ ],
+
+"naughty": [
+  {"id":9642,"text":["cattivo"]},
+  {"id":9643,"text":["disobbediente"]},
+  {"id":9644,"text":["impertinente"]}
+ ],
+
+"nausea": [
+  {"id":9645,"text":["nausea"]}
+ ],
+
+"nautical": [
+  {"id":9646,"text":["nautico"]}
+ ],
+
+"naval": [
+  {"id":9647,"text":["navale"]}
+ ],
+
+"nave": [
+  {"id":9648,"text":["capannone"]}
+ ],
+
+"navel": [
+  {"id":9649,"text":["ombelico"]}
+ ],
+
+"navigation": [
+  {"id":9650,"text":["navigazione"]}
+ ],
+
+"nazi": [
+  {"id":9651,"text":["nazista"]}
+ ],
+
+"near": [
+  {"id":9652,"text":["vicino"]},
+  {"id":9653,"text":["vicinoa"]}
+ ],
+
+"nearby": [
+  {"id":9654,"text":["vicino"]}
+ ],
+
+"neat": [
+  {"id":9655,"text":["ordinato"]},
+  {"id":9656,"text":["pulito"]}
+ ],
+
+"Nebuchadnezzar": [
+  {"id":9657,"text":["Nabucodonosor"]}
+ ],
+
+"nebula": [
+  {"id":9658,"text":["nebulosa"]}
+ ],
+
+"necessarily": [
+  {"id":9659,"text":["necessariamente"]}
+ ],
+
+"necessary": [
+  {"id":9660,"text":["necessario"]}
+ ],
+
+"neck": [
+  {"id":9661,"text":["collo"]}
+ ],
+
+"necklace": [
+  {"id":9662,"text":["collana"]}
+ ],
+
+"necropolis": [
+  {"id":9663,"text":["necropoli"]}
+ ],
+
+"necrosis": [
+  {"id":9664,"text":["necrosi"]}
+ ],
+
+"nectar": [
+  {"id":9665,"text":["nettare"]}
+ ],
+
+"need": [
+  {"id":9666,"text":["avere bisogno"]}
+ ],
+
+"needle": [
+  {"id":9667,"text":["ago"]}
+ ],
+
+"needlework": [
+  {"id":9668,"text":["ricamo"]}
+ ],
+
+"negation": [
+  {"id":9669,"text":["negazione"]}
+ ],
+
+"negative": [
+  {"id":9670,"text":["negativo"]}
+ ],
+
+"negatively": [
+  {"id":9671,"text":["negativamente"]}
+ ],
+
+"neglect": [
+  {"id":9672,"text":["negligenza"]},
+  {"id":9673,"text":["negligere"]},
+  {"id":9674,"text":["trascurare"]}
+ ],
+
+"negligence": [
+  {"id":9675,"text":["negligenza"]}
+ ],
+
+"negligent": [
+  {"id":9676,"text":["negligente"]}
+ ],
+
+"negotiable": [
+  {"id":9677,"text":["negoziabile"]}
+ ],
+
+"negotiate": [
+  {"id":9678,"text":["trattare"]}
+ ],
+
+"negotiation": [
+  {"id":9679,"text":["negoziazione"]},
+  {"id":9680,"text":["trattativa"]}
+ ],
+
+"neighboring": [
+  {"id":9681,"text":["confinante"]},
+  {"id":9682,"text":["vicino"]}
+ ],
+
+"neighborly": [
+  {"id":9683,"text":["amichevole"]},
+  {"id":9684,"text":["cordiale"]},
+  {"id":9685,"text":["cortese"]},
+  {"id":9686,"text":["vicino"]}
+ ],
+
+"neighbour": [
+  {"id":9687,"text":["confinare"]},
+  {"id":9688,"text":["vicino"]}
+ ],
+
+"neighbourhood": [
+  {"id":9689,"text":["vicinato"]}
+ ],
+
+"neighbouring": [
+  {"id":9690,"text":["confinante"]},
+  {"id":9691,"text":["vicino"]}
+ ],
+
+"neighbourly": [
+  {"id":9692,"text":["amichevole"]},
+  {"id":9693,"text":["cordiale"]},
+  {"id":9694,"text":["cortese"]},
+  {"id":9695,"text":["vicino"]}
+ ],
+
+"neither": [
+  {"id":9844,"text":["neanche","nemmeno","neppure","né"]}
+ ],
+
+"neoclassicism": [
+  {"id":9700,"text":["neoclassicismo"]}
+ ],
+
+"neocolonialism": [
+  {"id":9701,"text":["neocolonialismo"]}
+ ],
+
+"neodymium": [
+  {"id":9702,"text":["neodimio"]}
+ ],
+
+"neofascism": [
+  {"id":9703,"text":["neofascismo"]}
+ ],
+
+"neofascist": [
+  {"id":9704,"text":["neofascista"]}
+ ],
+
+"neoliberal": [
+  {"id":9705,"text":["neoliberale"]}
+ ],
+
+"neoliberalism": [
+  {"id":9706,"text":["neoliberismo"]}
+ ],
+
+"neolithic": [
+  {"id":9707,"text":["neolitico"]}
+ ],
+
+"neologism": [
+  {"id":9708,"text":["neologismo"]}
+ ],
+
+"neology": [
+  {"id":9709,"text":["neologia"]}
+ ],
+
+"neonatal": [
+  {"id":9710,"text":["neonatale"]}
+ ],
+
+"neonazi": [
+  {"id":9711,"text":["neonazista"]}
+ ],
+
+"nephew": [
+  {"id":9712,"text":["nipote"]}
+ ],
+
+"nepotism": [
+  {"id":9713,"text":["nepotismo"]}
+ ],
+
+"neptunium": [
+  {"id":9714,"text":["nettunio"]}
+ ],
+
+"nerve": [
+  {"id":9715,"text":["nervo"]}
+ ],
+
+"nervous": [
+  {"id":9716,"text":["nervoso"]}
+ ],
+
+"nervously": [
+  {"id":9717,"text":["nervosamente"]}
+ ],
+
+"nest": [
+  {"id":9718,"text":["annidare"]},
+  {"id":9719,"text":["nidificare"]},
+  {"id":9720,"text":["nido"]}
+ ],
+
+"nesting": [
+  {"id":9721,"text":["nidificazione"]}
+ ],
+
+"net": [
+  {"id":9722,"text":["netto"]},
+  {"id":9723,"text":["rete"]}
+ ],
+
+"network": [
+  {"id":9724,"text":["rete"]}
+ ],
+
+"neural": [
+  {"id":9725,"text":["neurale"]},
+  {"id":9726,"text":["neuronale"]}
+ ],
+
+"neuralgia": [
+  {"id":9727,"text":["nevralgia"]}
+ ],
+
+"neurofilament": [
+  {"id":9728,"text":["neurofilamento"]}
+ ],
+
+"neurology": [
+  {"id":9729,"text":["neurologia"]}
+ ],
+
+"neuromuscular": [
+  {"id":9730,"text":["neuromuscolare"]}
+ ],
+
+"neuron": [
+  {"id":9731,"text":["neurone"]}
+ ],
+
+"neuropathy": [
+  {"id":9732,"text":["neuropatia"]}
+ ],
+
+"neuropsychology": [
+  {"id":9733,"text":["neuropsicologia"]}
+ ],
+
+"neurotransmitter": [
+  {"id":9734,"text":["neurotrasmettitore"]}
+ ],
+
+"neuter": [
+  {"id":9735,"text":["neutro"]}
+ ],
+
+"neutral": [
+  {"id":9736,"text":["neutro"]}
+ ],
+
+"neutralisation": [
+  {"id":9737,"text":["neutralizzazione"]}
+ ],
+
+"neutralise": [
+  {"id":9738,"text":["neutralizzare"]}
+ ],
+
+"neutron": [
+  {"id":9739,"text":["neutrone"]}
+ ],
+
+"never": [
+  {"id":9740,"text":["mai"]}
+ ],
+
+"new": [
+  {"id":9741,"text":["nuovo"]}
+ ],
+
+"New Caledonia": [
+  {"id":9742,"text":["Nuova Caledonia"]}
+ ],
+
+"New Zealand": [
+  {"id":9743,"text":["Nuova Zelanda"]}
+ ],
+
+"newborn": [
+  {"id":9744,"text":["neonato"]}
+ ],
+
+"newly": [
+  {"id":9745,"text":["nuovamente"]}
+ ],
+
+"news": [
+  {"id":9746,"text":["notizia"]},
+  {"id":9747,"text":["notiziario"]}
+ ],
+
+"newscast": [
+  {"id":9748,"text":["notiziario"]},
+  {"id":9749,"text":["telegiornale"]}
+ ],
+
+"newspaper": [
+  {"id":9750,"text":["giornale"]}
+ ],
+
+"next": [
+  {"id":9751,"text":["prossimo"]},
+  {"id":9752,"text":["successivamente"]}
+ ],
+
+"Nicaraguan": [
+  {"id":9753,"text":["nicaraguense"]}
+ ],
+
+"nice": [
+  {"id":9754,"text":["buono"]},
+  {"id":9755,"text":["simpatico"]}
+ ],
+
+"nicely": [
+  {"id":9756,"text":["amabilmente"]},
+  {"id":9757,"text":["gentilmente"]}
+ ],
+
+"niche": [
+  {"id":9758,"text":["nicchia"]}
+ ],
+
+"nicotine": [
+  {"id":9759,"text":["nicotina"]}
+ ],
+
+"niece": [
+  {"id":9760,"text":["nipote"]}
+ ],
+
+"nigerian": [
+  {"id":9761,"text":["nigeriano"]}
+ ],
+
+"night": [
+  {"id":9762,"text":["notte"]}
+ ],
+
+"nightingale": [
+  {"id":9763,"text":["usignolo"]}
+ ],
+
+"nightmare": [
+  {"id":9764,"text":["incubo"]}
+ ],
+
+"nihilism": [
+  {"id":9765,"text":["nichilismo"]}
+ ],
+
+"nihilistic": [
+  {"id":9766,"text":["nichilista"]}
+ ],
+
+"nil": [
+  {"id":9767,"text":["zero"]}
+ ],
+
+"nilpotent": [
+  {"id":9768,"text":["nilpotente"]}
+ ],
+
+"nine": [
+  {"id":9769,"text":["nove"]}
+ ],
+
+"ninehundred": [
+  {"id":9770,"text":["novecento"]}
+ ],
+
+"ninehundredth": [
+  {"id":9771,"text":["novecentesimo"]}
+ ],
+
+"ninehundredthousand": [
+  {"id":9772,"text":["novecentomila"]}
+ ],
+
+"nineteen": [
+  {"id":9773,"text":["diciannove"]}
+ ],
+
+"nineteenth": [
+  {"id":9774,"text":["diciannovesimo"]}
+ ],
+
+"nineteenthousand": [
+  {"id":9775,"text":["diciannovemila"]}
+ ],
+
+"ninethousand": [
+  {"id":9776,"text":["novemila"]}
+ ],
+
+"ninetieth": [
+  {"id":9777,"text":["novantesimo"]}
+ ],
+
+"ninety": [
+  {"id":9778,"text":["novanta"]}
+ ],
+
+"ninetyeight": [
+  {"id":9779,"text":["novantotto"]}
+ ],
+
+"ninetyeightthousand": [
+  {"id":9780,"text":["novantottomila"]}
+ ],
+
+"ninetyfive": [
+  {"id":9781,"text":["novantacinque"]}
+ ],
+
+"ninetyfivethousand": [
+  {"id":9782,"text":["novantacinquemila"]}
+ ],
+
+"ninetyfour": [
+  {"id":9783,"text":["novantaquattro"]}
+ ],
+
+"ninetyfourthousand": [
+  {"id":9784,"text":["novantaquattromila"]}
+ ],
+
+"ninetynine": [
+  {"id":9785,"text":["novantanove"]}
+ ],
+
+"ninetyninethousand": [
+  {"id":9786,"text":["novantanovemila"]}
+ ],
+
+"ninetyone": [
+  {"id":9787,"text":["novantuno"]}
+ ],
+
+"ninetyonethousand": [
+  {"id":9788,"text":["novantunomila"]}
+ ],
+
+"ninetyseven": [
+  {"id":9789,"text":["novantasette"]}
+ ],
+
+"ninetyseventhousand": [
+  {"id":9790,"text":["novantasettemila"]}
+ ],
+
+"ninetysix": [
+  {"id":9791,"text":["novantasei"]}
+ ],
+
+"ninetysixthousand": [
+  {"id":9792,"text":["novantaseimila"]}
+ ],
+
+"ninetythousand": [
+  {"id":9793,"text":["novantamila"]}
+ ],
+
+"ninetythreethousand": [
+  {"id":9794,"text":["novantatremila"]}
+ ],
+
+"ninetytwo": [
+  {"id":9795,"text":["novantadue"]}
+ ],
+
+"ninetytwothousand": [
+  {"id":9796,"text":["novantaduemila"]}
+ ],
+
+"ninth": [
+  {"id":9797,"text":["nono"]}
+ ],
+
+"niobium": [
+  {"id":9798,"text":["niobio"]}
+ ],
+
+"nitrate": [
+  {"id":9799,"text":["nitrato"]}
+ ],
+
+"nitric": [
+  {"id":9800,"text":["nitrico"]}
+ ],
+
+"nitrification": [
+  {"id":9801,"text":["nitratazione"]}
+ ],
+
+"nitrite": [
+  {"id":9802,"text":["nitrito"]}
+ ],
+
+"nitrocellulose": [
+  {"id":9803,"text":["nitrocellulosa"]}
+ ],
+
+"nitrogen": [
+  {"id":9804,"text":["azoto"]}
+ ],
+
+"nitrogenous": [
+  {"id":9805,"text":["nitrogenato"]}
+ ],
+
+"nitroglycerine": [
+  {"id":9806,"text":["nitroglicerina"]}
+ ],
+
+"no": [
+  {"id":9807,"text":["nessuno"]},
+  {"id":9808,"text":["no"]},
+  {"id":9809,"text":["non"]}
+ ],
+
+"No man's land": [
+  {"id":9810,"text":["Terra nullius"]}
+ ],
+
+"no one": [
+  {"id":9811,"text":["nessuno"]}
+ ],
+
+"no sooner": [
+  {"id":9812,"text":["appena"]}
+ ],
+
+"Nobel Prize": [
+  {"id":9813,"text":["Premio Nobel"]}
+ ],
+
+"nobelium": [
+  {"id":9814,"text":["nobelio"]}
+ ],
+
+"noble": [
+  {"id":9815,"text":["nobile"]}
+ ],
+
+"nobody": [
+  {"id":9816,"text":["nessuno"]}
+ ],
+
+"nocturnal": [
+  {"id":9817,"text":["notturno"]}
+ ],
+
+"nocturne": [
+  {"id":9818,"text":["notturno"]}
+ ],
+
+"nod": [
+  {"id":9819,"text":["accenno"]},
+  {"id":9820,"text":["annuire"]}
+ ],
+
+"node": [
+  {"id":9821,"text":["nodo"]}
+ ],
+
+"nodule": [
+  {"id":9822,"text":["nodulo"]}
+ ],
+
+"noise": [
+  {"id":9823,"text":["rumore"]}
+ ],
+
+"noisy": [
+  {"id":9824,"text":["rumoroso"]}
+ ],
+
+"nomad": [
+  {"id":9825,"text":["nomade"]}
+ ],
+
+"nomadic": [
+  {"id":9826,"text":["nomade"]}
+ ],
+
+"nomadism": [
+  {"id":9827,"text":["nomadismo"]}
+ ],
+
+"nomenclature": [
+  {"id":9828,"text":["nomenclatura"]}
+ ],
+
+"nominal": [
+  {"id":9829,"text":["nominale"]}
+ ],
+
+"nominalism": [
+  {"id":9830,"text":["nominalismo"]}
+ ],
+
+"nominate": [
+  {"id":9831,"text":["candidare"]},
+  {"id":9832,"text":["nominare"]}
+ ],
+
+"nomination": [
+  {"id":9833,"text":["nomina"]}
+ ],
+
+"nominee": [
+  {"id":9834,"text":["candidato"]}
+ ],
+
+"nomogram": [
+  {"id":9835,"text":["nomogramma"]}
+ ],
+
+"nondenominational": [
+  {"id":9836,"text":["aconfessionale"]}
+ ],
+
+"none": [
+  {"id":9837,"text":["nessuno"]}
+ ],
+
+"nonexistence": [
+  {"id":9838,"text":["nonesistenza"]}
+ ],
+
+"nonexistent": [
+  {"id":9839,"text":["inesistente"]}
+ ],
+
+"nontronite": [
+  {"id":9840,"text":["nontronite"]}
+ ],
+
+"noon": [
+  {"id":9841,"text":["mezzogiorno"]}
+ ],
+
+"noone": [
+  {"id":9842,"text":["nessuno"]}
+ ],
+
+"noose": [
+  {"id":9843,"text":["cappio"]}
+ ],
+
+"nor": [
+  {"id":9844,"text":["neanche","nemmeno","neppure","né"]}
+ ],
+
+"norm": [
+  {"id":9845,"text":["norma"]}
+ ],
+
+"normal": [
+  {"id":9846,"text":["normale"]}
+ ],
+
+"normalisation": [
+  {"id":9847,"text":["normalizzazione"]}
+ ],
+
+"normalise": [
+  {"id":9848,"text":["normalizzare"]}
+ ],
+
+"normalization": [
+  {"id":9849,"text":["normalizzazione"]}
+ ],
+
+"normalize": [
+  {"id":9850,"text":["normalizzare"]}
+ ],
+
+"normally": [
+  {"id":9851,"text":["normalmente"]}
+ ],
+
+"Normandy": [
+  {"id":9852,"text":["Normandia"]}
+ ],
+
+"normative": [
+  {"id":9853,"text":["normativo"]}
+ ],
+
+"north": [
+  {"id":9854,"text":["nord"]}
+ ],
+
+"North America": [
+  {"id":9855,"text":["Nord America"]}
+ ],
+
+"northeast": [
+  {"id":9856,"text":["nordest"]}
+ ],
+
+"northeastern": [
+  {"id":9857,"text":["nordorientale"]}
+ ],
+
+"northern": [
+  {"id":9858,"text":["nordico"]}
+ ],
+
+"Northern Ireland": [
+  {"id":9859,"text":["Irlanda del Nord"]}
+ ],
+
+"northerner": [
+  {"id":9860,"text":["nordico"]}
+ ],
+
+"northwest": [
+  {"id":9861,"text":["nordovest"]}
+ ],
+
+"Norway": [
+  {"id":9862,"text":["Norvegia"]}
+ ],
+
+"norwegian": [
+  {"id":9863,"text":["norvegese"]}
+ ],
+
+"nose": [
+  {"id":9864,"text":["naso"]}
+ ],
+
+"nostalgia": [
+  {"id":9865,"text":["nostalgia"]}
+ ],
+
+"nostril": [
+  {"id":9866,"text":["narice"]}
+ ],
+
+"not": [
+  {"id":9867,"text":["non"]}
+ ],
+
+"notable": [
+  {"id":9868,"text":["notevole"]}
+ ],
+
+"notably": [
+  {"id":9869,"text":["notevolmente"]}
+ ],
+
+"notarial": [
+  {"id":9870,"text":["notarile"]}
+ ],
+
+"notary": [
+  {"id":9871,"text":["notaio"]}
+ ],
+
+"notation": [
+  {"id":9872,"text":["notazione"]}
+ ],
+
+"notch": [
+  {"id":9873,"text":["intaccare"]},
+  {"id":9874,"text":["tacca"]}
+ ],
+
+"note": [
+  {"id":9875,"text":["annotare"]},
+  {"id":9876,"text":["nota"]}
+ ],
+
+"notebook": [
+  {"id":9877,"text":["taccuino"]},
+  {"id":9878,"text":["quaderno"]}
+ ],
+
+"notepad": [
+  {"id":9879,"text":["blocco note"]}
+ ],
+
+"nothing": [
+  {"id":9880,"text":["niente","nulla"]}
+ ],
+
+"notice": [
+  {"id":9882,"text":["avviso"]},
+  {"id":9883,"text":["notare"]}
+ ],
+
+"noticeably": [
+  {"id":9884,"text":["notevolmente"]},
+  {"id":9885,"text":["sensibilmente"]}
+ ],
+
+"notification": [
+  {"id":9886,"text":["notifica"]}
+ ],
+
+"notify": [
+  {"id":9887,"text":["notificare"]}
+ ],
+
+"notion": [
+  {"id":9888,"text":["nozione"]}
+ ],
+
+"notorious": [
+  {"id":9889,"text":["notorio"]}
+ ],
+
+"notoriously": [
+  {"id":9890,"text":["notoriamente"]}
+ ],
+
+"noun": [
+  {"id":9891,"text":["sostantivo"]}
+ ],
+
+"nourish": [
+  {"id":9892,"text":["nutrire"]}
+ ],
+
+"nourishment": [
+  {"id":9893,"text":["nutrimento"]}
+ ],
+
+"novel": [
+  {"id":9894,"text":["novellino"]},
+  {"id":9895,"text":["novello"]},
+  {"id":9896,"text":["romanzo"]}
+ ],
+
+"novelist": [
+  {"id":9897,"text":["romanziere"]}
+ ],
+
+"novelistic": [
+  {"id":9898,"text":["novellistico"]},
+  {"id":9899,"text":["romanzesco"]}
+ ],
+
+"November": [
+  {"id":9900,"text":["novembre"]}
+ ],
+
+"novice": [
+  {"id":9901,"text":["novellino"]}
+ ],
+
+"now": [
+  {"id":9902,"text":["adesso"]}
+ ],
+
+"nowadays": [
+  {"id":9903,"text":["odiernamente"]},
+  {"id":9904,"text":["oggigiorno"]}
+ ],
+
+"nowandagain": [
+  {"id":9905,"text":["ognitanto"]}
+ ],
+
+"nowandthen": [
+  {"id":9906,"text":["ognitanto"]}
+ ],
+
+"nowhere": [
+  {"id":9907,"text":["da nessuna parte"]}
+ ],
+
+"noxious": [
+  {"id":9908,"text":["dannoso"]},
+  {"id":9909,"text":["nocivo"]}
+ ],
+
+"nozzle": [
+  {"id":9910,"text":["boccalino"]}
+ ],
+
+"nth": [
+  {"id":9911,"text":["ennesimo"]}
+ ],
+
+"nuance": [
+  {"id":9912,"text":["sfumatura"]}
+ ],
+
+"nuclear": [
+  {"id":9913,"text":["nucleare"]}
+ ],
+
+"nucleolus": [
+  {"id":9914,"text":["nucleolo"]}
+ ],
+
+"nucleoplasm": [
+  {"id":9915,"text":["nucleoplasma"]}
+ ],
+
+"nucleotide": [
+  {"id":9916,"text":["nucleotide"]}
+ ],
+
+"nucleus": [
+  {"id":9917,"text":["nucleo"]}
+ ],
+
+"nude": [
+  {"id":9918,"text":["nudo"]}
+ ],
+
+"nudism": [
+  {"id":9919,"text":["naturismo"]}
+ ],
+
+"number": [
+  {"id":9920,"text":["numerare"]},
+  {"id":9921,"text":["numero"]}
+ ],
+
+"numberless": [
+  {"id":9922,"text":["innumerevole"]}
+ ],
+
+"numerical": [
+  {"id":9923,"text":["numerico"]}
+ ],
+
+"numerically": [
+  {"id":9924,"text":["numericamente"]}
+ ],
+
+"numerous": [
+  {"id":9925,"text":["numeroso"]}
+ ],
+
+"numismatist": [
+  {"id":9926,"text":["numismatico"]}
+ ],
+
+"nuptial": [
+  {"id":9927,"text":["nuziale"]}
+ ],
+
+"nurse": [
+  {"id":9928,"text":["infermiera"]}
+ ],
+
+"nursemaid": [
+  {"id":9929,"text":["bambinaia"]}
+ ],
+
+"nursery": [
+  {"id":9930,"text":["asilo"]},
+  {"id":9931,"text":["vivaio"]}
+ ],
+
+"nut": [
+  {"id":9932,"text":["dado"]},
+  {"id":9933,"text":["noce"]}
+ ],
+
+"nutation": [
+  {"id":9934,"text":["nutazione"]}
+ ],
+
+"nutrition": [
+  {"id":9935,"text":["nutrizione"]}
+ ],
+
+"nutritional": [
+  {"id":9936,"text":["nutrizionale"]}
+ ],
+
+"nutritious": [
+  {"id":9937,"text":["nutritivo"]}
+ ],
+
+"nymph": [
+  {"id":9938,"text":["ninfa"]}
+ ]}

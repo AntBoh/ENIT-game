@@ -1,2372 +1,3141 @@
-{
-  "I": [
-    {"id": 7269,"text": ["io"]}
-  ],
-  "Iberian": [
-    {"id": 7270,"text": ["iberico"]}
-  ],
-  "ibuprofen": [
-    {"id": 7271,"text": ["ibuprofene"]}
-  ],
-  "ice": [
-    {"id": 7272,"text": ["ghiaccio"]}
-  ],
-  "ice cream": [
-    {"id": 7273,"text": ["gelato"]}
-  ],
-  "iceaxe": [
-    {"id": 7274,"text": ["piccozza"]}
-  ],
-  "iceberg": [
-    {"id": 7275,"text": ["iceberg"]}
-  ],
-  "Iceland": [
-    {"id": 7276,"text": ["Islanda"]}
-  ],
-  "Icelandic": [
-    {"id": 7277,"text": ["islandese"]}
-  ],
-  "ichthyology": [
-    {"id": 7278,"text": ["ittiologia"]}
-  ],
-  "icon": [
-    {"id": 7279,"text": ["icona"]}
-  ],
-  "iconic": [
-    {"id": 7280,"text": ["iconico"]}
-  ],
-  "iconography": [
-    {"id": 7281,"text": ["iconografia"]}
-  ],
-  "icosahedron": [
-    {"id": 7282,"text": ["icosaedro"]}
-  ],
-  "idea": [
-    {"id": 7283,"text": ["idea"]}
-  ],
-  "ideal": [
-    {"id": 7284,"text": ["ideale"]}
-  ],
-  "idealisation": [
-    {"id": 7285,"text": ["idealizzazione"]}
-  ],
-  "idealise": [
-    {"id": 7286,"text": ["idealizzare"]}
-  ],
-  "idealism": [
-    {"id": 7287,"text": ["idealismo"]}
-  ],
-  "idealist": [
-    {"id": 7288,"text": ["idealista"]}
-  ],
-  "idealistic": [
-    {"id": 7289,"text": ["idealista"]}
-  ],
-  "idealization": [
-    {"id": 7290,"text": ["idealizzazione"]}
-  ],
-  "idealize": [
-    {"id": 7291,"text": ["idealizzare"]}
-  ],
-  "ideally": [
-    {"id": 7292,"text": ["idealmente"]}
-  ],
-  "ideation": [
-    {"id": 7293,"text": ["ideazione"]}
-  ],
-  "identical": [
-    {"id": 7294,"text": ["identico"]}
-  ],
-  "identifiable": [
-    {"id": 7295,"text": ["identificabile"]}
-  ],
-  "identification": [
-    {"id": 7296,"text": ["identificazione"]}
-  ],
-  "identifier": [
-    {"id": 7297,"text": ["identificatore"]}
-  ],
-  "identify": [
-    {"id": 7298,"text": ["identificare"]}
-  ],
-  "ideological": [
-    {"id": 7299,"text": ["ideologico"]}
-  ],
-  "ideologically": [
-    {"id": 7300,"text": ["ideologicamente"]}
-  ],
-  "ideologist": [
-    {"id": 7301,"text": ["ideologo"]}
-  ],
-  "ideology": [
-    {"id": 7302,"text": ["ideologia"]}
-  ],
-  "idiolect": [
-    {"id": 7303,"text": ["idioletto"]}
-  ],
-  "idiom": [
-    {"id": 7304,"text": ["idioma"]},
-    {"id": 7305,"text": ["idiotismo"]}
-  ],
-  "idiomatic": [
-    {"id": 7306,"text": ["idiomatico"]}
-  ],
-  "idiosyncrasy": [
-    {"id": 7307,"text": ["idiosincrasia"]}
-  ],
-  "idiosyncratic": [
-    {"id": 7308,"text": ["idiosincratico"]}
-  ],
-  "idiot": [
-    {"id": 7309,"text": ["idiota"]},
-    {"id": 7310,"text": ["somaro"]}
-  ],
-  "idol": [
-    {"id": 7311,"text": ["idolo"]}
-  ],
-  "idolise": [
-    {"id": 7312,"text": ["idolatrare"]}
-  ],
-  "idyll": [
-    {"id": 7313,"text": ["idillio"]}
-  ],
-  "if": [
-    {"id": 7314,"text": ["se"]}
-  ],
-  "ignite": [
-    {"id": 7315,"text": ["incendiare"]}
-  ],
-  "ignominy": [
-    {"id": 7316,"text": ["ignominia"]}
-  ],
-  "ignorance": [
-    {"id": 7317,"text": ["ignoranza"]}
-  ],
-  "ignorant": [
-    {"id": 7318,"text": ["ignorante"]}
-  ],
-  "ignore": [
-    {"id": 7319,"text": ["ignorare"]}
-  ],
-  "ileum": [
-    {"id": 7320,"text": ["ileo"]}
-  ],
-  "ill": [
-    {"id": 7321,"text": ["ammalato"]},
-    {"id": 7322,"text": ["malato"]}
-  ],
-  "illegal": [
-    {"id": 7323,"text": ["illegale"]}
-  ],
-  "illegally": [
-    {"id": 7324,"text": ["illegalmente"]}
-  ],
-  "illegitimate": [
-    {"id": 7325,"text": ["illegittimo"]}
-  ],
-  "illicit": [
-    {"id": 7326,"text": ["illecito"]}
-  ],
-  "illicitly": [
-    {"id": 7327,"text": ["illecitamente"]}
-  ],
-  "illiteracy": [
-    {"id": 7328,"text": ["analfabetismo"]}
-  ],
-  "illiterate": [
-    {"id": 7329,"text": ["analfabeta"]}
-  ],
-  "illness": [
-    {"id": 7330,"text": ["malattia"]}
-  ],
-  "illogical": [
-    {"id": 7331,"text": ["illogico"]}
-  ],
-  "illumination": [
-    {"id": 7332,"text": ["illuminazione"]}
-  ],
-  "illusion": [
-    {"id": 7333,"text": ["illusione"]}
-  ],
-  "illustrate": [
-    {"id": 7334,"text": ["illustrare"]}
-  ],
-  "illustrated": [
-    {"id": 7335,"text": ["illustrato"]}
-  ],
-  "illustration": [
-    {"id": 7336,"text": ["illustrazione"]}
-  ],
-  "illustrious": [
-    {"id": 7337,"text": ["illustre"]}
-  ],
-  "image": [
-    {"id": 7338,"text": ["immagine"]}
-  ],
-  "imaginary": [
-    {"id": 7339,"text": ["immaginario"]}
-  ],
-  "imagination": [
-    {"id": 7340,"text": ["immaginazione"]}
-  ],
-  "imaginative": [
-    {"id": 7341,"text": ["immaginativo"]}
-  ],
-  "imagine": [
-    {"id": 7342,"text": ["immaginare"]}
-  ],
-  "imbecilic": [
-    {"id": 7343,"text": ["imbecille"]}
-  ],
-  "imitate": [
-    {"id": 7344,"text": ["imitare"]}
-  ],
-  "imitation": [
-    {"id": 7345,"text": ["imitazione"]}
-  ],
-  "immanence": [
-    {"id": 7346,"text": ["immanenza"]}
-  ],
-  "immaterial": [
-    {"id": 7347,"text": ["immateriale"]}
-  ],
-  "immediate": [
-    {"id": 7348,"text": ["immediato"]}
-  ],
-  "immediately": [
-    {"id": 7349,"text": ["immediatamente"]}
-  ],
-  "immemorial": [
-    {"id": 7350,"text": ["immemorabile"]}
-  ],
-  "immense": [
-    {"id": 7351,"text": ["immenso"]}
-  ],
-  "immersion": [
-    {"id": 7352,"text": ["immersione"]}
-  ],
-  "immigrant": [
-    {"id": 7353,"text": ["immigrante"]},
-    {"id": 7354,"text": ["immigrato"]}
-  ],
-  "immigration": [
-    {"id": 7355,"text": ["immigrazione"]}
-  ],
-  "imminent": [
-    {"id": 7356,"text": ["imminente"]}
-  ],
-  "immobilisation": [
-    {"id": 7357,"text": ["immobilizzazione"]}
-  ],
-  "immoderate": [
-    {"id": 7358,"text": ["smisurato"]}
-  ],
-  "immoral": [
-    {"id": 7359,"text": ["immorale"]}
-  ],
-  "immortal": [
-    {"id": 7360,"text": ["immortale"]}
-  ],
-  "immovable": [
-    {"id": 7361,"text": ["immobiliare"]}
-  ],
-  "immune": [
-    {"id": 7362,"text": ["immune"]}
-  ],
-  "immunisation": [
-    {"id": 7363,"text": ["immunizzazione"]}
-  ],
-  "immunodeficiency": [
-    {"id": 7364,"text": ["immunodeficienza"]}
-  ],
-  "immunological": [
-    {"id": 7365,"text": ["immunologico"]}
-  ],
-  "immunology": [
-    {"id": 7366,"text": ["immunologia"]}
-  ],
-  "immunosuppression": [
-    {"id": 7367,"text": ["immunosoppressione"]}
-  ],
-  "immunotherapy": [
-    {"id": 7368,"text": ["immunoterapia"]}
-  ],
-  "impact": [
-    {"id": 7369,"text": ["impatto"]}
-  ],
-  "impairment": [
-    {"id": 7370,"text": ["indebolimento"]}
-  ],
-  "impaler": [
-    {"id": 7371,"text": ["impalatore"]}
-  ],
-  "impart": [
-    {"id": 7372,"text": ["impartire"]}
-  ],
-  "impartial": [
-    {"id": 7373,"text": ["imparziale"]}
-  ],
-  "impassable": [
-    {"id": 7374,"text": ["impraticabile"]}
-  ],
-  "impasse": [
-    {"id": 7375,"text": ["impasse"]}
-  ],
-  "impatience": [
-    {"id": 7376,"text": ["impazienza"]}
-  ],
-  "impatient": [
-    {"id": 7377,"text": ["impaziente"]}
-  ],
-  "impedance": [
-    {"id": 7378,"text": ["impedenza"]}
-  ],
-  "impenetrable": [
-    {"id": 7379,"text": ["impenetrabile"]}
-  ],
-  "imperative": [
-    {"id": 7380,"text": ["imperativo"]}
-  ],
-  "imperceptible": [
-    {"id": 7381,"text": ["impercettibile"]}
-  ],
-  "imperceptibly": [
-    {"id": 7382,"text": ["impercettibilmente"]}
-  ],
-  "imperfect": [
-    {"id": 7383,"text": ["imperfetto"]}
-  ],
-  "imperfection": [
-    {"id": 7384,"text": ["imperfezione"]}
-  ],
-  "imperial": [
-    {"id": 7385,"text": ["imperiale"]}
-  ],
-  "imperialism": [
-    {"id": 7386,"text": ["imperialismo"]}
-  ],
-  "imperialist": [
-    {"id": 7387,"text": ["imperialista"]}
-  ],
-  "impermeable": [
-    {"id": 7388,"text": ["impermeabile"]}
-  ],
-  "impersonal": [
-    {"id": 7389,"text": ["impersonale"]}
-  ],
-  "impertinence": [
-    {"id": 7390,"text": ["impertinenza"]}
-  ],
-  "impetus": [
-    {"id": 7391,"text": ["impulso"]}
-  ],
-  "implant": [
-    {"id": 7392,"text": ["impiantare"]},
-    {"id": 7393,"text": ["impianto"]}
-  ],
-  "implement": [
-    {"id": 7394,"text": ["implementare"]}
-  ],
-  "implementation": [
-    {"id": 7395,"text": ["attuazione"]},
-    {"id": 7396,"text": ["implementazione"]}
-  ],
-  "implication": [
-    {"id": 7397,"text": ["implicazione"]}
-  ],
-  "implicit": [
-    {"id": 7398,"text": ["implicito"]}
-  ],
-  "implicitly": [
-    {"id": 7399,"text": ["implicitamente"]}
-  ],
-  "implosion": [
-    {"id": 7400,"text": ["implosione"]}
-  ],
-  "imply": [
-    {"id": 7401,"text": ["implicare"]}
-  ],
-  "import": [
-    {"id": 7402,"text": ["importare"]},
-    {"id": 7403,"text": ["importazione"]}
-  ],
-  "importance": [
-    {"id": 7404,"text": ["importanza"]}
-  ],
-  "important": [
-    {"id": 7405,"text": ["importante"]}
-  ],
-  "importing": [
-    {"id": 7406,"text": ["importatore"]}
-  ],
-  "impose": [
-    {"id": 7407,"text": ["imporre"]}
-  ],
-  "impossible": [
-    {"id": 7408,"text": ["impossibile"]}
-  ],
-  "impotence": [
-    {"id": 7409,"text": ["impotenza"]}
-  ],
-  "impotent": [
-    {"id": 7410,"text": ["impotente"]}
-  ],
-  "impoverish": [
-    {"id": 7411,"text": ["impoverire"]}
-  ],
-  "impoverishment": [
-    {"id": 7412,"text": ["impoverimento"]}
-  ],
-  "imprecation": [
-    {"id": 7413,"text": ["maledizione"]}
-  ],
-  "imprecise": [
-    {"id": 7414,"text": ["impreciso"]}
-  ],
-  "imprecision": [
-    {"id": 7415,"text": ["imprecisione"]}
-  ],
-  "impregnate": [
-    {"id": 7416,"text": ["impregnare"]}
-  ],
-  "impregnation": [
-    {"id": 7417,"text": ["impregnazione"]}
-  ],
-  "imprescriptible": [
-    {"id": 7418,"text": ["imprescrittibile"]}
-  ],
-  "impress": [
-    {"id": 7419,"text": ["impressionare"]}
-  ],
-  "impression": [
-    {"id": 7420,"text": ["impressione"]}
-  ],
-  "impressionable": [
-    {"id": 7421,"text": ["impressionabile"]}
-  ],
-  "impressionism": [
-    {"id": 7422,"text": ["impressionismo"]}
-  ],
-  "impressionist": [
-    {"id": 7423,"text": ["impressionista"]}
-  ],
-  "impressive": [
-    {"id": 7424,"text": ["impressionante"]}
-  ],
-  "impressively": [
-    {"id": 7425,"text": ["mirabilmente"]}
-  ],
-  "imprison": [
-    {"id": 7426,"text": ["imprigionare"]}
-  ],
-  "imprisonment": [
-    {"id": 7427,"text": ["reclusione"]}
-  ],
-  "improbable": [
-    {"id": 7428,"text": ["improbabile"]}
-  ],
-  "improper": [
-    {"id": 7429,"text": ["improprio"]}
-  ],
-  "improperly": [
-    {"id": 7430,"text": ["impropriamente"]}
-  ],
-  "improve": [
-    {"id": 7431,"text": ["migliorare"]}
-  ],
-  "improvement": [
-    {"id": 7432,"text": ["miglioramento"]}
-  ],
-  "improvisation": [
-    {"id": 7433,"text": ["improvvisazione"]}
-  ],
-  "improvise": [
-    {"id": 7434,"text": ["improvvisare"]}
-  ],
-  "imprudent": [
-    {"id": 7435,"text": ["imprudente"]}
-  ],
-  "impugn": [
-    {"id": 7436,"text": ["impugnare"]}
-  ],
-  "impugnable": [
-    {"id": 7437,"text": ["impugnabile"]}
-  ],
-  "impugnation": [
-    {"id": 7438,"text": ["impugnazione"]}
-  ],
-  "impulse": [
-    {"id": 7439,"text": ["impulso"]}
-  ],
-  "impulsive": [
-    {"id": 7440,"text": ["impulsivo"]}
-  ],
-  "imputable": [
-    {"id": 7441,"text": ["imputabile"]}
-  ],
-  "impute": [
-    {"id": 7442,"text": ["imputare"]}
-  ],
-  "in": [
-    {"id": 7443,"text": ["a"]},
-    {"id": 7444,"text": ["dentro"]},
-    {"id": 7445,"text": ["fra"]},
-    {"id": 7446,"text": ["in"]},
-    {"id": 7447,"text": ["tra"]}
-  ],
-  "in conjunction": [
-    {"id": 7448,"text": ["congiuntamente"]}
-  ],
-  "in fact": [
-    {"id": 7449,"text": ["infatti"]}
-  ],
-  "in fairness": [
-    {"id": 7450,"text": ["sinceramente"]}
-  ],
-  "in favor": [
-    {"id": 7451,"text": ["a favore"]}
-  ],
-  "in favour": [
-    {"id": 7452,"text": ["a favore"]}
-  ],
-  "in front": [
-    {"id": 7453,"text": ["davanti"]},
-    {"id": 7454,"text": ["di fronte"]}
-  ],
-  "in this case": [
-    {"id": 7455,"text": ["in questo caso"]}
-  ],
-  "in this way": [
-    {"id": 7456,"text": ["in questo modo"]}
-  ],
-  "in vain": [
-    {"id": 7457,"text": ["invano"]}
-  ],
-  "inaccessible": [
-    {"id": 7458,"text": ["inaccessibile"]}
-  ],
-  "inaction": [
-    {"id": 7459,"text": ["inazione"]}
-  ],
-  "inactivation": [
-    {"id": 7460,"text": ["inattivazione"]}
-  ],
-  "inadequate": [
-    {"id": 7461,"text": ["inadeguato"]}
-  ],
-  "inadmissible": [
-    {"id": 7462,"text": ["inammissibile"]}
-  ],
-  "inalienable": [
-    {"id": 7463,"text": ["inalienabile"]}
-  ],
-  "inapplicable": [
-    {"id": 7464,"text": ["inapplicabile"]}
-  ],
-  "inappropriate": [
-    {"id": 7465,"text": ["inadeguato"]}
-  ],
-  "inarticulate": [
-    {"id": 7466,"text": ["inarticolato"]}
-  ],
-  "inaugural": [
-    {"id": 7467,"text": ["inaugurale"]}
-  ],
-  "inaugurate": [
-    {"id": 7468,"text": ["inaugurare"]}
-  ],
-  "inauguration": [
-    {"id": 7469,"text": ["inaugurazione"]}
-  ],
-  "incalculable": [
-    {"id": 7470,"text": ["incalcolabile"]}
-  ],
-  "incandescence": [
-    {"id": 7471,"text": ["incandescenza"]}
-  ],
-  "incantation": [
-    {"id": 7472,"text": ["incanto"]}
-  ],
-  "incapable": [
-    {"id": 7473,"text": ["incapace"]}
-  ],
-  "incapacitate": [
-    {"id": 7474,"text": ["inabilitare"]}
-  ],
-  "incarceration": [
-    {"id": 7475,"text": ["carcere"]}
-  ],
-  "incarnation": [
-    {"id": 7476,"text": ["incarnazione"]}
-  ],
-  "incendiary": [
-    {"id": 7477,"text": ["incendiario"]}
-  ],
-  "incense": [
-    {"id": 7478,"text": ["incenso"]}
-  ],
-  "incentive": [
-    {"id": 7479,"text": ["incentivo"]}
-  ],
-  "incentivisation": [
-    {"id": 7480,"text": ["incentivazione"]}
-  ],
-  "incessant": [
-    {"id": 7481,"text": ["incessante"]}
-  ],
-  "inch": [
-    {"id": 7482,"text": ["pollice"]}
-  ],
-  "incidence": [
-    {"id": 7483,"text": ["incidenza"]}
-  ],
-  "incident": [
-    {"id": 7484,"text": ["incidente"]}
-  ],
-  "incidental": [
-    {"id": 7485,"text": ["incidentale"]}
-  ],
-  "incidentally": [
-    {"id": 7486,"text": ["ulteriormente"]}
-  ],
-  "incinerate": [
-    {"id": 7487,"text": ["incenerire"]}
-  ],
-  "incineration": [
-    {"id": 7488,"text": ["incenerimento"]}
-  ],
-  "incision": [
-    {"id": 7489,"text": ["incisione"]}
-  ],
-  "incisive": [
-    {"id": 7490,"text": ["incisivo"]}
-  ],
-  "incite": [
-    {"id": 7491,"text": ["incitare"]}
-  ],
-  "incitement": [
-    {"id": 7492,"text": ["incitamento"]}
-  ],
-  "inclement": [
-    {"id": 7493,"text": ["inclemente"]}
-  ],
-  "inclination": [
-    {"id": 7494,"text": ["inclinazione"]}
-  ],
-  "incline": [
-    {"id": 7495,"text": ["inclinare"]}
-  ],
-  "inclined": [
-    {"id": 7496,"text": ["inclinato"]}
-  ],
-  "include": [
-    {"id": 7497,"text": ["includere"]}
-  ],
-  "included": [
-    {"id": 7498,"text": ["inclusivamente"]},
-    {"id": 7499,"text": ["inclusive"]},
-    {"id": 7500,"text": ["incluso"]}
-  ],
-  "inclusion": [
-    {"id": 7501,"text": ["inclusione"]}
-  ],
-  "incoherent": [
-    {"id": 7502,"text": ["incoerente"]}
-  ],
-  "incoherently": [
-    {"id": 7503,"text": ["incoerentemente"]}
-  ],
-  "income": [
-    {"id": 7504,"text": ["reddito"]}
-  ],
-  "incommensurable": [
-    {"id": 7505,"text": ["incommensurabile"]}
-  ],
-  "incommunicable": [
-    {"id": 7506,"text": ["incomunicabile"]}
-  ],
-  "incomparable": [
-    {"id": 7507,"text": ["incomparabile"]}
-  ],
-  "incompatible": [
-    {"id": 7508,"text": ["incompatibile"]}
-  ],
-  "incompetence": [
-    {"id": 7509,"text": ["incompetenza"]}
-  ],
-  "incompetent": [
-    {"id": 7510,"text": ["incompetente"]}
-  ],
-  "incomplete": [
-    {"id": 7511,"text": ["incompleto"]}
-  ],
-  "incompletely": [
-    {"id": 7512,"text": ["incompletamente"]}
-  ],
-  "incomprehensible": [
-    {"id": 7513,"text": ["incomprensibile"]}
-  ],
-  "inconceivable": [
-    {"id": 7514,"text": ["inconcepibile"]}
-  ],
-  "incongruous": [
-    {"id": 7515,"text": ["incongruente"]}
-  ],
-  "inconsequential": [
-    {"id": 7516,"text": ["inconseguente"]}
-  ],
-  "inconsiderate": [
-    {"id": 7517,"text": ["sconsiderato"]}
-  ],
-  "incontestable": [
-    {"id": 7518,"text": ["incontestabile"]}
-  ],
-  "incontinence": [
-    {"id": 7519,"text": ["incontinenza"]}
-  ],
-  "incontrovertible": [
-    {"id": 7520,"text": ["incontrovertibile"]}
-  ],
-  "incorporate": [
-    {"id": 7521,"text": ["incorporare"]}
-  ],
-  "incorporation": [
-    {"id": 7522,"text": ["incorporazione"]}
-  ],
-  "incorrectly": [
-    {"id": 7523,"text": ["scorrettamente"]}
-  ],
-  "increase": [
-    {"id": 7524,"text": ["aumentare"]},
-    {"id": 7525,"text": ["aumento"]},
-    {"id": 7526,"text": ["incrementare"]},
-    {"id": 7527,"text": ["incremento"]}
-  ],
-  "increasing": [
-    {"id": 7528,"text": ["crescente"]}
-  ],
-  "incredible": [
-    {"id": 7529,"text": ["incredibile"]}
-  ],
-  "incredibly": [
-    {"id": 7530,"text": ["incredibilmente"]}
-  ],
-  "increment": [
-    {"id": 7531,"text": ["incrementare"]},
-    {"id": 7532,"text": ["incremento"]}
-  ],
-  "incremental": [
-    {"id": 7533,"text": ["incrementale"]}
-  ],
-  "incriminate": [
-    {"id": 7534,"text": ["incriminare"]}
-  ],
-  "incubation": [
-    {"id": 7535,"text": ["incubazione"]}
-  ],
-  "incumbent": [
-    {"id": 7536,"text": ["incombente"]}
-  ],
-  "incur": [
-    {"id": 7537,"text": ["incorrere"]}
-  ],
-  "incurable": [
-    {"id": 7538,"text": ["incurabile"]}
-  ],
-  "incursion": [
-    {"id": 7539,"text": ["incursione"]}
-  ],
-  "indebtedness": [
-    {"id": 7540,"text": ["indebitamento"]}
-  ],
-  "indecent": [
-    {"id": 7541,"text": ["indecente"]}
-  ],
-  "indeclinable": [
-    {"id": 7542,"text": ["indeclinabile"]}
-  ],
-  "indeed": [
-    {"id": 7543,"text": ["difatto"]},
-    {"id": 7544,"text": ["infatti"]}
-  ],
-  "indefensible": [
-    {"id": 7545,"text": ["indifendibile"]}
-  ],
-  "indefinite": [
-    {"id": 7546,"text": ["indefinito"]}
-  ],
-  "indefinitely": [
-    {"id": 7547,"text": ["indefinitamente"]}
-  ],
-  "indemnify": [
-    {"id": 7548,"text": ["indennizzare"]}
-  ],
-  "indentation": [
-    {"id": 7549,"text": ["indentazione"]}
-  ],
-  "independence": [
-    {"id": 7550,"text": ["indipendenza"]}
-  ],
-  "independent": [
-    {"id": 7551,"text": ["indipendente"]}
-  ],
-  "independentism": [
-    {"id": 7552,"text": ["indipendentismo"]}
-  ],
-  "independently": [
-    {"id": 7553,"text": ["indipendentemente"]}
-  ],
-  "indescribably": [
-    {"id": 7554,"text": ["indicibilmente"]}
-  ],
-  "indeterminate": [
-    {"id": 7555,"text": ["indeterminato"]}
-  ],
-  "indeterminazione": [
-    {"id": 7556,"text": ["indeterminazione"]}
-  ],
-  "index": [
-    {"id": 7557,"text": ["indice"]}
-  ],
-  "indexing": [
-    {"id": 7558,"text": ["indicizzazione"]}
-  ],
-  "Indian": [
-    {"id": 7559,"text": ["indiano"]}
-  ],
-  "indicate": [
-    {"id": 7560,"text": ["indicare"]}
-  ],
-  "indication": [
-    {"id": 7561,"text": ["indicazione"]}
-  ],
-  "indicative": [
-    {"id": 7562,"text": ["indicativo"]}
-  ],
-  "indicator": [
-    {"id": 7563,"text": ["indicatore"]}
-  ],
-  "indifference": [
-    {"id": 7564,"text": ["indifferenza"]}
-  ],
-  "indifferent": [
-    {"id": 7565,"text": ["indifferente"]}
-  ],
-  "indifferently": [
-    {"id": 7566,"text": ["indifferentemente"]}
-  ],
-  "indigenous": [
-    {"id": 7567,"text": ["indigeno"]}
-  ],
-  "indigestible": [
-    {"id": 7568,"text": ["indigeribile"]}
-  ],
-  "indigestion": [
-    {"id": 7569,"text": ["indigestione"]}
-  ],
-  "indignation": [
-    {"id": 7570,"text": ["indignazione"]}
-  ],
-  "indirect": [
-    {"id": 7571,"text": ["indiretto"]}
-  ],
-  "indirectly": [
-    {"id": 7572,"text": ["indirettamente"]}
-  ],
-  "indiscernible": [
-    {"id": 7573,"text": ["indiscernibile"]},
-    {"id": 7574,"text": ["indistinguibile"]}
-  ],
-  "indiscipline": [
-    {"id": 7575,"text": ["indisciplina"]}
-  ],
-  "indiscretion": [
-    {"id": 7576,"text": ["indiscrezione"]}
-  ],
-  "indiscriminately": [
-    {"id": 7577,"text": ["indiscriminatamente"]}
-  ],
-  "indispensable": [
-    {"id": 7578,"text": ["indispensabile"]}
-  ],
-  "indisposition": [
-    {"id": 7579,"text": ["indisposizione"]}
-  ],
-  "indisputable": [
-    {"id": 7580,"text": ["indiscutibile"]}
-  ],
-  "indisputably": [
-    {"id": 7581,"text": ["indiscutibilmente"]}
-  ],
-  "indistinctly": [
-    {"id": 7582,"text": ["indistintamente"]}
-  ],
-  "indistinguishable": [
-    {"id": 7583,"text": ["indistinguibile"]}
-  ],
-  "individual": [
-    {"id": 7584,"text": ["individuale"]},
-    {"id": 7585,"text": ["individuo"]}
-  ],
-  "individualisation": [
-    {"id": 7586,"text": ["individuazione"]}
-  ],
-  "individualism": [
-    {"id": 7587,"text": ["individualismo"]}
-  ],
-  "individually": [
-    {"id": 7588,"text": ["individualmente"]}
-  ],
-  "indivisible": [
-    {"id": 7589,"text": ["indivisibile"]}
-  ],
-  "indoctrination": [
-    {"id": 7590,"text": ["indottrinazione"]}
-  ],
-  "indonesian": [
-    {"id": 7591,"text": ["indonesiano"]}
-  ],
-  "indoor": [
-    {"id": 7592,"text": ["interno"]}
-  ],
-  "indorsement": [
-    {"id": 7593,"text": ["appoggio"]},
-    {"id": 7594,"text": ["approvazione"]},
-    {"id": 7595,"text": ["girata"]}
-  ],
-  "indubitably": [
-    {"id": 7596,"text": ["indubbiamente"]}
-  ],
-  "induce": [
-    {"id": 7597,"text": ["indurre"]}
-  ],
-  "inductance": [
-    {"id": 7598,"text": ["induttanza"]}
-  ],
-  "induction": [
-    {"id": 7599,"text": ["induzione"]}
-  ],
-  "indulgence": [
-    {"id": 7600,"text": ["indulgenza"]}
-  ],
-  "indulgent": [
-    {"id": 7601,"text": ["indulgente"]}
-  ],
-  "industrial": [
-    {"id": 7602,"text": ["industriale"]}
-  ],
-  "industrialisation": [
-    {"id": 7603,"text": ["industrializzazione"]}
-  ],
-  "industrialise": [
-    {"id": 7604,"text": ["industrializzare"]}
-  ],
-  "industrialization": [
-    {"id": 7605,"text": ["industrializzazione"]}
-  ],
-  "industrialize": [
-    {"id": 7606,"text": ["industrializzare"]}
-  ],
-  "industrially": [
-    {"id": 7607,"text": ["industrialmente"]}
-  ],
-  "industry": [
-    {"id": 7608,"text": ["industria"]}
-  ],
-  "ineffective": [
-    {"id": 7609,"text": ["inefficace"]}
-  ],
-  "inefficiency": [
-    {"id": 7610,"text": ["inefficienza"]}
-  ],
-  "ineligible": [
-    {"id": 7611,"text": ["ineleggibile"]}
-  ],
-  "ineptitude": [
-    {"id": 7612,"text": ["inettitudine"]}
-  ],
-  "inequality": [
-    {"id": 7613,"text": ["disuguaglianza"]}
-  ],
-  "inequity": [
-    {"id": 7614,"text": ["ingiustizia"]}
-  ],
-  "inertia": [
-    {"id": 7615,"text": ["inerzia"]}
-  ],
-  "inevitable": [
-    {"id": 7616,"text": ["inevitabile"]}
-  ],
-  "inevitably": [
-    {"id": 7617,"text": ["inevitabilmente"]}
-  ],
-  "inexorable": [
-    {"id": 7618,"text": ["inesorabile"]}
-  ],
-  "inexorably": [
-    {"id": 7619,"text": ["inesorabilmente"]}
-  ],
-  "inexpensive": [
-    {"id": 7620,"text": ["economico"]}
-  ],
-  "inexplicably": [
-    {"id": 7621,"text": ["inspiegabilmente"]}
-  ],
-  "infamous": [
-    {"id": 7622,"text": ["infame"]}
-  ],
-  "infamy": [
-    {"id": 7623,"text": ["infamia"]}
-  ],
-  "infancy": [
-    {"id": 7624,"text": ["infanzia"]}
-  ],
-  "infant": [
-    {"id": 7625,"text": ["bambino"]}
-  ],
-  "infanticide": [
-    {"id": 7626,"text": ["infanticidio"]}
-  ],
-  "infantry": [
-    {"id": 7627,"text": ["fanteria"]}
-  ],
-  "infarct": [
-    {"id": 7628,"text": ["infarto"]}
-  ],
-  "infect": [
-    {"id": 7629,"text": ["contagiare"]}
-  ],
-  "infection": [
-    {"id": 7630,"text": ["infezione"]}
-  ],
-  "infectious": [
-    {"id": 7631,"text": ["infettivo"]}
-  ],
-  "infective": [
-    {"id": 7632,"text": ["infettivo"]}
-  ],
-  "inference": [
-    {"id": 7633,"text": ["inferenza"]}
-  ],
-  "inferior": [
-    {"id": 7634,"text": ["inferiore"]}
-  ],
-  "infernal": [
-    {"id": 7635,"text": ["infernale"]}
-  ],
-  "infibulation": [
-    {"id": 7636,"text": ["infibulazione"]}
-  ],
-  "infiltrate": [
-    {"id": 7637,"text": ["infiltrare"]}
-  ],
-  "infiltration": [
-    {"id": 7638,"text": ["infiltrazione"]}
-  ],
-  "infinite": [
-    {"id": 7639,"text": ["infinito"]}
-  ],
-  "infinitely": [
-    {"id": 7640,"text": ["infinitamente"]}
-  ],
-  "infinitesimal": [
-    {"id": 7641,"text": ["infinitesimale"]}
-  ],
-  "infinitive": [
-    {"id": 7642,"text": ["infinito"]}
-  ],
-  "infinity": [
-    {"id": 7643,"text": ["infinito"]}
-  ],
-  "infirmary": [
-    {"id": 7644,"text": ["infermeria"]}
-  ],
-  "inflammable": [
-    {"id": 7645,"text": ["infiammabile"]}
-  ],
-  "inflammation": [
-    {"id": 7646,"text": ["infiammazione"]}
-  ],
-  "inflatable": [
-    {"id": 7647,"text": ["gonfiabile"]}
-  ],
-  "inflate": [
-    {"id": 7648,"text": ["gonfiare"]},
-    {"id": 7649,"text": ["inflazionare"]}
-  ],
-  "inflation": [
-    {"id": 7650,"text": ["inflazione"]}
-  ],
-  "inflationary": [
-    {"id": 7651,"text": ["inflazionista"]}
-  ],
-  "inflationist": [
-    {"id": 7652,"text": ["inflazionista"]}
-  ],
-  "inflection": [
-    {"id": 7653,"text": ["inflessione"]}
-  ],
-  "inflectional": [
-    {"id": 7654,"text": ["flessivo"]}
-  ],
-  "inflict": [
-    {"id": 7655,"text": ["causare"]}
-  ],
-  "inflorescence": [
-    {"id": 7656,"text": ["infiorescenza"]}
-  ],
-  "influence": [
-    {"id": 7657,"text": ["influenza"]},
-    {"id": 7658,"text": ["influenzare"]},
-    {"id": 7659,"text": ["influire"]}
-  ],
-  "influential": [
-    {"id": 7660,"text": ["influente"]}
-  ],
-  "influenza": [
-    {"id": 7661,"text": ["influenza"]}
-  ],
-  "influx": [
-    {"id": 7662,"text": ["affluenza"]},
-    {"id": 7663,"text": ["afflusso"]}
-  ],
-  "inform": [
-    {"id": 7664,"text": ["informare"]}
-  ],
-  "informal": [
-    {"id": 7665,"text": ["informale"]}
-  ],
-  "informally": [
-    {"id": 7666,"text": ["informalmente"]}
-  ],
-  "information": [
-    {"id": 7667,"text": ["informazione"]}
-  ],
-  "informational": [
-    {"id": 7668,"text": ["informativo"]}
-  ],
-  "informative": [
-    {"id": 7669,"text": ["informativo"]}
-  ],
-  "infraorbital": [
-    {"id": 7670,"text": ["infraorbitale"]}
-  ],
-  "infrared": [
-    {"id": 7671,"text": ["infrarosso"]}
-  ],
-  "infrastructure": [
-    {"id": 7672,"text": ["infrastruttura"]}
-  ],
-  "infrequent": [
-    {"id": 7673,"text": ["infrequente"]}
-  ],
-  "infringement": [
-    {"id": 7674,"text": ["infrazione"]}
-  ],
-  "infructescence": [
-    {"id": 7675,"text": ["infiorescenza"]}
-  ],
-  "infusion": [
-    {"id": 7676,"text": ["infuso"]}
-  ],
-  "ingenious": [
-    {"id": 7677,"text": ["geniale"]}
-  ],
-  "ingestion": [
-    {"id": 7678,"text": ["ingestione"]}
-  ],
-  "ingot": [
-    {"id": 7679,"text": ["lingotto"]}
-  ],
-  "ingredient": [
-    {"id": 7680,"text": ["ingrediente"]}
-  ],
-  "inhabitant": [
-    {"id": 7681,"text": ["abitante"]},
-    {"id": 7682,"text": ["abitatore"]}
-  ],
-  "inhalation": [
-    {"id": 7683,"text": ["inalazione"]}
-  ],
-  "inhale": [
-    {"id": 7684,"text": ["aspirare"]},
-    {"id": 7685,"text": ["inalare"]}
-  ],
-  "inharmonic": [
-    {"id": 7686,"text": ["inarmonico"]}
-  ],
-  "inherent": [
-    {"id": 7687,"text": ["inerente"]}
-  ],
-  "inherit": [
-    {"id": 7688,"text": ["ereditare"]}
-  ],
-  "inhibit": [
-    {"id": 7689,"text": ["inibire"]}
-  ],
-  "inhibition": [
-    {"id": 7690,"text": ["inibizione"]}
-  ],
-  "inhibitory": [
-    {"id": 7691,"text": ["inibitorio"]}
-  ],
-  "inhuman": [
-    {"id": 7692,"text": ["disumano"]},
-    {"id": 7693,"text": ["inumano"]}
-  ],
-  "inhumation": [
-    {"id": 7694,"text": ["inumazione"]}
-  ],
-  "inhume": [
-    {"id": 7695,"text": ["inumare"]}
-  ],
-  "initial": [
-    {"id": 7696,"text": ["iniziale"]}
-  ],
-  "initialisation": [
-    {"id": 7697,"text": ["inizializzazione"]}
-  ],
-  "initialization": [
-    {"id": 7698,"text": ["inizializzazione"]}
-  ],
-  "initially": [
-    {"id": 7699,"text": ["inizialmente"]}
-  ],
-  "initiate": [
-    {"id": 7700,"text": ["avviare"]}
-  ],
-  "initiation": [
-    {"id": 7701,"text": ["iniziazione"]}
-  ],
-  "initiative": [
-    {"id": 7702,"text": ["iniziativa"]}
-  ],
-  "initiator": [
-    {"id": 7703,"text": ["iniziatore"]}
-  ],
-  "inject": [
-    {"id": 7704,"text": ["iniettare"]}
-  ],
-  "injection": [
-    {"id": 7705,"text": ["iniezione"]}
-  ],
-  "injure": [
-    {"id": 7706,"text": ["ferire"]}
-  ],
-  "injured": [
-    {"id": 7707,"text": ["ferito"]},
-    {"id": 7708,"text": ["sinistrato"]}
-  ],
-  "injurious": [
-    {"id": 7709,"text": ["ingiurioso"]}
-  ],
-  "injury": [
-    {"id": 7710,"text": ["lesione"]}
-  ],
-  "injustice": [
-    {"id": 7711,"text": ["ingiustizia"]}
-  ],
-  "ink": [
-    {"id": 7712,"text": ["inchiostro"]}
-  ],
-  "inlet": [
-    {"id": 7713,"text": ["insenatura"]},
-    {"id": 7714,"text": ["sacca"]}
-  ],
-  "innate": [
-    {"id": 7715,"text": ["innato"]}
-  ],
-  "inner": [
-    {"id": 7716,"text": ["interno"]}
-  ],
-  "innervation": [
-    {"id": 7717,"text": ["innervazione"]}
-  ],
-  "innocence": [
-    {"id": 7718,"text": ["innocenza"]}
-  ],
-  "innocent": [
-    {"id": 7719,"text": ["innocente"]}
-  ],
-  "innocently": [
-    {"id": 7720,"text": ["innocentemente"]}
-  ],
-  "innocuous": [
-    {"id": 7721,"text": ["innocuo"]}
-  ],
-  "innovation": [
-    {"id": 7722,"text": ["innovazione"]}
-  ],
-  "innovative": [
-    {"id": 7723,"text": ["innovatore"]}
-  ],
-  "innumerable": [
-    {"id": 7724,"text": ["innumerevole"]}
-  ],
-  "inoculation": [
-    {"id": 7725,"text": ["inoculazione"]}
-  ],
-  "inoperable": [
-    {"id": 7726,"text": ["inoperante"]}
-  ],
-  "inorganic": [
-    {"id": 7727,"text": ["inorganico"]}
-  ],
-  "input": [
-    {"id": 7728,"text": ["entrata"]}
-  ],
-  "inquiry": [
-    {"id": 7729,"text": ["inchiesta"]}
-  ],
-  "inquisition": [
-    {"id": 7730,"text": ["inquisizione"]}
-  ],
-  "insane": [
-    {"id": 7731,"text": ["demente"]},
-    {"id": 7732,"text": ["pazzo"]}
-  ],
-  "insanity": [
-    {"id": 7733,"text": ["pazzia"]}
-  ],
-  "inscribe": [
-    {"id": 7734,"text": ["inscrivere"]}
-  ],
-  "inscrutable": [
-    {"id": 7735,"text": ["inscrutabile"]}
-  ],
-  "insect": [
-    {"id": 7736,"text": ["insetto"]}
-  ],
-  "insecticide": [
-    {"id": 7737,"text": ["insetticida"]}
-  ],
-  "insectivore": [
-    {"id": 7738,"text": ["insettivoro"]}
-  ],
-  "insectivorous": [
-    {"id": 7739,"text": ["insettivoro"]}
-  ],
-  "insecurity": [
-    {"id": 7740,"text": ["insicurezza"]}
-  ],
-  "insemination": [
-    {"id": 7741,"text": ["inseminazione"]}
-  ],
-  "insensitive": [
-    {"id": 7742,"text": ["insensibile"]}
-  ],
-  "inseparable": [
-    {"id": 7743,"text": ["inseparabile"]}
-  ],
-  "insert": [
-    {"id": 7744,"text": ["infilare"]},
-    {"id": 7745,"text": ["inserire"]}
-  ],
-  "insertion": [
-    {"id": 7746,"text": ["inserimento"]},
-    {"id": 7747,"text": ["inserzione"]}
-  ],
-  "inside": [
-    {"id": 7748,"text": ["dentro"]},
-    {"id": 7749,"text": ["entro"]},
-    {"id": 7750,"text": ["interiore"]}
-  ],
-  "insides": [
-    {"id": 7751,"text": ["interiora"]},
-    {"id": 7752,"text": ["viscere"]}
-  ],
-  "insidious": [
-    {"id": 7753,"text": ["insidioso"]}
-  ],
-  "insight": [
-    {"id": 7754,"text": ["idea"]}
-  ],
-  "insignificant": [
-    {"id": 7755,"text": ["insignificante"]}
-  ],
-  "insinuate": [
-    {"id": 7756,"text": ["insinuare"]}
-  ],
-  "insinuation": [
-    {"id": 7757,"text": ["insinuazione"]}
-  ],
-  "insipid": [
-    {"id": 7758,"text": ["insipido"]}
-  ],
-  "insist": [
-    {"id": 7759,"text": ["insistere"]}
-  ],
-  "insistence": [
-    {"id": 7760,"text": ["insistenza"]}
-  ],
-  "insistent": [
-    {"id": 7761,"text": ["insistente"]}
-  ],
-  "insolation": [
-    {"id": 7762,"text": ["insolazione"]}
-  ],
-  "insole": [
-    {"id": 7763,"text": ["soletta"]}
-  ],
-  "insolence": [
-    {"id": 7764,"text": ["insolenza"]}
-  ],
-  "insolent": [
-    {"id": 7765,"text": ["insolente"]}
-  ],
-  "insoluble": [
-    {"id": 7766,"text": ["insolubile"]}
-  ],
-  "insolvency": [
-    {"id": 7767,"text": ["insolvenza"]}
-  ],
-  "insolvent": [
-    {"id": 7768,"text": ["insolvente"]}
-  ],
-  "insomnia": [
-    {"id": 7769,"text": ["insonnia"]}
-  ],
-  "inspect": [
-    {"id": 7770,"text": ["ispezionare"]}
-  ],
-  "inspection": [
-    {"id": 7771,"text": ["ispezione"]}
-  ],
-  "inspector": [
-    {"id": 7772,"text": ["ispettore"]}
-  ],
-  "inspiration": [
-    {"id": 7773,"text": ["inspirazione"]},
-    {"id": 7774,"text": ["ispirazione"]},
-    {"id": 7775,"text": ["spunto"]}
-  ],
-  "inspire": [
-    {"id": 7776,"text": ["inspirare"]}
-  ],
-  "install": [
-    {"id": 7777,"text": ["installare"]}
-  ],
-  "installation": [
-    {"id": 7778,"text": ["impianto"]},
-    {"id": 7779,"text": ["installazione"]}
-  ],
-  "instance": [
-    {"id": 7780,"text": ["caso"]},
-    {"id": 7781,"text": ["istanza"]}
-  ],
-  "instant": [
-    {"id": 7782,"text": ["istante"]}
-  ],
-  "instantaneous": [
-    {"id": 7783,"text": ["istantaneo"]}
-  ],
-  "instantaneously": [
-    {"id": 7784,"text": ["istantaneamente"]}
-  ],
-  "instantly": [
-    {"id": 7785,"text": ["istantaneamente"]}
-  ],
-  "instauration": [
-    {"id": 7786,"text": ["instaurazione"]}
-  ],
-  "instead": [
-    {"id": 7787,"text": ["tuttavia"]}
-  ],
-  "instigation": [
-    {"id": 7788,"text": ["istigazione"]}
-  ],
-  "instinct": [
-    {"id": 7789,"text": ["istinto"]}
-  ],
-  "institute": [
-    {"id": 7790,"text": ["istituto"]}
-  ],
-  "institution": [
-    {"id": 7791,"text": ["istituto"]},
-    {"id": 7792,"text": ["istituzione"]}
-  ],
-  "institutional": [
-    {"id": 7793,"text": ["istituzionale"]}
-  ],
-  "institutionalisation": [
-    {"id": 7794,"text": ["istituzionalizzazione"]}
-  ],
-  "institutionalise": [
-    {"id": 7795,"text": ["istituzionalizzare"]}
-  ],
-  "instruct": [
-    {"id": 7796,"text": ["istruire"]}
-  ],
-  "instruction": [
-    {"id": 7797,"text": ["istruzione"]}
-  ],
-  "instrument": [
-    {"id": 7798,"text": ["strumentare"]},
-    {"id": 7799,"text": ["strumento"]}
-  ],
-  "instrumental": [
-    {"id": 7800,"text": ["strumentale"]}
-  ],
-  "instrumentalisation": [
-    {"id": 7801,"text": ["strumentalizzazione"]}
-  ],
-  "instrumentalist": [
-    {"id": 7802,"text": ["strumentista"]}
-  ],
-  "instrumentation": [
-    {"id": 7803,"text": ["strumentazione"]}
-  ],
-  "insubordination": [
-    {"id": 7804,"text": ["insubordinazione"]}
-  ],
-  "insufficiency": [
-    {"id": 7805,"text": ["insufficienza"]}
-  ],
-  "insufficient": [
-    {"id": 7806,"text": ["insufficiente"]}
-  ],
-  "insufficiently": [
-    {"id": 7807,"text": ["insufficientemente"]}
-  ],
-  "insular": [
-    {"id": 7808,"text": ["insulare"]}
-  ],
-  "insulating": [
-    {"id": 7809,"text": ["isolante"]}
-  ],
-  "insulator": [
-    {"id": 7810,"text": ["isolante"]}
-  ],
-  "insulin": [
-    {"id": 7811,"text": ["insulina"]}
-  ],
-  "insult": [
-    {"id": 7812,"text": ["insultare"]},
-    {"id": 7813,"text": ["insulto"]}
-  ],
-  "insuperable": [
-    {"id": 7814,"text": ["insuperabile"]}
-  ],
-  "insurance": [
-    {"id": 7815,"text": ["assicurazione"]}
-  ],
-  "insure": [
-    {"id": 7816,"text": ["assicurare"]}
-  ],
-  "insurrection": [
-    {"id": 7817,"text": ["insurrezione"]}
-  ],
-  "intact": [
-    {"id": 7818,"text": ["intatto"]}
-  ],
-  "intangible": [
-    {"id": 7819,"text": ["intangibile"]}
-  ],
-  "integer": [
-    {"id": 7820,"text": ["intero"]}
-  ],
-  "integrable": [
-    {"id": 7821,"text": ["integrabile"]}
-  ],
-  "integral": [
-    {"id": 7822,"text": ["integrale"]},
-    {"id": 7823,"text": ["integrante"]}
-  ],
-  "integrally": [
-    {"id": 7824,"text": ["integralmente"]}
-  ],
-  "integrate": [
-    {"id": 7825,"text": ["integrare"]}
-  ],
-  "integration": [
-    {"id": 7826,"text": ["integrazione"]}
-  ],
-  "intellect": [
-    {"id": 7827,"text": ["intelletto"]}
-  ],
-  "intellectual": [
-    {"id": 7828,"text": ["intellettuale"]}
-  ],
-  "intellectualism": [
-    {"id": 7829,"text": ["intellettualismo"]}
-  ],
-  "intellectually": [
-    {"id": 7830,"text": ["intellettualmente"]}
-  ],
-  "intelligence": [
-    {"id": 7831,"text": ["intelligenza"]}
-  ],
-  "intelligent": [
-    {"id": 7832,"text": ["intelligente"]}
-  ],
-  "intelligently": [
-    {"id": 7833,"text": ["intelligentemente"]}
-  ],
-  "intelligible": [
-    {"id": 7834,"text": ["comprensibile"]},
-    {"id": 7835,"text": ["intelligibile"]}
-  ],
-  "intend": [
-    {"id": 7836,"text": ["pretendere"]}
-  ],
-  "intendant": [
-    {"id": 7837,"text": ["intendente"]}
-  ],
-  "intense": [
-    {"id": 7838,"text": ["intenso"]}
-  ],
-  "intensely": [
-    {"id": 7839,"text": ["intensamente"]}
-  ],
-  "intensification": [
-    {"id": 7840,"text": ["intensificazione"]}
-  ],
-  "intensify": [
-    {"id": 7841,"text": ["intensificare"]}
-  ],
-  "intensive": [
-    {"id": 7842,"text": ["intensivo"]}
-  ],
-  "intensively": [
-    {"id": 7843,"text": ["intensivamente"]}
-  ],
-  "intention": [
-    {"id": 7844,"text": ["intenzione"]}
-  ],
-  "intentional": [
-    {"id": 7845,"text": ["intenzionato"]},
-    {"id": 7846,"text": ["intenzionale"]}
-  ],
-  "intentionally": [
-    {"id": 7847,"text": ["intenzionalmente"]},
-    {"id": 7848,"text": ["volutamente"]}
-  ],
-  "inter": [
-    {"id": 7849,"text": ["inumare"]}
-  ],
-  "interaction": [
-    {"id": 7850,"text": ["interazione"]}
-  ],
-  "interactive": [
-    {"id": 7851,"text": ["interattivo"]}
-  ],
-  "interannual": [
-    {"id": 7852,"text": ["interannuale"]}
-  ],
-  "intercalation": [
-    {"id": 7853,"text": ["intercalazione"]}
-  ],
-  "intercept": [
-    {"id": 7854,"text": ["intercettare"]}
-  ],
-  "interception": [
-    {"id": 7855,"text": ["intercettazione"]}
-  ],
-  "interchange": [
-    {"id": 7856,"text": ["baratto"]},
-    {"id": 7857,"text": ["scambio"]}
-  ],
-  "interchangeable": [
-    {"id": 7858,"text": ["intercambiabile"]}
-  ],
-  "intercommunication": [
-    {"id": 7859,"text": ["intercomunicazione"]}
-  ],
-  "interconnection": [
-    {"id": 7860,"text": ["interconnessione"]}
-  ],
-  "intercontinental": [
-    {"id": 7861,"text": ["intercontinentale"]}
-  ],
-  "intercultural": [
-    {"id": 7862,"text": ["interculturale"]}
-  ],
-  "interdependent": [
-    {"id": 7863,"text": ["interdipendente"]}
-  ],
-  "interdict": [
-    {"id": 7864,"text": ["interdetto"]}
-  ],
-  "interdiction": [
-    {"id": 7865,"text": ["interdizione"]}
-  ],
-  "interest": [
-    {"id": 7866,"text": ["interessare"]},
-    {"id": 7867,"text": ["interesse"]}
-  ],
-  "interesting": [
-    {"id": 7868,"text": ["interessante"]}
-  ],
-  "interestingly": [
-    {"id": 7869,"text": ["curiosamente"]}
-  ],
-  "interface": [
-    {"id": 7870,"text": ["interfaccia"]}
-  ],
-  "interfere": [
-    {"id": 7871,"text": ["interferire"]}
-  ],
-  "interference": [
-    {"id": 7872,"text": ["ingerenza"]},
-    {"id": 7873,"text": ["interferenza"]}
-  ],
-  "intergovernmental": [
-    {"id": 7874,"text": ["intergovernativo"]}
-  ],
-  "interim": [
-    {"id": 7875,"text": ["interino"]}
-  ],
-  "interior": [
-    {"id": 7876,"text": ["interiore"]}
-  ],
-  "interjection": [
-    {"id": 7877,"text": ["interiezione"]}
-  ],
-  "interlingua": [
-    {"id": 7878,"text": ["interlingua"]}
-  ],
-  "interloper": [
-    {"id": 7879,"text": ["intruso"]}
-  ],
-  "intermediary": [
-    {"id": 7880,"text": ["intermediario"]}
-  ],
-  "intermediate": [
-    {"id": 7881,"text": ["intermediario"]},
-    {"id": 7882,"text": ["intermedio"]}
-  ],
-  "intermediation": [
-    {"id": 7883,"text": ["intermediazione"]}
-  ],
-  "interminable": [
-    {"id": 7884,"text": ["interminabile"]}
-  ],
-  "intermission": [
-    {"id": 7885,"text": ["intervallo"]}
-  ],
-  "intermittent": [
-    {"id": 7886,"text": ["intermittente"]}
-  ],
-  "intermolecular": [
-    {"id": 7887,"text": ["intermolecolare"]}
-  ],
-  "internal": [
-    {"id": 7888,"text": ["interno"]}
-  ],
-  "internalise": [
-    {"id": 7889,"text": ["interiorizzare"]}
-  ],
-  "internally": [
-    {"id": 7890,"text": ["internamente"]}
-  ],
-  "international": [
-    {"id": 7891,"text": ["internazionale"]}
-  ],
-  "internationalisation": [
-    {"id": 7892,"text": ["internazionalizzazione"]}
-  ],
-  "internationalization": [
-    {"id": 7893,"text": ["internazionalizzazione"]}
-  ],
-  "internationally": [
-    {"id": 7894,"text": ["internazionalmente"]}
-  ],
-  "internaut": [
-    {"id": 7895,"text": ["internauta"]}
-  ],
-  "Internet": [
-    {"id": 7896,"text": ["Internet"]}
-  ],
-  "internment": [
-    {"id": 7897,"text": ["internamento"]}
-  ],
-  "interpellation": [
-    {"id": 7898,"text": ["interpellanza"]}
-  ],
-  "interpersonal": [
-    {"id": 7899,"text": ["interpersonale"]}
-  ],
-  "interpolation": [
-    {"id": 7900,"text": ["interpolazione"]}
-  ],
-  "interpose": [
-    {"id": 7901,"text": ["interporre"]}
-  ],
-  "interposition": [
-    {"id": 7902,"text": ["interposizione"]}
-  ],
-  "interpret": [
-    {"id": 7903,"text": ["interpretare"]}
-  ],
-  "interpretable": [
-    {"id": 7904,"text": ["interpretabile"]}
-  ],
-  "interpretation": [
-    {"id": 7905,"text": ["interpretazione"]}
-  ],
-  "interpretative": [
-    {"id": 7906,"text": ["interpretativo"]}
-  ],
-  "interpreter": [
-    {"id": 7907,"text": ["interprete"]}
-  ],
-  "interprofessional": [
-    {"id": 7908,"text": ["interprofessionale"]}
-  ],
-  "interregional": [
-    {"id": 7909,"text": ["interregionale"]}
-  ],
-  "interregnum": [
-    {"id": 7910,"text": ["interregno"]}
-  ],
-  "interrelation": [
-    {"id": 7911,"text": ["interrelazione"]}
-  ],
-  "interrelationship": [
-    {"id": 7912,"text": ["interrelazione"]}
-  ],
-  "interrogate": [
-    {"id": 7913,"text": ["interrogare"]}
-  ],
-  "interrogation": [
-    {"id": 7914,"text": ["interrogatorio"]}
-  ],
-  "interrogative": [
-    {"id": 7915,"text": ["interrogativo"]}
-  ],
-  "interrupt": [
-    {"id": 7916,"text": ["interrompere"]}
-  ],
-  "interruption": [
-    {"id": 7917,"text": ["interruzione"]}
-  ],
-  "intersection": [
-    {"id": 7918,"text": ["intersezione"]}
-  ],
-  "interval": [
-    {"id": 7919,"text": ["intermedio"]},
-    {"id": 7920,"text": ["intervallo"]}
-  ],
-  "intervene": [
-    {"id": 7921,"text": ["intervenire"]}
-  ],
-  "intervention": [
-    {"id": 7922,"text": ["intervento"]}
-  ],
-  "interview": [
-    {"id": 7923,"text": ["interrogare"]},
-    {"id": 7924,"text": ["intervista"]},
-    {"id": 7925,"text": ["intervistare"]}
-  ],
-  "interweave": [
-    {"id": 7926,"text": ["intessere"]}
-  ],
-  "intestate": [
-    {"id": 7927,"text": ["intestato"]}
-  ],
-  "intestinal": [
-    {"id": 7928,"text": ["intestinale"]}
-  ],
-  "intestine": [
-    {"id": 7929,"text": ["intestino"]}
-  ],
-  "intimate": [
-    {"id": 7930,"text": ["intimo"]}
-  ],
-  "intimately": [
-    {"id": 7931,"text": ["intimamente"]}
-  ],
-  "intimidate": [
-    {"id": 7932,"text": ["intimidire"]}
-  ],
-  "intimidation": [
-    {"id": 7933,"text": ["intimidazione"]}
-  ],
-  "intolerable": [
-    {"id": 7934,"text": ["intollerabile"]}
-  ],
-  "intolerance": [
-    {"id": 7935,"text": ["intolleranza"]}
-  ],
-  "intonation": [
-    {"id": 7936,"text": ["intonazione"]}
-  ],
-  "intothebargain": [
-    {"id": 7937,"text": ["oltretutto"]}
-  ],
-  "intoxicate": [
-    {"id": 7938,"text": ["intossicare"]}
-  ],
-  "intoxication": [
-    {"id": 7939,"text": ["intossicazione"]}
-  ],
-  "intracellular": [
-    {"id": 7940,"text": ["intracellulare"]}
-  ],
-  "intractable": [
-    {"id": 7941,"text": ["intrattabile"]}
-  ],
-  "intransigence": [
-    {"id": 7942,"text": ["intransigenza"]}
-  ],
-  "intraocular": [
-    {"id": 7943,"text": ["intraoculare"]}
-  ],
-  "intricate": [
-    {"id": 7944,"text": ["intricato"]}
-  ],
-  "intrigue": [
-    {"id": 7945,"text": ["intrigo"]}
-  ],
-  "intriguing": [
-    {"id": 7946,"text": ["intrigante"]}
-  ],
-  "intrinsic": [
-    {"id": 7947,"text": ["intrinseco"]}
-  ],
-  "intrinsically": [
-    {"id": 7948,"text": ["intrinsecamente"]}
-  ],
-  "introduce": [
-    {"id": 7949,"text": ["introdurre"]}
-  ],
-  "introduction": [
-    {"id": 7950,"text": ["introduzione"]}
-  ],
-  "introductory": [
-    {"id": 7951,"text": ["introduttore"]}
-  ],
-  "introspection": [
-    {"id": 7952,"text": ["introspezione"]}
-  ],
-  "introspective": [
-    {"id": 7953,"text": ["introspettivo"]}
-  ],
-  "introversion": [
-    {"id": 7954,"text": ["introversione"]}
-  ],
-  "intruder": [
-    {"id": 7955,"text": ["intruso"]}
-  ],
-  "intrusion": [
-    {"id": 7956,"text": ["intrusione"]}
-  ],
-  "intrusive": [
-    {"id": 7957,"text": ["intruso"]}
-  ],
-  "intubation": [
-    {"id": 7958,"text": ["intubazione"]}
-  ],
-  "intuition": [
-    {"id": 7959,"text": ["intuizione"]}
-  ],
-  "intuitive": [
-    {"id": 7960,"text": ["intuitivo"]}
-  ],
-  "intuitively": [
-    {"id": 7961,"text": ["intuitivamente"]}
-  ],
-  "inulin": [
-    {"id": 7962,"text": ["inulina"]}
-  ],
-  "inundate": [
-    {"id": 7963,"text": ["inondare"]}
-  ],
-  "inundation": [
-    {"id": 7964,"text": ["inondazione"]}
-  ],
-  "invade": [
-    {"id": 7965,"text": ["invadere"]}
-  ],
-  "invalid": [
-    {"id": 7966,"text": ["invalido"]},
-    {"id": 7967,"text": ["nullo"]}
-  ],
-  "invalidate": [
-    {"id": 7968,"text": ["invalidare"]}
-  ],
-  "invalidation": [
-    {"id": 7969,"text": ["annullamento"]}
-  ],
-  "invaluable": [
-    {"id": 7970,"text": ["invalutabile"]}
-  ],
-  "invariable": [
-    {"id": 7971,"text": ["invariabile"]}
-  ],
-  "invariably": [
-    {"id": 7972,"text": ["invariabilmente"]}
-  ],
-  "invariance": [
-    {"id": 7973,"text": ["invarianza"]}
-  ],
-  "invariant": [
-    {"id": 7974,"text": ["invariante"]}
-  ],
-  "invasion": [
-    {"id": 7975,"text": ["invasione"]}
-  ],
-  "invent": [
-    {"id": 7976,"text": ["inventare"]}
-  ],
-  "invention": [
-    {"id": 7977,"text": ["invenzione"]}
-  ],
-  "inventive": [
-    {"id": 7978,"text": ["inventivo"]}
-  ],
-  "inventiveness": [
-    {"id": 7979,"text": ["inventiva"]}
-  ],
-  "inventor": [
-    {"id": 7980,"text": ["inventore"]}
-  ],
-  "inventory": [
-    {"id": 7981,"text": ["inventariare"]},
-    {"id": 7982,"text": ["inventario"]}
-  ],
-  "inversely": [
-    {"id": 7983,"text": ["inversamente"]}
-  ],
-  "invert": [
-    {"id": 7984,"text": ["invertire"]}
-  ],
-  "invertible": [
-    {"id": 7985,"text": ["invertibile"]}
-  ],
-  "invest": [
-    {"id": 7986,"text": ["investire"]}
-  ],
-  "investigate": [
-    {"id": 7987,"text": ["indagare"]},
-    {"id": 7988,"text": ["investigare"]}
-  ],
-  "investigation": [
-    {"id": 7989,"text": ["investigazione"]}
-  ],
-  "investigator": [
-    {"id": 7990,"text": ["investigatore"]}
-  ],
-  "investiture": [
-    {"id": 7991,"text": ["investitura"]}
-  ],
-  "investment": [
-    {"id": 7992,"text": ["investimento"]}
-  ],
-  "invincible": [
-    {"id": 7993,"text": ["invincibile"]}
-  ],
-  "inviolable": [
-    {"id": 7994,"text": ["inviolabile"]}
-  ],
-  "invisible": [
-    {"id": 7995,"text": ["invisibile"]}
-  ],
-  "invitation": [
-    {"id": 7996,"text": ["invito"]}
-  ],
-  "invite": [
-    {"id": 7997,"text": ["invitare"]}
-  ],
-  "invited": [
-    {"id": 7998,"text": ["invitato"]}
-  ],
-  "invocation": [
-    {"id": 7999,"text": ["invocazione"]}
-  ],
-  "invoice": [
-    {"id": 8000,"text": ["fattura"]},
-    {"id": 8001,"text": ["fatturare"]}
-  ],
-  "invoke": [
-    {"id": 8002,"text": ["invocare"]}
-  ],
-  "involution": [
-    {"id": 8003,"text": ["involuzione"]}
-  ],
-  "involve": [
-    {"id": 8004,"text": ["coinvolgere"]}
-  ],
-  "involvement": [
-    {"id": 8005,"text": ["coinvolgimento"]}
-  ],
-  "inwardly": [
-    {"id": 8006,"text": ["interiormente"]}
-  ],
-  "iodide": [
-    {"id": 8007,"text": ["ioduro"]}
-  ],
-  "iodine": [
-    {"id": 8008,"text": ["iodio"]}
-  ],
-  "iodized": [
-    {"id": 8009,"text": ["iodato"]}
-  ],
-  "ion": [
-    {"id": 8010,"text": ["ione"]}
-  ],
-  "ionian": [
-    {"id": 8011,"text": ["ionico"]}
-  ],
-  "ionic": [
-    {"id": 8012,"text": ["ionico"]}
-  ],
-  "ionisation": [
-    {"id": 8013,"text": ["ionizzazione"]}
-  ],
-  "ionization": [
-    {"id": 8014,"text": ["ionizzazione"]}
-  ],
-  "ionosphere": [
-    {"id": 8015,"text": ["ionosfera"]}
-  ],
-  "iranian": [
-    {"id": 8016,"text": ["iraniano"]}
-  ],
-  "Iraqi": [
-    {"id": 8017,"text": ["iracheno"]}
-  ],
-  "irascible": [
-    {"id": 8018,"text": ["irascibile"]}
-  ],
-  "ire": [
-    {"id": 8019,"text": ["ira"]}
-  ],
-  "Ireland": [
-    {"id": 8020,"text": ["Irlanda"]}
-  ],
-  "iridescence": [
-    {"id": 8021,"text": ["iridescenza"]}
-  ],
-  "iridescent": [
-    {"id": 8022,"text": ["iridescente"]}
-  ],
-  "iridium": [
-    {"id": 8023,"text": ["iridio"]}
-  ],
-  "iridotomy": [
-    {"id": 8024,"text": ["iridotomia"]}
-  ],
-  "iris": [
-    {"id": 8025,"text": ["iride"]},
-    {"id": 8026,"text": ["iris"]}
-  ],
-  "irish": [
-    {"id": 8027,"text": ["irlandese"]}
-  ],
-  "iron": [
-    {"id": 8028,"text": ["ferreo"]},
-    {"id": 8029,"text": ["ferro"]},
-    {"id": 8030,"text": ["stirare"]}
-  ],
-  "ironic": [
-    {"id": 8031,"text": ["ironico"]}
-  ],
-  "ironically": [
-    {"id": 8032,"text": ["ironicamente"]}
-  ],
-  "ironmongery": [
-    {"id": 8033,"text": ["ferramenta"]}
-  ],
-  "irony": [
-    {"id": 8034,"text": ["ironia"]}
-  ],
-  "irradiation": [
-    {"id": 8035,"text": ["irradiazione"]}
-  ],
-  "irrational": [
-    {"id": 8036,"text": ["irrazionale"]}
-  ],
-  "irrationalist": [
-    {"id": 8037,"text": ["irrazionalista"]}
-  ],
-  "irrefutable": [
-    {"id": 8038,"text": ["irrifiutabile"]}
-  ],
-  "irregular": [
-    {"id": 8039,"text": ["irregolare"]}
-  ],
-  "irrelevant": [
-    {"id": 8040,"text": ["irrilevante"]}
-  ],
-  "irremediable": [
-    {"id": 8041,"text": ["irrimediabile"]}
-  ],
-  "irremediably": [
-    {"id": 8042,"text": ["irrimediabilmente"]}
-  ],
-  "irreparable": [
-    {"id": 8043,"text": ["irreparabile"]}
-  ],
-  "irreplaceable": [
-    {"id": 8044,"text": ["insostituibile"]}
-  ],
-  "irrepressible": [
-    {"id": 8045,"text": ["incontenibile"]}
-  ],
-  "irresponsible": [
-    {"id": 8046,"text": ["irresponsabile"]}
-  ],
-  "irresponsibly": [
-    {"id": 8047,"text": ["irresponsabilmente"]}
-  ],
-  "irretrievable": [
-    {"id": 8048,"text": ["irrecuperabile"]}
-  ],
-  "irreverent": [
-    {"id": 8049,"text": ["irriverente"]}
-  ],
-  "irreversible": [
-    {"id": 8050,"text": ["irreversibile"]}
-  ],
-  "irrevocable": [
-    {"id": 8051,"text": ["irrevocabile"]}
-  ],
-  "irrigate": [
-    {"id": 8052,"text": ["irrigare"]}
-  ],
-  "irrigation": [
-    {"id": 8053,"text": ["irrigazione"]}
-  ],
-  "irritate": [
-    {"id": 8054,"text": ["irritare"]}
-  ],
-  "irritating": [
-    {"id": 8055,"text": ["irritante"]}
-  ],
-  "irritation": [
-    {"id": 8056,"text": ["irritazione"]}
-  ],
-  "irrotational": [
-    {"id": 8057,"text": ["irrotazionale"]}
-  ],
-  "irruption": [
-    {"id": 8058,"text": ["irruzione"]}
-  ],
-  "islamic": [
-    {"id": 8059,"text": ["islamico"]}
-  ],
-  "islamist": [
-    {"id": 8060,"text": ["islamista"]}
-  ],
-  "island": [
-    {"id": 8061,"text": ["isola"]}
-  ],
-  "isle": [
-    {"id": 8062,"text": ["isola"]}
-  ],
-  "Isle of Man": [
-    {"id": 8063,"text": ["Isola di Man"]}
-  ],
-  "isobar": [
-    {"id": 8064,"text": ["isobara"]}
-  ],
-  "isobaric": [
-    {"id": 8065,"text": ["isobarico"]}
-  ],
-  "isochronic": [
-    {"id": 8066,"text": ["isocronico"]}
-  ],
-  "isogamy": [
-    {"id": 8067,"text": ["isogamia"]}
-  ],
-  "isolate": [
-    {"id": 8068,"text": ["isolare"]}
-  ],
-  "isolated": [
-    {"id": 8069,"text": ["isolato"]}
-  ],
-  "isolation": [
-    {"id": 8070,"text": ["isolamento"]}
-  ],
-  "isolationism": [
-    {"id": 8071,"text": ["isolazionismo"]}
-  ],
-  "isolationist": [
-    {"id": 8072,"text": ["isolazionista"]}
-  ],
-  "isomer": [
-    {"id": 8073,"text": ["isomero"]}
-  ],
-  "isomery": [
-    {"id": 8074,"text": ["isomeria"]}
-  ],
-  "isometric": [
-    {"id": 8075,"text": ["isometrico"]}
-  ],
-  "isometry": [
-    {"id": 8076,"text": ["isometria"]}
-  ],
-  "isomorphic": [
-    {"id": 8077,"text": ["isomorfico"]}
-  ],
-  "isomorphism": [
-    {"id": 8078,"text": ["isomorfismo"]}
-  ],
-  "isostasy": [
-    {"id": 8079,"text": ["isostasia"]}
-  ],
-  "isotherm": [
-    {"id": 8080,"text": ["isoterma"]}
-  ],
-  "isothermal": [
-    {"id": 8081,"text": ["isotermo"]}
-  ],
-  "isotope": [
-    {"id": 8082,"text": ["isotopo"]}
-  ],
-  "isotopic": [
-    {"id": 8083,"text": ["isotopico"]}
-  ],
-  "isotropic": [
-    {"id": 8084,"text": ["isotropo"]}
-  ],
-  "isotropy": [
-    {"id": 8085,"text": ["isotropia"]}
-  ],
-  "Israel": [
-    {"id": 8086,"text": ["israele"]}
-  ],
-  "Israeli": [
-    {"id": 8087,"text": ["israeliano"]}
-  ],
-  "issue": [
-    {"id": 8088,"text": ["affare"]},
-    {"id": 8089,"text": ["problema"]},
-    {"id": 8090,"text": ["pubblicare"]},
-    {"id": 8091,"text": ["pubblicazione"]}
-  ],
-  "isthmus": [
-    {"id": 8092,"text": ["istmo"]}
-  ],
-  "Italian": [
-    {"id": 8093,"text": ["italiano"]}
-  ],
-  "italianisation": [
-    {"id": 8094,"text": ["italianizzazione"]}
-  ],
-  "Italy": [
-    {"id": 8095,"text": ["Italia"]}
-  ],
-  "itch": [
-    {"id": 8096,"text": ["prurito"]}
-  ],
-  "item": [
-    {"id": 8097,"text": ["elemento"]}
-  ],
-  "iteration": [
-    {"id": 8098,"text": ["iterazione"]}
-  ],
-  "itinerant": [
-    {"id": 8099,"text": ["itinerante"]}
-  ],
-  "itself": [
-    {"id": 8100,"text": ["stesso"]}
-  ],
-  "ivory": [
-    {"id": 8101,"text": ["avorio"]}
-  ],
-  "Ivory Coast": [
-    {"id": 8102,"text": ["Costa d'Avorio"]}
-  ]
-}
+{"I": [
+  {"id":7269,"text":["io"]}
+ ],
+
+"Iberian": [
+  {"id":7270,"text":["iberico"]}
+ ],
+
+"ibuprofen": [
+  {"id":7271,"text":["ibuprofene"]}
+ ],
+
+"ice": [
+  {"id":7272,"text":["ghiaccio"]}
+ ],
+
+"ice cream": [
+  {"id":7273,"text":["gelato"]}
+ ],
+
+"iceaxe": [
+  {"id":7274,"text":["piccozza"]}
+ ],
+
+"iceberg": [
+  {"id":7275,"text":["iceberg"]}
+ ],
+
+"Iceland": [
+  {"id":7276,"text":["Islanda"]}
+ ],
+
+"Icelandic": [
+  {"id":7277,"text":["islandese"]}
+ ],
+
+"ichthyology": [
+  {"id":7278,"text":["ittiologia"]}
+ ],
+
+"icon": [
+  {"id":7279,"text":["icona"]}
+ ],
+
+"iconic": [
+  {"id":7280,"text":["iconico"]}
+ ],
+
+"iconography": [
+  {"id":7281,"text":["iconografia"]}
+ ],
+
+"icosahedron": [
+  {"id":7282,"text":["icosaedro"]}
+ ],
+
+"idea": [
+  {"id":7283,"text":["idea"]}
+ ],
+
+"ideal": [
+  {"id":7284,"text":["ideale"]}
+ ],
+
+"idealisation": [
+  {"id":7285,"text":["idealizzazione"]}
+ ],
+
+"idealise": [
+  {"id":7286,"text":["idealizzare"]}
+ ],
+
+"idealism": [
+  {"id":7287,"text":["idealismo"]}
+ ],
+
+"idealist": [
+  {"id":7288,"text":["idealista"]}
+ ],
+
+"idealistic": [
+  {"id":7289,"text":["idealista"]}
+ ],
+
+"idealization": [
+  {"id":7290,"text":["idealizzazione"]}
+ ],
+
+"idealize": [
+  {"id":7291,"text":["idealizzare"]}
+ ],
+
+"ideally": [
+  {"id":7292,"text":["idealmente"]}
+ ],
+
+"ideation": [
+  {"id":7293,"text":["ideazione"]}
+ ],
+
+"identical": [
+  {"id":7294,"text":["identico"]}
+ ],
+
+"identifiable": [
+  {"id":7295,"text":["identificabile"]}
+ ],
+
+"identification": [
+  {"id":7296,"text":["identificazione"]}
+ ],
+
+"identifier": [
+  {"id":7297,"text":["identificatore"]}
+ ],
+
+"identify": [
+  {"id":7298,"text":["identificare"]}
+ ],
+
+"ideological": [
+  {"id":7299,"text":["ideologico"]}
+ ],
+
+"ideologically": [
+  {"id":7300,"text":["ideologicamente"]}
+ ],
+
+"ideologist": [
+  {"id":7301,"text":["ideologo"]}
+ ],
+
+"ideology": [
+  {"id":7302,"text":["ideologia"]}
+ ],
+
+"idiolect": [
+  {"id":7303,"text":["idioletto"]}
+ ],
+
+"idiom": [
+  {"id":7304,"text":["idioma"]},
+  {"id":7305,"text":["idiotismo"]}
+ ],
+
+"idiomatic": [
+  {"id":7306,"text":["idiomatico"]}
+ ],
+
+"idiosyncrasy": [
+  {"id":7307,"text":["idiosincrasia"]}
+ ],
+
+"idiosyncratic": [
+  {"id":7308,"text":["idiosincratico"]}
+ ],
+
+"idiot": [
+  {"id":7309,"text":["idiota"]},
+  {"id":7310,"text":["somaro"]}
+ ],
+
+"idol": [
+  {"id":7311,"text":["idolo"]}
+ ],
+
+"idolise": [
+  {"id":7312,"text":["idolatrare"]}
+ ],
+
+"idyll": [
+  {"id":7313,"text":["idillio"]}
+ ],
+
+"if": [
+  {"id":7314,"text":["se"]}
+ ],
+
+"ignite": [
+  {"id":7315,"text":["incendiare"]}
+ ],
+
+"ignominy": [
+  {"id":7316,"text":["ignominia"]}
+ ],
+
+"ignorance": [
+  {"id":7317,"text":["ignoranza"]}
+ ],
+
+"ignorant": [
+  {"id":7318,"text":["ignorante"]}
+ ],
+
+"ignore": [
+  {"id":7319,"text":["ignorare"]}
+ ],
+
+"ileum": [
+  {"id":7320,"text":["ileo"]}
+ ],
+
+"ill": [
+  {"id":7321,"text":["ammalato"]},
+  {"id":7322,"text":["malato"]}
+ ],
+
+"illegal": [
+  {"id":7323,"text":["illegale"]}
+ ],
+
+"illegally": [
+  {"id":7324,"text":["illegalmente"]}
+ ],
+
+"illegitimate": [
+  {"id":7325,"text":["illegittimo"]}
+ ],
+
+"illicit": [
+  {"id":7326,"text":["illecito"]}
+ ],
+
+"illicitly": [
+  {"id":7327,"text":["illecitamente"]}
+ ],
+
+"illiteracy": [
+  {"id":7328,"text":["analfabetismo"]}
+ ],
+
+"illiterate": [
+  {"id":7329,"text":["analfabeta"]}
+ ],
+
+"illness": [
+  {"id":7330,"text":["malattia"]}
+ ],
+
+"illogical": [
+  {"id":7331,"text":["illogico"]}
+ ],
+
+"illumination": [
+  {"id":7332,"text":["illuminazione"]}
+ ],
+
+"illusion": [
+  {"id":7333,"text":["illusione"]}
+ ],
+
+"illustrate": [
+  {"id":7334,"text":["illustrare"]}
+ ],
+
+"illustrated": [
+  {"id":7335,"text":["illustrato"]}
+ ],
+
+"illustration": [
+  {"id":7336,"text":["illustrazione"]}
+ ],
+
+"illustrious": [
+  {"id":7337,"text":["illustre"]}
+ ],
+
+"image": [
+  {"id":7338,"text":["immagine"]}
+ ],
+
+"imaginary": [
+  {"id":7339,"text":["immaginario"]}
+ ],
+
+"imagination": [
+  {"id":7340,"text":["immaginazione"]}
+ ],
+
+"imaginative": [
+  {"id":7341,"text":["immaginativo"]}
+ ],
+
+"imagine": [
+  {"id":7342,"text":["immaginare"]}
+ ],
+
+"imbecilic": [
+  {"id":7343,"text":["imbecille"]}
+ ],
+
+"imitate": [
+  {"id":7344,"text":["imitare"]}
+ ],
+
+"imitation": [
+  {"id":7345,"text":["imitazione"]}
+ ],
+
+"immanence": [
+  {"id":7346,"text":["immanenza"]}
+ ],
+
+"immaterial": [
+  {"id":7347,"text":["immateriale"]}
+ ],
+
+"immediate": [
+  {"id":7348,"text":["immediato"]}
+ ],
+
+"immediately": [
+  {"id":7349,"text":["immediatamente"]}
+ ],
+
+"immemorial": [
+  {"id":7350,"text":["immemorabile"]}
+ ],
+
+"immense": [
+  {"id":7351,"text":["immenso"]}
+ ],
+
+"immersion": [
+  {"id":7352,"text":["immersione"]}
+ ],
+
+"immigrant": [
+  {"id":7353,"text":["immigrante"]},
+  {"id":7354,"text":["immigrato"]}
+ ],
+
+"immigration": [
+  {"id":7355,"text":["immigrazione"]}
+ ],
+
+"imminent": [
+  {"id":7356,"text":["imminente"]}
+ ],
+
+"immobilisation": [
+  {"id":7357,"text":["immobilizzazione"]}
+ ],
+
+"immoderate": [
+  {"id":7358,"text":["smisurato"]}
+ ],
+
+"immoral": [
+  {"id":7359,"text":["immorale"]}
+ ],
+
+"immortal": [
+  {"id":7360,"text":["immortale"]}
+ ],
+
+"immovable": [
+  {"id":7361,"text":["immobiliare"]}
+ ],
+
+"immune": [
+  {"id":7362,"text":["immune"]}
+ ],
+
+"immunisation": [
+  {"id":7363,"text":["immunizzazione"]}
+ ],
+
+"immunodeficiency": [
+  {"id":7364,"text":["immunodeficienza"]}
+ ],
+
+"immunological": [
+  {"id":7365,"text":["immunologico"]}
+ ],
+
+"immunology": [
+  {"id":7366,"text":["immunologia"]}
+ ],
+
+"immunosuppression": [
+  {"id":7367,"text":["immunosoppressione"]}
+ ],
+
+"immunotherapy": [
+  {"id":7368,"text":["immunoterapia"]}
+ ],
+
+"impact": [
+  {"id":7369,"text":["impatto"]}
+ ],
+
+"impairment": [
+  {"id":7370,"text":["indebolimento"]}
+ ],
+
+"impaler": [
+  {"id":7371,"text":["impalatore"]}
+ ],
+
+"impart": [
+  {"id":7372,"text":["impartire"]}
+ ],
+
+"impartial": [
+  {"id":7373,"text":["imparziale"]}
+ ],
+
+"impassable": [
+  {"id":7374,"text":["impraticabile"]}
+ ],
+
+"impasse": [
+  {"id":7375,"text":["impasse"]}
+ ],
+
+"impatience": [
+  {"id":7376,"text":["impazienza"]}
+ ],
+
+"impatient": [
+  {"id":7377,"text":["impaziente"]}
+ ],
+
+"impedance": [
+  {"id":7378,"text":["impedenza"]}
+ ],
+
+"impenetrable": [
+  {"id":7379,"text":["impenetrabile"]}
+ ],
+
+"imperative": [
+  {"id":7380,"text":["imperativo"]}
+ ],
+
+"imperceptible": [
+  {"id":7381,"text":["impercettibile"]}
+ ],
+
+"imperceptibly": [
+  {"id":7382,"text":["impercettibilmente"]}
+ ],
+
+"imperfect": [
+  {"id":7383,"text":["imperfetto"]}
+ ],
+
+"imperfection": [
+  {"id":7384,"text":["imperfezione"]}
+ ],
+
+"imperial": [
+  {"id":7385,"text":["imperiale"]}
+ ],
+
+"imperialism": [
+  {"id":7386,"text":["imperialismo"]}
+ ],
+
+"imperialist": [
+  {"id":7387,"text":["imperialista"]}
+ ],
+
+"impermeable": [
+  {"id":7388,"text":["impermeabile"]}
+ ],
+
+"impersonal": [
+  {"id":7389,"text":["impersonale"]}
+ ],
+
+"impertinence": [
+  {"id":7390,"text":["impertinenza"]}
+ ],
+
+"impetus": [
+  {"id":7391,"text":["impulso"]}
+ ],
+
+"implant": [
+  {"id":7392,"text":["impiantare"]},
+  {"id":7393,"text":["impianto"]}
+ ],
+
+"implement": [
+  {"id":7394,"text":["implementare"]}
+ ],
+
+"implementation": [
+  {"id":7395,"text":["attuazione"]},
+  {"id":7396,"text":["implementazione"]}
+ ],
+
+"implication": [
+  {"id":7397,"text":["implicazione"]}
+ ],
+
+"implicit": [
+  {"id":7398,"text":["implicito"]}
+ ],
+
+"implicitly": [
+  {"id":7399,"text":["implicitamente"]}
+ ],
+
+"implosion": [
+  {"id":7400,"text":["implosione"]}
+ ],
+
+"imply": [
+  {"id":7401,"text":["implicare"]}
+ ],
+
+"import": [
+  {"id":7402,"text":["importare"]},
+  {"id":7403,"text":["importazione"]}
+ ],
+
+"importance": [
+  {"id":7404,"text":["importanza"]}
+ ],
+
+"important": [
+  {"id":7405,"text":["importante"]}
+ ],
+
+"importing": [
+  {"id":7406,"text":["importatore"]}
+ ],
+
+"impose": [
+  {"id":7407,"text":["imporre"]}
+ ],
+
+"impossible": [
+  {"id":7408,"text":["impossibile"]}
+ ],
+
+"impotence": [
+  {"id":7409,"text":["impotenza"]}
+ ],
+
+"impotent": [
+  {"id":7410,"text":["impotente"]}
+ ],
+
+"impoverish": [
+  {"id":7411,"text":["impoverire"]}
+ ],
+
+"impoverishment": [
+  {"id":7412,"text":["impoverimento"]}
+ ],
+
+"imprecation": [
+  {"id":7413,"text":["maledizione"]}
+ ],
+
+"imprecise": [
+  {"id":7414,"text":["impreciso"]}
+ ],
+
+"imprecision": [
+  {"id":7415,"text":["imprecisione"]}
+ ],
+
+"impregnate": [
+  {"id":7416,"text":["impregnare"]}
+ ],
+
+"impregnation": [
+  {"id":7417,"text":["impregnazione"]}
+ ],
+
+"imprescriptible": [
+  {"id":7418,"text":["imprescrittibile"]}
+ ],
+
+"impress": [
+  {"id":7419,"text":["impressionare"]}
+ ],
+
+"impression": [
+  {"id":7420,"text":["impressione"]}
+ ],
+
+"impressionable": [
+  {"id":7421,"text":["impressionabile"]}
+ ],
+
+"impressionism": [
+  {"id":7422,"text":["impressionismo"]}
+ ],
+
+"impressionist": [
+  {"id":7423,"text":["impressionista"]}
+ ],
+
+"impressive": [
+  {"id":7424,"text":["impressionante"]}
+ ],
+
+"impressively": [
+  {"id":7425,"text":["mirabilmente"]}
+ ],
+
+"imprison": [
+  {"id":7426,"text":["imprigionare"]}
+ ],
+
+"imprisonment": [
+  {"id":7427,"text":["reclusione"]}
+ ],
+
+"improbable": [
+  {"id":7428,"text":["improbabile"]}
+ ],
+
+"improper": [
+  {"id":7429,"text":["improprio"]}
+ ],
+
+"improperly": [
+  {"id":7430,"text":["impropriamente"]}
+ ],
+
+"improve": [
+  {"id":7431,"text":["migliorare"]}
+ ],
+
+"improvement": [
+  {"id":7432,"text":["miglioramento"]}
+ ],
+
+"improvisation": [
+  {"id":7433,"text":["improvvisazione"]}
+ ],
+
+"improvise": [
+  {"id":7434,"text":["improvvisare"]}
+ ],
+
+"imprudent": [
+  {"id":7435,"text":["imprudente"]}
+ ],
+
+"impugn": [
+  {"id":7436,"text":["impugnare"]}
+ ],
+
+"impugnable": [
+  {"id":7437,"text":["impugnabile"]}
+ ],
+
+"impugnation": [
+  {"id":7438,"text":["impugnazione"]}
+ ],
+
+"impulse": [
+  {"id":7439,"text":["impulso"]}
+ ],
+
+"impulsive": [
+  {"id":7440,"text":["impulsivo"]}
+ ],
+
+"imputable": [
+  {"id":7441,"text":["imputabile"]}
+ ],
+
+"impute": [
+  {"id":7442,"text":["imputare"]}
+ ],
+
+"in": [
+  {"id":7443,"text":["a"]},
+  {"id":7444,"text":["dentro"]},
+  {"id":7445,"text":["fra"]},
+  {"id":7446,"text":["in"]},
+  {"id":7447,"text":["tra"]}
+ ],
+
+"in conjunction": [
+  {"id":7448,"text":["congiuntamente"]}
+ ],
+
+"in fact": [
+  {"id":7449,"text":["infatti"]}
+ ],
+
+"in fairness": [
+  {"id":7450,"text":["sinceramente"]}
+ ],
+
+"in favor": [
+  {"id":7451,"text":["a favore"]}
+ ],
+
+"in favour": [
+  {"id":7452,"text":["a favore"]}
+ ],
+
+"in front": [
+  {"id":7453,"text":["davanti"]},
+  {"id":7454,"text":["di fronte"]}
+ ],
+
+"in front of": [
+  {"id":7454,"text":["di fronte"]}
+ ],
+
+"in this case": [
+  {"id":7455,"text":["in questo caso"]}
+ ],
+
+"in this way": [
+  {"id":7456,"text":["in questo modo"]}
+ ],
+
+"in vain": [
+  {"id":7457,"text":["invano"]}
+ ],
+
+"inaccessible": [
+  {"id":7458,"text":["inaccessibile"]}
+ ],
+
+"inaction": [
+  {"id":7459,"text":["inazione"]}
+ ],
+
+"inactivation": [
+  {"id":7460,"text":["inattivazione"]}
+ ],
+
+"inadequate": [
+  {"id":7461,"text":["inadeguato"]}
+ ],
+
+"inadmissible": [
+  {"id":7462,"text":["inammissibile"]}
+ ],
+
+"inalienable": [
+  {"id":7463,"text":["inalienabile"]}
+ ],
+
+"inapplicable": [
+  {"id":7464,"text":["inapplicabile"]}
+ ],
+
+"inappropriate": [
+  {"id":7465,"text":["inadeguato"]}
+ ],
+
+"inarticulate": [
+  {"id":7466,"text":["inarticolato"]}
+ ],
+
+"inaugural": [
+  {"id":7467,"text":["inaugurale"]}
+ ],
+
+"inaugurate": [
+  {"id":7468,"text":["inaugurare"]}
+ ],
+
+"inauguration": [
+  {"id":7469,"text":["inaugurazione"]}
+ ],
+
+"incalculable": [
+  {"id":7470,"text":["incalcolabile"]}
+ ],
+
+"incandescence": [
+  {"id":7471,"text":["incandescenza"]}
+ ],
+
+"incantation": [
+  {"id":7472,"text":["incanto"]}
+ ],
+
+"incapable": [
+  {"id":7473,"text":["incapace"]}
+ ],
+
+"incapacitate": [
+  {"id":7474,"text":["inabilitare"]}
+ ],
+
+"incarceration": [
+  {"id":7475,"text":["carcere"]}
+ ],
+
+"incarnation": [
+  {"id":7476,"text":["incarnazione"]}
+ ],
+
+"incendiary": [
+  {"id":7477,"text":["incendiario"]}
+ ],
+
+"incense": [
+  {"id":7478,"text":["incenso"]}
+ ],
+
+"incentive": [
+  {"id":7479,"text":["incentivo"]}
+ ],
+
+"incentivisation": [
+  {"id":7480,"text":["incentivazione"]}
+ ],
+
+"incessant": [
+  {"id":7481,"text":["incessante"]}
+ ],
+
+"inch": [
+  {"id":7482,"text":["pollice"]}
+ ],
+
+"incidence": [
+  {"id":7483,"text":["incidenza"]}
+ ],
+
+"incident": [
+  {"id":7484,"text":["incidente"]}
+ ],
+
+"incidental": [
+  {"id":7485,"text":["incidentale"]}
+ ],
+
+"incidentally": [
+  {"id":7486,"text":["ulteriormente"]}
+ ],
+
+"incinerate": [
+  {"id":7487,"text":["incenerire"]}
+ ],
+
+"incineration": [
+  {"id":7488,"text":["incenerimento"]}
+ ],
+
+"incision": [
+  {"id":7489,"text":["incisione"]}
+ ],
+
+"incisive": [
+  {"id":7490,"text":["incisivo"]}
+ ],
+
+"incite": [
+  {"id":7491,"text":["incitare"]}
+ ],
+
+"incitement": [
+  {"id":7492,"text":["incitamento"]}
+ ],
+
+"inclement": [
+  {"id":7493,"text":["inclemente"]}
+ ],
+
+"inclination": [
+  {"id":7494,"text":["inclinazione"]}
+ ],
+
+"incline": [
+  {"id":7495,"text":["inclinare"]}
+ ],
+
+"inclined": [
+  {"id":7496,"text":["inclinato"]}
+ ],
+
+"include": [
+  {"id":7497,"text":["includere"]}
+ ],
+
+"included": [
+  {"id":7498,"text":["inclusivamente"]},
+  {"id":7499,"text":["inclusive"]},
+  {"id":7500,"text":["incluso"]}
+ ],
+
+"inclusion": [
+  {"id":7501,"text":["inclusione"]}
+ ],
+
+"incoherent": [
+  {"id":7502,"text":["incoerente"]}
+ ],
+
+"incoherently": [
+  {"id":7503,"text":["incoerentemente"]}
+ ],
+
+"income": [
+  {"id":7504,"text":["reddito"]}
+ ],
+
+"incommensurable": [
+  {"id":7505,"text":["incommensurabile"]}
+ ],
+
+"incommunicable": [
+  {"id":7506,"text":["incomunicabile"]}
+ ],
+
+"incomparable": [
+  {"id":7507,"text":["incomparabile"]}
+ ],
+
+"incompatible": [
+  {"id":7508,"text":["incompatibile"]}
+ ],
+
+"incompetence": [
+  {"id":7509,"text":["incompetenza"]}
+ ],
+
+"incompetent": [
+  {"id":7510,"text":["incompetente"]}
+ ],
+
+"incomplete": [
+  {"id":7511,"text":["incompleto"]}
+ ],
+
+"incompletely": [
+  {"id":7512,"text":["incompletamente"]}
+ ],
+
+"incomprehensible": [
+  {"id":7513,"text":["incomprensibile"]}
+ ],
+
+"inconceivable": [
+  {"id":7514,"text":["inconcepibile"]}
+ ],
+
+"incongruous": [
+  {"id":7515,"text":["incongruente"]}
+ ],
+
+"inconsequential": [
+  {"id":7516,"text":["inconseguente"]}
+ ],
+
+"inconsiderate": [
+  {"id":7517,"text":["sconsiderato"]}
+ ],
+
+"incontestable": [
+  {"id":7518,"text":["incontestabile"]}
+ ],
+
+"incontinence": [
+  {"id":7519,"text":["incontinenza"]}
+ ],
+
+"incontrovertible": [
+  {"id":7520,"text":["incontrovertibile"]}
+ ],
+
+"incorporate": [
+  {"id":7521,"text":["incorporare"]}
+ ],
+
+"incorporation": [
+  {"id":7522,"text":["incorporazione"]}
+ ],
+
+"incorrectly": [
+  {"id":7523,"text":["scorrettamente"]}
+ ],
+
+"increase": [
+  {"id":7524,"text":["aumentare"]},
+  {"id":7525,"text":["aumento"]},
+  {"id":7526,"text":["incrementare"]},
+  {"id":7527,"text":["incremento"]}
+ ],
+
+"increasing": [
+  {"id":7528,"text":["crescente"]}
+ ],
+
+"incredible": [
+  {"id":7529,"text":["incredibile"]}
+ ],
+
+"incredibly": [
+  {"id":7530,"text":["incredibilmente"]}
+ ],
+
+"increment": [
+  {"id":7531,"text":["incrementare"]},
+  {"id":7532,"text":["incremento"]}
+ ],
+
+"incremental": [
+  {"id":7533,"text":["incrementale"]}
+ ],
+
+"incriminate": [
+  {"id":7534,"text":["incriminare"]}
+ ],
+
+"incubation": [
+  {"id":7535,"text":["incubazione"]}
+ ],
+
+"incumbent": [
+  {"id":7536,"text":["incombente"]}
+ ],
+
+"incur": [
+  {"id":7537,"text":["incorrere"]}
+ ],
+
+"incurable": [
+  {"id":7538,"text":["incurabile"]}
+ ],
+
+"incursion": [
+  {"id":7539,"text":["incursione"]}
+ ],
+
+"indebtedness": [
+  {"id":7540,"text":["indebitamento"]}
+ ],
+
+"indecent": [
+  {"id":7541,"text":["indecente"]}
+ ],
+
+"indeclinable": [
+  {"id":7542,"text":["indeclinabile"]}
+ ],
+
+"indeed": [
+  {"id":7543,"text":["difatto"]},
+  {"id":7544,"text":["infatti"]}
+ ],
+
+"indefensible": [
+  {"id":7545,"text":["indifendibile"]}
+ ],
+
+"indefinite": [
+  {"id":7546,"text":["indefinito"]}
+ ],
+
+"indefinitely": [
+  {"id":7547,"text":["indefinitamente"]}
+ ],
+
+"indemnify": [
+  {"id":7548,"text":["indennizzare"]}
+ ],
+
+"indentation": [
+  {"id":7549,"text":["indentazione"]}
+ ],
+
+"independence": [
+  {"id":7550,"text":["indipendenza"]}
+ ],
+
+"independent": [
+  {"id":7551,"text":["indipendente"]}
+ ],
+
+"independentism": [
+  {"id":7552,"text":["indipendentismo"]}
+ ],
+
+"independently": [
+  {"id":7553,"text":["indipendentemente"]}
+ ],
+
+"indescribably": [
+  {"id":7554,"text":["indicibilmente"]}
+ ],
+
+"indeterminate": [
+  {"id":7555,"text":["indeterminato"]}
+ ],
+
+"indeterminazione": [
+  {"id":7556,"text":["indeterminazione"]}
+ ],
+
+"index": [
+  {"id":7557,"text":["indice"]}
+ ],
+
+"indexing": [
+  {"id":7558,"text":["indicizzazione"]}
+ ],
+
+"Indian": [
+  {"id":7559,"text":["indiano"]}
+ ],
+
+"indicate": [
+  {"id":7560,"text":["indicare"]}
+ ],
+
+"indication": [
+  {"id":7561,"text":["indicazione"]}
+ ],
+
+"indicative": [
+  {"id":7562,"text":["indicativo"]}
+ ],
+
+"indicator": [
+  {"id":7563,"text":["indicatore"]}
+ ],
+
+"indifference": [
+  {"id":7564,"text":["indifferenza"]}
+ ],
+
+"indifferent": [
+  {"id":7565,"text":["indifferente"]}
+ ],
+
+"indifferently": [
+  {"id":7566,"text":["indifferentemente"]}
+ ],
+
+"indigenous": [
+  {"id":7567,"text":["indigeno"]}
+ ],
+
+"indigestible": [
+  {"id":7568,"text":["indigeribile"]}
+ ],
+
+"indigestion": [
+  {"id":7569,"text":["indigestione"]}
+ ],
+
+"indignation": [
+  {"id":7570,"text":["indignazione"]}
+ ],
+
+"indirect": [
+  {"id":7571,"text":["indiretto"]}
+ ],
+
+"indirectly": [
+  {"id":7572,"text":["indirettamente"]}
+ ],
+
+"indiscernible": [
+  {"id":7573,"text":["indiscernibile"]},
+  {"id":7574,"text":["indistinguibile"]}
+ ],
+
+"indiscipline": [
+  {"id":7575,"text":["indisciplina"]}
+ ],
+
+"indiscretion": [
+  {"id":7576,"text":["indiscrezione"]}
+ ],
+
+"indiscriminately": [
+  {"id":7577,"text":["indiscriminatamente"]}
+ ],
+
+"indispensable": [
+  {"id":7578,"text":["indispensabile"]}
+ ],
+
+"indisposition": [
+  {"id":7579,"text":["indisposizione"]}
+ ],
+
+"indisputable": [
+  {"id":7580,"text":["indiscutibile"]}
+ ],
+
+"indisputably": [
+  {"id":7581,"text":["indiscutibilmente"]}
+ ],
+
+"indistinctly": [
+  {"id":7582,"text":["indistintamente"]}
+ ],
+
+"indistinguishable": [
+  {"id":7583,"text":["indistinguibile"]}
+ ],
+
+"individual": [
+  {"id":7584,"text":["individuale"]},
+  {"id":7585,"text":["individuo"]}
+ ],
+
+"individualisation": [
+  {"id":7586,"text":["individuazione"]}
+ ],
+
+"individualism": [
+  {"id":7587,"text":["individualismo"]}
+ ],
+
+"individually": [
+  {"id":7588,"text":["individualmente"]}
+ ],
+
+"indivisible": [
+  {"id":7589,"text":["indivisibile"]}
+ ],
+
+"indoctrination": [
+  {"id":7590,"text":["indottrinazione"]}
+ ],
+
+"indonesian": [
+  {"id":7591,"text":["indonesiano"]}
+ ],
+
+"indoor": [
+  {"id":7592,"text":["interno"]}
+ ],
+
+"indorsement": [
+  {"id":7593,"text":["appoggio"]},
+  {"id":7594,"text":["approvazione"]},
+  {"id":7595,"text":["girata"]}
+ ],
+
+"indubitably": [
+  {"id":7596,"text":["indubbiamente"]}
+ ],
+
+"induce": [
+  {"id":7597,"text":["indurre"]}
+ ],
+
+"inductance": [
+  {"id":7598,"text":["induttanza"]}
+ ],
+
+"induction": [
+  {"id":7599,"text":["induzione"]}
+ ],
+
+"indulgence": [
+  {"id":7600,"text":["indulgenza"]}
+ ],
+
+"indulgent": [
+  {"id":7601,"text":["indulgente"]}
+ ],
+
+"industrial": [
+  {"id":7602,"text":["industriale"]}
+ ],
+
+"industrialisation": [
+  {"id":7603,"text":["industrializzazione"]}
+ ],
+
+"industrialise": [
+  {"id":7604,"text":["industrializzare"]}
+ ],
+
+"industrialization": [
+  {"id":7605,"text":["industrializzazione"]}
+ ],
+
+"industrialize": [
+  {"id":7606,"text":["industrializzare"]}
+ ],
+
+"industrially": [
+  {"id":7607,"text":["industrialmente"]}
+ ],
+
+"industry": [
+  {"id":7608,"text":["industria"]}
+ ],
+
+"ineffective": [
+  {"id":7609,"text":["inefficace"]}
+ ],
+
+"inefficiency": [
+  {"id":7610,"text":["inefficienza"]}
+ ],
+
+"ineligible": [
+  {"id":7611,"text":["ineleggibile"]}
+ ],
+
+"ineptitude": [
+  {"id":7612,"text":["inettitudine"]}
+ ],
+
+"inequality": [
+  {"id":7613,"text":["disuguaglianza"]}
+ ],
+
+"inequity": [
+  {"id":7614,"text":["ingiustizia"]}
+ ],
+
+"inertia": [
+  {"id":7615,"text":["inerzia"]}
+ ],
+
+"inevitable": [
+  {"id":7616,"text":["inevitabile"]}
+ ],
+
+"inevitably": [
+  {"id":7617,"text":["inevitabilmente"]}
+ ],
+
+"inexorable": [
+  {"id":7618,"text":["inesorabile"]}
+ ],
+
+"inexorably": [
+  {"id":7619,"text":["inesorabilmente"]}
+ ],
+
+"inexpensive": [
+  {"id":7620,"text":["economico"]}
+ ],
+
+"inexplicably": [
+  {"id":7621,"text":["inspiegabilmente"]}
+ ],
+
+"infamous": [
+  {"id":7622,"text":["infame"]}
+ ],
+
+"infamy": [
+  {"id":7623,"text":["infamia"]}
+ ],
+
+"infancy": [
+  {"id":7624,"text":["infanzia"]}
+ ],
+
+"infant": [
+  {"id":7625,"text":["bambino"]}
+ ],
+
+"infanticide": [
+  {"id":7626,"text":["infanticidio"]}
+ ],
+
+"infantry": [
+  {"id":7627,"text":["fanteria"]}
+ ],
+
+"infarct": [
+  {"id":7628,"text":["infarto"]}
+ ],
+
+"infect": [
+  {"id":7629,"text":["contagiare"]}
+ ],
+
+"infection": [
+  {"id":7630,"text":["infezione"]}
+ ],
+
+"infectious": [
+  {"id":7631,"text":["infettivo"]}
+ ],
+
+"infective": [
+  {"id":7632,"text":["infettivo"]}
+ ],
+
+"inference": [
+  {"id":7633,"text":["inferenza"]}
+ ],
+
+"inferior": [
+  {"id":7634,"text":["inferiore"]}
+ ],
+
+"infernal": [
+  {"id":7635,"text":["infernale"]}
+ ],
+
+"infibulation": [
+  {"id":7636,"text":["infibulazione"]}
+ ],
+
+"infiltrate": [
+  {"id":7637,"text":["infiltrare"]}
+ ],
+
+"infiltration": [
+  {"id":7638,"text":["infiltrazione"]}
+ ],
+
+"infinite": [
+  {"id":7639,"text":["infinito"]}
+ ],
+
+"infinitely": [
+  {"id":7640,"text":["infinitamente"]}
+ ],
+
+"infinitesimal": [
+  {"id":7641,"text":["infinitesimale"]}
+ ],
+
+"infinitive": [
+  {"id":7642,"text":["infinito"]}
+ ],
+
+"infinity": [
+  {"id":7643,"text":["infinito"]}
+ ],
+
+"infirmary": [
+  {"id":7644,"text":["infermeria"]}
+ ],
+
+"inflammable": [
+  {"id":7645,"text":["infiammabile"]}
+ ],
+
+"inflammation": [
+  {"id":7646,"text":["infiammazione"]}
+ ],
+
+"inflatable": [
+  {"id":7647,"text":["gonfiabile"]}
+ ],
+
+"inflate": [
+  {"id":7648,"text":["gonfiare"]},
+  {"id":7649,"text":["inflazionare"]}
+ ],
+
+"inflation": [
+  {"id":7650,"text":["inflazione"]}
+ ],
+
+"inflationary": [
+  {"id":7651,"text":["inflazionista"]}
+ ],
+
+"inflationist": [
+  {"id":7652,"text":["inflazionista"]}
+ ],
+
+"inflection": [
+  {"id":7653,"text":["inflessione"]}
+ ],
+
+"inflectional": [
+  {"id":7654,"text":["flessivo"]}
+ ],
+
+"inflict": [
+  {"id":7655,"text":["causare"]}
+ ],
+
+"inflorescence": [
+  {"id":7656,"text":["infiorescenza"]}
+ ],
+
+"influence": [
+  {"id":7657,"text":["influenza"]},
+  {"id":7658,"text":["influenzare"]},
+  {"id":7659,"text":["influire"]}
+ ],
+
+"influential": [
+  {"id":7660,"text":["influente"]}
+ ],
+
+"influenza": [
+  {"id":7661,"text":["influenza"]}
+ ],
+
+"influx": [
+  {"id":7662,"text":["affluenza"]},
+  {"id":7663,"text":["afflusso"]}
+ ],
+
+"inform": [
+  {"id":7664,"text":["informare"]}
+ ],
+
+"informal": [
+  {"id":7665,"text":["informale"]}
+ ],
+
+"informally": [
+  {"id":7666,"text":["informalmente"]}
+ ],
+
+"information": [
+  {"id":7667,"text":["informazione"]}
+ ],
+
+"informational": [
+  {"id":7668,"text":["informativo"]}
+ ],
+
+"informative": [
+  {"id":7669,"text":["informativo"]}
+ ],
+
+"infraorbital": [
+  {"id":7670,"text":["infraorbitale"]}
+ ],
+
+"infrared": [
+  {"id":7671,"text":["infrarosso"]}
+ ],
+
+"infrastructure": [
+  {"id":7672,"text":["infrastruttura"]}
+ ],
+
+"infrequent": [
+  {"id":7673,"text":["infrequente"]}
+ ],
+
+"infringement": [
+  {"id":7674,"text":["infrazione"]}
+ ],
+
+"infructescence": [
+  {"id":7675,"text":["infiorescenza"]}
+ ],
+
+"infusion": [
+  {"id":7676,"text":["infuso"]}
+ ],
+
+"ingenious": [
+  {"id":7677,"text":["geniale"]}
+ ],
+
+"ingestion": [
+  {"id":7678,"text":["ingestione"]}
+ ],
+
+"ingot": [
+  {"id":7679,"text":["lingotto"]}
+ ],
+
+"ingredient": [
+  {"id":7680,"text":["ingrediente"]}
+ ],
+
+"inhabitant": [
+  {"id":7681,"text":["abitante"]},
+  {"id":7682,"text":["abitatore"]}
+ ],
+
+"inhalation": [
+  {"id":7683,"text":["inalazione"]}
+ ],
+
+"inhale": [
+  {"id":7684,"text":["aspirare"]},
+  {"id":7685,"text":["inalare"]}
+ ],
+
+"inharmonic": [
+  {"id":7686,"text":["inarmonico"]}
+ ],
+
+"inherent": [
+  {"id":7687,"text":["inerente"]}
+ ],
+
+"inherit": [
+  {"id":7688,"text":["ereditare"]}
+ ],
+
+"inhibit": [
+  {"id":7689,"text":["inibire"]}
+ ],
+
+"inhibition": [
+  {"id":7690,"text":["inibizione"]}
+ ],
+
+"inhibitory": [
+  {"id":7691,"text":["inibitorio"]}
+ ],
+
+"inhuman": [
+  {"id":7692,"text":["disumano"]},
+  {"id":7693,"text":["inumano"]}
+ ],
+
+"inhumation": [
+  {"id":7694,"text":["inumazione"]}
+ ],
+
+"inhume": [
+  {"id":7695,"text":["inumare"]}
+ ],
+
+"initial": [
+  {"id":7696,"text":["iniziale"]}
+ ],
+
+"initialisation": [
+  {"id":7697,"text":["inizializzazione"]}
+ ],
+
+"initialization": [
+  {"id":7698,"text":["inizializzazione"]}
+ ],
+
+"initially": [
+  {"id":7699,"text":["inizialmente"]}
+ ],
+
+"initiate": [
+  {"id":7700,"text":["avviare"]}
+ ],
+
+"initiation": [
+  {"id":7701,"text":["iniziazione"]}
+ ],
+
+"initiative": [
+  {"id":7702,"text":["iniziativa"]}
+ ],
+
+"initiator": [
+  {"id":7703,"text":["iniziatore"]}
+ ],
+
+"inject": [
+  {"id":7704,"text":["iniettare"]}
+ ],
+
+"injection": [
+  {"id":7705,"text":["iniezione"]}
+ ],
+
+"injure": [
+  {"id":7706,"text":["ferire"]}
+ ],
+
+"injured": [
+  {"id":7707,"text":["ferito"]},
+  {"id":7708,"text":["sinistrato"]}
+ ],
+
+"injurious": [
+  {"id":7709,"text":["ingiurioso"]}
+ ],
+
+"injury": [
+  {"id":7710,"text":["lesione"]}
+ ],
+
+"injustice": [
+  {"id":7711,"text":["ingiustizia"]}
+ ],
+
+"ink": [
+  {"id":7712,"text":["inchiostro"]}
+ ],
+
+"inlet": [
+  {"id":7713,"text":["insenatura"]},
+  {"id":7714,"text":["sacca"]}
+ ],
+
+"innate": [
+  {"id":7715,"text":["innato"]}
+ ],
+
+"inner": [
+  {"id":7716,"text":["interno"]}
+ ],
+
+"innervation": [
+  {"id":7717,"text":["innervazione"]}
+ ],
+
+"innocence": [
+  {"id":7718,"text":["innocenza"]}
+ ],
+
+"innocent": [
+  {"id":7719,"text":["innocente"]}
+ ],
+
+"innocently": [
+  {"id":7720,"text":["innocentemente"]}
+ ],
+
+"innocuous": [
+  {"id":7721,"text":["innocuo"]}
+ ],
+
+"innovation": [
+  {"id":7722,"text":["innovazione"]}
+ ],
+
+"innovative": [
+  {"id":7723,"text":["innovatore"]}
+ ],
+
+"innumerable": [
+  {"id":7724,"text":["innumerevole"]}
+ ],
+
+"inoculation": [
+  {"id":7725,"text":["inoculazione"]}
+ ],
+
+"inoperable": [
+  {"id":7726,"text":["inoperante"]}
+ ],
+
+"inorganic": [
+  {"id":7727,"text":["inorganico"]}
+ ],
+
+"input": [
+  {"id":7728,"text":["entrata"]}
+ ],
+
+"inquiry": [
+  {"id":7729,"text":["inchiesta"]}
+ ],
+
+"inquisition": [
+  {"id":7730,"text":["inquisizione"]}
+ ],
+
+"insane": [
+  {"id":7731,"text":["demente"]},
+  {"id":7732,"text":["pazzo"]}
+ ],
+
+"insanity": [
+  {"id":7733,"text":["pazzia"]}
+ ],
+
+"inscribe": [
+  {"id":7734,"text":["inscrivere"]}
+ ],
+
+"inscrutable": [
+  {"id":7735,"text":["inscrutabile"]}
+ ],
+
+"insect": [
+  {"id":7736,"text":["insetto"]}
+ ],
+
+"insecticide": [
+  {"id":7737,"text":["insetticida"]}
+ ],
+
+"insectivore": [
+  {"id":7738,"text":["insettivoro"]}
+ ],
+
+"insectivorous": [
+  {"id":7739,"text":["insettivoro"]}
+ ],
+
+"insecurity": [
+  {"id":7740,"text":["insicurezza"]}
+ ],
+
+"insemination": [
+  {"id":7741,"text":["inseminazione"]}
+ ],
+
+"insensitive": [
+  {"id":7742,"text":["insensibile"]}
+ ],
+
+"inseparable": [
+  {"id":7743,"text":["inseparabile"]}
+ ],
+
+"insert": [
+  {"id":7744,"text":["infilare"]},
+  {"id":7745,"text":["inserire"]}
+ ],
+
+"insertion": [
+  {"id":7746,"text":["inserimento"]},
+  {"id":7747,"text":["inserzione"]}
+ ],
+
+"inside": [
+  {"id":7748,"text":["dentro"]},
+  {"id":7749,"text":["entro"]},
+  {"id":7750,"text":["interiore"]}
+ ],
+
+"insides": [
+  {"id":7751,"text":["interiora"]},
+  {"id":7752,"text":["viscere"]}
+ ],
+
+"insidious": [
+  {"id":7753,"text":["insidioso"]}
+ ],
+
+"insight": [
+  {"id":7754,"text":["idea"]}
+ ],
+
+"insignificant": [
+  {"id":7755,"text":["insignificante"]}
+ ],
+
+"insinuate": [
+  {"id":7756,"text":["insinuare"]}
+ ],
+
+"insinuation": [
+  {"id":7757,"text":["insinuazione"]}
+ ],
+
+"insipid": [
+  {"id":7758,"text":["insipido"]}
+ ],
+
+"insist": [
+  {"id":7759,"text":["insistere"]}
+ ],
+
+"insistence": [
+  {"id":7760,"text":["insistenza"]}
+ ],
+
+"insistent": [
+  {"id":7761,"text":["insistente"]}
+ ],
+
+"insolation": [
+  {"id":7762,"text":["insolazione"]}
+ ],
+
+"insole": [
+  {"id":7763,"text":["soletta"]}
+ ],
+
+"insolence": [
+  {"id":7764,"text":["insolenza"]}
+ ],
+
+"insolent": [
+  {"id":7765,"text":["insolente"]}
+ ],
+
+"insoluble": [
+  {"id":7766,"text":["insolubile"]}
+ ],
+
+"insolvency": [
+  {"id":7767,"text":["insolvenza"]}
+ ],
+
+"insolvent": [
+  {"id":7768,"text":["insolvente"]}
+ ],
+
+"insomnia": [
+  {"id":7769,"text":["insonnia"]}
+ ],
+
+"inspect": [
+  {"id":7770,"text":["ispezionare"]}
+ ],
+
+"inspection": [
+  {"id":7771,"text":["ispezione"]}
+ ],
+
+"inspector": [
+  {"id":7772,"text":["ispettore"]}
+ ],
+
+"inspiration": [
+  {"id":7773,"text":["inspirazione"]},
+  {"id":7774,"text":["ispirazione"]},
+  {"id":7775,"text":["spunto"]}
+ ],
+
+"inspire": [
+  {"id":7776,"text":["inspirare"]}
+ ],
+
+"install": [
+  {"id":7777,"text":["installare"]}
+ ],
+
+"installation": [
+  {"id":7778,"text":["impianto"]},
+  {"id":7779,"text":["installazione"]}
+ ],
+
+"instance": [
+  {"id":7780,"text":["caso"]},
+  {"id":7781,"text":["istanza"]}
+ ],
+
+"instant": [
+  {"id":7782,"text":["istante"]}
+ ],
+
+"instantaneous": [
+  {"id":7783,"text":["istantaneo"]}
+ ],
+
+"instantaneously": [
+  {"id":7784,"text":["istantaneamente"]}
+ ],
+
+"instantly": [
+  {"id":7785,"text":["istantaneamente"]}
+ ],
+
+"instauration": [
+  {"id":7786,"text":["instaurazione"]}
+ ],
+
+"instead": [
+  {"id":7787,"text":["tuttavia"]}
+ ],
+
+"instigation": [
+  {"id":7788,"text":["istigazione"]}
+ ],
+
+"instinct": [
+  {"id":7789,"text":["istinto"]}
+ ],
+
+"institute": [
+  {"id":7790,"text":["istituto"]}
+ ],
+
+"institution": [
+  {"id":7791,"text":["istituto"]},
+  {"id":7792,"text":["istituzione"]}
+ ],
+
+"institutional": [
+  {"id":7793,"text":["istituzionale"]}
+ ],
+
+"institutionalisation": [
+  {"id":7794,"text":["istituzionalizzazione"]}
+ ],
+
+"institutionalise": [
+  {"id":7795,"text":["istituzionalizzare"]}
+ ],
+
+"instruct": [
+  {"id":7796,"text":["istruire"]}
+ ],
+
+"instruction": [
+  {"id":7797,"text":["istruzione"]}
+ ],
+
+"instrument": [
+  {"id":7798,"text":["strumentare"]},
+  {"id":7799,"text":["strumento"]}
+ ],
+
+"instrumental": [
+  {"id":7800,"text":["strumentale"]}
+ ],
+
+"instrumentalisation": [
+  {"id":7801,"text":["strumentalizzazione"]}
+ ],
+
+"instrumentalist": [
+  {"id":7802,"text":["strumentista"]}
+ ],
+
+"instrumentation": [
+  {"id":7803,"text":["strumentazione"]}
+ ],
+
+"insubordination": [
+  {"id":7804,"text":["insubordinazione"]}
+ ],
+
+"insufficiency": [
+  {"id":7805,"text":["insufficienza"]}
+ ],
+
+"insufficient": [
+  {"id":7806,"text":["insufficiente"]}
+ ],
+
+"insufficiently": [
+  {"id":7807,"text":["insufficientemente"]}
+ ],
+
+"insular": [
+  {"id":7808,"text":["insulare"]}
+ ],
+
+"insulating": [
+  {"id":7809,"text":["isolante"]}
+ ],
+
+"insulator": [
+  {"id":7810,"text":["isolante"]}
+ ],
+
+"insulin": [
+  {"id":7811,"text":["insulina"]}
+ ],
+
+"insult": [
+  {"id":7812,"text":["insultare"]},
+  {"id":7813,"text":["insulto"]}
+ ],
+
+"insuperable": [
+  {"id":7814,"text":["insuperabile"]}
+ ],
+
+"insurance": [
+  {"id":7815,"text":["assicurazione"]}
+ ],
+
+"insure": [
+  {"id":7816,"text":["assicurare"]}
+ ],
+
+"insurrection": [
+  {"id":7817,"text":["insurrezione"]}
+ ],
+
+"intact": [
+  {"id":7818,"text":["intatto"]}
+ ],
+
+"intangible": [
+  {"id":7819,"text":["intangibile"]}
+ ],
+
+"integer": [
+  {"id":7820,"text":["intero"]}
+ ],
+
+"integrable": [
+  {"id":7821,"text":["integrabile"]}
+ ],
+
+"integral": [
+  {"id":7822,"text":["integrale"]},
+  {"id":7823,"text":["integrante"]}
+ ],
+
+"integrally": [
+  {"id":7824,"text":["integralmente"]}
+ ],
+
+"integrate": [
+  {"id":7825,"text":["integrare"]}
+ ],
+
+"integration": [
+  {"id":7826,"text":["integrazione"]}
+ ],
+
+"intellect": [
+  {"id":7827,"text":["intelletto"]}
+ ],
+
+"intellectual": [
+  {"id":7828,"text":["intellettuale"]}
+ ],
+
+"intellectualism": [
+  {"id":7829,"text":["intellettualismo"]}
+ ],
+
+"intellectually": [
+  {"id":7830,"text":["intellettualmente"]}
+ ],
+
+"intelligence": [
+  {"id":7831,"text":["intelligenza"]}
+ ],
+
+"intelligent": [
+  {"id":7832,"text":["intelligente"]}
+ ],
+
+"intelligently": [
+  {"id":7833,"text":["intelligentemente"]}
+ ],
+
+"intelligible": [
+  {"id":7834,"text":["comprensibile"]},
+  {"id":7835,"text":["intelligibile"]}
+ ],
+
+"intend": [
+  {"id":7836,"text":["pretendere"]}
+ ],
+
+"intendant": [
+  {"id":7837,"text":["intendente"]}
+ ],
+
+"intense": [
+  {"id":7838,"text":["intenso"]}
+ ],
+
+"intensely": [
+  {"id":7839,"text":["intensamente"]}
+ ],
+
+"intensification": [
+  {"id":7840,"text":["intensificazione"]}
+ ],
+
+"intensify": [
+  {"id":7841,"text":["intensificare"]}
+ ],
+
+"intensive": [
+  {"id":7842,"text":["intensivo"]}
+ ],
+
+"intensively": [
+  {"id":7843,"text":["intensivamente"]}
+ ],
+
+"intention": [
+  {"id":7844,"text":["intenzione"]}
+ ],
+
+"intentional": [
+  {"id":7845,"text":["intenzionato"]},
+  {"id":7846,"text":["intenzionale"]}
+ ],
+
+"intentionally": [
+  {"id":7847,"text":["intenzionalmente"]},
+  {"id":7848,"text":["volutamente"]}
+ ],
+
+"inter": [
+  {"id":7849,"text":["inumare"]}
+ ],
+
+"interaction": [
+  {"id":7850,"text":["interazione"]}
+ ],
+
+"interactive": [
+  {"id":7851,"text":["interattivo"]}
+ ],
+
+"interannual": [
+  {"id":7852,"text":["interannuale"]}
+ ],
+
+"intercalation": [
+  {"id":7853,"text":["intercalazione"]}
+ ],
+
+"intercept": [
+  {"id":7854,"text":["intercettare"]}
+ ],
+
+"interception": [
+  {"id":7855,"text":["intercettazione"]}
+ ],
+
+"interchange": [
+  {"id":7856,"text":["baratto"]},
+  {"id":7857,"text":["scambio"]}
+ ],
+
+"interchangeable": [
+  {"id":7858,"text":["intercambiabile"]}
+ ],
+
+"intercommunication": [
+  {"id":7859,"text":["intercomunicazione"]}
+ ],
+
+"interconnection": [
+  {"id":7860,"text":["interconnessione"]}
+ ],
+
+"intercontinental": [
+  {"id":7861,"text":["intercontinentale"]}
+ ],
+
+"intercultural": [
+  {"id":7862,"text":["interculturale"]}
+ ],
+
+"interdependent": [
+  {"id":7863,"text":["interdipendente"]}
+ ],
+
+"interdict": [
+  {"id":7864,"text":["interdetto"]}
+ ],
+
+"interdiction": [
+  {"id":7865,"text":["interdizione"]}
+ ],
+
+"interest": [
+  {"id":7866,"text":["interessare"]},
+  {"id":7867,"text":["interesse"]}
+ ],
+
+"interesting": [
+  {"id":7868,"text":["interessante"]}
+ ],
+
+"interestingly": [
+  {"id":7869,"text":["curiosamente"]}
+ ],
+
+"interface": [
+  {"id":7870,"text":["interfaccia"]}
+ ],
+
+"interfere": [
+  {"id":7871,"text":["interferire"]}
+ ],
+
+"interference": [
+  {"id":7872,"text":["ingerenza"]},
+  {"id":7873,"text":["interferenza"]}
+ ],
+
+"intergovernmental": [
+  {"id":7874,"text":["intergovernativo"]}
+ ],
+
+"interim": [
+  {"id":7875,"text":["interino"]}
+ ],
+
+"interior": [
+  {"id":7876,"text":["interiore"]}
+ ],
+
+"interjection": [
+  {"id":7877,"text":["interiezione"]}
+ ],
+
+"interlingua": [
+  {"id":7878,"text":["interlingua"]}
+ ],
+
+"interloper": [
+  {"id":7879,"text":["intruso"]}
+ ],
+
+"intermediary": [
+  {"id":7880,"text":["intermediario"]}
+ ],
+
+"intermediate": [
+  {"id":7881,"text":["intermediario"]},
+  {"id":7882,"text":["intermedio"]}
+ ],
+
+"intermediation": [
+  {"id":7883,"text":["intermediazione"]}
+ ],
+
+"interminable": [
+  {"id":7884,"text":["interminabile"]}
+ ],
+
+"intermission": [
+  {"id":7885,"text":["intervallo"]}
+ ],
+
+"intermittent": [
+  {"id":7886,"text":["intermittente"]}
+ ],
+
+"intermolecular": [
+  {"id":7887,"text":["intermolecolare"]}
+ ],
+
+"internal": [
+  {"id":7888,"text":["interno"]}
+ ],
+
+"internalise": [
+  {"id":7889,"text":["interiorizzare"]}
+ ],
+
+"internally": [
+  {"id":7890,"text":["internamente"]}
+ ],
+
+"international": [
+  {"id":7891,"text":["internazionale"]}
+ ],
+
+"internationalisation": [
+  {"id":7892,"text":["internazionalizzazione"]}
+ ],
+
+"internationalization": [
+  {"id":7893,"text":["internazionalizzazione"]}
+ ],
+
+"internationally": [
+  {"id":7894,"text":["internazionalmente"]}
+ ],
+
+"internaut": [
+  {"id":7895,"text":["internauta"]}
+ ],
+
+"Internet": [
+  {"id":7896,"text":["Internet"]}
+ ],
+
+"internment": [
+  {"id":7897,"text":["internamento"]}
+ ],
+
+"interpellation": [
+  {"id":7898,"text":["interpellanza"]}
+ ],
+
+"interpersonal": [
+  {"id":7899,"text":["interpersonale"]}
+ ],
+
+"interpolation": [
+  {"id":7900,"text":["interpolazione"]}
+ ],
+
+"interpose": [
+  {"id":7901,"text":["interporre"]}
+ ],
+
+"interposition": [
+  {"id":7902,"text":["interposizione"]}
+ ],
+
+"interpret": [
+  {"id":7903,"text":["interpretare"]}
+ ],
+
+"interpretable": [
+  {"id":7904,"text":["interpretabile"]}
+ ],
+
+"interpretation": [
+  {"id":7905,"text":["interpretazione"]}
+ ],
+
+"interpretative": [
+  {"id":7906,"text":["interpretativo"]}
+ ],
+
+"interpreter": [
+  {"id":7907,"text":["interprete"]}
+ ],
+
+"interprofessional": [
+  {"id":7908,"text":["interprofessionale"]}
+ ],
+
+"interregional": [
+  {"id":7909,"text":["interregionale"]}
+ ],
+
+"interregnum": [
+  {"id":7910,"text":["interregno"]}
+ ],
+
+"interrelation": [
+  {"id":7911,"text":["interrelazione"]}
+ ],
+
+"interrelationship": [
+  {"id":7912,"text":["interrelazione"]}
+ ],
+
+"interrogate": [
+  {"id":7913,"text":["interrogare"]}
+ ],
+
+"interrogation": [
+  {"id":7914,"text":["interrogatorio"]}
+ ],
+
+"interrogative": [
+  {"id":7915,"text":["interrogativo"]}
+ ],
+
+"interrupt": [
+  {"id":7916,"text":["interrompere"]}
+ ],
+
+"interruption": [
+  {"id":7917,"text":["interruzione"]}
+ ],
+
+"intersection": [
+  {"id":7918,"text":["intersezione"]}
+ ],
+
+"interval": [
+  {"id":7919,"text":["intermedio"]},
+  {"id":7920,"text":["intervallo"]}
+ ],
+
+"intervene": [
+  {"id":7921,"text":["intervenire"]}
+ ],
+
+"intervention": [
+  {"id":7922,"text":["intervento"]}
+ ],
+
+"interview": [
+  {"id":7923,"text":["interrogare"]},
+  {"id":7924,"text":["intervista"]},
+  {"id":7925,"text":["intervistare"]}
+ ],
+
+"interweave": [
+  {"id":7926,"text":["intessere"]}
+ ],
+
+"intestate": [
+  {"id":7927,"text":["intestato"]}
+ ],
+
+"intestinal": [
+  {"id":7928,"text":["intestinale"]}
+ ],
+
+"intestine": [
+  {"id":7929,"text":["intestino"]}
+ ],
+
+"intimate": [
+  {"id":7930,"text":["intimo"]}
+ ],
+
+"intimately": [
+  {"id":7931,"text":["intimamente"]}
+ ],
+
+"intimidate": [
+  {"id":7932,"text":["intimidire"]}
+ ],
+
+"intimidation": [
+  {"id":7933,"text":["intimidazione"]}
+ ],
+
+"intolerable": [
+  {"id":7934,"text":["intollerabile"]}
+ ],
+
+"intolerance": [
+  {"id":7935,"text":["intolleranza"]}
+ ],
+
+"intonation": [
+  {"id":7936,"text":["intonazione"]}
+ ],
+
+"intothebargain": [
+  {"id":7937,"text":["oltretutto"]}
+ ],
+
+"intoxicate": [
+  {"id":7938,"text":["intossicare"]}
+ ],
+
+"intoxication": [
+  {"id":7939,"text":["intossicazione"]}
+ ],
+
+"intracellular": [
+  {"id":7940,"text":["intracellulare"]}
+ ],
+
+"intractable": [
+  {"id":7941,"text":["intrattabile"]}
+ ],
+
+"intransigence": [
+  {"id":7942,"text":["intransigenza"]}
+ ],
+
+"intraocular": [
+  {"id":7943,"text":["intraoculare"]}
+ ],
+
+"intricate": [
+  {"id":7944,"text":["intricato"]}
+ ],
+
+"intrigue": [
+  {"id":7945,"text":["intrigo"]}
+ ],
+
+"intriguing": [
+  {"id":7946,"text":["intrigante"]}
+ ],
+
+"intrinsic": [
+  {"id":7947,"text":["intrinseco"]}
+ ],
+
+"intrinsically": [
+  {"id":7948,"text":["intrinsecamente"]}
+ ],
+
+"introduce": [
+  {"id":7949,"text":["introdurre"]}
+ ],
+
+"introduction": [
+  {"id":7950,"text":["introduzione"]}
+ ],
+
+"introductory": [
+  {"id":7951,"text":["introduttore"]}
+ ],
+
+"introspection": [
+  {"id":7952,"text":["introspezione"]}
+ ],
+
+"introspective": [
+  {"id":7953,"text":["introspettivo"]}
+ ],
+
+"introversion": [
+  {"id":7954,"text":["introversione"]}
+ ],
+
+"intruder": [
+  {"id":7955,"text":["intruso"]}
+ ],
+
+"intrusion": [
+  {"id":7956,"text":["intrusione"]}
+ ],
+
+"intrusive": [
+  {"id":7957,"text":["intruso"]}
+ ],
+
+"intubation": [
+  {"id":7958,"text":["intubazione"]}
+ ],
+
+"intuition": [
+  {"id":7959,"text":["intuizione"]}
+ ],
+
+"intuitive": [
+  {"id":7960,"text":["intuitivo"]}
+ ],
+
+"intuitively": [
+  {"id":7961,"text":["intuitivamente"]}
+ ],
+
+"inulin": [
+  {"id":7962,"text":["inulina"]}
+ ],
+
+"inundate": [
+  {"id":7963,"text":["inondare"]}
+ ],
+
+"inundation": [
+  {"id":7964,"text":["inondazione"]}
+ ],
+
+"invade": [
+  {"id":7965,"text":["invadere"]}
+ ],
+
+"invalid": [
+  {"id":7966,"text":["invalido"]},
+  {"id":7967,"text":["nullo"]}
+ ],
+
+"invalidate": [
+  {"id":7968,"text":["invalidare"]}
+ ],
+
+"invalidation": [
+  {"id":7969,"text":["annullamento"]}
+ ],
+
+"invaluable": [
+  {"id":7970,"text":["invalutabile"]}
+ ],
+
+"invariable": [
+  {"id":7971,"text":["invariabile"]}
+ ],
+
+"invariably": [
+  {"id":7972,"text":["invariabilmente"]}
+ ],
+
+"invariance": [
+  {"id":7973,"text":["invarianza"]}
+ ],
+
+"invariant": [
+  {"id":7974,"text":["invariante"]}
+ ],
+
+"invasion": [
+  {"id":7975,"text":["invasione"]}
+ ],
+
+"invent": [
+  {"id":7976,"text":["inventare"]}
+ ],
+
+"invention": [
+  {"id":7977,"text":["invenzione"]}
+ ],
+
+"inventive": [
+  {"id":7978,"text":["inventivo"]}
+ ],
+
+"inventiveness": [
+  {"id":7979,"text":["inventiva"]}
+ ],
+
+"inventor": [
+  {"id":7980,"text":["inventore"]}
+ ],
+
+"inventory": [
+  {"id":7981,"text":["inventariare"]},
+  {"id":7982,"text":["inventario"]}
+ ],
+
+"inversely": [
+  {"id":7983,"text":["inversamente"]}
+ ],
+
+"invert": [
+  {"id":7984,"text":["invertire"]}
+ ],
+
+"invertible": [
+  {"id":7985,"text":["invertibile"]}
+ ],
+
+"invest": [
+  {"id":7986,"text":["investire"]}
+ ],
+
+"investigate": [
+  {"id":7987,"text":["indagare"]},
+  {"id":7988,"text":["investigare"]}
+ ],
+
+"investigation": [
+  {"id":7989,"text":["investigazione"]}
+ ],
+
+"investigator": [
+  {"id":7990,"text":["investigatore"]}
+ ],
+
+"investiture": [
+  {"id":7991,"text":["investitura"]}
+ ],
+
+"investment": [
+  {"id":7992,"text":["investimento"]}
+ ],
+
+"invincible": [
+  {"id":7993,"text":["invincibile"]}
+ ],
+
+"inviolable": [
+  {"id":7994,"text":["inviolabile"]}
+ ],
+
+"invisible": [
+  {"id":7995,"text":["invisibile"]}
+ ],
+
+"invitation": [
+  {"id":7996,"text":["invito"]}
+ ],
+
+"invite": [
+  {"id":7997,"text":["invitare"]}
+ ],
+
+"invited": [
+  {"id":7998,"text":["invitato"]}
+ ],
+
+"invocation": [
+  {"id":7999,"text":["invocazione"]}
+ ],
+
+"invoice": [
+  {"id":8000,"text":["fattura"]},
+  {"id":8001,"text":["fatturare"]}
+ ],
+
+"invoke": [
+  {"id":8002,"text":["invocare"]}
+ ],
+
+"involution": [
+  {"id":8003,"text":["involuzione"]}
+ ],
+
+"involve": [
+  {"id":8004,"text":["coinvolgere"]}
+ ],
+
+"involvement": [
+  {"id":8005,"text":["coinvolgimento"]}
+ ],
+
+"inwardly": [
+  {"id":8006,"text":["interiormente"]}
+ ],
+
+"iodide": [
+  {"id":8007,"text":["ioduro"]}
+ ],
+
+"iodine": [
+  {"id":8008,"text":["iodio"]}
+ ],
+
+"iodized": [
+  {"id":8009,"text":["iodato"]}
+ ],
+
+"ion": [
+  {"id":8010,"text":["ione"]}
+ ],
+
+"ionian": [
+  {"id":8011,"text":["ionico"]}
+ ],
+
+"ionic": [
+  {"id":8012,"text":["ionico"]}
+ ],
+
+"ionisation": [
+  {"id":8013,"text":["ionizzazione"]}
+ ],
+
+"ionization": [
+  {"id":8014,"text":["ionizzazione"]}
+ ],
+
+"ionosphere": [
+  {"id":8015,"text":["ionosfera"]}
+ ],
+
+"iranian": [
+  {"id":8016,"text":["iraniano"]}
+ ],
+
+"Iraqi": [
+  {"id":8017,"text":["iracheno"]}
+ ],
+
+"irascible": [
+  {"id":8018,"text":["irascibile"]}
+ ],
+
+"ire": [
+  {"id":8019,"text":["ira"]}
+ ],
+
+"Ireland": [
+  {"id":8020,"text":["Irlanda"]}
+ ],
+
+"iridescence": [
+  {"id":8021,"text":["iridescenza"]}
+ ],
+
+"iridescent": [
+  {"id":8022,"text":["iridescente"]}
+ ],
+
+"iridium": [
+  {"id":8023,"text":["iridio"]}
+ ],
+
+"iridotomy": [
+  {"id":8024,"text":["iridotomia"]}
+ ],
+
+"iris": [
+  {"id":8025,"text":["iride"]},
+  {"id":8026,"text":["iris"]}
+ ],
+
+"irish": [
+  {"id":8027,"text":["irlandese"]}
+ ],
+
+"iron": [
+  {"id":8028,"text":["ferreo"]},
+  {"id":8029,"text":["ferro"]},
+  {"id":8030,"text":["stirare"]}
+ ],
+
+"ironic": [
+  {"id":8031,"text":["ironico"]}
+ ],
+
+"ironically": [
+  {"id":8032,"text":["ironicamente"]}
+ ],
+
+"ironmongery": [
+  {"id":8033,"text":["ferramenta"]}
+ ],
+
+"irony": [
+  {"id":8034,"text":["ironia"]}
+ ],
+
+"irradiation": [
+  {"id":8035,"text":["irradiazione"]}
+ ],
+
+"irrational": [
+  {"id":8036,"text":["irrazionale"]}
+ ],
+
+"irrationalist": [
+  {"id":8037,"text":["irrazionalista"]}
+ ],
+
+"irrefutable": [
+  {"id":8038,"text":["irrifiutabile"]}
+ ],
+
+"irregular": [
+  {"id":8039,"text":["irregolare"]}
+ ],
+
+"irrelevant": [
+  {"id":8040,"text":["irrilevante"]}
+ ],
+
+"irremediable": [
+  {"id":8041,"text":["irrimediabile"]}
+ ],
+
+"irremediably": [
+  {"id":8042,"text":["irrimediabilmente"]}
+ ],
+
+"irreparable": [
+  {"id":8043,"text":["irreparabile"]}
+ ],
+
+"irreplaceable": [
+  {"id":8044,"text":["insostituibile"]}
+ ],
+
+"irrepressible": [
+  {"id":8045,"text":["incontenibile"]}
+ ],
+
+"irresponsible": [
+  {"id":8046,"text":["irresponsabile"]}
+ ],
+
+"irresponsibly": [
+  {"id":8047,"text":["irresponsabilmente"]}
+ ],
+
+"irretrievable": [
+  {"id":8048,"text":["irrecuperabile"]}
+ ],
+
+"irreverent": [
+  {"id":8049,"text":["irriverente"]}
+ ],
+
+"irreversible": [
+  {"id":8050,"text":["irreversibile"]}
+ ],
+
+"irrevocable": [
+  {"id":8051,"text":["irrevocabile"]}
+ ],
+
+"irrigate": [
+  {"id":8052,"text":["irrigare"]}
+ ],
+
+"irrigation": [
+  {"id":8053,"text":["irrigazione"]}
+ ],
+
+"irritate": [
+  {"id":8054,"text":["irritare"]}
+ ],
+
+"irritating": [
+  {"id":8055,"text":["irritante"]}
+ ],
+
+"irritation": [
+  {"id":8056,"text":["irritazione"]}
+ ],
+
+"irrotational": [
+  {"id":8057,"text":["irrotazionale"]}
+ ],
+
+"irruption": [
+  {"id":8058,"text":["irruzione"]}
+ ],
+
+"islamic": [
+  {"id":8059,"text":["islamico"]}
+ ],
+
+"islamist": [
+  {"id":8060,"text":["islamista"]}
+ ],
+
+"island": [
+  {"id":8061,"text":["isola"]}
+ ],
+
+"isle": [
+  {"id":8062,"text":["isola"]}
+ ],
+
+"Isle of Man": [
+  {"id":8063,"text":["Isola di Man"]}
+ ],
+
+"isobar": [
+  {"id":8064,"text":["isobara"]}
+ ],
+
+"isobaric": [
+  {"id":8065,"text":["isobarico"]}
+ ],
+
+"isochronic": [
+  {"id":8066,"text":["isocronico"]}
+ ],
+
+"isogamy": [
+  {"id":8067,"text":["isogamia"]}
+ ],
+
+"isolate": [
+  {"id":8068,"text":["isolare"]}
+ ],
+
+"isolated": [
+  {"id":8069,"text":["isolato"]}
+ ],
+
+"isolation": [
+  {"id":8070,"text":["isolamento"]}
+ ],
+
+"isolationism": [
+  {"id":8071,"text":["isolazionismo"]}
+ ],
+
+"isolationist": [
+  {"id":8072,"text":["isolazionista"]}
+ ],
+
+"isomer": [
+  {"id":8073,"text":["isomero"]}
+ ],
+
+"isomery": [
+  {"id":8074,"text":["isomeria"]}
+ ],
+
+"isometric": [
+  {"id":8075,"text":["isometrico"]}
+ ],
+
+"isometry": [
+  {"id":8076,"text":["isometria"]}
+ ],
+
+"isomorphic": [
+  {"id":8077,"text":["isomorfico"]}
+ ],
+
+"isomorphism": [
+  {"id":8078,"text":["isomorfismo"]}
+ ],
+
+"isostasy": [
+  {"id":8079,"text":["isostasia"]}
+ ],
+
+"isotherm": [
+  {"id":8080,"text":["isoterma"]}
+ ],
+
+"isothermal": [
+  {"id":8081,"text":["isotermo"]}
+ ],
+
+"isotope": [
+  {"id":8082,"text":["isotopo"]}
+ ],
+
+"isotopic": [
+  {"id":8083,"text":["isotopico"]}
+ ],
+
+"isotropic": [
+  {"id":8084,"text":["isotropo"]}
+ ],
+
+"isotropy": [
+  {"id":8085,"text":["isotropia"]}
+ ],
+
+"Israel": [
+  {"id":8086,"text":["israele"]}
+ ],
+
+"Israeli": [
+  {"id":8087,"text":["israeliano"]}
+ ],
+
+"issue": [
+  {"id":8088,"text":["affare"]},
+  {"id":8089,"text":["problema"]},
+  {"id":8090,"text":["pubblicare"]},
+  {"id":8091,"text":["pubblicazione"]}
+ ],
+
+"isthmus": [
+  {"id":8092,"text":["istmo"]}
+ ],
+
+"Italian": [
+  {"id":8093,"text":["italiano"]}
+ ],
+
+"italianisation": [
+  {"id":8094,"text":["italianizzazione"]}
+ ],
+
+"Italy": [
+  {"id":8095,"text":["Italia"]}
+ ],
+
+"itch": [
+  {"id":8096,"text":["prurito"]}
+ ],
+
+"item": [
+  {"id":8097,"text":["elemento"]}
+ ],
+
+"iteration": [
+  {"id":8098,"text":["iterazione"]}
+ ],
+
+"itinerant": [
+  {"id":8099,"text":["itinerante"]}
+ ],
+
+"itself": [
+  {"id":8100,"text":["stesso"]}
+ ],
+
+"ivory": [
+  {"id":8101,"text":["avorio"]}
+ ],
+
+"Ivory Coast": [
+  {"id":8102,"text":["Costa d'Avorio"]}
+ ]}

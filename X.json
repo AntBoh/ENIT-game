@@ -1,17 +1,19 @@
-{
-  "xenon": [
-    {"id": 15990,"text": ["xeno"]}
-  ],
-  "xenophobe": [
-    {"id": 15991,"text": ["xenofobo"]}
-  ],
-  "xenophobia": [
-    {"id": 15992,"text": ["xenofobia"]}
-  ],
-  "Xerxes": [
-    {"id": 15993,"text": ["Serse"]}
-  ],
-  "xylophone": [
-    {"id": 15994,"text": ["xilofono"]}
-  ]
-}
+{"xenon": [
+  {"id":15990,"text":["xeno"]}
+ ],
+
+"xenophobe": [
+  {"id":15991,"text":["xenofobo"]}
+ ],
+
+"xenophobia": [
+  {"id":15992,"text":["xenofobia"]}
+ ],
+
+"Xerxes": [
+  {"id":15993,"text":["Serse"]}
+ ],
+
+"xylophone": [
+  {"id":15994,"text":["xilofono"]}
+ ]}

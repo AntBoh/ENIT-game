@@ -1,78 +1,100 @@
-{
-  "zambia": [
-    {"id": 16036,"text": ["zambia"]}
-  ],
-  "zarzuela": [
-    {"id": 16037,"text": ["zarzuela"]}
-  ],
-  "zeal": [
-    {"id": 16038,"text": ["zelo"]}
-  ],
-  "zebra": [
-    {"id": 16039,"text": ["zebra"]}
-  ],
-  "zen": [
-    {"id": 16040,"text": ["zen"]}
-  ],
-  "zero": [
-    {"id": 16041,"text": ["zero"]}
-  ],
-  "zimbabwe": [
-    {"id": 16042,"text": ["zimbabwe"]}
-  ],
-  "zinc": [
-    {"id": 16043,"text": ["zinco"]}
-  ],
-  "zionism": [
-    {"id": 16044,"text": ["sionismo"]}
-  ],
-  "zip": [
-    {"id": 16045,"text": ["cerniera"]}
-  ],
-  "zirconium": [
-    {"id": 16046,"text": ["zirconio"]}
-  ],
-  "zither": [
-    {"id": 16047,"text": ["cetra"]}
-  ],
-  "zodiac": [
-    {"id": 16048,"text": ["zodiaco"]}
-  ],
-  "zonal": [
-    {"id": 16049,"text": ["zonale"]}
-  ],
-  "zonation": [
-    {"id": 16050,"text": ["zonazione"]}
-  ],
-  "zone": [
-    {"id": 16051,"text": ["circondare"]},
-    {"id": 16052,"text": ["zona"]}
-  ],
-  "zoning": [
-    {"id": 16053,"text": ["zonificazione"]}
-  ],
-  "zonule": [
-    {"id": 16054,"text": ["zonula"]}
-  ],
-  "zoo": [
-    {"id": 16055,"text": ["zoo"]}
-  ],
-  "zoogeography": [
-    {"id": 16056,"text": ["zoogeografia"]}
-  ],
-  "zoological": [
-    {"id": 16057,"text": ["zoologico"]}
-  ],
-  "zoology": [
-    {"id": 16058,"text": ["zoologia"]}
-  ],
-  "zoom": [
-    {"id": 16059,"text": ["zoom"]}
-  ],
-  "zygomatic": [
-    {"id": 16060,"text": ["zigomatico"]}
-  ],
-  "zygote": [
-    {"id": 16061,"text": ["zigote"]}
-  ]
-}
+{"zambia": [
+  {"id":16036,"text":["zambia"]}
+ ],
+
+"zarzuela": [
+  {"id":16037,"text":["zarzuela"]}
+ ],
+
+"zeal": [
+  {"id":16038,"text":["zelo"]}
+ ],
+
+"zebra": [
+  {"id":16039,"text":["zebra"]}
+ ],
+
+"zen": [
+  {"id":16040,"text":["zen"]}
+ ],
+
+"zero": [
+  {"id":16041,"text":["zero"]}
+ ],
+
+"zimbabwe": [
+  {"id":16042,"text":["zimbabwe"]}
+ ],
+
+"zinc": [
+  {"id":16043,"text":["zinco"]}
+ ],
+
+"zionism": [
+  {"id":16044,"text":["sionismo"]}
+ ],
+
+"zip": [
+  {"id":16045,"text":["cerniera"]}
+ ],
+
+"zirconium": [
+  {"id":16046,"text":["zirconio"]}
+ ],
+
+"zither": [
+  {"id":16047,"text":["cetra"]}
+ ],
+
+"zodiac": [
+  {"id":16048,"text":["zodiaco"]}
+ ],
+
+"zonal": [
+  {"id":16049,"text":["zonale"]}
+ ],
+
+"zonation": [
+  {"id":16050,"text":["zonazione"]}
+ ],
+
+"zone": [
+  {"id":16051,"text":["circondare"]},
+  {"id":16052,"text":["zona"]}
+ ],
+
+"zoning": [
+  {"id":16053,"text":["zonificazione"]}
+ ],
+
+"zonule": [
+  {"id":16054,"text":["zonula"]}
+ ],
+
+"zoo": [
+  {"id":16055,"text":["zoo"]}
+ ],
+
+"zoogeography": [
+  {"id":16056,"text":["zoogeografia"]}
+ ],
+
+"zoological": [
+  {"id":16057,"text":["zoologico"]}
+ ],
+
+"zoology": [
+  {"id":16058,"text":["zoologia"]}
+ ],
+
+"zoom": [
+  {"id":16059,"text":["zoom"]}
+ ],
+
+"zygomatic": [
+  {"id":16060,"text":["zigomatico"]}
+ ],
+
+"zygote": [
+  {"id":16061,"text":["zigote"]}
+ ]}

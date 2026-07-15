@@ -6,8 +6,42 @@ from collections import defaultdict
 letters = list(string.ascii_uppercase)
 
 
-# italiano -> lista di oggetti inglesi con id
-it_en = defaultdict(list)
+def save_compact_json(data, filename):
+
+    text = json.dumps(
+        data,
+        ensure_ascii=False,
+        separators=(",", ":")
+    )
+
+    # sistema gli oggetti delle traduzioni
+    text = text.replace("},{", "},\n  {")
+
+    # mette gli array delle parole su righe separate
+    text = text.replace(
+        ":[{",
+        ": [\n  {"
+    )
+
+    # chiusura degli array
+    text = text.replace(
+        "}]",
+        "}\n ]"
+    )
+
+    # separazione parole principali
+    text = text.replace(
+        "],\"",
+        "],\n\n\""
+    )
+
+    with open(filename, "w", encoding="utf-8") as f:
+        f.write(text)
+
+
+
+# italiano -> gruppi inglesi
+it_en = defaultdict(lambda: defaultdict(set))
 
 
 for letter in letters:
@@ -23,102 +57,47 @@ for letter in letters:
         data = json.load(f)
 
 
-    for en_word, translations in data.items():
+    for en_word, groups in data.items():
 
-        for item in translations:
+        for group in groups:
 
-            en_id = item["id"]
+            group_id = group["id"]
 
-            for it_word in item["text"]:
+            for it_word in group["text"]:
 
-                it_en[it_word].append({
-                    "id": en_id,
-                    "text": [en_word]
-                })
+                it_en[it_word][group_id].add(en_word)
 
 
-
-class CompactEncoder(json.JSONEncoder):
-
-    def encode(self, obj):
-
-        if isinstance(obj, dict):
-
-            # caso:
-            # {"id":5,"text":["word"]}
-            if (
-                "id" in obj
-                and "text" in obj
-                and len(obj) == 2
-            ):
-                return (
-                    '{"id":'
-                    + str(obj["id"])
-                    + ',"text":'
-                    + json.dumps(
-                        obj["text"],
-                        ensure_ascii=False,
-                        separators=(",", ":")
-                    )
-                    + '}'
-                )
-
-
-            items = []
-
-            for k, v in obj.items():
-                items.append(
-                    json.dumps(k, ensure_ascii=False)
-                    + ": "
-                    + self.encode(v)
-                )
-
-            return "{\n" + ",\n".join(items) + "\n}"
-
-
-        elif isinstance(obj, list):
-
-            # lista di traduzioni
-            if (
-                obj
-                and all(
-                    isinstance(x, dict)
-                    and "id" in x
-                    and "text" in x
-                    for x in obj
-                )
-            ):
-                return "[\n" + ",\n".join(
-                    "  " + self.encode(x)
-                    for x in obj
-                ) + "\n]"
-
-
-            return json.dumps(
-                obj,
-                ensure_ascii=False,
-                separators=(",", ":")
-            )
-
-
-        else:
-            return json.dumps(
-                obj,
-                ensure_ascii=False
-            )
-
-
-
-# crea file italiani divisi per lettera
 
 for letter in letters:
 
     bucket = {}
 
-    for it_word, translations in it_en.items():
+    for it_word, groups in it_en.items():
 
-        if it_word[0].upper() == letter:
-            bucket[it_word] = translations
+        if not it_word:
+            continue
+
+        if it_word[0].upper() != letter:
+            continue
+
+
+        translations = []
+
+        for group_id, words in groups.items():
+
+            translations.append({
+                "id": group_id,
+                "text": sorted(words, key=str.lower)
+            })
+
+
+        translations.sort(
+            key=lambda x: x["id"]
+        )
+
+        bucket[it_word] = translations
+
 
 
     bucket = dict(sorted(
@@ -129,18 +108,9 @@ for letter in letters:
 
     filename = f"it_en_{letter}.json"
 
-
-    with open(filename, "w", encoding="utf-8") as f:
-
-        f.write(
-            CompactEncoder(
-                ensure_ascii=False
-            ).encode(bucket)
-        )
-
+    save_compact_json(bucket, filename)
 
     print("Creato", filename)
-
 
 
 print("FINITO")

@@ -1,1825 +1,2399 @@
-{
-"d'ora in avanti": [
+{"d'ora in avanti": [
   {"id":6211,"text":["from now on"]},
   {"id":6945,"text":["henceforth"]},
   {"id":6965,"text":["hereby"]}
-],
+ ],
+
 "da": [
   {"id":2112,"text":["by"]},
   {"id":6209,"text":["from"]},
   {"id":10041,"text":["of"]},
   {"id":13301,"text":["since"]}
-],
+ ],
+
 "da nessuna parte": [
   {"id":9907,"text":["nowhere"]}
-],
+ ],
+
 "da parte": [
   {"id":1063,"text":["aside"]}
-],
+ ],
+
 "da qualche parte": [
   {"id":13561,"text":["somewhere"]}
-],
+ ],
+
 "dado": [
   {"id":4261,"text":["dice"]},
   {"id":4271,"text":["die"]},
   {"id":9932,"text":["nut"]}
-],
+ ],
+
 "daltonismo": [
   {"id":3777,"text":["daltonism"]}
-],
+ ],
+
 "dama": [
   {"id":2546,"text":["checkers"]},
   {"id":8289,"text":["lady"]}
-],
+ ],
+
 "Damasco": [
   {"id":3781,"text":["Damascus"]}
-],
+ ],
+
 "damigiana": [
   {"id":2270,"text":["carboy"]},
   {"id":4003,"text":["demijohn"]}
-],
+ ],
+
 "danese": [
   {"id":3796,"text":["Danish"]}
-],
+ ],
+
 "Danimarca": [
   {"id":4045,"text":["Denmark"]}
-],
+ ],
+
 "danneggiare": [
   {"id":3779,"text":["damage"]},
   {"id":6819,"text":["harm"]}
-],
+ ],
+
 "danno": [
   {"id":3780,"text":["damage"]},
   {"id":6820,"text":["harm"]}
-],
+ ],
+
 "dannoso": [
   {"id":6822,"text":["harmful"]},
   {"id":9908,"text":["noxious"]}
-],
+ ],
+
 "danza": [
   {"id":3787,"text":["dance"]},
   {"id":3791,"text":["dancing"]}
-],
+ ],
+
 "danzare": [
   {"id":3788,"text":["dance"]}
-],
+ ],
+
 "danzatore": [
   {"id":3790,"text":["dancer"]}
-],
+ ],
+
 "danzatricedelventre": [
   {"id":1579,"text":["bellydancer"]}
-],
+ ],
+
 "dappertutto": [
   {"id":5363,"text":["everywhere"]}
-],
+ ],
+
 "dapprima": [
   {"id":1145,"text":["at first"]}
-],
+ ],
+
 "daquando": [
   {"id":13302,"text":["since"]}
-],
+ ],
+
 "dardo": [
   {"id":3803,"text":["dart"]}
-],
+ ],
+
 "dare": [
   {"id":6466,"text":["give"]}
-],
+ ],
+
 "dare per scontato": [
   {"id":14375,"text":["take for granted"]}
-],
+ ],
+
 "dare un pugno": [
   {"id":11665,"text":["punch"]}
-],
+ ],
+
 "dasistema": [
   {"id":14344,"text":["systematically"]}
-],
+ ],
+
 "data": [
   {"id":3808,"text":["date"]}
-],
+ ],
+
 "datare": [
   {"id":3809,"text":["date"]}
-],
+ ],
+
 "datazione": [
   {"id":3811,"text":["dating"]}
-],
+ ],
+
 "dato": [
   {"id":3806,"text":["data"]}
-],
+ ],
+
 "datore di lavoro": [
   {"id":5028,"text":["employer"]}
-],
+ ],
+
 "dattero": [
   {"id":3810,"text":["date"]}
-],
+ ],
+
 "dattilografo": [
   {"id":15175,"text":["typist"]}
-],
+ ],
+
 "davanti": [
   {"id":7453,"text":["in front"]}
-],
+ ],
+
 "davvero": [
   {"id":11917,"text":["really"]}
-],
+ ],
+
 "dea": [
   {"id":6533,"text":["goddess"]}
-],
+ ],
+
 "debitamente": [
   {"id":11529,"text":["properly"]}
-],
+ ],
+
 "debito": [
   {"id":3839,"text":["debit"]},
   {"id":3840,"text":["debt"]}
-],
+ ],
+
 "debitore": [
   {"id":3841,"text":["debtor"]}
-],
+ ],
+
 "debole": [
   {"id":5715,"text":["feeble"]},
   {"id":15788,"text":["weak"]}
-],
+ ],
+
 "debolezza": [
   {"id":15792,"text":["weakness"]}
-],
+ ],
+
 "debolmente": [
   {"id":15791,"text":["weakly"]}
-],
+ ],
+
 "debuttare": [
   {"id":3842,"text":["debut"]}
-],
+ ],
+
 "debutto": [
   {"id":3843,"text":["debut"]}
-],
+ ],
+
 "decadente": [
   {"id":3846,"text":["decadent"]}
-],
+ ],
+
 "decadenza": [
   {"id":3845,"text":["decadence"]}
-],
+ ],
+
 "decalcomania": [
   {"id":3848,"text":["decalcomania"]}
-],
+ ],
+
 "decano": [
   {"id":3830,"text":["dean"]}
-],
+ ],
+
 "decantare": [
   {"id":3849,"text":["decant"]}
-],
+ ],
+
 "decantazione": [
   {"id":3850,"text":["decantation"]}
-],
+ ],
+
 "decapitazione": [
   {"id":1562,"text":["beheading"]},
   {"id":3851,"text":["decapitation"]}
-],
+ ],
+
 "decedere": [
   {"id":4272,"text":["die"]}
-],
+ ],
+
 "decelerazione": [
   {"id":3856,"text":["deceleration"]}
-],
+ ],
+
 "decennio": [
   {"id":3844,"text":["decade"]}
-],
+ ],
+
 "decente": [
   {"id":3859,"text":["decent"]}
-],
+ ],
+
 "decentralizzazione": [
   {"id":3860,"text":["decentralisation"]},
   {"id":3862,"text":["decentralization"]}
-],
+ ],
+
 "decenza": [
   {"id":3858,"text":["decency"]}
-],
+ ],
+
 "decesso": [
   {"id":3833,"text":["death"]},
   {"id":3853,"text":["decease"]},
   {"id":4006,"text":["demise"]}
-],
+ ],
+
 "decibel": [
   {"id":3864,"text":["decibel"]}
-],
+ ],
+
 "decidere": [
   {"id":3865,"text":["decide"]}
-],
+ ],
+
 "decifrazione": [
   {"id":3869,"text":["decipherment"]},
   {"id":3884,"text":["decoding"]}
-],
+ ],
+
 "decimale": [
   {"id":3867,"text":["decimal"]}
-],
+ ],
+
 "decimalizzazione": [
   {"id":3868,"text":["decimalisation"]}
-],
+ ],
+
 "decimo": [
   {"id":14516,"text":["tenth"]}
-],
+ ],
+
 "decina": [
   {"id":14498,"text":["ten"]}
-],
+ ],
+
 "decisamente": [
   {"id":3866,"text":["decidedly"]},
   {"id":3873,"text":["decisively"]},
   {"id":3941,"text":["definitely"]}
-],
+ ],
+
 "decisione": [
   {"id":3870,"text":["decision"]},
   {"id":12316,"text":["resolve"]}
-],
+ ],
+
 "decisivo": [
   {"id":3871,"text":["decisive"]}
-],
+ ],
+
 "declinare": [
   {"id":3880,"text":["decline"]}
-],
+ ],
+
 "declinazione": [
   {"id":3878,"text":["declension"]},
   {"id":3879,"text":["declination"]}
-],
+ ],
+
 "decodificatore": [
   {"id":3883,"text":["decoder"]}
-],
+ ],
+
 "decollare": [
   {"id":14376,"text":["take off"]}
-],
+ ],
+
 "decollo": [
   {"id":14377,"text":["take off"]}
-],
+ ],
+
 "decolonizzazione": [
   {"id":3885,"text":["decolonisation"]},
   {"id":3886,"text":["decolonization"]}
-],
+ ],
+
 "decolorazione": [
   {"id":3887,"text":["decolorisation"]},
   {"id":3888,"text":["decolorization"]},
   {"id":3889,"text":["decolourisation"]},
   {"id":3890,"text":["decolourization"]}
-],
+ ],
+
 "decompilare": [
   {"id":3891,"text":["decompile"]}
-],
+ ],
+
 "decomporre": [
   {"id":3892,"text":["decompose"]}
-],
+ ],
+
 "decomposizione": [
   {"id":3894,"text":["decomposition"]}
-],
+ ],
+
 "decompressione": [
   {"id":3896,"text":["decompression"]}
-],
+ ],
+
 "deconcentrazione": [
   {"id":3897,"text":["deconcentration"]}
-],
+ ],
+
 "decongestionare": [
   {"id":3898,"text":["decongest"]}
-],
+ ],
+
 "decontaminazione": [
   {"id":3899,"text":["decontamination"]}
-],
+ ],
+
 "decorare": [
   {"id":3900,"text":["decorate"]}
-],
+ ],
+
 "decorativo": [
   {"id":3903,"text":["decorative"]}
-],
+ ],
+
 "decorazione": [
   {"id":3902,"text":["decoration"]}
-],
+ ],
+
 "decotto": [
   {"id":3882,"text":["decoction"]}
-],
+ ],
+
 "decrementare": [
   {"id":3904,"text":["decrease"]}
-],
+ ],
+
 "decremento": [
   {"id":3905,"text":["decrease"]}
-],
+ ],
+
 "decrescente": [
   {"id":3908,"text":["decreasing"]}
-],
+ ],
+
 "decretare": [
   {"id":3910,"text":["decree"]}
-],
+ ],
+
 "decreto": [
   {"id":3911,"text":["decree"]}
-],
+ ],
+
 "dedicare": [
   {"id":3912,"text":["dedicate"]},
   {"id":4226,"text":["devote"]}
-],
+ ],
+
 "dedizione": [
   {"id":3913,"text":["dedication"]}
-],
+ ],
+
 "deducibile": [
   {"id":3915,"text":["deductible"]}
-],
+ ],
+
 "dedurre": [
   {"id":3914,"text":["deduce"]}
-],
+ ],
+
 "deduzione": [
   {"id":3916,"text":["deduction"]}
-],
+ ],
+
 "defecazione": [
   {"id":3927,"text":["defecation"]}
-],
+ ],
+
 "deficiente": [
   {"id":3934,"text":["deficient"]}
-],
+ ],
+
 "deficit": [
   {"id":3935,"text":["deficit"]}
-],
+ ],
+
 "definibile": [
   {"id":3936,"text":["definable"]}
-],
+ ],
+
 "definire": [
   {"id":3937,"text":["define"]}
-],
+ ],
+
 "definitivamente": [
   {"id":3943,"text":["definitively"]}
-],
+ ],
+
 "definitivo": [
   {"id":3938,"text":["definite"]},
   {"id":15190,"text":["ultimate"]}
-],
+ ],
+
 "definizione": [
   {"id":3942,"text":["definition"]}
-],
+ ],
+
 "deflazione": [
   {"id":3944,"text":["deflation"]}
-],
+ ],
+
 "deflettore": [
   {"id":3946,"text":["deflector"]}
-],
+ ],
+
 "defogliazione": [
   {"id":3947,"text":["defoliation"]}
-],
+ ],
+
 "deformare": [
   {"id":15743,"text":["warp"]}
-],
+ ],
+
 "deformazione": [
   {"id":3948,"text":["deformation"]},
   {"id":15744,"text":["warp"]}
-],
+ ],
+
 "deframmentazione": [
   {"id":3949,"text":["defragmentation"]}
-],
+ ],
+
 "defraudare": [
   {"id":3950,"text":["defraud"]}
-],
+ ],
+
 "defunto": [
   {"id":3854,"text":["deceased"]}
-],
+ ],
+
 "degenerazione": [
   {"id":3952,"text":["degeneration"]}
-],
+ ],
+
 "degno": [
   {"id":15973,"text":["worthy"]}
-],
+ ],
+
 "degradante": [
   {"id":3956,"text":["degrading"]}
-],
+ ],
+
 "degradare": [
   {"id":3954,"text":["degrade"]}
-],
+ ],
+
 "degradato": [
   {"id":3955,"text":["degraded"]}
-],
+ ],
+
 "degradazione": [
   {"id":391,"text":["aggravation"]},
   {"id":3953,"text":["degradation"]}
-],
+ ],
+
 "degustazione": [
   {"id":14426,"text":["tasting"]}
-],
+ ],
+
 "deidrogenazione": [
   {"id":3963,"text":["dehydrogenation"]}
-],
+ ],
+
 "deindustrializzazione": [
   {"id":3965,"text":["deindustrialisation"]},
   {"id":3966,"text":["deindustrialization"]}
-],
+ ],
+
 "deionizzazione": [
   {"id":3967,"text":["deionisation"]}
-],
+ ],
+
 "delazione": [
   {"id":3968,"text":["delation"]},
   {"id":4064,"text":["denunciation"]}
-],
+ ],
+
 "delegare": [
   {"id":3971,"text":["delegate"]}
-],
+ ],
+
 "delegazione": [
   {"id":3973,"text":["delegation"]}
-],
+ ],
+
 "delest": [
   {"id":4789,"text":["east"]}
-],
+ ],
+
 "delfino": [
   {"id":4575,"text":["dolphin"]}
-],
+ ],
+
 "deliberatamente": [
   {"id":3977,"text":["deliberately"]}
-],
+ ],
+
 "deliberato": [
   {"id":3976,"text":["deliberate"]}
-],
+ ],
+
 "deliberazione": [
   {"id":3978,"text":["deliberation"]}
-],
+ ],
+
 "delicatezza": [
   {"id":3979,"text":["delicacy"]}
-],
+ ],
+
 "delicato": [
   {"id":3980,"text":["delicate"]}
-],
+ ],
+
 "delimitare": [
   {"id":3984,"text":["delimit"]}
-],
+ ],
+
 "delimitatore": [
   {"id":3986,"text":["delimiter"]}
-],
+ ],
+
 "delimitazione": [
   {"id":3985,"text":["delimitation"]}
-],
+ ],
+
 "delineare": [
   {"id":10273,"text":["outline"]}
-],
+ ],
+
 "delineazione": [
   {"id":4631,"text":["draftsmanship"]}
-],
+ ],
+
 "delinquente": [
   {"id":3988,"text":["delinquent"]}
-],
+ ],
+
 "delinquenza": [
   {"id":3987,"text":["delinquency"]}
-],
+ ],
+
 "delitto": [
   {"id":3616,"text":["crime"]}
-],
+ ],
+
 "delizia": [
   {"id":3982,"text":["delight"]}
-],
+ ],
+
 "delizioso": [
   {"id":3981,"text":["delicious"]},
   {"id":3983,"text":["delightful"]}
-],
+ ],
+
 "delocalizzazione": [
   {"id":12163,"text":["relocation"]}
-],
+ ],
+
 "deltoide": [
   {"id":3994,"text":["deltoid"]}
-],
+ ],
+
 "delucidare": [
   {"id":4968,"text":["elucidate"]}
-],
+ ],
+
 "deludente": [
   {"id":4362,"text":["disappointing"]}
-],
+ ],
+
 "deludere": [
   {"id":4361,"text":["disappoint"]}
-],
+ ],
+
 "delusione": [
   {"id":4363,"text":["disappointment"]}
-],
+ ],
+
 "demagogia": [
   {"id":3996,"text":["demagogy"]}
-],
+ ],
+
 "demagogico": [
   {"id":3995,"text":["demagogic"]}
-],
+ ],
+
 "demarcazione": [
   {"id":4000,"text":["demarcation"]}
-],
+ ],
+
 "demente": [
   {"id":7731,"text":["insane"]}
-],
+ ],
+
 "demenza": [
   {"id":4002,"text":["dementia"]}
-],
+ ],
+
 "demineralizzazione": [
   {"id":4004,"text":["demineralisation"]},
   {"id":4005,"text":["demineralization"]}
-],
+ ],
+
 "demistificazione": [
   {"id":4036,"text":["demystification"]}
-],
+ ],
+
 "democraticamente": [
   {"id":4013,"text":["democratically"]}
-],
+ ],
+
 "democratico": [
   {"id":4011,"text":["democrat"]},
   {"id":4012,"text":["democratic"]}
-],
+ ],
+
 "democratizzazione": [
   {"id":4014,"text":["democratisation"]}
-],
+ ],
+
 "democrazia": [
   {"id":4010,"text":["democracy"]}
-],
+ ],
+
 "Democrito": [
   {"id":4015,"text":["Democritus"]}
-],
+ ],
+
 "demodulatore": [
   {"id":4017,"text":["demodulator"]}
-],
+ ],
+
 "demodulazione": [
   {"id":4016,"text":["demodulation"]}
-],
+ ],
+
 "demografia": [
   {"id":4021,"text":["demography"]}
-],
+ ],
+
 "demograficamente": [
   {"id":4020,"text":["demographically"]}
-],
+ ],
+
 "demografico": [
   {"id":4019,"text":["demographical"]}
-],
+ ],
+
 "demografo": [
   {"id":4018,"text":["demographer"]}
-],
+ ],
+
 "demolire": [
   {"id":4022,"text":["demolish"]}
-],
+ ],
+
 "demolizione": [
   {"id":4023,"text":["demolition"]}
-],
+ ],
+
 "demone": [
   {"id":4024,"text":["demon"]}
-],
+ ],
+
 "demoniaco": [
   {"id":4025,"text":["demoniac"]}
-],
+ ],
+
 "demonizzazione": [
   {"id":4026,"text":["demonisation"]},
   {"id":4027,"text":["demonization"]}
-],
+ ],
+
 "demoralizzare": [
   {"id":4032,"text":["demoralise"]},
   {"id":4034,"text":["demoralize"]}
-],
+ ],
+
 "demoralizzazione": [
   {"id":4031,"text":["demoralisation"]},
   {"id":4033,"text":["demoralization"]}
-],
+ ],
+
 "Demostene": [
   {"id":4035,"text":["Demosthenes"]}
-],
+ ],
+
 "denaro": [
   {"id":9364,"text":["money"]}
-],
+ ],
+
 "denaturazione": [
   {"id":4039,"text":["denaturation"]}
-],
+ ],
+
 "dendrocronologia": [
   {"id":4040,"text":["dendrochronology"]}
-],
+ ],
+
 "dendrologia": [
   {"id":4041,"text":["dendrology"]}
-],
+ ],
+
 "denigrazione": [
   {"id":4043,"text":["denigration"]}
-],
+ ],
+
 "denitrificazione": [
   {"id":4044,"text":["denitrification"]}
-],
+ ],
+
 "denominare": [
   {"id":4046,"text":["denominate"]}
-],
+ ],
+
 "denominatore": [
   {"id":4048,"text":["denominator"]}
-],
+ ],
+
 "denominazione": [
   {"id":4047,"text":["denomination"]}
-],
+ ],
+
 "denotare": [
   {"id":4050,"text":["denote"]}
-],
+ ],
+
 "denotazione": [
   {"id":4049,"text":["denotation"]}
-],
+ ],
+
 "densamente": [
   {"id":4053,"text":["densely"]}
-],
+ ],
+
 "denso": [
   {"id":4052,"text":["dense"]},
   {"id":14628,"text":["thick"]}
-],
+ ],
+
 "dentale": [
   {"id":4056,"text":["dental"]}
-],
+ ],
+
 "dentatura": [
   {"id":4061,"text":["denture"]}
-],
+ ],
+
 "dente": [
   {"id":14810,"text":["tooth"]}
-],
+ ],
+
 "dentifricio": [
   {"id":14812,"text":["toothpaste"]}
-],
+ ],
+
 "dentina": [
   {"id":4058,"text":["dentine"]}
-],
+ ],
+
 "dentista": [
   {"id":4059,"text":["dentist"]}
-],
+ ],
+
 "dentizione": [
   {"id":4060,"text":["dentition"]}
-],
+ ],
+
 "dentro": [
   {"id":7444,"text":["in"]},
   {"id":7748,"text":["inside"]},
   {"id":15933,"text":["within"]}
-],
+ ],
+
 "denudazione": [
   {"id":4062,"text":["denudation"]}
-],
+ ],
+
 "denuncia": [
   {"id":3046,"text":["complaint"]},
   {"id":4065,"text":["denunciation"]}
-],
+ ],
+
 "denunciare": [
   {"id":4051,"text":["denounce"]},
   {"id":12246,"text":["report"]},
   {"id":14126,"text":["sue"]}
-],
+ ],
+
 "denutrizione": [
   {"id":8813,"text":["malnutrition"]}
-],
+ ],
+
 "deodorante": [
   {"id":4068,"text":["deodorant"]}
-],
+ ],
+
 "deontologia": [
   {"id":4070,"text":["deontology"]}
-],
+ ],
+
 "deontologico": [
   {"id":4069,"text":["deontological"]}
-],
+ ],
+
 "depalatalizzazione": [
   {"id":4071,"text":["depalatalisation"]},
   {"id":4072,"text":["depalatalization"]}
-],
+ ],
+
 "depilazione": [
   {"id":4085,"text":["depilation"]}
-],
+ ],
+
 "deplorabile": [
   {"id":4087,"text":["deplorable"]}
-],
+ ],
+
 "depolimerizzazione": [
   {"id":4090,"text":["depolymerisation"]},
   {"id":4091,"text":["depolymerization"]}
-],
+ ],
+
 "deporre": [
   {"id":4094,"text":["depose"]}
-],
+ ],
+
 "deportare": [
   {"id":4092,"text":["deport"]}
-],
+ ],
+
 "deportazione": [
   {"id":4093,"text":["deportation"]}
-],
+ ],
+
 "depositare": [
   {"id":4095,"text":["deposit"]}
-],
+ ],
+
 "depositario": [
   {"id":4099,"text":["depository"]}
-],
+ ],
+
 "deposito": [
   {"id":4096,"text":["deposit"]}
-],
+ ],
+
 "deposizione": [
   {"id":4098,"text":["deposition"]}
-],
+ ],
+
 "depravazione": [
   {"id":4101,"text":["depravation"]}
-],
+ ],
+
 "depressione": [
   {"id":4106,"text":["depression"]}
-],
+ ],
+
 "depresso": [
   {"id":4105,"text":["depressed"]}
-],
+ ],
+
 "deprezzamento": [
   {"id":2540,"text":["cheapening"]},
   {"id":4103,"text":["depreciation"]}
-],
+ ],
+
 "deprezzare": [
   {"id":4102,"text":["depreciate"]}
-],
+ ],
+
 "deprimere": [
   {"id":4104,"text":["depress"]}
-],
+ ],
+
 "depurazione": [
   {"id":11693,"text":["purification"]}
-],
+ ],
+
 "deputato": [
   {"id":4110,"text":["deputy"]}
-],
+ ],
+
 "deputazione": [
   {"id":4109,"text":["deputation"]}
-],
+ ],
+
 "deragliamento": [
   {"id":4112,"text":["derailment"]}
-],
+ ],
+
 "deragliare": [
   {"id":4111,"text":["derail"]}
-],
+ ],
+
 "derapare": [
   {"id":4660,"text":["drift"]}
-],
+ ],
+
 "derisione": [
   {"id":4113,"text":["derision"]}
-],
+ ],
+
 "derivabile": [
   {"id":4114,"text":["derivable"]},
   {"id":4283,"text":["differentiable"]}
-],
+ ],
+
 "derivare": [
   {"id":4118,"text":["derive"]},
   {"id":4286,"text":["differentiate"]}
-],
+ ],
+
 "derivata": [
   {"id":4116,"text":["derivative"]}
-],
+ ],
+
 "derivato": [
   {"id":4117,"text":["derivative"]}
-],
+ ],
+
 "derivazione": [
   {"id":4115,"text":["derivation"]}
-],
+ ],
+
 "dermatologia": [
   {"id":4119,"text":["dermatology"]}
-],
+ ],
+
 "deroga": [
   {"id":4121,"text":["derogation"]}
-],
+ ],
+
 "derogatorio": [
   {"id":4122,"text":["derogatory"]}
-],
+ ],
+
 "desalinizzazione": [
   {"id":4123,"text":["desalination"]}
-],
+ ],
+
 "descrittivo": [
   {"id":4130,"text":["descriptive"]}
-],
+ ],
+
 "descrittore": [
   {"id":4131,"text":["descriptor"]}
-],
+ ],
+
 "descrivere": [
   {"id":4128,"text":["describe"]}
-],
+ ],
+
 "descrivibile": [
   {"id":4127,"text":["describable"]}
-],
+ ],
+
 "descrizione": [
   {"id":4129,"text":["description"]}
-],
+ ],
+
 "desensibilizzazione": [
   {"id":4133,"text":["desensitisation"]}
-],
+ ],
+
 "desertificazione": [
   {"id":4137,"text":["desertification"]},
   {"id":4139,"text":["desertisation"]}
-],
+ ],
+
 "deserto": [
   {"id":4134,"text":["desert"]},
   {"id":5035,"text":["empty"]}
-],
+ ],
+
 "desessualizzazione": [
   {"id":4141,"text":["desexualisation"]}
-],
+ ],
+
 "desiderabile": [
   {"id":4151,"text":["desirable"]}
-],
+ ],
+
 "desiderare": [
   {"id":4152,"text":["desire"]},
   {"id":5643,"text":["fancy"]},
   {"id":15923,"text":["wish"]}
-],
+ ],
+
 "desiderio": [
   {"id":4153,"text":["desire"]},
   {"id":15924,"text":["wish"]}
-],
+ ],
+
 "design": [
   {"id":4144,"text":["design"]}
-],
+ ],
+
 "designare": [
   {"id":868,"text":["appoint"]},
   {"id":4147,"text":["designate"]}
-],
+ ],
+
 "designazione": [
   {"id":4148,"text":["designation"]}
-],
+ ],
+
 "desinenza": [
   {"id":4150,"text":["desinence"]},
   {"id":5078,"text":["ending"]}
-],
+ ],
+
 "desistere": [
   {"id":4154,"text":["desist"]}
-],
+ ],
+
 "desolazione": [
   {"id":4157,"text":["desolation"]}
-],
+ ],
+
 "desolforazione": [
   {"id":4179,"text":["desulphurisation"]},
   {"id":4180,"text":["desulphurization"]}
-],
+ ],
+
 "desquamazione": [
   {"id":4166,"text":["desquamation"]}
-],
+ ],
+
 "dessert": [
   {"id":4167,"text":["dessert"]}
-],
+ ],
+
 "destinare": [
   {"id":1099,"text":["assign"]}
-],
+ ],
+
 "destinatario": [
   {"id":251,"text":["addressee"]}
-],
+ ],
+
 "destinato": [
   {"id":1892,"text":["bound"]},
   {"id":4170,"text":["destined"]}
-],
+ ],
+
 "destinazione": [
   {"id":4168,"text":["destination"]}
-],
+ ],
+
 "destino": [
   {"id":4169,"text":["destination"]},
   {"id":5673,"text":["fate"]}
-],
+ ],
+
 "destituzione": [
   {"id":4447,"text":["dismissal"]}
-],
+ ],
+
 "destra": [
   {"id":12487,"text":["right"]}
-],
+ ],
+
 "destro": [
   {"id":12488,"text":["right"]},
   {"id":12491,"text":["right-handed"]}
-],
+ ],
+
 "detenere": [
   {"id":4185,"text":["detain"]}
-],
+ ],
+
 "detenzione": [
   {"id":4192,"text":["detention"]}
-],
+ ],
+
 "detergente": [
   {"id":2740,"text":["cleansing"]},
   {"id":4195,"text":["detergent"]}
-],
+ ],
+
 "deteriorabile": [
   {"id":10698,"text":["perishable"]}
-],
+ ],
+
 "deterioramento": [
   {"id":4196,"text":["deterioration"]}
-],
+ ],
+
 "determinabile": [
   {"id":4197,"text":["determinable"]}
-],
+ ],
+
 "determinante": [
   {"id":3872,"text":["decisive"]},
   {"id":4198,"text":["determinant"]}
-],
+ ],
+
 "determinare": [
   {"id":4200,"text":["determine"]}
-],
+ ],
+
 "determinazione": [
   {"id":4199,"text":["determination"]}
-],
+ ],
+
 "determinismo": [
   {"id":4201,"text":["determinism"]}
-],
+ ],
+
 "determinista": [
   {"id":4202,"text":["determinist"]},
   {"id":4203,"text":["deterministic"]}
-],
+ ],
+
 "deterrenza": [
   {"id":4204,"text":["deterrence"]}
-],
+ ],
+
 "detestare": [
   {"id":4205,"text":["detest"]}
-],
+ ],
+
 "detonare": [
   {"id":4206,"text":["detonate"]}
-],
+ ],
+
 "detonatore": [
   {"id":4208,"text":["detonator"]}
-],
+ ],
+
 "detonazione": [
   {"id":4207,"text":["detonation"]}
-],
+ ],
+
 "detritico": [
   {"id":4211,"text":["detrital"]}
-],
+ ],
+
 "dettagliare": [
   {"id":4183,"text":["detail"]}
-],
+ ],
+
 "dettaglio": [
   {"id":4184,"text":["detail"]}
-],
+ ],
+
 "dettare": [
   {"id":4264,"text":["dictate"]}
-],
+ ],
+
 "detto": [
   {"id":12769,"text":["saying"]}
-],
+ ],
+
 "deumidificatore": [
   {"id":3961,"text":["dehumidifier"]}
-],
+ ],
+
 "deuterio": [
   {"id":4212,"text":["deuterium"]}
-],
+ ],
+
 "devastare": [
   {"id":4214,"text":["devastate"]}
-],
+ ],
+
 "devastazione": [
   {"id":4215,"text":["devastation"]}
-],
+ ],
+
 "deviare": [
   {"id":3945,"text":["deflect"]},
   {"id":4218,"text":["deviate"]},
   {"id":4538,"text":["divert"]}
-],
+ ],
+
 "deviazione": [
   {"id":4209,"text":["detour"]},
   {"id":4219,"text":["deviation"]}
-],
+ ],
+
 "deviazionismo": [
   {"id":4220,"text":["deviationism"]}
-],
+ ],
+
 "devoluzione": [
   {"id":3861,"text":["decentralisation"]}
-],
+ ],
+
 "devozione": [
   {"id":4227,"text":["devotion"]}
-],
+ ],
+
 "di": [
   {"id":49,"text":["about"]},
   {"id":6210,"text":["from"]},
   {"id":10042,"text":["of"]},
   {"id":10091,"text":["on"]}
-],
+ ],
+
 "di chi": [
   {"id":15881,"text":["whose"]}
-],
+ ],
+
 "di fronte": [
-  {"id":7454,"text":["in front"]}
-],
+  {"id":7454,"text":["in front", "in front of"]}
+ ],
+
 "di notte": [
   {"id":1151,"text":["at night"]}
-],
+ ],
+
 "di nuovo": [
-  {"id":378,"text":["again"]}
-],
+  {"id":377,"text":["again"]}
+ ],
+ "di pallepallle": [
+  {"id":377,"text":["again"]}
+ ],
+
 "di successo": [
   {"id":14112,"text":["successful"]}
-],
+ ],
+
 "diabetico": [
   {"id":4229,"text":["diabetic"]}
-],
+ ],
+
 "diabolico": [
   {"id":4230,"text":["diabolical"]}
-],
+ ],
+
 "diacritico": [
   {"id":4233,"text":["diacritic"]}
-],
+ ],
+
 "diacronia": [
   {"id":4232,"text":["diachrony"]}
-],
+ ],
+
 "diacronico": [
   {"id":4231,"text":["diachronic"]}
-],
+ ],
+
 "diadema": [
   {"id":4234,"text":["diadem"]}
-],
+ ],
+
 "diadico": [
   {"id":4742,"text":["dyadic"]}
-],
+ ],
+
 "diaframmatico": [
   {"id":4256,"text":["diaphragmatic"]}
-],
+ ],
+
 "diagnosi": [
   {"id":4236,"text":["diagnosis"]},
   {"id":4237,"text":["diagnostic"]}
-],
+ ],
+
 "diagnostica": [
   {"id":4238,"text":["diagnostic"]}
-],
+ ],
+
 "diagnosticare": [
   {"id":4235,"text":["diagnose"]}
-],
+ ],
+
 "diagnostico": [
   {"id":4239,"text":["diagnostic"]}
-],
+ ],
+
 "diagonale": [
   {"id":4240,"text":["diagonal"]}
-],
+ ],
+
 "diagonalmente": [
   {"id":4241,"text":["diagonally"]}
-],
+ ],
+
 "diagramma": [
   {"id":4242,"text":["diagram"]}
-],
+ ],
+
 "dialettale": [
   {"id":4244,"text":["dialectal"]}
-],
+ ],
+
 "dialettica": [
   {"id":4246,"text":["dialectics"]}
-],
+ ],
+
 "dialettico": [
   {"id":4245,"text":["dialectic"]}
-],
+ ],
+
 "dialetto": [
   {"id":4243,"text":["dialect"]}
-],
+ ],
+
 "dialettologia": [
   {"id":4247,"text":["dialectology"]}
-],
+ ],
+
 "dialogare": [
   {"id":3389,"text":["converse"]}
-],
+ ],
+
 "dialogo": [
   {"id":4248,"text":["dialog"]},
   {"id":4249,"text":["dialogue"]}
-],
+ ],
+
 "diamagnetismo": [
   {"id":4250,"text":["diamagnetism"]}
-],
+ ],
+
 "diamante": [
   {"id":4254,"text":["diamond"]}
-],
+ ],
+
 "diametrale": [
   {"id":4252,"text":["diametral"]}
-],
+ ],
+
 "diametralmente": [
   {"id":4253,"text":["diametrically"]}
-],
+ ],
+
 "diametro": [
   {"id":4251,"text":["diameter"]}
-],
+ ],
+
 "diapositiva": [
   {"id":13416,"text":["slide"]}
-],
+ ],
+
 "diario": [
   {"id":4258,"text":["diary"]},
   {"id":8159,"text":["journal"]}
-],
+ ],
+
 "diarrea": [
   {"id":4257,"text":["diarrhea"]}
-],
+ ],
+
 "diaspora": [
   {"id":4259,"text":["diaspora"]}
-],
+ ],
+
 "diaspro": [
   {"id":8122,"text":["jasper"]}
-],
+ ],
+
 "diatonico": [
   {"id":4260,"text":["diatonic"]}
-],
+ ],
+
 "diavolo": [
   {"id":4222,"text":["devil"]}
-],
+ ],
+
 "dibattere": [
   {"id":3836,"text":["debate"]}
-],
+ ],
+
 "dibattito": [
   {"id":3837,"text":["debate"]}
-],
+ ],
+
 "Dicembre": [
   {"id":3857,"text":["December"]}
-],
+ ],
+
 "diceria": [
   {"id":12627,"text":["rumour"]}
-],
+ ],
+
 "dichiarante": [
   {"id":3874,"text":["declarant"]}
-],
+ ],
+
 "dichiarare": [
   {"id":488,"text":["allege"]},
   {"id":3876,"text":["declare"]},
   {"id":13812,"text":["state"]}
-],
+ ],
+
 "dichiaratamente": [
   {"id":3877,"text":["declaredly"]}
-],
+ ],
+
 "dichiarazione": [
   {"id":3875,"text":["declaration"]},
   {"id":11537,"text":["proposal"]},
   {"id":13815,"text":["statement"]}
-],
+ ],
+
 "diciannove": [
   {"id":9773,"text":["nineteen"]}
-],
+ ],
+
 "diciannovemila": [
   {"id":9775,"text":["nineteenthousand"]}
-],
+ ],
+
 "diciannovesimo": [
   {"id":9774,"text":["nineteenth"]}
-],
+ ],
+
 "diciassette": [
   {"id":13059,"text":["seventeen"]}
-],
+ ],
+
 "diciassettemila": [
   {"id":13061,"text":["seventeenthousand"]}
-],
+ ],
+
 "diciassettesimo": [
   {"id":13060,"text":["seventeenth"]}
-],
+ ],
+
 "diciottesimo": [
   {"id":4877,"text":["eighteenth"]}
-],
+ ],
+
 "diciotto": [
   {"id":4876,"text":["eighteen"]}
-],
+ ],
+
 "diciottomila": [
   {"id":4878,"text":["eighteenthousand"]}
-],
+ ],
+
 "dicotomia": [
   {"id":4263,"text":["dichotomy"]}
-],
+ ],
+
 "dicotomico": [
   {"id":4262,"text":["dichotomous"]}
-],
+ ],
+
 "didattico": [
   {"id":4270,"text":["didactic"]}
-],
+ ],
+
 "didietro": [
   {"id":1337,"text":["backside"]}
-],
+ ],
+
 "dieci": [
   {"id":14499,"text":["ten"]}
-],
+ ],
+
 "diecimila": [
   {"id":14517,"text":["tenthousand"]}
-],
+ ],
+
 "dielettrico": [
   {"id":4274,"text":["dielectric"]}
-],
+ ],
+
 "diencefalo": [
   {"id":4275,"text":["diencephalon"]}
-],
+ ],
+
 "dieta": [
   {"id":4277,"text":["diet"]}
-],
+ ],
+
 "dietetico": [
   {"id":4279,"text":["dietary"]}
-],
+ ],
+
 "dietro": [
   {"id":1328,"text":["back"]},
   {"id":1563,"text":["behind"]}
-],
+ ],
+
 "difatto": [
   {"id":219,"text":["actually"]},
   {"id":7543,"text":["indeed"]}
-],
+ ],
+
 "difendere": [
   {"id":332,"text":["advocate"]},
   {"id":1329,"text":["back"]},
   {"id":3932,"text":["defend"]}
-],
+ ],
+
 "difensivo": [
   {"id":3933,"text":["defensive"]}
-],
+ ],
+
 "difesa": [
   {"id":3930,"text":["defence"]}
-],
+ ],
+
 "difetto": [
   {"id":3928,"text":["defect"]},
   {"id":5929,"text":["flaw"]}
-],
+ ],
+
 "difettoso": [
   {"id":3929,"text":["defective"]}
-],
+ ],
+
 "diffamazione": [
   {"id":3922,"text":["defamation"]}
-],
+ ],
+
 "differente": [
   {"id":4282,"text":["different"]}
-],
+ ],
+
 "differenza": [
   {"id":4281,"text":["difference"]}
-],
+ ],
+
 "differenziabile": [
   {"id":4284,"text":["differentiable"]}
-],
+ ],
+
 "differenziale": [
   {"id":4285,"text":["differential"]}
-],
+ ],
+
 "differenziare": [
   {"id":4287,"text":["differentiate"]}
-],
+ ],
+
 "differenziazione": [
   {"id":4288,"text":["differentiation"]}
-],
+ ],
+
 "differire": [
   {"id":4280,"text":["differ"]}
-],
+ ],
+
 "difficile": [
   {"id":4290,"text":["difficult"]}
-],
+ ],
+
 "difficiledacredere": [
   {"id":6816,"text":["hardtobelieve"]}
-],
+ ],
+
 "difficilmente": [
   {"id":6812,"text":["hardly"]}
-],
+ ],
+
 "diffidenza": [
   {"id":4524,"text":["distrust"]}
-],
+ ],
+
 "diffondere": [
   {"id":4292,"text":["diffuse"]},
   {"id":4484,"text":["disseminate"]},
   {"id":11150,"text":["popularise"]},
   {"id":13738,"text":["spread"]}
-],
+ ],
+
 "diffrazione": [
   {"id":4291,"text":["diffraction"]}
-],
+ ],
+
 "diffusamente": [
   {"id":4293,"text":["diffusely"]}
-],
+ ],
+
 "diffusione": [
   {"id":4294,"text":["diffusion"]}
-],
+ ],
+
 "diffusionismo": [
   {"id":4295,"text":["diffusionism"]}
-],
+ ],
+
 "difterite": [
   {"id":4331,"text":["diphtheria"]}
-],
+ ],
+
 "diga": [
   {"id":3778,"text":["dam"]}
-],
+ ],
+
 "digestione": [
   {"id":4297,"text":["digestion"]}
-],
+ ],
+
 "digestivo": [
   {"id":4298,"text":["digestive"]}
-],
+ ],
+
 "digitale": [
   {"id":4301,"text":["digital"]}
-],
+ ],
+
 "digitalizzazione": [
   {"id":4302,"text":["digitalisation"]}
-],
+ ],
+
 "digitalmente": [
   {"id":4303,"text":["digitally"]}
-],
+ ],
+
 "digitare": [
   {"id":15168,"text":["type"]}
-],
+ ],
+
+"digiunare": [
+  {"id":17286,"text":["fast"]}
+ ],
+
+"digiuno": [
+  {"id":17728,"text":["fast"]}
+ ],
+
 "digressione": [
   {"id":4305,"text":["digression"]}
-],
+ ],
+
 "dilatare": [
   {"id":4308,"text":["dilate"]}
-],
+ ],
+
 "dilatazione": [
   {"id":4307,"text":["dilatation"]},
   {"id":4309,"text":["dilation"]}
-],
+ ],
+
 "dilemma": [
   {"id":4310,"text":["dilemma"]}
-],
+ ],
+
 "dilettantismo": [
   {"id":564,"text":["amateurism"]}
-],
+ ],
+
 "diligente": [
   {"id":4311,"text":["diligent"]}
-],
+ ],
+
 "diluente": [
   {"id":4312,"text":["diluent"]}
-],
+ ],
+
 "diluire": [
   {"id":4313,"text":["dilute"]}
-],
+ ],
+
 "diluizione": [
   {"id":4314,"text":["dilution"]}
-],
+ ],
+
 "diluvio": [
   {"id":5955,"text":["flood"]}
-],
+ ],
+
 "dimeno": [
   {"id":8455,"text":["less"]}
-],
+ ],
+
 "dimensionale": [
   {"id":4318,"text":["dimensional"]}
-],
+ ],
+
 "dimensione": [
   {"id":4317,"text":["dimension"]}
-],
+ ],
+
 "dimenticare": [
   {"id":6057,"text":["forget"]}
-],
+ ],
+
 "dimero": [
   {"id":4319,"text":["dimer"]}
-],
+ ],
+
 "dimettire": [
   {"id":12308,"text":["resign"]}
-],
+ ],
+
 "diminuire": [
   {"id":3906,"text":["decrease"]},
   {"id":4320,"text":["diminish"]}
-],
+ ],
+
 "diminuzione": [
   {"id":3881,"text":["decline"]},
   {"id":3907,"text":["decrease"]},
   {"id":3909,"text":["decreasing"]}
-],
+ ],
+
 "dimorfismo": [
   {"id":4321,"text":["dimorphism"]}
-],
+ ],
+
 "dimostrabile": [
   {"id":11591,"text":["provable"]}
-],
+ ],
+
 "dimostrare": [
   {"id":4028,"text":["demonstrate"]},
   {"id":11592,"text":["prove"]},
   {"id":13212,"text":["show"]}
-],
+ ],
+
 "dimostratore": [
   {"id":4030,"text":["demonstrator"]}
-],
+ ],
+
 "dimostrazione": [
   {"id":12706,"text":["sample"]}
-],
+ ],
+
 "dinamica": [
   {"id":4748,"text":["dynamics"]}
-],
+ ],
+
 "dinamico": [
   {"id":4747,"text":["dynamic"]}
-],
+ ],
+
 "dinamismo": [
   {"id":4749,"text":["dynamism"]}
-],
+ ],
+
 "dinamite": [
   {"id":4750,"text":["dynamite"]}
-],
+ ],
+
 "dinastia": [
   {"id":4751,"text":["dynast"]},
   {"id":4753,"text":["dynasty"]}
-],
+ ],
+
 "dinastico": [
   {"id":4752,"text":["dynastic"]}
-],
+ ],
+
 "dinosauro": [
   {"id":4324,"text":["dinosaur"]}
-],
+ ],
+
 "Dio": [
   {"id":6530,"text":["God"]}
-],
+ ],
+
 "diocesi": [
   {"id":4325,"text":["diocese"]}
-],
+ ],
+
 "diocra": [
   {"id":10020,"text":["ochre"]}
-],
+ ],
+
 "diodo": [
   {"id":4326,"text":["diode"]}
-],
+ ],
+
 "diorama": [
   {"id":4328,"text":["diorama"]}
-],
+ ],
+
 "diossido": [
   {"id":4329,"text":["dioxide"]}
-],
+ ],
+
 "diossina": [
   {"id":4330,"text":["dioxin"]}
-],
+ ],
+
 "diottria": [
   {"id":4327,"text":["dioptre"]}
-],
+ ],
+
 "dipartimentale": [
   {"id":4074,"text":["departamental"]}
-],
+ ],
+
 "dipartimento": [
   {"id":4075,"text":["department"]}
-],
+ ],
+
 "dipendente": [
   {"id":241,"text":["addict"]},
   {"id":4081,"text":["dependent"]},
   {"id":5026,"text":["employee"]}
-],
+ ],
+
 "dipendenza": [
   {"id":242,"text":["addiction"]},
   {"id":4079,"text":["dependence"]},
   {"id":4080,"text":["dependency"]}
-],
+ ],
+
 "dipendere": [
   {"id":4078,"text":["depend"]}
-],
+ ],
+
 "dipingere": [
   {"id":10362,"text":["paint"]}
-],
+ ],
+
 "dipinto": [
   {"id":10368,"text":["painting"]}
-],
+ ],
+
 "diploide": [
   {"id":4333,"text":["diploid"]}
-],
+ ],
+
 "diploma": [
   {"id":4334,"text":["diploma"]}
-],
+ ],
+
 "diplomaticamente": [
   {"id":4339,"text":["diplomatically"]}
-],
+ ],
+
 "diplomatico": [
   {"id":4336,"text":["diplomat"]},
   {"id":4337,"text":["diplomatic"]}
-],
+ ],
+
 "diplomato": [
   {"id":4338,"text":["diplomatic"]}
-],
+ ],
+
 "diplomazia": [
   {"id":4335,"text":["diplomacy"]}
-],
+ ],
+
 "diramazione": [
   {"id":1932,"text":["branch"]}
-],
+ ],
+
 "dire": [
   {"id":12768,"text":["say"]},
   {"id":14482,"text":["tell"]}
-],
+ ],
+
 "direttamente": [
   {"id":4347,"text":["directly"]}
-],
+ ],
+
 "direttiva": [
   {"id":4346,"text":["directive"]}
-],
+ ],
+
 "direttivo": [
   {"id":8835,"text":["managerial"]}
-],
+ ],
+
 "diretto": [
   {"id":4341,"text":["direct"]},
   {"id":13928,"text":["straight"]},
   {"id":13931,"text":["straightforward"]}
-],
+ ],
+
 "direttore": [
   {"id":3153,"text":["conductor"]},
   {"id":4348,"text":["director"]},
   {"id":8833,"text":["manager"]}
-],
+ ],
+
 "direttrice": [
   {"id":6697,"text":["guideline"]}
-],
+ ],
+
 "direzionabile": [
   {"id":250,"text":["addressable"]}
-],
+ ],
+
 "direzionale": [
   {"id":4345,"text":["directional"]}
-],
+ ],
+
 "direzione": [
   {"id":4344,"text":["direction"]},
   {"id":8371,"text":["lead"]},
   {"id":8378,"text":["leadership"]}
-],
+ ],
+
 "dirigente": [
   {"id":8375,"text":["leader"]}
-],
+ ],
+
 "dirigenza": [
   {"id":8831,"text":["management"]}
-],
+ ],
+
 "dirigere": [
   {"id":247,"text":["address"]},
   {"id":3148,"text":["conduct"]},
   {"id":4342,"text":["direct"]},
   {"id":8372,"text":["lead"]}
-],
+ ],
+
 "dirigibile": [
   {"id":439,"text":["airship"]},
   {"id":1771,"text":["blimp"]}
-],
+ ],
+
 "diritto": [
   {"id":8353,"text":["law"]},
   {"id":12489,"text":["right"]},
   {"id":13929,"text":["straight"]}
-],
+ ],
+
 "dirupo": [
   {"id":2758,"text":["cliff"]},
   {"id":3577,"text":["crag"]}
-],
+ ],
+
 "disabilitare": [
   {"id":4353,"text":["disable"]}
-],
+ ],
+
 "disabilitato": [
   {"id":4354,"text":["disabled"]}
-],
+ ],
+
 "disadattamento": [
   {"id":8800,"text":["maladjustment"]}
-],
+ ],
+
 "disagio": [
   {"id":4386,"text":["discomfort"]}
-],
+ ],
+
 "disambiguazione": [
   {"id":4357,"text":["disambiguation"]}
-],
+ ],
+
 "disanimare": [
   {"id":4443,"text":["dismay"]}
-],
+ ],
+
 "disapprovare": [
   {"id":4366,"text":["disapprove"]}
-],
+ ],
+
 "disapprovazione": [
   {"id":4365,"text":["disapproval"]}
-],
+ ],
+
 "disappunto": [
   {"id":4364,"text":["disappointment"]}
-],
+ ],
+
 "disarmare": [
   {"id":4367,"text":["disarm"]}
-],
+ ],
+
 "disarmonia": [
   {"id":4419,"text":["disharmony"]}
-],
+ ],
+
 "disarticolazione": [
   {"id":4368,"text":["disarticulation"]}
-],
+ ],
+
 "disastro": [
   {"id":4370,"text":["disaster"]}
-],
+ ],
+
 "disastrosamente": [
   {"id":4372,"text":["disastrously"]}
-],
+ ],
+
 "disastroso": [
   {"id":4371,"text":["disastrous"]}
-],
+ ],
+
 "disattendere": [
   {"id":4476,"text":["disregard"]}
-],
+ ],
+
 "disattivazione": [
   {"id":3819,"text":["deactivation"]}
-],
+ ],
+
 "discarica": [
   {"id":4722,"text":["dump"]},
   {"id":4723,"text":["dumpster"]}
-],
+ ],
+
 "discendente": [
   {"id":4624,"text":["downward"]}
-],
+ ],
+
 "discendere": [
   {"id":4125,"text":["descend"]}
-],
+ ],
+
 "discepolo": [
   {"id":4381,"text":["disciple"]}
-],
+ ],
+
 "discernere": [
   {"id":4375,"text":["discern"]}
-],
+ ],
+
 "discesa": [
   {"id":4126,"text":["descent"]}
-],
+ ],
+
 "dischetto": [
   {"id":4436,"text":["diskette"]}
-],
+ ],
+
 "disciplina": [
   {"id":4382,"text":["discipline"]}
-],
+ ],
+
 "disciplinare": [
   {"id":4383,"text":["discipline"]}
-],
+ ],
+
 "disco": [
   {"id":4374,"text":["disc"]},
   {"id":4435,"text":["disk"]},
   {"id":11983,"text":["record"]}
-],
+ ],
+
 "disconnessione": [
   {"id":4387,"text":["disconnection"]}
-],
+ ],
+
 "discontinuo": [
   {"id":4389,"text":["discontinuous"]}
-],
+ ],
+
 "discordante": [
   {"id":4391,"text":["discordant"]}
-],
+ ],
+
 "discordanza": [
   {"id":15224,"text":["unconformity"]}
-],
+ ],
+
 "discordare": [
   {"id":4356,"text":["disagree"]}
-],
+ ],
+
 "discordia": [
   {"id":4390,"text":["discord"]}
-],
+ ],
+
 "discorso": [
   {"id":13651,"text":["speech"]}
-],
+ ],
+
 "discoteca": [
   {"id":4392,"text":["discotheque"]}
-],
+ ],
+
 "discrepanza": [
   {"id":4399,"text":["discrepancy"]}
-],
+ ],
+
 "discreto": [
   {"id":4398,"text":["discreet"]}
-],
+ ],
+
 "discrezionale": [
   {"id":4401,"text":["discretionary"]}
-],
+ ],
+
 "discrezione": [
   {"id":4400,"text":["discretion"]}
-],
+ ],
+
 "discriminare": [
   {"id":4402,"text":["discriminate"]}
-],
+ ],
+
 "discriminatorio": [
   {"id":4404,"text":["discriminatory"]}
-],
+ ],
+
 "discriminazione": [
   {"id":4403,"text":["discrimination"]}
-],
+ ],
+
 "discussione": [
   {"id":957,"text":["argument"]},
   {"id":4406,"text":["discussion"]}
-],
+ ],
+
 "discutere": [
   {"id":4405,"text":["discuss"]}
-],
+ ],
+
 "discutibile": [
   {"id":3835,"text":["debatable"]},
   {"id":11767,"text":["questionable"]}
-],
+ ],
+
 "disegnare": [
   {"id":4145,"text":["design"]},
   {"id":4646,"text":["draw"]}
-],
+ ],
+
 "disegnatore": [
   {"id":2323,"text":["cartoonist"]},
   {"id":4149,"text":["designer"]}
-],
+ ],
+
 "disegno": [
   {"id":2324,"text":["cartoonist"]},
   {"id":4649,"text":["drawing"]}
-],
+ ],
+
 "disertare": [
   {"id":4135,"text":["desert"]}
-],
+ ],
+
 "disertore": [
   {"id":4136,"text":["deserter"]}
-],
+ ],
+
 "diserzione": [
   {"id":4138,"text":["desertion"]}
-],
+ ],
+
 "disfare": [
   {"id":15263,"text":["undo"]}
-],
+ ],
+
 "disfattismo": [
   {"id":3925,"text":["defeatism"]}
-],
+ ],
+
 "disfattista": [
   {"id":3926,"text":["defeatist"]}
-],
+ ],
+
 "disfunzione": [
   {"id":4755,"text":["dysfunction"]}
-],
+ ],
+
 "disgelo": [
   {"id":14563,"text":["thaw"]}
-],
+ ],
+
 "disgiunzione": [
   {"id":4434,"text":["disjunction"]}
-],
+ ],
+
 "disgrazia": [
   {"id":9278,"text":["misfortune"]}
-],
+ ],
+
 "disgregazione": [
   {"id":4432,"text":["disintegration"]}
-],
+ ],
+
 "disgustare": [
   {"id":4414,"text":["disgust"]}
-],
+ ],
+
 "disgusto": [
   {"id":4415,"text":["disgust"]}
-],
+ ],
+
 "disgustoso": [
   {"id":4417,"text":["disgusting"]},
   {"id":6668,"text":["gross"]}
-],
+ ],
+
 "disidratazione": [
   {"id":3962,"text":["dehydration"]},
   {"id":4142,"text":["desiccation"]}
-],
+ ],
+
 "disilludere": [
   {"id":4425,"text":["disillusion"]}
-],
+ ],
+
 "disillusione": [
   {"id":4426,"text":["disillusionment"]}
-],
+ ],
+
 "disincanto": [
   {"id":4410,"text":["disenchantment"]}
-],
+ ],
+
 "disinfettante": [
   {"id":4428,"text":["disinfectant"]}
-],
+ ],
+
 "disinfettare": [
   {"id":4427,"text":["disinfect"]}
-],
+ ],
+
 "disinfezione": [
   {"id":4429,"text":["disinfection"]}
-],
+ ],
+
 "disinformazione": [
   {"id":4430,"text":["disinformation"]}
-],
+ ],
+
 "disintegrare": [
   {"id":4431,"text":["disintegrate"]}
-],
+ ],
+
 "disintegrazione": [
   {"id":4433,"text":["disintegration"]}
-],
+ ],
+
 "disinteressando": [
   {"id":12963,"text":["selfless"]}
-],
+ ],
+
 "disintossicazione": [
   {"id":4210,"text":["detoxication"]}
-],
+ ],
+
 "dislessia": [
   {"id":4756,"text":["dyslexia"]}
-],
+ ],
+
 "dislocazione": [
   {"id":4439,"text":["dislocation"]}
-],
+ ],
+
 "dismenorrea": [
   {"id":4757,"text":["dysmenorrhea"]}
-],
+ ],
+
 "disobbediente": [
   {"id":9643,"text":["naughty"]}
-],
+ ],
+
 "disobbedienza": [
   {"id":4449,"text":["disobedience"]}
-],
+ ],
+
 "disoccupato": [
   {"id":15269,"text":["unemployed"]}
-],
+ ],
+
 "disoccupazione": [
   {"id":15270,"text":["unemployment"]}
-],
+ ],
+
 "disonesto": [
   {"id":4420,"text":["dishonest"]}
-],
+ ],
+
 "disonorare": [
   {"id":4421,"text":["dishonor"]},
   {"id":4423,"text":["dishonour"]}
-],
+ ],
+
 "disonore": [
   {"id":4422,"text":["dishonor"]},
   {"id":4424,"text":["dishonour"]}
-],
+ ],
+
 "disordine": [
   {"id":4450,"text":["disorder"]},
   {"id":9115,"text":["mess"]},
   {"id":15349,"text":["unrest"]},
   {"id":15361,"text":["untidiness"]}
-],
+ ],
+
 "dispari": [
   {"id":10031,"text":["odd"]}
-],
+ ],
+
 "dispensare": [
   {"id":4459,"text":["dispense"]}
-],
+ ],
+
 "dispensario": [
   {"id":4457,"text":["dispensary"]}
-],
+ ],
+
 "dispepsia": [
   {"id":4758,"text":["dyspepsia"]}
-],
+ ],
+
 "disperatamente": [
   {"id":4160,"text":["desperately"]}
-],
+ ],
+
 "disperato": [
   {"id":4159,"text":["desperate"]},
   {"id":7117,"text":["hopeless"]}
-],
+ ],
+
 "disperazione": [
   {"id":4158,"text":["despair"]},
   {"id":4161,"text":["desperation"]}
-],
+ ],
+
 "disperdere": [
   {"id":4461,"text":["disperse"]}
-],
+ ],
+
 "dispersione": [
   {"id":4462,"text":["dispersion"]}
-],
+ ],
+
 "dispetto": [
   {"id":13699,"text":["spite"]}
-],
+ ],
+
 "dispiacere": [
   {"id":4438,"text":["dislike"]}
-],
+ ],
+
 "dispiacersi": [
   {"id":1505,"text":["be sorry"]}
-],
+ ],
+
 "dispiaciuto": [
   {"id":13578,"text":["sorry"]}
-],
+ ],
+
 "displasia": [
   {"id":4759,"text":["dysplasia"]}
-],
+ ],
+
 "disponibile": [
   {"id":1282,"text":["available"]}
-],
+ ],
+
 "disporre": [
   {"id":10936,"text":["place"]}
-],
+ ],
+
 "dispositivo": [
   {"id":4221,"text":["device"]}
-],
+ ],
+
 "disposizione": [
   {"id":4467,"text":["disposal"]},
   {"id":4469,"text":["disposition"]},
@@ -1827,729 +2401,954 @@
   {"id":11605,"text":["provision"]},
   {"id":12107,"text":["regulation"]},
   {"id":15901,"text":["willingness"]}
-],
+ ],
+
 "dispotismo": [
   {"id":4165,"text":["despotism"]}
-],
+ ],
+
 "disprezzare": [
   {"id":4162,"text":["despise"]}
-],
+ ],
+
 "disprezzo": [
   {"id":3310,"text":["contempt"]}
-],
+ ],
+
 "disputa": [
   {"id":4472,"text":["dispute"]}
-],
+ ],
+
 "disputare": [
   {"id":4473,"text":["dispute"]}
-],
+ ],
+
 "disquisizione": [
   {"id":4475,"text":["disquisition"]}
-],
+ ],
+
 "dissalazione": [
   {"id":4124,"text":["desalinisation"]}
-],
+ ],
+
 "disseccazione": [
   {"id":4143,"text":["desiccation"]}
-],
+ ],
+
 "disseminazione": [
   {"id":4485,"text":["dissemination"]}
-],
+ ],
+
 "dissenteria": [
   {"id":4754,"text":["dysentery"]}
-],
+ ],
+
 "dissertazione": [
   {"id":4486,"text":["dissertation"]}
-],
+ ],
+
 "dissezione": [
   {"id":4482,"text":["dissection"]}
-],
+ ],
+
 "dissidente": [
   {"id":4488,"text":["dissident"]}
-],
+ ],
+
 "dissidenza": [
   {"id":4487,"text":["dissidence"]}
-],
+ ],
+
 "dissimilazione": [
   {"id":4489,"text":["dissimilation"]}
-],
+ ],
+
 "dissimulare": [
   {"id":4483,"text":["dissemble"]}
-],
+ ],
+
 "dissimulazione": [
   {"id":4490,"text":["dissimulation"]}
-],
+ ],
+
 "dissipare": [
   {"id":4456,"text":["dispel"]},
   {"id":4491,"text":["dissipate"]}
-],
+ ],
+
 "dissipazione": [
   {"id":4492,"text":["dissipation"]}
-],
+ ],
+
 "dissociazione": [
   {"id":4493,"text":["dissociation"]}
-],
+ ],
+
 "dissoluzione": [
   {"id":4494,"text":["dissolution"]}
-],
+ ],
+
 "dissolvente": [
   {"id":4497,"text":["dissolvent"]}
-],
+ ],
+
 "dissolvere": [
   {"id":4495,"text":["dissolve"]}
-],
+ ],
+
 "dissonante": [
   {"id":4499,"text":["dissonant"]}
-],
+ ],
+
 "dissonanza": [
   {"id":4498,"text":["dissonance"]}
-],
+ ],
+
 "distaccamento": [
   {"id":4182,"text":["detachment"]}
-],
+ ],
+
 "distalmente": [
   {"id":4500,"text":["distally"]}
-],
+ ],
+
 "distante": [
   {"id":4503,"text":["distant"]}
-],
+ ],
+
 "distanza": [
   {"id":4501,"text":["distance"]}
-],
+ ],
+
 "distensione": [
   {"id":4504,"text":["distention"]}
-],
+ ],
+
 "distillare": [
   {"id":4505,"text":["distill"]}
-],
+ ],
+
 "distillazione": [
   {"id":4506,"text":["distillation"]}
-],
+ ],
+
 "distinguere": [
   {"id":4376,"text":["discern"]},
   {"id":4510,"text":["distinguish"]}
-],
+ ],
+
 "distintivo": [
   {"id":1346,"text":["badge"]},
   {"id":4509,"text":["distinctive"]},
   {"id":13257,"text":["sign"]}
-],
+ ],
+
 "distinto": [
   {"id":4507,"text":["distinct"]}
-],
+ ],
+
 "distinzione": [
   {"id":4508,"text":["distinction"]}
-],
+ ],
+
 "distogliere": [
   {"id":4193,"text":["deter"]}
-],
+ ],
+
 "distorcere": [
   {"id":15745,"text":["warp"]}
-],
+ ],
+
 "distorsione": [
   {"id":4512,"text":["distortion"]},
   {"id":13736,"text":["sprain"]},
   {"id":15746,"text":["warp"]}
-],
+ ],
+
 "distrarre": [
   {"id":4513,"text":["distract"]}
-],
+ ],
+
 "distrattamente": [
   {"id":63,"text":["absent-mindedly"]},
   {"id":4515,"text":["distractedly"]}
-],
+ ],
+
 "distratto": [
   {"id":4514,"text":["distracted"]}
-],
+ ],
+
 "distrazione": [
   {"id":4516,"text":["distraction"]}
-],
+ ],
+
 "distretto": [
   {"id":4523,"text":["district"]}
-],
+ ],
+
 "distribuire": [
   {"id":4519,"text":["distribute"]}
-],
+ ],
+
 "distributore": [
   {"id":4460,"text":["dispenser"]},
   {"id":4521,"text":["distributor"]}
-],
+ ],
+
 "distribuzione": [
   {"id":4089,"text":["deployment"]},
   {"id":4520,"text":["distribution"]}
-],
+ ],
+
 "distrofia": [
   {"id":4760,"text":["dystrophy"]}
-],
+ ],
+
 "distruggere": [
   {"id":4173,"text":["destroy"]},
   {"id":13450,"text":["smash"]}
-],
+ ],
+
 "distruttivamente": [
   {"id":4178,"text":["destructively"]}
-],
+ ],
+
 "distruttivo": [
   {"id":4177,"text":["destructive"]}
-],
+ ],
+
 "distruttore": [
   {"id":4175,"text":["destroyer"]}
-],
+ ],
+
 "distruzione": [
   {"id":4176,"text":["destruction"]}
-],
+ ],
+
 "disturbante": [
   {"id":4529,"text":["disturbing"]}
-],
+ ],
+
 "disturbare": [
   {"id":4526,"text":["disturb"]}
-],
+ ],
+
 "disturbo": [
   {"id":723,"text":["annoyance"]},
   {"id":4451,"text":["disorder"]},
   {"id":4527,"text":["disturbance"]}
-],
+ ],
+
 "disuguaglianza": [
   {"id":7613,"text":["inequality"]}
-],
+ ],
+
 "disuguale": [
   {"id":15271,"text":["unequal"]},
   {"id":15272,"text":["uneven"]}
-],
+ ],
+
 "disugualmente": [
   {"id":15274,"text":["unevenly"]}
-],
+ ],
+
 "disumanizzazione": [
   {"id":3959,"text":["dehumanisation"]},
   {"id":3960,"text":["dehumanization"]}
-],
+ ],
+
 "disumano": [
   {"id":7692,"text":["inhuman"]}
-],
+ ],
+
 "disuso": [
   {"id":4530,"text":["disuse"]}
-],
+ ],
+
 "ditantoinquando": [
   {"id":6212,"text":["fromtimetotime"]}
-],
+ ],
+
 "dito": [
   {"id":4300,"text":["digit"]},
   {"id":5854,"text":["finger"]}
-],
+ ],
+
 "dito del piede": [
   {"id":14782,"text":["toe"]}
-],
+ ],
+
 "dito medio": [
   {"id":9192,"text":["middle finger"]}
-],
+ ],
+
 "ditomignolo": [
   {"id":8609,"text":["littlefinger"]}
-],
+ ],
+
 "ditta": [
   {"id":5872,"text":["firm"]}
-],
+ ],
+
 "dittatore": [
   {"id":4265,"text":["dictator"]}
-],
+ ],
+
 "dittatoriale": [
   {"id":4266,"text":["dictatorial"]}
-],
+ ],
+
 "dittatura": [
   {"id":4267,"text":["dictatorship"]}
-],
+ ],
+
 "dittico": [
   {"id":4340,"text":["diptych"]}
-],
+ ],
+
 "dittongo": [
   {"id":4332,"text":["diphthong"]}
-],
+ ],
+
 "diurno": [
   {"id":4532,"text":["diurnal"]}
-],
+ ],
+
 "divano": [
   {"id":3510,"text":["couch"]},
   {"id":13507,"text":["sofa"]}
-],
+ ],
+
 "divenire": [
   {"id":1535,"text":["become"]}
-],
+ ],
+
 "diventare": [
   {"id":1536,"text":["become"]}
-],
+ ],
+
 "divergente": [
   {"id":4535,"text":["divergent"]}
-],
+ ],
+
 "divergenza": [
   {"id":4534,"text":["divergence"]}
-],
+ ],
+
 "diversamente": [
   {"id":4289,"text":["differently"]}
-],
+ ],
+
 "diversificazione": [
   {"id":4537,"text":["diversification"]}
-],
+ ],
+
 "diverso": [
   {"id":4536,"text":["diverse"]},
   {"id":13084,"text":["several"]}
-],
+ ],
+
 "diverticolo": [
   {"id":4539,"text":["diverticulum"]}
-],
+ ],
+
 "divertimento": [
   {"id":629,"text":["amusement"]},
   {"id":5118,"text":["enjoyment"]},
   {"id":5145,"text":["entertainment"]},
   {"id":6243,"text":["fun"]}
-],
+ ],
+
 "divertire": [
   {"id":628,"text":["amuse"]}
-],
+ ],
+
 "dividendo": [
   {"id":4541,"text":["dividend"]}
-],
+ ],
+
 "dividere": [
   {"id":4540,"text":["divide"]},
   {"id":13708,"text":["split"]}
-],
+ ],
+
 "divieto": [
   {"id":1391,"text":["ban"]},
   {"id":11486,"text":["prohibition"]}
-],
+ ],
+
 "divinizzazione": [
   {"id":3964,"text":["deification"]}
-],
+ ],
+
 "divino": [
   {"id":4542,"text":["divine"]}
-],
+ ],
+
 "divisa": [
   {"id":15292,"text":["uniform"]}
-],
+ ],
+
 "divisione": [
   {"id":4543,"text":["division"]}
-],
+ ],
+
 "divisivo": [
   {"id":4545,"text":["divisive"]}
-],
+ ],
+
 "divisorio": [
   {"id":4544,"text":["divisional"]}
-],
+ ],
+
 "divorare": [
   {"id":4228,"text":["devour"]}
-],
+ ],
+
 "divorziare": [
   {"id":4546,"text":["divorce"]}
-],
+ ],
+
 "divorzio": [
   {"id":4547,"text":["divorce"]}
-],
+ ],
+
 "divulgare": [
   {"id":4548,"text":["divulge"]},
   {"id":13739,"text":["spread"]}
-],
+ ],
+
 "divulgativo": [
   {"id":11148,"text":["popular"]}
-],
+ ],
+
 "divulgazione": [
   {"id":4385,"text":["disclosure"]},
   {"id":4549,"text":["divulging"]}
-],
+ ],
+
 "dizionario": [
   {"id":4269,"text":["dictionary"]}
-],
+ ],
+
 "dizione": [
   {"id":4268,"text":["diction"]}
-],
+ ],
+
 "doccia": [
   {"id":13216,"text":["shower"]}
-],
+ ],
+
 "docente": [
   {"id":4552,"text":["docent"]},
   {"id":14441,"text":["teacher"]}
-],
+ ],
+
 "docile": [
   {"id":4553,"text":["docile"]}
-],
+ ],
+
 "documentalista": [
   {"id":4565,"text":["documentalist"]}
-],
+ ],
+
 "documentare": [
   {"id":4563,"text":["document"]}
-],
+ ],
+
 "documentario": [
   {"id":4566,"text":["documentary"]}
-],
+ ],
+
 "documentazione": [
   {"id":4567,"text":["documentation"]}
-],
+ ],
+
 "documento": [
   {"id":4564,"text":["document"]}
-],
+ ],
+
 "dodecaedro": [
   {"id":4568,"text":["dodecahedron"]}
-],
+ ],
+
 "dodicesimo": [
   {"id":15133,"text":["twelfth"]}
-],
+ ],
+
 "dodici": [
   {"id":15134,"text":["twelve"]}
-],
+ ],
+
 "dodicimila": [
   {"id":15135,"text":["twelvethousand"]}
-],
+ ],
+
 "dogana": [
   {"id":3735,"text":["customs"]}
-],
+ ],
+
 "dogma": [
   {"id":4570,"text":["dogma"]}
-],
+ ],
+
 "dogmatico": [
   {"id":4571,"text":["dogmatic"]}
-],
+ ],
+
 "dogmatismo": [
   {"id":4572,"text":["dogmatism"]}
-],
+ ],
+
 "dolce": [
   {"id":9055,"text":["mellow"]},
   {"id":14267,"text":["sweet"]},
   {"id":14268,"text":["sweetheart"]}
-],
+ ],
+
 "dolcemente": [
   {"id":14269,"text":["sweetly"]}
-],
+ ],
+
 "dolente": [
   {"id":13574,"text":["sore"]}
-],
+ ],
+
 "dolere": [
   {"id":7196,"text":["hurt"]}
-],
+ ],
+
 "dollaro": [
   {"id":4574,"text":["dollar"]}
-],
+ ],
+
 "dolorante": [
   {"id":13575,"text":["sore"]}
-],
+ ],
+
 "dolore": [
   {"id":10356,"text":["pain"]}
-],
+ ],
+
 "dolorosamente": [
   {"id":10358,"text":["painfully"]}
-],
+ ],
+
 "doloroso": [
   {"id":10357,"text":["painful"]}
-],
+ ],
+
 "domanda": [
   {"id":3997,"text":["demand"]},
   {"id":11761,"text":["question"]}
-],
+ ],
+
 "domandare": [
   {"id":1065,"text":["ask"]},
   {"id":11762,"text":["question"]}
-],
+ ],
+
 "domandarsi": [
   {"id":15942,"text":["wonder"]}
-],
+ ],
+
 "domani": [
   {"id":9423,"text":["morning"]},
   {"id":14796,"text":["tomorrow"]}
-],
+ ],
+
 "domatore": [
   {"id":14390,"text":["tamer"]}
-],
+ ],
+
 "domenica": [
   {"id":14168,"text":["sunday"]}
-],
+ ],
+
 "domesticazione": [
   {"id":4580,"text":["domestication"]}
-],
+ ],
+
 "domestico": [
   {"id":4578,"text":["domestic"]}
-],
+ ],
+
 "domiciliazione": [
   {"id":4582,"text":["domiciliation"]}
-],
+ ],
+
 "domicilio": [
   {"id":4581,"text":["domicile"]}
-],
+ ],
+
 "dominante": [
   {"id":4583,"text":["dominant"]}
-],
+ ],
+
 "dominare": [
   {"id":4584,"text":["dominate"]}
-],
+ ],
+
 "dominazione": [
   {"id":4585,"text":["domination"]}
-],
+ ],
+
 "dominicale": [
   {"id":4586,"text":["dominical"]}
-],
+ ],
+
 "domotica": [
   {"id":4587,"text":["domotics"]}
-],
+ ],
+
 "donare": [
   {"id":4588,"text":["donate"]},
   {"id":6448,"text":["gift"]}
-],
+ ],
+
 "donatore": [
   {"id":4592,"text":["donor"]}
-],
+ ],
+
 "donazione": [
   {"id":4589,"text":["donation"]}
-],
+ ],
+
 "dondolare": [
   {"id":14283,"text":["swing"]}
-],
+ ],
+
 "donna": [
   {"id":15940,"text":["woman"]}
-],
+ ],
+
 "dono": [
   {"id":6449,"text":["gift"]}
-],
+ ],
+
 "dopamina": [
   {"id":4597,"text":["dopamine"]}
-],
+ ],
+
 "dopo": [
   {"id":370,"text":["after"]},
   {"id":376,"text":["afterwards"]},
   {"id":10531,"text":["past"]}
-],
+ ],
+
 "dopodomani": [
   {"id":14572,"text":["the day after tomorrow"]}
-],
+ ],
+
 "dopoguerra": [
   {"id":11194,"text":["post-war"]}
-],
+ ],
+
 "dopotutto": [
   {"id":371,"text":["afterall"]}
-],
+ ],
+
 "doppiaggio": [
   {"id":4703,"text":["dub"]},
   {"id":4705,"text":["dubbing"]}
-],
+ ],
+
 "doppiamente": [
   {"id":4611,"text":["doubly"]}
-],
+ ],
+
 "doppiare": [
   {"id":4704,"text":["dub"]}
-],
+ ],
+
 "doppio": [
   {"id":4608,"text":["double"]},
   {"id":15164,"text":["twofold"]}
-],
+ ],
+
 "dorare": [
   {"id":6456,"text":["gild"]}
-],
+ ],
+
 "dorato": [
   {"id":6539,"text":["golden"]}
-],
+ ],
+
 "doratura": [
   {"id":6457,"text":["gilding"]}
-],
+ ],
+
 "dorico": [
   {"id":4599,"text":["doric"]}
-],
+ ],
+
 "dormiente": [
   {"id":4600,"text":["dormant"]},
   {"id":13410,"text":["sleeping"]}
-],
+ ],
+
 "dormire": [
   {"id":13407,"text":["sleep"]}
-],
+ ],
+
 "dormitorio": [
   {"id":4601,"text":["dormitory"]}
-],
+ ],
+
 "dorsale": [
   {"id":4603,"text":["dorsal"]}
-],
+ ],
+
 "dosare": [
   {"id":4604,"text":["dose"]}
-],
+ ],
+
 "dose": [
   {"id":4605,"text":["dose"]}
-],
+ ],
+
 "dosimetria": [
   {"id":4606,"text":["dosimetry"]}
-],
+ ],
+
 "dosso": [
   {"id":2062,"text":["bump"]}
-],
+ ],
+
 "dotare": [
   {"id":5096,"text":["endow"]}
-],
+ ],
+
 "dotato": [
   {"id":13380,"text":["skilled"]}
-],
+ ],
+
 "dote": [
   {"id":4626,"text":["dowry"]}
-],
+ ],
+
 "dottorale": [
   {"id":4560,"text":["doctoral"]}
-],
+ ],
+
 "dottorato": [
   {"id":4561,"text":["doctorate"]}
-],
+ ],
+
 "dottore": [
   {"id":4558,"text":["doctor"]}
-],
+ ],
+
 "dottrina": [
   {"id":4562,"text":["doctrine"]}
-],
+ ],
+
 "dove": [
   {"id":15848,"text":["where"]}
-],
+ ],
+
 "dovere": [
   {"id":4740,"text":["duty"]},
   {"id":7076,"text":["homework"]},
   {"id":10311,"text":["owe"]},
   {"id":13204,"text":["should"]}
-],
+ ],
+
 "download": [
   {"id":4620,"text":["download"]}
-],
+ ],
+
 "dozzina": [
   {"id":4627,"text":["dozen"]}
-],
+ ],
+
 "drago": [
   {"id":4634,"text":["dragon"]}
-],
+ ],
+
 "dramma": [
   {"id":4640,"text":["drama"]}
-],
+ ],
+
 "drammaticamente": [
   {"id":4642,"text":["dramatically"]}
-],
+ ],
+
 "drammatico": [
   {"id":4641,"text":["dramatic"]}
-],
+ ],
+
 "drammaturgo": [
   {"id":4643,"text":["dramatist"]}
-],
+ ],
+
 "drasticamente": [
   {"id":4645,"text":["drastically"]}
-],
+ ],
+
 "drastico": [
   {"id":4644,"text":["drastic"]}
-],
+ ],
+
 "drenaggio": [
   {"id":4639,"text":["drainage"]}
-],
+ ],
+
 "dritto": [
   {"id":13930,"text":["straight"]}
-],
+ ],
+
 "droga": [
   {"id":4684,"text":["drug"]}
-],
+ ],
+
 "drogare": [
   {"id":4598,"text":["dope"]},
   {"id":4685,"text":["drug"]}
-],
+ ],
+
 "dromedario": [
   {"id":4674,"text":["dromedary"]}
-],
+ ],
+
 "drupa": [
   {"id":4693,"text":["drupe"]}
-],
+ ],
+
 "duale": [
   {"id":4700,"text":["dual"]}
-],
+ ],
+
 "dualismo": [
   {"id":4701,"text":["dualism"]},
   {"id":4702,"text":["duality"]}
-],
+ ],
+
 "dubbio": [
   {"id":4612,"text":["doubt"]}
-],
+ ],
+
 "dubbioso": [
   {"id":4614,"text":["doubtful"]}
-],
+ ],
+
 "dubitare": [
   {"id":4613,"text":["doubt"]}
-],
+ ],
+
 "Dublino": [
   {"id":4706,"text":["Dublin"]}
-],
+ ],
+
 "duca": [
   {"id":4715,"text":["duke"]}
-],
+ ],
+
 "duchessa": [
   {"id":4738,"text":["dutchess"]}
-],
+ ],
+
 "due": [
   {"id":15162,"text":["two"]}
-],
+ ],
+
 "due volte": [
   {"id":15156,"text":["twice"]}
-],
+ ],
+
 "duecentesimo": [
   {"id":15166,"text":["twohundredth"]}
-],
+ ],
+
 "duecento": [
   {"id":15165,"text":["twohundred"]}
-],
+ ],
+
 "duellare": [
   {"id":4711,"text":["duel"]}
-],
+ ],
+
 "duello": [
   {"id":4712,"text":["duel"]}
-],
+ ],
+
 "duemila": [
   {"id":15167,"text":["twothousand"]}
-],
+ ],
+
 "duettare": [
   {"id":4713,"text":["duet"]}
-],
+ ],
+
 "duetto": [
   {"id":4714,"text":["duet"]}
-],
+ ],
+
 "duna": [
   {"id":4724,"text":["dune"]}
-],
+ ],
+
 "dunque": [
   {"id":13481,"text":["so"]},
   {"id":14604,"text":["therefore"]}
-],
+ ],
+
 "duodecimale": [
   {"id":4725,"text":["duodecimal"]}
-],
+ ],
+
 "duodenale": [
   {"id":4726,"text":["duodenal"]}
-],
+ ],
+
 "duplicare": [
   {"id":4728,"text":["duplicate"]}
-],
+ ],
+
 "duplicato": [
   {"id":4729,"text":["duplicate"]}
-],
+ ],
+
 "duplicazione": [
   {"id":4730,"text":["duplication"]}
-],
+ ],
+
 "duramente": [
   {"id":6813,"text":["hardly"]}
-],
+ ],
+
 "durante": [
   {"id":4733,"text":["during"]}
-],
+ ],
+
 "durare": [
   {"id":8320,"text":["last"]}
-],
+ ],
+
 "durata": [
   {"id":4732,"text":["duration"]},
   {"id":8442,"text":["length"]}
-],
+ ],
+
 "duraturo": [
   {"id":8322,"text":["lasting"]}
-],
+ ],
+
 "durevole": [
   {"id":4731,"text":["durable"]}
-],
+ ],
+
 "durezza": [
   {"id":6814,"text":["hardness"]}
-],
+ ],
+
 "duro": [
   {"id":6810,"text":["hard"]},
   {"id":6834,"text":["harsh"]},
   {"id":13805,"text":["stark"]},
   {"id":14844,"text":["tough"]}
-],
+ ],
+
 "duttile": [
   {"id":4709,"text":["ductile"]}
-]
-}
+ ]}

@@ -241,7 +241,7 @@ function loadDictionaryForLetter(letter) {
 
   const incomplete = allWords.filter(word => {
     const found = progress[mode][word] || [];
-    return completedGroups(word) < dictionary[mode][word].length;
+    return completedGroups(word) < getGroups(word).length;
   });
 
   if (incomplete.length === 0) {
@@ -272,40 +272,17 @@ function loadDictionaryForLetter(letter) {
 
 function completedGroups(word) {
 
-    const groups = dictionary[mode][word];
+    const groups = dictionary[mode][word] || [];
+    const found = progress[mode][word] || [];
 
-    let found = progress[mode][word];
-
-
-    if (!groups)
+    if (!Array.isArray(found))
         return 0;
-
-
-    // protezione da vecchi salvataggi corrotti
-    if (!Array.isArray(found)) {
-        console.warn(
-            "Progress non valido eliminato:",
-            word,
-            found
-        );
-
-        delete progress[mode][word];
-
-        localStorage.setItem(
-            "progress",
-            JSON.stringify(progress)
-        );
-
-        return 0;
-    }
 
 
     return groups.filter(group =>
         found.includes(group.id)
     ).length;
-
 }
-
 
 
   async function renderWorddexAccordion() {
@@ -361,9 +338,8 @@ function completedGroups(word) {
         itemRight.className = "word-item right";
 
         const all = getGroups(word)
-    .flat()
+    .flatMap(group => group.text)
     .sort((a,b)=>a.localeCompare(b));
-
         const foundIDs = progress[mode]?.[word] || [];
 
 const foundTexts = getGroups(word)
@@ -492,22 +468,41 @@ for (const group of groups) {
 }
 
 
-    if (matchedGroup) {
+if (matchedGroup) {
+
     if (!progress[mode][currentWordKey]) {
-      progress[mode][currentWordKey] = [];
+        progress[mode][currentWordKey] = [];
     }
 
-const foundBefore = progress[mode][currentWordKey]?.length || 0;
 
-if (
-    !progress[mode][currentWordKey]
-    .includes(matchedGroup.id)
-) {
+    if (
+        !progress[mode][currentWordKey]
+        .includes(matchedGroup.id)
+    ) {
 
-    progress[mode][currentWordKey]
-    .push(matchedGroup.id);
+        progress[mode][currentWordKey]
+        .push(matchedGroup.id);
 
-}
+    }
+
+
+    // se questa parola è madre,
+    // completa automaticamente tutti i figli
+    if (matchedGroup.master === true) {
+
+        for (const text of matchedGroup.text) {
+
+            if (!progress[mode][text]) {
+                progress[mode][text] = [];
+            }
+
+            if (!progress[mode][text].includes(matchedGroup.id)) {
+                progress[mode][text].push(matchedGroup.id);
+            }
+
+        }
+
+    }
   localStorage.setItem("progress", JSON.stringify(progress));
   recalcCountersFromProgress();
   updateCounters();

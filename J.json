@@ -1,271 +1,352 @@
-{
-  "jackal": [
-    {"id": 8103,"text": ["sciacallo"]}
-  ],
-  "jacket": [
-    {"id": 8104,"text": ["giacca"]}
-  ],
-  "jacobinism": [
-    {"id": 8105,"text": ["giacobinismo"]}
-  ],
-  "jacobite": [
-    {"id": 8106,"text": ["giacobita"]}
-  ],
-  "jade": [
-    {"id": 8107,"text": ["giada"]}
-  ],
-  "jaguar": [
-    {"id": 8108,"text": ["giaguaro"]}
-  ],
-  "jail": [
-    {"id": 8109,"text": ["galera"]},
-    {"id": 8110,"text": ["prigione"]}
-  ],
-  "Jakarta": [
-    {"id": 8111,"text": ["Giacarta"]}
-  ],
-  "jam": [
-    {"id": 8112,"text": ["marmellata"]}
-  ],
-  "Jamaica": [
-    {"id": 8113,"text": ["Giamaica"]}
-  ],
-  "Jamaican": [
-    {"id": 8114,"text": ["giamaicano"]}
-  ],
-  "January": [
-    {"id": 8115,"text": ["gennaio"]}
-  ],
-  "Japan": [
-    {"id": 8116,"text": ["Giappone"]}
-  ],
-  "Japanese": [
-    {"id": 8117,"text": ["giapponese"]}
-  ],
-  "jar": [
-    {"id": 8118,"text": ["giara"]},
-    {"id": 8119,"text": ["vaso"]},
-    {"id": 8120,"text": ["barattolo"]}
-  ],
-  "jasmine": [
-    {"id": 8121,"text": ["gelsomino"]}
-  ],
-  "jasper": [
-    {"id": 8122,"text": ["diaspro"]}
-  ],
-  "jaundice": [
-    {"id": 8123,"text": ["ittero"]}
-  ],
-  "javelin": [
-    {"id": 8124,"text": ["giavellotto"]}
-  ],
-  "jay": [
-    {"id": 8125,"text": ["ghiandaia"]}
-  ],
-  "jealous": [
-    {"id": 8126,"text": ["geloso"]}
-  ],
-  "jealously": [
-    {"id": 8127,"text": ["gelosamente"]}
-  ],
-  "jealousy": [
-    {"id": 8128,"text": ["gelosia"]}
-  ],
-  "Jehovah": [
-    {"id": 8129,"text": ["Geova"]}
-  ],
-  "jelly": [
-    {"id": 8130,"text": ["gelatina"]}
-  ],
-  "jellyfish": [
-    {"id": 8131,"text": ["medusa"]}
-  ],
-  "jersey": [
-    {"id": 8132,"text": ["maglia"]}
-  ],
-  "Jerusalem": [
-    {"id": 8133,"text": ["Gerusalemme"]}
-  ],
-  "jest": [
-    {"id": 8134,"text": ["scherzo"]}
-  ],
-  "jester": [
-    {"id": 8135,"text": ["giullare"]}
-  ],
-  "Jesus": [
-    {"id": 8136,"text": ["Gesù"]}
-  ],
-  "Jew": [
-    {"id": 8137,"text": ["ebreo"]}
-  ],
-  "jewel": [
-    {"id": 8138,"text": ["gioiello"]}
-  ],
-  "jewelery": [
-    {"id": 8139,"text": ["gioielleria"]},
-    {"id": 8140,"text": ["gioiello"]}
-  ],
-  "jewellery": [
-    {"id": 8141,"text": ["gioielleria"]},
-    {"id": 8142,"text": ["gioiello"]}
-  ],
-  "Jewish": [
-    {"id": 8143,"text": ["ebraico"]},
-    {"id": 8144,"text": ["ebreo"]}
-  ],
-  "jingle": [
-    {"id": 8145,"text": ["tintinnare"]},
-    {"id": 8146,"text": ["tintinnio"]}
-  ],
-  "job": [
-    {"id": 8147,"text": ["lavoro"]}
-  ],
-  "join": [
-    {"id": 8148,"text": ["unire"]}
-  ],
-  "joint": [
-    {"id": 8149,"text": ["articolazione"]},
-    {"id": 8150,"text": ["giuntura"]}
-  ],
-  "jointly": [
-    {"id": 8151,"text": ["congiuntamente"]}
-  ],
-  "joke": [
-    {"id": 8152,"text": ["barzelletta"]},
-    {"id": 8153,"text": ["scherzo"]}
-  ],
-  "joker": [
-    {"id": 8154,"text": ["burlone"]},
-    {"id": 8155,"text": ["jolly"]}
-  ],
-  "jokingly": [
-    {"id": 8156,"text": ["scherzosamente"]}
-  ],
-  "Jordan": [
-    {"id": 8157,"text": ["Giordania"]}
-  ],
-  "Jordanian": [
-    {"id": 8158,"text": ["giordano"]}
-  ],
-  "journal": [
-    {"id": 8159,"text": ["diario"]},
-    {"id": 8160,"text": ["rivista"]}
-  ],
-  "journalism": [
-    {"id": 8161,"text": ["giornalismo"]}
-  ],
-  "journalist": [
-    {"id": 8162,"text": ["giornalista"]}
-  ],
-  "journalistic": [
-    {"id": 8163,"text": ["giornalistico"]}
-  ],
-  "journey": [
-    {"id": 8164,"text": ["viaggio"]}
-  ],
-  "jovial": [
-    {"id": 8165,"text": ["gioviale"]}
-  ],
-  "joy": [
-    {"id": 8166,"text": ["gioia"]}
-  ],
-  "judaic": [
-    {"id": 8167,"text": ["giudaico"]}
-  ],
-  "judaism": [
-    {"id": 8168,"text": ["ebraismo"]}
-  ],
-  "judge": [
-    {"id": 8169,"text": ["giudicare"]},
-    {"id": 8170,"text": ["giudice"]}
-  ],
-  "judgement": [
-    {"id": 8171,"text": ["giudizio"]},
-    {"id": 8172,"text": ["sentenza"]}
-  ],
-  "judicial": [
-    {"id": 8173,"text": ["giudiziario"]}
-  ],
-  "judicially": [
-    {"id": 8174,"text": ["giudiziariamente"]}
-  ],
-  "jug": [
-    {"id": 8175,"text": ["brocca"]}
-  ],
-  "juice": [
-    {"id": 8176,"text": ["succo"]}
-  ],
-  "July": [
-    {"id": 8177,"text": ["luglio"]}
-  ],
-  "jump": [
-    {"id": 8178,"text": ["saltare"]},
-    {"id": 8179,"text": ["salto"]}
-  ],
-  "jumper": [
-    {"id": 8180,"text": ["maglione"]}
-  ],
-  "junction": [
-    {"id": 8181,"text": ["incrocio"]}
-  ],
-  "June": [
-    {"id": 8182,"text": ["giugno"]}
-  ],
-  "jungle": [
-    {"id": 8183,"text": ["giungla"]}
-  ],
-  "junior": [
-    {"id": 8184,"text": ["giovane"]}
-  ],
-  "Jupiter": [
-    {"id": 8185,"text": ["Giove"]}
-  ],
-  "juridical": [
-    {"id": 8186,"text": ["giuridico"]}
-  ],
-  "juridically": [
-    {"id": 8187,"text": ["giuridicamente"]}
-  ],
-  "jurisdiction": [
-    {"id": 8188,"text": ["giurisdizione"]}
-  ],
-  "jurisprudence": [
-    {"id": 8189,"text": ["giurisprudenza"]}
-  ],
-  "jurist": [
-    {"id": 8190,"text": ["giurista"]}
-  ],
-  "jury": [
-    {"id": 8191,"text": ["giuria"]}
-  ],
-  "just": [
-    {"id": 8192,"text": ["appena"]},
-    {"id": 8193,"text": ["esattamente"]},
-    {"id": 8194,"text": ["giusto"]},
-    {"id": 8195,"text": ["soltanto"]}
-  ],
-  "justice": [
-    {"id": 8196,"text": ["giustizia"]}
-  ],
-  "justifiable": [
-    {"id": 8197,"text": ["giustificabile"]}
-  ],
-  "justification": [
-    {"id": 8198,"text": ["giustificazione"]}
-  ],
-  "justify": [
-    {"id": 8199,"text": ["giustificare"]}
-  ],
-  "jute": [
-    {"id": 8200,"text": ["iuta"]}
-  ],
-  "juvenile": [
-    {"id": 8201,"text": ["giovanile"]}
-  ],
-  "juxtapose": [
-    {"id": 8202,"text": ["giustapporre"]}
-  ],
-  "juxtaposition": [
-    {"id": 8203,"text": ["giustapposizione"]}
-  ]
-}
+{"jackal": [
+  {"id":8103,"text":["sciacallo"]}
+ ],
+
+"jacket": [
+  {"id":8104,"text":["giacca"]}
+ ],
+
+"jacobinism": [
+  {"id":8105,"text":["giacobinismo"]}
+ ],
+
+"jacobite": [
+  {"id":8106,"text":["giacobita"]}
+ ],
+
+"jade": [
+  {"id":8107,"text":["giada"]}
+ ],
+
+"jaguar": [
+  {"id":8108,"text":["giaguaro"]}
+ ],
+
+"jail": [
+  {"id":8109,"text":["galera"]},
+  {"id":8110,"text":["prigione"]}
+ ],
+
+"Jakarta": [
+  {"id":8111,"text":["Giacarta"]}
+ ],
+
+"jam": [
+  {"id":8112,"text":["marmellata"]}
+ ],
+
+"Jamaica": [
+  {"id":8113,"text":["Giamaica"]}
+ ],
+
+"Jamaican": [
+  {"id":8114,"text":["giamaicano"]}
+ ],
+
+"January": [
+  {"id":8115,"text":["gennaio"]}
+ ],
+
+"Japan": [
+  {"id":8116,"text":["Giappone"]}
+ ],
+
+"Japanese": [
+  {"id":8117,"text":["giapponese"]}
+ ],
+
+"jar": [
+  {"id":8118,"text":["giara"]},
+  {"id":8119,"text":["vaso"]},
+  {"id":8120,"text":["barattolo"]}
+ ],
+
+"jasmine": [
+  {"id":8121,"text":["gelsomino"]}
+ ],
+
+"jasper": [
+  {"id":8122,"text":["diaspro"]}
+ ],
+
+"jaundice": [
+  {"id":8123,"text":["ittero"]}
+ ],
+
+"javelin": [
+  {"id":8124,"text":["giavellotto"]}
+ ],
+
+"jay": [
+  {"id":8125,"text":["ghiandaia"]}
+ ],
+
+"jealous": [
+  {"id":8126,"text":["geloso"]}
+ ],
+
+"jealously": [
+  {"id":8127,"text":["gelosamente"]}
+ ],
+
+"jealousy": [
+  {"id":8128,"text":["gelosia"]}
+ ],
+
+"Jehovah": [
+  {"id":8129,"text":["Geova"]}
+ ],
+
+"jelly": [
+  {"id":8130,"text":["gelatina"]}
+ ],
+
+"jellyfish": [
+  {"id":8131,"text":["medusa"]}
+ ],
+
+"jersey": [
+  {"id":8132,"text":["maglia"]}
+ ],
+
+"Jerusalem": [
+  {"id":8133,"text":["Gerusalemme"]}
+ ],
+
+"jest": [
+  {"id":8134,"text":["scherzo"]}
+ ],
+
+"jester": [
+  {"id":8135,"text":["giullare"]}
+ ],
+
+"Jesus": [
+  {"id":8136,"text":["Gesù"]}
+ ],
+
+"Jew": [
+  {"id":8137,"text":["ebreo"]}
+ ],
+
+"jewel": [
+  {"id":8138,"text":["gioiello"]}
+ ],
+
+"jewelery": [
+  {"id":8139,"text":["gioielleria"]},
+  {"id":8140,"text":["gioiello"]}
+ ],
+
+"jewellery": [
+  {"id":8141,"text":["gioielleria"]},
+  {"id":8142,"text":["gioiello"]}
+ ],
+
+"Jewish": [
+  {"id":8143,"text":["ebraico"]},
+  {"id":8144,"text":["ebreo"]}
+ ],
+
+"jingle": [
+  {"id":8145,"text":["tintinnare"]},
+  {"id":8146,"text":["tintinnio"]}
+ ],
+
+"job": [
+  {"id":8147,"text":["lavoro"]}
+ ],
+
+"join": [
+  {"id":8148,"text":["unire"]}
+ ],
+
+"joint": [
+  {"id":8149,"text":["articolazione"]},
+  {"id":8150,"text":["giuntura"]}
+ ],
+
+"jointly": [
+  {"id":8151,"text":["congiuntamente"]}
+ ],
+
+"joke": [
+  {"id":8152,"text":["barzelletta"]},
+  {"id":8153,"text":["scherzo"]}
+ ],
+
+"joker": [
+  {"id":8154,"text":["burlone"]},
+  {"id":8155,"text":["jolly"]}
+ ],
+
+"jokingly": [
+  {"id":8156,"text":["scherzosamente"]}
+ ],
+
+"Jordan": [
+  {"id":8157,"text":["Giordania"]}
+ ],
+
+"Jordanian": [
+  {"id":8158,"text":["giordano"]}
+ ],
+
+"journal": [
+  {"id":8159,"text":["diario"]},
+  {"id":8160,"text":["rivista"]}
+ ],
+
+"journalism": [
+  {"id":8161,"text":["giornalismo"]}
+ ],
+
+"journalist": [
+  {"id":8162,"text":["giornalista"]}
+ ],
+
+"journalistic": [
+  {"id":8163,"text":["giornalistico"]}
+ ],
+
+"journey": [
+  {"id":8164,"text":["viaggio"]}
+ ],
+
+"jovial": [
+  {"id":8165,"text":["gioviale"]}
+ ],
+
+"joy": [
+  {"id":8166,"text":["gioia"]}
+ ],
+
+"judaic": [
+  {"id":8167,"text":["giudaico"]}
+ ],
+
+"judaism": [
+  {"id":8168,"text":["ebraismo"]}
+ ],
+
+"judge": [
+  {"id":8169,"text":["giudicare"]},
+  {"id":8170,"text":["giudice"]}
+ ],
+
+"judgement": [
+  {"id":8171,"text":["giudizio"]},
+  {"id":8172,"text":["sentenza"]}
+ ],
+
+"judicial": [
+  {"id":8173,"text":["giudiziario"]}
+ ],
+
+"judicially": [
+  {"id":8174,"text":["giudiziariamente"]}
+ ],
+
+"jug": [
+  {"id":8175,"text":["brocca"]}
+ ],
+
+"juice": [
+  {"id":8176,"text":["succo"]}
+ ],
+
+"July": [
+  {"id":8177,"text":["luglio"]}
+ ],
+
+"jump": [
+  {"id":8178,"text":["saltare"]},
+  {"id":8179,"text":["salto"]}
+ ],
+
+"jumper": [
+  {"id":8180,"text":["maglione"]}
+ ],
+
+"junction": [
+  {"id":8181,"text":["incrocio"]}
+ ],
+
+"June": [
+  {"id":8182,"text":["giugno"]}
+ ],
+
+"jungle": [
+  {"id":8183,"text":["giungla"]}
+ ],
+
+"junior": [
+  {"id":8184,"text":["giovane"]}
+ ],
+
+"Jupiter": [
+  {"id":8185,"text":["Giove"]}
+ ],
+
+"juridical": [
+  {"id":8186,"text":["giuridico"]}
+ ],
+
+"juridically": [
+  {"id":8187,"text":["giuridicamente"]}
+ ],
+
+"jurisdiction": [
+  {"id":8188,"text":["giurisdizione"]}
+ ],
+
+"jurisprudence": [
+  {"id":8189,"text":["giurisprudenza"]}
+ ],
+
+"jurist": [
+  {"id":8190,"text":["giurista"]}
+ ],
+
+"jury": [
+  {"id":8191,"text":["giuria"]}
+ ],
+
+"just": [
+  {"id":8192,"text":["appena"]},
+  {"id":8193,"text":["esattamente"]},
+  {"id":8194,"text":["giusto"]},
+  {"id":8195,"text":["soltanto"]}
+ ],
+
+"justice": [
+  {"id":8196,"text":["giustizia"]}
+ ],
+
+"justifiable": [
+  {"id":8197,"text":["giustificabile"]}
+ ],
+
+"justification": [
+  {"id":8198,"text":["giustificazione"]}
+ ],
+
+"justify": [
+  {"id":8199,"text":["giustificare"]}
+ ],
+
+"jute": [
+  {"id":8200,"text":["iuta"]}
+ ],
+
+"juvenile": [
+  {"id":8201,"text":["giovanile"]}
+ ],
+
+"juxtapose": [
+  {"id":8202,"text":["giustapporre"]}
+ ],
+
+"juxtaposition": [
+  {"id":8203,"text":["giustapposizione"]}
+ ]}

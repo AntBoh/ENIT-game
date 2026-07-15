@@ -1,4360 +1,5686 @@
-{
-  "sabbatical": [
-    {"id": 12650,"text": ["sabbatico"]}
-  ],
-  "sabotage": [
-    {"id": 12651,"text": ["sabotaggio"]}
-  ],
-  "sabre": [
-    {"id": 12652,"text": ["sciabola"]}
-  ],
-  "saccharine": [
-    {"id": 12653,"text": ["saccarina"]}
-  ],
-  "saccharose": [
-    {"id": 12654,"text": ["saccarosio"]}
-  ],
-  "sack": [
-    {"id": 12655,"text": ["sacco"]}
-  ],
-  "sacrament": [
-    {"id": 12656,"text": ["sacramento"]}
-  ],
-  "sacramental": [
-    {"id": 12657,"text": ["sacramentale"]}
-  ],
-  "sacred": [
-    {"id": 12658,"text": ["sacro"]}
-  ],
-  "sacrifice": [
-    {"id": 12659,"text": ["sacrificare"]},
-    {"id": 12660,"text": ["sacrificio"]}
-  ],
-  "sacrilege": [
-    {"id": 12661,"text": ["sacrilegio"]}
-  ],
-  "sacristy": [
-    {"id": 12662,"text": ["sacrestia"]}
-  ],
-  "sad": [
-    {"id": 12663,"text": ["triste"]}
-  ],
-  "saddle": [
-    {"id": 12664,"text": ["sella"]}
-  ],
-  "sadism": [
-    {"id": 12665,"text": ["sadismo"]}
-  ],
-  "sadistic": [
-    {"id": 12666,"text": ["sadico"]}
-  ],
-  "sadly": [
-    {"id": 12667,"text": ["tristemente"]}
-  ],
-  "sadness": [
-    {"id": 12668,"text": ["tristezza"]}
-  ],
-  "sadomasochism": [
-    {"id": 12669,"text": ["sadomasochismo"]}
-  ],
-  "safari": [
-    {"id": 12670,"text": ["safari"]}
-  ],
-  "safe": [
-    {"id": 12671,"text": ["sicuro"]}
-  ],
-  "safe-conduct": [
-    {"id": 12672,"text": ["salvacondotto"]}
-  ],
-  "safeguard": [
-    {"id": 12673,"text": ["salvaguardare"]},
-    {"id": 12674,"text": ["salvaguardia"]}
-  ],
-  "safekeeping": [
-    {"id": 12675,"text": ["custodia"]}
-  ],
-  "safety": [
-    {"id": 12676,"text": ["sicurezza"]}
-  ],
-  "safflower": [
-    {"id": 12677,"text": ["cartamo"]}
-  ],
-  "saffron": [
-    {"id": 12678,"text": ["zafferano"]}
-  ],
-  "saga": [
-    {"id": 12679,"text": ["saga"]}
-  ],
-  "sage": [
-    {"id": 12680,"text": ["salvia"]}
-  ],
-  "sail": [
-    {"id": 12681,"text": ["navigare"]},
-    {"id": 12682,"text": ["vela"]}
-  ],
-  "sailboat": [
-    {"id": 12683,"text": ["barca a vela"]}
-  ],
-  "sailing": [
-    {"id": 12684,"text": ["navigazione"]}
-  ],
-  "sailor": [
-    {"id": 12685,"text": ["marinaio"]}
-  ],
-  "saint": [
-    {"id": 12686,"text": ["santo"]}
-  ],
-  "salad": [
-    {"id": 12687,"text": ["insalata"]}
-  ],
-  "salami": [
-    {"id": 12688,"text": ["salame"]}
-  ],
-  "salaried": [
-    {"id": 12689,"text": ["stipendiato"]}
-  ],
-  "salary": [
-    {"id": 12690,"text": ["salario"]},
-    {"id": 12691,"text": ["stipendio"]}
-  ],
-  "sale": [
-    {"id": 12692,"text": ["vendita"]},
-    {"id": 12693,"text": ["saldo"]}
-  ],
-  "saline": [
-    {"id": 12694,"text": ["salino"]}
-  ],
-  "saliva": [
-    {"id": 12695,"text": ["saliva"]}
-  ],
-  "salivary": [
-    {"id": 12696,"text": ["salivale"]}
-  ],
-  "salivate": [
-    {"id": 12697,"text": ["salivare"]}
-  ],
-  "salivation": [
-    {"id": 12698,"text": ["salivazione"]}
-  ],
-  "salt": [
-    {"id": 12699,"text": ["sale"]}
-  ],
-  "saltworks": [
-    {"id": 12700,"text": ["salina"]}
-  ],
-  "salvation": [
-    {"id": 12701,"text": ["redenzione"]},
-    {"id": 12702,"text": ["salvezza"]}
-  ],
-  "samarium": [
-    {"id": 12703,"text": ["samario"]}
-  ],
-  "same": [
-    {"id": 12704,"text": ["medesimo"]},
-    {"id": 12705,"text": ["stesso"]}
-  ],
-  "sample": [
-    {"id": 12706,"text": ["dimostrazione"]}
-  ],
-  "sampling": [
-    {"id": 12707,"text": ["campionamento"]}
-  ],
-  "Samson": [
-    {"id": 12708,"text": ["Sansone"]}
-  ],
-  "sanatorium": [
-    {"id": 12709,"text": ["sanatorio"]}
-  ],
-  "sanctify": [
-    {"id": 12710,"text": ["santificare"]}
-  ],
-  "sanction": [
-    {"id": 12711,"text": ["sanzionare"]},
-    {"id": 12712,"text": ["sanzione"]}
-  ],
-  "sanctuary": [
-    {"id": 12713,"text": ["santuario"]}
-  ],
-  "sand": [
-    {"id": 12714,"text": ["sabbia"]}
-  ],
-  "sandal": [
-    {"id": 12715,"text": ["sandalo"]}
-  ],
-  "sandwich": [
-    {"id": 12716,"text": ["sandwich"]}
-  ],
-  "sandy": [
-    {"id": 12717,"text": ["sabbioso"]}
-  ],
-  "sane": [
-    {"id": 12718,"text": ["sano"]}
-  ],
-  "sanitary": [
-    {"id": 12719,"text": ["sanitario"]}
-  ],
-  "sap": [
-    {"id": 12720,"text": ["linfa"]}
-  ],
-  "sapphire": [
-    {"id": 12721,"text": ["zaffiro"]}
-  ],
-  "saprophyte": [
-    {"id": 12722,"text": ["saprofita"]}
-  ],
-  "sarcasm": [
-    {"id": 12723,"text": ["sarcasmo"]}
-  ],
-  "sarcomere": [
-    {"id": 12724,"text": ["sarcomero"]}
-  ],
-  "sarcophagus": [
-    {"id": 12725,"text": ["sarcofago"]}
-  ],
-  "sarcoplasm": [
-    {"id": 12726,"text": ["sarcoplasma"]}
-  ],
-  "sardine": [
-    {"id": 12727,"text": ["sardina"]}
-  ],
-  "Sardinia": [
-    {"id": 12728,"text": ["Sardegna"]}
-  ],
-  "Satan": [
-    {"id": 12729,"text": ["Satana"]}
-  ],
-  "satellite": [
-    {"id": 12730,"text": ["satellite"]}
-  ],
-  "satiate": [
-    {"id": 12731,"text": ["saziare"]}
-  ],
-  "satin": [
-    {"id": 12732,"text": ["raso"]}
-  ],
-  "satire": [
-    {"id": 12733,"text": ["satira"]}
-  ],
-  "satirical": [
-    {"id": 12734,"text": ["satirico"]}
-  ],
-  "satisfaction": [
-    {"id": 12735,"text": ["soddisfazione"]}
-  ],
-  "satisfactory": [
-    {"id": 12736,"text": ["soddisfacente"]}
-  ],
-  "satisfied": [
-    {"id": 12737,"text": ["soddisfatto"]}
-  ],
-  "satisfy": [
-    {"id": 12738,"text": ["soddisfare"]}
-  ],
-  "satisfying": [
-    {"id": 12739,"text": ["soddisfacente"]}
-  ],
-  "satrap": [
-    {"id": 12740,"text": ["satrapo"]}
-  ],
-  "saturate": [
-    {"id": 12741,"text": ["saturare"]}
-  ],
-  "saturated": [
-    {"id": 12742,"text": ["saturato"]},
-    {"id": 12743,"text": ["saturo"]}
-  ],
-  "saturation": [
-    {"id": 12744,"text": ["saturazione"]}
-  ],
-  "Saturday": [
-    {"id": 12745,"text": ["sabato"]}
-  ],
-  "Saturn": [
-    {"id": 12746,"text": ["Saturno"]}
-  ],
-  "saturnism": [
-    {"id": 12747,"text": ["saturnismo"]}
-  ],
-  "satyr": [
-    {"id": 12748,"text": ["satiro"]}
-  ],
-  "sauce": [
-    {"id": 12749,"text": ["salsa"]}
-  ],
-  "Saudi Arabia": [
-    {"id": 12750,"text": ["Arabia Saudita"]}
-  ],
-  "sauna": [
-    {"id": 12751,"text": ["sauna"]}
-  ],
-  "sausage": [
-    {"id": 12752,"text": ["salsiccia"]}
-  ],
-  "savage": [
-    {"id": 12753,"text": ["selvaggio"]}
-  ],
-  "savannah": [
-    {"id": 12754,"text": ["savana"]}
-  ],
-  "save": [
-    {"id": 12755,"text": ["risparmiare"]},
-    {"id": 12756,"text": ["salvare"]},
-    {"id": 12757,"text": ["salvataggio"]}
-  ],
-  "save up": [
-    {"id": 12758,"text": ["risparmiare"]}
-  ],
-  "saving": [
-    {"id": 12759,"text": ["risparmio"]}
-  ],
-  "savior": [
-    {"id": 12760,"text": ["salvatore"]}
-  ],
-  "saviour": [
-    {"id": 12761,"text": ["salvatore"]}
-  ],
-  "saw": [
-    {"id": 12762,"text": ["sega"]},
-    {"id": 12763,"text": ["segare"]}
-  ],
-  "sawmill": [
-    {"id": 12764,"text": ["segheria"]}
-  ],
-  "sax": [
-    {"id": 12765,"text": ["sassofono"]}
-  ],
-  "saxophone": [
-    {"id": 12766,"text": ["sassofono"]}
-  ],
-  "saxophonist": [
-    {"id": 12767,"text": ["sassofonista"]}
-  ],
-  "say": [
-    {"id": 12768,"text": ["dire"]}
-  ],
-  "saying": [
-    {"id": 12769,"text": ["detto"]}
-  ],
-  "scabies": [
-    {"id": 12770,"text": ["scabbia"]}
-  ],
-  "scaffolding": [
-    {"id": 12771,"text": ["impalcatura"]}
-  ],
-  "scale": [
-    {"id": 12772,"text": ["bilancia"]},
-    {"id": 12773,"text": ["scaglia"]},
-    {"id": 12774,"text": ["scala"]},
-    {"id": 12775,"text": ["squama"]}
-  ],
-  "scalp": [
-    {"id": 12776,"text": ["cuoio capelluto"]},
-    {"id": 12777,"text": ["scalpo"]}
-  ],
-  "scalpel": [
-    {"id": 12778,"text": ["bisturi"]}
-  ],
-  "scam": [
-    {"id": 12779,"text": ["truffa"]}
-  ],
-  "scan": [
-    {"id": 12780,"text": ["scannerizzare"]},
-    {"id": 12781,"text": ["scansione"]},
-    {"id": 12782,"text": ["scrutare"]}
-  ],
-  "scandal": [
-    {"id": 12783,"text": ["scandalo"]}
-  ],
-  "scandalise": [
-    {"id": 12784,"text": ["scandalizzare"]}
-  ],
-  "scanner": [
-    {"id": 12785,"text": ["scanner"]}
-  ],
-  "scanning": [
-    {"id": 12786,"text": ["scansione"]}
-  ],
-  "scapula": [
-    {"id": 12787,"text": ["scapola"]}
-  ],
-  "scar": [
-    {"id": 12788,"text": ["cicatrice"]}
-  ],
-  "scarce": [
-    {"id": 12789,"text": ["scarso"]}
-  ],
-  "scarcely": [
-    {"id": 12790,"text": ["scarsamente"]}
-  ],
-  "scare": [
-    {"id": 12791,"text": ["paura"]},
-    {"id": 12792,"text": ["spaventare"]}
-  ],
-  "scarf": [
-    {"id": 12793,"text": ["sciarpa"]}
-  ],
-  "scarification": [
-    {"id": 12794,"text": ["cicatrizzazione"]}
-  ],
-  "scarlet": [
-    {"id": 12795,"text": ["scarlatto"]}
-  ],
-  "scenario": [
-    {"id": 12796,"text": ["scenario"]}
-  ],
-  "scene": [
-    {"id": 12797,"text": ["scena"]}
-  ],
-  "scenic": [
-    {"id": 12798,"text": ["scenico"]}
-  ],
-  "scenographical": [
-    {"id": 12799,"text": ["scenografico"]}
-  ],
-  "scenography": [
-    {"id": 12800,"text": ["scenografia"]}
-  ],
-  "scent": [
-    {"id": 12801,"text": ["profumo"]}
-  ],
-  "scepter": [
-    {"id": 12802,"text": ["scettro"]}
-  ],
-  "scepticism": [
-    {"id": 12803,"text": ["scetticismo"]}
-  ],
-  "schedule": [
-    {"id": 12804,"text": ["orario"]},
-    {"id": 12805,"text": ["pianificare"]},
-    {"id": 12806,"text": ["programma"]},
-    {"id": 12807,"text": ["programmare"]}
-  ],
-  "schematic": [
-    {"id": 12808,"text": ["schematico"]}
-  ],
-  "scheme": [
-    {"id": 12809,"text": ["schema"]}
-  ],
-  "schizophrenia": [
-    {"id": 12810,"text": ["schizofrenia"]}
-  ],
-  "schizophrenic": [
-    {"id": 12811,"text": ["schizofrenico"]}
-  ],
-  "scholar": [
-    {"id": 12812,"text": ["erudito"]},
-    {"id": 12813,"text": ["studioso"]}
-  ],
-  "scholarly": [
-    {"id": 12814,"text": ["erudito"]}
-  ],
-  "scholarship": [
-    {"id": 12815,"text": ["borsadistudio"]}
-  ],
-  "scholastic": [
-    {"id": 12816,"text": ["scolastico"]}
-  ],
-  "school": [
-    {"id": 12817,"text": ["banco"]},
-    {"id": 12818,"text": ["scuola"]}
-  ],
-  "schoolchild": [
-    {"id": 12819,"text": ["scolaro"]}
-  ],
-  "science": [
-    {"id": 12820,"text": ["scienza"]}
-  ],
-  "sciencefiction": [
-    {"id": 12821,"text": ["fantascienza"]}
-  ],
-  "scientific": [
-    {"id": 12822,"text": ["scientifico"]}
-  ],
-  "scientifically": [
-    {"id": 12823,"text": ["scientificamente"]}
-  ],
-  "scientist": [
-    {"id": 12824,"text": ["scienziato"]}
-  ],
-  "scissors": [
-    {"id": 12825,"text": ["forbici"]}
-  ],
-  "scoliosis": [
-    {"id": 12826,"text": ["scoliosi"]}
-  ],
-  "scoop": [
-    {"id": 12827,"text": ["esclusiva"]},
-    {"id": 12828,"text": ["paletta"]}
-  ],
-  "scope": [
-    {"id": 12829,"text": ["portata"]},
-    {"id": 12830,"text": ["mirino"]}
-  ],
-  "scorbutic": [
-    {"id": 12831,"text": ["scorbutico"]}
-  ],
-  "score": [
-    {"id": 12832,"text": ["marcare"]},
-    {"id": 12833,"text": ["punteggio"]},
-    {"id": 12834,"text": ["totalizzare"]},
-    {"id": 12835,"text": ["ventina"]}
-  ],
-  "scorer": [
-    {"id": 12836,"text": ["marcatore"]}
-  ],
-  "Scotland": [
-    {"id": 12837,"text": ["Scozia"]}
-  ],
-  "Scottish": [
-    {"id": 12838,"text": ["scozzese"]}
-  ],
-  "scour": [
-    {"id": 12839,"text": ["perlustrare"]},
-    {"id": 12840,"text": ["setacciare"]}
-  ],
-  "scourge": [
-    {"id": 12841,"text": ["flagello"]}
-  ],
-  "scrap": [
-    {"id": 12842,"text": ["rottamare"]},
-    {"id": 12843,"text": ["rottame"]},
-    {"id": 12844,"text": ["scartare"]},
-    {"id": 12845,"text": ["scarto"]}
-  ],
-  "scrape": [
-    {"id": 12846,"text": ["grattare"]},
-    {"id": 12847,"text": ["raschiare"]}
-  ],
-  "scraper": [
-    {"id": 12848,"text": ["raschietto"]}
-  ],
-  "scratch": [
-    {"id": 12849,"text": ["graffiare"]},
-    {"id": 12850,"text": ["graffio"]},
-    {"id": 12851,"text": ["grattare"]},
-    {"id": 12852,"text": ["zero"]}
-  ],
-  "scream": [
-    {"id": 12853,"text": ["gridare"]},
-    {"id": 12854,"text": ["grido"]}
-  ],
-  "screen": [
-    {"id": 12855,"text": ["schermo"]}
-  ],
-  "screening": [
-    {"id": 12856,"text": ["esplorazione"]}
-  ],
-  "screw": [
-    {"id": 12857,"text": ["avvitare"]},
-    {"id": 12858,"text": ["vite"]}
-  ],
-  "screwdriver": [
-    {"id": 12859,"text": ["cacciavite"]}
-  ],
-  "script": [
-    {"id": 12860,"text": ["copione"]},
-    {"id": 12861,"text": ["sceneggiatura"]}
-  ],
-  "scriptwriter": [
-    {"id": 12862,"text": ["sceneggiatore"]}
-  ],
-  "scrotum": [
-    {"id": 12863,"text": ["scroto"]}
-  ],
-  "scrub": [
-    {"id": 12864,"text": ["macchia"]},
-    {"id": 12865,"text": ["pulire"]},
-    {"id": 12866,"text": ["strofinare"]}
-  ],
-  "scruple": [
-    {"id": 12867,"text": ["scrupolo"]}
-  ],
-  "scubadiving": [
-    {"id": 12868,"text": ["immersionesubacquea"]}
-  ],
-  "scuffle": [
-    {"id": 12869,"text": ["colluttazione"]}
-  ],
-  "sculptor": [
-    {"id": 12870,"text": ["scultore"]}
-  ],
-  "sculptural": [
-    {"id": 12871,"text": ["scultoreo"]}
-  ],
-  "sculpture": [
-    {"id": 12872,"text": ["scultura"]}
-  ],
-  "scum": [
-    {"id": 12873,"text": ["feccia"]}
-  ],
-  "scurvy": [
-    {"id": 12874,"text": ["scorbuto"]}
-  ],
-  "sea": [
-    {"id": 12875,"text": ["mare"]}
-  ],
-  "seaboard": [
-    {"id": 12876,"text": ["litorale"]}
-  ],
-  "seagull": [
-    {"id": 12877,"text": ["gabbiano"]}
-  ],
-  "seal": [
-    {"id": 12878,"text": ["foca"]},
-    {"id": 12879,"text": ["francobollo"]},
-    {"id": 12880,"text": ["sigillare"]}
-  ],
-  "search": [
-    {"id": 12881,"text": ["cercare"]},
-    {"id": 12882,"text": ["ricerca"]}
-  ],
-  "searchengine": [
-    {"id": 12883,"text": ["motorediricerca"]}
-  ],
-  "seashell": [
-    {"id": 12884,"text": ["conchiglia"]}
-  ],
-  "season": [
-    {"id": 12885,"text": ["stagione"]}
-  ],
-  "seasonal": [
-    {"id": 12886,"text": ["stagionale"]}
-  ],
-  "seat": [
-    {"id": 12887,"text": ["sedere"]},
-    {"id": 12888,"text": ["sedile"]}
-  ],
-  "seaweed": [
-    {"id": 12889,"text": ["alga"]}
-  ],
-  "secession": [
-    {"id": 12890,"text": ["secessione"]}
-  ],
-  "secessionism": [
-    {"id": 12891,"text": ["secessionismo"]}
-  ],
-  "seclusion": [
-    {"id": 12892,"text": ["clausura"]}
-  ],
-  "second": [
-    {"id": 12893,"text": ["appoggiare"]},
-    {"id": 12894,"text": ["secondo"]}
-  ],
-  "secondary": [
-    {"id": 12895,"text": ["secondario"]}
-  ],
-  "secondly": [
-    {"id": 12896,"text": ["insecondoluogo"]}
-  ],
-  "secrecy": [
-    {"id": 12897,"text": ["segretezza"]}
-  ],
-  "secret": [
-    {"id": 12898,"text": ["segreto"]}
-  ],
-  "secretariat": [
-    {"id": 12899,"text": ["segreteria"]}
-  ],
-  "secretary": [
-    {"id": 12900,"text": ["segretario"]}
-  ],
-  "secrete": [
-    {"id": 12901,"text": ["secernere"]}
-  ],
-  "secretion": [
-    {"id": 12902,"text": ["secrezione"]}
-  ],
-  "secretly": [
-    {"id": 12903,"text": ["segretamente"]}
-  ],
-  "sect": [
-    {"id": 12904,"text": ["setta"]}
-  ],
-  "section": [
-    {"id": 12905,"text": ["sezione"]}
-  ],
-  "sector": [
-    {"id": 12906,"text": ["settore"]}
-  ],
-  "sectorial": [
-    {"id": 12907,"text": ["settoriale"]}
-  ],
-  "secular": [
-    {"id": 12908,"text": ["laico"]},
-    {"id": 12909,"text": ["secolare"]}
-  ],
-  "secularisation": [
-    {"id": 12910,"text": ["laicizzazione"]},
-    {"id": 12911,"text": ["secolarizzazione"]}
-  ],
-  "secure": [
-    {"id": 12912,"text": ["assicurare"]},
-    {"id": 12913,"text": ["sicuro"]}
-  ],
-  "security": [
-    {"id": 12914,"text": ["sicurezza"]}
-  ],
-  "sedation": [
-    {"id": 12915,"text": ["sedazione"]}
-  ],
-  "sedative": [
-    {"id": 12916,"text": ["sedativo"]}
-  ],
-  "sedentarism": [
-    {"id": 12917,"text": ["sedentarismo"]}
-  ],
-  "sedentary": [
-    {"id": 12918,"text": ["sedentario"]}
-  ],
-  "sediment": [
-    {"id": 12919,"text": ["sedimento"]}
-  ],
-  "sedimentation": [
-    {"id": 12920,"text": ["sedimentazione"]}
-  ],
-  "sedimentology": [
-    {"id": 12921,"text": ["sedimentologia"]}
-  ],
-  "sedition": [
-    {"id": 12922,"text": ["sedizione"]}
-  ],
-  "seduce": [
-    {"id": 12923,"text": ["sedurre"]}
-  ],
-  "seducer": [
-    {"id": 12924,"text": ["seduttore"]}
-  ],
-  "seduction": [
-    {"id": 12925,"text": ["seduzione"]}
-  ],
-  "seductive": [
-    {"id": 12926,"text": ["seduttore"]}
-  ],
-  "seductress": [
-    {"id": 12927,"text": ["seduttore"]}
-  ],
-  "see": [
-    {"id": 12928,"text": ["vedere"]}
-  ],
-  "seed": [
-    {"id": 12929,"text": ["seme"]},
-    {"id": 12930,"text": ["seminare"]}
-  ],
-  "seek": [
-    {"id": 12931,"text": ["cercare"]}
-  ],
-  "seem": [
-    {"id": 12932,"text": ["sembrare"]}
-  ],
-  "seemingly": [
-    {"id": 12933,"text": ["apparentemente"]}
-  ],
-  "seemlike": [
-    {"id": 12934,"text": ["sembrare"]}
-  ],
-  "seen": [
-    {"id": 12935,"text": ["visto"]}
-  ],
-  "segment": [
-    {"id": 12936,"text": ["segmento"]}
-  ],
-  "segmentation": [
-    {"id": 12937,"text": ["segmentazione"]}
-  ],
-  "segregation": [
-    {"id": 12938,"text": ["segregazione"]}
-  ],
-  "segregationism": [
-    {"id": 12939,"text": ["segregazionismo"]}
-  ],
-  "seism": [
-    {"id": 12940,"text": ["terremoto"]}
-  ],
-  "seismograph": [
-    {"id": 12941,"text": ["sismografo"]}
-  ],
-  "seismology": [
-    {"id": 12942,"text": ["sismologia"]}
-  ],
-  "seismometer": [
-    {"id": 12943,"text": ["sismometro"]}
-  ],
-  "seize": [
-    {"id": 12944,"text": ["confiscare"]}
-  ],
-  "seldom": [
-    {"id": 12945,"text": ["raramente"]}
-  ],
-  "select": [
-    {"id": 12946,"text": ["scegliere"]},
-    {"id": 12947,"text": ["selezionare"]}
-  ],
-  "selectable": [
-    {"id": 12948,"text": ["selezionabile"]}
-  ],
-  "selection": [
-    {"id": 12949,"text": ["selezione"]}
-  ],
-  "selective": [
-    {"id": 12950,"text": ["selettivo"]}
-  ],
-  "selenium": [
-    {"id": 12951,"text": ["selenio"]}
-  ],
-  "self-criticism": [
-    {"id": 12952,"text": ["autocritica"]}
-  ],
-  "self-defence": [
-    {"id": 12953,"text": ["autodifesa"]}
-  ],
-  "self-defense": [
-    {"id": 12954,"text": ["autodifesa"]}
-  ],
-  "self-determination": [
-    {"id": 12955,"text": ["autodeterminazione"]}
-  ],
-  "self-esteem": [
-    {"id": 12956,"text": ["autostima"]}
-  ],
-  "self-financing": [
-    {"id": 12957,"text": ["autofinanziamento"]}
-  ],
-  "self-limitation": [
-    {"id": 12958,"text": ["autolimitazione"]}
-  ],
-  "self-portrait": [
-    {"id": 12959,"text": ["autoritratto"]}
-  ],
-  "self-sufficient": [
-    {"id": 12960,"text": ["autosufficiente"]}
-  ],
-  "selfishness": [
-    {"id": 12961,"text": ["egoismo"]}
-  ],
-  "selfless": [
-    {"id": 12962,"text": ["altruista"]},
-    {"id": 12963,"text": ["disinteressando"]}
-  ],
-  "selflessness": [
-    {"id": 12964,"text": ["altruismo"]}
-  ],
-  "sell": [
-    {"id": 12965,"text": ["vendere"]}
-  ],
-  "semantic": [
-    {"id": 12966,"text": ["semantico"]}
-  ],
-  "semantics": [
-    {"id": 12967,"text": ["semantica"]}
-  ],
-  "semaphore": [
-    {"id": 12968,"text": ["semaforo"]}
-  ],
-  "semblance": [
-    {"id": 12969,"text": ["parvenza"]},
-    {"id": 12970,"text": ["sembianza"]}
-  ],
-  "semeiotic": [
-    {"id": 12971,"text": ["semiotico"]}
-  ],
-  "semen": [
-    {"id": 12972,"text": ["sperma"]}
-  ],
-  "semiannual": [
-    {"id": 12973,"text": ["semestrale"]}
-  ],
-  "semiautomatic": [
-    {"id": 12974,"text": ["semiautomatico"]}
-  ],
-  "semicircle": [
-    {"id": 12975,"text": ["semicerchio"]}
-  ],
-  "semiconductor": [
-    {"id": 12976,"text": ["semiconduttore"]}
-  ],
-  "semifinalist": [
-    {"id": 12977,"text": ["semifinalista"]}
-  ],
-  "seminal": [
-    {"id": 12978,"text": ["seminale"]}
-  ],
-  "seminar": [
-    {"id": 12979,"text": ["seminario"]}
-  ],
-  "seminarist": [
-    {"id": 12980,"text": ["seminarista"]}
-  ],
-  "semiologist": [
-    {"id": 12981,"text": ["semiologo"]}
-  ],
-  "semiology": [
-    {"id": 12982,"text": ["semiologia"]}
-  ],
-  "semipresidential": [
-    {"id": 12983,"text": ["semipresidenziale"]}
-  ],
-  "semivocal": [
-    {"id": 12984,"text": ["semivocale"]}
-  ],
-  "senate": [
-    {"id": 12985,"text": ["senato"]}
-  ],
-  "senator": [
-    {"id": 12986,"text": ["senatore"]}
-  ],
-  "senatorial": [
-    {"id": 12987,"text": ["senatoriale"]}
-  ],
-  "send": [
-    {"id": 12988,"text": ["inviare"]},
-    {"id": 12989,"text": ["mandare"]},
-    {"id": 12990,"text": ["spedire"]}
-  ],
-  "sending": [
-    {"id": 12991,"text": ["spedizione"]}
-  ],
-  "senegalese": [
-    {"id": 12992,"text": ["senegalese"]}
-  ],
-  "seneschal": [
-    {"id": 12993,"text": ["siniscalco"]}
-  ],
-  "senile": [
-    {"id": 12994,"text": ["senile"]}
-  ],
-  "senior": [
-    {"id": 12995,"text": ["senior"]}
-  ],
-  "sensation": [
-    {"id": 12996,"text": ["sensazione"]}
-  ],
-  "sensational": [
-    {"id": 12997,"text": ["sensazionale"]}
-  ],
-  "sensationalism": [
-    {"id": 12998,"text": ["sensazionalismo"]}
-  ],
-  "sensationalistic": [
-    {"id": 12999,"text": ["sensazionalista"]}
-  ],
-  "sense": [
-    {"id": 13000,"text": ["percepire"]},
-    {"id": 13001,"text": ["senso"]},
-    {"id": 13002,"text": ["sentire"]}
-  ],
-  "sensitisation": [
-    {"id": 13003,"text": ["sensibilizzazione"]}
-  ],
-  "sensitise": [
-    {"id": 13004,"text": ["sensibilizzare"]}
-  ],
-  "sensitive": [
-    {"id": 13005,"text": ["sensibile"]}
-  ],
-  "sensor": [
-    {"id": 13006,"text": ["sensore"]}
-  ],
-  "sensory": [
-    {"id": 13007,"text": ["sensoriale"]}
-  ],
-  "sensual": [
-    {"id": 13008,"text": ["sensuale"]}
-  ],
-  "sensualism": [
-    {"id": 13009,"text": ["sensismo"]}
-  ],
-  "sentence": [
-    {"id": 13010,"text": ["frase"]},
-    {"id": 13011,"text": ["sentenza"]}
-  ],
-  "sentential": [
-    {"id": 13012,"text": ["sentenziale"]}
-  ],
-  "sentimental": [
-    {"id": 13013,"text": ["sentimentale"]}
-  ],
-  "sentimentalism": [
-    {"id": 13014,"text": ["sentimentalismo"]}
-  ],
-  "separable": [
-    {"id": 13015,"text": ["separabile"]}
-  ],
-  "separate": [
-    {"id": 13016,"text": ["separare"]},
-    {"id": 13017,"text": ["separato"]}
-  ],
-  "separately": [
-    {"id": 13018,"text": ["separatamente"]}
-  ],
-  "separation": [
-    {"id": 13019,"text": ["separazione"]}
-  ],
-  "sepia": [
-    {"id": 13020,"text": ["seppia"]}
-  ],
-  "september": [
-    {"id": 13021,"text": ["settembre"]}
-  ],
-  "septic": [
-    {"id": 13022,"text": ["settico"]}
-  ],
-  "septicemia": [
-    {"id": 13023,"text": ["setticemia"]}
-  ],
-  "septum": [
-    {"id": 13024,"text": ["setto"]}
-  ],
-  "sequela": [
-    {"id": 13025,"text": ["sequela"]}
-  ],
-  "sequence": [
-    {"id": 13026,"text": ["sequenza"]}
-  ],
-  "sequential": [
-    {"id": 13027,"text": ["sequenziale"]}
-  ],
-  "serenade": [
-    {"id": 13028,"text": ["serenata"]}
-  ],
-  "sergeant": [
-    {"id": 13029,"text": ["sergente"]}
-  ],
-  "series": [
-    {"id": 13030,"text": ["serie"]}
-  ],
-  "serious": [
-    {"id": 13031,"text": ["serio"]}
-  ],
-  "seriously": [
-    {"id": 13032,"text": ["seriamente"]}
-  ],
-  "seriouslynow": [
-    {"id": 13033,"text": ["seriamente"]}
-  ],
-  "sermon": [
-    {"id": 13034,"text": ["sermone"]}
-  ],
-  "serology": [
-    {"id": 13035,"text": ["sierologia"]}
-  ],
-  "serotherapy": [
-    {"id": 13036,"text": ["sieroterapia"]}
-  ],
-  "serotonin": [
-    {"id": 13037,"text": ["serotonina"]}
-  ],
-  "serum": [
-    {"id": 13038,"text": ["siero"]}
-  ],
-  "servant": [
-    {"id": 13039,"text": ["inserviente"]},
-    {"id": 13040,"text": ["servo"]}
-  ],
-  "serve": [
-    {"id": 13041,"text": ["servire"]}
-  ],
-  "server": [
-    {"id": 13042,"text": ["servo"]}
-  ],
-  "service": [
-    {"id": 13043,"text": ["servizio"]}
-  ],
-  "servomechanism": [
-    {"id": 13044,"text": ["servomeccanismo"]}
-  ],
-  "sesame": [
-    {"id": 13045,"text": ["sesamo"]}
-  ],
-  "set": [
-    {"id": 13046,"text": ["impostare"]},
-    {"id": 13047,"text": ["insieme"]},
-    {"id": 13048,"text": ["mettere"]},
-    {"id": 13049,"text": ["preparare"]},
-    {"id": 13050,"text": ["set"]}
-  ],
-  "setting": [
-    {"id": 13051,"text": ["ambientazione"]},
-    {"id": 13052,"text": ["impostazione"]}
-  ],
-  "settle": [
-    {"id": 13053,"text": ["risolvere"]}
-  ],
-  "settlement": [
-    {"id": 13054,"text": ["assestamento"]},
-    {"id": 13055,"text": ["insediamento"]}
-  ],
-  "seven": [
-    {"id": 13056,"text": ["sette"]}
-  ],
-  "seven hundred": [
-    {"id": 13057,"text": ["settecento"]}
-  ],
-  "sevenhundredth": [
-    {"id": 13058,"text": ["settecentesimo"]}
-  ],
-  "seventeen": [
-    {"id": 13059,"text": ["diciassette"]}
-  ],
-  "seventeenth": [
-    {"id": 13060,"text": ["diciassettesimo"]}
-  ],
-  "seventeenthousand": [
-    {"id": 13061,"text": ["diciassettemila"]}
-  ],
-  "seventh": [
-    {"id": 13062,"text": ["settimo"]}
-  ],
-  "seventhousand": [
-    {"id": 13063,"text": ["settemila"]}
-  ],
-  "seventieth": [
-    {"id": 13064,"text": ["settantesimo"]}
-  ],
-  "seventy": [
-    {"id": 13065,"text": ["settanta"]}
-  ],
-  "seventyeight": [
-    {"id": 13066,"text": ["settantotto"]}
-  ],
-  "seventyeightthousand": [
-    {"id": 13067,"text": ["settantottomila"]}
-  ],
-  "seventyfive": [
-    {"id": 13068,"text": ["settantacinque"]}
-  ],
-  "seventyfivethousand": [
-    {"id": 13069,"text": ["settantacinquemila"]}
-  ],
-  "seventyfour": [
-    {"id": 13070,"text": ["settantaquattro"]}
-  ],
-  "seventyfourthousand": [
-    {"id": 13071,"text": ["settantaquattromila"]}
-  ],
-  "seventynine": [
-    {"id": 13072,"text": ["settantanove"]}
-  ],
-  "seventyninethousand": [
-    {"id": 13073,"text": ["settantanovemila"]}
-  ],
-  "seventyone": [
-    {"id": 13074,"text": ["settantuno"]}
-  ],
-  "seventyonethousand": [
-    {"id": 13075,"text": ["settantunomila"]}
-  ],
-  "seventyseven": [
-    {"id": 13076,"text": ["settantasette"]}
-  ],
-  "seventyseventhousand": [
-    {"id": 13077,"text": ["settantasettemila"]}
-  ],
-  "seventysix": [
-    {"id": 13078,"text": ["settantasei"]}
-  ],
-  "seventysixthousand": [
-    {"id": 13079,"text": ["settantaseimila"]}
-  ],
-  "seventythousand": [
-    {"id": 13080,"text": ["settantamila"]}
-  ],
-  "seventythreethousand": [
-    {"id": 13081,"text": ["settantatremila"]}
-  ],
-  "seventytwo": [
-    {"id": 13082,"text": ["settantadue"]}
-  ],
-  "seventytwothousand": [
-    {"id": 13083,"text": ["settantaduemila"]}
-  ],
-  "several": [
-    {"id": 13084,"text": ["diverso"]},
-    {"id": 13085,"text": ["moltos"]}
-  ],
-  "severalmonths": [
-    {"id": 13086,"text": ["parecchimesi"]}
-  ],
-  "severe": [
-    {"id": 13087,"text": ["severo"]}
-  ],
-  "severely": [
-    {"id": 13088,"text": ["severamente"]}
-  ],
-  "Seville": [
-    {"id": 13089,"text": ["Siviglia"]}
-  ],
-  "sew": [
-    {"id": 13090,"text": ["cucire"]}
-  ],
-  "sewerage": [
-    {"id": 13091,"text": ["fogna"]},
-    {"id": 13092,"text": ["fognatura"]}
-  ],
-  "sex": [
-    {"id": 13093,"text": ["sesso"]}
-  ],
-  "sexagesimal": [
-    {"id": 13094,"text": ["sessagesimale"]}
-  ],
-  "sexism": [
-    {"id": 13095,"text": ["sessismo"]}
-  ],
-  "sexology": [
-    {"id": 13096,"text": ["sessuologia"]}
-  ],
-  "sextant": [
-    {"id": 13097,"text": ["sestante"]}
-  ],
-  "sextet": [
-    {"id": 13098,"text": ["sestetto"]}
-  ],
-  "sexual": [
-    {"id": 13099,"text": ["sessuale"]}
-  ],
-  "sexually": [
-    {"id": 13100,"text": ["sessualmente"]}
-  ],
-  "shade": [
-    {"id": 13101,"text": ["ombra"]},
-    {"id": 13102,"text": ["sfumatura"]}
-  ],
-  "shadow": [
-    {"id": 13103,"text": ["ombra"]}
-  ],
-  "shady": [
-    {"id": 13104,"text": ["losco"]},
-    {"id": 13105,"text": ["ombreggiato"]}
-  ],
-  "shake": [
-    {"id": 13106,"text": ["scossa"]},
-    {"id": 13107,"text": ["scuotere"]}
-  ],
-  "shallow": [
-    {"id": 13108,"text": ["superficiale"]}
-  ],
-  "shaman": [
-    {"id": 13109,"text": ["sciamano"]}
-  ],
-  "shamanism": [
-    {"id": 13110,"text": ["sciamanesimo"]}
-  ],
-  "shame": [
-    {"id": 13111,"text": ["imbarazzo"]},
-    {"id": 13112,"text": ["vergogna"]}
-  ],
-  "shameful": [
-    {"id": 13113,"text": ["vergognoso"]}
-  ],
-  "shampoo": [
-    {"id": 13114,"text": ["sciampo"]},
-    {"id": 13115,"text": ["shampoo"]}
-  ],
-  "shamrock": [
-    {"id": 13116,"text": ["trifoglio"]}
-  ],
-  "shape": [
-    {"id": 13117,"text": ["metodo"]},
-    {"id": 13118,"text": ["plasmare"]},
-    {"id": 13119,"text": ["sagoma"]},
-    {"id": 13120,"text": ["veste"]}
-  ],
-  "shard": [
-    {"id": 13121,"text": ["scheggia"]}
-  ],
-  "share": [
-    {"id": 13122,"text": ["azione"]},
-    {"id": 13123,"text": ["condividere"]}
-  ],
-  "shareholder": [
-    {"id": 13124,"text": ["azionista"]}
-  ],
-  "shark": [
-    {"id": 13125,"text": ["squalo"]}
-  ],
-  "sharp": [
-    {"id": 13126,"text": ["affilato"]},
-    {"id": 13127,"text": ["appuntito"]}
-  ],
-  "sharpen": [
-    {"id": 13128,"text": ["affilare"]}
-  ],
-  "sharpener": [
-    {"id": 13129,"text": ["temperino"]}
-  ],
-  "sharply": [
-    {"id": 13130,"text": ["bruscamente"]}
-  ],
-  "shaving": [
-    {"id": 13131,"text": ["rasatura"]}
-  ],
-  "she": [
-    {"id": 13132,"text": ["ella"]},
-    {"id": 13133,"text": ["lei"]}
-  ],
-  "shear": [
-    {"id": 13134,"text": ["taglio"]},
-    {"id": 13135,"text": ["tosare"]}
-  ],
-  "shearing": [
-    {"id": 13136,"text": ["tosatura"]}
-  ],
-  "shed": [
-    {"id": 13137,"text": ["capanna"]},
-    {"id": 13138,"text": ["rimessa"]},
-    {"id": 13139,"text": ["spargere"]}
-  ],
-  "shedding": [
-    {"id": 13140,"text": ["spargimento"]}
-  ],
-  "sheep": [
-    {"id": 13141,"text": ["pecora"]}
-  ],
-  "sheet": [
-    {"id": 13142,"text": ["foglio"]},
-    {"id": 13143,"text": ["lenzuolo"]}
-  ],
-  "sheik": [
-    {"id": 13144,"text": ["sceicco"]}
-  ],
-  "shell": [
-    {"id": 13145,"text": ["conchiglia"]},
-    {"id": 13146,"text": ["guscio"]},
-    {"id": 13147,"text": ["pelare"]}
-  ],
-  "shepherd": [
-    {"id": 13148,"text": ["pastore"]}
-  ],
-  "sheriff": [
-    {"id": 13149,"text": ["sceriffo"]}
-  ],
-  "shield": [
-    {"id": 13150,"text": ["scudo"]}
-  ],
-  "shift": [
-    {"id": 13151,"text": ["cambiare"]},
-    {"id": 13152,"text": ["cambio"]},
-    {"id": 13153,"text": ["turno"]}
-  ],
-  "shilling": [
-    {"id": 13154,"text": ["scellino"]}
-  ],
-  "shine": [
-    {"id": 13155,"text": ["brillare"]},
-    {"id": 13156,"text": ["brillio"]},
-    {"id": 13157,"text": ["lucentezza"]},
-    {"id": 13158,"text": ["splendere"]}
-  ],
-  "shiny": [
-    {"id": 13159,"text": ["brillante"]},
-    {"id": 13160,"text": ["cromatico"]}
-  ],
-  "ship": [
-    {"id": 13161,"text": ["imbarcare"]},
-    {"id": 13162,"text": ["nave"]},
-    {"id": 13163,"text": ["spedire"]}
-  ],
-  "shipment": [
-    {"id": 13164,"text": ["spedizione"]}
-  ],
-  "shipowner": [
-    {"id": 13165,"text": ["armatore"]}
-  ],
-  "shipping": [
-    {"id": 13166,"text": ["spedizione"]}
-  ],
-  "shipwreck": [
-    {"id": 13167,"text": ["naufragio"]}
-  ],
-  "shirt": [
-    {"id": 13168,"text": ["camicia"]}
-  ],
-  "shit": [
-    {"id": 13169,"text": ["cacare"]},
-    {"id": 13170,"text": ["merda"]}
-  ],
-  "shiver": [
-    {"id": 13171,"text": ["brivido"]},
-    {"id": 13172,"text": ["tremare"]}
-  ],
-  "shock": [
-    {"id": 13173,"text": ["scioccare"]},
-    {"id": 13174,"text": ["scossa"]}
-  ],
-  "shock absorber": [
-    {"id": 13175,"text": ["ammortizzatore"]}
-  ],
-  "shocking": [
-    {"id": 13176,"text": ["scioccante"]}
-  ],
-  "shoe": [
-    {"id": 13177,"text": ["ferrare"]},
-    {"id": 13178,"text": ["scarpa"]}
-  ],
-  "shoemaker": [
-    {"id": 13179,"text": ["calzolaio"]}
-  ],
-  "shoot": [
-    {"id": 13180,"text": ["sparare"]}
-  ],
-  "shooting": [
-    {"id": 13181,"text": ["fucilazione"]},
-    {"id": 13182,"text": ["ripresa"]},
-    {"id": 13183,"text": ["sparatoria"]},
-    {"id": 13184,"text": ["tiro"]}
-  ],
-  "shop": [
-    {"id": 13185,"text": ["negozio"]}
-  ],
-  "shop assistant": [
-    {"id": 13186,"text": ["commesso"]}
-  ],
-  "shopping": [
-    {"id": 13187,"text": ["acquisto"]},
-    {"id": 13188,"text": ["spesa"]}
-  ],
-  "showcase": [
-    {"id": 13189,"text": ["vetrina"]}
-  ],
-  "shore": [
-    {"id": 13190,"text": ["riva"]}
-  ],
-  "short": [
-    {"id": 13191,"text": ["basso"]},
-    {"id": 13192,"text": ["corto"]}
-  ],
-  "shortcircuit": [
-    {"id": 13193,"text": ["cortocircuito"]}
-  ],
-  "shorten": [
-    {"id": 13194,"text": ["accorciare"]}
-  ],
-  "shortening": [
-    {"id": 13195,"text": ["abbreviazione"]}
-  ],
-  "shortfilm": [
-    {"id": 13196,"text": ["cortometraggio"]}
-  ],
-  "shorthand": [
-    {"id": 13197,"text": ["stenografia"]}
-  ],
-  "shortly": [
-    {"id": 13198,"text": ["a breve"]},
-    {"id": 13199,"text": ["prossimamente"]}
-  ],
-  "shot": [
-    {"id": 13200,"text": ["colpo"]},
-    {"id": 13201,"text": ["scatto"]},
-    {"id": 13202,"text": ["sparato"]},
-    {"id": 13203,"text": ["tiro"]}
-  ],
-  "should": [
-    {"id": 13204,"text": ["dovere"]}
-  ],
-  "shoulder": [
-    {"id": 13205,"text": ["spalla"]}
-  ],
-  "shout": [
-    {"id": 13206,"text": ["gridare"]},
-    {"id": 13207,"text": ["grido"]},
-    {"id": 13208,"text": ["urlare"]},
-    {"id": 13209,"text": ["urlo"]}
-  ],
-  "shovel": [
-    {"id": 13210,"text": ["pala"]},
-    {"id": 13211,"text": ["paletta"]}
-  ],
-  "show": [
-    {"id": 13212,"text": ["dimostrare"]},
-    {"id": 13213,"text": ["mostrare"]},
-    {"id": 13214,"text": ["show"]},
-    {"id": 13215,"text": ["spettacolo"]}
-  ],
-  "shower": [
-    {"id": 13216,"text": ["doccia"]},
-    {"id": 13217,"text": ["piovere"]}
-  ],
-  "showy": [
-    {"id": 13218,"text": ["vistoso"]}
-  ],
-  "shrew": [
-    {"id": 13219,"text": ["toporagno"]}
-  ],
-  "shrewdness": [
-    {"id": 13220,"text": ["astuzia"]},
-    {"id": 13221,"text": ["furbizia"]},
-    {"id": 13222,"text": ["scaltrezza"]}
-  ],
-  "shrimp": [
-    {"id": 13223,"text": ["gambero"]}
-  ],
-  "shrink": [
-    {"id": 13224,"text": ["restringere"]},
-    {"id": 13225,"text": ["rimpicciolire"]},
-    {"id": 13226,"text": ["rimpicciolirsi"]}
-  ],
-  "shroud": [
-    {"id": 13227,"text": ["sindone"]},
-    {"id": 13228,"text": ["sudario"]},
-    {"id": 13229,"text": ["velo"]}
-  ],
-  "shudder": [
-    {"id": 13230,"text": ["brivido"]},
-    {"id": 13231,"text": ["rabbrividire"]}
-  ],
-  "shun": [
-    {"id": 13232,"text": ["evitare"]}
-  ],
-  "shut": [
-    {"id": 13233,"text": ["chiudere"]},
-    {"id": 13234,"text": ["serrare"]}
-  ],
-  "shut down": [
-    {"id": 13235,"text": ["chiudere"]},
-    {"id": 13236,"text": ["spegnere"]}
-  ],
-  "shutter": [
-    {"id": 13237,"text": ["otturatore"]},
-    {"id": 13238,"text": ["serranda"]}
-  ],
-  "shy": [
-    {"id": 13239,"text": ["timido"]}
-  ],
-  "shyly": [
-    {"id": 13240,"text": ["timidamente"]}
-  ],
-  "sibilant": [
-    {"id": 13241,"text": ["sibilante"]}
-  ],
-  "sick": [
-    {"id": 13242,"text": ["ammalato"]},
-    {"id": 13243,"text": ["malato"]}
-  ],
-  "side": [
-    {"id": 13244,"text": ["allearsi"]},
-    {"id": 13245,"text": ["lato"]}
-  ],
-  "siderurgy": [
-    {"id": 13246,"text": ["siderurgia"]}
-  ],
-  "sidewalk": [
-    {"id": 13247,"text": ["marciapiede"]}
-  ],
-  "siege": [
-    {"id": 13248,"text": ["assediare"]},
-    {"id": 13249,"text": ["assedio"]}
-  ],
-  "sieve": [
-    {"id": 13250,"text": ["setacciare"]},
-    {"id": 13251,"text": ["setaccio"]}
-  ],
-  "sift": [
-    {"id": 13252,"text": ["setacciare"]}
-  ],
-  "sigh": [
-    {"id": 13253,"text": ["sospirare"]},
-    {"id": 13254,"text": ["sospiro"]}
-  ],
-  "sight": [
-    {"id": 13255,"text": ["vista"]}
-  ],
-  "sigillography": [
-    {"id": 13256,"text": ["sigillografia"]}
-  ],
-  "sign": [
-    {"id": 13257,"text": ["distintivo"]},
-    {"id": 13258,"text": ["firmare"]},
-    {"id": 13259,"text": ["segnale"]},
-    {"id": 13260,"text": ["segno"]},
-    {"id": 13261,"text": ["siglare"]}
-  ],
-  "signal": [
-    {"id": 13262,"text": ["segnalare"]},
-    {"id": 13263,"text": ["segnale"]}
-  ],
-  "signalling": [
-    {"id": 13264,"text": ["segnalazione"]}
-  ],
-  "signature": [
-    {"id": 13265,"text": ["firma"]}
-  ],
-  "significance": [
-    {"id": 13266,"text": ["importanza"]},
-    {"id": 13267,"text": ["significato"]}
-  ],
-  "significant": [
-    {"id": 13268,"text": ["significativo"]}
-  ],
-  "significantly": [
-    {"id": 13269,"text": ["significativamente"]}
-  ],
-  "signification": [
-    {"id": 13270,"text": ["significazione"]}
-  ],
-  "signpost": [
-    {"id": 13271,"text": ["pannello"]}
-  ],
-  "silence": [
-    {"id": 13272,"text": ["silenzio"]}
-  ],
-  "silent": [
-    {"id": 13273,"text": ["silenzioso"]}
-  ],
-  "silently": [
-    {"id": 13274,"text": ["silenziosamente"]}
-  ],
-  "silhouette": [
-    {"id": 13275,"text": ["silhouette"]}
-  ],
-  "silica": [
-    {"id": 13276,"text": ["silice"]}
-  ],
-  "silicate": [
-    {"id": 13277,"text": ["silicato"]}
-  ],
-  "silicon": [
-    {"id": 13278,"text": ["silicio"]}
-  ],
-  "silk": [
-    {"id": 13279,"text": ["seta"]}
-  ],
-  "silly": [
-    {"id": 13280,"text": ["sciocco"]}
-  ],
-  "silt": [
-    {"id": 13281,"text": ["limo"]}
-  ],
-  "silver": [
-    {"id": 13282,"text": ["argento"]}
-  ],
-  "simbolize": [
-    {"id": 13283,"text": ["simboleggiare"]}
-  ],
-  "similar": [
-    {"id": 13284,"text": ["simile"]}
-  ],
-  "similarly": [
-    {"id": 13285,"text": ["similarmente"]},
-    {"id": 13286,"text": ["similmente"]}
-  ],
-  "simile": [
-    {"id": 13287,"text": ["similitudine"]}
-  ],
-  "simony": [
-    {"id": 13288,"text": ["simonia"]}
-  ],
-  "simple": [
-    {"id": 13289,"text": ["semplice"]}
-  ],
-  "simpleton": [
-    {"id": 13290,"text": ["sempliciotto"]}
-  ],
-  "simplification": [
-    {"id": 13291,"text": ["semplificazione"]}
-  ],
-  "simplify": [
-    {"id": 13292,"text": ["semplificare"]}
-  ],
-  "simply": [
-    {"id": 13293,"text": ["semplicemente"]}
-  ],
-  "simulate": [
-    {"id": 13294,"text": ["simulare"]}
-  ],
-  "simulation": [
-    {"id": 13295,"text": ["simulazione"]}
-  ],
-  "simulator": [
-    {"id": 13296,"text": ["simulatore"]}
-  ],
-  "simultaneous": [
-    {"id": 13297,"text": ["simultaneo"]}
-  ],
-  "simultaneously": [
-    {"id": 13298,"text": ["simultaneamente"]}
-  ],
-  "sin": [
-    {"id": 13299,"text": ["peccare"]},
-    {"id": 13300,"text": ["peccato"]}
-  ],
-  "since": [
-    {"id": 13301,"text": ["da"]},
-    {"id": 13302,"text": ["daquando"]}
-  ],
-  "sincere": [
-    {"id": 13303,"text": ["sincero"]}
-  ],
-  "sincerely": [
-    {"id": 13304,"text": ["sinceramente"]}
-  ],
-  "sindical": [
-    {"id": 13305,"text": ["sindacale"]}
-  ],
-  "sine": [
-    {"id": 13306,"text": ["seno"]}
-  ],
-  "sinew": [
-    {"id": 13307,"text": ["tendine"]}
-  ],
-  "sing": [
-    {"id": 13308,"text": ["cantare"]}
-  ],
-  "singer": [
-    {"id": 13309,"text": ["cantante"]}
-  ],
-  "singing": [
-    {"id": 13310,"text": ["cantante"]},
-    {"id": 13311,"text": ["canto"]}
-  ],
-  "single": [
-    {"id": 13312,"text": ["single"]},
-    {"id": 13313,"text": ["solo"]}
-  ],
-  "singular": [
-    {"id": 13314,"text": ["singolare"]}
-  ],
-  "singularly": [
-    {"id": 13315,"text": ["singolarmente"]}
-  ],
-  "sinister": [
-    {"id": 13316,"text": ["sinistro"]}
-  ],
-  "sink": [
-    {"id": 13317,"text": ["affondare"]},
-    {"id": 13318,"text": ["lavandino"]}
-  ],
-  "sinking": [
-    {"id": 13319,"text": ["affondamento"]}
-  ],
-  "sintering": [
-    {"id": 13320,"text": ["sinterizzazione"]}
-  ],
-  "sinuatrialnode": [
-    {"id": 13321,"text": ["nodosenoatriale"]}
-  ],
-  "sinusoid": [
-    {"id": 13322,"text": ["sinusoide"]}
-  ],
-  "sinusoidal": [
-    {"id": 13323,"text": ["sinusoidale"]}
-  ],
-  "sip": [
-    {"id": 13324,"text": ["sorso"]}
-  ],
-  "sir": [
-    {"id": 13325,"text": ["signore"]},
-    {"id": 13326,"text": ["sire"]}
-  ],
-  "sirocco": [
-    {"id": 13327,"text": ["scirocco"]}
-  ],
-  "sisal": [
-    {"id": 13328,"text": ["sisal"]}
-  ],
-  "sister": [
-    {"id": 13329,"text": ["sorella"]}
-  ],
-  "sit": [
-    {"id": 13330,"text": ["sedere"]},
-    {"id": 13331,"text": ["sedersi"]}
-  ],
-  "sit down": [
-    {"id": 13332,"text": ["sedere"]},
-    {"id": 13333,"text": ["sedersi"]}
-  ],
-  "site": [
-    {"id": 13334,"text": ["posto"]},
-    {"id": 13335,"text": ["sito"]}
-  ],
-  "situate": [
-    {"id": 13336,"text": ["situare"]},
-    {"id": 13337,"text": ["ubicare"]}
-  ],
-  "situation": [
-    {"id": 13338,"text": ["situazione"]}
-  ],
-  "situational": [
-    {"id": 13339,"text": ["situazionale"]}
-  ],
-  "six": [
-    {"id": 13340,"text": ["sei"]}
-  ],
-  "six hundred": [
-    {"id": 13341,"text": ["seicento"]}
-  ],
-  "sixhundredth": [
-    {"id": 13342,"text": ["seicentesimo"]}
-  ],
-  "sixteen": [
-    {"id": 13343,"text": ["sedici"]}
-  ],
-  "sixteenth": [
-    {"id": 13344,"text": ["sedicesimo"]}
-  ],
-  "sixteenthousand": [
-    {"id": 13345,"text": ["sedicimila"]}
-  ],
-  "sixth": [
-    {"id": 13346,"text": ["sesto"]}
-  ],
-  "sixthousand": [
-    {"id": 13347,"text": ["seimila"]}
-  ],
-  "sixtieth": [
-    {"id": 13348,"text": ["sessantesimo"]}
-  ],
-  "sixty": [
-    {"id": 13349,"text": ["sessanta"]}
-  ],
-  "sixtyeight": [
-    {"id": 13350,"text": ["sessantotto"]}
-  ],
-  "sixtyeightthousand": [
-    {"id": 13351,"text": ["sessantottomila"]}
-  ],
-  "sixtyfive": [
-    {"id": 13352,"text": ["sessantacinque"]}
-  ],
-  "sixtyfivethousand": [
-    {"id": 13353,"text": ["sessantacinquemila"]}
-  ],
-  "sixtyfour": [
-    {"id": 13354,"text": ["sessantaquattro"]}
-  ],
-  "sixtyfourthousand": [
-    {"id": 13355,"text": ["sessantaquattromila"]}
-  ],
-  "sixtynine": [
-    {"id": 13356,"text": ["sessantanove"]}
-  ],
-  "sixtyninethousand": [
-    {"id": 13357,"text": ["sessantanovemila"]}
-  ],
-  "sixtyone": [
-    {"id": 13358,"text": ["sessantuno"]}
-  ],
-  "sixtyonethousand": [
-    {"id": 13359,"text": ["sessantunomila"]}
-  ],
-  "sixtyseven": [
-    {"id": 13360,"text": ["sessantasette"]}
-  ],
-  "sixtyseventhousand": [
-    {"id": 13361,"text": ["sessantasettemila"]}
-  ],
-  "sixtysix": [
-    {"id": 13362,"text": ["sessantasei"]}
-  ],
-  "sixtysixthousand": [
-    {"id": 13363,"text": ["sessantaseimila"]}
-  ],
-  "sixtythousand": [
-    {"id": 13364,"text": ["sessantamila"]}
-  ],
-  "sixtythreethousand": [
-    {"id": 13365,"text": ["sessantatremila"]}
-  ],
-  "sixtytwo": [
-    {"id": 13366,"text": ["sessantadue"]}
-  ],
-  "sixtytwothousand": [
-    {"id": 13367,"text": ["sessantaduemila"]}
-  ],
-  "size": [
-    {"id": 13368,"text": ["misura"]},
-    {"id": 13369,"text": ["taglia"]}
-  ],
-  "skate": [
-    {"id": 13370,"text": ["pattinare"]}
-  ],
-  "skating": [
-    {"id": 13371,"text": ["pattinaggio"]}
-  ],
-  "skeletal": [
-    {"id": 13372,"text": ["scheletrico"]}
-  ],
-  "skeleton": [
-    {"id": 13373,"text": ["scheletro"]}
-  ],
-  "skeptical": [
-    {"id": 13374,"text": ["scettico"]}
-  ],
-  "skew": [
-    {"id": 13375,"text": ["inclinare"]}
-  ],
-  "ski": [
-    {"id": 13376,"text": ["sci"]}
-  ],
-  "ski jump": [
-    {"id": 13377,"text": ["salto con gli sci"]}
-  ],
-  "skier": [
-    {"id": 13378,"text": ["sciatore"]}
-  ],
-  "skilful": [
-    {"id": 13379,"text": ["abile"]}
-  ],
-  "skilled": [
-    {"id": 13380,"text": ["dotato"]},
-    {"id": 13381,"text": ["esperto"]},
-    {"id": 13382,"text": ["qualificato"]},
-    {"id": 13383,"text": ["specializzato"]}
-  ],
-  "skillful": [
-    {"id": 13384,"text": ["abile"]}
-  ],
-  "skin": [
-    {"id": 13385,"text": ["pelle"]},
-    {"id": 13386,"text": ["spellare"]}
-  ],
-  "skinny": [
-    {"id": 13387,"text": ["magro"]}
-  ],
-  "skirt": [
-    {"id": 13388,"text": ["gonna"]}
-  ],
-  "skittle": [
-    {"id": 13389,"text": ["birillo"]}
-  ],
-  "skull": [
-    {"id": 13390,"text": ["calotta"]},
-    {"id": 13391,"text": ["cranio"]},
-    {"id": 13392,"text": ["teschio"]}
-  ],
-  "sky": [
-    {"id": 13393,"text": ["cielo"]}
-  ],
-  "skyscraper": [
-    {"id": 13394,"text": ["grattacielo"]}
-  ],
-  "slacken": [
-    {"id": 13395,"text": ["allentare"]}
-  ],
-  "slant": [
-    {"id": 13396,"text": ["inclinare"]}
-  ],
-  "slanted": [
-    {"id": 13397,"text": ["inclinato"]}
-  ],
-  "slap": [
-    {"id": 13398,"text": ["schiaffo"]}
-  ],
-  "slat": [
-    {"id": 13399,"text": ["stecca"]}
-  ],
-  "slaughter": [
-    {"id": 13400,"text": ["macello"]}
-  ],
-  "slaughterhouse": [
-    {"id": 13401,"text": ["mattatoio"]}
-  ],
-  "slaughtering": [
-    {"id": 13402,"text": ["macellazione"]}
-  ],
-  "slave": [
-    {"id": 13403,"text": ["schiavo"]}
-  ],
-  "slavery": [
-    {"id": 13404,"text": ["schiavismo"]}
-  ],
-  "Slavic": [
-    {"id": 13405,"text": ["slavo"]}
-  ],
-  "sled": [
-    {"id": 13406,"text": ["slitta"]}
-  ],
-  "sleep": [
-    {"id": 13407,"text": ["dormire"]},
-    {"id": 13408,"text": ["sonno"]}
-  ],
-  "sleeper": [
-    {"id": 13409,"text": ["traversina"]}
-  ],
-  "sleeping": [
-    {"id": 13410,"text": ["dormiente"]}
-  ],
-  "sleepless": [
-    {"id": 13411,"text": ["insonne"]}
-  ],
-  "sleeplessness": [
-    {"id": 13412,"text": ["insonnia"]}
-  ],
-  "sleet": [
-    {"id": 13413,"text": ["acquaneve"]}
-  ],
-  "sleeve": [
-    {"id": 13414,"text": ["manica"]}
-  ],
-  "slice": [
-    {"id": 13415,"text": ["fetta"]}
-  ],
-  "slide": [
-    {"id": 13416,"text": ["diapositiva"]},
-    {"id": 13417,"text": ["scivolare"]},
-    {"id": 13418,"text": ["scivolo"]}
-  ],
-  "slight": [
-    {"id": 13419,"text": ["lieve"]}
-  ],
-  "slightly": [
-    {"id": 13420,"text": ["leggermente"]},
-    {"id": 13421,"text": ["lievemente"]}
-  ],
-  "slim": [
-    {"id": 13422,"text": ["magro"]}
-  ],
-  "slime": [
-    {"id": 13423,"text": ["melma"]}
-  ],
-  "sling": [
-    {"id": 13424,"text": ["imbracatura"]},
-    {"id": 13425,"text": ["lanciare"]}
-  ],
-  "slip": [
-    {"id": 13426,"text": ["scivolare"]},
-    {"id": 13427,"text": ["scivolata"]}
-  ],
-  "slippery": [
-    {"id": 13428,"text": ["scivoloso"]}
-  ],
-  "slogan": [
-    {"id": 13429,"text": ["slogan"]}
-  ],
-  "slope": [
-    {"id": 13430,"text": ["pendenza"]}
-  ],
-  "sloth": [
-    {"id": 13431,"text": ["accidia"]},
-    {"id": 13432,"text": ["bradipo"]},
-    {"id": 13433,"text": ["pigrizia"]}
-  ],
-  "Slovakia": [
-    {"id": 13434,"text": ["Slovacchia"]}
-  ],
-  "slow": [
-    {"id": 13435,"text": ["lento"]},
-    {"id": 13436,"text": ["piano"]},
-    {"id": 13437,"text": ["rallentare"]}
-  ],
-  "slow down": [
-    {"id": 13438,"text": ["rallentare"]}
-  ],
-  "slowly": [
-    {"id": 13439,"text": ["lentamente"]},
-    {"id": 13440,"text": ["piano"]}
-  ],
-  "slowness": [
-    {"id": 13441,"text": ["lentezza"]}
-  ],
-  "slug": [
-    {"id": 13442,"text": ["lumaca"]}
-  ],
-  "slump": [
-    {"id": 13443,"text": ["recessione"]}
-  ],
-  "slyness": [
-    {"id": 13444,"text": ["astuzia"]},
-    {"id": 13445,"text": ["furbizia"]},
-    {"id": 13446,"text": ["scaltrezza"]}
-  ],
-  "small": [
-    {"id": 13447,"text": ["minuto"]},
-    {"id": 13448,"text": ["piccolo"]}
-  ],
-  "smart": [
-    {"id": 13449,"text": ["intelligente"]}
-  ],
-  "smash": [
-    {"id": 13450,"text": ["distruggere"]},
-    {"id": 13451,"text": ["rompere"]},
-    {"id": 13452,"text": ["scontro"]},
-    {"id": 13453,"text": ["sfasciare"]}
-  ],
-  "smell": [
-    {"id": 13454,"text": ["odore"]},
-    {"id": 13455,"text": ["puzzare"]}
-  ],
-  "smile": [
-    {"id": 13456,"text": ["sorridere"]},
-    {"id": 13457,"text": ["sorriso"]}
-  ],
-  "smith": [
-    {"id": 13458,"text": ["fabbro"]}
-  ],
-  "smog": [
-    {"id": 13459,"text": ["smog"]}
-  ],
-  "smoke": [
-    {"id": 13460,"text": ["fumare"]},
-    {"id": 13461,"text": ["fumo"]}
-  ],
-  "smoker": [
-    {"id": 13462,"text": ["fumatore"]}
-  ],
-  "smooth": [
-    {"id": 13463,"text": ["liscio"]}
-  ],
-  "smuggling": [
-    {"id": 13464,"text": ["contrabbando"]}
-  ],
-  "smurf": [
-    {"id": 13465,"text": ["puffo"]}
-  ],
-  "snack": [
-    {"id": 13466,"text": ["boccone"]},
-    {"id": 13467,"text": ["spuntino"]}
-  ],
-  "snail": [
-    {"id": 13468,"text": ["chiocciola"]},
-    {"id": 13469,"text": ["lumaca"]}
-  ],
-  "snake": [
-    {"id": 13470,"text": ["serpente"]}
-  ],
-  "snatch": [
-    {"id": 13471,"text": ["strappare"]}
-  ],
-  "sneeze": [
-    {"id": 13472,"text": ["starnutire"]},
-    {"id": 13473,"text": ["starnuto"]}
-  ],
-  "sniper": [
-    {"id": 13474,"text": ["cecchino"]}
-  ],
-  "snob": [
-    {"id": 13475,"text": ["snob"]}
-  ],
-  "snout": [
-    {"id": 13476,"text": ["muso"]}
-  ],
-  "snow": [
-    {"id": 13477,"text": ["neve"]}
-  ],
-  "snowgrain": [
-    {"id": 13478,"text": ["nevischio"]}
-  ],
-  "snowman": [
-    {"id": 13479,"text": ["pupazzo di neve"]}
-  ],
-  "so": [
-    {"id": 13480,"text": ["così"]},
-    {"id": 13481,"text": ["dunque"]},
-    {"id": 13482,"text": ["talmente"]}
-  ],
-  "soak": [
-    {"id": 13483,"text": ["infradiciare"]},
-    {"id": 13484,"text": ["inzuppare"]}
-  ],
-  "soap": [
-    {"id": 13485,"text": ["sapone"]}
-  ],
-  "soapy": [
-    {"id": 13486,"text": ["saponoso"]}
-  ],
-  "sober": [
-    {"id": 13487,"text": ["sereno"]}
-  ],
-  "sociable": [
-    {"id": 13488,"text": ["socievole"]}
-  ],
-  "social": [
-    {"id": 13489,"text": ["sociale"]}
-  ],
-  "socialisation": [
-    {"id": 13490,"text": ["socializzazione"]}
-  ],
-  "socialism": [
-    {"id": 13491,"text": ["socialismo"]}
-  ],
-  "socialist": [
-    {"id": 13492,"text": ["socialista"]}
-  ],
-  "socialization": [
-    {"id": 13493,"text": ["socializzazione"]}
-  ],
-  "socially": [
-    {"id": 13494,"text": ["socialmente"]}
-  ],
-  "sociobiology": [
-    {"id": 13495,"text": ["sociobiologia"]}
-  ],
-  "socioeconomic": [
-    {"id": 13496,"text": ["economico-sociale"]}
-  ],
-  "sociolinguistic": [
-    {"id": 13497,"text": ["sociolinguistico"]}
-  ],
-  "sociolinguistics": [
-    {"id": 13498,"text": ["sociolinguistica"]}
-  ],
-  "sociological": [
-    {"id": 13499,"text": ["sociologico"]}
-  ],
-  "sociologism": [
-    {"id": 13500,"text": ["sociologismo"]}
-  ],
-  "sociologist": [
-    {"id": 13501,"text": ["sociologo"]}
-  ],
-  "sociology": [
-    {"id": 13502,"text": ["sociologia"]}
-  ],
-  "sock": [
-    {"id": 13503,"text": ["calzino"]}
-  ],
-  "Socrates": [
-    {"id": 13504,"text": ["Socrate"]}
-  ],
-  "sodium": [
-    {"id": 13505,"text": ["sodio"]}
-  ],
-  "sodomy": [
-    {"id": 13506,"text": ["sodomia"]}
-  ],
-  "sofa": [
-    {"id": 13507,"text": ["divano"]},
-    {"id": 13508,"text": ["sofà"]}
-  ],
-  "soft": [
-    {"id": 13509,"text": ["blando"]}
-  ],
-  "soften": [
-    {"id": 13510,"text": ["ammorbidire"]}
-  ],
-  "softly": [
-    {"id": 13511,"text": ["blandamente"]}
-  ],
-  "softness": [
-    {"id": 13512,"text": ["morbidezza"]}
-  ],
-  "software": [
-    {"id": 13513,"text": ["software"]}
-  ],
-  "soil": [
-    {"id": 13514,"text": ["suolo"]}
-  ],
-  "sojourn": [
-    {"id": 13515,"text": ["soggiorno"]}
-  ],
-  "solace": [
-    {"id": 13516,"text": ["confortare"]},
-    {"id": 13517,"text": ["conforto"]},
-    {"id": 13518,"text": ["consolare"]},
-    {"id": 13519,"text": ["consolazione"]},
-    {"id": 13520,"text": ["sollevare"]},
-    {"id": 13521,"text": ["sollievo"]}
-  ],
-  "solar": [
-    {"id": 13522,"text": ["solare"]}
-  ],
-  "solarcooker": [
-    {"id": 13523,"text": ["fornosolare"]}
-  ],
-  "soldier": [
-    {"id": 13524,"text": ["militare"]},
-    {"id": 13525,"text": ["soldato"]}
-  ],
-  "sole": [
-    {"id": 13526,"text": ["unico"]}
-  ],
-  "solely": [
-    {"id": 13527,"text": ["soltanto"]},
-    {"id": 13528,"text": ["solamente"]},
-    {"id": 13529,"text": ["unicamente"]}
-  ],
-  "solemn": [
-    {"id": 13530,"text": ["solenne"]}
-  ],
-  "solemnly": [
-    {"id": 13531,"text": ["solennemente"]}
-  ],
-  "solenoid": [
-    {"id": 13532,"text": ["solenoide"]}
-  ],
-  "solfege": [
-    {"id": 13533,"text": ["solfeggio"]}
-  ],
-  "solicit": [
-    {"id": 13534,"text": ["sollecitare"]}
-  ],
-  "solicitation": [
-    {"id": 13535,"text": ["sollecitazione"]}
-  ],
-  "solicitor": [
-    {"id": 13536,"text": ["avvocato"]}
-  ],
-  "solid": [
-    {"id": 13537,"text": ["solido"]}
-  ],
-  "solidification": [
-    {"id": 13538,"text": ["solidificazione"]}
-  ],
-  "solitary": [
-    {"id": 13539,"text": ["solitario"]}
-  ],
-  "solitude": [
-    {"id": 13540,"text": ["solitudine"]}
-  ],
-  "solo": [
-    {"id": 13541,"text": ["assolo"]}
-  ],
-  "soloist": [
-    {"id": 13542,"text": ["solista"]}
-  ],
-  "solstice": [
-    {"id": 13543,"text": ["solstizio"]}
-  ],
-  "soluble": [
-    {"id": 13544,"text": ["solubile"]}
-  ],
-  "solution": [
-    {"id": 13545,"text": ["soluzione"]}
-  ],
-  "solvable": [
-    {"id": 13546,"text": ["risolvibile"]}
-  ],
-  "solve": [
-    {"id": 13547,"text": ["risolvere"]}
-  ],
-  "solvent": [
-    {"id": 13548,"text": ["solvente"]}
-  ],
-  "Somali": [
-    {"id": 13549,"text": ["somalo"]}
-  ],
-  "somany": [
-    {"id": 13550,"text": ["tanto"]}
-  ],
-  "some": [
-    {"id": 13551,"text": ["alcun"]},
-    {"id": 13552,"text": ["alcuno"]},
-    {"id": 13553,"text": ["qualche"]},
-    {"id": 13554,"text": ["taluno"]}
-  ],
-  "somebody": [
-    {"id": 13555,"text": ["qualcuno"]}
-  ],
-  "somehow": [
-    {"id": 13556,"text": ["in qualche modo"]}
-  ],
-  "someone": [
-    {"id": 13557,"text": ["qualcuno"]}
-  ],
-  "somersault": [
-    {"id": 13558,"text": ["capriola"]}
-  ],
-  "something": [
-    {"id": 13559,"text": ["qualcosa"]}
-  ],
-  "sometimes": [
-    {"id": 13560,"text": ["a volte"]}
-  ],
-  "somewhere": [
-    {"id": 13561,"text": ["da qualche parte"]}
-  ],
-  "somnambulism": [
-    {"id": 13562,"text": ["sonnambulismo"]}
-  ],
-  "somuch": [
-    {"id": 13563,"text": ["tanto"]}
-  ],
-  "son": [
-    {"id": 13564,"text": ["figlio"]}
-  ],
-  "sonata": [
-    {"id": 13565,"text": ["sonata"]}
-  ],
-  "song": [
-    {"id": 13566,"text": ["canzone"]}
-  ],
-  "songwriter": [
-    {"id": 13567,"text": ["compositore"]}
-  ],
-  "sonnet": [
-    {"id": 13568,"text": ["sonetto"]}
-  ],
-  "soon": [
-    {"id": 13569,"text": ["presto"]}
-  ],
-  "soot": [
-    {"id": 13570,"text": ["fuliggine"]}
-  ],
-  "sophism": [
-    {"id": 13571,"text": ["sofisma"]}
-  ],
-  "Sophocles": [
-    {"id": 13572,"text": ["Sofocle"]}
-  ],
-  "sorcery": [
-    {"id": 13573,"text": ["stregoneria"]}
-  ],
-  "sore": [
-    {"id": 13574,"text": ["dolente"]},
-    {"id": 13575,"text": ["dolorante"]},
-    {"id": 13576,"text": ["irritato"]}
-  ],
-  "sorrel": [
-    {"id": 13577,"text": ["acetosa"]}
-  ],
-  "sorry": [
-    {"id": 13578,"text": ["dispiaciuto"]},
-    {"id": 13579,"text": ["scusa"]}
-  ],
-  "sort": [
-    {"id": 13580,"text": ["classe"]},
-    {"id": 13581,"text": ["ordinare"]}
-  ],
-  "sought-after": [
-    {"id": 13582,"text": ["richiesto"]}
-  ],
-  "soul": [
-    {"id": 13583,"text": ["anima"]}
-  ],
-  "sound": [
-    {"id": 13584,"text": ["sano"]},
-    {"id": 13585,"text": ["suonare"]},
-    {"id": 13586,"text": ["suono"]}
-  ],
-  "soundproofing": [
-    {"id": 13587,"text": ["insonorizzazione"]}
-  ],
-  "soup": [
-    {"id": 13588,"text": ["minestra"]},
-    {"id": 13589,"text": ["zuppa"]}
-  ],
-  "sour": [
-    {"id": 13590,"text": ["acido"]},
-    {"id": 13591,"text": ["aspro"]}
-  ],
-  "source": [
-    {"id": 13592,"text": ["fonte"]}
-  ],
-  "south": [
-    {"id": 13593,"text": ["meridionale"]},
-    {"id": 13594,"text": ["sud"]}
-  ],
-  "Southafrica": [
-    {"id": 13595,"text": ["Sudafrica"]}
-  ],
-  "sovereign": [
-    {"id": 13596,"text": ["sovrano"]}
-  ],
-  "Soviet": [
-    {"id": 13597,"text": ["sovietico"]}
-  ],
-  "sow": [
-    {"id": 13598,"text": ["scrofa"]},
-    {"id": 13599,"text": ["seminare"]}
-  ],
-  "soy": [
-    {"id": 13600,"text": ["soia"]}
-  ],
-  "space": [
-    {"id": 13601,"text": ["spaziare"]},
-    {"id": 13602,"text": ["spazio"]}
-  ],
-  "spacecraft": [
-    {"id": 13603,"text": ["astronave"]}
-  ],
-  "spacer": [
-    {"id": 13604,"text": ["spaziatore"]}
-  ],
-  "spaceship": [
-    {"id": 13605,"text": ["astronave"]}
-  ],
-  "spaghetti": [
-    {"id": 13606,"text": ["spaghetti"]}
-  ],
-  "Spain": [
-    {"id": 13607,"text": ["Spagna"]}
-  ],
-  "spangle": [
-    {"id": 13608,"text": ["lustrino"]}
-  ],
-  "spaniard": [
-    {"id": 13609,"text": ["spagnolo"]}
-  ],
-  "spanish": [
-    {"id": 13610,"text": ["spagnolo"]}
-  ],
-  "spare": [
-    {"id": 13611,"text": ["risparmiare"]}
-  ],
-  "spark": [
-    {"id": 13612,"text": ["scintilla"]}
-  ],
-  "sparkle": [
-    {"id": 13613,"text": ["luccichio"]}
-  ],
-  "sparrow": [
-    {"id": 13614,"text": ["passero"]}
-  ],
-  "spatial": [
-    {"id": 13615,"text": ["spaziale"]}
-  ],
-  "speak": [
-    {"id": 13616,"text": ["parlare"]}
-  ],
-  "speaker": [
-    {"id": 13617,"text": ["altoparlante"]},
-    {"id": 13618,"text": ["interlocutore"]}
-  ],
-  "special": [
-    {"id": 13619,"text": ["speciale"]}
-  ],
-  "specialisation": [
-    {"id": 13620,"text": ["specializzazione"]}
-  ],
-  "specialise": [
-    {"id": 13621,"text": ["specializzare"]}
-  ],
-  "specialist": [
-    {"id": 13622,"text": ["specialista"]}
-  ],
-  "specialization": [
-    {"id": 13623,"text": ["specializzazione"]}
-  ],
-  "specialize": [
-    {"id": 13624,"text": ["specializzare"]}
-  ],
-  "specially": [
-    {"id": 13625,"text": ["specialmente"]}
-  ],
-  "speciation": [
-    {"id": 13626,"text": ["speciazione"]}
-  ],
-  "species": [
-    {"id": 13627,"text": ["specie"]}
-  ],
-  "specific": [
-    {"id": 13628,"text": ["specifico"]}
-  ],
-  "specifically": [
-    {"id": 13629,"text": ["concretamente"]},
-    {"id": 13630,"text": ["specificamente"]},
-    {"id": 13631,"text": ["specificatamente"]}
-  ],
-  "specification": [
-    {"id": 13632,"text": ["specificazione"]}
-  ],
-  "specify": [
-    {"id": 13633,"text": ["specificare"]}
-  ],
-  "specimen": [
-    {"id": 13634,"text": ["campione"]}
-  ],
-  "spectacle": [
-    {"id": 13635,"text": ["spettacolo"]}
-  ],
-  "spectacular": [
-    {"id": 13636,"text": ["spettacolare"]}
-  ],
-  "spectacularly": [
-    {"id": 13637,"text": ["spettacolarmente"]}
-  ],
-  "specter": [
-    {"id": 13638,"text": ["spettro"]}
-  ],
-  "spectral": [
-    {"id": 13639,"text": ["spettrale"]}
-  ],
-  "spectrogram": [
-    {"id": 13640,"text": ["spettrogramma"]}
-  ],
-  "spectrograph": [
-    {"id": 13641,"text": ["spettrografo"]}
-  ],
-  "spectrometer": [
-    {"id": 13642,"text": ["spettrometro"]}
-  ],
-  "spectrometry": [
-    {"id": 13643,"text": ["spettrometria"]}
-  ],
-  "spectrophotometer": [
-    {"id": 13644,"text": ["spettrofotometro"]}
-  ],
-  "spectrophotometry": [
-    {"id": 13645,"text": ["spettrofotometria"]}
-  ],
-  "spectroscope": [
-    {"id": 13646,"text": ["spettroscopio"]}
-  ],
-  "spectroscopy": [
-    {"id": 13647,"text": ["spettroscopia"]}
-  ],
-  "spectrum": [
-    {"id": 13648,"text": ["spettro"]}
-  ],
-  "speculation": [
-    {"id": 13649,"text": ["speculazione"]}
-  ],
-  "speculative": [
-    {"id": 13650,"text": ["speculativo"]}
-  ],
-  "speech": [
-    {"id": 13651,"text": ["discorso"]}
-  ],
-  "speechless": [
-    {"id": 13652,"text": ["muto"]},
-    {"id": 13653,"text": ["senza parole"]}
-  ],
-  "speed": [
-    {"id": 13654,"text": ["accelerare"]},
-    {"id": 13655,"text": ["velocità"]}
-  ],
-  "speed up": [
-    {"id": 13656,"text": ["velocizzare"]}
-  ],
-  "spell": [
-    {"id": 13657,"text": ["incantesimo"]},
-    {"id": 13658,"text": ["sillabare"]}
-  ],
-  "spelling": [
-    {"id": 13659,"text": ["ortografia"]}
-  ],
-  "spend": [
-    {"id": 13660,"text": ["passare"]},
-    {"id": 13661,"text": ["spendere"]}
-  ],
-  "sperm": [
-    {"id": 13662,"text": ["sperma"]}
-  ],
-  "spermatozoid": [
-    {"id": 13663,"text": ["spermatozoo"]}
-  ],
-  "sphere": [
-    {"id": 13664,"text": ["sfera"]}
-  ],
-  "spherical": [
-    {"id": 13665,"text": ["sferico"]}
-  ],
-  "spheroid": [
-    {"id": 13666,"text": ["sferoide"]}
-  ],
-  "spheroidal": [
-    {"id": 13667,"text": ["sferoidale"]}
-  ],
-  "sphincter": [
-    {"id": 13668,"text": ["sfintere"]}
-  ],
-  "spice": [
-    {"id": 13669,"text": ["spezia"]}
-  ],
-  "spider": [
-    {"id": 13670,"text": ["ragno"]}
-  ],
-  "spiky": [
-    {"id": 13671,"text": ["appuntito"]},
-    {"id": 13672,"text": ["irto"]},
-    {"id": 13673,"text": ["pungente"]},
-    {"id": 13674,"text": ["spinoso"]}
-  ],
-  "spill": [
-    {"id": 13675,"text": ["rovesciare"]},
-    {"id": 13676,"text": ["versare"]}
-  ],
-  "spillage": [
-    {"id": 13677,"text": ["spargimento"]}
-  ],
-  "spin": [
-    {"id": 13678,"text": ["girare"]},
-    {"id": 13679,"text": ["roteare"]},
-    {"id": 13680,"text": ["ruotare"]}
-  ],
-  "spinach": [
-    {"id": 13681,"text": ["spinacio"]}
-  ],
-  "spinal": [
-    {"id": 13682,"text": ["spinale"]}
-  ],
-  "spine": [
-    {"id": 13683,"text": ["spina"]}
-  ],
-  "spinet": [
-    {"id": 13684,"text": ["spinetta"]}
-  ],
-  "spinning": [
-    {"id": 13685,"text": ["filatura"]},
-    {"id": 13686,"text": ["rotante"]}
-  ],
-  "spiral": [
-    {"id": 13687,"text": ["spirale"]}
-  ],
-  "spirit": [
-    {"id": 13688,"text": ["alcool"]},
-    {"id": 13689,"text": ["spirito"]}
-  ],
-  "spiritism": [
-    {"id": 13690,"text": ["spiritismo"]}
-  ],
-  "spiritlevel": [
-    {"id": 13691,"text": ["livellaabolla"]},
-    {"id": 13692,"text": ["livellaabollad'aria"]}
-  ],
-  "spiritual": [
-    {"id": 13693,"text": ["spirituale"]}
-  ],
-  "spiritualisation": [
-    {"id": 13694,"text": ["spiritualizzazione"]}
-  ],
-  "spiritualism": [
-    {"id": 13695,"text": ["spiritualismo"]}
-  ],
-  "spiritualistic": [
-    {"id": 13696,"text": ["spiritualista"]}
-  ],
-  "spit": [
-    {"id": 13697,"text": ["sputare"]},
-    {"id": 13698,"text": ["sputo"]}
-  ],
-  "spite": [
-    {"id": 13699,"text": ["dispetto"]}
-  ],
-  "spleen": [
-    {"id": 13700,"text": ["milza"]}
-  ],
-  "splendid": [
-    {"id": 13701,"text": ["magnifico"]},
-    {"id": 13702,"text": ["splendido"]}
-  ],
-  "splenic": [
-    {"id": 13703,"text": ["splenico"]}
-  ],
-  "splenomegaly": [
-    {"id": 13704,"text": ["splenomegalia"]}
-  ],
-  "splint": [
-    {"id": 13705,"text": ["stecca"]}
-  ],
-  "splinter": [
-    {"id": 13706,"text": ["scheggia"]}
-  ],
-  "split": [
-    {"id": 13707,"text": ["biforcarsi"]},
-    {"id": 13708,"text": ["dividere"]},
-    {"id": 13709,"text": ["partire"]}
-  ],
-  "spoil": [
-    {"id": 13710,"text": ["marcire"]},
-    {"id": 13711,"text": ["viziare"]}
-  ],
-  "spokesman": [
-    {"id": 13712,"text": ["portavoce"]}
-  ],
-  "spokesperson": [
-    {"id": 13713,"text": ["portavoce"]}
-  ],
-  "sponge": [
-    {"id": 13714,"text": ["spugna"]}
-  ],
-  "sponsor": [
-    {"id": 13715,"text": ["sponsor"]},
-    {"id": 13716,"text": ["sponsorizzare"]}
-  ],
-  "sponsorship": [
-    {"id": 13717,"text": ["patrocinio"]}
-  ],
-  "spontaneous": [
-    {"id": 13718,"text": ["spontaneo"]}
-  ],
-  "spontaneously": [
-    {"id": 13719,"text": ["spontaneamente"]}
-  ],
-  "spoon": [
-    {"id": 13720,"text": ["cucchiaio"]}
-  ],
-  "sporadic": [
-    {"id": 13721,"text": ["sporadico"]}
-  ],
-  "sporadically": [
-    {"id": 13722,"text": ["sporadicamente"]}
-  ],
-  "sporangium": [
-    {"id": 13723,"text": ["sporangio"]}
-  ],
-  "spore": [
-    {"id": 13724,"text": ["spora"]}
-  ],
-  "sport": [
-    {"id": 13725,"text": ["sport"]}
-  ],
-  "sporting": [
-    {"id": 13726,"text": ["sportivo"]}
-  ],
-  "sportive": [
-    {"id": 13727,"text": ["sportivo"]}
-  ],
-  "sportsman": [
-    {"id": 13728,"text": ["sportivo"]}
-  ],
-  "sportswoman": [
-    {"id": 13729,"text": ["sportiva"]}
-  ],
-  "spot": [
-    {"id": 13730,"text": ["posto"]},
-    {"id": 13731,"text": ["punto"]},
-    {"id": 13732,"text": ["trovare"]}
-  ],
-  "spotted": [
-    {"id": 13733,"text": ["leopardato"]}
-  ],
-  "spouse": [
-    {"id": 13734,"text": ["coniuge"]},
-    {"id": 13735,"text": ["sposo"]}
-  ],
-  "sprain": [
-    {"id": 13736,"text": ["distorsione"]},
-    {"id": 13737,"text": ["storta"]}
-  ],
-  "spread": [
-    {"id": 13738,"text": ["diffondere"]},
-    {"id": 13739,"text": ["divulgare"]},
-    {"id": 13740,"text": ["stendere"]}
-  ],
-  "spread out": [
-    {"id": 13741,"text": ["stendere"]}
-  ],
-  "spring": [
-    {"id": 13742,"text": ["fonte"]},
-    {"id": 13743,"text": ["primavera"]},
-    {"id": 13744,"text": ["saltare"]}
-  ],
-  "spumante": [
-    {"id": 13745,"text": ["spumante"]}
-  ],
-  "spur": [
-    {"id": 13746,"text": ["spronare"]}
-  ],
-  "spurt": [
-    {"id": 13747,"text": ["getto"]},
-    {"id": 13748,"text": ["scatto"]},
-    {"id": 13749,"text": ["schizzo"]},
-    {"id": 13750,"text": ["zampillo"]}
-  ],
-  "spy": [
-    {"id": 13751,"text": ["spia"]},
-    {"id": 13752,"text": ["spiare"]}
-  ],
-  "squandering": [
-    {"id": 13753,"text": ["spreco"]}
-  ],
-  "square": [
-    {"id": 13754,"text": ["piazza"]},
-    {"id": 13755,"text": ["quadrare"]},
-    {"id": 13756,"text": ["quadrato"]}
-  ],
-  "squeeze": [
-    {"id": 13757,"text": ["comprimere"]},
-    {"id": 13758,"text": ["schiacciare"]},
-    {"id": 13759,"text": ["spremere"]},
-    {"id": 13760,"text": ["strizzare"]}
-  ],
-  "squid": [
-    {"id": 13761,"text": ["calamaro"]}
-  ],
-  "squirrel": [
-    {"id": 13762,"text": ["scoiattolo"]}
-  ],
-  "stabilisation": [
-    {"id": 13763,"text": ["stabilizzazione"]}
-  ],
-  "stabilise": [
-    {"id": 13764,"text": ["stabilizzare"]}
-  ],
-  "stable": [
-    {"id": 13765,"text": ["stabile"]},
-    {"id": 13766,"text": ["stalla"]}
-  ],
-  "stably": [
-    {"id": 13767,"text": ["stabilmente"]}
-  ],
-  "stack": [
-    {"id": 13768,"text": ["accatastare"]},
-    {"id": 13769,"text": ["catasta"]},
-    {"id": 13770,"text": ["pila"]}
-  ],
-  "stadium": [
-    {"id": 13771,"text": ["stadio"]}
-  ],
-  "staff": [
-    {"id": 13772,"text": ["scettro"]},
-    {"id": 13773,"text": ["staffa"]},
-    {"id": 13774,"text": ["personale"]}
-  ],
-  "stage": [
-    {"id": 13775,"text": ["inscenare"]},
-    {"id": 13776,"text": ["palco"]},
-    {"id": 13777,"text": ["palcoscenico"]},
-    {"id": 13778,"text": ["livello"]}
-  ],
-  "stagnate": [
-    {"id": 13779,"text": ["ristagnare"]}
-  ],
-  "stagnation": [
-    {"id": 13780,"text": ["lagunaggio"]},
-    {"id": 13781,"text": ["stagnazione"]}
-  ],
-  "stain": [
-    {"id": 13782,"text": ["macchia"]}
-  ],
-  "stainless": [
-    {"id": 13783,"text": ["inossidabile"]}
-  ],
-  "stair": [
-    {"id": 13784,"text": ["scala"]}
-  ],
-  "staircase": [
-    {"id": 13785,"text": ["scala"]}
-  ],
-  "stake": [
-    {"id": 13786,"text": ["partecipazione"]}
-  ],
-  "stalactite": [
-    {"id": 13787,"text": ["stalattite"]}
-  ],
-  "stalemate": [
-    {"id": 13788,"text": ["stallo"]}
-  ],
-  "stall": [
-    {"id": 13789,"text": ["fermare"]},
-    {"id": 13790,"text": ["fermata"]}
-  ],
-  "stamen": [
-    {"id": 13791,"text": ["stame"]}
-  ],
-  "stammer": [
-    {"id": 13792,"text": ["balbettare"]}
-  ],
-  "stamp": [
-    {"id": 13793,"text": ["francobollo"]},
-    {"id": 13794,"text": ["imprimere"]}
-  ],
-  "stamping": [
-    {"id": 13795,"text": ["timbratura"]}
-  ],
-  "stand": [
-    {"id": 13796,"text": ["posizione"]},
-    {"id": 13797,"text": ["stare"]}
-  ],
-  "standard": [
-    {"id": 13798,"text": ["standard"]}
-  ],
-  "standardisation": [
-    {"id": 13799,"text": ["standardizzazione"]}
-  ],
-  "standardise": [
-    {"id": 13800,"text": ["standardizzare"]}
-  ],
-  "star": [
-    {"id": 13801,"text": ["astro"]},
-    {"id": 13802,"text": ["partecipare"]},
-    {"id": 13803,"text": ["stella"]}
-  ],
-  "starch": [
-    {"id": 13804,"text": ["fecola"]}
-  ],
-  "stark": [
-    {"id": 13805,"text": ["duro"]}
-  ],
-  "starling": [
-    {"id": 13806,"text": ["storno"]}
-  ],
-  "starry": [
-    {"id": 13807,"text": ["stellato"]}
-  ],
-  "start": [
-    {"id": 13808,"text": ["avviare"]},
-    {"id": 13809,"text": ["avvio"]},
-    {"id": 13810,"text": ["iniziare"]}
-  ],
-  "state": [
-    {"id": 13811,"text": ["affermare"]},
-    {"id": 13812,"text": ["dichiarare"]},
-    {"id": 13813,"text": ["stato"]}
-  ],
-  "statement": [
-    {"id": 13814,"text": ["affermazione"]},
-    {"id": 13815,"text": ["dichiarazione"]},
-    {"id": 13816,"text": ["enunciazione"]}
-  ],
-  "statesman": [
-    {"id": 13817,"text": ["statista"]}
-  ],
-  "stateswoman": [
-    {"id": 13818,"text": ["statista"]}
-  ],
-  "static": [
-    {"id": 13819,"text": ["statico"]}
-  ],
-  "station": [
-    {"id": 13820,"text": ["stazione"]}
-  ],
-  "statism": [
-    {"id": 13821,"text": ["statalismo"]}
-  ],
-  "statistical": [
-    {"id": 13822,"text": ["statistico"]}
-  ],
-  "statistically": [
-    {"id": 13823,"text": ["statisticamente"]}
-  ],
-  "stator": [
-    {"id": 13824,"text": ["statore"]}
-  ],
-  "statue": [
-    {"id": 13825,"text": ["statua"]}
-  ],
-  "stature": [
-    {"id": 13826,"text": ["statura"]}
-  ],
-  "status": [
-    {"id": 13827,"text": ["stato"]}
-  ],
-  "statutory": [
-    {"id": 13828,"text": ["statutario"]}
-  ],
-  "statvolt": [
-    {"id": 13829,"text": ["statvolt"]}
-  ],
-  "stay": [
-    {"id": 13830,"text": ["restare"]},
-    {"id": 13831,"text": ["soggiorno"]},
-    {"id": 13832,"text": ["stare"]}
-  ],
-  "steadily": [
-    {"id": 13833,"text": ["fermamente"]}
-  ],
-  "steak": [
-    {"id": 13834,"text": ["bistecca"]}
-  ],
-  "steal": [
-    {"id": 13835,"text": ["rubare"]}
-  ],
-  "steam": [
-    {"id": 13836,"text": ["vapore"]}
-  ],
-  "steel": [
-    {"id": 13837,"text": ["acciaio"]}
-  ],
-  "steelworks": [
-    {"id": 13838,"text": ["acciaieria"]}
-  ],
-  "steep": [
-    {"id": 13839,"text": ["ripido"]},
-    {"id": 13840,"text": ["scosceso"]}
-  ],
-  "steering wheel": [
-    {"id": 13841,"text": ["volante"]}
-  ],
-  "steganography": [
-    {"id": 13842,"text": ["steganografia"]}
-  ],
-  "stellar": [
-    {"id": 13843,"text": ["stellare"]}
-  ],
-  "stem": [
-    {"id": 13844,"text": ["gambo"]},
-    {"id": 13845,"text": ["stelo"]}
-  ],
-  "stenography": [
-    {"id": 13846,"text": ["stenografia"]}
-  ],
-  "step": [
-    {"id": 13847,"text": ["gradino"]},
-    {"id": 13848,"text": ["passo"]}
-  ],
-  "stepbrother": [
-    {"id": 13849,"text": ["fratellastro"]}
-  ],
-  "stepchild": [
-    {"id": 13850,"text": ["figliastro"]}
-  ],
-  "stepdaughter": [
-    {"id": 13851,"text": ["figliastra"]}
-  ],
-  "stepforward": [
-    {"id": 13852,"text": ["passoavanti"]}
-  ],
-  "stepmother": [
-    {"id": 13853,"text": ["matrigna"]}
-  ],
-  "steppe": [
-    {"id": 13854,"text": ["steppa"]}
-  ],
-  "stepsister": [
-    {"id": 13855,"text": ["sorellastra"]}
-  ],
-  "stepson": [
-    {"id": 13856,"text": ["figliastro"]}
-  ],
-  "steradian": [
-    {"id": 13857,"text": ["steradiante"]}
-  ],
-  "stereo": [
-    {"id": 13858,"text": ["stereo"]}
-  ],
-  "stereophonic": [
-    {"id": 13859,"text": ["stereofonico"]}
-  ],
-  "stereoscopy": [
-    {"id": 13860,"text": ["stereoscopia"]}
-  ],
-  "stereotype": [
-    {"id": 13861,"text": ["stereotipo"]}
-  ],
-  "sterilisation": [
-    {"id": 13862,"text": ["sterilizzazione"]}
-  ],
-  "sterilise": [
-    {"id": 13863,"text": ["sterilizzare"]}
-  ],
-  "sternum": [
-    {"id": 13864,"text": ["sterno"]}
-  ],
-  "steroid": [
-    {"id": 13865,"text": ["steroide"]}
-  ],
-  "stethoscope": [
-    {"id": 13866,"text": ["stetofonendoscopio"]}
-  ],
-  "stew": [
-    {"id": 13867,"text": ["stufare"]},
-    {"id": 13868,"text": ["stufato"]},
-    {"id": 13869,"text": ["minestra"]}
-  ],
-  "stick": [
-    {"id": 13870,"text": ["bastone"]},
-    {"id": 13871,"text": ["conficcare"]}
-  ],
-  "sticker": [
-    {"id": 13872,"text": ["adesivo"]}
-  ],
-  "stigma": [
-    {"id": 13873,"text": ["stigma"]}
-  ],
-  "stigmatic": [
-    {"id": 13874,"text": ["stigmatico"]}
-  ],
-  "stigmatisation": [
-    {"id": 13875,"text": ["stigmatizzazione"]}
-  ],
-  "stigmatise": [
-    {"id": 13876,"text": ["stigmatizzare"]}
-  ],
-  "stigmatization": [
-    {"id": 13877,"text": ["stigmatizzazione"]}
-  ],
-  "stigmatize": [
-    {"id": 13878,"text": ["stigmatizzare"]}
-  ],
-  "still": [
-    {"id": 13879,"text": ["ancora"]},
-    {"id": 13880,"text": ["calmo"]}
-  ],
-  "stimulate": [
-    {"id": 13881,"text": ["incentivare"]}
-  ],
-  "stimulating": [
-    {"id": 13882,"text": ["stimolante"]}
-  ],
-  "stimulation": [
-    {"id": 13883,"text": ["stimolazione"]}
-  ],
-  "stimulus": [
-    {"id": 13884,"text": ["stimolo"]}
-  ],
-  "sting": [
-    {"id": 13885,"text": ["pungere"]},
-    {"id": 13886,"text": ["pungiglione"]}
-  ],
-  "stingy": [
-    {"id": 13887,"text": ["avaro"]},
-    {"id": 13888,"text": ["tirchio"]}
-  ],
-  "stink": [
-    {"id": 13889,"text": ["puzzare"]}
-  ],
-  "stipulate": [
-    {"id": 13890,"text": ["stipulare"]}
-  ],
-  "stipulation": [
-    {"id": 13891,"text": ["stipulazione"]}
-  ],
-  "stir": [
-    {"id": 13892,"text": ["agitamento"]},
-    {"id": 13893,"text": ["mescolare"]}
-  ],
-  "stochastic": [
-    {"id": 13894,"text": ["stocastico"]}
-  ],
-  "stock": [
-    {"id": 13895,"text": ["azione"]},
-    {"id": 13896,"text": ["bestiame"]},
-    {"id": 13897,"text": ["provvista"]},
-    {"id": 13898,"text": ["riserva"]},
-    {"id": 13899,"text": ["scorta"]}
-  ],
-  "stock market": [
-    {"id": 13900,"text": ["borsa"]},
-    {"id": 13901,"text": ["mercato azionario"]}
-  ],
-  "stockholder": [
-    {"id": 13902,"text": ["azionista"]}
-  ],
-  "Stockholm": [
-    {"id": 13903,"text": ["Stoccolma"]}
-  ],
-  "stoically": [
-    {"id": 13904,"text": ["stoicamente"]}
-  ],
-  "stoichiometric": [
-    {"id": 13905,"text": ["stechiometrico"]}
-  ],
-  "stoichiometry": [
-    {"id": 13906,"text": ["stechiometria"]}
-  ],
-  "stoicism": [
-    {"id": 13907,"text": ["stoicismo"]}
-  ],
-  "stole": [
-    {"id": 13908,"text": ["stola"]}
-  ],
-  "stomach": [
-    {"id": 13909,"text": ["stomaco"]},
-    {"id": 13910,"text": ["pancia"]}
-  ],
-  "stone": [
-    {"id": 13911,"text": ["pietra"]}
-  ],
-  "stop": [
-    {"id": 13912,"text": ["fermarsi"]},
-    {"id": 13913,"text": ["fermata"]},
-    {"id": 13914,"text": ["smettere"]}
-  ],
-  "storage": [
-    {"id": 13915,"text": ["archiviazione"]},
-    {"id": 13916,"text": ["magazzino"]}
-  ],
-  "store": [
-    {"id": 13917,"text": ["negozio"]}
-  ],
-  "stork": [
-    {"id": 13918,"text": ["cicogna"]}
-  ],
-  "storm": [
-    {"id": 13919,"text": ["bufera"]},
-    {"id": 13920,"text": ["tempesta"]},
-    {"id": 13921,"text": ["assalto"]},
-    {"id": 13922,"text": ["assalire"]},
-    {"id": 13923,"text": ["tormenta"]}
-  ],
-  "story": [
-    {"id": 13924,"text": ["storia"]}
-  ],
-  "stove": [
-    {"id": 13925,"text": ["stufa"]}
-  ],
-  "stowaway": [
-    {"id": 13926,"text": ["passeggeroclandestino"]}
-  ],
-  "strabismus": [
-    {"id": 13927,"text": ["strabismo"]}
-  ],
-  "straight": [
-    {"id": 13928,"text": ["diretto"]},
-    {"id": 13929,"text": ["diritto"]},
-    {"id": 13930,"text": ["dritto"]}
-  ],
-  "straightforward": [
-    {"id": 13931,"text": ["diretto"]},
-    {"id": 13932,"text": ["sincero"]}
-  ],
-  "strain": [
-    {"id": 13933,"text": ["tensione"]}
-  ],
-  "strand": [
-    {"id": 13934,"text": ["filo"]}
-  ],
-  "strange": [
-    {"id": 13935,"text": ["strano"]}
-  ],
-  "strangely": [
-    {"id": 13936,"text": ["stranamente"]}
-  ],
-  "strangeness": [
-    {"id": 13937,"text": ["stranezza"]}
-  ],
-  "stranger": [
-    {"id": 13938,"text": ["sconosciuto"]}
-  ],
-  "Strasbourg": [
-    {"id": 13939,"text": ["Strasburgo"]}
-  ],
-  "strategic": [
-    {"id": 13940,"text": ["strategico"]}
-  ],
-  "strategical": [
-    {"id": 13941,"text": ["strategico"]}
-  ],
-  "strategically": [
-    {"id": 13942,"text": ["strategicamente"]}
-  ],
-  "strategist": [
-    {"id": 13943,"text": ["stratega"]}
-  ],
-  "strategy": [
-    {"id": 13944,"text": ["strategia"]}
-  ],
-  "stratification": [
-    {"id": 13945,"text": ["stratificazione"]}
-  ],
-  "stratigraphy": [
-    {"id": 13946,"text": ["stratigrafia"]}
-  ],
-  "stratopause": [
-    {"id": 13947,"text": ["stratopausa"]}
-  ],
-  "stratosphere": [
-    {"id": 13948,"text": ["stratosfera"]}
-  ],
-  "straw": [
-    {"id": 13949,"text": ["paglia"]}
-  ],
-  "strawberry": [
-    {"id": 13950,"text": ["fragola"]}
-  ],
-  "stream": [
-    {"id": 13951,"text": ["corrente"]},
-    {"id": 13952,"text": ["flusso"]}
-  ],
-  "street": [
-    {"id": 13953,"text": ["strada"]}
-  ],
-  "streetcar": [
-    {"id": 13954,"text": ["tram"]}
-  ],
-  "strength": [
-    {"id": 13955,"text": ["forza"]}
-  ],
-  "strengthen": [
-    {"id": 13956,"text": ["fortificare"]},
-    {"id": 13957,"text": ["rafforzare"]}
-  ],
-  "strengthening": [
-    {"id": 13958,"text": ["fortificazione"]}
-  ],
-  "strenuous": [
-    {"id": 13959,"text": ["faticoso"]}
-  ],
-  "strenuously": [
-    {"id": 13960,"text": ["strenuamente"]}
-  ],
-  "streptococcus": [
-    {"id": 13961,"text": ["streptococco"]}
-  ],
-  "stress": [
-    {"id": 13962,"text": ["stress"]},
-    {"id": 13963,"text": ["tensione"]}
-  ],
-  "stretch": [
-    {"id": 13964,"text": ["estendere"]},
-    {"id": 13965,"text": ["stendere"]},
-    {"id": 13966,"text": ["tratto"]}
-  ],
-  "stretcher": [
-    {"id": 13967,"text": ["barella"]}
-  ],
-  "strict": [
-    {"id": 13968,"text": ["severo"]}
-  ],
-  "strictly": [
-    {"id": 13969,"text": ["rigorosamente"]},
-    {"id": 13970,"text": ["severamente"]},
-    {"id": 13971,"text": ["strettamente"]}
-  ],
-  "strident": [
-    {"id": 13972,"text": ["stridente"]}
-  ],
-  "strike": [
-    {"id": 13973,"text": ["colpire"]},
-    {"id": 13974,"text": ["colpo"]},
-    {"id": 13975,"text": ["sciopero"]}
-  ],
-  "strikeout": [
-    {"id": 13976,"text": ["sbarrare"]}
-  ],
-  "striker": [
-    {"id": 13977,"text": ["attaccante"]},
-    {"id": 13978,"text": ["battitore"]}
-  ],
-  "string": [
-    {"id": 13979,"text": ["corda"]},
-    {"id": 13980,"text": ["stringa"]}
-  ],
-  "strip": [
-    {"id": 13981,"text": ["nastro"]},
-    {"id": 13982,"text": ["striscia"]},
-    {"id": 13983,"text": ["spogliare"]},
-    {"id": 13984,"text": ["spogliarsi"]}
-  ],
-  "stripe": [
-    {"id": 13985,"text": ["banda"]},
-    {"id": 13986,"text": ["sbarrare"]},
-    {"id": 13987,"text": ["striscia"]}
-  ],
-  "striped": [
-    {"id": 13988,"text": ["a strisce"]},
-    {"id": 13989,"text": ["zebrato"]}
-  ],
-  "stroke": [
-    {"id": 13990,"text": ["attacco"]},
-    {"id": 13991,"text": ["colpo"]},
-    {"id": 13992,"text": ["ictus"]},
-    {"id": 13993,"text": ["traccia"]},
-    {"id": 13994,"text": ["tratto"]}
-  ],
-  "stroll": [
-    {"id": 13995,"text": ["passeggiare"]}
-  ],
-  "stroller": [
-    {"id": 13996,"text": ["passeggino"]}
-  ],
-  "strong": [
-    {"id": 13997,"text": ["forte"]}
-  ],
-  "strongly": [
-    {"id": 13998,"text": ["fortemente"]},
-    {"id": 13999,"text": ["spiccatamente"]}
-  ],
-  "strontium": [
-    {"id": 14000,"text": ["stronzio"]}
-  ],
-  "struck": [
-    {"id": 14001,"text": ["colpito"]}
-  ],
-  "structural": [
-    {"id": 14002,"text": ["strutturale"]}
-  ],
-  "structuralism": [
-    {"id": 14003,"text": ["strutturalismo"]}
-  ],
-  "structuralist": [
-    {"id": 14004,"text": ["strutturalista"]}
-  ],
-  "structurally": [
-    {"id": 14005,"text": ["strutturalmente"]}
-  ],
-  "structure": [
-    {"id": 14006,"text": ["struttura"]},
-    {"id": 14007,"text": ["strutturare"]}
-  ],
-  "structuring": [
-    {"id": 14008,"text": ["strutturazione"]}
-  ],
-  "struggle": [
-    {"id": 14009,"text": ["combattere"]},
-    {"id": 14010,"text": ["lotta"]},
-    {"id": 14011,"text": ["sforzarsi"]},
-    {"id": 14012,"text": ["sforzo"]}
-  ],
-  "stubborn": [
-    {"id": 14013,"text": ["ostinato"]}
-  ],
-  "stubbornly": [
-    {"id": 14014,"text": ["ostinatamente"]}
-  ],
-  "student": [
-    {"id": 14015,"text": ["allievo"]},
-    {"id": 14016,"text": ["alunno"]},
-    {"id": 14017,"text": ["studente"]}
-  ],
-  "studious": [
-    {"id": 14018,"text": ["studioso"]}
-  ],
-  "study": [
-    {"id": 14019,"text": ["studiare"]},
-    {"id": 14020,"text": ["studio"]}
-  ],
-  "stuff": [
-    {"id": 14021,"text": ["imbottire"]},
-    {"id": 14022,"text": ["materia"]},
-    {"id": 14023,"text": ["roba"]}
-  ],
-  "stump": [
-    {"id": 14024,"text": ["ceppo"]},
-    {"id": 14025,"text": ["moncherino"]},
-    {"id": 14026,"text": ["moncone"]}
-  ],
-  "stupendous": [
-    {"id": 14027,"text": ["stupendo"]}
-  ],
-  "stupid": [
-    {"id": 14028,"text": ["stupido"]}
-  ],
-  "stupidly": [
-    {"id": 14029,"text": ["stupidamente"]}
-  ],
-  "stutter": [
-    {"id": 14030,"text": ["balbettare"]},
-    {"id": 14031,"text": ["balbuzie"]}
-  ],
-  "stuttering": [
-    {"id": 14032,"text": ["balbuzie"]}
-  ],
-  "Stuttgart": [
-    {"id": 14033,"text": ["stoccarda"]}
-  ],
-  "sty": [
-    {"id": 14034,"text": ["gufo"]},
-    {"id": 14035,"text": ["porcile"]}
-  ],
-  "style": [
-    {"id": 14036,"text": ["stile"]}
-  ],
-  "stylist": [
-    {"id": 14037,"text": ["stilista"]}
-  ],
-  "stylistic": [
-    {"id": 14038,"text": ["stilistico"]}
-  ],
-  "stylistically": [
-    {"id": 14039,"text": ["stilisticamente"]}
-  ],
-  "subatomic": [
-    {"id": 14040,"text": ["subatomico"]}
-  ],
-  "subauction": [
-    {"id": 14041,"text": ["subasta"]}
-  ],
-  "subclass": [
-    {"id": 14042,"text": ["sottoclasse"]}
-  ],
-  "subculture": [
-    {"id": 14043,"text": ["sottocultura"]}
-  ],
-  "subcutaneous": [
-    {"id": 14044,"text": ["sottocutaneo"]}
-  ],
-  "subdivision": [
-    {"id": 14045,"text": ["suddivisione"]}
-  ],
-  "subdomain": [
-    {"id": 14046,"text": ["sottodominio"]}
-  ],
-  "subduction": [
-    {"id": 14047,"text": ["subduzione"]}
-  ],
-  "subfamily": [
-    {"id": 14048,"text": ["sottofamiglia"]}
-  ],
-  "subgroup": [
-    {"id": 14049,"text": ["sottogruppo"]}
-  ],
-  "subhead": [
-    {"id": 14050,"text": ["sottotitolo"]}
-  ],
-  "subject": [
-    {"id": 14051,"text": ["argomento"]},
-    {"id": 14052,"text": ["soggetto"]}
-  ],
-  "subjective": [
-    {"id": 14053,"text": ["soggettivo"]}
-  ],
-  "subjectivism": [
-    {"id": 14054,"text": ["soggettivismo"]}
-  ],
-  "subjugation": [
-    {"id": 14055,"text": ["soggiogamento"]}
-  ],
-  "subjunctive": [
-    {"id": 14056,"text": ["congiuntivo"]}
-  ],
-  "sublimate": [
-    {"id": 14057,"text": ["sublimare"]}
-  ],
-  "sublimation": [
-    {"id": 14058,"text": ["sublimazione"]}
-  ],
-  "sublime": [
-    {"id": 14059,"text": ["sublime"]}
-  ],
-  "subliminal": [
-    {"id": 14060,"text": ["subliminale"]}
-  ],
-  "submarine": [
-    {"id": 14061,"text": ["sottomarino"]}
-  ],
-  "submission": [
-    {"id": 14062,"text": ["sottomissione"]}
-  ],
-  "submit": [
-    {"id": 14063,"text": ["consegnare"]},
-    {"id": 14064,"text": ["inviare"]},
-    {"id": 14065,"text": ["sottomettere"]},
-    {"id": 14066,"text": ["sottomettersi"]},
-    {"id": 14067,"text": ["sottoporre"]}
-  ],
-  "submodule": [
-    {"id": 14068,"text": ["sottomodulo"]}
-  ],
-  "subnormal": [
-    {"id": 14069,"text": ["subnormale"]}
-  ],
-  "suborbital": [
-    {"id": 14070,"text": ["suborbitale"]}
-  ],
-  "suborder": [
-    {"id": 14071,"text": ["sottordine"]}
-  ],
-  "subordination": [
-    {"id": 14072,"text": ["subordinazione"]}
-  ],
-  "subproject": [
-    {"id": 14073,"text": ["sottoprogetto"]}
-  ],
-  "subrogation": [
-    {"id": 14074,"text": ["surrogazione"]}
-  ],
-  "subscribe": [
-    {"id": 14075,"text": ["iscriversi"]}
-  ],
-  "subscriber": [
-    {"id": 14076,"text": ["abbonato"]}
-  ],
-  "subscription": [
-    {"id": 14077,"text": ["abbonamento"]},
-    {"id": 14078,"text": ["sottoscrizione"]}
-  ],
-  "subsection": [
-    {"id": 14079,"text": ["sottosezione"]}
-  ],
-  "subsequently": [
-    {"id": 14080,"text": ["successivamente"]}
-  ],
-  "subset": [
-    {"id": 14081,"text": ["sottoinsieme"]}
-  ],
-  "subsidiary": [
-    {"id": 14082,"text": ["sussidiaria"]},
-    {"id": 14083,"text": ["sussidiario"]}
-  ],
-  "subsidise": [
-    {"id": 14084,"text": ["sovvenzionare"]}
-  ],
-  "subsidy": [
-    {"id": 14085,"text": ["sussidio"]}
-  ],
-  "subsistence": [
-    {"id": 14086,"text": ["sussistenza"]}
-  ],
-  "subsoil": [
-    {"id": 14087,"text": ["sottosuolo"]}
-  ],
-  "substance": [
-    {"id": 14088,"text": ["sostanza"]}
-  ],
-  "substantial": [
-    {"id": 14089,"text": ["sostanziale"]}
-  ],
-  "substantially": [
-    {"id": 14090,"text": ["sostanzialmente"]}
-  ],
-  "substantive": [
-    {"id": 14091,"text": ["sostantivo"]}
-  ],
-  "substitute": [
-    {"id": 14092,"text": ["sostituire"]},
-    {"id": 14093,"text": ["sostituto"]}
-  ],
-  "substitute teacher": [
-    {"id": 14094,"text": ["supplente"]}
-  ],
-  "substitution": [
-    {"id": 14095,"text": ["sostituzione"]}
-  ],
-  "substring": [
-    {"id": 14096,"text": ["sottostringa"]}
-  ],
-  "substructure": [
-    {"id": 14097,"text": ["sottostruttura"]}
-  ],
-  "subsystem": [
-    {"id": 14098,"text": ["sottosistema"]}
-  ],
-  "subterfuge": [
-    {"id": 14099,"text": ["sotterfugio"]}
-  ],
-  "subterranean": [
-    {"id": 14100,"text": ["sotterraneo"]}
-  ],
-  "subtle": [
-    {"id": 14101,"text": ["sottile"]}
-  ],
-  "subtly": [
-    {"id": 14102,"text": ["sottilmente"]}
-  ],
-  "subtract": [
-    {"id": 14103,"text": ["sottrarre"]}
-  ],
-  "subtraction": [
-    {"id": 14104,"text": ["sottrazione"]}
-  ],
-  "subtrahend": [
-    {"id": 14105,"text": ["sottraendo"]}
-  ],
-  "suburban": [
-    {"id": 14106,"text": ["suburbano"]}
-  ],
-  "subway": [
-    {"id": 14107,"text": ["metro"]},
-    {"id": 14108,"text": ["metropolitana"]}
-  ],
-  "succeed": [
-    {"id": 14109,"text": ["succedere"]}
-  ],
-  "success": [
-    {"id": 14110,"text": ["esito"]},
-    {"id": 14111,"text": ["successo"]}
-  ],
-  "successful": [
-    {"id": 14112,"text": ["di successo"]}
-  ],
-  "successfully": [
-    {"id": 14113,"text": ["con successo"]}
-  ],
-  "successive": [
-    {"id": 14114,"text": ["successivo"]}
-  ],
-  "successively": [
-    {"id": 14115,"text": ["successivamente"]}
-  ],
-  "successor": [
-    {"id": 14116,"text": ["successore"]}
-  ],
-  "succinct": [
-    {"id": 14117,"text": ["succinto"]}
-  ],
-  "succulent": [
-    {"id": 14118,"text": ["succulento"]}
-  ],
-  "such": [
-    {"id": 14119,"text": ["così"]},
-    {"id": 14120,"text": ["tale"]}
-  ],
-  "suchas": [
-    {"id": 14121,"text": ["come"]}
-  ],
-  "suck": [
-    {"id": 14122,"text": ["succhiare"]}
-  ],
-  "sucker": [
-    {"id": 14123,"text": ["ventosa"]}
-  ],
-  "sudden": [
-    {"id": 14124,"text": ["improvviso"]}
-  ],
-  "suddenly": [
-    {"id": 14125,"text": ["improvvisamente"]}
-  ],
-  "sue": [
-    {"id": 14126,"text": ["denunciare"]},
-    {"id": 14127,"text": ["querelare"]}
-  ],
-  "suffer": [
-    {"id": 14128,"text": ["soffrire"]}
-  ],
-  "suffering": [
-    {"id": 14129,"text": ["sofferente"]},
-    {"id": 14130,"text": ["sofferenza"]}
-  ],
-  "suffice": [
-    {"id": 14131,"text": ["bastare"]}
-  ],
-  "sufficiency": [
-    {"id": 14132,"text": ["sufficienza"]}
-  ],
-  "sufficient": [
-    {"id": 14133,"text": ["sufficiente"]}
-  ],
-  "sufficiently": [
-    {"id": 14134,"text": ["sufficientemente"]}
-  ],
-  "suffix": [
-    {"id": 14135,"text": ["suffisso"]}
-  ],
-  "suffixation": [
-    {"id": 14136,"text": ["suffissazione"]}
-  ],
-  "suffocate": [
-    {"id": 14137,"text": ["asfissiare"]}
-  ],
-  "suffrage": [
-    {"id": 14138,"text": ["suffragio"]}
-  ],
-  "sugar": [
-    {"id": 14139,"text": ["zucchero"]}
-  ],
-  "suggest": [
-    {"id": 14140,"text": ["suggerire"]}
-  ],
-  "suggestion": [
-    {"id": 14141,"text": ["suggerimento"]}
-  ],
-  "suicide": [
-    {"id": 14142,"text": ["suicidio"]}
-  ],
-  "suit": [
-    {"id": 14143,"text": ["adattare"]},
-    {"id": 14144,"text": ["contenzioso"]},
-    {"id": 14145,"text": ["tuta"]},
-    {"id": 14146,"text": ["vestito"]}
-  ],
-  "suitability": [
-    {"id": 14147,"text": ["convenienza"]}
-  ],
-  "suitable": [
-    {"id": 14148,"text": ["adatto"]},
-    {"id": 14149,"text": ["adeguato"]}
-  ],
-  "suitcase": [
-    {"id": 14150,"text": ["valigia"]}
-  ],
-  "sulphate": [
-    {"id": 14151,"text": ["solfato"]}
-  ],
-  "sulphide": [
-    {"id": 14152,"text": ["solfuro"]}
-  ],
-  "sulphur": [
-    {"id": 14153,"text": ["zolfo"]}
-  ],
-  "sum": [
-    {"id": 14154,"text": ["somma"]}
-  ],
-  "Sumerian": [
-    {"id": 14155,"text": ["sumero"]}
-  ],
-  "summarise": [
-    {"id": 14156,"text": ["riassumere"]}
-  ],
-  "summary": [
-    {"id": 14157,"text": ["riassunto"]},
-    {"id": 14158,"text": ["sommario"]}
-  ],
-  "summation": [
-    {"id": 14159,"text": ["sommatoria"]},
-    {"id": 14160,"text": ["sommazione"]}
-  ],
-  "summer": [
-    {"id": 14161,"text": ["estate"]}
-  ],
-  "summer camp": [
-    {"id": 14162,"text": ["campo estivo"]}
-  ],
-  "summit": [
-    {"id": 14163,"text": ["sommità"]},
-    {"id": 14164,"text": ["vertice"]}
-  ],
-  "summon": [
-    {"id": 14165,"text": ["convocare"]},
-    {"id": 14166,"text": ["evocare"]}
-  ],
-  "Sun": [
-    {"id": 14167,"text": ["Sole"]}
-  ],
-  "sunday": [
-    {"id": 14168,"text": ["domenica"]}
-  ],
-  "sunflower": [
-    {"id": 14169,"text": ["girasole"]}
-  ],
-  "sunny": [
-    {"id": 14170,"text": ["soleggiato"]}
-  ],
-  "sunstroke": [
-    {"id": 14171,"text": ["insolazione"]}
-  ],
-  "superb": [
-    {"id": 14172,"text": ["magnifico"]}
-  ],
-  "superbly": [
-    {"id": 14173,"text": ["magnificamente"]}
-  ],
-  "supercharging": [
-    {"id": 14174,"text": ["sovralimentazione"]}
-  ],
-  "superelevation": [
-    {"id": 14175,"text": ["sopraelevazione"]}
-  ],
-  "superficial": [
-    {"id": 14176,"text": ["superficiale"]}
-  ],
-  "superfluid": [
-    {"id": 14177,"text": ["superfluido"]}
-  ],
-  "superhuman": [
-    {"id": 14178,"text": ["superuomo"]}
-  ],
-  "superimpose": [
-    {"id": 14179,"text": ["sovrapporre"]}
-  ],
-  "superimposition": [
-    {"id": 14180,"text": ["sovrapposizione"]}
-  ],
-  "superior": [
-    {"id": 14181,"text": ["superiore"]}
-  ],
-  "superlative": [
-    {"id": 14182,"text": ["superlativo"]}
-  ],
-  "supermarket": [
-    {"id": 14183,"text": ["supermercato"]}
-  ],
-  "supernatural": [
-    {"id": 14184,"text": ["soprannaturale"]},
-    {"id": 14185,"text": ["sovrannaturale"]}
-  ],
-  "supersaturation": [
-    {"id": 14186,"text": ["sovrasaturazione"]}
-  ],
-  "supersonic": [
-    {"id": 14187,"text": ["supersonico"]}
-  ],
-  "superstition": [
-    {"id": 14188,"text": ["superstizione"]}
-  ],
-  "superstructure": [
-    {"id": 14189,"text": ["sovrastruttura"]}
-  ],
-  "supervise": [
-    {"id": 14190,"text": ["supervisionare"]}
-  ],
-  "supervision": [
-    {"id": 14191,"text": ["supervisione"]}
-  ],
-  "supervisor": [
-    {"id": 14192,"text": ["sorvegliante"]}
-  ],
-  "supplement": [
-    {"id": 14193,"text": ["supplemento"]}
-  ],
-  "supplementary": [
-    {"id": 14194,"text": ["supplementare"]}
-  ],
-  "supplier": [
-    {"id": 14195,"text": ["fornitore"]}
-  ],
-  "supply": [
-    {"id": 14196,"text": ["fornire"]},
-    {"id": 14197,"text": ["provvista"]},
-    {"id": 14198,"text": ["rifornimento"]}
-  ],
-  "supplying": [
-    {"id": 14199,"text": ["somministratore"]}
-  ],
-  "support": [
-    {"id": 14200,"text": ["appoggiare"]},
-    {"id": 14201,"text": ["appoggio"]},
-    {"id": 14202,"text": ["supportare"]},
-    {"id": 14203,"text": ["supporto"]}
-  ],
-  "suppose": [
-    {"id": 14204,"text": ["supporre"]}
-  ],
-  "supposedly": [
-    {"id": 14205,"text": ["apparentemente"]},
-    {"id": 14206,"text": ["presuntamente"]}
-  ],
-  "supposition": [
-    {"id": 14207,"text": ["supposizione"]}
-  ],
-  "suppository": [
-    {"id": 14208,"text": ["supposta"]}
-  ],
-  "suppress": [
-    {"id": 14209,"text": ["sopprimere"]}
-  ],
-  "supranational": [
-    {"id": 14210,"text": ["sovranazionale"]}
-  ],
-  "suprarenal": [
-    {"id": 14211,"text": ["suprarrenale"]}
-  ],
-  "supremacy": [
-    {"id": 14212,"text": ["supremazia"]}
-  ],
-  "supreme": [
-    {"id": 14213,"text": ["supremo"]}
-  ],
-  "sure": [
-    {"id": 14214,"text": ["certo"]},
-    {"id": 14215,"text": ["sicuro"]}
-  ],
-  "surely": [
-    {"id": 14216,"text": ["sicuramente"]}
-  ],
-  "surface": [
-    {"id": 14217,"text": ["emergere"]},
-    {"id": 14218,"text": ["superficie"]}
-  ],
-  "surfer": [
-    {"id": 14219,"text": ["surfista"]}
-  ],
-  "surgeon": [
-    {"id": 14220,"text": ["chirurgo"]}
-  ],
-  "surgery": [
-    {"id": 14221,"text": ["chirurgia"]}
-  ],
-  "surgical": [
-    {"id": 14222,"text": ["chirurgico"]}
-  ],
-  "surname": [
-    {"id": 14223,"text": ["cognome"]}
-  ],
-  "surpass": [
-    {"id": 14224,"text": ["superare"]}
-  ],
-  "surprise": [
-    {"id": 14225,"text": ["sorprendere"]},
-    {"id": 14226,"text": ["sorpresa"]}
-  ],
-  "surprising": [
-    {"id": 14227,"text": ["sorprendente"]}
-  ],
-  "surprisingly": [
-    {"id": 14228,"text": ["sorprendentemente"]},
-    {"id": 14229,"text": ["stupefacentemente"]}
-  ],
-  "surrealism": [
-    {"id": 14230,"text": ["surrealismo"]}
-  ],
-  "surrender": [
-    {"id": 14231,"text": ["arrendere"]}
-  ],
-  "surround": [
-    {"id": 14232,"text": ["circondare"]}
-  ],
-  "surrounding": [
-    {"id": 14233,"text": ["circostante"]}
-  ],
-  "surtax": [
-    {"id": 14234,"text": ["soprattassa"]}
-  ],
-  "surveillance": [
-    {"id": 14235,"text": ["sorveglianza"]}
-  ],
-  "survey": [
-    {"id": 14236,"text": ["sondaggio"]}
-  ],
-  "survival": [
-    {"id": 14237,"text": ["sopravvivenza"]}
-  ],
-  "survive": [
-    {"id": 14238,"text": ["sopravvivere"]}
-  ],
-  "survivor": [
-    {"id": 14239,"text": ["sopravvissuto"]}
-  ],
-  "susceptance": [
-    {"id": 14240,"text": ["suscettanza"]}
-  ],
-  "susceptible": [
-    {"id": 14241,"text": ["suscettibile"]}
-  ],
-  "suspect": [
-    {"id": 14242,"text": ["sospettare"]}
-  ],
-  "suspend": [
-    {"id": 14243,"text": ["sospendere"]}
-  ],
-  "suspension": [
-    {"id": 14244,"text": ["sospensione"]}
-  ],
-  "suspicion": [
-    {"id": 14245,"text": ["sospetto"]}
-  ],
-  "suspicious": [
-    {"id": 14246,"text": ["sospetto"]},
-    {"id": 14247,"text": ["sospettoso"]}
-  ],
-  "suspiciously": [
-    {"id": 14248,"text": ["sospettosamente"]}
-  ],
-  "sustain": [
-    {"id": 14249,"text": ["sostenere"]}
-  ],
-  "sustainable": [
-    {"id": 14250,"text": ["sostenibile"]}
-  ],
-  "suture": [
-    {"id": 14251,"text": ["sutura"]}
-  ],
-  "swallow": [
-    {"id": 14252,"text": ["inghiottire"]},
-    {"id": 14253,"text": ["rondine"]},
-    {"id": 14254,"text": ["sorso"]}
-  ],
-  "swamp": [
-    {"id": 14255,"text": ["palude"]}
-  ],
-  "swan": [
-    {"id": 14256,"text": ["cigno"]}
-  ],
-  "swear": [
-    {"id": 14257,"text": ["giurare"]}
-  ],
-  "swearing": [
-    {"id": 14258,"text": ["giuramento"]}
-  ],
-  "swearword": [
-    {"id": 14259,"text": ["parolaccia"]}
-  ],
-  "sweat": [
-    {"id": 14260,"text": ["sudare"]},
-    {"id": 14261,"text": ["sudore"]}
-  ],
-  "sweater": [
-    {"id": 14262,"text": ["maglione"]}
-  ],
-  "sweatshirt": [
-    {"id": 14263,"text": ["felpa"]}
-  ],
-  "Sweden": [
-    {"id": 14264,"text": ["Svezia"]}
-  ],
-  "Swedish": [
-    {"id": 14265,"text": ["svedese"]}
-  ],
-  "sweeper": [
-    {"id": 14266,"text": ["spazzino"]}
-  ],
-  "sweet": [
-    {"id": 14267,"text": ["dolce"]}
-  ],
-  "sweetheart": [
-    {"id": 14268,"text": ["dolce"]}
-  ],
-  "sweetly": [
-    {"id": 14269,"text": ["dolcemente"]}
-  ],
-  "swelling": [
-    {"id": 14270,"text": ["gonfiore"]}
-  ],
-  "swift": [
-    {"id": 14271,"text": ["rapido"]},
-    {"id": 14272,"text": ["svelto"]},
-    {"id": 14273,"text": ["veloce"]}
-  ],
-  "swiftly": [
-    {"id": 14274,"text": ["rapidamente"]}
-  ],
-  "swim": [
-    {"id": 14275,"text": ["nuotare"]}
-  ],
-  "swimming": [
-    {"id": 14276,"text": ["nuoto"]}
-  ],
-  "swimming pool": [
-    {"id": 14277,"text": ["piscina"]}
-  ],
-  "swindle": [
-    {"id": 14278,"text": ["truffa"]}
-  ],
-  "swine": [
-    {"id": 14279,"text": ["porco"]},
-    {"id": 14280,"text": ["suino"]}
-  ],
-  "swing": [
-    {"id": 14281,"text": ["altalena"]},
-    {"id": 14282,"text": ["cambio"]},
-    {"id": 14283,"text": ["dondolare"]},
-    {"id": 14284,"text": ["oscillare"]},
-    {"id": 14285,"text": ["oscillazione"]}
-  ],
-  "swiss": [
-    {"id": 14286,"text": ["svizzero"]}
-  ],
-  "switch": [
-    {"id": 14287,"text": ["cambiare"]},
-    {"id": 14288,"text": ["cambio"]},
-    {"id": 14289,"text": ["interruttore"]}
-  ],
-  "switching": [
-    {"id": 14290,"text": ["commutazione"]}
-  ],
-  "Switzerland": [
-    {"id": 14291,"text": ["Svizzera"]}
-  ],
-  "sword": [
-    {"id": 14292,"text": ["spada"]}
-  ],
-  "sycamore": [
-    {"id": 14293,"text": ["sicomoro"]}
-  ],
-  "syllabic": [
-    {"id": 14294,"text": ["sillabico"]}
-  ],
-  "syllable": [
-    {"id": 14295,"text": ["sillaba"]}
-  ],
-  "syllogism": [
-    {"id": 14296,"text": ["sillogismo"]}
-  ],
-  "sylviculture": [
-    {"id": 14297,"text": ["silvicoltura"]}
-  ],
-  "symbiosis": [
-    {"id": 14298,"text": ["simbiosi"]}
-  ],
-  "symbiotic": [
-    {"id": 14299,"text": ["simbiotico"]}
-  ],
-  "symbol": [
-    {"id": 14300,"text": ["simbolo"]}
-  ],
-  "symbolic": [
-    {"id": 14301,"text": ["simbolico"]}
-  ],
-  "symbolically": [
-    {"id": 14302,"text": ["simbolicamente"]}
-  ],
-  "symbolisation": [
-    {"id": 14303,"text": ["simbolizzazione"]}
-  ],
-  "symbolise": [
-    {"id": 14304,"text": ["simboleggiare"]}
-  ],
-  "symbolism": [
-    {"id": 14305,"text": ["simbolismo"]}
-  ],
-  "symbolist": [
-    {"id": 14306,"text": ["simbolista"]}
-  ],
-  "symmetric": [
-    {"id": 14307,"text": ["simmetrico"]}
-  ],
-  "symmetrical": [
-    {"id": 14308,"text": ["simmetrico"]}
-  ],
-  "symmetry": [
-    {"id": 14309,"text": ["simmetria"]}
-  ],
-  "sympathiser": [
-    {"id": 14310,"text": ["simpatizzante"]}
-  ],
-  "sympathy": [
-    {"id": 14311,"text": ["compassione"]}
-  ],
-  "symphonic": [
-    {"id": 14312,"text": ["sinfonico"]}
-  ],
-  "symphony": [
-    {"id": 14313,"text": ["sinfonia"]}
-  ],
-  "symposium": [
-    {"id": 14314,"text": ["simposio"]}
-  ],
-  "symptom": [
-    {"id": 14315,"text": ["sintomo"]}
-  ],
-  "symptomatology": [
-    {"id": 14316,"text": ["sintomatologia"]}
-  ],
-  "synagogue": [
-    {"id": 14317,"text": ["sinagoga"]}
-  ],
-  "synchronisation": [
-    {"id": 14318,"text": ["sincronizzazione"]}
-  ],
-  "synchronise": [
-    {"id": 14319,"text": ["sincronizzare"]}
-  ],
-  "synchroniser": [
-    {"id": 14320,"text": ["sincronizzatore"]}
-  ],
-  "synchronism": [
-    {"id": 14321,"text": ["sincronismo"]}
-  ],
-  "synchrony": [
-    {"id": 14322,"text": ["sincronia"]}
-  ],
-  "syncopation": [
-    {"id": 14323,"text": ["sincope"]}
-  ],
-  "syncretism": [
-    {"id": 14324,"text": ["sincretismo"]}
-  ],
-  "syndicalist": [
-    {"id": 14325,"text": ["sindacalista"]}
-  ],
-  "syndicate": [
-    {"id": 14326,"text": ["sindacato"]}
-  ],
-  "syndrome": [
-    {"id": 14327,"text": ["sindrome"]}
-  ],
-  "synod": [
-    {"id": 14328,"text": ["sinodo"]}
-  ],
-  "synonym": [
-    {"id": 14329,"text": ["sinonimo"]}
-  ],
-  "synonymity": [
-    {"id": 14330,"text": ["sinonimia"]}
-  ],
-  "synonymous": [
-    {"id": 14331,"text": ["sinonimo"]}
-  ],
-  "syntactic": [
-    {"id": 14332,"text": ["sintattico"]}
-  ],
-  "syntax": [
-    {"id": 14333,"text": ["sintassi"]}
-  ],
-  "synthesis": [
-    {"id": 14334,"text": ["sintesi"]}
-  ],
-  "synthesiser": [
-    {"id": 14335,"text": ["sintetizzatore"]}
-  ],
-  "synthetic": [
-    {"id": 14336,"text": ["sintetico"]}
-  ],
-  "synthetically": [
-    {"id": 14337,"text": ["sinteticamente"]}
-  ],
-  "Syria": [
-    {"id": 14338,"text": ["Siria"]}
-  ],
-  "syrian": [
-    {"id": 14339,"text": ["siriano"]}
-  ],
-  "syringe": [
-    {"id": 14340,"text": ["siringa"]}
-  ],
-  "syrup": [
-    {"id": 14341,"text": ["sciroppo"]}
-  ],
-  "system": [
-    {"id": 14342,"text": ["sistema"]}
-  ],
-  "systematic": [
-    {"id": 14343,"text": ["sistematico"]}
-  ],
-  "systematically": [
-    {"id": 14344,"text": ["dasistema"]},
-    {"id": 14345,"text": ["sistematicamente"]}
-  ],
-  "systematisation": [
-    {"id": 14346,"text": ["sistematizzazione"]}
-  ],
-  "systematise": [
-    {"id": 14347,"text": ["sistematizzare"]}
-  ],
-  "systematization": [
-    {"id": 14348,"text": ["sistematizzazione"]}
-  ],
-  "systematize": [
-    {"id": 14349,"text": ["sistematizzare"]}
-  ]
-}
+{"sabbatical": [
+  {"id":12650,"text":["sabbatico"]}
+ ],
+
+"sabotage": [
+  {"id":12651,"text":["sabotaggio"]}
+ ],
+
+"sabre": [
+  {"id":12652,"text":["sciabola"]}
+ ],
+
+"saccharine": [
+  {"id":12653,"text":["saccarina"]}
+ ],
+
+"saccharose": [
+  {"id":12654,"text":["saccarosio"]}
+ ],
+
+"sack": [
+  {"id":12655,"text":["sacco"]}
+ ],
+
+"sacrament": [
+  {"id":12656,"text":["sacramento"]}
+ ],
+
+"sacramental": [
+  {"id":12657,"text":["sacramentale"]}
+ ],
+
+"sacred": [
+  {"id":12658,"text":["sacro"]}
+ ],
+
+"sacrifice": [
+  {"id":12659,"text":["sacrificare"]},
+  {"id":12660,"text":["sacrificio"]}
+ ],
+
+"sacrilege": [
+  {"id":12661,"text":["sacrilegio"]}
+ ],
+
+"sacristy": [
+  {"id":12662,"text":["sacrestia"]}
+ ],
+
+"sad": [
+  {"id":12663,"text":["triste"]}
+ ],
+
+"saddle": [
+  {"id":12664,"text":["sella"]}
+ ],
+
+"sadism": [
+  {"id":12665,"text":["sadismo"]}
+ ],
+
+"sadistic": [
+  {"id":12666,"text":["sadico"]}
+ ],
+
+"sadly": [
+  {"id":12667,"text":["tristemente"]}
+ ],
+
+"sadness": [
+  {"id":12668,"text":["tristezza"]}
+ ],
+
+"sadomasochism": [
+  {"id":12669,"text":["sadomasochismo"]}
+ ],
+
+"safari": [
+  {"id":12670,"text":["safari"]}
+ ],
+
+"safe": [
+  {"id":12671,"text":["sicuro"]}
+ ],
+
+"safe-conduct": [
+  {"id":12672,"text":["salvacondotto"]}
+ ],
+
+"safeguard": [
+  {"id":12673,"text":["salvaguardare"]},
+  {"id":12674,"text":["salvaguardia"]}
+ ],
+
+"safekeeping": [
+  {"id":12675,"text":["custodia"]}
+ ],
+
+"safety": [
+  {"id":12676,"text":["sicurezza"]}
+ ],
+
+"safflower": [
+  {"id":12677,"text":["cartamo"]}
+ ],
+
+"saffron": [
+  {"id":12678,"text":["zafferano"]}
+ ],
+
+"saga": [
+  {"id":12679,"text":["saga"]}
+ ],
+
+"sage": [
+  {"id":12680,"text":["salvia"]}
+ ],
+
+"sail": [
+  {"id":12681,"text":["navigare"]},
+  {"id":12682,"text":["vela"]}
+ ],
+
+"sailboat": [
+  {"id":12683,"text":["barca a vela"]}
+ ],
+
+"sailing": [
+  {"id":12684,"text":["navigazione"]}
+ ],
+
+"sailor": [
+  {"id":12685,"text":["marinaio"]}
+ ],
+
+"saint": [
+  {"id":12686,"text":["santo"]}
+ ],
+
+"salad": [
+  {"id":12687,"text":["insalata"]}
+ ],
+
+"salami": [
+  {"id":12688,"text":["salame"]}
+ ],
+
+"salaried": [
+  {"id":12689,"text":["stipendiato"]}
+ ],
+
+"salary": [
+  {"id":12690,"text":["salario"]},
+  {"id":12691,"text":["stipendio"]}
+ ],
+
+"sale": [
+  {"id":12692,"text":["vendita"]},
+  {"id":12693,"text":["saldo"]}
+ ],
+
+"saline": [
+  {"id":12694,"text":["salino"]}
+ ],
+
+"saliva": [
+  {"id":12695,"text":["saliva"]}
+ ],
+
+"salivary": [
+  {"id":12696,"text":["salivale"]}
+ ],
+
+"salivate": [
+  {"id":12697,"text":["salivare"]}
+ ],
+
+"salivation": [
+  {"id":12698,"text":["salivazione"]}
+ ],
+
+"salt": [
+  {"id":12699,"text":["sale"]}
+ ],
+
+"saltworks": [
+  {"id":12700,"text":["salina"]}
+ ],
+
+"salvation": [
+  {"id":12701,"text":["redenzione"]},
+  {"id":12702,"text":["salvezza"]}
+ ],
+
+"samarium": [
+  {"id":12703,"text":["samario"]}
+ ],
+
+"same": [
+  {"id":12704,"text":["medesimo"]},
+  {"id":12705,"text":["stesso"]}
+ ],
+
+"sample": [
+  {"id":12706,"text":["dimostrazione"]}
+ ],
+
+"sampling": [
+  {"id":12707,"text":["campionamento"]}
+ ],
+
+"Samson": [
+  {"id":12708,"text":["Sansone"]}
+ ],
+
+"sanatorium": [
+  {"id":12709,"text":["sanatorio"]}
+ ],
+
+"sanctify": [
+  {"id":12710,"text":["santificare"]}
+ ],
+
+"sanction": [
+  {"id":12711,"text":["sanzionare"]},
+  {"id":12712,"text":["sanzione"]}
+ ],
+
+"sanctuary": [
+  {"id":12713,"text":["santuario"]}
+ ],
+
+"sand": [
+  {"id":12714,"text":["sabbia"]}
+ ],
+
+"sandal": [
+  {"id":12715,"text":["sandalo"]}
+ ],
+
+"sandwich": [
+  {"id":12716,"text":["sandwich"]}
+ ],
+
+"sandy": [
+  {"id":12717,"text":["sabbioso"]}
+ ],
+
+"sane": [
+  {"id":12718,"text":["sano"]}
+ ],
+
+"sanitary": [
+  {"id":12719,"text":["sanitario"]}
+ ],
+
+"sap": [
+  {"id":12720,"text":["linfa"]}
+ ],
+
+"sapphire": [
+  {"id":12721,"text":["zaffiro"]}
+ ],
+
+"saprophyte": [
+  {"id":12722,"text":["saprofita"]}
+ ],
+
+"sarcasm": [
+  {"id":12723,"text":["sarcasmo"]}
+ ],
+
+"sarcomere": [
+  {"id":12724,"text":["sarcomero"]}
+ ],
+
+"sarcophagus": [
+  {"id":12725,"text":["sarcofago"]}
+ ],
+
+"sarcoplasm": [
+  {"id":12726,"text":["sarcoplasma"]}
+ ],
+
+"sardine": [
+  {"id":12727,"text":["sardina"]}
+ ],
+
+"Sardinia": [
+  {"id":12728,"text":["Sardegna"]}
+ ],
+
+"Satan": [
+  {"id":12729,"text":["Satana"]}
+ ],
+
+"satellite": [
+  {"id":12730,"text":["satellite"]}
+ ],
+
+"satiate": [
+  {"id":12731,"text":["saziare"]}
+ ],
+
+"satin": [
+  {"id":12732,"text":["raso"]}
+ ],
+
+"satire": [
+  {"id":12733,"text":["satira"]}
+ ],
+
+"satirical": [
+  {"id":12734,"text":["satirico"]}
+ ],
+
+"satisfaction": [
+  {"id":12735,"text":["soddisfazione"]}
+ ],
+
+"satisfactory": [
+  {"id":12736,"text":["soddisfacente"]}
+ ],
+
+"satisfied": [
+  {"id":12737,"text":["soddisfatto"]}
+ ],
+
+"satisfy": [
+  {"id":12738,"text":["soddisfare"]}
+ ],
+
+"satisfying": [
+  {"id":12739,"text":["soddisfacente"]}
+ ],
+
+"satrap": [
+  {"id":12740,"text":["satrapo"]}
+ ],
+
+"saturate": [
+  {"id":12741,"text":["saturare"]}
+ ],
+
+"saturated": [
+  {"id":12742,"text":["saturato"]},
+  {"id":12743,"text":["saturo"]}
+ ],
+
+"saturation": [
+  {"id":12744,"text":["saturazione"]}
+ ],
+
+"Saturday": [
+  {"id":12745,"text":["sabato"]}
+ ],
+
+"Saturn": [
+  {"id":12746,"text":["Saturno"]}
+ ],
+
+"saturnism": [
+  {"id":12747,"text":["saturnismo"]}
+ ],
+
+"satyr": [
+  {"id":12748,"text":["satiro"]}
+ ],
+
+"sauce": [
+  {"id":12749,"text":["salsa"]}
+ ],
+
+"Saudi Arabia": [
+  {"id":12750,"text":["Arabia Saudita"]}
+ ],
+
+"sauna": [
+  {"id":12751,"text":["sauna"]}
+ ],
+
+"sausage": [
+  {"id":12752,"text":["salsiccia"]}
+ ],
+
+"savage": [
+  {"id":12753,"text":["selvaggio"]}
+ ],
+
+"savannah": [
+  {"id":12754,"text":["savana"]}
+ ],
+
+"save": [
+  {"id":12755,"text":["risparmiare"]},
+  {"id":12756,"text":["salvare"]},
+  {"id":12757,"text":["salvataggio"]}
+ ],
+
+"save up": [
+  {"id":12758,"text":["risparmiare"]}
+ ],
+
+"saving": [
+  {"id":12759,"text":["risparmio"]}
+ ],
+
+"savior": [
+  {"id":12760,"text":["salvatore"]}
+ ],
+
+"saviour": [
+  {"id":12761,"text":["salvatore"]}
+ ],
+
+"saw": [
+  {"id":12762,"text":["sega"]},
+  {"id":12763,"text":["segare"]}
+ ],
+
+"sawmill": [
+  {"id":12764,"text":["segheria"]}
+ ],
+
+"sax": [
+  {"id":12765,"text":["sassofono"]}
+ ],
+
+"saxophone": [
+  {"id":12766,"text":["sassofono"]}
+ ],
+
+"saxophonist": [
+  {"id":12767,"text":["sassofonista"]}
+ ],
+
+"say": [
+  {"id":12768,"text":["dire"]}
+ ],
+
+"saying": [
+  {"id":12769,"text":["detto"]}
+ ],
+
+"scabies": [
+  {"id":12770,"text":["scabbia"]}
+ ],
+
+"scaffolding": [
+  {"id":12771,"text":["impalcatura"]}
+ ],
+
+"scale": [
+  {"id":12772,"text":["bilancia"]},
+  {"id":12773,"text":["scaglia"]},
+  {"id":12774,"text":["scala"]},
+  {"id":12775,"text":["squama"]}
+ ],
+
+"scalp": [
+  {"id":12776,"text":["cuoio capelluto"]},
+  {"id":12777,"text":["scalpo"]}
+ ],
+
+"scalpel": [
+  {"id":12778,"text":["bisturi"]}
+ ],
+
+"scam": [
+  {"id":12779,"text":["truffa"]}
+ ],
+
+"scan": [
+  {"id":12780,"text":["scannerizzare"]},
+  {"id":12781,"text":["scansione"]},
+  {"id":12782,"text":["scrutare"]}
+ ],
+
+"scandal": [
+  {"id":12783,"text":["scandalo"]}
+ ],
+
+"scandalise": [
+  {"id":12784,"text":["scandalizzare"]}
+ ],
+
+"scanner": [
+  {"id":12785,"text":["scanner"]}
+ ],
+
+"scanning": [
+  {"id":12786,"text":["scansione"]}
+ ],
+
+"scapula": [
+  {"id":12787,"text":["scapola"]}
+ ],
+
+"scar": [
+  {"id":12788,"text":["cicatrice"]}
+ ],
+
+"scarce": [
+  {"id":12789,"text":["scarso"]}
+ ],
+
+"scarcely": [
+  {"id":12790,"text":["scarsamente"]}
+ ],
+
+"scare": [
+  {"id":12791,"text":["paura"]},
+  {"id":12792,"text":["spaventare"]}
+ ],
+
+"scarf": [
+  {"id":12793,"text":["sciarpa"]}
+ ],
+
+"scarification": [
+  {"id":12794,"text":["cicatrizzazione"]}
+ ],
+
+"scarlet": [
+  {"id":12795,"text":["scarlatto"]}
+ ],
+
+"scenario": [
+  {"id":12796,"text":["scenario"]}
+ ],
+
+"scene": [
+  {"id":12797,"text":["scena"]}
+ ],
+
+"scenic": [
+  {"id":12798,"text":["scenico"]}
+ ],
+
+"scenographical": [
+  {"id":12799,"text":["scenografico"]}
+ ],
+
+"scenography": [
+  {"id":12800,"text":["scenografia"]}
+ ],
+
+"scent": [
+  {"id":12801,"text":["profumo"]}
+ ],
+
+"scepter": [
+  {"id":12802,"text":["scettro"]}
+ ],
+
+"scepticism": [
+  {"id":12803,"text":["scetticismo"]}
+ ],
+
+"schedule": [
+  {"id":12804,"text":["orario"]},
+  {"id":12805,"text":["pianificare"]},
+  {"id":12806,"text":["programma"]},
+  {"id":12807,"text":["programmare"]}
+ ],
+
+"schematic": [
+  {"id":12808,"text":["schematico"]}
+ ],
+
+"scheme": [
+  {"id":12809,"text":["schema"]}
+ ],
+
+"schizophrenia": [
+  {"id":12810,"text":["schizofrenia"]}
+ ],
+
+"schizophrenic": [
+  {"id":12811,"text":["schizofrenico"]}
+ ],
+
+"scholar": [
+  {"id":12812,"text":["erudito"]},
+  {"id":12813,"text":["studioso"]}
+ ],
+
+"scholarly": [
+  {"id":12814,"text":["erudito"]}
+ ],
+
+"scholarship": [
+  {"id":12815,"text":["borsadistudio"]}
+ ],
+
+"scholastic": [
+  {"id":12816,"text":["scolastico"]}
+ ],
+
+"school": [
+  {"id":12817,"text":["banco"]},
+  {"id":12818,"text":["scuola"]}
+ ],
+
+"schoolchild": [
+  {"id":12819,"text":["scolaro"]}
+ ],
+
+"science": [
+  {"id":12820,"text":["scienza"]}
+ ],
+
+"sciencefiction": [
+  {"id":12821,"text":["fantascienza"]}
+ ],
+
+"scientific": [
+  {"id":12822,"text":["scientifico"]}
+ ],
+
+"scientifically": [
+  {"id":12823,"text":["scientificamente"]}
+ ],
+
+"scientist": [
+  {"id":12824,"text":["scienziato"]}
+ ],
+
+"scissors": [
+  {"id":12825,"text":["forbici"]}
+ ],
+
+"scoliosis": [
+  {"id":12826,"text":["scoliosi"]}
+ ],
+
+"scoop": [
+  {"id":12827,"text":["esclusiva"]},
+  {"id":12828,"text":["paletta"]}
+ ],
+
+"scope": [
+  {"id":12829,"text":["portata"]},
+  {"id":12830,"text":["mirino"]}
+ ],
+
+"scorbutic": [
+  {"id":12831,"text":["scorbutico"]}
+ ],
+
+"score": [
+  {"id":12832,"text":["marcare"]},
+  {"id":12833,"text":["punteggio"]},
+  {"id":12834,"text":["totalizzare"]},
+  {"id":12835,"text":["ventina"]}
+ ],
+
+"scorer": [
+  {"id":12836,"text":["marcatore"]}
+ ],
+
+"Scotland": [
+  {"id":12837,"text":["Scozia"]}
+ ],
+
+"Scottish": [
+  {"id":12838,"text":["scozzese"]}
+ ],
+
+"scour": [
+  {"id":12839,"text":["perlustrare"]},
+  {"id":12840,"text":["setacciare"]}
+ ],
+
+"scourge": [
+  {"id":12841,"text":["flagello"]}
+ ],
+
+"scrap": [
+  {"id":12842,"text":["rottamare"]},
+  {"id":12843,"text":["rottame"]},
+  {"id":12844,"text":["scartare"]},
+  {"id":12845,"text":["scarto"]}
+ ],
+
+"scrape": [
+  {"id":12846,"text":["grattare"]},
+  {"id":12847,"text":["raschiare"]}
+ ],
+
+"scraper": [
+  {"id":12848,"text":["raschietto"]}
+ ],
+
+"scratch": [
+  {"id":12849,"text":["graffiare"]},
+  {"id":12850,"text":["graffio"]},
+  {"id":12851,"text":["grattare"]},
+  {"id":12852,"text":["zero"]}
+ ],
+
+"scream": [
+  {"id":12853,"text":["gridare"]},
+  {"id":12854,"text":["grido"]}
+ ],
+
+"screen": [
+  {"id":12855,"text":["schermo"]}
+ ],
+
+"screening": [
+  {"id":12856,"text":["esplorazione"]}
+ ],
+
+"screw": [
+  {"id":12857,"text":["avvitare"]},
+  {"id":12858,"text":["vite"]}
+ ],
+
+"screwdriver": [
+  {"id":12859,"text":["cacciavite"]}
+ ],
+
+"script": [
+  {"id":12860,"text":["copione"]},
+  {"id":12861,"text":["sceneggiatura"]}
+ ],
+
+"scriptwriter": [
+  {"id":12862,"text":["sceneggiatore"]}
+ ],
+
+"scrotum": [
+  {"id":12863,"text":["scroto"]}
+ ],
+
+"scrub": [
+  {"id":12864,"text":["macchia"]},
+  {"id":12865,"text":["pulire"]},
+  {"id":12866,"text":["strofinare"]}
+ ],
+
+"scruple": [
+  {"id":12867,"text":["scrupolo"]}
+ ],
+
+"scubadiving": [
+  {"id":12868,"text":["immersionesubacquea"]}
+ ],
+
+"scuffle": [
+  {"id":12869,"text":["colluttazione"]}
+ ],
+
+"sculptor": [
+  {"id":12870,"text":["scultore"]}
+ ],
+
+"sculptural": [
+  {"id":12871,"text":["scultoreo"]}
+ ],
+
+"sculpture": [
+  {"id":12872,"text":["scultura"]}
+ ],
+
+"scum": [
+  {"id":12873,"text":["feccia"]}
+ ],
+
+"scurvy": [
+  {"id":12874,"text":["scorbuto"]}
+ ],
+
+"sea": [
+  {"id":12875,"text":["mare"]}
+ ],
+
+"seaboard": [
+  {"id":12876,"text":["litorale"]}
+ ],
+
+"seagull": [
+  {"id":12877,"text":["gabbiano"]}
+ ],
+
+"seal": [
+  {"id":12878,"text":["foca"]},
+  {"id":12879,"text":["francobollo"]},
+  {"id":12880,"text":["sigillare"]}
+ ],
+
+"search": [
+  {"id":12881,"text":["cercare"]},
+  {"id":12882,"text":["ricerca"]}
+ ],
+
+"searchengine": [
+  {"id":12883,"text":["motorediricerca"]}
+ ],
+
+"seashell": [
+  {"id":12884,"text":["conchiglia"]}
+ ],
+
+"season": [
+  {"id":12885,"text":["stagione"]}
+ ],
+
+"seasonal": [
+  {"id":12886,"text":["stagionale"]}
+ ],
+
+"seat": [
+  {"id":12887,"text":["sedere"]},
+  {"id":12888,"text":["sedile"]}
+ ],
+
+"seaweed": [
+  {"id":12889,"text":["alga"]}
+ ],
+
+"secession": [
+  {"id":12890,"text":["secessione"]}
+ ],
+
+"secessionism": [
+  {"id":12891,"text":["secessionismo"]}
+ ],
+
+"seclusion": [
+  {"id":12892,"text":["clausura"]}
+ ],
+
+"second": [
+  {"id":12893,"text":["appoggiare"]},
+  {"id":12894,"text":["secondo"]}
+ ],
+
+"secondary": [
+  {"id":12895,"text":["secondario"]}
+ ],
+
+"secondly": [
+  {"id":12896,"text":["insecondoluogo"]}
+ ],
+
+"secrecy": [
+  {"id":12897,"text":["segretezza"]}
+ ],
+
+"secret": [
+  {"id":12898,"text":["segreto"]}
+ ],
+
+"secretariat": [
+  {"id":12899,"text":["segreteria"]}
+ ],
+
+"secretary": [
+  {"id":12900,"text":["segretario"]}
+ ],
+
+"secrete": [
+  {"id":12901,"text":["secernere"]}
+ ],
+
+"secretion": [
+  {"id":12902,"text":["secrezione"]}
+ ],
+
+"secretly": [
+  {"id":12903,"text":["segretamente"]}
+ ],
+
+"sect": [
+  {"id":12904,"text":["setta"]}
+ ],
+
+"section": [
+  {"id":12905,"text":["sezione"]}
+ ],
+
+"sector": [
+  {"id":12906,"text":["settore"]}
+ ],
+
+"sectorial": [
+  {"id":12907,"text":["settoriale"]}
+ ],
+
+"secular": [
+  {"id":12908,"text":["laico"]},
+  {"id":12909,"text":["secolare"]}
+ ],
+
+"secularisation": [
+  {"id":12910,"text":["laicizzazione"]},
+  {"id":12911,"text":["secolarizzazione"]}
+ ],
+
+"secure": [
+  {"id":12912,"text":["assicurare"]},
+  {"id":12913,"text":["sicuro"]}
+ ],
+
+"security": [
+  {"id":12914,"text":["sicurezza"]}
+ ],
+
+"sedation": [
+  {"id":12915,"text":["sedazione"]}
+ ],
+
+"sedative": [
+  {"id":12916,"text":["sedativo"]}
+ ],
+
+"sedentarism": [
+  {"id":12917,"text":["sedentarismo"]}
+ ],
+
+"sedentary": [
+  {"id":12918,"text":["sedentario"]}
+ ],
+
+"sediment": [
+  {"id":12919,"text":["sedimento"]}
+ ],
+
+"sedimentation": [
+  {"id":12920,"text":["sedimentazione"]}
+ ],
+
+"sedimentology": [
+  {"id":12921,"text":["sedimentologia"]}
+ ],
+
+"sedition": [
+  {"id":12922,"text":["sedizione"]}
+ ],
+
+"seduce": [
+  {"id":12923,"text":["sedurre"]}
+ ],
+
+"seducer": [
+  {"id":12924,"text":["seduttore"]}
+ ],
+
+"seduction": [
+  {"id":12925,"text":["seduzione"]}
+ ],
+
+"seductive": [
+  {"id":12926,"text":["seduttore"]}
+ ],
+
+"seductress": [
+  {"id":12927,"text":["seduttore"]}
+ ],
+
+"see": [
+  {"id":12928,"text":["vedere"]}
+ ],
+
+"seed": [
+  {"id":12929,"text":["seme"]},
+  {"id":12930,"text":["seminare"]}
+ ],
+
+"seek": [
+  {"id":12931,"text":["cercare"]}
+ ],
+
+"seem": [
+  {"id":12932,"text":["sembrare"]}
+ ],
+
+"seemingly": [
+  {"id":12933,"text":["apparentemente"]}
+ ],
+
+"seemlike": [
+  {"id":12934,"text":["sembrare"]}
+ ],
+
+"seen": [
+  {"id":12935,"text":["visto"]}
+ ],
+
+"segment": [
+  {"id":12936,"text":["segmento"]}
+ ],
+
+"segmentation": [
+  {"id":12937,"text":["segmentazione"]}
+ ],
+
+"segregation": [
+  {"id":12938,"text":["segregazione"]}
+ ],
+
+"segregationism": [
+  {"id":12939,"text":["segregazionismo"]}
+ ],
+
+"seism": [
+  {"id":12940,"text":["terremoto"]}
+ ],
+
+"seismograph": [
+  {"id":12941,"text":["sismografo"]}
+ ],
+
+"seismology": [
+  {"id":12942,"text":["sismologia"]}
+ ],
+
+"seismometer": [
+  {"id":12943,"text":["sismometro"]}
+ ],
+
+"seize": [
+  {"id":12944,"text":["confiscare"]}
+ ],
+
+"seldom": [
+  {"id":12945,"text":["raramente"]}
+ ],
+
+"select": [
+  {"id":12946,"text":["scegliere"]},
+  {"id":12947,"text":["selezionare"]}
+ ],
+
+"selectable": [
+  {"id":12948,"text":["selezionabile"]}
+ ],
+
+"selection": [
+  {"id":12949,"text":["selezione"]}
+ ],
+
+"selective": [
+  {"id":12950,"text":["selettivo"]}
+ ],
+
+"selenium": [
+  {"id":12951,"text":["selenio"]}
+ ],
+
+"self-criticism": [
+  {"id":12952,"text":["autocritica"]}
+ ],
+
+"self-defence": [
+  {"id":12953,"text":["autodifesa"]}
+ ],
+
+"self-defense": [
+  {"id":12954,"text":["autodifesa"]}
+ ],
+
+"self-determination": [
+  {"id":12955,"text":["autodeterminazione"]}
+ ],
+
+"self-esteem": [
+  {"id":12956,"text":["autostima"]}
+ ],
+
+"self-financing": [
+  {"id":12957,"text":["autofinanziamento"]}
+ ],
+
+"self-limitation": [
+  {"id":12958,"text":["autolimitazione"]}
+ ],
+
+"self-portrait": [
+  {"id":12959,"text":["autoritratto"]}
+ ],
+
+"self-sufficient": [
+  {"id":12960,"text":["autosufficiente"]}
+ ],
+
+"selfishness": [
+  {"id":12961,"text":["egoismo"]}
+ ],
+
+"selfless": [
+  {"id":12962,"text":["altruista"]},
+  {"id":12963,"text":["disinteressando"]}
+ ],
+
+"selflessness": [
+  {"id":12964,"text":["altruismo"]}
+ ],
+
+"sell": [
+  {"id":12965,"text":["vendere"]}
+ ],
+
+"semantic": [
+  {"id":12966,"text":["semantico"]}
+ ],
+
+"semantics": [
+  {"id":12967,"text":["semantica"]}
+ ],
+
+"semaphore": [
+  {"id":12968,"text":["semaforo"]}
+ ],
+
+"semblance": [
+  {"id":12969,"text":["parvenza"]},
+  {"id":12970,"text":["sembianza"]}
+ ],
+
+"semeiotic": [
+  {"id":12971,"text":["semiotico"]}
+ ],
+
+"semen": [
+  {"id":12972,"text":["sperma"]}
+ ],
+
+"semiannual": [
+  {"id":12973,"text":["semestrale"]}
+ ],
+
+"semiautomatic": [
+  {"id":12974,"text":["semiautomatico"]}
+ ],
+
+"semicircle": [
+  {"id":12975,"text":["semicerchio"]}
+ ],
+
+"semiconductor": [
+  {"id":12976,"text":["semiconduttore"]}
+ ],
+
+"semifinalist": [
+  {"id":12977,"text":["semifinalista"]}
+ ],
+
+"seminal": [
+  {"id":12978,"text":["seminale"]}
+ ],
+
+"seminar": [
+  {"id":12979,"text":["seminario"]}
+ ],
+
+"seminarist": [
+  {"id":12980,"text":["seminarista"]}
+ ],
+
+"semiologist": [
+  {"id":12981,"text":["semiologo"]}
+ ],
+
+"semiology": [
+  {"id":12982,"text":["semiologia"]}
+ ],
+
+"semipresidential": [
+  {"id":12983,"text":["semipresidenziale"]}
+ ],
+
+"semivocal": [
+  {"id":12984,"text":["semivocale"]}
+ ],
+
+"senate": [
+  {"id":12985,"text":["senato"]}
+ ],
+
+"senator": [
+  {"id":12986,"text":["senatore"]}
+ ],
+
+"senatorial": [
+  {"id":12987,"text":["senatoriale"]}
+ ],
+
+"send": [
+  {"id":12988,"text":["inviare"]},
+  {"id":12989,"text":["mandare"]},
+  {"id":12990,"text":["spedire"]}
+ ],
+
+"sending": [
+  {"id":12991,"text":["spedizione"]}
+ ],
+
+"senegalese": [
+  {"id":12992,"text":["senegalese"]}
+ ],
+
+"seneschal": [
+  {"id":12993,"text":["siniscalco"]}
+ ],
+
+"senile": [
+  {"id":12994,"text":["senile"]}
+ ],
+
+"senior": [
+  {"id":12995,"text":["senior"]}
+ ],
+
+"sensation": [
+  {"id":12996,"text":["sensazione"]}
+ ],
+
+"sensational": [
+  {"id":12997,"text":["sensazionale"]}
+ ],
+
+"sensationalism": [
+  {"id":12998,"text":["sensazionalismo"]}
+ ],
+
+"sensationalistic": [
+  {"id":12999,"text":["sensazionalista"]}
+ ],
+
+"sense": [
+  {"id":13000,"text":["percepire"]},
+  {"id":13001,"text":["senso"]},
+  {"id":13002,"text":["sentire"]}
+ ],
+
+"sensitisation": [
+  {"id":13003,"text":["sensibilizzazione"]}
+ ],
+
+"sensitise": [
+  {"id":13004,"text":["sensibilizzare"]}
+ ],
+
+"sensitive": [
+  {"id":13005,"text":["sensibile"]}
+ ],
+
+"sensor": [
+  {"id":13006,"text":["sensore"]}
+ ],
+
+"sensory": [
+  {"id":13007,"text":["sensoriale"]}
+ ],
+
+"sensual": [
+  {"id":13008,"text":["sensuale"]}
+ ],
+
+"sensualism": [
+  {"id":13009,"text":["sensismo"]}
+ ],
+
+"sentence": [
+  {"id":13010,"text":["frase"]},
+  {"id":13011,"text":["sentenza"]}
+ ],
+
+"sentential": [
+  {"id":13012,"text":["sentenziale"]}
+ ],
+
+"sentimental": [
+  {"id":13013,"text":["sentimentale"]}
+ ],
+
+"sentimentalism": [
+  {"id":13014,"text":["sentimentalismo"]}
+ ],
+
+"separable": [
+  {"id":13015,"text":["separabile"]}
+ ],
+
+"separate": [
+  {"id":13016,"text":["separare"]},
+  {"id":13017,"text":["separato"]}
+ ],
+
+"separately": [
+  {"id":13018,"text":["separatamente"]}
+ ],
+
+"separation": [
+  {"id":13019,"text":["separazione"]}
+ ],
+
+"sepia": [
+  {"id":13020,"text":["seppia"]}
+ ],
+
+"september": [
+  {"id":13021,"text":["settembre"]}
+ ],
+
+"septic": [
+  {"id":13022,"text":["settico"]}
+ ],
+
+"septicemia": [
+  {"id":13023,"text":["setticemia"]}
+ ],
+
+"septum": [
+  {"id":13024,"text":["setto"]}
+ ],
+
+"sequela": [
+  {"id":13025,"text":["sequela"]}
+ ],
+
+"sequence": [
+  {"id":13026,"text":["sequenza"]}
+ ],
+
+"sequential": [
+  {"id":13027,"text":["sequenziale"]}
+ ],
+
+"serenade": [
+  {"id":13028,"text":["serenata"]}
+ ],
+
+"sergeant": [
+  {"id":13029,"text":["sergente"]}
+ ],
+
+"series": [
+  {"id":13030,"text":["serie"]}
+ ],
+
+"serious": [
+  {"id":13031,"text":["serio"]}
+ ],
+
+"seriously": [
+  {"id":13032,"text":["seriamente"]}
+ ],
+
+"seriouslynow": [
+  {"id":13033,"text":["seriamente"]}
+ ],
+
+"sermon": [
+  {"id":13034,"text":["sermone"]}
+ ],
+
+"serology": [
+  {"id":13035,"text":["sierologia"]}
+ ],
+
+"serotherapy": [
+  {"id":13036,"text":["sieroterapia"]}
+ ],
+
+"serotonin": [
+  {"id":13037,"text":["serotonina"]}
+ ],
+
+"serum": [
+  {"id":13038,"text":["siero"]}
+ ],
+
+"servant": [
+  {"id":13039,"text":["inserviente"]},
+  {"id":13040,"text":["servo"]}
+ ],
+
+"serve": [
+  {"id":13041,"text":["servire"]}
+ ],
+
+"server": [
+  {"id":13042,"text":["servo"]}
+ ],
+
+"service": [
+  {"id":13043,"text":["servizio"]}
+ ],
+
+"servomechanism": [
+  {"id":13044,"text":["servomeccanismo"]}
+ ],
+
+"sesame": [
+  {"id":13045,"text":["sesamo"]}
+ ],
+
+"set": [
+  {"id":13046,"text":["impostare"]},
+  {"id":13047,"text":["insieme"]},
+  {"id":13048,"text":["mettere"]},
+  {"id":13049,"text":["preparare"]},
+  {"id":13050,"text":["set"]}
+ ],
+
+"setting": [
+  {"id":13051,"text":["ambientazione"]},
+  {"id":13052,"text":["impostazione"]}
+ ],
+
+"settle": [
+  {"id":13053,"text":["risolvere"]}
+ ],
+
+"settlement": [
+  {"id":13054,"text":["assestamento"]},
+  {"id":13055,"text":["insediamento"]}
+ ],
+
+"seven": [
+  {"id":13056,"text":["sette"]}
+ ],
+
+"seven hundred": [
+  {"id":13057,"text":["settecento"]}
+ ],
+
+"sevenhundredth": [
+  {"id":13058,"text":["settecentesimo"]}
+ ],
+
+"seventeen": [
+  {"id":13059,"text":["diciassette"]}
+ ],
+
+"seventeenth": [
+  {"id":13060,"text":["diciassettesimo"]}
+ ],
+
+"seventeenthousand": [
+  {"id":13061,"text":["diciassettemila"]}
+ ],
+
+"seventh": [
+  {"id":13062,"text":["settimo"]}
+ ],
+
+"seventhousand": [
+  {"id":13063,"text":["settemila"]}
+ ],
+
+"seventieth": [
+  {"id":13064,"text":["settantesimo"]}
+ ],
+
+"seventy": [
+  {"id":13065,"text":["settanta"]}
+ ],
+
+"seventyeight": [
+  {"id":13066,"text":["settantotto"]}
+ ],
+
+"seventyeightthousand": [
+  {"id":13067,"text":["settantottomila"]}
+ ],
+
+"seventyfive": [
+  {"id":13068,"text":["settantacinque"]}
+ ],
+
+"seventyfivethousand": [
+  {"id":13069,"text":["settantacinquemila"]}
+ ],
+
+"seventyfour": [
+  {"id":13070,"text":["settantaquattro"]}
+ ],
+
+"seventyfourthousand": [
+  {"id":13071,"text":["settantaquattromila"]}
+ ],
+
+"seventynine": [
+  {"id":13072,"text":["settantanove"]}
+ ],
+
+"seventyninethousand": [
+  {"id":13073,"text":["settantanovemila"]}
+ ],
+
+"seventyone": [
+  {"id":13074,"text":["settantuno"]}
+ ],
+
+"seventyonethousand": [
+  {"id":13075,"text":["settantunomila"]}
+ ],
+
+"seventyseven": [
+  {"id":13076,"text":["settantasette"]}
+ ],
+
+"seventyseventhousand": [
+  {"id":13077,"text":["settantasettemila"]}
+ ],
+
+"seventysix": [
+  {"id":13078,"text":["settantasei"]}
+ ],
+
+"seventysixthousand": [
+  {"id":13079,"text":["settantaseimila"]}
+ ],
+
+"seventythousand": [
+  {"id":13080,"text":["settantamila"]}
+ ],
+
+"seventythreethousand": [
+  {"id":13081,"text":["settantatremila"]}
+ ],
+
+"seventytwo": [
+  {"id":13082,"text":["settantadue"]}
+ ],
+
+"seventytwothousand": [
+  {"id":13083,"text":["settantaduemila"]}
+ ],
+
+"several": [
+  {"id":13084,"text":["diverso"]},
+  {"id":13085,"text":["moltos"]}
+ ],
+
+"severalmonths": [
+  {"id":13086,"text":["parecchimesi"]}
+ ],
+
+"severe": [
+  {"id":13087,"text":["severo"]}
+ ],
+
+"severely": [
+  {"id":13088,"text":["severamente"]}
+ ],
+
+"Seville": [
+  {"id":13089,"text":["Siviglia"]}
+ ],
+
+"sew": [
+  {"id":13090,"text":["cucire"]}
+ ],
+
+"sewerage": [
+  {"id":13091,"text":["fogna"]},
+  {"id":13092,"text":["fognatura"]}
+ ],
+
+"sex": [
+  {"id":13093,"text":["sesso"]}
+ ],
+
+"sexagesimal": [
+  {"id":13094,"text":["sessagesimale"]}
+ ],
+
+"sexism": [
+  {"id":13095,"text":["sessismo"]}
+ ],
+
+"sexology": [
+  {"id":13096,"text":["sessuologia"]}
+ ],
+
+"sextant": [
+  {"id":13097,"text":["sestante"]}
+ ],
+
+"sextet": [
+  {"id":13098,"text":["sestetto"]}
+ ],
+
+"sexual": [
+  {"id":13099,"text":["sessuale"]}
+ ],
+
+"sexually": [
+  {"id":13100,"text":["sessualmente"]}
+ ],
+
+"shade": [
+  {"id":13101,"text":["ombra"]},
+  {"id":13102,"text":["sfumatura"]}
+ ],
+
+"shadow": [
+  {"id":13103,"text":["ombra"]}
+ ],
+
+"shady": [
+  {"id":13104,"text":["losco"]},
+  {"id":13105,"text":["ombreggiato"]}
+ ],
+
+"shake": [
+  {"id":13106,"text":["scossa"]},
+  {"id":13107,"text":["scuotere"]}
+ ],
+
+"shallow": [
+  {"id":13108,"text":["superficiale"]}
+ ],
+
+"shaman": [
+  {"id":13109,"text":["sciamano"]}
+ ],
+
+"shamanism": [
+  {"id":13110,"text":["sciamanesimo"]}
+ ],
+
+"shame": [
+  {"id":13111,"text":["imbarazzo"]},
+  {"id":13112,"text":["vergogna"]}
+ ],
+
+"shameful": [
+  {"id":13113,"text":["vergognoso"]}
+ ],
+
+"shampoo": [
+  {"id":13114,"text":["sciampo"]},
+  {"id":13115,"text":["shampoo"]}
+ ],
+
+"shamrock": [
+  {"id":13116,"text":["trifoglio"]}
+ ],
+
+"shape": [
+  {"id":13117,"text":["metodo"]},
+  {"id":13118,"text":["plasmare"]},
+  {"id":13119,"text":["sagoma"]},
+  {"id":13120,"text":["veste"]}
+ ],
+
+"shard": [
+  {"id":13121,"text":["scheggia"]}
+ ],
+
+"share": [
+  {"id":13122,"text":["azione"]},
+  {"id":13123,"text":["condividere"]}
+ ],
+
+"shareholder": [
+  {"id":13124,"text":["azionista"]}
+ ],
+
+"shark": [
+  {"id":13125,"text":["squalo"]}
+ ],
+
+"sharp": [
+  {"id":13126,"text":["affilato"]},
+  {"id":13127,"text":["appuntito"]}
+ ],
+
+"sharpen": [
+  {"id":13128,"text":["affilare"]}
+ ],
+
+"sharpener": [
+  {"id":13129,"text":["temperino"]}
+ ],
+
+"sharply": [
+  {"id":13130,"text":["bruscamente"]}
+ ],
+
+"shaving": [
+  {"id":13131,"text":["rasatura"]}
+ ],
+
+"she": [
+  {"id":13132,"text":["ella"]},
+  {"id":13133,"text":["lei"]}
+ ],
+
+"shear": [
+  {"id":13134,"text":["taglio"]},
+  {"id":13135,"text":["tosare"]}
+ ],
+
+"shearing": [
+  {"id":13136,"text":["tosatura"]}
+ ],
+
+"shed": [
+  {"id":13137,"text":["capanna"]},
+  {"id":13138,"text":["rimessa"]},
+  {"id":13139,"text":["spargere"]}
+ ],
+
+"shedding": [
+  {"id":13140,"text":["spargimento"]}
+ ],
+
+"sheep": [
+  {"id":13141,"text":["pecora"]}
+ ],
+
+"sheet": [
+  {"id":13142,"text":["foglio"]},
+  {"id":13143,"text":["lenzuolo"]}
+ ],
+
+"sheik": [
+  {"id":13144,"text":["sceicco"]}
+ ],
+
+"shell": [
+  {"id":13145,"text":["conchiglia"]},
+  {"id":13146,"text":["guscio"]},
+  {"id":13147,"text":["pelare"]}
+ ],
+
+"shepherd": [
+  {"id":13148,"text":["pastore"]}
+ ],
+
+"sheriff": [
+  {"id":13149,"text":["sceriffo"]}
+ ],
+
+"shield": [
+  {"id":13150,"text":["scudo"]}
+ ],
+
+"shift": [
+  {"id":13151,"text":["cambiare"]},
+  {"id":13152,"text":["cambio"]},
+  {"id":13153,"text":["turno"]}
+ ],
+
+"shilling": [
+  {"id":13154,"text":["scellino"]}
+ ],
+
+"shine": [
+  {"id":13155,"text":["brillare"]},
+  {"id":13156,"text":["brillio"]},
+  {"id":13157,"text":["lucentezza"]},
+  {"id":13158,"text":["splendere"]}
+ ],
+
+"shiny": [
+  {"id":13159,"text":["brillante"]},
+  {"id":13160,"text":["cromatico"]}
+ ],
+
+"ship": [
+  {"id":13161,"text":["imbarcare"]},
+  {"id":13162,"text":["nave"]},
+  {"id":13163,"text":["spedire"]}
+ ],
+
+"shipment": [
+  {"id":13164,"text":["spedizione"]}
+ ],
+
+"shipowner": [
+  {"id":13165,"text":["armatore"]}
+ ],
+
+"shipping": [
+  {"id":13166,"text":["spedizione"]}
+ ],
+
+"shipwreck": [
+  {"id":13167,"text":["naufragio"]}
+ ],
+
+"shirt": [
+  {"id":13168,"text":["camicia"]}
+ ],
+
+"shit": [
+  {"id":13169,"text":["cacare"]},
+  {"id":13170,"text":["merda"]}
+ ],
+
+"shiver": [
+  {"id":13171,"text":["brivido"]},
+  {"id":13172,"text":["tremare"]}
+ ],
+
+"shock": [
+  {"id":13173,"text":["scioccare"]},
+  {"id":13174,"text":["scossa"]}
+ ],
+
+"shock absorber": [
+  {"id":13175,"text":["ammortizzatore"]}
+ ],
+
+"shocking": [
+  {"id":13176,"text":["scioccante"]}
+ ],
+
+"shoe": [
+  {"id":13177,"text":["ferrare"]},
+  {"id":13178,"text":["scarpa"]}
+ ],
+
+"shoemaker": [
+  {"id":13179,"text":["calzolaio"]}
+ ],
+
+"shoot": [
+  {"id":13180,"text":["sparare"]}
+ ],
+
+"shooting": [
+  {"id":13181,"text":["fucilazione"]},
+  {"id":13182,"text":["ripresa"]},
+  {"id":13183,"text":["sparatoria"]},
+  {"id":13184,"text":["tiro"]}
+ ],
+
+"shop": [
+  {"id":13185,"text":["negozio"]}
+ ],
+
+"shop assistant": [
+  {"id":13186,"text":["commesso"]}
+ ],
+
+"shopping": [
+  {"id":13187,"text":["acquisto"]},
+  {"id":13188,"text":["spesa"]}
+ ],
+
+"shore": [
+  {"id":13190,"text":["riva"]}
+ ],
+
+"short": [
+  {"id":13191,"text":["basso"]},
+  {"id":13192,"text":["corto"]}
+ ],
+
+"shortcircuit": [
+  {"id":13193,"text":["cortocircuito"]}
+ ],
+
+"shorten": [
+  {"id":13194,"text":["accorciare"]}
+ ],
+
+"shortening": [
+  {"id":13195,"text":["abbreviazione"]}
+ ],
+
+"shortfilm": [
+  {"id":13196,"text":["cortometraggio"]}
+ ],
+
+"shorthand": [
+  {"id":13197,"text":["stenografia"]}
+ ],
+
+"shortly": [
+  {"id":13198,"text":["a breve"]},
+  {"id":13199,"text":["prossimamente"]}
+ ],
+
+"shot": [
+  {"id":13200,"text":["colpo"]},
+  {"id":13201,"text":["scatto"]},
+  {"id":13202,"text":["sparato"]},
+  {"id":13203,"text":["tiro"]}
+ ],
+
+"should": [
+  {"id":13204,"text":["dovere"]}
+ ],
+
+"shoulder": [
+  {"id":13205,"text":["spalla"]}
+ ],
+
+"shout": [
+  {"id":13206,"text":["gridare"]},
+  {"id":13207,"text":["grido"]},
+  {"id":13208,"text":["urlare"]},
+  {"id":13209,"text":["urlo"]}
+ ],
+
+"shovel": [
+  {"id":13210,"text":["pala"]},
+  {"id":13211,"text":["paletta"]}
+ ],
+
+"show": [
+  {"id":13212,"text":["dimostrare"]},
+  {"id":13213,"text":["mostrare"]},
+  {"id":13214,"text":["show"]},
+  {"id":13215,"text":["spettacolo"]}
+ ],
+
+"showcase": [
+  {"id":13189,"text":["vetrina"]}
+ ],
+
+"shower": [
+  {"id":13216,"text":["doccia"]},
+  {"id":13217,"text":["piovere"]}
+ ],
+
+"showy": [
+  {"id":13218,"text":["vistoso"]}
+ ],
+
+"shrew": [
+  {"id":13219,"text":["toporagno"]}
+ ],
+
+"shrewdness": [
+  {"id":13220,"text":["astuzia"]},
+  {"id":13221,"text":["furbizia"]},
+  {"id":13222,"text":["scaltrezza"]}
+ ],
+
+"shrimp": [
+  {"id":13223,"text":["gambero"]}
+ ],
+
+"shrink": [
+  {"id":13224,"text":["restringere"]},
+  {"id":13225,"text":["rimpicciolire"]},
+  {"id":13226,"text":["rimpicciolirsi"]}
+ ],
+
+"shroud": [
+  {"id":13227,"text":["sindone"]},
+  {"id":13228,"text":["sudario"]},
+  {"id":13229,"text":["velo"]}
+ ],
+
+"shudder": [
+  {"id":13230,"text":["brivido"]},
+  {"id":13231,"text":["rabbrividire"]}
+ ],
+
+"shun": [
+  {"id":13232,"text":["evitare"]}
+ ],
+
+"shut": [
+  {"id":13233,"text":["chiudere"]},
+  {"id":13234,"text":["serrare"]}
+ ],
+
+"shut down": [
+  {"id":13235,"text":["chiudere"]},
+  {"id":13236,"text":["spegnere"]}
+ ],
+
+"shutter": [
+  {"id":13237,"text":["otturatore"]},
+  {"id":13238,"text":["serranda"]}
+ ],
+
+"shy": [
+  {"id":13239,"text":["timido"]}
+ ],
+
+"shyly": [
+  {"id":13240,"text":["timidamente"]}
+ ],
+
+"sibilant": [
+  {"id":13241,"text":["sibilante"]}
+ ],
+
+"sick": [
+  {"id":13242,"text":["ammalato"]},
+  {"id":13243,"text":["malato"]}
+ ],
+
+"side": [
+  {"id":13244,"text":["allearsi"]},
+  {"id":13245,"text":["lato"]}
+ ],
+
+"siderurgy": [
+  {"id":13246,"text":["siderurgia"]}
+ ],
+
+"sidewalk": [
+  {"id":13247,"text":["marciapiede"]}
+ ],
+
+"siege": [
+  {"id":13248,"text":["assediare"]},
+  {"id":13249,"text":["assedio"]}
+ ],
+
+"sieve": [
+  {"id":13250,"text":["setacciare"]},
+  {"id":13251,"text":["setaccio"]}
+ ],
+
+"sift": [
+  {"id":13252,"text":["setacciare"]}
+ ],
+
+"sigh": [
+  {"id":13253,"text":["sospirare"]},
+  {"id":13254,"text":["sospiro"]}
+ ],
+
+"sight": [
+  {"id":13255,"text":["vista"]}
+ ],
+
+"sigillography": [
+  {"id":13256,"text":["sigillografia"]}
+ ],
+
+"sign": [
+  {"id":13257,"text":["distintivo"]},
+  {"id":13258,"text":["firmare"]},
+  {"id":13259,"text":["segnale"]},
+  {"id":13260,"text":["segno"]},
+  {"id":13261,"text":["siglare"]}
+ ],
+
+"signal": [
+  {"id":13262,"text":["segnalare"]},
+  {"id":13263,"text":["segnale"]}
+ ],
+
+"signalling": [
+  {"id":13264,"text":["segnalazione"]}
+ ],
+
+"signature": [
+  {"id":13265,"text":["firma"]}
+ ],
+
+"significance": [
+  {"id":13266,"text":["importanza"]},
+  {"id":13267,"text":["significato"]}
+ ],
+
+"significant": [
+  {"id":13268,"text":["significativo"]}
+ ],
+
+"significantly": [
+  {"id":13269,"text":["significativamente"]}
+ ],
+
+"signification": [
+  {"id":13270,"text":["significazione"]}
+ ],
+
+"signpost": [
+  {"id":13271,"text":["pannello"]}
+ ],
+
+"silence": [
+  {"id":13272,"text":["silenzio"]}
+ ],
+
+"silent": [
+  {"id":13273,"text":["silenzioso"]}
+ ],
+
+"silently": [
+  {"id":13274,"text":["silenziosamente"]}
+ ],
+
+"silhouette": [
+  {"id":13275,"text":["silhouette"]}
+ ],
+
+"silica": [
+  {"id":13276,"text":["silice"]}
+ ],
+
+"silicate": [
+  {"id":13277,"text":["silicato"]}
+ ],
+
+"silicon": [
+  {"id":13278,"text":["silicio"]}
+ ],
+
+"silk": [
+  {"id":13279,"text":["seta"]}
+ ],
+
+"silly": [
+  {"id":13280,"text":["sciocco"]}
+ ],
+
+"silt": [
+  {"id":13281,"text":["limo"]}
+ ],
+
+"silver": [
+  {"id":13282,"text":["argento"]}
+ ],
+
+"simbolize": [
+  {"id":13283,"text":["simboleggiare"]}
+ ],
+
+"similar": [
+  {"id":13284,"text":["simile"]}
+ ],
+
+"similarly": [
+  {"id":13285,"text":["similarmente"]},
+  {"id":13286,"text":["similmente"]}
+ ],
+
+"simile": [
+  {"id":13287,"text":["similitudine"]}
+ ],
+
+"simony": [
+  {"id":13288,"text":["simonia"]}
+ ],
+
+"simple": [
+  {"id":13289,"text":["semplice"]}
+ ],
+
+"simpleton": [
+  {"id":13290,"text":["sempliciotto"]}
+ ],
+
+"simplification": [
+  {"id":13291,"text":["semplificazione"]}
+ ],
+
+"simplify": [
+  {"id":13292,"text":["semplificare"]}
+ ],
+
+"simply": [
+  {"id":13293,"text":["semplicemente"]}
+ ],
+
+"simulate": [
+  {"id":13294,"text":["simulare"]}
+ ],
+
+"simulation": [
+  {"id":13295,"text":["simulazione"]}
+ ],
+
+"simulator": [
+  {"id":13296,"text":["simulatore"]}
+ ],
+
+"simultaneous": [
+  {"id":13297,"text":["simultaneo"]}
+ ],
+
+"simultaneously": [
+  {"id":13298,"text":["simultaneamente"]}
+ ],
+
+"sin": [
+  {"id":13299,"text":["peccare"]},
+  {"id":13300,"text":["peccato"]}
+ ],
+
+"since": [
+  {"id":13301,"text":["da"]},
+  {"id":13302,"text":["daquando"]}
+ ],
+
+"sincere": [
+  {"id":13303,"text":["sincero"]}
+ ],
+
+"sincerely": [
+  {"id":13304,"text":["sinceramente"]}
+ ],
+
+"sindical": [
+  {"id":13305,"text":["sindacale"]}
+ ],
+
+"sine": [
+  {"id":13306,"text":["seno"]}
+ ],
+
+"sinew": [
+  {"id":13307,"text":["tendine"]}
+ ],
+
+"sing": [
+  {"id":13308,"text":["cantare"]}
+ ],
+
+"singer": [
+  {"id":13309,"text":["cantante"]}
+ ],
+
+"singing": [
+  {"id":13310,"text":["cantante"]},
+  {"id":13311,"text":["canto"]}
+ ],
+
+"single": [
+  {"id":13312,"text":["single"]},
+  {"id":13313,"text":["solo"]}
+ ],
+
+"singular": [
+  {"id":13314,"text":["singolare"]}
+ ],
+
+"singularly": [
+  {"id":13315,"text":["singolarmente"]}
+ ],
+
+"sinister": [
+  {"id":13316,"text":["sinistro"]}
+ ],
+
+"sink": [
+  {"id":13317,"text":["affondare"]},
+  {"id":13318,"text":["lavandino"]}
+ ],
+
+"sinking": [
+  {"id":13319,"text":["affondamento"]}
+ ],
+
+"sintering": [
+  {"id":13320,"text":["sinterizzazione"]}
+ ],
+
+"sinuatrialnode": [
+  {"id":13321,"text":["nodosenoatriale"]}
+ ],
+
+"sinusoid": [
+  {"id":13322,"text":["sinusoide"]}
+ ],
+
+"sinusoidal": [
+  {"id":13323,"text":["sinusoidale"]}
+ ],
+
+"sip": [
+  {"id":13324,"text":["sorso"]}
+ ],
+
+"sir": [
+  {"id":13325,"text":["signore"]},
+  {"id":13326,"text":["sire"]}
+ ],
+
+"sirocco": [
+  {"id":13327,"text":["scirocco"]}
+ ],
+
+"sisal": [
+  {"id":13328,"text":["sisal"]}
+ ],
+
+"sister": [
+  {"id":13329,"text":["sorella"]}
+ ],
+
+"sit": [
+  {"id":13330,"text":["sedere"]},
+  {"id":13331,"text":["sedersi"]}
+ ],
+
+"sit down": [
+  {"id":13332,"text":["sedere"]},
+  {"id":13333,"text":["sedersi"]}
+ ],
+
+"site": [
+  {"id":13334,"text":["posto"]},
+  {"id":13335,"text":["sito"]}
+ ],
+
+"situate": [
+  {"id":13336,"text":["situare"]},
+  {"id":13337,"text":["ubicare"]}
+ ],
+
+"situation": [
+  {"id":13338,"text":["situazione"]}
+ ],
+
+"situational": [
+  {"id":13339,"text":["situazionale"]}
+ ],
+
+"six": [
+  {"id":13340,"text":["sei"]}
+ ],
+
+"six hundred": [
+  {"id":13341,"text":["seicento"]}
+ ],
+
+"sixhundredth": [
+  {"id":13342,"text":["seicentesimo"]}
+ ],
+
+"sixteen": [
+  {"id":13343,"text":["sedici"]}
+ ],
+
+"sixteenth": [
+  {"id":13344,"text":["sedicesimo"]}
+ ],
+
+"sixteenthousand": [
+  {"id":13345,"text":["sedicimila"]}
+ ],
+
+"sixth": [
+  {"id":13346,"text":["sesto"]}
+ ],
+
+"sixthousand": [
+  {"id":13347,"text":["seimila"]}
+ ],
+
+"sixtieth": [
+  {"id":13348,"text":["sessantesimo"]}
+ ],
+
+"sixty": [
+  {"id":13349,"text":["sessanta"]}
+ ],
+
+"sixtyeight": [
+  {"id":13350,"text":["sessantotto"]}
+ ],
+
+"sixtyeightthousand": [
+  {"id":13351,"text":["sessantottomila"]}
+ ],
+
+"sixtyfive": [
+  {"id":13352,"text":["sessantacinque"]}
+ ],
+
+"sixtyfivethousand": [
+  {"id":13353,"text":["sessantacinquemila"]}
+ ],
+
+"sixtyfour": [
+  {"id":13354,"text":["sessantaquattro"]}
+ ],
+
+"sixtyfourthousand": [
+  {"id":13355,"text":["sessantaquattromila"]}
+ ],
+
+"sixtynine": [
+  {"id":13356,"text":["sessantanove"]}
+ ],
+
+"sixtyninethousand": [
+  {"id":13357,"text":["sessantanovemila"]}
+ ],
+
+"sixtyone": [
+  {"id":13358,"text":["sessantuno"]}
+ ],
+
+"sixtyonethousand": [
+  {"id":13359,"text":["sessantunomila"]}
+ ],
+
+"sixtyseven": [
+  {"id":13360,"text":["sessantasette"]}
+ ],
+
+"sixtyseventhousand": [
+  {"id":13361,"text":["sessantasettemila"]}
+ ],
+
+"sixtysix": [
+  {"id":13362,"text":["sessantasei"]}
+ ],
+
+"sixtysixthousand": [
+  {"id":13363,"text":["sessantaseimila"]}
+ ],
+
+"sixtythousand": [
+  {"id":13364,"text":["sessantamila"]}
+ ],
+
+"sixtythreethousand": [
+  {"id":13365,"text":["sessantatremila"]}
+ ],
+
+"sixtytwo": [
+  {"id":13366,"text":["sessantadue"]}
+ ],
+
+"sixtytwothousand": [
+  {"id":13367,"text":["sessantaduemila"]}
+ ],
+
+"size": [
+  {"id":13368,"text":["misura"]},
+  {"id":13369,"text":["taglia"]}
+ ],
+
+"skate": [
+  {"id":13370,"text":["pattinare"]}
+ ],
+
+"skating": [
+  {"id":13371,"text":["pattinaggio"]}
+ ],
+
+"skeletal": [
+  {"id":13372,"text":["scheletrico"]}
+ ],
+
+"skeleton": [
+  {"id":13373,"text":["scheletro"]}
+ ],
+
+"skeptical": [
+  {"id":13374,"text":["scettico"]}
+ ],
+
+"skew": [
+  {"id":13375,"text":["inclinare"]}
+ ],
+
+"ski": [
+  {"id":13376,"text":["sci"]}
+ ],
+
+"ski jump": [
+  {"id":13377,"text":["salto con gli sci"]}
+ ],
+
+"skier": [
+  {"id":13378,"text":["sciatore"]}
+ ],
+
+"skilful": [
+  {"id":13379,"text":["abile"]}
+ ],
+
+"skilled": [
+  {"id":13380,"text":["dotato"]},
+  {"id":13381,"text":["esperto"]},
+  {"id":13382,"text":["qualificato"]},
+  {"id":13383,"text":["specializzato"]}
+ ],
+
+"skillful": [
+  {"id":13384,"text":["abile"]}
+ ],
+
+"skin": [
+  {"id":13385,"text":["pelle"]},
+  {"id":13386,"text":["spellare"]}
+ ],
+
+"skinny": [
+  {"id":13387,"text":["magro"]}
+ ],
+
+"skirt": [
+  {"id":13388,"text":["gonna"]}
+ ],
+
+"skittle": [
+  {"id":13389,"text":["birillo"]}
+ ],
+
+"skull": [
+  {"id":13390,"text":["calotta"]},
+  {"id":13391,"text":["cranio"]},
+  {"id":13392,"text":["teschio"]}
+ ],
+
+"sky": [
+  {"id":13393,"text":["cielo"]}
+ ],
+
+"skyscraper": [
+  {"id":13394,"text":["grattacielo"]}
+ ],
+
+"slacken": [
+  {"id":13395,"text":["allentare"]}
+ ],
+
+"slant": [
+  {"id":13396,"text":["inclinare"]}
+ ],
+
+"slanted": [
+  {"id":13397,"text":["inclinato"]}
+ ],
+
+"slap": [
+  {"id":13398,"text":["schiaffo"]}
+ ],
+
+"slat": [
+  {"id":13399,"text":["stecca"]}
+ ],
+
+"slaughter": [
+  {"id":13400,"text":["macello"]}
+ ],
+
+"slaughterhouse": [
+  {"id":13401,"text":["mattatoio"]}
+ ],
+
+"slaughtering": [
+  {"id":13402,"text":["macellazione"]}
+ ],
+
+"slave": [
+  {"id":13403,"text":["schiavo"]}
+ ],
+
+"slavery": [
+  {"id":13404,"text":["schiavismo"]}
+ ],
+
+"Slavic": [
+  {"id":13405,"text":["slavo"]}
+ ],
+
+"sled": [
+  {"id":13406,"text":["slitta"]}
+ ],
+
+"sleep": [
+  {"id":13407,"text":["dormire"]},
+  {"id":13408,"text":["sonno"]}
+ ],
+
+"sleeper": [
+  {"id":13409,"text":["traversina"]}
+ ],
+
+"sleeping": [
+  {"id":13410,"text":["dormiente"]}
+ ],
+
+"sleepless": [
+  {"id":13411,"text":["insonne"]}
+ ],
+
+"sleeplessness": [
+  {"id":13412,"text":["insonnia"]}
+ ],
+
+"sleet": [
+  {"id":13413,"text":["acquaneve"]}
+ ],
+
+"sleeve": [
+  {"id":13414,"text":["manica"]}
+ ],
+
+"slice": [
+  {"id":13415,"text":["fetta"]}
+ ],
+
+"slide": [
+  {"id":13416,"text":["diapositiva"]},
+  {"id":13417,"text":["scivolare"]},
+  {"id":13418,"text":["scivolo"]}
+ ],
+
+"slight": [
+  {"id":13419,"text":["lieve"]}
+ ],
+
+"slightly": [
+  {"id":13420,"text":["leggermente"]},
+  {"id":13421,"text":["lievemente"]}
+ ],
+
+"slim": [
+  {"id":13422,"text":["magro"]}
+ ],
+
+"slime": [
+  {"id":13423,"text":["melma"]}
+ ],
+
+"sling": [
+  {"id":13424,"text":["imbracatura"]},
+  {"id":13425,"text":["lanciare"]}
+ ],
+
+"slip": [
+  {"id":13426,"text":["scivolare"]},
+  {"id":13427,"text":["scivolata"]}
+ ],
+
+"slippery": [
+  {"id":13428,"text":["scivoloso"]}
+ ],
+
+"slogan": [
+  {"id":13429,"text":["slogan"]}
+ ],
+
+"slope": [
+  {"id":13430,"text":["pendenza"]}
+ ],
+
+"sloth": [
+  {"id":13431,"text":["accidia"]},
+  {"id":13432,"text":["bradipo"]},
+  {"id":13433,"text":["pigrizia"]}
+ ],
+
+"Slovakia": [
+  {"id":13434,"text":["Slovacchia"]}
+ ],
+
+"slow": [
+  {"id":13435,"text":["lento"]},
+  {"id":13436,"text":["piano"]},
+  {"id":13437,"text":["rallentare"]}
+ ],
+
+"slow down": [
+  {"id":13438,"text":["rallentare"]}
+ ],
+
+"slowly": [
+  {"id":13439,"text":["lentamente"]},
+  {"id":13440,"text":["piano"]}
+ ],
+
+"slowness": [
+  {"id":13441,"text":["lentezza"]}
+ ],
+
+"slug": [
+  {"id":13442,"text":["lumaca"]}
+ ],
+
+"slump": [
+  {"id":13443,"text":["recessione"]}
+ ],
+
+"slyness": [
+  {"id":13444,"text":["astuzia"]},
+  {"id":13445,"text":["furbizia"]},
+  {"id":13446,"text":["scaltrezza"]}
+ ],
+
+"small": [
+  {"id":13447,"text":["minuto"]},
+  {"id":13448,"text":["piccolo"]}
+ ],
+
+"smart": [
+  {"id":13449,"text":["intelligente"]}
+ ],
+
+"smash": [
+  {"id":13450,"text":["distruggere"]},
+  {"id":13451,"text":["rompere"]},
+  {"id":13452,"text":["scontro"]},
+  {"id":13453,"text":["sfasciare"]}
+ ],
+
+"smell": [
+  {"id":13454,"text":["odore"]},
+  {"id":13455,"text":["puzzare"]}
+ ],
+
+"smile": [
+  {"id":13456,"text":["sorridere"]},
+  {"id":13457,"text":["sorriso"]}
+ ],
+
+"smith": [
+  {"id":13458,"text":["fabbro"]}
+ ],
+
+"smog": [
+  {"id":13459,"text":["smog"]}
+ ],
+
+"smoke": [
+  {"id":13460,"text":["fumare"]},
+  {"id":13461,"text":["fumo"]}
+ ],
+
+"smoker": [
+  {"id":13462,"text":["fumatore"]}
+ ],
+
+"smooth": [
+  {"id":13463,"text":["liscio"]}
+ ],
+
+"smuggling": [
+  {"id":13464,"text":["contrabbando"]}
+ ],
+
+"smurf": [
+  {"id":13465,"text":["puffo"]}
+ ],
+
+"snack": [
+  {"id":13466,"text":["boccone"]},
+  {"id":13467,"text":["spuntino"]}
+ ],
+
+"snail": [
+  {"id":13468,"text":["chiocciola"]},
+  {"id":13469,"text":["lumaca"]}
+ ],
+
+"snake": [
+  {"id":13470,"text":["serpente"]}
+ ],
+
+"snatch": [
+  {"id":13471,"text":["strappare"]}
+ ],
+
+"sneeze": [
+  {"id":13472,"text":["starnutire"]},
+  {"id":13473,"text":["starnuto"]}
+ ],
+
+"sniper": [
+  {"id":13474,"text":["cecchino"]}
+ ],
+
+"snob": [
+  {"id":13475,"text":["snob"]}
+ ],
+
+"snout": [
+  {"id":13476,"text":["muso"]}
+ ],
+
+"snow": [
+  {"id":13477,"text":["neve"]}
+ ],
+
+"snowgrain": [
+  {"id":13478,"text":["nevischio"]}
+ ],
+
+"snowman": [
+  {"id":13479,"text":["pupazzo di neve"]}
+ ],
+
+"so": [
+  {"id":13480,"text":["così"]},
+  {"id":13481,"text":["dunque"]},
+  {"id":13482,"text":["talmente"]}
+ ],
+
+"soak": [
+  {"id":13483,"text":["infradiciare"]},
+  {"id":13484,"text":["inzuppare"]}
+ ],
+
+"soap": [
+  {"id":13485,"text":["sapone"]}
+ ],
+
+"soapy": [
+  {"id":13486,"text":["saponoso"]}
+ ],
+
+"sober": [
+  {"id":13487,"text":["sereno"]}
+ ],
+
+"sociable": [
+  {"id":13488,"text":["socievole"]}
+ ],
+
+"social": [
+  {"id":13489,"text":["sociale"]}
+ ],
+
+"socialisation": [
+  {"id":13490,"text":["socializzazione"]}
+ ],
+
+"socialism": [
+  {"id":13491,"text":["socialismo"]}
+ ],
+
+"socialist": [
+  {"id":13492,"text":["socialista"]}
+ ],
+
+"socialization": [
+  {"id":13493,"text":["socializzazione"]}
+ ],
+
+"socially": [
+  {"id":13494,"text":["socialmente"]}
+ ],
+
+"sociobiology": [
+  {"id":13495,"text":["sociobiologia"]}
+ ],
+
+"socioeconomic": [
+  {"id":13496,"text":["economico-sociale"]}
+ ],
+
+"sociolinguistic": [
+  {"id":13497,"text":["sociolinguistico"]}
+ ],
+
+"sociolinguistics": [
+  {"id":13498,"text":["sociolinguistica"]}
+ ],
+
+"sociological": [
+  {"id":13499,"text":["sociologico"]}
+ ],
+
+"sociologism": [
+  {"id":13500,"text":["sociologismo"]}
+ ],
+
+"sociologist": [
+  {"id":13501,"text":["sociologo"]}
+ ],
+
+"sociology": [
+  {"id":13502,"text":["sociologia"]}
+ ],
+
+"sock": [
+  {"id":13503,"text":["calzino"]}
+ ],
+
+"Socrates": [
+  {"id":13504,"text":["Socrate"]}
+ ],
+
+"sodium": [
+  {"id":13505,"text":["sodio"]}
+ ],
+
+"sodomy": [
+  {"id":13506,"text":["sodomia"]}
+ ],
+
+"sofa": [
+  {"id":13507,"text":["divano"]},
+  {"id":13508,"text":["sofà"]}
+ ],
+
+"soft": [
+  {"id":13509,"text":["blando"]}
+ ],
+
+"soften": [
+  {"id":13510,"text":["ammorbidire"]}
+ ],
+
+"softly": [
+  {"id":13511,"text":["blandamente"]}
+ ],
+
+"softness": [
+  {"id":13512,"text":["morbidezza"]}
+ ],
+
+"software": [
+  {"id":13513,"text":["software"]}
+ ],
+
+"soil": [
+  {"id":13514,"text":["suolo"]}
+ ],
+
+"sojourn": [
+  {"id":13515,"text":["soggiorno"]}
+ ],
+
+"solace": [
+  {"id":13516,"text":["confortare"]},
+  {"id":13517,"text":["conforto"]},
+  {"id":13518,"text":["consolare"]},
+  {"id":13519,"text":["consolazione"]},
+  {"id":13520,"text":["sollevare"]},
+  {"id":13521,"text":["sollievo"]}
+ ],
+
+"solar": [
+  {"id":13522,"text":["solare"]}
+ ],
+
+"solarcooker": [
+  {"id":13523,"text":["fornosolare"]}
+ ],
+
+"soldier": [
+  {"id":13524,"text":["militare"]},
+  {"id":13525,"text":["soldato"]}
+ ],
+
+"sole": [
+  {"id":13526,"text":["unico"]}
+ ],
+
+"solely": [
+  {"id":13527,"text":["soltanto"]},
+  {"id":13528,"text":["solamente"]},
+  {"id":13529,"text":["unicamente"]}
+ ],
+
+"solemn": [
+  {"id":13530,"text":["solenne"]}
+ ],
+
+"solemnly": [
+  {"id":13531,"text":["solennemente"]}
+ ],
+
+"solenoid": [
+  {"id":13532,"text":["solenoide"]}
+ ],
+
+"solfege": [
+  {"id":13533,"text":["solfeggio"]}
+ ],
+
+"solicit": [
+  {"id":13534,"text":["sollecitare"]}
+ ],
+
+"solicitation": [
+  {"id":13535,"text":["sollecitazione"]}
+ ],
+
+"solicitor": [
+  {"id":13536,"text":["avvocato"]}
+ ],
+
+"solid": [
+  {"id":13537,"text":["solido"]}
+ ],
+
+"solidification": [
+  {"id":13538,"text":["solidificazione"]}
+ ],
+
+"solitary": [
+  {"id":13539,"text":["solitario"]}
+ ],
+
+"solitude": [
+  {"id":13540,"text":["solitudine"]}
+ ],
+
+"solo": [
+  {"id":13541,"text":["assolo"]}
+ ],
+
+"soloist": [
+  {"id":13542,"text":["solista"]}
+ ],
+
+"solstice": [
+  {"id":13543,"text":["solstizio"]}
+ ],
+
+"soluble": [
+  {"id":13544,"text":["solubile"]}
+ ],
+
+"solution": [
+  {"id":13545,"text":["soluzione"]}
+ ],
+
+"solvable": [
+  {"id":13546,"text":["risolvibile"]}
+ ],
+
+"solve": [
+  {"id":13547,"text":["risolvere"]}
+ ],
+
+"solvent": [
+  {"id":13548,"text":["solvente"]}
+ ],
+
+"Somali": [
+  {"id":13549,"text":["somalo"]}
+ ],
+
+"somany": [
+  {"id":13550,"text":["tanto"]}
+ ],
+
+"some": [
+  {"id":13551,"text":["alcun"]},
+  {"id":13552,"text":["alcuno"]},
+  {"id":13553,"text":["qualche"]},
+  {"id":13554,"text":["taluno"]}
+ ],
+
+"somebody": [
+  {"id":13555,"text":["qualcuno"]}
+ ],
+
+"somehow": [
+  {"id":13556,"text":["in qualche modo"]}
+ ],
+
+"someone": [
+  {"id":13557,"text":["qualcuno"]}
+ ],
+
+"somersault": [
+  {"id":13558,"text":["capriola"]}
+ ],
+
+"something": [
+  {"id":13559,"text":["qualcosa"]}
+ ],
+
+"sometimes": [
+  {"id":13560,"text":["a volte"]}
+ ],
+
+"somewhere": [
+  {"id":13561,"text":["da qualche parte"]}
+ ],
+
+"somnambulism": [
+  {"id":13562,"text":["sonnambulismo"]}
+ ],
+
+"somuch": [
+  {"id":13563,"text":["tanto"]}
+ ],
+
+"son": [
+  {"id":13564,"text":["figlio"]}
+ ],
+
+"sonata": [
+  {"id":13565,"text":["sonata"]}
+ ],
+
+"song": [
+  {"id":13566,"text":["canzone"]}
+ ],
+
+"songwriter": [
+  {"id":13567,"text":["compositore"]}
+ ],
+
+"sonnet": [
+  {"id":13568,"text":["sonetto"]}
+ ],
+
+"soon": [
+  {"id":13569,"text":["presto"]}
+ ],
+
+"soot": [
+  {"id":13570,"text":["fuliggine"]}
+ ],
+
+"sophism": [
+  {"id":13571,"text":["sofisma"]}
+ ],
+
+"Sophocles": [
+  {"id":13572,"text":["Sofocle"]}
+ ],
+
+"sorcery": [
+  {"id":13573,"text":["stregoneria"]}
+ ],
+
+"sore": [
+  {"id":13574,"text":["dolente"]},
+  {"id":13575,"text":["dolorante"]},
+  {"id":13576,"text":["irritato"]}
+ ],
+
+"sorrel": [
+  {"id":13577,"text":["acetosa"]}
+ ],
+
+"sorry": [
+  {"id":13578,"text":["dispiaciuto"]},
+  {"id":13579,"text":["scusa"]}
+ ],
+
+"sort": [
+  {"id":13580,"text":["classe"]},
+  {"id":13581,"text":["ordinare"]}
+ ],
+
+"sought-after": [
+  {"id":13582,"text":["richiesto"]}
+ ],
+
+"soul": [
+  {"id":13583,"text":["anima"]}
+ ],
+
+"sound": [
+  {"id":13584,"text":["sano"]},
+  {"id":13585,"text":["suonare"]},
+  {"id":13586,"text":["suono"]}
+ ],
+
+"soundproofing": [
+  {"id":13587,"text":["insonorizzazione"]}
+ ],
+
+"soup": [
+  {"id":13588,"text":["minestra"]},
+  {"id":13589,"text":["zuppa"]}
+ ],
+
+"sour": [
+  {"id":13590,"text":["acido"]},
+  {"id":13591,"text":["aspro"]}
+ ],
+
+"source": [
+  {"id":13592,"text":["fonte"]}
+ ],
+
+"south": [
+  {"id":13593,"text":["meridionale"]},
+  {"id":13594,"text":["sud"]}
+ ],
+
+"Southafrica": [
+  {"id":13595,"text":["Sudafrica"]}
+ ],
+
+"sovereign": [
+  {"id":13596,"text":["sovrano"]}
+ ],
+
+"Soviet": [
+  {"id":13597,"text":["sovietico"]}
+ ],
+
+"sow": [
+  {"id":13598,"text":["scrofa"]},
+  {"id":13599,"text":["seminare"]}
+ ],
+
+"soy": [
+  {"id":13600,"text":["soia"]}
+ ],
+
+"space": [
+  {"id":13601,"text":["spaziare"]},
+  {"id":13602,"text":["spazio"]}
+ ],
+
+"spacecraft": [
+  {"id":13603,"text":["astronave"]}
+ ],
+
+"spacer": [
+  {"id":13604,"text":["spaziatore"]}
+ ],
+
+"spaceship": [
+  {"id":13605,"text":["astronave"]}
+ ],
+
+"spaghetti": [
+  {"id":13606,"text":["spaghetti"]}
+ ],
+
+"Spain": [
+  {"id":13607,"text":["Spagna"]}
+ ],
+
+"spangle": [
+  {"id":13608,"text":["lustrino"]}
+ ],
+
+"spaniard": [
+  {"id":13609,"text":["spagnolo"]}
+ ],
+
+"spanish": [
+  {"id":13610,"text":["spagnolo"]}
+ ],
+
+"spare": [
+  {"id":13611,"text":["risparmiare"]}
+ ],
+
+"spark": [
+  {"id":13612,"text":["scintilla"]}
+ ],
+
+"sparkle": [
+  {"id":13613,"text":["luccichio"]}
+ ],
+
+"sparrow": [
+  {"id":13614,"text":["passero"]}
+ ],
+
+"spatial": [
+  {"id":13615,"text":["spaziale"]}
+ ],
+
+"speak": [
+  {"id":13616,"text":["parlare"]}
+ ],
+
+"speaker": [
+  {"id":13617,"text":["altoparlante"]},
+  {"id":13618,"text":["interlocutore"]}
+ ],
+
+"special": [
+  {"id":13619,"text":["speciale"]}
+ ],
+
+"specialisation": [
+  {"id":13620,"text":["specializzazione"]}
+ ],
+
+"specialise": [
+  {"id":13621,"text":["specializzare"]}
+ ],
+
+"specialist": [
+  {"id":13622,"text":["specialista"]}
+ ],
+
+"specialization": [
+  {"id":13623,"text":["specializzazione"]}
+ ],
+
+"specialize": [
+  {"id":13624,"text":["specializzare"]}
+ ],
+
+"specially": [
+  {"id":13625,"text":["specialmente"]}
+ ],
+
+"speciation": [
+  {"id":13626,"text":["speciazione"]}
+ ],
+
+"species": [
+  {"id":13627,"text":["specie"]}
+ ],
+
+"specific": [
+  {"id":13628,"text":["specifico"]}
+ ],
+
+"specifically": [
+  {"id":13629,"text":["concretamente"]},
+  {"id":13630,"text":["specificamente"]},
+  {"id":13631,"text":["specificatamente"]}
+ ],
+
+"specification": [
+  {"id":13632,"text":["specificazione"]}
+ ],
+
+"specify": [
+  {"id":13633,"text":["specificare"]}
+ ],
+
+"specimen": [
+  {"id":13634,"text":["campione"]}
+ ],
+
+"spectacle": [
+  {"id":13635,"text":["spettacolo"]}
+ ],
+
+"spectacular": [
+  {"id":13636,"text":["spettacolare"]}
+ ],
+
+"spectacularly": [
+  {"id":13637,"text":["spettacolarmente"]}
+ ],
+
+"specter": [
+  {"id":13638,"text":["spettro"]}
+ ],
+
+"spectral": [
+  {"id":13639,"text":["spettrale"]}
+ ],
+
+"spectrogram": [
+  {"id":13640,"text":["spettrogramma"]}
+ ],
+
+"spectrograph": [
+  {"id":13641,"text":["spettrografo"]}
+ ],
+
+"spectrometer": [
+  {"id":13642,"text":["spettrometro"]}
+ ],
+
+"spectrometry": [
+  {"id":13643,"text":["spettrometria"]}
+ ],
+
+"spectrophotometer": [
+  {"id":13644,"text":["spettrofotometro"]}
+ ],
+
+"spectrophotometry": [
+  {"id":13645,"text":["spettrofotometria"]}
+ ],
+
+"spectroscope": [
+  {"id":13646,"text":["spettroscopio"]}
+ ],
+
+"spectroscopy": [
+  {"id":13647,"text":["spettroscopia"]}
+ ],
+
+"spectrum": [
+  {"id":13648,"text":["spettro"]}
+ ],
+
+"speculation": [
+  {"id":13649,"text":["speculazione"]}
+ ],
+
+"speculative": [
+  {"id":13650,"text":["speculativo"]}
+ ],
+
+"speech": [
+  {"id":13651,"text":["discorso"]}
+ ],
+
+"speechless": [
+  {"id":13652,"text":["muto"]},
+  {"id":13653,"text":["senza parole"]}
+ ],
+
+"speed": [
+  {"id":13654,"text":["accelerare"]},
+  {"id":13655,"text":["velocità"]}
+ ],
+
+"speed up": [
+  {"id":13656,"text":["velocizzare"]}
+ ],
+
+"spell": [
+  {"id":13657,"text":["incantesimo"]},
+  {"id":13658,"text":["sillabare"]}
+ ],
+
+"spelling": [
+  {"id":13659,"text":["ortografia"]}
+ ],
+
+"spend": [
+  {"id":13660,"text":["passare"]},
+  {"id":13661,"text":["spendere"]}
+ ],
+
+"sperm": [
+  {"id":13662,"text":["sperma"]}
+ ],
+
+"spermatozoid": [
+  {"id":13663,"text":["spermatozoo"]}
+ ],
+
+"sphere": [
+  {"id":13664,"text":["sfera"]}
+ ],
+
+"spherical": [
+  {"id":13665,"text":["sferico"]}
+ ],
+
+"spheroid": [
+  {"id":13666,"text":["sferoide"]}
+ ],
+
+"spheroidal": [
+  {"id":13667,"text":["sferoidale"]}
+ ],
+
+"sphincter": [
+  {"id":13668,"text":["sfintere"]}
+ ],
+
+"spice": [
+  {"id":13669,"text":["spezia"]}
+ ],
+
+"spider": [
+  {"id":13670,"text":["ragno"]}
+ ],
+
+"spiky": [
+  {"id":13671,"text":["appuntito"]},
+  {"id":13672,"text":["irto"]},
+  {"id":13673,"text":["pungente"]},
+  {"id":13674,"text":["spinoso"]}
+ ],
+
+"spill": [
+  {"id":13675,"text":["rovesciare"]},
+  {"id":13676,"text":["versare"]}
+ ],
+
+"spillage": [
+  {"id":13677,"text":["spargimento"]}
+ ],
+
+"spin": [
+  {"id":13678,"text":["girare"]},
+  {"id":13679,"text":["roteare"]},
+  {"id":13680,"text":["ruotare"]}
+ ],
+
+"spinach": [
+  {"id":13681,"text":["spinacio"]}
+ ],
+
+"spinal": [
+  {"id":13682,"text":["spinale"]}
+ ],
+
+"spine": [
+  {"id":13683,"text":["spina"]}
+ ],
+
+"spinet": [
+  {"id":13684,"text":["spinetta"]}
+ ],
+
+"spinning": [
+  {"id":13685,"text":["filatura"]},
+  {"id":13686,"text":["rotante"]}
+ ],
+
+"spiral": [
+  {"id":13687,"text":["spirale"]}
+ ],
+
+"spirit": [
+  {"id":13688,"text":["alcool"]},
+  {"id":13689,"text":["spirito"]}
+ ],
+
+"spiritism": [
+  {"id":13690,"text":["spiritismo"]}
+ ],
+
+"spiritlevel": [
+  {"id":13691,"text":["livellaabolla"]},
+  {"id":13692,"text":["livellaabollad'aria"]}
+ ],
+
+"spiritual": [
+  {"id":13693,"text":["spirituale"]}
+ ],
+
+"spiritualisation": [
+  {"id":13694,"text":["spiritualizzazione"]}
+ ],
+
+"spiritualism": [
+  {"id":13695,"text":["spiritualismo"]}
+ ],
+
+"spiritualistic": [
+  {"id":13696,"text":["spiritualista"]}
+ ],
+
+"spit": [
+  {"id":13697,"text":["sputare"]},
+  {"id":13698,"text":["sputo"]}
+ ],
+
+"spite": [
+  {"id":13699,"text":["dispetto"]}
+ ],
+
+"spleen": [
+  {"id":13700,"text":["milza"]}
+ ],
+
+"splendid": [
+  {"id":13701,"text":["magnifico"]},
+  {"id":13702,"text":["splendido"]}
+ ],
+
+"splenic": [
+  {"id":13703,"text":["splenico"]}
+ ],
+
+"splenomegaly": [
+  {"id":13704,"text":["splenomegalia"]}
+ ],
+
+"splint": [
+  {"id":13705,"text":["stecca"]}
+ ],
+
+"splinter": [
+  {"id":13706,"text":["scheggia"]}
+ ],
+
+"split": [
+  {"id":13707,"text":["biforcarsi"]},
+  {"id":13708,"text":["dividere"]},
+  {"id":13709,"text":["partire"]}
+ ],
+
+"spoil": [
+  {"id":13710,"text":["marcire"]},
+  {"id":13711,"text":["viziare"]}
+ ],
+
+"spokesman": [
+  {"id":13712,"text":["portavoce"]}
+ ],
+
+"spokesperson": [
+  {"id":13713,"text":["portavoce"]}
+ ],
+
+"sponge": [
+  {"id":13714,"text":["spugna"]}
+ ],
+
+"sponsor": [
+  {"id":13715,"text":["sponsor"]},
+  {"id":13716,"text":["sponsorizzare"]}
+ ],
+
+"sponsorship": [
+  {"id":13717,"text":["patrocinio"]}
+ ],
+
+"spontaneous": [
+  {"id":13718,"text":["spontaneo"]}
+ ],
+
+"spontaneously": [
+  {"id":13719,"text":["spontaneamente"]}
+ ],
+
+"spoon": [
+  {"id":13720,"text":["cucchiaio"]}
+ ],
+
+"sporadic": [
+  {"id":13721,"text":["sporadico"]}
+ ],
+
+"sporadically": [
+  {"id":13722,"text":["sporadicamente"]}
+ ],
+
+"sporangium": [
+  {"id":13723,"text":["sporangio"]}
+ ],
+
+"spore": [
+  {"id":13724,"text":["spora"]}
+ ],
+
+"sport": [
+  {"id":13725,"text":["sport"]}
+ ],
+
+"sporting": [
+  {"id":13726,"text":["sportivo"]}
+ ],
+
+"sportive": [
+  {"id":13727,"text":["sportivo"]}
+ ],
+
+"sportsman": [
+  {"id":13728,"text":["sportivo"]}
+ ],
+
+"sportswoman": [
+  {"id":13729,"text":["sportiva"]}
+ ],
+
+"spot": [
+  {"id":13730,"text":["posto"]},
+  {"id":13731,"text":["punto"]},
+  {"id":13732,"text":["trovare"]}
+ ],
+
+"spotted": [
+  {"id":13733,"text":["leopardato"]}
+ ],
+
+"spouse": [
+  {"id":13734,"text":["coniuge"]},
+  {"id":13735,"text":["sposo"]}
+ ],
+
+"sprain": [
+  {"id":13736,"text":["distorsione"]},
+  {"id":13737,"text":["storta"]}
+ ],
+
+"spread": [
+  {"id":13738,"text":["diffondere"]},
+  {"id":13739,"text":["divulgare"]},
+  {"id":13740,"text":["stendere"]}
+ ],
+
+"spread out": [
+  {"id":13741,"text":["stendere"]}
+ ],
+
+"spring": [
+  {"id":13742,"text":["fonte"]},
+  {"id":13743,"text":["primavera"]},
+  {"id":13744,"text":["saltare"]}
+ ],
+
+"spumante": [
+  {"id":13745,"text":["spumante"]}
+ ],
+
+"spur": [
+  {"id":13746,"text":["spronare"]}
+ ],
+
+"spurt": [
+  {"id":13747,"text":["getto"]},
+  {"id":13748,"text":["scatto"]},
+  {"id":13749,"text":["schizzo"]},
+  {"id":13750,"text":["zampillo"]}
+ ],
+
+"spy": [
+  {"id":13751,"text":["spia"]},
+  {"id":13752,"text":["spiare"]}
+ ],
+
+"squandering": [
+  {"id":13753,"text":["spreco"]}
+ ],
+
+"square": [
+  {"id":13754,"text":["piazza"]},
+  {"id":13755,"text":["quadrare"]},
+  {"id":13756,"text":["quadrato"]}
+ ],
+
+"squeeze": [
+  {"id":13757,"text":["comprimere"]},
+  {"id":13758,"text":["schiacciare"]},
+  {"id":13759,"text":["spremere"]},
+  {"id":13760,"text":["strizzare"]}
+ ],
+
+"squid": [
+  {"id":13761,"text":["calamaro"]}
+ ],
+
+"squirrel": [
+  {"id":13762,"text":["scoiattolo"]}
+ ],
+
+"stabilisation": [
+  {"id":13763,"text":["stabilizzazione"]}
+ ],
+
+"stabilise": [
+  {"id":13764,"text":["stabilizzare"]}
+ ],
+
+"stable": [
+  {"id":13765,"text":["stabile"]},
+  {"id":13766,"text":["stalla"]}
+ ],
+
+"stably": [
+  {"id":13767,"text":["stabilmente"]}
+ ],
+
+"stack": [
+  {"id":13768,"text":["accatastare"]},
+  {"id":13769,"text":["catasta"]},
+  {"id":13770,"text":["pila"]}
+ ],
+
+"stadium": [
+  {"id":13771,"text":["stadio"]}
+ ],
+
+"staff": [
+  {"id":13772,"text":["scettro"]},
+  {"id":13773,"text":["staffa"]},
+  {"id":13774,"text":["personale"]}
+ ],
+
+"stage": [
+  {"id":13775,"text":["inscenare"]},
+  {"id":13776,"text":["palco"]},
+  {"id":13777,"text":["palcoscenico"]},
+  {"id":13778,"text":["livello"]}
+ ],
+
+"stagnate": [
+  {"id":13779,"text":["ristagnare"]}
+ ],
+
+"stagnation": [
+  {"id":13780,"text":["lagunaggio"]},
+  {"id":13781,"text":["stagnazione"]}
+ ],
+
+"stain": [
+  {"id":13782,"text":["macchia"]}
+ ],
+
+"stainless": [
+  {"id":13783,"text":["inossidabile"]}
+ ],
+
+"stair": [
+  {"id":13784,"text":["scala"]}
+ ],
+
+"staircase": [
+  {"id":13785,"text":["scala"]}
+ ],
+
+"stake": [
+  {"id":13786,"text":["partecipazione"]}
+ ],
+
+"stalactite": [
+  {"id":13787,"text":["stalattite"]}
+ ],
+
+"stalemate": [
+  {"id":13788,"text":["stallo"]}
+ ],
+
+"stall": [
+  {"id":13789,"text":["fermare"]},
+  {"id":13790,"text":["fermata"]}
+ ],
+
+"stamen": [
+  {"id":13791,"text":["stame"]}
+ ],
+
+"stammer": [
+  {"id":13792,"text":["balbettare"]}
+ ],
+
+"stamp": [
+  {"id":13793,"text":["francobollo"]},
+  {"id":13794,"text":["imprimere"]}
+ ],
+
+"stamping": [
+  {"id":13795,"text":["timbratura"]}
+ ],
+
+"stand": [
+  {"id":13796,"text":["posizione"]},
+  {"id":13797,"text":["stare"]}
+ ],
+
+"standard": [
+  {"id":13798,"text":["standard"]}
+ ],
+
+"standardisation": [
+  {"id":13799,"text":["standardizzazione"]}
+ ],
+
+"standardise": [
+  {"id":13800,"text":["standardizzare"]}
+ ],
+
+"star": [
+  {"id":13801,"text":["astro"]},
+  {"id":13802,"text":["partecipare"]},
+  {"id":13803,"text":["stella"]}
+ ],
+
+"starch": [
+  {"id":13804,"text":["fecola"]}
+ ],
+
+"stark": [
+  {"id":13805,"text":["duro"]}
+ ],
+
+"starling": [
+  {"id":13806,"text":["storno"]}
+ ],
+
+"starry": [
+  {"id":13807,"text":["stellato"]}
+ ],
+
+"start": [
+  {"id":13808,"text":["avviare"]},
+  {"id":13809,"text":["avvio"]},
+  {"id":13810,"text":["iniziare"]}
+ ],
+
+"state": [
+  {"id":13811,"text":["affermare"]},
+  {"id":13812,"text":["dichiarare"]},
+  {"id":13813,"text":["stato"]}
+ ],
+
+"statement": [
+  {"id":13814,"text":["affermazione"]},
+  {"id":13815,"text":["dichiarazione"]},
+  {"id":13816,"text":["enunciazione"]}
+ ],
+
+"statesman": [
+  {"id":13817,"text":["statista"]}
+ ],
+
+"stateswoman": [
+  {"id":13818,"text":["statista"]}
+ ],
+
+"static": [
+  {"id":13819,"text":["statico"]}
+ ],
+
+"station": [
+  {"id":13820,"text":["stazione"]}
+ ],
+
+"statism": [
+  {"id":13821,"text":["statalismo"]}
+ ],
+
+"statistical": [
+  {"id":13822,"text":["statistico"]}
+ ],
+
+"statistically": [
+  {"id":13823,"text":["statisticamente"]}
+ ],
+
+"stator": [
+  {"id":13824,"text":["statore"]}
+ ],
+
+"statue": [
+  {"id":13825,"text":["statua"]}
+ ],
+
+"stature": [
+  {"id":13826,"text":["statura"]}
+ ],
+
+"status": [
+  {"id":13827,"text":["stato"]}
+ ],
+
+"statutory": [
+  {"id":13828,"text":["statutario"]}
+ ],
+
+"statvolt": [
+  {"id":13829,"text":["statvolt"]}
+ ],
+
+"stay": [
+  {"id":13830,"text":["restare"]},
+  {"id":13831,"text":["soggiorno"]},
+  {"id":13832,"text":["stare"]}
+ ],
+
+"steadily": [
+  {"id":13833,"text":["fermamente"]}
+ ],
+
+"steak": [
+  {"id":13834,"text":["bistecca"]}
+ ],
+
+"steal": [
+  {"id":13835,"text":["rubare"]}
+ ],
+
+"steam": [
+  {"id":13836,"text":["vapore"]}
+ ],
+
+"steel": [
+  {"id":13837,"text":["acciaio"]}
+ ],
+
+"steelworks": [
+  {"id":13838,"text":["acciaieria"]}
+ ],
+
+"steep": [
+  {"id":13839,"text":["ripido"]},
+  {"id":13840,"text":["scosceso"]}
+ ],
+
+"steering wheel": [
+  {"id":13841,"text":["volante"]}
+ ],
+
+"steganography": [
+  {"id":13842,"text":["steganografia"]}
+ ],
+
+"stellar": [
+  {"id":13843,"text":["stellare"]}
+ ],
+
+"stem": [
+  {"id":13844,"text":["gambo"]},
+  {"id":13845,"text":["stelo"]}
+ ],
+
+"stenography": [
+  {"id":13846,"text":["stenografia"]}
+ ],
+
+"step": [
+  {"id":13847,"text":["gradino"]},
+  {"id":13848,"text":["passo"]}
+ ],
+
+"stepbrother": [
+  {"id":13849,"text":["fratellastro"]}
+ ],
+
+"stepchild": [
+  {"id":13850,"text":["figliastro"]}
+ ],
+
+"stepdaughter": [
+  {"id":13851,"text":["figliastra"]}
+ ],
+
+"stepforward": [
+  {"id":13852,"text":["passoavanti"]}
+ ],
+
+"stepmother": [
+  {"id":13853,"text":["matrigna"]}
+ ],
+
+"steppe": [
+  {"id":13854,"text":["steppa"]}
+ ],
+
+"stepsister": [
+  {"id":13855,"text":["sorellastra"]}
+ ],
+
+"stepson": [
+  {"id":13856,"text":["figliastro"]}
+ ],
+
+"steradian": [
+  {"id":13857,"text":["steradiante"]}
+ ],
+
+"stereo": [
+  {"id":13858,"text":["stereo"]}
+ ],
+
+"stereophonic": [
+  {"id":13859,"text":["stereofonico"]}
+ ],
+
+"stereoscopy": [
+  {"id":13860,"text":["stereoscopia"]}
+ ],
+
+"stereotype": [
+  {"id":13861,"text":["stereotipo"]}
+ ],
+
+"sterilisation": [
+  {"id":13862,"text":["sterilizzazione"]}
+ ],
+
+"sterilise": [
+  {"id":13863,"text":["sterilizzare"]}
+ ],
+
+"sternum": [
+  {"id":13864,"text":["sterno"]}
+ ],
+
+"steroid": [
+  {"id":13865,"text":["steroide"]}
+ ],
+
+"stethoscope": [
+  {"id":13866,"text":["stetofonendoscopio"]}
+ ],
+
+"stew": [
+  {"id":13867,"text":["stufare"]},
+  {"id":13868,"text":["stufato"]},
+  {"id":13869,"text":["minestra"]}
+ ],
+
+"stick": [
+  {"id":13870,"text":["bastone"]},
+  {"id":13871,"text":["conficcare"]}
+ ],
+
+"sticker": [
+  {"id":13872,"text":["adesivo"]}
+ ],
+
+"stigma": [
+  {"id":13873,"text":["stigma"]}
+ ],
+
+"stigmatic": [
+  {"id":13874,"text":["stigmatico"]}
+ ],
+
+"stigmatisation": [
+  {"id":13875,"text":["stigmatizzazione"]}
+ ],
+
+"stigmatise": [
+  {"id":13876,"text":["stigmatizzare"]}
+ ],
+
+"stigmatization": [
+  {"id":13877,"text":["stigmatizzazione"]}
+ ],
+
+"stigmatize": [
+  {"id":13878,"text":["stigmatizzare"]}
+ ],
+
+"still": [
+  {"id":13879,"text":["ancora"]},
+  {"id":13880,"text":["calmo"]}
+ ],
+
+"stimulate": [
+  {"id":13881,"text":["incentivare"]}
+ ],
+
+"stimulating": [
+  {"id":13882,"text":["stimolante"]}
+ ],
+
+"stimulation": [
+  {"id":13883,"text":["stimolazione"]}
+ ],
+
+"stimulus": [
+  {"id":13884,"text":["stimolo"]}
+ ],
+
+"sting": [
+  {"id":13885,"text":["pungere"]},
+  {"id":13886,"text":["pungiglione"]}
+ ],
+
+"stingy": [
+  {"id":13887,"text":["avaro"]},
+  {"id":13888,"text":["tirchio"]}
+ ],
+
+"stink": [
+  {"id":13889,"text":["puzzare"]}
+ ],
+
+"stipulate": [
+  {"id":13890,"text":["stipulare"]}
+ ],
+
+"stipulation": [
+  {"id":13891,"text":["stipulazione"]}
+ ],
+
+"stir": [
+  {"id":13892,"text":["agitamento"]},
+  {"id":13893,"text":["mescolare"]}
+ ],
+
+"stochastic": [
+  {"id":13894,"text":["stocastico"]}
+ ],
+
+"stock": [
+  {"id":13895,"text":["azione"]},
+  {"id":13896,"text":["bestiame"]},
+  {"id":13897,"text":["provvista"]},
+  {"id":13898,"text":["riserva"]},
+  {"id":13899,"text":["scorta"]}
+ ],
+
+"stock market": [
+  {"id":13900,"text":["borsa"]},
+  {"id":13901,"text":["mercato azionario"]}
+ ],
+
+"stockholder": [
+  {"id":13902,"text":["azionista"]}
+ ],
+
+"Stockholm": [
+  {"id":13903,"text":["Stoccolma"]}
+ ],
+
+"stoically": [
+  {"id":13904,"text":["stoicamente"]}
+ ],
+
+"stoichiometric": [
+  {"id":13905,"text":["stechiometrico"]}
+ ],
+
+"stoichiometry": [
+  {"id":13906,"text":["stechiometria"]}
+ ],
+
+"stoicism": [
+  {"id":13907,"text":["stoicismo"]}
+ ],
+
+"stole": [
+  {"id":13908,"text":["stola"]}
+ ],
+
+"stomach": [
+  {"id":13909,"text":["stomaco"]},
+  {"id":13910,"text":["pancia"]}
+ ],
+
+"stone": [
+  {"id":13911,"text":["pietra"]}
+ ],
+
+"stop": [
+  {"id":13912,"text":["fermarsi"]},
+  {"id":13913,"text":["fermata"]},
+  {"id":13914,"text":["smettere"]}
+ ],
+
+"storage": [
+  {"id":13915,"text":["archiviazione"]},
+  {"id":13916,"text":["magazzino"]}
+ ],
+
+"store": [
+  {"id":13917,"text":["negozio"]}
+ ],
+
+"stork": [
+  {"id":13918,"text":["cicogna"]}
+ ],
+
+"storm": [
+  {"id":13919,"text":["bufera"]},
+  {"id":13920,"text":["tempesta"]},
+  {"id":13921,"text":["assalto"]},
+  {"id":13922,"text":["assalire"]},
+  {"id":13923,"text":["tormenta"]}
+ ],
+
+"story": [
+  {"id":13924,"text":["storia"]}
+ ],
+
+"stove": [
+  {"id":13925,"text":["stufa"]}
+ ],
+
+"stowaway": [
+  {"id":13926,"text":["passeggeroclandestino"]}
+ ],
+
+"strabismus": [
+  {"id":13927,"text":["strabismo"]}
+ ],
+
+"straight": [
+  {"id":13928,"text":["diretto"]},
+  {"id":13929,"text":["diritto"]},
+  {"id":13930,"text":["dritto"]}
+ ],
+
+"straightforward": [
+  {"id":13931,"text":["diretto"]},
+  {"id":13932,"text":["sincero"]}
+ ],
+
+"strain": [
+  {"id":13933,"text":["tensione"]}
+ ],
+
+"strand": [
+  {"id":13934,"text":["filo"]}
+ ],
+
+"strange": [
+  {"id":13935,"text":["strano"]}
+ ],
+
+"strangely": [
+  {"id":13936,"text":["stranamente"]}
+ ],
+
+"strangeness": [
+  {"id":13937,"text":["stranezza"]}
+ ],
+
+"stranger": [
+  {"id":13938,"text":["sconosciuto"]}
+ ],
+
+"Strasbourg": [
+  {"id":13939,"text":["Strasburgo"]}
+ ],
+
+"strategic": [
+  {"id":13940,"text":["strategico"]}
+ ],
+
+"strategical": [
+  {"id":13941,"text":["strategico"]}
+ ],
+
+"strategically": [
+  {"id":13942,"text":["strategicamente"]}
+ ],
+
+"strategist": [
+  {"id":13943,"text":["stratega"]}
+ ],
+
+"strategy": [
+  {"id":13944,"text":["strategia"]}
+ ],
+
+"stratification": [
+  {"id":13945,"text":["stratificazione"]}
+ ],
+
+"stratigraphy": [
+  {"id":13946,"text":["stratigrafia"]}
+ ],
+
+"stratopause": [
+  {"id":13947,"text":["stratopausa"]}
+ ],
+
+"stratosphere": [
+  {"id":13948,"text":["stratosfera"]}
+ ],
+
+"straw": [
+  {"id":13949,"text":["paglia"]}
+ ],
+
+"strawberry": [
+  {"id":13950,"text":["fragola"]}
+ ],
+
+"stream": [
+  {"id":13951,"text":["corrente"]},
+  {"id":13952,"text":["flusso"]}
+ ],
+
+"street": [
+  {"id":13953,"text":["strada"]}
+ ],
+
+"streetcar": [
+  {"id":13954,"text":["tram"]}
+ ],
+
+"strength": [
+  {"id":13955,"text":["forza"]}
+ ],
+
+"strengthen": [
+  {"id":13956,"text":["fortificare"]},
+  {"id":13957,"text":["rafforzare"]}
+ ],
+
+"strengthening": [
+  {"id":13958,"text":["fortificazione"]}
+ ],
+
+"strenuous": [
+  {"id":13959,"text":["faticoso"]}
+ ],
+
+"strenuously": [
+  {"id":13960,"text":["strenuamente"]}
+ ],
+
+"streptococcus": [
+  {"id":13961,"text":["streptococco"]}
+ ],
+
+"stress": [
+  {"id":13962,"text":["stress"]},
+  {"id":13963,"text":["tensione"]}
+ ],
+
+"stretch": [
+  {"id":13964,"text":["estendere"]},
+  {"id":13965,"text":["stendere"]},
+  {"id":13966,"text":["tratto"]}
+ ],
+
+"stretcher": [
+  {"id":13967,"text":["barella"]}
+ ],
+
+"strict": [
+  {"id":13968,"text":["severo"]}
+ ],
+
+"strictly": [
+  {"id":13969,"text":["rigorosamente"]},
+  {"id":13970,"text":["severamente"]},
+  {"id":13971,"text":["strettamente"]}
+ ],
+
+"strident": [
+  {"id":13972,"text":["stridente"]}
+ ],
+
+"strike": [
+  {"id":13973,"text":["colpire"]},
+  {"id":13974,"text":["colpo"]},
+  {"id":13975,"text":["sciopero"]}
+ ],
+
+"strikeout": [
+  {"id":13976,"text":["sbarrare"]}
+ ],
+
+"striker": [
+  {"id":13977,"text":["attaccante"]},
+  {"id":13978,"text":["battitore"]}
+ ],
+
+"string": [
+  {"id":13979,"text":["corda"]},
+  {"id":13980,"text":["stringa"]}
+ ],
+
+"strip": [
+  {"id":13981,"text":["nastro"]},
+  {"id":13982,"text":["striscia"]},
+  {"id":13983,"text":["spogliare"]},
+  {"id":13984,"text":["spogliarsi"]}
+ ],
+
+"stripe": [
+  {"id":13985,"text":["banda"]},
+  {"id":13986,"text":["sbarrare"]},
+  {"id":13987,"text":["striscia"]}
+ ],
+
+"striped": [
+  {"id":13988,"text":["a strisce"]},
+  {"id":13989,"text":["zebrato"]}
+ ],
+
+"stroke": [
+  {"id":13990,"text":["attacco"]},
+  {"id":13991,"text":["colpo"]},
+  {"id":13992,"text":["ictus"]},
+  {"id":13993,"text":["traccia"]},
+  {"id":13994,"text":["tratto"]}
+ ],
+
+"stroll": [
+  {"id":13995,"text":["passeggiare"]}
+ ],
+
+"stroller": [
+  {"id":13996,"text":["passeggino"]}
+ ],
+
+"strong": [
+  {"id":13997,"text":["forte"]}
+ ],
+
+"strongly": [
+  {"id":13998,"text":["fortemente"]},
+  {"id":13999,"text":["spiccatamente"]}
+ ],
+
+"strontium": [
+  {"id":14000,"text":["stronzio"]}
+ ],
+
+"struck": [
+  {"id":14001,"text":["colpito"]}
+ ],
+
+"structural": [
+  {"id":14002,"text":["strutturale"]}
+ ],
+
+"structuralism": [
+  {"id":14003,"text":["strutturalismo"]}
+ ],
+
+"structuralist": [
+  {"id":14004,"text":["strutturalista"]}
+ ],
+
+"structurally": [
+  {"id":14005,"text":["strutturalmente"]}
+ ],
+
+"structure": [
+  {"id":14006,"text":["struttura"]},
+  {"id":14007,"text":["strutturare"]}
+ ],
+
+"structuring": [
+  {"id":14008,"text":["strutturazione"]}
+ ],
+
+"struggle": [
+  {"id":14009,"text":["combattere"]},
+  {"id":14010,"text":["lotta"]},
+  {"id":14011,"text":["sforzarsi"]},
+  {"id":14012,"text":["sforzo"]}
+ ],
+
+"stubborn": [
+  {"id":14013,"text":["ostinato"]}
+ ],
+
+"stubbornly": [
+  {"id":14014,"text":["ostinatamente"]}
+ ],
+
+"student": [
+  {"id":14015,"text":["allievo"]},
+  {"id":14016,"text":["alunno"]},
+  {"id":14017,"text":["studente"]}
+ ],
+
+"studious": [
+  {"id":14018,"text":["studioso"]}
+ ],
+
+"study": [
+  {"id":14019,"text":["studiare"]},
+  {"id":14020,"text":["studio"]}
+ ],
+
+"stuff": [
+  {"id":14021,"text":["imbottire"]},
+  {"id":14022,"text":["materia"]},
+  {"id":14023,"text":["roba"]}
+ ],
+
+"stump": [
+  {"id":14024,"text":["ceppo"]},
+  {"id":14025,"text":["moncherino"]},
+  {"id":14026,"text":["moncone"]}
+ ],
+
+"stupendous": [
+  {"id":14027,"text":["stupendo"]}
+ ],
+
+"stupid": [
+  {"id":14028,"text":["stupido"]}
+ ],
+
+"stupidly": [
+  {"id":14029,"text":["stupidamente"]}
+ ],
+
+"stutter": [
+  {"id":14030,"text":["balbettare"]},
+  {"id":14031,"text":["balbuzie"]}
+ ],
+
+"stuttering": [
+  {"id":14032,"text":["balbuzie"]}
+ ],
+
+"Stuttgart": [
+  {"id":14033,"text":["stoccarda"]}
+ ],
+
+"sty": [
+  {"id":14034,"text":["gufo"]},
+  {"id":14035,"text":["porcile"]}
+ ],
+
+"style": [
+  {"id":14036,"text":["stile"]}
+ ],
+
+"stylist": [
+  {"id":14037,"text":["stilista"]}
+ ],
+
+"stylistic": [
+  {"id":14038,"text":["stilistico"]}
+ ],
+
+"stylistically": [
+  {"id":14039,"text":["stilisticamente"]}
+ ],
+
+"subatomic": [
+  {"id":14040,"text":["subatomico"]}
+ ],
+
+"subauction": [
+  {"id":14041,"text":["subasta"]}
+ ],
+
+"subclass": [
+  {"id":14042,"text":["sottoclasse"]}
+ ],
+
+"subculture": [
+  {"id":14043,"text":["sottocultura"]}
+ ],
+
+"subcutaneous": [
+  {"id":14044,"text":["sottocutaneo"]}
+ ],
+
+"subdivision": [
+  {"id":14045,"text":["suddivisione"]}
+ ],
+
+"subdomain": [
+  {"id":14046,"text":["sottodominio"]}
+ ],
+
+"subduction": [
+  {"id":14047,"text":["subduzione"]}
+ ],
+
+"subfamily": [
+  {"id":14048,"text":["sottofamiglia"]}
+ ],
+
+"subgroup": [
+  {"id":14049,"text":["sottogruppo"]}
+ ],
+
+"subhead": [
+  {"id":14050,"text":["sottotitolo"]}
+ ],
+
+"subject": [
+  {"id":14051,"text":["argomento"]},
+  {"id":14052,"text":["soggetto"]}
+ ],
+
+"subjective": [
+  {"id":14053,"text":["soggettivo"]}
+ ],
+
+"subjectivism": [
+  {"id":14054,"text":["soggettivismo"]}
+ ],
+
+"subjugation": [
+  {"id":14055,"text":["soggiogamento"]}
+ ],
+
+"subjunctive": [
+  {"id":14056,"text":["congiuntivo"]}
+ ],
+
+"sublimate": [
+  {"id":14057,"text":["sublimare"]}
+ ],
+
+"sublimation": [
+  {"id":14058,"text":["sublimazione"]}
+ ],
+
+"sublime": [
+  {"id":14059,"text":["sublime"]}
+ ],
+
+"subliminal": [
+  {"id":14060,"text":["subliminale"]}
+ ],
+
+"submarine": [
+  {"id":14061,"text":["sottomarino"]}
+ ],
+
+"submission": [
+  {"id":14062,"text":["sottomissione"]}
+ ],
+
+"submit": [
+  {"id":14063,"text":["consegnare"]},
+  {"id":14064,"text":["inviare"]},
+  {"id":14065,"text":["sottomettere"]},
+  {"id":14066,"text":["sottomettersi"]},
+  {"id":14067,"text":["sottoporre"]}
+ ],
+
+"submodule": [
+  {"id":14068,"text":["sottomodulo"]}
+ ],
+
+"subnormal": [
+  {"id":14069,"text":["subnormale"]}
+ ],
+
+"suborbital": [
+  {"id":14070,"text":["suborbitale"]}
+ ],
+
+"suborder": [
+  {"id":14071,"text":["sottordine"]}
+ ],
+
+"subordination": [
+  {"id":14072,"text":["subordinazione"]}
+ ],
+
+"subproject": [
+  {"id":14073,"text":["sottoprogetto"]}
+ ],
+
+"subrogation": [
+  {"id":14074,"text":["surrogazione"]}
+ ],
+
+"subscribe": [
+  {"id":14075,"text":["iscriversi"]}
+ ],
+
+"subscriber": [
+  {"id":14076,"text":["abbonato"]}
+ ],
+
+"subscription": [
+  {"id":14077,"text":["abbonamento"]},
+  {"id":14078,"text":["sottoscrizione"]}
+ ],
+
+"subsection": [
+  {"id":14079,"text":["sottosezione"]}
+ ],
+
+"subsequently": [
+  {"id":14080,"text":["successivamente"]}
+ ],
+
+"subset": [
+  {"id":14081,"text":["sottoinsieme"]}
+ ],
+
+"subsidiary": [
+  {"id":14082,"text":["sussidiaria"]},
+  {"id":14083,"text":["sussidiario"]}
+ ],
+
+"subsidise": [
+  {"id":14084,"text":["sovvenzionare"]}
+ ],
+
+"subsidy": [
+  {"id":14085,"text":["sussidio"]}
+ ],
+
+"subsistence": [
+  {"id":14086,"text":["sussistenza"]}
+ ],
+
+"subsoil": [
+  {"id":14087,"text":["sottosuolo"]}
+ ],
+
+"substance": [
+  {"id":14088,"text":["sostanza"]}
+ ],
+
+"substantial": [
+  {"id":14089,"text":["sostanziale"]}
+ ],
+
+"substantially": [
+  {"id":14090,"text":["sostanzialmente"]}
+ ],
+
+"substantive": [
+  {"id":14091,"text":["sostantivo"]}
+ ],
+
+"substitute": [
+  {"id":14092,"text":["sostituire"]},
+  {"id":14093,"text":["sostituto"]}
+ ],
+
+"substitute teacher": [
+  {"id":14094,"text":["supplente"]}
+ ],
+
+"substitution": [
+  {"id":14095,"text":["sostituzione"]}
+ ],
+
+"substring": [
+  {"id":14096,"text":["sottostringa"]}
+ ],
+
+"substructure": [
+  {"id":14097,"text":["sottostruttura"]}
+ ],
+
+"subsystem": [
+  {"id":14098,"text":["sottosistema"]}
+ ],
+
+"subterfuge": [
+  {"id":14099,"text":["sotterfugio"]}
+ ],
+
+"subterranean": [
+  {"id":14100,"text":["sotterraneo"]}
+ ],
+
+"subtle": [
+  {"id":14101,"text":["sottile"]}
+ ],
+
+"subtly": [
+  {"id":14102,"text":["sottilmente"]}
+ ],
+
+"subtract": [
+  {"id":14103,"text":["sottrarre"]}
+ ],
+
+"subtraction": [
+  {"id":14104,"text":["sottrazione"]}
+ ],
+
+"subtrahend": [
+  {"id":14105,"text":["sottraendo"]}
+ ],
+
+"suburban": [
+  {"id":14106,"text":["suburbano"]}
+ ],
+
+"subway": [
+  {"id":14107,"text":["metro"]},
+  {"id":14108,"text":["metropolitana"]}
+ ],
+
+"succeed": [
+  {"id":14109,"text":["succedere"]}
+ ],
+
+"success": [
+  {"id":14110,"text":["esito"]},
+  {"id":14111,"text":["successo"]}
+ ],
+
+"successful": [
+  {"id":14112,"text":["di successo"]}
+ ],
+
+"successfully": [
+  {"id":14113,"text":["con successo"]}
+ ],
+
+"successive": [
+  {"id":14114,"text":["successivo"]}
+ ],
+
+"successively": [
+  {"id":14115,"text":["successivamente"]}
+ ],
+
+"successor": [
+  {"id":14116,"text":["successore"]}
+ ],
+
+"succinct": [
+  {"id":14117,"text":["succinto"]}
+ ],
+
+"succulent": [
+  {"id":14118,"text":["succulento"]}
+ ],
+
+"such": [
+  {"id":14119,"text":["così"]},
+  {"id":14120,"text":["tale"]}
+ ],
+
+"suchas": [
+  {"id":14121,"text":["come"]}
+ ],
+
+"suck": [
+  {"id":14122,"text":["succhiare"]}
+ ],
+
+"sucker": [
+  {"id":14123,"text":["ventosa"]}
+ ],
+
+"sudden": [
+  {"id":14124,"text":["improvviso"]}
+ ],
+
+"suddenly": [
+  {"id":14125,"text":["improvvisamente"]}
+ ],
+
+"sue": [
+  {"id":14126,"text":["denunciare"]},
+  {"id":14127,"text":["querelare"]}
+ ],
+
+"suffer": [
+  {"id":14128,"text":["soffrire"]}
+ ],
+
+"suffering": [
+  {"id":14129,"text":["sofferente"]},
+  {"id":14130,"text":["sofferenza"]}
+ ],
+
+"suffice": [
+  {"id":14131,"text":["bastare"]}
+ ],
+
+"sufficiency": [
+  {"id":14132,"text":["sufficienza"]}
+ ],
+
+"sufficient": [
+  {"id":14133,"text":["sufficiente"]}
+ ],
+
+"sufficiently": [
+  {"id":14134,"text":["sufficientemente"]}
+ ],
+
+"suffix": [
+  {"id":14135,"text":["suffisso"]}
+ ],
+
+"suffixation": [
+  {"id":14136,"text":["suffissazione"]}
+ ],
+
+"suffocate": [
+  {"id":14137,"text":["asfissiare"]}
+ ],
+
+"suffrage": [
+  {"id":14138,"text":["suffragio"]}
+ ],
+
+"sugar": [
+  {"id":14139,"text":["zucchero"]}
+ ],
+
+"suggest": [
+  {"id":14140,"text":["suggerire"]}
+ ],
+
+"suggestion": [
+  {"id":14141,"text":["suggerimento"]}
+ ],
+
+"suicide": [
+  {"id":14142,"text":["suicidio"]}
+ ],
+
+"suit": [
+  {"id":14143,"text":["adattare"]},
+  {"id":14144,"text":["contenzioso"]},
+  {"id":14145,"text":["tuta"]},
+  {"id":14146,"text":["vestito"]}
+ ],
+
+"suitability": [
+  {"id":14147,"text":["convenienza"]}
+ ],
+
+"suitable": [
+  {"id":14148,"text":["adatto"]},
+  {"id":14149,"text":["adeguato"]}
+ ],
+
+"suitcase": [
+  {"id":14150,"text":["valigia"]}
+ ],
+
+"sulphate": [
+  {"id":14151,"text":["solfato"]}
+ ],
+
+"sulphide": [
+  {"id":14152,"text":["solfuro"]}
+ ],
+
+"sulphur": [
+  {"id":14153,"text":["zolfo"]}
+ ],
+
+"sum": [
+  {"id":14154,"text":["somma"]}
+ ],
+
+"Sumerian": [
+  {"id":14155,"text":["sumero"]}
+ ],
+
+"summarise": [
+  {"id":14156,"text":["riassumere"]}
+ ],
+
+"summary": [
+  {"id":14157,"text":["riassunto"]},
+  {"id":14158,"text":["sommario"]}
+ ],
+
+"summation": [
+  {"id":14159,"text":["sommatoria"]},
+  {"id":14160,"text":["sommazione"]}
+ ],
+
+"summer": [
+  {"id":14161,"text":["estate"]}
+ ],
+
+"summer camp": [
+  {"id":14162,"text":["campo estivo"]}
+ ],
+
+"summit": [
+  {"id":14163,"text":["sommità"]},
+  {"id":14164,"text":["vertice"]}
+ ],
+
+"summon": [
+  {"id":14165,"text":["convocare"]},
+  {"id":14166,"text":["evocare"]}
+ ],
+
+"Sun": [
+  {"id":14167,"text":["Sole"]}
+ ],
+
+"sunday": [
+  {"id":14168,"text":["domenica"]}
+ ],
+
+"sunflower": [
+  {"id":14169,"text":["girasole"]}
+ ],
+
+"sunny": [
+  {"id":14170,"text":["soleggiato"]}
+ ],
+
+"sunstroke": [
+  {"id":14171,"text":["insolazione"]}
+ ],
+
+"superb": [
+  {"id":14172,"text":["magnifico"]}
+ ],
+
+"superbly": [
+  {"id":14173,"text":["magnificamente"]}
+ ],
+
+"supercharging": [
+  {"id":14174,"text":["sovralimentazione"]}
+ ],
+
+"superelevation": [
+  {"id":14175,"text":["sopraelevazione"]}
+ ],
+
+"superficial": [
+  {"id":14176,"text":["superficiale"]}
+ ],
+
+"superfluid": [
+  {"id":14177,"text":["superfluido"]}
+ ],
+
+"superhuman": [
+  {"id":14178,"text":["superuomo"]}
+ ],
+
+"superimpose": [
+  {"id":14179,"text":["sovrapporre"]}
+ ],
+
+"superimposition": [
+  {"id":14180,"text":["sovrapposizione"]}
+ ],
+
+"superior": [
+  {"id":14181,"text":["superiore"]}
+ ],
+
+"superlative": [
+  {"id":14182,"text":["superlativo"]}
+ ],
+
+"supermarket": [
+  {"id":14183,"text":["supermercato"]}
+ ],
+
+"supernatural": [
+  {"id":14184,"text":["soprannaturale"]},
+  {"id":14185,"text":["sovrannaturale"]}
+ ],
+
+"supersaturation": [
+  {"id":14186,"text":["sovrasaturazione"]}
+ ],
+
+"supersonic": [
+  {"id":14187,"text":["supersonico"]}
+ ],
+
+"superstition": [
+  {"id":14188,"text":["superstizione"]}
+ ],
+
+"superstructure": [
+  {"id":14189,"text":["sovrastruttura"]}
+ ],
+
+"supervise": [
+  {"id":14190,"text":["supervisionare"]}
+ ],
+
+"supervision": [
+  {"id":14191,"text":["supervisione"]}
+ ],
+
+"supervisor": [
+  {"id":14192,"text":["sorvegliante"]}
+ ],
+
+"supplement": [
+  {"id":14193,"text":["supplemento"]}
+ ],
+
+"supplementary": [
+  {"id":14194,"text":["supplementare"]}
+ ],
+
+"supplier": [
+  {"id":14195,"text":["fornitore"]}
+ ],
+
+"supply": [
+  {"id":14196,"text":["fornire"]},
+  {"id":14197,"text":["provvista"]},
+  {"id":14198,"text":["rifornimento"]}
+ ],
+
+"supplying": [
+  {"id":14199,"text":["somministratore"]}
+ ],
+
+"support": [
+  {"id":14200,"text":["appoggiare"]},
+  {"id":14201,"text":["appoggio"]},
+  {"id":14202,"text":["supportare"]},
+  {"id":14203,"text":["supporto"]}
+ ],
+
+"suppose": [
+  {"id":14204,"text":["supporre"]}
+ ],
+
+"supposedly": [
+  {"id":14205,"text":["apparentemente"]},
+  {"id":14206,"text":["presuntamente"]}
+ ],
+
+"supposition": [
+  {"id":14207,"text":["supposizione"]}
+ ],
+
+"suppository": [
+  {"id":14208,"text":["supposta"]}
+ ],
+
+"suppress": [
+  {"id":14209,"text":["sopprimere"]}
+ ],
+
+"supranational": [
+  {"id":14210,"text":["sovranazionale"]}
+ ],
+
+"suprarenal": [
+  {"id":14211,"text":["suprarrenale"]}
+ ],
+
+"supremacy": [
+  {"id":14212,"text":["supremazia"]}
+ ],
+
+"supreme": [
+  {"id":14213,"text":["supremo"]}
+ ],
+
+"sure": [
+  {"id":14214,"text":["certo"]},
+  {"id":14215,"text":["sicuro"]}
+ ],
+
+"surely": [
+  {"id":14216,"text":["sicuramente"]}
+ ],
+
+"surface": [
+  {"id":14217,"text":["emergere"]},
+  {"id":14218,"text":["superficie"]}
+ ],
+
+"surfer": [
+  {"id":14219,"text":["surfista"]}
+ ],
+
+"surgeon": [
+  {"id":14220,"text":["chirurgo"]}
+ ],
+
+"surgery": [
+  {"id":14221,"text":["chirurgia"]}
+ ],
+
+"surgical": [
+  {"id":14222,"text":["chirurgico"]}
+ ],
+
+"surname": [
+  {"id":14223,"text":["cognome"]}
+ ],
+
+"surpass": [
+  {"id":14224,"text":["superare"]}
+ ],
+
+"surprise": [
+  {"id":14225,"text":["sorprendere"]},
+  {"id":14226,"text":["sorpresa"]}
+ ],
+
+"surprising": [
+  {"id":14227,"text":["sorprendente"]}
+ ],
+
+"surprisingly": [
+  {"id":14228,"text":["sorprendentemente"]},
+  {"id":14229,"text":["stupefacentemente"]}
+ ],
+
+"surrealism": [
+  {"id":14230,"text":["surrealismo"]}
+ ],
+
+"surrender": [
+  {"id":14231,"text":["arrendere"]}
+ ],
+
+"surround": [
+  {"id":14232,"text":["circondare"]}
+ ],
+
+"surrounding": [
+  {"id":14233,"text":["circostante"]}
+ ],
+
+"surtax": [
+  {"id":14234,"text":["soprattassa"]}
+ ],
+
+"surveillance": [
+  {"id":14235,"text":["sorveglianza"]}
+ ],
+
+"survey": [
+  {"id":14236,"text":["sondaggio"]}
+ ],
+
+"survival": [
+  {"id":14237,"text":["sopravvivenza"]}
+ ],
+
+"survive": [
+  {"id":14238,"text":["sopravvivere"]}
+ ],
+
+"survivor": [
+  {"id":14239,"text":["sopravvissuto"]}
+ ],
+
+"susceptance": [
+  {"id":14240,"text":["suscettanza"]}
+ ],
+
+"susceptible": [
+  {"id":14241,"text":["suscettibile"]}
+ ],
+
+"suspect": [
+  {"id":14242,"text":["sospettare"]}
+ ],
+
+"suspend": [
+  {"id":14243,"text":["sospendere"]}
+ ],
+
+"suspension": [
+  {"id":14244,"text":["sospensione"]}
+ ],
+
+"suspicion": [
+  {"id":14245,"text":["sospetto"]}
+ ],
+
+"suspicious": [
+  {"id":14246,"text":["sospetto"]},
+  {"id":14247,"text":["sospettoso"]}
+ ],
+
+"suspiciously": [
+  {"id":14248,"text":["sospettosamente"]}
+ ],
+
+"sustain": [
+  {"id":14249,"text":["sostenere"]}
+ ],
+
+"sustainable": [
+  {"id":14250,"text":["sostenibile"]}
+ ],
+
+"suture": [
+  {"id":14251,"text":["sutura"]}
+ ],
+
+"swallow": [
+  {"id":14252,"text":["inghiottire"]},
+  {"id":14253,"text":["rondine"]},
+  {"id":14254,"text":["sorso"]}
+ ],
+
+"swamp": [
+  {"id":14255,"text":["palude"]}
+ ],
+
+"swan": [
+  {"id":14256,"text":["cigno"]}
+ ],
+
+"swear": [
+  {"id":14257,"text":["giurare"]}
+ ],
+
+"swearing": [
+  {"id":14258,"text":["giuramento"]}
+ ],
+
+"swearword": [
+  {"id":14259,"text":["parolaccia"]}
+ ],
+
+"sweat": [
+  {"id":14260,"text":["sudare"]},
+  {"id":14261,"text":["sudore"]}
+ ],
+
+"sweater": [
+  {"id":14262,"text":["maglione"]}
+ ],
+
+"sweatshirt": [
+  {"id":14263,"text":["felpa"]}
+ ],
+
+"Sweden": [
+  {"id":14264,"text":["Svezia"]}
+ ],
+
+"Swedish": [
+  {"id":14265,"text":["svedese"]}
+ ],
+
+"sweeper": [
+  {"id":14266,"text":["spazzino"]}
+ ],
+
+"sweet": [
+  {"id":14267,"text":["dolce"]}
+ ],
+
+"sweetheart": [
+  {"id":14268,"text":["dolce"]}
+ ],
+
+"sweetly": [
+  {"id":14269,"text":["dolcemente"]}
+ ],
+
+"swelling": [
+  {"id":14270,"text":["gonfiore"]}
+ ],
+
+"swift": [
+  {"id":14271,"text":["rapido"]},
+  {"id":14272,"text":["svelto"]},
+  {"id":14273,"text":["veloce"]}
+ ],
+
+"swiftly": [
+  {"id":14274,"text":["rapidamente"]}
+ ],
+
+"swim": [
+  {"id":14275,"text":["nuotare"]}
+ ],
+
+"swimming": [
+  {"id":14276,"text":["nuoto"]}
+ ],
+
+"swimming pool": [
+  {"id":14277,"text":["piscina"]}
+ ],
+
+"swindle": [
+  {"id":14278,"text":["truffa"]}
+ ],
+
+"swine": [
+  {"id":14279,"text":["porco"]},
+  {"id":14280,"text":["suino"]}
+ ],
+
+"swing": [
+  {"id":14281,"text":["altalena"]},
+  {"id":14282,"text":["cambio"]},
+  {"id":14283,"text":["dondolare"]},
+  {"id":14284,"text":["oscillare"]},
+  {"id":14285,"text":["oscillazione"]}
+ ],
+
+"swiss": [
+  {"id":14286,"text":["svizzero"]}
+ ],
+
+"switch": [
+  {"id":14287,"text":["cambiare"]},
+  {"id":14288,"text":["cambio"]},
+  {"id":14289,"text":["interruttore"]}
+ ],
+
+"switching": [
+  {"id":14290,"text":["commutazione"]}
+ ],
+
+"Switzerland": [
+  {"id":14291,"text":["Svizzera"]}
+ ],
+
+"sword": [
+  {"id":14292,"text":["spada"]}
+ ],
+
+"sycamore": [
+  {"id":14293,"text":["sicomoro"]}
+ ],
+
+"syllabic": [
+  {"id":14294,"text":["sillabico"]}
+ ],
+
+"syllable": [
+  {"id":14295,"text":["sillaba"]}
+ ],
+
+"syllogism": [
+  {"id":14296,"text":["sillogismo"]}
+ ],
+
+"sylviculture": [
+  {"id":14297,"text":["silvicoltura"]}
+ ],
+
+"symbiosis": [
+  {"id":14298,"text":["simbiosi"]}
+ ],
+
+"symbiotic": [
+  {"id":14299,"text":["simbiotico"]}
+ ],
+
+"symbol": [
+  {"id":14300,"text":["simbolo"]}
+ ],
+
+"symbolic": [
+  {"id":14301,"text":["simbolico"]}
+ ],
+
+"symbolically": [
+  {"id":14302,"text":["simbolicamente"]}
+ ],
+
+"symbolisation": [
+  {"id":14303,"text":["simbolizzazione"]}
+ ],
+
+"symbolise": [
+  {"id":14304,"text":["simboleggiare"]}
+ ],
+
+"symbolism": [
+  {"id":14305,"text":["simbolismo"]}
+ ],
+
+"symbolist": [
+  {"id":14306,"text":["simbolista"]}
+ ],
+
+"symmetric": [
+  {"id":14307,"text":["simmetrico"]}
+ ],
+
+"symmetrical": [
+  {"id":14308,"text":["simmetrico"]}
+ ],
+
+"symmetry": [
+  {"id":14309,"text":["simmetria"]}
+ ],
+
+"sympathiser": [
+  {"id":14310,"text":["simpatizzante"]}
+ ],
+
+"sympathy": [
+  {"id":14311,"text":["compassione"]}
+ ],
+
+"symphonic": [
+  {"id":14312,"text":["sinfonico"]}
+ ],
+
+"symphony": [
+  {"id":14313,"text":["sinfonia"]}
+ ],
+
+"symposium": [
+  {"id":14314,"text":["simposio"]}
+ ],
+
+"symptom": [
+  {"id":14315,"text":["sintomo"]}
+ ],
+
+"symptomatology": [
+  {"id":14316,"text":["sintomatologia"]}
+ ],
+
+"synagogue": [
+  {"id":14317,"text":["sinagoga"]}
+ ],
+
+"synchronisation": [
+  {"id":14318,"text":["sincronizzazione"]}
+ ],
+
+"synchronise": [
+  {"id":14319,"text":["sincronizzare"]}
+ ],
+
+"synchroniser": [
+  {"id":14320,"text":["sincronizzatore"]}
+ ],
+
+"synchronism": [
+  {"id":14321,"text":["sincronismo"]}
+ ],
+
+"synchrony": [
+  {"id":14322,"text":["sincronia"]}
+ ],
+
+"syncopation": [
+  {"id":14323,"text":["sincope"]}
+ ],
+
+"syncretism": [
+  {"id":14324,"text":["sincretismo"]}
+ ],
+
+"syndicalist": [
+  {"id":14325,"text":["sindacalista"]}
+ ],
+
+"syndicate": [
+  {"id":14326,"text":["sindacato"]}
+ ],
+
+"syndrome": [
+  {"id":14327,"text":["sindrome"]}
+ ],
+
+"synod": [
+  {"id":14328,"text":["sinodo"]}
+ ],
+
+"synonym": [
+  {"id":14329,"text":["sinonimo"]}
+ ],
+
+"synonymity": [
+  {"id":14330,"text":["sinonimia"]}
+ ],
+
+"synonymous": [
+  {"id":14331,"text":["sinonimo"]}
+ ],
+
+"syntactic": [
+  {"id":14332,"text":["sintattico"]}
+ ],
+
+"syntax": [
+  {"id":14333,"text":["sintassi"]}
+ ],
+
+"synthesis": [
+  {"id":14334,"text":["sintesi"]}
+ ],
+
+"synthesiser": [
+  {"id":14335,"text":["sintetizzatore"]}
+ ],
+
+"synthetic": [
+  {"id":14336,"text":["sintetico"]}
+ ],
+
+"synthetically": [
+  {"id":14337,"text":["sinteticamente"]}
+ ],
+
+"Syria": [
+  {"id":14338,"text":["Siria"]}
+ ],
+
+"syrian": [
+  {"id":14339,"text":["siriano"]}
+ ],
+
+"syringe": [
+  {"id":14340,"text":["siringa"]}
+ ],
+
+"syrup": [
+  {"id":14341,"text":["sciroppo"]}
+ ],
+
+"system": [
+  {"id":14342,"text":["sistema"]}
+ ],
+
+"systematic": [
+  {"id":14343,"text":["sistematico"]}
+ ],
+
+"systematically": [
+  {"id":14344,"text":["dasistema"]},
+  {"id":14345,"text":["sistematicamente"]}
+ ],
+
+"systematisation": [
+  {"id":14346,"text":["sistematizzazione"]}
+ ],
+
+"systematise": [
+  {"id":14347,"text":["sistematizzare"]}
+ ],
+
+"systematization": [
+  {"id":14348,"text":["sistematizzazione"]}
+ ],
+
+"systematize": [
+  {"id":14349,"text":["sistematizzare"]}
+ ]}

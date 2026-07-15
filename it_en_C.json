@@ -1,222 +1,288 @@
-{
-"cacare": [
+{"cacare": [
   {"id":13169,"text":["shit"]}
-],
+ ],
+
 "caccia": [
   {"id":5815,"text":["fighter"]},
   {"id":7190,"text":["hunt"]},
   {"id":7192,"text":["hunting"]}
-],
+ ],
+
 "cacciare": [
   {"id":7191,"text":["hunt"]}
-],
+ ],
+
 "cacciatorpediniere": [
   {"id":4174,"text":["destroyer"]}
-],
+ ],
+
 "cacciavite": [
   {"id":12859,"text":["screwdriver"]}
-],
+ ],
+
 "cachessia": [
   {"id":2130,"text":["cachexia"]}
-],
+ ],
+
 "cacicco": [
   {"id":2131,"text":["cacique"]}
-],
+ ],
+
 "cacofonia": [
   {"id":2133,"text":["cacophony"]}
-],
+ ],
+
 "cacofonico": [
   {"id":2132,"text":["cacophonic"]}
-],
+ ],
+
 "cactus": [
   {"id":2134,"text":["cactus"]}
-],
+ ],
+
 "cadavere": [
   {"id":1817,"text":["body"]},
   {"id":2137,"text":["cadaver"]},
   {"id":3467,"text":["corpse"]}
-],
+ ],
+
 "cadenza": [
   {"id":2138,"text":["cadence"]}
-],
+ ],
+
 "cadere": [
   {"id":5622,"text":["fall"]}
-],
+ ],
+
 "cadetto": [
   {"id":2139,"text":["cadet"]}
-],
+ ],
+
 "cadmio": [
   {"id":2140,"text":["cadmium"]}
-],
+ ],
+
 "caduco": [
   {"id":2141,"text":["caducous"]}
-],
+ ],
+
 "caduta": [
   {"id":5623,"text":["fall"]}
-],
+ ],
+
 "caffeina": [
   {"id":2143,"text":["caffeine"]}
-],
+ ],
+
 "cafone": [
   {"id":1845,"text":["boor"]}
-],
+ ],
+
 "cagliata": [
   {"id":3702,"text":["curd"]}
-],
+ ],
+
 "caglio": [
   {"id":12206,"text":["rennet"]}
-],
+ ],
+
 "calamaro": [
   {"id":13761,"text":["squid"]}
-],
+ ],
+
 "calare": [
   {"id":4675,"text":["drop"]}
-],
+ ],
+
 "calaverna": [
   {"id":7046,"text":["hoarfrost"]}
-],
+ ],
+
 "calcagno": [
   {"id":2146,"text":["calcaneum"]}
-],
+ ],
+
 "calcare": [
   {"id":8538,"text":["limestone"]},
   {"id":14986,"text":["tread"]}
-],
+ ],
+
 "calcestruzzo": [
   {"id":3124,"text":["concrete"]}
-],
+ ],
+
 "calciare": [
   {"id":8215,"text":["kick"]}
-],
+ ],
+
 "calciatore": [
   {"id":6031,"text":["footballer"]}
-],
+ ],
+
 "calcico": [
   {"id":2147,"text":["calcic"]}
-],
+ ],
+
 "calcificazione": [
   {"id":2148,"text":["calcification"]},
   {"id":3847,"text":["decalcification"]}
-],
+ ],
+
 "calcinazione": [
   {"id":2149,"text":["calcination"]}
-],
+ ],
+
 "calcio": [
   {"id":2150,"text":["calcium"]},
   {"id":6030,"text":["football"]},
   {"id":8216,"text":["kick"]}
-],
+ ],
+
 "calco": [
   {"id":2174,"text":["calque"]}
-],
+ ],
+
 "calcografia": [
   {"id":2484,"text":["chalcography"]}
-],
+ ],
+
 "calcolabile": [
   {"id":2151,"text":["calculable"]},
   {"id":3080,"text":["computable"]}
-],
+ ],
+
 "calcolare": [
   {"id":2152,"text":["calculate"]},
   {"id":3085,"text":["compute"]}
-],
+ ],
+
 "calcolatore": [
   {"id":2155,"text":["calculator"]}
-],
+ ],
+
 "calcolo": [
   {"id":2154,"text":["calculation"]},
   {"id":3081,"text":["computation"]}
-],
+ ],
+
 "caldaia": [
   {"id":1823,"text":["boiler"]}
-],
+ ],
+
 "caldo": [
   {"id":7143,"text":["hot"]},
   {"id":15734,"text":["warm"]}
-],
+ ],
+
 "calendario": [
   {"id":2156,"text":["calendar"]}
-],
+ ],
+
 "calesse": [
   {"id":2483,"text":["chaise"]},
   {"id":6452,"text":["gig"]}
-],
+ ],
+
 "calibrare": [
   {"id":2157,"text":["calibrate"]}
-],
+ ],
+
 "calibrazione": [
   {"id":2158,"text":["calibration"]}
-],
+ ],
+
 "calibro": [
   {"id":2159,"text":["calibre"]}
-],
+ ],
+
 "califfo": [
   {"id":2162,"text":["caliph"]}
-],
+ ],
+
 "californiano": [
   {"id":2160,"text":["Californian"]}
-],
+ ],
+
 "californio": [
   {"id":2161,"text":["californium"]}
-],
+ ],
+
 "calligrafia": [
   {"id":2167,"text":["calligraphy"]}
-],
+ ],
+
 "callo": [
   {"id":3450,"text":["corn"]}
-],
+ ],
+
 "calma": [
   {"id":2168,"text":["calm"]}
-],
+ ],
+
 "calmare": [
   {"id":2169,"text":["calm"]}
-],
+ ],
+
 "calmo": [
   {"id":2170,"text":["calm"]},
   {"id":13880,"text":["still"]}
-],
+ ],
+
 "calore": [
   {"id":6886,"text":["heat"]}
-],
+ ],
+
 "caloria": [
   {"id":2171,"text":["calorie"]}
-],
+ ],
+
 "calorimetria": [
   {"id":2173,"text":["calorimetry"]}
-],
+ ],
+
 "calorimetro": [
   {"id":2172,"text":["calorimeter"]}
-],
+ ],
+
 "calotta": [
   {"id":2222,"text":["cap"]},
   {"id":13390,"text":["skull"]}
-],
+ ],
+
 "calvario": [
   {"id":10182,"text":["ordeal"]}
-],
+ ],
+
 "calvo": [
   {"id":1373,"text":["bald"]}
-],
+ ],
+
 "calzino": [
   {"id":13503,"text":["sock"]}
-],
+ ],
+
 "calzolaio": [
   {"id":13179,"text":["shoemaker"]}
-],
+ ],
+
 "camaleonte": [
   {"id":2489,"text":["chameleon"]}
-],
+ ],
+
 "cambiabile": [
   {"id":2502,"text":["changeable"]}
-],
+ ],
+
 "cambiamento": [
   {"id":2498,"text":["change"]}
-],
+ ],
+
 "cambiare": [
   {"id":2499,"text":["change"]},
   {"id":13151,"text":["shift"]},
   {"id":14287,"text":["switch"]}
-],
+ ],
+
 "cambio": [
   {"id":2500,"text":["change"]},
   {"id":5413,"text":["exchange"]},
@@ -224,2258 +290,2962 @@
   {"id":14282,"text":["swing"]},
   {"id":14288,"text":["switch"]},
   {"id":14950,"text":["transmission"]}
-],
+ ],
+
 "Cambogia": [
   {"id":2175,"text":["Cambodia"]}
-],
+ ],
+
 "camera": [
   {"id":2488,"text":["chamber"]},
   {"id":12560,"text":["room"]}
-],
+ ],
+
 "camera da letto": [
   {"id":1539,"text":["bedroom"]}
-],
+ ],
+
 "cameraman": [
   {"id":2177,"text":["cameraman"]}
-],
+ ],
+
 "camerata": [
   {"id":3090,"text":["comrade"]}
-],
+ ],
+
 "cameriera": [
   {"id":8777,"text":["maid"]}
-],
+ ],
+
 "cameriere": [
   {"id":15706,"text":["waiter"]},
   {"id":15707,"text":["waitress"]}
-],
+ ],
+
 "Camerun": [
   {"id":2178,"text":["Cameroon"]}
-],
+ ],
+
 "camice": [
   {"id":2820,"text":["coat"]}
-],
+ ],
+
 "camicia": [
   {"id":13168,"text":["shirt"]}
-],
+ ],
+
 "camino": [
   {"id":5870,"text":["fireplace"]}
-],
+ ],
+
 "camion": [
   {"id":8674,"text":["lorry"]},
   {"id":15063,"text":["truck"]}
-],
+ ],
+
 "camionista": [
   {"id":15065,"text":["truck driver"]}
-],
+ ],
+
 "cammello": [
   {"id":2176,"text":["camel"]}
-],
+ ],
+
 "camminare": [
   {"id":15713,"text":["walk"]}
-],
+ ],
+
 "camminata": [
   {"id":14996,"text":["trek"]},
   {"id":15714,"text":["walk"]}
-],
+ ],
+
 "cammino": [
   {"id":10543,"text":["path"]},
   {"id":15781,"text":["way"]}
-],
+ ],
+
 "camomilla": [
   {"id":2179,"text":["camomile"]}
-],
+ ],
+
 "campagna": [
   {"id":2183,"text":["campaign"]}
-],
+ ],
+
 "campana": [
   {"id":1573,"text":["bell"]}
-],
+ ],
+
 "campanile": [
   {"id":1574,"text":["bell tower"]}
-],
+ ],
+
 "campanilismo": [
   {"id":11604,"text":["provincialism"]}
-],
+ ],
+
 "campionamento": [
   {"id":12707,"text":["sampling"]}
-],
+ ],
+
 "campionato": [
   {"id":2492,"text":["championship"]}
-],
+ ],
+
 "campione": [
   {"id":2491,"text":["champion"]},
   {"id":13634,"text":["specimen"]}
-],
+ ],
+
 "campo": [
   {"id":3543,"text":["countryside"]},
   {"id":5783,"text":["field"]}
-],
+ ],
+
 "campo estivo": [
   {"id":14162,"text":["summer camp"]}
-],
+ ],
+
 "campoperrifugiati": [
   {"id":12070,"text":["refugeecamp"]}
-],
+ ],
+
 "camuffamento": [
   {"id":2180,"text":["camouflage"]}
-],
+ ],
+
 "canadese": [
   {"id":2187,"text":["Canadian"]}
-],
+ ],
+
 "canalare": [
   {"id":2503,"text":["channel"]}
-],
+ ],
+
 "canale": [
   {"id":2504,"text":["channel"]},
   {"id":6707,"text":["gully"]}
-],
+ ],
+
 "canalizzazione": [
   {"id":2188,"text":["canalisation"]}
-],
+ ],
+
 "canapa": [
   {"id":6942,"text":["hemp"]}
-],
+ ],
+
 "Canarie": [
   {"id":2189,"text":["Canaries"]}
-],
+ ],
+
 "cancellabile": [
   {"id":5230,"text":["erasable"]}
-],
+ ],
+
 "cancellare": [
   {"id":3974,"text":["delete"]},
   {"id":5231,"text":["erase"]}
-],
+ ],
+
 "cancellazione": [
   {"id":2192,"text":["cancellation"]}
-],
+ ],
+
 "cancelleria": [
   {"id":2496,"text":["chancellery"]}
-],
+ ],
+
 "cancelliere": [
   {"id":2497,"text":["chancellor"]}
-],
+ ],
+
 "cancrena": [
   {"id":6313,"text":["gangrene"]}
-],
+ ],
+
 "cancro": [
   {"id":2193,"text":["cancer"]}
-],
+ ],
+
 "candeggina": [
   {"id":1758,"text":["bleach"]},
   {"id":1760,"text":["bleaching"]}
-],
+ ],
+
 "candela": [
   {"id":2194,"text":["candela"]},
   {"id":2199,"text":["candle"]}
-],
+ ],
+
 "candidare": [
   {"id":9831,"text":["nominate"]}
-],
+ ],
+
 "candidato": [
   {"id":2196,"text":["candidate"]},
   {"id":5392,"text":["examinee"]},
   {"id":9834,"text":["nominee"]}
-],
+ ],
+
 "candidatura": [
   {"id":2197,"text":["candidature"]}
-],
+ ],
+
 "candido": [
   {"id":2195,"text":["candid"]}
-],
+ ],
+
 "cane": [
   {"id":4569,"text":["dog"]}
-],
+ ],
+
 "canfora": [
   {"id":2184,"text":["camphor"]}
-],
+ ],
+
 "canile": [
   {"id":8209,"text":["kennel"]}
-],
+ ],
+
 "canino": [
   {"id":2202,"text":["canine"]}
-],
+ ],
+
 "canna": [
   {"id":2201,"text":["cane"]}
-],
+ ],
+
 "cannabis": [
   {"id":2203,"text":["cannabis"]}
-],
+ ],
+
 "cannella": [
   {"id":2669,"text":["cinnamon"]}
-],
+ ],
+
 "cannibale": [
   {"id":2204,"text":["cannibal"]}
-],
+ ],
+
 "cannibalismo": [
   {"id":2205,"text":["cannibalism"]}
-],
+ ],
+
 "cannone": [
   {"id":2206,"text":["cannon"]}
-],
+ ],
+
 "cannoniera": [
   {"id":6710,"text":["gunboat"]}
-],
+ ],
+
 "canoista": [
   {"id":2208,"text":["canoeist"]}
-],
+ ],
+
 "canone": [
   {"id":2209,"text":["canon"]}
-],
+ ],
+
 "canonico": [
   {"id":2210,"text":["canon"]},
   {"id":2211,"text":["canonical"]}
-],
+ ],
+
 "canonizzazione": [
   {"id":2212,"text":["canonisation"]},
   {"id":2213,"text":["canonization"]}
-],
+ ],
+
 "canottaggio": [
   {"id":2207,"text":["canoeing"]}
-],
+ ],
+
 "canottiera": [
   {"id":15245,"text":["undershirt"]}
-],
+ ],
+
 "cantante": [
   {"id":13309,"text":["singer"]},
   {"id":13310,"text":["singing"]}
-],
+ ],
+
 "cantare": [
   {"id":13308,"text":["sing"]}
-],
+ ],
+
 "cantina": [
   {"id":2415,"text":["cellar"]}
-],
+ ],
+
 "canto": [
   {"id":4821,"text":["edge"]},
   {"id":13311,"text":["singing"]}
-],
+ ],
+
 "cantonale": [
   {"id":2219,"text":["cantonal"]}
-],
+ ],
+
 "cantone": [
   {"id":2218,"text":["canton"]}
-],
+ ],
+
 "canzone": [
   {"id":13566,"text":["song"]}
-],
+ ],
+
 "caos": [
   {"id":2505,"text":["chaos"]}
-],
+ ],
+
 "caotico": [
   {"id":2506,"text":["chaotic"]}
-],
+ ],
+
 "capace": [
   {"id":34,"text":["able"]},
   {"id":2224,"text":["capable"]}
-],
+ ],
+
 "capanna": [
   {"id":2122,"text":["cabin"]},
   {"id":7199,"text":["hut"]},
   {"id":13137,"text":["shed"]}
-],
+ ],
+
 "capannone": [
   {"id":9648,"text":["nave"]}
-],
+ ],
+
 "capello": [
   {"id":6745,"text":["hair"]}
-],
+ ],
+
 "capiente": [
   {"id":2225,"text":["capacious"]},
   {"id":12563,"text":["roomy"]}
-],
+ ],
+
 "capienza": [
   {"id":2226,"text":["capacity"]}
-],
+ ],
+
 "capigliatura": [
   {"id":8843,"text":["mane"]}
-],
+ ],
+
 "capillare": [
   {"id":2229,"text":["capillary"]}
-],
+ ],
+
 "capire": [
   {"id":15247,"text":["understand"]}
-],
+ ],
+
 "capitale": [
   {"id":2230,"text":["capital"]}
-],
+ ],
+
 "capitalismo": [
   {"id":2234,"text":["capitalism"]}
-],
+ ],
+
 "capitalista": [
   {"id":2235,"text":["capitalist"]}
-],
+ ],
+
 "capitalizzare": [
   {"id":2233,"text":["capitalise"]}
-],
+ ],
+
 "capitalizzazione": [
   {"id":2232,"text":["capitalisation"]}
-],
+ ],
+
 "capitano": [
   {"id":2248,"text":["captain"]}
-],
+ ],
+
 "capitare": [
-  {"id":6803,"text":["happen"]}
-],
+  {"id":6801,"text":["happen"]}
+ ],
+
 "capitaria": [
   {"id":2237,"text":["capitation"]}
-],
+ ],
+
 "capitolare": [
   {"id":2238,"text":["capitulate"]}
-],
+ ],
+
 "capitolazione": [
   {"id":2239,"text":["capitulation"]}
-],
+ ],
+
 "capitolo": [
   {"id":2509,"text":["chapter"]}
-],
+ ],
+
 "capo": [
   {"id":1875,"text":["boss"]},
   {"id":2227,"text":["cape"]},
   {"id":2583,"text":["chief"]},
   {"id":6859,"text":["head"]},
   {"id":8374,"text":["leader"]}
-],
+ ],
+
 "capodelgoverno": [
   {"id":6870,"text":["headofgovernment"]}
-],
+ ],
+
 "capodelstato": [
   {"id":6871,"text":["headofstate"]}
-],
+ ],
+
 "capodistato": [
   {"id":6872,"text":["headofstate"]}
-],
+ ],
+
 "capofamiglia": [
   {"id":1947,"text":["breadwinner"]}
-],
+ ],
+
 "capovolgersi": [
   {"id":2244,"text":["capsize"]}
-],
+ ],
+
 "cappella": [
   {"id":2507,"text":["chapel"]}
-],
+ ],
+
 "cappellano": [
   {"id":2508,"text":["chaplain"]}
-],
+ ],
+
 "cappello": [
   {"id":1836,"text":["bonnet"]},
   {"id":6839,"text":["hat"]}
-],
+ ],
+
 "cappio": [
   {"id":9843,"text":["noose"]}
-],
+ ],
+
 "cappotto": [
   {"id":2821,"text":["coat"]}
-],
+ ],
+
 "cappuccino": [
   {"id":2240,"text":["cappuccino"]}
-],
+ ],
+
 "capra": [
   {"id":6528,"text":["goat"]}
-],
+ ],
+
 "capriccio": [
   {"id":2241,"text":["caprice"]},
   {"id":14403,"text":["tantrum"]},
   {"id":15857,"text":["whim"]}
-],
+ ],
+
 "capriccioso": [
   {"id":2242,"text":["capricious"]},
   {"id":15786,"text":["wayward"]},
   {"id":15858,"text":["whimsical"]}
-],
+ ],
+
 "capriola": [
   {"id":5947,"text":["flip"]},
   {"id":13558,"text":["somersault"]}
-],
+ ],
+
 "caprone": [
   {"id":1662,"text":["billygoat"]}
-],
+ ],
+
 "capside": [
   {"id":2243,"text":["capsid"]}
-],
+ ],
+
 "capsomero": [
   {"id":2246,"text":["capsomer"]}
-],
+ ],
+
 "capsula": [
   {"id":2247,"text":["capsule"]}
-],
+ ],
+
 "captare": [
   {"id":2252,"text":["capture"]},
   {"id":4186,"text":["detect"]},
   {"id":10865,"text":["pick up"]}
-],
+ ],
+
 "captazione": [
   {"id":2369,"text":["catchment"]}
-],
+ ],
+
 "caraffa": [
   {"id":2259,"text":["carafe"]}
-],
+ ],
+
 "Caraibi": [
   {"id":2310,"text":["Carribean"]}
-],
+ ],
+
 "carambola": [
   {"id":2260,"text":["carambola"]}
-],
+ ],
+
 "caramella": [
   {"id":2200,"text":["candy"]}
-],
+ ],
+
 "carato": [
   {"id":2261,"text":["carat"]}
-],
+ ],
+
 "carattere": [
   {"id":2510,"text":["character"]}
-],
+ ],
+
 "caratteristica": [
   {"id":2514,"text":["characteristic"]},
   {"id":5706,"text":["feature"]}
-],
+ ],
+
 "caratteristico": [
   {"id":2515,"text":["characteristic"]}
-],
+ ],
+
 "caratterizzare": [
   {"id":2513,"text":["characterise"]}
-],
+ ],
+
 "caratterizzazione": [
   {"id":2512,"text":["characterisation"]}
-],
+ ],
+
 "carboidrato": [
   {"id":2265,"text":["carbohydrate"]}
-],
+ ],
+
 "carbonatazione": [
   {"id":2267,"text":["carbonatation"]}
-],
+ ],
+
 "carbonato": [
   {"id":2268,"text":["carbonate"]}
-],
+ ],
+
 "carbonchio": [
   {"id":2271,"text":["carbuncle"]}
-],
+ ],
+
 "carbone": [
   {"id":2816,"text":["coal"]}
-],
+ ],
+
 "carbonio": [
   {"id":2266,"text":["carbon"]}
-],
+ ],
+
 "carbossilico": [
   {"id":2269,"text":["carboxylic"]}
-],
+ ],
+
 "carburatore": [
   {"id":2273,"text":["carburetor"]}
-],
+ ],
+
 "carburazione": [
   {"id":2272,"text":["carburation"]}
-],
+ ],
+
 "carburo": [
   {"id":2264,"text":["carbide"]}
-],
+ ],
+
 "carcassa": [
   {"id":3468,"text":["corpse"]}
-],
+ ],
+
 "carcere": [
   {"id":7475,"text":["incarceration"]}
-],
+ ],
+
 "carciofo": [
   {"id":1022,"text":["artichoke"]}
-],
+ ],
+
 "cardiaco": [
   {"id":2277,"text":["cardiac"]}
-],
+ ],
+
 "cardinale": [
   {"id":2278,"text":["cardinal"]}
-],
+ ],
+
 "cardine": [
   {"id":7019,"text":["hinge"]}
-],
+ ],
+
 "cardioide": [
   {"id":2279,"text":["cardioid"]}
-],
+ ],
+
 "cardiologo": [
   {"id":2280,"text":["cardiologist"]}
-],
+ ],
+
 "cardiopatia": [
   {"id":2281,"text":["cardiopathy"]}
-],
+ ],
+
 "cardiovascolare": [
   {"id":2282,"text":["cardiovascular"]}
-],
+ ],
+
 "cardo": [
   {"id":14670,"text":["thistle"]}
-],
+ ],
+
 "carente": [
   {"id":8283,"text":["lacking"]}
-],
+ ],
+
 "carenza": [
   {"id":8281,"text":["lack"]}
-],
+ ],
+
 "carestia": [
   {"id":5634,"text":["famine"]}
-],
+ ],
+
 "carica": [
   {"id":2517,"text":["charge"]},
   {"id":11175,"text":["position"]},
   {"id":14362,"text":["tackle"]}
-],
+ ],
+
 "caricare": [
   {"id":2518,"text":["charge"]},
   {"id":8622,"text":["load"]}
-],
+ ],
+
 "caricatura": [
   {"id":2292,"text":["caricature"]}
-],
+ ],
+
 "caricaturare": [
   {"id":2293,"text":["caricature"]}
-],
+ ],
+
 "caricaturista": [
   {"id":2294,"text":["caricaturist"]}
-],
+ ],
+
 "carico": [
   {"id":2519,"text":["charge"]},
   {"id":6184,"text":["freight"]},
   {"id":8623,"text":["load"]},
   {"id":11192,"text":["post"]}
-],
+ ],
+
 "carisma": [
   {"id":2521,"text":["charisma"]}
-],
+ ],
+
 "carismatico": [
   {"id":2522,"text":["charismatic"]}
-],
+ ],
+
 "carminio": [
   {"id":2295,"text":["carmine"]}
-],
+ ],
+
 "carnale": [
   {"id":2296,"text":["carnal"]}
-],
+ ],
+
 "carne": [
   {"id":5939,"text":["flesh"]},
   {"id":9016,"text":["meat"]}
-],
+ ],
+
 "carnevale": [
   {"id":2298,"text":["carnival"]}
-],
+ ],
+
 "carnivoro": [
   {"id":2299,"text":["carnivore"]},
   {"id":2300,"text":["carnivorous"]}
-],
+ ],
+
 "caro": [
   {"id":3831,"text":["dear"]},
   {"id":5493,"text":["expensive"]}
-],
+ ],
+
 "carogna": [
   {"id":2312,"text":["carrion"]}
-],
+ ],
+
 "carota": [
   {"id":2313,"text":["carrot"]}
-],
+ ],
+
 "carovana": [
   {"id":2262,"text":["caravan"]}
-],
+ ],
+
 "carpa": [
   {"id":2301,"text":["carp"]}
-],
+ ],
+
 "carpello": [
   {"id":2302,"text":["carpel"]}
-],
+ ],
+
 "carpenteria": [
   {"id":2304,"text":["carpentry"]}
-],
+ ],
+
 "carpentiere": [
   {"id":2303,"text":["carpenter"]}
-],
+ ],
+
 "carpo": [
   {"id":2306,"text":["carpus"]}
-],
+ ],
+
 "carreggiata": [
   {"id":2309,"text":["carriageway"]}
-],
+ ],
+
 "carriera": [
   {"id":2285,"text":["career"]},
   {"id":12629,"text":["run"]}
-],
+ ],
+
 "carro": [
   {"id":2316,"text":["cart"]},
   {"id":15700,"text":["wagon"]}
-],
+ ],
+
 "carro armato": [
   {"id":14398,"text":["tank"]}
-],
+ ],
+
 "carrozza": [
   {"id":2307,"text":["carriage"]}
-],
+ ],
+
 "carrozzeria": [
   {"id":1820,"text":["bodywork"]}
-],
+ ],
+
 "carrozzina": [
   {"id":11250,"text":["pram"]}
-],
+ ],
+
 "carrozzone": [
   {"id":2263,"text":["caravan"]}
-],
+ ],
+
 "carrucola": [
   {"id":11652,"text":["pulley"]}
-],
+ ],
+
 "carta": [
   {"id":2274,"text":["card"]},
   {"id":9085,"text":["menu"]},
   {"id":10427,"text":["paper"]}
-],
+ ],
+
 "carta igienica": [
   {"id":14790,"text":["toilet paper"]}
-],
+ ],
+
 "Cartagine": [
   {"id":2318,"text":["Carthage"]}
-],
+ ],
+
 "cartamo": [
   {"id":12677,"text":["safflower"]}
-],
+ ],
+
 "cartella": [
   {"id":6008,"text":["folder"]}
-],
+ ],
+
 "cartello": [
   {"id":2317,"text":["cartel"]}
-],
+ ],
+
 "cartilagine": [
   {"id":2319,"text":["cartilage"]}
-],
+ ],
+
 "cartina": [
   {"id":2528,"text":["chart"]},
   {"id":8871,"text":["map"]}
-],
+ ],
+
 "cartografia": [
   {"id":2321,"text":["cartography"]}
-],
+ ],
+
 "cartografico": [
   {"id":2320,"text":["cartographic"]}
-],
+ ],
+
 "cartolina": [
   {"id":11199,"text":["postcard"]}
-],
+ ],
+
 "cartone": [
   {"id":2276,"text":["cardboard"]}
-],
+ ],
+
 "cartuccia": [
   {"id":2325,"text":["cartridge"]}
-],
+ ],
+
 "casa": [
   {"id":7070,"text":["home"]},
   {"id":7149,"text":["house"]},
   {"id":7150,"text":["household"]}
-],
+ ],
+
 "cascare": [
   {"id":5624,"text":["fall"]},
   {"id":15091,"text":["tumble"]}
-],
+ ],
+
 "cascata": [
   {"id":15769,"text":["waterfall"]}
-],
+ ],
+
 "casco": [
   {"id":6923,"text":["helmet"]}
-],
+ ],
+
 "caseina": [
   {"id":2329,"text":["casein"]}
-],
+ ],
+
 "casereccio": [
   {"id":7071,"text":["home-made"]}
-],
+ ],
+
 "casino": [
   {"id":2331,"text":["casino"]}
-],
+ ],
+
 "caso": [
   {"id":2326,"text":["case"]},
   {"id":7780,"text":["instance"]}
-],
+ ],
+
 "cassaforma": [
   {"id":6083,"text":["formwork"]}
-],
+ ],
+
 "cassazione": [
   {"id":2332,"text":["cassation"]}
-],
+ ],
+
 "cassetto": [
   {"id":4648,"text":["drawer"]}
-],
+ ],
+
 "cassiere": [
   {"id":2330,"text":["cashier"]}
-],
+ ],
+
 "casta": [
   {"id":2337,"text":["caste"]}
-],
+ ],
+
 "castagno": [
   {"id":2574,"text":["chestnut tree"]}
-],
+ ],
+
 "castano": [
   {"id":2022,"text":["brown"]}
-],
+ ],
+
 "castello": [
   {"id":2341,"text":["castle"]}
-],
+ ],
+
 "castigare": [
   {"id":11674,"text":["punish"]}
-],
+ ],
+
 "castiglianizzazione": [
   {"id":2338,"text":["castilianisation"]},
   {"id":2339,"text":["castilianization"]}
-],
+ ],
+
 "castigo": [
   {"id":11677,"text":["punishment"]}
-],
+ ],
+
 "casting": [
   {"id":2340,"text":["casting"]}
-],
+ ],
+
 "castoro": [
   {"id":1533,"text":["beaver"]}
-],
+ ],
+
 "castrazione": [
   {"id":2343,"text":["castration"]}
-],
+ ],
+
 "casuale": [
   {"id":2344,"text":["casual"]},
   {"id":11846,"text":["random"]}
-],
+ ],
+
 "catabolismo": [
   {"id":2346,"text":["catabolism"]}
-],
+ ],
+
 "catacomba": [
   {"id":2347,"text":["catacomb"]}
-],
+ ],
+
 "catalanismo": [
   {"id":2348,"text":["catalanism"]}
-],
+ ],
+
 "catalessi": [
   {"id":2349,"text":["catalepsy"]}
-],
+ ],
+
 "catalitico": [
   {"id":2355,"text":["catalytic"]}
-],
+ ],
+
 "catalizzatore": [
   {"id":2354,"text":["catalyst"]}
-],
+ ],
+
 "catalogare": [
   {"id":2350,"text":["catalog"]}
-],
+ ],
+
 "catalogazione": [
   {"id":2352,"text":["cataloging"]}
-],
+ ],
+
 "catalogo": [
   {"id":2351,"text":["catalog"]},
   {"id":2353,"text":["catalogue"]}
-],
+ ],
+
 "catamarano": [
   {"id":2356,"text":["catamaran"]}
-],
+ ],
+
 "cataplasma": [
   {"id":11219,"text":["poultice"]}
-],
+ ],
+
 "catapulta": [
   {"id":2357,"text":["catapult"]}
-],
+ ],
+
 "catapultare": [
   {"id":2358,"text":["catapult"]}
-],
+ ],
+
 "cataratta": [
   {"id":2359,"text":["cataract"]}
-],
+ ],
+
 "catarismo": [
   {"id":2379,"text":["catharism"]}
-],
+ ],
+
 "catarro": [
   {"id":2360,"text":["catarrh"]}
-],
+ ],
+
 "catartico": [
   {"id":2380,"text":["cathartic"]}
-],
+ ],
+
 "catasta": [
   {"id":13769,"text":["stack"]}
-],
+ ],
+
 "catastale": [
   {"id":2135,"text":["cadastral"]}
-],
+ ],
+
 "catasto": [
   {"id":2136,"text":["cadastre"]}
-],
+ ],
+
 "catastrofe": [
   {"id":2361,"text":["catastrophe"]}
-],
+ ],
+
 "catastrofico": [
   {"id":2362,"text":["catastrophic"]}
-],
+ ],
+
 "catastrofismo": [
   {"id":2363,"text":["catastrophism"]}
-],
+ ],
+
 "catechismo": [
   {"id":2370,"text":["catechism"]}
-],
+ ],
+
 "categoria": [
   {"id":2375,"text":["category"]}
-],
+ ],
+
 "categoriale": [
   {"id":2371,"text":["categorial"]}
-],
+ ],
+
 "categoricamente": [
   {"id":2373,"text":["categorically"]}
-],
+ ],
+
 "categorico": [
   {"id":2372,"text":["categorical"]}
-],
+ ],
+
 "categorizzazione": [
   {"id":2374,"text":["categorisation"]}
-],
+ ],
+
 "catena": [
   {"id":2475,"text":["chain"]}
-],
+ ],
+
 "catenamontuosa": [
   {"id":9474,"text":["mountainrange"]}
-],
+ ],
+
 "catenaria": [
   {"id":2376,"text":["catenary"]}
-],
+ ],
+
 "catetere": [
   {"id":2382,"text":["catheter"]}
-],
+ ],
+
 "cateto": [
   {"id":2384,"text":["cathetus"]}
-],
+ ],
+
 "catetometro": [
   {"id":2383,"text":["cathetometer"]}
-],
+ ],
+
 "catodo": [
   {"id":2385,"text":["cathode"]}
-],
+ ],
+
 "catrame": [
   {"id":14410,"text":["tar"]}
-],
+ ],
+
 "cattedra": [
   {"id":2477,"text":["chair"]}
-],
+ ],
+
 "cattedrale": [
   {"id":2381,"text":["cathedral"]}
-],
+ ],
+
 "cattiveria": [
   {"id":8809,"text":["maliciousness"]}
-],
+ ],
+
 "cattivo": [
   {"id":1344,"text":["bad"]},
   {"id":9001,"text":["mean"]},
   {"id":9624,"text":["nasty"]},
   {"id":9642,"text":["naughty"]},
   {"id":15883,"text":["wicked"]}
-],
+ ],
+
 "cattolico": [
   {"id":2386,"text":["catholic"]}
-],
+ ],
+
 "cattura": [
   {"id":2253,"text":["capture"]}
-],
+ ],
+
 "catturare": [
   {"id":2254,"text":["capture"]},
   {"id":2365,"text":["catch"]}
-],
+ ],
+
 "causa": [
   {"id":2392,"text":["cause"]}
-],
+ ],
+
 "causale": [
   {"id":2391,"text":["causal"]}
-],
+ ],
+
 "causare": [
   {"id":2393,"text":["cause"]},
   {"id":7655,"text":["inflict"]}
-],
+ ],
+
 "caustico": [
   {"id":2394,"text":["caustic"]}
-],
+ ],
+
 "cautamente": [
   {"id":2288,"text":["carefully"]}
-],
+ ],
+
 "cautela": [
   {"id":2400,"text":["caution"]}
-],
+ ],
+
 "cautelare": [
   {"id":11263,"text":["precautionary"]}
-],
+ ],
+
 "cauterizzazione": [
   {"id":2395,"text":["cauterisation"]},
   {"id":2396,"text":["cauterization"]}
-],
+ ],
+
 "cauzione": [
   {"id":1357,"text":["bail"]},
   {"id":2401,"text":["caution"]}
-],
+ ],
+
 "cava": [
   {"id":11753,"text":["quarry"]}
-],
+ ],
+
 "cavalcare": [
   {"id":12479,"text":["ride"]}
-],
+ ],
+
 "cavaliere": [
   {"id":8252,"text":["knight"]}
-],
+ ],
+
 "cavalla": [
   {"id":8882,"text":["mare"]}
-],
+ ],
+
 "cavalletta": [
   {"id":7118,"text":["hopper"]}
-],
+ ],
+
 "cavallo": [
   {"id":7131,"text":["horse"]}
-],
+ ],
+
 "caverna": [
   {"id":2402,"text":["cave"]},
   {"id":2404,"text":["cavern"]}
-],
+ ],
+
 "cavezza": [
   {"id":6761,"text":["halter"]}
-],
+ ],
+
 "caviale": [
   {"id":2405,"text":["caviar"]}
-],
+ ],
+
 "caviglia": [
   {"id":707,"text":["ankle"]}
-],
+ ],
+
 "cavo": [
   {"id":2126,"text":["cable"]},
   {"id":15916,"text":["wire"]}
-],
+ ],
+
 "cavolfiore": [
   {"id":2390,"text":["cauliflower"]}
-],
+ ],
+
 "cavolo": [
   {"id":2121,"text":["cabbage"]}
-],
+ ],
+
 "cazzeruola": [
   {"id":2333,"text":["casserole"]}
-],
+ ],
+
 "cecchino": [
   {"id":13474,"text":["sniper"]}
-],
+ ],
+
 "cece": [
   {"id":2581,"text":["chickpea"]}
-],
+ ],
+
 "Cecoslovacchia": [
   {"id":3773,"text":["Czechoslovakia"]}
-],
+ ],
+
 "cecoslovacco": [
   {"id":3772,"text":["czechoslovak"]}
-],
+ ],
+
 "cedere": [
   {"id":16007,"text":["yield"]}
-],
+ ],
+
 "cedro": [
   {"id":2407,"text":["cedar"]}
-],
+ ],
+
 "cefalico": [
   {"id":2450,"text":["cephalic"]}
-],
+ ],
+
 "cefalopode": [
   {"id":2451,"text":["cephalopod"]}
-],
+ ],
+
 "celebrare": [
   {"id":2409,"text":["celebrate"]}
-],
+ ],
+
 "celebrazione": [
   {"id":2410,"text":["celebration"]}
-],
+ ],
+
 "celebre": [
   {"id":5635,"text":["famous"]}
-],
+ ],
+
 "celestiale": [
   {"id":2412,"text":["celestial"]},
   {"id":6895,"text":["heavenly"]}
-],
+ ],
+
 "celibato": [
   {"id":2413,"text":["celibacy"]}
-],
+ ],
+
 "cellofan": [
   {"id":2416,"text":["cellophane"]}
-],
+ ],
+
 "cellula": [
   {"id":2414,"text":["cell"]}
-],
+ ],
+
 "cellulare": [
   {"id":2417,"text":["cellular"]},
   {"id":9306,"text":["mobile"]}
-],
+ ],
+
 "celluloide": [
   {"id":2418,"text":["celluloid"]}
-],
+ ],
+
 "cellulosa": [
   {"id":2419,"text":["cellulose"]}
-],
+ ],
+
 "celtico": [
   {"id":2420,"text":["Celt"]}
-],
+ ],
+
 "cementazione": [
   {"id":2422,"text":["cementation"]}
-],
+ ],
+
 "cementificazione": [
   {"id":3126,"text":["concreting"]}
-],
+ ],
+
 "cemento": [
   {"id":2421,"text":["cement"]}
-],
+ ],
+
 "cena": [
   {"id":4323,"text":["dinner"]}
-],
+ ],
+
 "cenare": [
   {"id":4322,"text":["dine"]}
-],
+ ],
+
 "cenere": [
   {"id":1055,"text":["ash"]},
   {"id":2664,"text":["cinder"]}
-],
+ ],
+
 "censimento": [
   {"id":2426,"text":["census"]}
-],
+ ],
+
 "censo": [
   {"id":2427,"text":["census"]}
-],
+ ],
+
 "censura": [
   {"id":2425,"text":["censorship"]}
-],
+ ],
+
 "censurare": [
   {"id":2424,"text":["censor"]}
-],
+ ],
+
 "centesimo": [
   {"id":2428,"text":["cent"]},
   {"id":7185,"text":["hundredth"]},
   {"id":10098,"text":["onehundredth"]},
   {"id":10639,"text":["penny"]}
-],
+ ],
+
 "centigrado": [
   {"id":2430,"text":["centigrade"]}
-],
+ ],
+
 "centilitro": [
   {"id":2431,"text":["centiliter"]},
   {"id":2432,"text":["centilitre"]}
-],
+ ],
+
 "centimetro": [
   {"id":2433,"text":["centimeter"]},
   {"id":2434,"text":["centimetre"]}
-],
+ ],
+
 "centinaio": [
   {"id":7184,"text":["hundred"]}
-],
+ ],
+
 "cento": [
   {"id":6,"text":["a hundred"]},
   {"id":10095,"text":["one hundred"]},
   {"id":10097,"text":["onehundredand"]}
-],
+ ],
+
 "centrale": [
   {"id":2435,"text":["central"]},
   {"id":2442,"text":["centre"]},
   {"id":6869,"text":["headoffice"]}
-],
+ ],
+
 "centralismo": [
   {"id":2440,"text":["centralism"]}
-],
+ ],
+
 "centralista": [
   {"id":2441,"text":["centralist"]}
-],
+ ],
+
 "centralizzare": [
   {"id":2439,"text":["centralise"]}
-],
+ ],
+
 "centralizzazione": [
   {"id":2438,"text":["centralisation"]}
-],
+ ],
+
 "centrare": [
   {"id":2443,"text":["centre"]},
   {"id":6000,"text":["focus"]}
-],
+ ],
+
 "centrico": [
   {"id":2445,"text":["centrical"]}
-],
+ ],
+
 "centrifugazione": [
   {"id":2446,"text":["centrifugation"]}
-],
+ ],
+
 "centriolo": [
   {"id":2447,"text":["centriole"]}
-],
+ ],
+
 "centro": [
   {"id":2429,"text":["center"]},
   {"id":2444,"text":["centre"]}
-],
+ ],
+
 "centro giovanile": [
   {"id":16033,"text":["youth centre"]}
-],
+ ],
+
 "centrocampista": [
   {"id":9193,"text":["midfielder"]}
-],
+ ],
+
 "centrosoma": [
   {"id":2448,"text":["centrosome"]}
-],
+ ],
+
 "ceppo": [
   {"id":14024,"text":["stump"]}
-],
+ ],
+
 "cera": [
   {"id":15780,"text":["wax"]}
-],
+ ],
+
 "ceramica": [
   {"id":9494,"text":["mud"]}
-],
+ ],
+
 "ceramico": [
   {"id":2452,"text":["ceramic"]}
-],
+ ],
+
 "cerbiatto": [
   {"id":5698,"text":["fawn"]}
-],
+ ],
+
 "cercare": [
   {"id":8664,"text":["look for"]},
   {"id":12881,"text":["search"]},
   {"id":12931,"text":["seek"]}
-],
+ ],
+
 "cerchio": [
   {"id":2672,"text":["circle"]},
   {"id":12501,"text":["ring"]}
-],
+ ],
+
 "cereale": [
   {"id":2453,"text":["cereal"]}
-],
+ ],
+
 "cerebrale": [
   {"id":2455,"text":["cerebral"]}
-],
+ ],
+
 "cerimolia": [
   {"id":2567,"text":["cherimoya"]}
-],
+ ],
+
 "cerimonia": [
   {"id":2456,"text":["ceremony"]}
-],
+ ],
+
 "cerio": [
   {"id":2457,"text":["cerium"]}
-],
+ ],
+
 "cerniera": [
   {"id":7020,"text":["hinge"]},
   {"id":16045,"text":["zip"]}
-],
+ ],
+
 "certamente": [
   {"id":2460,"text":["certainly"]}
-],
+ ],
+
 "certezza": [
   {"id":2461,"text":["certainty"]}
-],
+ ],
+
 "certificare": [
   {"id":2464,"text":["certificate"]},
   {"id":2468,"text":["certify"]}
-],
+ ],
+
 "certificato": [
   {"id":2465,"text":["certificate"]}
-],
+ ],
+
 "certificatore": [
   {"id":2467,"text":["certifier"]}
-],
+ ],
+
 "certificazione": [
   {"id":2466,"text":["certification"]}
-],
+ ],
+
 "certo": [
   {"id":2458,"text":["certain"]},
   {"id":14214,"text":["sure"]}
-],
+ ],
+
 "cervelletto": [
   {"id":2454,"text":["cerebellum"]}
-],
+ ],
+
 "cervello": [
   {"id":1926,"text":["brain"]}
-],
+ ],
+
 "cervicale": [
   {"id":2469,"text":["cervical"]}
-],
+ ],
+
 "cervo": [
   {"id":3921,"text":["deer"]}
-],
+ ],
+
 "cesio": [
   {"id":2470,"text":["cesium"]}
-],
+ ],
+
 "cespuglio": [
   {"id":2088,"text":["bush"]}
-],
+ ],
+
 "cessare": [
   {"id":2406,"text":["cease"]}
-],
+ ],
+
 "cessazione": [
   {"id":2471,"text":["cessation"]}
-],
+ ],
+
 "cessione": [
   {"id":2472,"text":["cession"]}
-],
+ ],
+
 "cesta": [
   {"id":1471,"text":["basket"]}
-],
+ ],
+
 "cesto": [
   {"id":1472,"text":["basket"]},
   {"id":1664,"text":["bin"]}
-],
+ ],
+
 "cesura": [
   {"id":2142,"text":["caesura"]}
-],
+ ],
+
 "cetra": [
   {"id":16047,"text":["zither"]}
-],
+ ],
+
 "cetriolo": [
   {"id":3680,"text":["cucumber"]}
-],
+ ],
+
 "che": [
   {"id":14560,"text":["that"]},
   {"id":15839,"text":["what"]},
   {"id":15852,"text":["which"]},
   {"id":15872,"text":["who"]}
-],
+ ],
+
 "chelato": [
   {"id":2556,"text":["chelate"]}
-],
+ ],
+
 "chemiluminescenza": [
   {"id":2560,"text":["chemiluminescence"]}
-],
+ ],
+
 "chemiometria": [
   {"id":2564,"text":["chemometrics"]}
-],
+ ],
+
 "chemioterapia": [
   {"id":2565,"text":["chemotherapy"]}
-],
+ ],
+
 "cheratina": [
   {"id":8210,"text":["keratin"]}
-],
+ ],
+
 "cherubino": [
   {"id":2569,"text":["cherub"]}
-],
+ ],
+
 "chi": [
   {"id":15873,"text":["who"]}
-],
+ ],
+
 "chiacchierare": [
   {"id":2535,"text":["chat"]}
-],
+ ],
+
 "chiacchierata": [
   {"id":2536,"text":["chat"]}
-],
+ ],
+
 "chiamare": [
   {"id":2163,"text":["call"]}
-],
+ ],
+
 "chiamata": [
   {"id":2164,"text":["call"]}
-],
+ ],
+
 "chiamato": [
   {"id":2166,"text":["called"]}
-],
+ ],
+
 "chiappa": [
   {"id":2099,"text":["buttock"]}
-],
+ ],
+
 "chiaramente": [
   {"id":2744,"text":["clearly"]}
-],
+ ],
+
 "chiarezza": [
   {"id":2720,"text":["clarity"]}
-],
+ ],
+
 "chiarire": [
   {"id":2717,"text":["clarify"]},
   {"id":2741,"text":["clear"]}
-],
+ ],
+
 "chiaro": [
   {"id":2742,"text":["clear"]},
   {"id":5607,"text":["fair"]},
   {"id":8514,"text":["light"]},
   {"id":8704,"text":["luminosity"]}
-],
+ ],
+
 "chiasmo": [
   {"id":2578,"text":["chiasmus"]}
-],
+ ],
+
 "chiave": [
   {"id":8211,"text":["key"]}
-],
+ ],
+
 "chiave inglese": [
   {"id":15980,"text":["wrench"]}
-],
+ ],
+
 "chiedere": [
   {"id":1064,"text":["ask"]}
-],
+ ],
+
 "chiedersi": [
   {"id":15941,"text":["wonder"]}
-],
+ ],
+
 "chierico": [
   {"id":2748,"text":["clergyman"]}
-],
+ ],
+
 "chiesa": [
   {"id":2655,"text":["church"]}
-],
+ ],
+
 "chilocaloria": [
   {"id":8225,"text":["kilocalory"]}
-],
+ ],
+
 "chilogrammo": [
   {"id":8226,"text":["kilogram"]},
   {"id":8227,"text":["kilogramme"]}
-],
+ ],
+
 "chilometro": [
   {"id":8228,"text":["kilometre"]}
-],
+ ],
+
 "chimera": [
   {"id":2594,"text":["chimaera"]}
-],
+ ],
+
 "chimica": [
   {"id":2557,"text":["chemical"]}
-],
+ ],
+
 "chimicamente": [
   {"id":2559,"text":["chemically"]}
-],
+ ],
+
 "chimico": [
   {"id":2558,"text":["chemical"]},
   {"id":2561,"text":["chemist"]}
-],
+ ],
+
 "chinino": [
   {"id":11776,"text":["quinine"]}
-],
+ ],
+
 "chiocciola": [
   {"id":1142,"text":["at"]},
   {"id":13468,"text":["snail"]}
-],
+ ],
+
 "chiodo": [
   {"id":9591,"text":["nail"]}
-],
+ ],
+
 "chiosco": [
   {"id":8240,"text":["kiosk"]}
-],
+ ],
+
 "chiostro": [
   {"id":2779,"text":["cloister"]}
-],
+ ],
+
 "chip": [
   {"id":2599,"text":["chip"]}
-],
+ ],
+
 "chirurgia": [
   {"id":14221,"text":["surgery"]}
-],
+ ],
+
 "chirurgico": [
   {"id":14222,"text":["surgical"]}
-],
+ ],
+
 "chirurgo": [
   {"id":14220,"text":["surgeon"]}
-],
+ ],
+
 "chitarra": [
   {"id":6702,"text":["guitar"]}
-],
+ ],
+
 "chitarrista": [
   {"id":6703,"text":["guitarist"]}
-],
+ ],
+
 "chitina": [
   {"id":2600,"text":["chitin"]}
-],
+ ],
+
 "chiudere": [
   {"id":2783,"text":["close"]},
   {"id":5057,"text":["enclose"]},
   {"id":8636,"text":["lock"]},
   {"id":13233,"text":["shut"]},
   {"id":13235,"text":["shut down"]}
-],
+ ],
+
 "chiunque": [
   {"id":808,"text":["anybody"]},
   {"id":810,"text":["anyone"]},
   {"id":15875,"text":["whoever"]}
-],
+ ],
+
 "chiusura": [
   {"id":2787,"text":["closing"]},
   {"id":2788,"text":["closure"]}
-],
+ ],
+
 "ci": [
   {"id":14600,"text":["there"]},
   {"id":15403,"text":["us"]}
-],
+ ],
+
 "Ciad": [
   {"id":2474,"text":["Chad"]}
-],
+ ],
+
 "ciambella": [
   {"id":4593,"text":["donut"]}
-],
+ ],
+
 "cianfrinatura": [
   {"id":2490,"text":["chamfer"]}
-],
+ ],
+
 "cianuro": [
   {"id":3742,"text":["cyanide"]}
-],
+ ],
+
 "ciao": [
   {"id":2118,"text":["bye"]},
   {"id":2656,"text":["ciao"]},
   {"id":6922,"text":["hello"]},
   {"id":6994,"text":["hi"]}
-],
+ ],
+
 "ciarla": [
   {"id":14386,"text":["talk"]}
-],
+ ],
+
 "ciascuno": [
   {"id":4761,"text":["each"]}
-],
+ ],
+
 "cibernetica": [
   {"id":3743,"text":["cybernetics"]}
-],
+ ],
+
 "cibo": [
   {"id":6025,"text":["food"]}
-],
+ ],
+
 "cicala": [
   {"id":2657,"text":["cicada"]}
-],
+ ],
+
 "cicalino": [
   {"id":2110,"text":["buzzer"]}
-],
+ ],
+
 "cicatrice": [
   {"id":12788,"text":["scar"]}
-],
+ ],
+
 "cicatrizzazione": [
   {"id":12794,"text":["scarification"]}
-],
+ ],
+
 "Cicerone": [
   {"id":2659,"text":["Cicero"]}
-],
+ ],
+
 "ciclismo": [
   {"id":3745,"text":["cycling"]}
-],
+ ],
+
 "ciclista": [
   {"id":3746,"text":["cyclist"]}
-],
+ ],
+
 "ciclo": [
   {"id":3744,"text":["cycle"]}
-],
+ ],
+
 "cicloide": [
   {"id":3747,"text":["cycloid"]}
-],
+ ],
+
 "ciclomotore": [
   {"id":9416,"text":["moped"]}
-],
+ ],
+
 "ciclone": [
   {"id":3748,"text":["cyclone"]}
-],
+ ],
+
 "ciclonico": [
   {"id":3749,"text":["cyclonic"]}
-],
+ ],
+
 "ciclotimia": [
   {"id":3750,"text":["cyclothymia"]}
-],
+ ],
+
 "ciclotomico": [
   {"id":3751,"text":["cyclotomic"]}
-],
+ ],
+
 "cicogna": [
   {"id":13918,"text":["stork"]}
-],
+ ],
+
 "cicoria": [
   {"id":2582,"text":["chicory"]}
-],
+ ],
+
 "cieco": [
   {"id":1773,"text":["blind"]}
-],
+ ],
+
 "cielo": [
   {"id":6894,"text":["heaven"]},
   {"id":13393,"text":["sky"]}
-],
+ ],
+
 "cifra": [
   {"id":4299,"text":["digit"]}
-],
+ ],
+
 "cifrare": [
   {"id":5053,"text":["encipher"]},
   {"id":5067,"text":["encrypt"]}
-],
+ ],
+
 "ciglio": [
   {"id":5580,"text":["eyelash"]}
-],
+ ],
+
 "cigno": [
   {"id":14256,"text":["swan"]}
-],
+ ],
+
 "cigolare": [
   {"id":3588,"text":["creak"]}
-],
+ ],
+
 "Cile": [
   {"id":2591,"text":["Chile"]}
-],
+ ],
+
 "cileno": [
   {"id":2592,"text":["Chilean"]}
-],
+ ],
+
 "ciliare": [
   {"id":2662,"text":["ciliary"]}
-],
+ ],
+
 "ciliato": [
   {"id":2663,"text":["ciliate"]}
-],
+ ],
+
 "ciliegia": [
   {"id":2568,"text":["cherry"]}
-],
+ ],
+
 "cilindrico": [
   {"id":3753,"text":["cylindrical"]}
-],
+ ],
+
 "cilindro": [
   {"id":3752,"text":["cylinder"]}
-],
+ ],
+
 "cimitero": [
   {"id":2423,"text":["cemetery"]}
-],
+ ],
+
 "Cina": [
   {"id":2596,"text":["China"]}
-],
+ ],
+
 "cinabro": [
   {"id":2668,"text":["cinnabar"]}
-],
+ ],
+
 "cinema": [
   {"id":2665,"text":["cinema"]}
-],
+ ],
+
 "cinematico": [
   {"id":8234,"text":["kinematic"]}
-],
+ ],
+
 "cinematografia": [
   {"id":2667,"text":["cinematography"]}
-],
+ ],
+
 "cinematografico": [
   {"id":2666,"text":["cinematographic"]}
-],
+ ],
+
 "cinescopio": [
   {"id":8235,"text":["kinescope"]}
-],
+ ],
+
 "cinese": [
   {"id":2598,"text":["Chinese"]}
-],
+ ],
+
 "cinestesia": [
   {"id":8236,"text":["kinesthesia"]}
-],
+ ],
+
 "cinetico": [
   {"id":8237,"text":["kinetical"]}
-],
+ ],
+
 "cingere": [
   {"id":5054,"text":["encircle"]}
-],
+ ],
+
 "cinismo": [
   {"id":3755,"text":["cynicism"]}
-],
+ ],
+
 "cinquanta": [
   {"id":5791,"text":["fifty"]}
-],
+ ],
+
 "cinquantacinque": [
   {"id":5794,"text":["fiftyfive"]}
-],
+ ],
+
 "cinquantacinquemila": [
   {"id":5795,"text":["fiftyfivethousand"]}
-],
+ ],
+
 "cinquantadue": [
   {"id":5808,"text":["fiftytwo"]}
-],
+ ],
+
 "cinquantaduemila": [
   {"id":5809,"text":["fiftytwothousand"]}
-],
+ ],
+
 "cinquantamila": [
   {"id":5806,"text":["fiftythousand"]}
-],
+ ],
+
 "cinquantanove": [
   {"id":5798,"text":["fiftynine"]}
-],
+ ],
+
 "cinquantanovemila": [
   {"id":5799,"text":["fiftyninethousand"]}
-],
+ ],
+
 "cinquantaquattro": [
   {"id":5796,"text":["fiftyfour"]}
-],
+ ],
+
 "cinquantaquattromila": [
   {"id":5797,"text":["fiftyfourthousand"]}
-],
+ ],
+
 "cinquantasei": [
   {"id":5804,"text":["fiftysix"]}
-],
+ ],
+
 "cinquantaseimila": [
   {"id":5805,"text":["fiftysixthousand"]}
-],
+ ],
+
 "cinquantasette": [
   {"id":5802,"text":["fiftyseven"]}
-],
+ ],
+
 "cinquantasettemila": [
   {"id":5803,"text":["fiftyseventhousand"]}
-],
+ ],
+
 "cinquantatremila": [
   {"id":5807,"text":["fiftythreethousand"]}
-],
+ ],
+
 "cinquantesimo": [
   {"id":5790,"text":["fiftieth"]}
-],
+ ],
+
 "cinquantotto": [
   {"id":5792,"text":["fiftyeight"]}
-],
+ ],
+
 "cinquantottomila": [
   {"id":5793,"text":["fiftyeightthousand"]}
-],
+ ],
+
 "cinquantuno": [
   {"id":5800,"text":["fiftyone"]}
-],
+ ],
+
 "cinquantunomila": [
   {"id":5801,"text":["fiftyonethousand"]}
-],
+ ],
+
 "cinque": [
   {"id":5897,"text":["five"]}
-],
+ ],
+
 "cinquecentesimo": [
   {"id":5899,"text":["fivehundredth"]}
-],
+ ],
+
 "cinquecento": [
   {"id":5898,"text":["fivehundredand"]}
-],
+ ],
+
 "cinquemila": [
   {"id":5900,"text":["fivethousand"]}
-],
+ ],
+
 "cinta": [
   {"id":15702,"text":["waist"]}
-],
+ ],
+
 "cintura": [
   {"id":1584,"text":["belt"]}
-],
+ ],
+
 "ciocca": [
   {"id":8637,"text":["lock"]},
   {"id":15003,"text":["tress"]}
-],
+ ],
+
 "cioccolata": [
   {"id":2607,"text":["chocolate"]}
-],
+ ],
+
 "cioccolatino": [
   {"id":2608,"text":["chocolate"]}
-],
+ ],
+
 "cioccolato": [
   {"id":2609,"text":["chocolate"]}
-],
+ ],
+
 "ciottolo": [
   {"id":10595,"text":["pebble"]}
-],
+ ],
+
 "cipolla": [
   {"id":10101,"text":["onion"]}
-],
+ ],
+
 "cipresso": [
   {"id":3756,"text":["cypress"]}
-],
+ ],
+
 "cipria": [
   {"id":11226,"text":["powder"]}
-],
+ ],
+
 "cipriota": [
   {"id":3757,"text":["Cypriot"]}
-],
+ ],
+
 "Cipro": [
   {"id":3758,"text":["Cyprus"]}
-],
+ ],
+
 "circa": [
   {"id":989,"text":["around"]},
   {"id":2670,"text":["circa"]}
-],
+ ],
+
 "circo": [
   {"id":2686,"text":["circus"]}
-],
+ ],
+
 "circocentro": [
   {"id":2679,"text":["circumcentre"]}
-],
+ ],
+
 "circolare": [
   {"id":2676,"text":["circular"]},
   {"id":2677,"text":["circulate"]}
-],
+ ],
+
 "circolazione": [
   {"id":2678,"text":["circulation"]},
   {"id":11955,"text":["recirculation"]}
-],
+ ],
+
 "circolo": [
   {"id":2673,"text":["circle"]},
   {"id":12502,"text":["ring"]}
-],
+ ],
+
 "circoncisione": [
   {"id":2680,"text":["circumcision"]}
-],
+ ],
+
 "circondare": [
   {"id":14232,"text":["surround"]},
   {"id":16051,"text":["zone"]}
-],
+ ],
+
 "circonferenza": [
   {"id":2681,"text":["circumference"]}
-],
+ ],
+
 "circoscrivere": [
   {"id":2683,"text":["circumscribe"]}
-],
+ ],
+
 "circoscrizione": [
   {"id":4522,"text":["district"]}
-],
+ ],
+
 "circospezione": [
   {"id":2684,"text":["circumspection"]}
-],
+ ],
+
 "circostante": [
   {"id":14233,"text":["surrounding"]}
-],
+ ],
+
 "circostanza": [
   {"id":2685,"text":["circumstance"]}
-],
+ ],
+
 "circuito": [
   {"id":2675,"text":["circuit"]}
-],
+ ],
+
 "circumnavigazione": [
   {"id":2682,"text":["circumnavigation"]}
-],
+ ],
+
 "cirillico": [
   {"id":3759,"text":["cyrillic"]}
-],
+ ],
+
 "ciste": [
   {"id":3760,"text":["cyst"]}
-],
+ ],
+
 "cisteina": [
   {"id":3762,"text":["cysteine"]}
-],
+ ],
+
 "cisterna": [
   {"id":2687,"text":["cistern"]}
-],
+ ],
+
 "cisti": [
   {"id":3761,"text":["cyst"]}
-],
+ ],
+
 "cistoscopia": [
   {"id":3763,"text":["cystoscopy"]}
-],
+ ],
+
 "citare": [
   {"id":2690,"text":["cite"]},
   {"id":11785,"text":["quote"]}
-],
+ ],
+
 "citazione": [
   {"id":2689,"text":["citation"]},
   {"id":11786,"text":["quote"]}
-],
+ ],
+
 "citologia": [
   {"id":3765,"text":["cytology"]}
-],
+ ],
+
 "citologico": [
   {"id":3764,"text":["cytological"]}
-],
+ ],
+
 "citoplasma": [
   {"id":3766,"text":["cytoplasm"]}
-],
+ ],
+
 "citoplasmatico": [
   {"id":3767,"text":["cytoplasmic"]}
-],
+ ],
+
 "citoscheletro": [
   {"id":3769,"text":["cytoskeleton"]}
-],
+ ],
+
 "citosina": [
   {"id":3768,"text":["cytosine"]}
-],
+ ],
+
 "citostoma": [
   {"id":3770,"text":["cytostome"]}
-],
+ ],
+
 "citrico": [
   {"id":2693,"text":["citric"]},
   {"id":2695,"text":["citrus"]}
-],
+ ],
+
 "cittadella": [
   {"id":2688,"text":["citadel"]}
-],
+ ],
+
 "cittadinanza": [
   {"id":2692,"text":["citizenship"]}
-],
+ ],
+
 "cittadino": [
   {"id":2691,"text":["citizen"]}
-],
+ ],
+
 "ciuccio": [
   {"id":1669,"text":["binky"]}
-],
+ ],
+
 "civico": [
   {"id":2698,"text":["civic"]}
-],
+ ],
+
 "civile": [
   {"id":2699,"text":["civil"]},
   {"id":2700,"text":["civilian"]}
-],
+ ],
+
 "civilizzare": [
   {"id":2701,"text":["civilise"]}
-],
+ ],
+
 "ciò": [
   {"id":14561,"text":["that"]},
   {"id":14662,"text":["this"]}
-],
+ ],
+
 "clacson": [
   {"id":7124,"text":["horn"]},
   {"id":8247,"text":["klaxon"]}
-],
+ ],
+
 "cladismo": [
   {"id":2703,"text":["cladism"]}
-],
+ ],
+
 "cladogramma": [
   {"id":2704,"text":["cladogram"]}
-],
+ ],
+
 "clamore": [
   {"id":2711,"text":["clamour"]}
-],
+ ],
+
 "clan": [
   {"id":2712,"text":["clan"]}
-],
+ ],
+
 "clandestinamente": [
   {"id":2714,"text":["clandestinely"]}
-],
+ ],
+
 "clandestino": [
   {"id":2713,"text":["clandestine"]}
-],
+ ],
+
 "clarinetto": [
   {"id":2719,"text":["clarinet"]}
-],
+ ],
+
 "classe": [
   {"id":2722,"text":["class"]},
   {"id":13580,"text":["sort"]}
-],
+ ],
+
 "classicismo": [
   {"id":2725,"text":["classicism"]}
-],
+ ],
+
 "classico": [
   {"id":2723,"text":["classic"]},
   {"id":2724,"text":["classical"]}
-],
+ ],
+
 "classificare": [
   {"id":2727,"text":["classify"]}
-],
+ ],
+
 "classificazione": [
   {"id":2726,"text":["classification"]}
-],
+ ],
+
 "clausola": [
   {"id":2729,"text":["clause"]}
-],
+ ],
+
 "claustrofobia": [
   {"id":2730,"text":["claustrophobia"]}
-],
+ ],
+
 "clausura": [
   {"id":12892,"text":["seclusion"]}
-],
+ ],
+
 "clava": [
   {"id":2803,"text":["club"]}
-],
+ ],
+
 "clavicola": [
   {"id":2732,"text":["clavicle"]}
-],
+ ],
+
 "clavicordo": [
   {"id":2731,"text":["clavichord"]}
-],
+ ],
+
 "clemente": [
   {"id":2746,"text":["clement"]}
-],
+ ],
+
 "clemenza": [
   {"id":2745,"text":["clemency"]}
-],
+ ],
+
 "clericale": [
   {"id":2750,"text":["clerical"]}
-],
+ ],
+
 "clericalismo": [
   {"id":2751,"text":["clericalism"]}
-],
+ ],
+
 "clero": [
   {"id":2747,"text":["clergy"]}
-],
+ ],
+
 "cliccare": [
   {"id":2755,"text":["click"]}
-],
+ ],
+
 "cliente": [
   {"id":2756,"text":["client"]},
   {"id":3734,"text":["customer"]}
-],
+ ],
+
 "clientela": [
   {"id":2757,"text":["clientele"]}
-],
+ ],
+
 "clima": [
   {"id":2760,"text":["climate"]}
-],
+ ],
+
 "climatico": [
   {"id":2761,"text":["climatic"]}
-],
+ ],
+
 "climatologia": [
   {"id":2763,"text":["climatology"]}
-],
+ ],
+
 "climatologico": [
   {"id":2762,"text":["climatological"]}
-],
+ ],
+
 "climax": [
   {"id":2764,"text":["climax"]}
-],
+ ],
+
 "clinica": [
   {"id":2769,"text":["clinic"]}
-],
+ ],
+
 "clinico": [
   {"id":2770,"text":["clinical"]}
-],
+ ],
+
 "clipper": [
   {"id":2775,"text":["clipper"]}
-],
+ ],
+
 "clitoridectomia": [
   {"id":2776,"text":["clitoridectomy"]}
-],
+ ],
+
 "clonare": [
   {"id":2780,"text":["clone"]}
-],
+ ],
+
 "clonazione": [
   {"id":2782,"text":["cloning"]}
-],
+ ],
+
 "clone": [
   {"id":2781,"text":["clone"]}
-],
+ ],
+
 "clorazione": [
   {"id":2602,"text":["chlorination"]}
-],
+ ],
+
 "clorito": [
   {"id":2604,"text":["chlorite"]}
-],
+ ],
+
 "cloro": [
   {"id":2603,"text":["chlorine"]}
-],
+ ],
+
 "clorofilla": [
   {"id":2606,"text":["chlorophyl"]}
-],
+ ],
+
 "cloroformio": [
   {"id":2605,"text":["chloroform"]}
-],
+ ],
+
 "cloruro": [
   {"id":2601,"text":["chloride"]}
-],
+ ],
+
 "cloudcomputing": [
   {"id":2797,"text":["cloudcomputing"]}
-],
+ ],
+
 "club": [
   {"id":2804,"text":["club"]}
-],
+ ],
+
 "coabitazione": [
   {"id":2856,"text":["cohabitation"]}
-],
+ ],
+
 "coagulazione": [
   {"id":2815,"text":["coagulation"]}
-],
+ ],
+
 "coalizione": [
   {"id":2817,"text":["coalition"]}
-],
+ ],
+
 "coassiale": [
   {"id":2828,"text":["coaxial"]}
-],
+ ],
+
 "coattivo": [
   {"id":2848,"text":["coercive"]}
-],
+ ],
+
 "cobalto": [
   {"id":2829,"text":["cobalt"]}
-],
+ ],
+
 "cocaina": [
   {"id":2832,"text":["cocaine"]}
-],
+ ],
+
 "coccinella": [
   {"id":8291,"text":["ladybug"]}
-],
+ ],
+
 "coccodrillo": [
   {"id":3628,"text":["crocodile"]}
-],
+ ],
+
 "cocktail": [
   {"id":2836,"text":["cocktail"]}
-],
+ ],
+
 "coclea": [
   {"id":2833,"text":["cochlea"]}
-],
+ ],
+
 "cocleare": [
   {"id":2834,"text":["cochlear"]}
-],
+ ],
+
 "coda": [
   {"id":14368,"text":["tail"]}
-],
+ ],
+
 "codardia": [
   {"id":3567,"text":["cowardice"]}
-],
+ ],
+
 "codardo": [
   {"id":3566,"text":["coward"]}
-],
+ ],
+
 "codesti": [
   {"id":14625,"text":["these"]}
-],
+ ],
+
 "codesto": [
   {"id":14663,"text":["this"]}
-],
+ ],
+
 "codice": [
   {"id":2840,"text":["code"]},
   {"id":2841,"text":["codex"]}
-],
+ ],
+
 "codiceabarre": [
   {"id":1434,"text":["barcode"]}
-],
+ ],
+
 "codificare": [
   {"id":5061,"text":["encode"]}
-],
+ ],
+
 "codificazione": [
   {"id":2842,"text":["codification"]},
   {"id":2843,"text":["coding"]},
   {"id":5062,"text":["encoding"]}
-],
+ ],
+
 "coedizione": [
   {"id":2844,"text":["coedition"]}
-],
+ ],
+
 "coeducazione": [
   {"id":2845,"text":["coeducation"]}
-],
+ ],
+
 "coefficiente": [
   {"id":2846,"text":["coefficient"]}
-],
+ ],
+
 "coercizione": [
   {"id":2847,"text":["coercion"]}
-],
+ ],
+
 "coerente": [
   {"id":2859,"text":["coherent"]}
-],
+ ],
+
 "coerentemente": [
   {"id":2860,"text":["coherently"]}
-],
+ ],
+
 "coerenza": [
   {"id":2858,"text":["coherence"]}
-],
+ ],
+
 "coesione": [
   {"id":2861,"text":["cohesion"]}
-],
+ ],
+
 "coesistenza": [
   {"id":2849,"text":["coexistence"]}
-],
+ ],
+
 "cogenerazione": [
   {"id":2852,"text":["cogeneration"]}
-],
+ ],
+
 "cognac": [
   {"id":2853,"text":["cognac"]}
-],
+ ],
+
 "cognitivo": [
   {"id":2855,"text":["cognitive"]}
-],
+ ],
+
 "cognizione": [
   {"id":2854,"text":["cognition"]}
-],
+ ],
+
 "cognome": [
   {"id":14223,"text":["surname"]}
-],
+ ],
+
 "coguaro": [
   {"id":3512,"text":["cougar"]}
-],
+ ],
+
 "coincidenza": [
   {"id":2868,"text":["coincidence"]}
-],
+ ],
+
 "coincidere": [
   {"id":2867,"text":["coincide"]}
-],
+ ],
+
 "coinvolgere": [
   {"id":8004,"text":["involve"]}
-],
+ ],
+
 "coinvolgimento": [
   {"id":8005,"text":["involvement"]}
-],
+ ],
+
 "colare": [
   {"id":4636,"text":["drain"]},
   {"id":4667,"text":["drip"]},
   {"id":8383,"text":["leak"]}
-],
+ ],
+
 "colazione": [
   {"id":1951,"text":["breakfast"]}
-],
+ ],
+
 "colchico": [
   {"id":2870,"text":["colchicum"]}
-],
+ ],
+
 "colchicum": [
   {"id":2871,"text":["colchicum"]}
-],
+ ],
+
 "colera": [
   {"id":2612,"text":["cholera"]}
-],
+ ],
+
 "colesterolo": [
   {"id":2613,"text":["cholesterol"]}
-],
+ ],
+
 "colica": [
   {"id":2876,"text":["colic"]}
-],
+ ],
+
 "colina": [
   {"id":2614,"text":["choline"]}
-],
+ ],
+
 "colla": [
   {"id":6514,"text":["glue"]}
-],
+ ],
+
 "collaborare": [
   {"id":2877,"text":["collaborate"]}
-],
+ ],
+
 "collaboratore": [
   {"id":2879,"text":["collaborator"]}
-],
+ ],
+
 "collaborazione": [
   {"id":2878,"text":["collaboration"]}
-],
+ ],
+
 "collage": [
   {"id":2880,"text":["collage"]}
-],
+ ],
+
 "collana": [
   {"id":9662,"text":["necklace"]}
-],
+ ],
+
 "collassare": [
   {"id":2881,"text":["collapse"]}
-],
+ ],
+
 "collasso": [
   {"id":2882,"text":["collapse"]}
-],
+ ],
+
 "collaterale": [
   {"id":2887,"text":["collateral"]}
-],
+ ],
+
 "collazionare": [
   {"id":2886,"text":["collate"]}
-],
+ ],
+
 "collega": [
   {"id":1109,"text":["associate"]},
   {"id":2888,"text":["colleague"]}
-],
+ ],
+
 "collegamento": [
   {"id":8482,"text":["liaison"]},
   {"id":8560,"text":["link"]}
-],
+ ],
+
 "collegare": [
   {"id":8561,"text":["link"]}
-],
+ ],
+
 "collegiale": [
   {"id":2902,"text":["collegiate"]}
-],
+ ],
+
 "collera": [
   {"id":11825,"text":["rage"]}
-],
+ ],
+
 "collettivamente": [
   {"id":2896,"text":["collectively"]}
-],
+ ],
+
 "collettivismo": [
   {"id":2898,"text":["collectivism"]}
-],
+ ],
+
 "collettivizzazione": [
   {"id":2897,"text":["collectivisation"]}
-],
+ ],
+
 "collettivo": [
   {"id":2895,"text":["collective"]}
-],
+ ],
+
 "collezionare": [
   {"id":2889,"text":["collect"]}
-],
+ ],
+
 "collezione": [
   {"id":2892,"text":["collection"]}
-],
+ ],
+
 "collezionista": [
   {"id":2899,"text":["collector"]}
-],
+ ],
+
 "collina": [
   {"id":7012,"text":["hill"]}
-],
+ ],
+
 "collirio": [
   {"id":2910,"text":["collyrium"]},
   {"id":5579,"text":["eyedrop"]}
-],
+ ],
+
 "collisione": [
   {"id":2903,"text":["collision"]}
-],
+ ],
+
 "collo": [
   {"id":9661,"text":["neck"]}
-],
+ ],
+
 "collocare": [
   {"id":4468,"text":["dispose"]},
   {"id":11176,"text":["position"]}
-],
+ ],
+
 "collocazione": [
   {"id":2904,"text":["collocation"]},
   {"id":10942,"text":["placement"]}
-],
+ ],
+
 "colloide": [
   {"id":2905,"text":["colloid"]}
-],
+ ],
+
 "colloquiale": [
   {"id":2906,"text":["colloquial"]}
-],
+ ],
+
 "colloquio": [
   {"id":2907,"text":["colloquium"]}
-],
+ ],
+
 "collotipia": [
   {"id":2908,"text":["collotype"]}
-],
+ ],
+
 "colluttazione": [
   {"id":12869,"text":["scuffle"]}
-],
+ ],
+
 "colluviale": [
   {"id":2909,"text":["colluvial"]}
-],
+ ],
+
 "colmare": [
   {"id":5827,"text":["fill"]}
-],
+ ],
+
 "colofonia": [
   {"id":2923,"text":["colophony"]}
-],
+ ],
+
 "colomba": [
   {"id":4618,"text":["dove"]}
-],
+ ],
+
 "colombiano": [
   {"id":2911,"text":["Colombian"]}
-],
+ ],
+
 "colon": [
   {"id":2912,"text":["colon"]}
-],
+ ],
+
 "colonia": [
   {"id":2922,"text":["colony"]}
-],
+ ],
+
 "coloniale": [
   {"id":2914,"text":["colonial"]}
-],
+ ],
+
 "colonialismo": [
   {"id":2915,"text":["colonialism"]}
-],
+ ],
+
 "colonialista": [
   {"id":2916,"text":["colonialist"]}
-],
+ ],
+
 "colonizzabile": [
   {"id":2920,"text":["colonizable"]}
-],
+ ],
+
 "colonizzare": [
   {"id":2918,"text":["colonise"]}
-],
+ ],
+
 "colonizzazione": [
   {"id":2917,"text":["colonisation"]}
-],
+ ],
+
 "colonna": [
   {"id":2937,"text":["column"]}
-],
+ ],
+
 "colonnare": [
   {"id":2938,"text":["columnar"]}
-],
+ ],
+
 "colonnato": [
   {"id":2921,"text":["colonnade"]}
-],
+ ],
+
 "colonnello": [
   {"id":2913,"text":["colonel"]}
-],
+ ],
+
 "colono": [
   {"id":2919,"text":["colonist"]}
-],
+ ],
+
 "colorante": [
   {"id":2935,"text":["colourant"]}
-],
+ ],
+
 "colorare": [
   {"id":2924,"text":["color"]},
   {"id":2933,"text":["colour"]}
-],
+ ],
+
 "colorazione": [
   {"id":2929,"text":["colorisation"]},
   {"id":2936,"text":["colourisation"]}
-],
+ ],
+
 "colore": [
   {"id":2925,"text":["color"]},
   {"id":2934,"text":["colour"]}
-],
+ ],
+
 "colorimetria": [
   {"id":2928,"text":["colorimetry"]}
-],
+ ],
+
 "colorimetrico": [
   {"id":2927,"text":["colorimetric"]}
-],
+ ],
+
 "colorimetro": [
   {"id":2926,"text":["colorimeter"]}
-],
+ ],
+
 "coloro": [
   {"id":14678,"text":["those"]}
-],
+ ],
+
 "colossale": [
   {"id":2930,"text":["colossal"]}
-],
+ ],
+
 "colosso": [
   {"id":2931,"text":["colossus"]}
-],
+ ],
+
 "colostro": [
   {"id":2932,"text":["colostrum"]}
-],
+ ],
+
 "colpa": [
   {"id":1746,"text":["blame"]},
   {"id":5681,"text":["fault"]}
-],
+ ],
+
 "colpevole": [
   {"id":3685,"text":["culprit"]},
   {"id":6701,"text":["guilty"]}
-],
+ ],
+
 "colpire": [
   {"id":1402,"text":["bang"]},
   {"id":11221,"text":["pound"]},
   {"id":13973,"text":["strike"]}
-],
+ ],
+
 "colpito": [
   {"id":7040,"text":["hit"]},
   {"id":14001,"text":["struck"]}
-],
+ ],
+
 "colpo": [
   {"id":1403,"text":["bang"]},
   {"id":1794,"text":["blow"]},
@@ -2484,1048 +3254,1362 @@
   {"id":13200,"text":["shot"]},
   {"id":13974,"text":["strike"]},
   {"id":13991,"text":["stroke"]}
-],
+ ],
+
 "coltello": [
   {"id":8251,"text":["knife"]}
-],
+ ],
+
 "coltivabile": [
   {"id":908,"text":["arable"]}
-],
+ ],
+
 "coltivare": [
   {"id":3687,"text":["cultivate"]},
   {"id":5654,"text":["farm"]},
   {"id":6679,"text":["grow"]}
-],
+ ],
+
 "coltivazione": [
   {"id":3688,"text":["cultivation"]}
-],
+ ],
+
 "colto": [
   {"id":8593,"text":["literate"]}
-],
+ ],
+
 "colza": [
   {"id":11857,"text":["rapeseed"]}
-],
+ ],
+
 "comandante": [
   {"id":2967,"text":["commander"]}
-],
+ ],
+
 "comandare": [
   {"id":2965,"text":["command"]},
   {"id":12616,"text":["rule"]}
-],
+ ],
+
 "comando": [
   {"id":2966,"text":["command"]}
-],
+ ],
+
 "combattente": [
   {"id":214,"text":["activist"]},
   {"id":5816,"text":["fighter"]}
-],
+ ],
+
 "combattere": [
   {"id":1495,"text":["battle"]},
   {"id":2942,"text":["combat"]},
   {"id":5811,"text":["fight"]},
   {"id":14009,"text":["struggle"]}
-],
+ ],
+
 "combattimento": [
   {"id":5812,"text":["fight"]}
-],
+ ],
+
 "combinabile": [
   {"id":2944,"text":["combinable"]}
-],
+ ],
+
 "combinaguai": [
   {"id":15059,"text":["troublemaker"]}
-],
+ ],
+
 "combinare": [
   {"id":2948,"text":["combine"]}
-],
+ ],
+
 "combinatoria": [
   {"id":2946,"text":["combinatorics"]}
-],
+ ],
+
 "combinatorio": [
   {"id":2947,"text":["combinatory"]}
-],
+ ],
+
 "combinazione": [
   {"id":2945,"text":["combination"]}
-],
+ ],
+
 "combustibile": [
   {"id":6230,"text":["fuel"]}
-],
+ ],
+
 "combustione": [
   {"id":2949,"text":["combustion"]}
-],
+ ],
+
 "come": [
   {"id":1040,"text":["as"]},
   {"id":7153,"text":["how"]},
   {"id":8530,"text":["like"]},
   {"id":14121,"text":["suchas"]}
-],
+ ],
+
 "come se": [
   {"id":1043,"text":["as if"]}
-],
+ ],
+
 "comedone": [
   {"id":1734,"text":["blackhead"]}
-],
+ ],
+
 "comico": [
   {"id":2962,"text":["comic"]}
-],
+ ],
+
 "cominciare": [
   {"id":2970,"text":["commence"]}
-],
+ ],
+
 "comitato": [
   {"id":2992,"text":["committee"]}
-],
+ ],
+
 "commando": [
   {"id":2968,"text":["commando"]}
-],
+ ],
+
 "commedia": [
   {"id":2953,"text":["comedy"]}
-],
+ ],
+
 "commemorativo": [
   {"id":9068,"text":["memorial"]}
-],
+ ],
+
 "commemorazione": [
   {"id":2969,"text":["commemoration"]}
-],
+ ],
+
 "commensale": [
   {"id":2971,"text":["commensal"]}
-],
+ ],
+
 "commentare": [
   {"id":2972,"text":["comment"]}
-],
+ ],
+
 "commentario": [
   {"id":2974,"text":["commentary"]}
-],
+ ],
+
 "commentatore": [
   {"id":2975,"text":["commentator"]}
-],
+ ],
+
 "commento": [
   {"id":2973,"text":["comment"]}
-],
+ ],
+
 "commerciale": [
   {"id":2978,"text":["commercial"]}
-],
+ ],
+
 "commercializzare": [
   {"id":2980,"text":["commercialise"]},
   {"id":2983,"text":["commercialize"]}
-],
+ ],
+
 "commercializzazione": [
   {"id":2979,"text":["commercialisation"]},
   {"id":2982,"text":["commercialization"]}
-],
+ ],
+
 "commercialmente": [
   {"id":2984,"text":["commercially"]}
-],
+ ],
+
 "commerciante": [
   {"id":3829,"text":["dealer"]},
   {"id":14886,"text":["trader"]}
-],
+ ],
+
 "commercio": [
   {"id":2976,"text":["commerce"]},
   {"id":14881,"text":["trade"]},
   {"id":14887,"text":["trading"]}
-],
+ ],
+
 "commesso": [
   {"id":13186,"text":["shop assistant"]}
-],
+ ],
+
 "commestibile": [
   {"id":4825,"text":["edible"]}
-],
+ ],
+
 "commettere": [
   {"id":2989,"text":["commit"]}
-],
+ ],
+
 "commissariato": [
   {"id":2985,"text":["commissariat"]}
-],
+ ],
+
 "commissario": [
   {"id":2988,"text":["commissioner"]}
-],
+ ],
+
 "commissionare": [
   {"id":2986,"text":["commission"]}
-],
+ ],
+
 "commissione": [
   {"id":2987,"text":["commission"]}
-],
+ ],
+
 "committente": [
   {"id":2108,"text":["buyer"]}
-],
+ ],
+
 "commovente": [
   {"id":11053,"text":["poignant"]}
-],
+ ],
+
 "commozione": [
   {"id":5010,"text":["emotion"]}
-],
+ ],
+
 "commozione celebrale": [
   {"id":3131,"text":["concussion"]}
-],
+ ],
+
 "commutare": [
   {"id":3008,"text":["commutate"]},
   {"id":3009,"text":["commute"]}
-],
+ ],
+
 "commutazione": [
   {"id":14290,"text":["switching"]}
-],
+ ],
+
 "comodamente": [
   {"id":2961,"text":["comfortably"]}
-],
+ ],
+
 "comodo": [
   {"id":2959,"text":["comfortable"]}
-],
+ ],
+
 "compaginare": [
   {"id":10352,"text":["paginate"]}
-],
+ ],
+
 "compagnia": [
   {"id":3014,"text":["company"]}
-],
+ ],
+
 "compagniaaerea": [
   {"id":431,"text":["airline"]}
-],
+ ],
+
 "compagno": [
   {"id":3012,"text":["companion"]},
   {"id":8955,"text":["mate"]},
   {"id":10512,"text":["partner"]}
-],
+ ],
+
 "comparabile": [
   {"id":3016,"text":["comparable"]}
-],
+ ],
+
 "comparativamente": [
   {"id":3018,"text":["comparatively"]}
-],
+ ],
+
 "comparativo": [
   {"id":3017,"text":["comparative"]}
-],
+ ],
+
 "comparatore": [
   {"id":3019,"text":["comparator"]}
-],
+ ],
+
 "comparazione": [
   {"id":3021,"text":["comparison"]}
-],
+ ],
+
 "compartecipazione": [
   {"id":3427,"text":["copartnership"]}
-],
+ ],
+
 "compassione": [
   {"id":3026,"text":["compassion"]},
   {"id":10931,"text":["pity"]},
   {"id":14311,"text":["sympathy"]}
-],
+ ],
+
 "compasso": [
   {"id":3025,"text":["compass"]}
-],
+ ],
+
 "compatibile": [
   {"id":3027,"text":["compatible"]}
-],
+ ],
+
 "compatire": [
   {"id":10932,"text":["pity"]}
-],
+ ],
+
 "compattare": [
   {"id":3010,"text":["compact"]}
-],
+ ],
+
 "compatto": [
   {"id":3011,"text":["compact"]}
-],
+ ],
+
 "compendio": [
   {"id":3030,"text":["compendium"]}
-],
+ ],
+
 "compensare": [
   {"id":3031,"text":["compensate"]}
-],
+ ],
+
 "compensato": [
   {"id":11039,"text":["plywood"]}
-],
+ ],
+
 "compensatore": [
   {"id":3033,"text":["compensator"]}
-],
+ ],
+
 "compensatorio": [
   {"id":3034,"text":["compensatory"]}
-],
+ ],
+
 "compensazione": [
   {"id":3032,"text":["compensation"]}
-],
+ ],
+
 "competente": [
   {"id":3036,"text":["competent"]}
-],
+ ],
+
 "competenza": [
   {"id":3037,"text":["competition"]}
-],
+ ],
+
 "competere": [
   {"id":3035,"text":["compete"]}
-],
+ ],
+
 "competitivo": [
   {"id":3040,"text":["competitive"]}
-],
+ ],
+
 "competizione": [
   {"id":3038,"text":["competition"]}
-],
+ ],
+
 "compiacere": [
   {"id":10998,"text":["please"]}
-],
+ ],
+
 "compiere": [
   {"id":140,"text":["accomplish"]},
   {"id":6234,"text":["fulfil"]}
-],
+ ],
+
 "compilatore": [
   {"id":3043,"text":["compiler"]}
-],
+ ],
+
 "compilazione": [
   {"id":3042,"text":["compilation"]}
-],
+ ],
+
 "compimento": [
   {"id":6237,"text":["fulfillment"]}
-],
+ ],
+
 "compiutamente": [
   {"id":3054,"text":["completely"]}
-],
+ ],
+
 "compleanno": [
   {"id":1709,"text":["birthday"]}
-],
+ ],
+
 "complementare": [
   {"id":3048,"text":["complement"]},
   {"id":3050,"text":["complementary"]}
-],
+ ],
+
 "complementazione": [
   {"id":3051,"text":["complementation"]}
-],
+ ],
+
 "complemento": [
   {"id":3049,"text":["complement"]}
-],
+ ],
+
 "complesso": [
   {"id":3057,"text":["complex"]}
-],
+ ],
+
 "completamente": [
   {"id":3055,"text":["completely"]},
   {"id":5922,"text":["flatly"]},
   {"id":12590,"text":["roundly"]},
   {"id":14677,"text":["thoroughly"]},
   {"id":15880,"text":["wholly"]}
-],
+ ],
+
 "completamento": [
   {"id":3056,"text":["completion"]}
-],
+ ],
+
 "completare": [
   {"id":3052,"text":["complete"]}
-],
+ ],
+
 "completo": [
   {"id":3053,"text":["complete"]}
-],
+ ],
+
 "complicare": [
   {"id":3059,"text":["complicate"]}
-],
+ ],
+
 "complicazione": [
   {"id":3060,"text":["complication"]}
-],
+ ],
+
 "complice": [
   {"id":139,"text":["accomplice"]}
-],
+ ],
+
 "componente": [
   {"id":3061,"text":["component"]}
-],
+ ],
+
 "comporre": [
   {"id":3063,"text":["compose"]}
-],
+ ],
+
 "comportamentale": [
   {"id":1557,"text":["behavioral"]},
   {"id":1560,"text":["behavioural"]}
-],
+ ],
+
 "comportamentismo": [
   {"id":1558,"text":["behaviorism"]},
   {"id":1561,"text":["behaviourism"]}
-],
+ ],
+
 "comportamento": [
   {"id":1556,"text":["behavior"]},
   {"id":1559,"text":["behaviour"]}
-],
+ ],
+
 "comportare": [
   {"id":3062,"text":["comport"]}
-],
+ ],
+
 "comportarsi": [
   {"id":1555,"text":["behave"]}
-],
+ ],
+
 "compositore": [
   {"id":3064,"text":["composer"]},
   {"id":13567,"text":["songwriter"]}
-],
+ ],
+
 "composizione": [
   {"id":995,"text":["arrangement"]},
   {"id":3065,"text":["composition"]}
-],
+ ],
+
 "composta": [
   {"id":3067,"text":["compote"]}
-],
+ ],
+
 "compostaggio": [
   {"id":3066,"text":["composting"]}
-],
+ ],
+
 "composto": [
   {"id":3068,"text":["compound"]}
-],
+ ],
+
 "comprare": [
   {"id":2106,"text":["buy"]}
-],
+ ],
+
 "compratore": [
   {"id":2109,"text":["buyer"]},
   {"id":11687,"text":["purchaser"]}
-],
+ ],
+
 "comprendere": [
   {"id":3069,"text":["comprehend"]},
   {"id":3077,"text":["comprise"]},
   {"id":15248,"text":["understand"]}
-],
+ ],
+
 "comprensibile": [
   {"id":3070,"text":["comprehensible"]},
   {"id":3072,"text":["comprehensive"]},
   {"id":7834,"text":["intelligible"]}
-],
+ ],
+
 "comprensione": [
   {"id":3071,"text":["comprehension"]},
   {"id":15249,"text":["understanding"]}
-],
+ ],
+
 "compressa": [
   {"id":3073,"text":["compress"]}
-],
+ ],
+
 "compressione": [
   {"id":3075,"text":["compression"]}
-],
+ ],
+
 "compressore": [
   {"id":3076,"text":["compressor"]}
-],
+ ],
+
 "comprimere": [
   {"id":3074,"text":["compress"]},
   {"id":13757,"text":["squeeze"]}
-],
+ ],
+
 "compromesso": [
   {"id":2990,"text":["commitment"]}
-],
+ ],
+
 "compulsivo": [
   {"id":3078,"text":["compulsive"]}
-],
+ ],
+
 "computare": [
   {"id":2153,"text":["calculate"]},
   {"id":3086,"text":["compute"]}
-],
+ ],
+
 "computazionale": [
   {"id":3083,"text":["computational"]}
-],
+ ],
+
 "computazionalmente": [
   {"id":3084,"text":["computationally"]}
-],
+ ],
+
 "computazione": [
   {"id":3082,"text":["computation"]}
-],
+ ],
+
 "computer": [
   {"id":3087,"text":["computer"]}
-],
+ ],
+
 "comunale": [
   {"id":3000,"text":["communal"]}
-],
+ ],
+
 "comune": [
   {"id":2697,"text":["citycouncil"]},
   {"id":2997,"text":["common"]}
-],
+ ],
+
 "comunemente": [
   {"id":2999,"text":["commonly"]}
-],
+ ],
+
 "comunicare": [
   {"id":3001,"text":["communicate"]}
-],
+ ],
+
 "comunicativo": [
   {"id":3003,"text":["communicative"]}
-],
+ ],
+
 "comunicatore": [
   {"id":3004,"text":["communicator"]}
-],
+ ],
+
 "comunicazione": [
   {"id":3002,"text":["communication"]}
-],
+ ],
+
 "comunione": [
   {"id":3005,"text":["communion"]}
-],
+ ],
+
 "comunismo": [
   {"id":3006,"text":["communism"]}
-],
+ ],
+
 "comunista": [
   {"id":3007,"text":["communist"]}
-],
+ ],
+
 "con": [
   {"id":2111,"text":["by"]},
   {"id":15929,"text":["with"]}
-],
+ ],
+
 "con successo": [
   {"id":14113,"text":["successfully"]}
-],
+ ],
+
 "conca": [
   {"id":1469,"text":["basin"]}
-],
+ ],
+
 "concatenare": [
   {"id":3092,"text":["concatenate"]}
-],
+ ],
+
 "concatenazione": [
   {"id":3093,"text":["concatenation"]}
-],
+ ],
+
 "concavo": [
   {"id":3094,"text":["concave"]}
-],
+ ],
+
 "concedere": [
   {"id":3098,"text":["concede"]},
   {"id":6594,"text":["grant"]}
-],
+ ],
+
 "concentrazione": [
   {"id":3101,"text":["concentration"]}
-],
+ ],
+
 "concentrico": [
   {"id":3102,"text":["concentric"]}
-],
+ ],
+
 "concepibile": [
   {"id":3099,"text":["conceivable"]}
-],
+ ],
+
 "concepire": [
   {"id":3100,"text":["conceive"]},
   {"id":4223,"text":["devise"]}
-],
+ ],
+
 "concertare": [
   {"id":992,"text":["arrange"]}
-],
+ ],
+
 "concertazione": [
   {"id":3111,"text":["concertation"]}
-],
+ ],
+
 "concerto": [
   {"id":3110,"text":["concert"]},
   {"id":3112,"text":["concerto"]}
-],
+ ],
+
 "concessione": [
   {"id":3113,"text":["concession"]}
-],
+ ],
+
 "concetto": [
   {"id":3103,"text":["concept"]}
-],
+ ],
+
 "concettuale": [
   {"id":3105,"text":["conceptual"]}
-],
+ ],
+
 "concettualista": [
   {"id":3106,"text":["conceptualist"]}
-],
+ ],
+
 "concettualmente": [
   {"id":3107,"text":["conceptually"]}
-],
+ ],
+
 "concezione": [
   {"id":3104,"text":["conception"]}
-],
+ ],
+
 "conchiglia": [
   {"id":12884,"text":["seashell"]},
   {"id":13145,"text":["shell"]}
-],
+ ],
+
 "conciliare": [
   {"id":3116,"text":["conciliate"]}
-],
+ ],
+
 "conciliatore": [
   {"id":3118,"text":["conciliatory"]}
-],
+ ],
+
 "conciliazione": [
   {"id":3117,"text":["conciliation"]}
-],
+ ],
+
 "concimazione": [
   {"id":5749,"text":["fertilisation"]},
   {"id":5756,"text":["fertilization"]}
-],
+ ],
+
 "concime": [
   {"id":5752,"text":["fertiliser"]},
   {"id":5754,"text":["fertilizer"]}
-],
+ ],
+
 "concio": [
   {"id":1058,"text":["ashlar"]}
-],
+ ],
+
 "concistoro": [
   {"id":3250,"text":["consistory"]}
-],
+ ],
+
 "concludere": [
   {"id":3119,"text":["conclude"]}
-],
+ ],
+
 "conclusione": [
   {"id":3120,"text":["conclusion"]}
-],
+ ],
+
 "concomitante": [
   {"id":3121,"text":["concomitant"]}
-],
-"concordare": [
-  {"id":408,"text":["agree"]}
-],
+ ],
+
 "concorde": [
   {"id":3123,"text":["concordant"]}
-],
+ ],
+
 "concordia": [
   {"id":3122,"text":["concord"]}
-],
+ ],
+
 "concorrente": [
   {"id":3041,"text":["competitor"]},
   {"id":3130,"text":["concurrent"]},
   {"id":3319,"text":["contestant"]}
-],
+ ],
+
 "concorrenza": [
   {"id":3039,"text":["competition"]}
-],
+ ],
+
 "concorso": [
   {"id":3317,"text":["contest"]},
   {"id":10149,"text":["opposition"]}
-],
+ ],
+
 "concretamente": [
   {"id":13629,"text":["specifically"]}
-],
+ ],
+
 "concretizzare": [
   {"id":3128,"text":["concretise"]},
   {"id":3129,"text":["concretize"]}
-],
+ ],
+
 "concreto": [
   {"id":3125,"text":["concrete"]}
-],
+ ],
+
 "concrezione": [
   {"id":3127,"text":["concretion"]}
-],
+ ],
+
 "condanna": [
   {"id":3399,"text":["conviction"]}
-],
+ ],
+
 "condannabile": [
   {"id":3133,"text":["condemnable"]}
-],
+ ],
+
 "condannare": [
   {"id":3132,"text":["condemn"]},
   {"id":3398,"text":["convict"]}
-],
+ ],
+
 "condensazione": [
   {"id":3134,"text":["condensation"]}
-],
+ ],
+
 "condilo": [
   {"id":3154,"text":["condyle"]}
-],
+ ],
+
 "condimento": [
   {"id":3135,"text":["condiment"]},
   {"id":4656,"text":["dressing"]}
-],
+ ],
+
 "condividere": [
   {"id":13123,"text":["share"]}
-],
+ ],
+
 "condizionale": [
   {"id":3138,"text":["conditional"]}
-],
+ ],
+
 "condizionamento": [
   {"id":3140,"text":["conditioning"]}
-],
+ ],
+
 "condizionare": [
   {"id":3136,"text":["condition"]}
-],
+ ],
+
 "condizionatamente": [
   {"id":3139,"text":["conditionally"]}
-],
+ ],
+
 "condizione": [
   {"id":3137,"text":["condition"]}
-],
+ ],
+
 "condom": [
   {"id":3141,"text":["condom"]}
-],
+ ],
+
 "condominio": [
   {"id":3143,"text":["condominium"]}
-],
+ ],
+
 "condono": [
   {"id":3144,"text":["condonation"]}
-],
+ ],
+
 "condor": [
   {"id":3145,"text":["condor"]}
-],
+ ],
+
 "condotta": [
   {"id":3146,"text":["conduct"]}
-],
+ ],
+
 "condotto": [
   {"id":10916,"text":["pipe"]},
   {"id":15515,"text":["vent"]}
-],
+ ],
+
 "condrocita": [
   {"id":2615,"text":["chondrocite"]}
-],
+ ],
+
 "conducente": [
   {"id":3151,"text":["conductor"]}
-],
+ ],
+
 "condurre": [
   {"id":3147,"text":["conduct"]},
   {"id":4668,"text":["drive"]}
-],
+ ],
+
 "conduttanza": [
   {"id":3149,"text":["conductance"]}
-],
+ ],
+
 "conduttore": [
   {"id":3152,"text":["conductor"]},
   {"id":4671,"text":["driver"]}
-],
+ ],
+
 "conduzione": [
   {"id":3150,"text":["conduction"]}
-],
+ ],
+
 "confederale": [
   {"id":3158,"text":["confederal"]}
-],
+ ],
+
 "confederazione": [
   {"id":3159,"text":["confederation"]}
-],
+ ],
+
 "conferenza": [
   {"id":3161,"text":["conference"]},
   {"id":8408,"text":["lecture"]}
-],
+ ],
+
 "conferenzastampa": [
   {"id":11353,"text":["pressconference"]}
-],
+ ],
+
 "conferire": [
   {"id":1303,"text":["award"]},
   {"id":3160,"text":["confer"]}
-],
+ ],
+
 "conferma": [
   {"id":3175,"text":["confirmation"]}
-],
+ ],
+
 "confermare": [
   {"id":3174,"text":["confirm"]},
   {"id":5088,"text":["endorse"]}
-],
+ ],
+
 "confermazione": [
   {"id":3176,"text":["confirmation"]}
-],
+ ],
+
 "confessare": [
   {"id":3162,"text":["confess"]}
-],
+ ],
+
 "confessione": [
   {"id":3163,"text":["confession"]}
-],
+ ],
+
 "confetteria": [
   {"id":3157,"text":["confectionery"]}
-],
+ ],
+
 "confezione": [
   {"id":3156,"text":["confection"]},
   {"id":10338,"text":["package"]},
   {"id":10340,"text":["packaging"]}
-],
+ ],
+
 "conficcare": [
   {"id":13871,"text":["stick"]}
-],
+ ],
+
 "confidenza": [
   {"id":3165,"text":["confidence"]}
-],
+ ],
+
 "confidenziale": [
   {"id":3168,"text":["confidential"]}
-],
+ ],
+
 "configurare": [
   {"id":3170,"text":["configure"]}
-],
+ ],
+
 "configurazione": [
   {"id":3169,"text":["configuration"]}
-],
+ ],
+
 "confinamento": [
   {"id":3173,"text":["confinement"]}
-],
+ ],
+
 "confinante": [
   {"id":9681,"text":["neighboring"]},
   {"id":9690,"text":["neighbouring"]}
-],
+ ],
+
 "confinare": [
   {"id":1862,"text":["border"]},
   {"id":3171,"text":["confine"]},
   {"id":9687,"text":["neighbour"]}
-],
+ ],
+
 "confine": [
   {"id":1863,"text":["border"]},
   {"id":1896,"text":["boundary"]}
-],
+ ],
+
 "confiscare": [
   {"id":3177,"text":["confiscate"]},
   {"id":12944,"text":["seize"]}
-],
+ ],
+
 "conflagrazione": [
   {"id":3178,"text":["conflagration"]}
-],
+ ],
+
 "conflitto": [
   {"id":3179,"text":["conflict"]}
-],
+ ],
+
 "conflittuale": [
   {"id":3180,"text":["conflictive"]}
-],
+ ],
+
 "confluente": [
   {"id":3182,"text":["confluent"]}
-],
+ ],
+
 "confluenza": [
   {"id":3181,"text":["confluence"]}
-],
+ ],
+
 "confluire": [
   {"id":3381,"text":["converge"]}
-],
+ ],
+
 "confondere": [
   {"id":3189,"text":["confuse"]}
-],
+ ],
+
 "conformare": [
   {"id":3183,"text":["conform"]}
-],
+ ],
+
 "conformazione": [
   {"id":3185,"text":["conformity"]},
   {"id":6079,"text":["forming"]}
-],
+ ],
+
 "conforme": [
   {"id":3058,"text":["compliant"]}
-],
+ ],
+
 "conformismo": [
   {"id":3184,"text":["conformism"]}
-],
+ ],
+
 "confortare": [
   {"id":2956,"text":["comfort"]},
   {"id":13516,"text":["solace"]}
-],
+ ],
+
 "confortevole": [
   {"id":2960,"text":["comfortable"]}
-],
+ ],
+
 "conforto": [
   {"id":2957,"text":["comfort"]},
   {"id":13517,"text":["solace"]}
-],
+ ],
+
 "confraternita": [
   {"id":3186,"text":["confraternity"]},
   {"id":3187,"text":["confrerie"]}
-],
+ ],
+
 "confrontare": [
   {"id":3020,"text":["compare"]}
-],
+ ],
+
 "confronto": [
   {"id":3022,"text":["comparison"]}
-],
+ ],
+
 "confusione": [
   {"id":3190,"text":["confusion"]}
-],
+ ],
+
 "confuso": [
   {"id":6318,"text":["garbled"]}
-],
+ ],
+
 "confutazione": [
   {"id":12076,"text":["refutation"]}
-],
+ ],
+
 "congedare": [
   {"id":4444,"text":["dismiss"]}
-],
+ ],
+
 "congedo": [
   {"id":8402,"text":["leave"]}
-],
+ ],
+
 "congelamento": [
   {"id":6175,"text":["freeze"]},
   {"id":6179,"text":["freezing"]}
-],
+ ],
+
 "congelare": [
   {"id":6176,"text":["freeze"]}
-],
+ ],
+
 "congenito": [
   {"id":3191,"text":["congenital"]}
-],
+ ],
+
 "congestione": [
   {"id":3192,"text":["congestion"]}
-],
+ ],
+
 "congettura": [
   {"id":3205,"text":["conjecture"]}
-],
+ ],
+
 "congiuntamente": [
   {"id":7448,"text":["in conjunction"]},
   {"id":8151,"text":["jointly"]}
-],
+ ],
+
 "congiuntivite": [
   {"id":3211,"text":["conjunctivitis"]}
-],
+ ],
+
 "congiuntivo": [
   {"id":14056,"text":["subjunctive"]}
-],
+ ],
+
 "congiunto": [
   {"id":3206,"text":["conjoint"]}
-],
+ ],
+
 "congiunzione": [
   {"id":3210,"text":["conjunction"]}
-],
+ ],
+
 "congiura": [
   {"id":11016,"text":["plot"]}
-],
+ ],
+
 "conglomerato": [
   {"id":3193,"text":["conglomerate"]}
-],
+ ],
+
 "congolese": [
   {"id":3194,"text":["congolese"]}
-],
+ ],
+
 "congratulare": [
   {"id":3195,"text":["congratulate"]}
-],
+ ],
+
 "congratularsicon": [
   {"id":3196,"text":["congratulate"]}
-],
+ ],
+
 "congratulazione": [
   {"id":3197,"text":["congratulation"]}
-],
+ ],
+
 "congregare": [
   {"id":3198,"text":["congregate"]},
   {"id":6337,"text":["gather"]}
-],
+ ],
+
 "congregazione": [
   {"id":3199,"text":["congregation"]}
-],
+ ],
+
 "congresso": [
   {"id":3200,"text":["congress"]}
-],
+ ],
+
 "congruente": [
   {"id":3202,"text":["congruent"]}
-],
+ ],
+
 "congruenza": [
   {"id":3201,"text":["congruence"]}
-],
+ ],
+
 "coniare": [
   {"id":2864,"text":["coin"]}
-],
+ ],
+
 "coniazione": [
   {"id":2869,"text":["coining"]}
-],
+ ],
+
 "conico": [
   {"id":3203,"text":["conical"]}
-],
+ ],
+
 "conifera": [
   {"id":3204,"text":["conifer"]}
-],
+ ],
+
 "coniglio": [
   {"id":11788,"text":["rabbit"]}
-],
+ ],
+
 "coniugabile": [
   {"id":3207,"text":["conjugable"]}
-],
+ ],
+
 "coniugale": [
   {"id":3208,"text":["conjugal"]}
-],
+ ],
+
 "coniugazione": [
   {"id":3209,"text":["conjugation"]}
-],
+ ],
+
 "coniuge": [
   {"id":13734,"text":["spouse"]}
-],
+ ],
+
 "connessione": [
   {"id":3213,"text":["connection"]},
   {"id":8562,"text":["link"]},
   {"id":8564,"text":["linkage"]}
-],
+ ],
+
 "connettere": [
   {"id":3212,"text":["connect"]},
   {"id":8563,"text":["link"]}
-],
+ ],
+
 "connettore": [
   {"id":3214,"text":["connector"]}
-],
+ ],
+
 "connotazione": [
   {"id":3215,"text":["connotation"]}
-],
+ ],
+
 "cono": [
   {"id":3155,"text":["cone"]}
-],
+ ],
+
 "conoscenza": [
   {"id":8259,"text":["knowledge"]}
-],
+ ],
+
 "conoscere": [
   {"id":8257,"text":["know"]},
   {"id":9045,"text":["meet"]}
-],
+ ],
+
 "conquista": [
   {"id":3217,"text":["conquest"]}
-],
+ ],
+
 "conquistare": [
   {"id":3216,"text":["conquer"]}
-],
+ ],
+
 "consacrare": [
   {"id":3224,"text":["consecrate"]}
-],
+ ],
+
 "consacrazione": [
   {"id":3225,"text":["consecration"]}
-],
+ ],
+
 "consapevole": [
   {"id":1305,"text":["aware"]},
   {"id":3218,"text":["conscious"]}
-],
+ ],
+
 "consapevolezza": [
   {"id":1306,"text":["awareness"]},
   {"id":3221,"text":["consciousness"]}
-],
+ ],
+
 "consecutivamente": [
   {"id":3227,"text":["consecutively"]}
-],
+ ],
+
 "consecutivo": [
   {"id":3226,"text":["consecutive"]}
-],
+ ],
+
 "consegna": [
   {"id":3992,"text":["delivery"]}
-],
+ ],
+
 "consegnare": [
   {"id":3991,"text":["deliver"]},
   {"id":6771,"text":["hand"]},
   {"id":14063,"text":["submit"]}
-],
+ ],
+
 "conseguente": [
   {"id":3233,"text":["consequent"]}
-],
+ ],
+
 "conseguentemente": [
   {"id":3234,"text":["consequently"]},
   {"id":14603,"text":["therefore"]}
-],
+ ],
+
 "conseguenza": [
   {"id":3232,"text":["consequence"]}
-],
+ ],
+
 "conseguimento": [
   {"id":174,"text":["achievement"]},
   {"id":1192,"text":["attainment"]}
-],
+ ],
+
 "conseguire": [
   {"id":172,"text":["achieve"]},
   {"id":1188,"text":["attain"]}
-],
+ ],
+
 "consenare": [
   {"id":3246,"text":["consign"]}
-],
+ ],
+
 "consenso": [
   {"id":3228,"text":["consensus"]},
   {"id":3229,"text":["consent"]}
-],
+ ],
+
 "consentire": [
   {"id":3230,"text":["consent"]},
   {"id":5032,"text":["empower"]}
-],
+ ],
+
 "conservante": [
   {"id":11346,"text":["preservative"]}
-],
+ ],
+
 "conservare": [
   {"id":3240,"text":["conserve"]}
-],
+ ],
+
 "conservativo": [
   {"id":3237,"text":["conservative"]}
-],
+ ],
+
 "conservatore": [
   {"id":3238,"text":["conservative"]}
-],
+ ],
+
 "conservatorio": [
   {"id":3239,"text":["conservatoire"]}
-],
+ ],
+
 "conservatorismo": [
   {"id":3236,"text":["conservatism"]}
-],
+ ],
+
 "conservazione": [
   {"id":3235,"text":["conservation"]}
-],
+ ],
+
 "considerabile": [
   {"id":3243,"text":["considerable"]}
-],
+ ],
+
 "considerare": [
   {"id":3241,"text":["consider"]},
   {"id":11960,"text":["reckon"]}
-],
+ ],
+
 "considerazione": [
   {"id":3245,"text":["consideration"]}
-],
+ ],
+
 "considerevolmente": [
   {"id":3244,"text":["considerably"]}
-],
+ ],
+
 "consigliabile": [
   {"id":327,"text":["advisable"]},
   {"id":11967,"text":["recommendable"]}
-],
+ ],
+
 "consigliare": [
   {"id":328,"text":["advise"]},
   {"id":3516,"text":["counsel"]},
   {"id":11965,"text":["recommend"]}
-],
+ ],
+
 "consigliere": [
   {"id":329,"text":["adviser"]}
-],
+ ],
+
 "consiglio": [
   {"id":325,"text":["advice"]},
   {"id":1809,"text":["board"]},
@@ -3533,1422 +4617,1860 @@
   {"id":3517,"text":["counsel"]},
   {"id":11968,"text":["recommendation"]},
   {"id":14755,"text":["tip"]}
-],
+ ],
+
 "consistente": [
   {"id":3249,"text":["consistent"]}
-],
+ ],
+
 "consistenza": [
   {"id":3248,"text":["consistency"]}
-],
+ ],
+
 "consistere": [
   {"id":3247,"text":["consist"]}
-],
+ ],
+
 "consolare": [
   {"id":2958,"text":["comfort"]},
   {"id":3284,"text":["consular"]},
   {"id":13518,"text":["solace"]}
-],
+ ],
+
 "consolazione": [
   {"id":3251,"text":["consolation"]},
   {"id":13519,"text":["solace"]}
-],
+ ],
+
 "console": [
   {"id":3283,"text":["consul"]}
-],
+ ],
+
 "consolidamento": [
   {"id":3253,"text":["consolidation"]}
-],
+ ],
+
 "consolidare": [
   {"id":3252,"text":["consolidate"]}
-],
+ ],
+
 "consonante": [
   {"id":3255,"text":["consonant"]}
-],
+ ],
+
 "consonantico": [
   {"id":3256,"text":["consonantal"]}
-],
+ ],
+
 "consonantismo": [
   {"id":3257,"text":["consonantism"]}
-],
+ ],
+
 "consonanza": [
   {"id":3254,"text":["consonance"]}
-],
+ ],
+
 "consorzio": [
   {"id":3258,"text":["consortium"]}
-],
+ ],
+
 "constare": [
   {"id":5707,"text":["feature"]}
-],
+ ],
+
 "constatazione": [
   {"id":5848,"text":["finding"]}
-],
+ ],
+
 "construttivista": [
   {"id":3281,"text":["constructivist"]}
-],
+ ],
+
 "consuetudinario": [
   {"id":3733,"text":["customary"]}
-],
+ ],
+
 "consulente": [
   {"id":3286,"text":["consultant"]}
-],
+ ],
+
 "consulenza": [
   {"id":326,"text":["advice"]},
   {"id":3290,"text":["consulting"]}
-],
+ ],
+
 "consulta": [
   {"id":3287,"text":["consultation"]},
   {"id":11760,"text":["query"]}
-],
+ ],
+
 "consultare": [
   {"id":3285,"text":["consult"]}
-],
+ ],
+
 "consultazione": [
   {"id":3288,"text":["consultation"]}
-],
+ ],
+
 "consultivo": [
   {"id":330,"text":["advisory"]},
   {"id":3289,"text":["consultative"]}
-],
+ ],
+
 "consumare": [
   {"id":3291,"text":["consume"]},
   {"id":3295,"text":["consummate"]},
   {"id":15796,"text":["wear"]}
-],
+ ],
+
 "consumatore": [
   {"id":3292,"text":["consumer"]}
-],
+ ],
+
 "consumismo": [
   {"id":3293,"text":["consumerism"]}
-],
+ ],
+
 "consumista": [
   {"id":3294,"text":["consumerist"]}
-],
+ ],
+
 "consumo": [
   {"id":3296,"text":["consumption"]}
-],
+ ],
+
 "contabile": [
   {"id":148,"text":["accountant"]},
   {"id":3522,"text":["countable"]}
-],
+ ],
+
 "contadino": [
   {"id":5656,"text":["farmer"]},
   {"id":10593,"text":["peasant"]}
-],
+ ],
+
 "contagiare": [
   {"id":7629,"text":["infect"]}
-],
+ ],
+
 "contagio": [
   {"id":3299,"text":["contagion"]}
-],
+ ],
+
 "contagioso": [
   {"id":3300,"text":["contagious"]}
-],
+ ],
+
 "contagiri": [
   {"id":14358,"text":["tachometer"]}
-],
+ ],
+
 "container": [
   {"id":3302,"text":["container"]}
-],
+ ],
+
 "contaminare": [
   {"id":3305,"text":["contaminare"]},
   {"id":11095,"text":["pollute"]}
-],
+ ],
+
 "contaminazione": [
   {"id":3306,"text":["contamination"]},
   {"id":11097,"text":["pollution"]}
-],
+ ],
+
 "contare": [
   {"id":3518,"text":["count"]}
-],
+ ],
+
 "contatore": [
   {"id":3525,"text":["counter"]}
-],
+ ],
+
 "contatto": [
   {"id":3297,"text":["contact"]}
-],
+ ],
+
 "conte": [
   {"id":3519,"text":["count"]},
   {"id":4771,"text":["earl"]}
-],
+ ],
+
 "Conte Dracula": [
   {"id":3521,"text":["Count Dracula"]}
-],
+ ],
+
 "contea": [
   {"id":3544,"text":["county"]}
-],
+ ],
+
 "contegno": [
   {"id":4001,"text":["demeanour"]}
-],
+ ],
+
 "contemplare": [
   {"id":3307,"text":["contemplate"]}
-],
+ ],
+
 "contemplazione": [
   {"id":3308,"text":["contemplation"]}
-],
+ ],
+
 "contemporaneamente": [
   {"id":1155,"text":["at the same time"]}
-],
+ ],
+
 "contemporaneo": [
   {"id":3309,"text":["contemporary"]}
-],
+ ],
+
 "contendere": [
   {"id":3311,"text":["contend"]}
-],
+ ],
+
 "contenere": [
   {"id":3301,"text":["contain"]}
-],
+ ],
+
 "contenimento": [
   {"id":3304,"text":["containment"]}
-],
+ ],
+
 "contenitore": [
   {"id":3303,"text":["container"]},
   {"id":14399,"text":["tank"]}
-],
+ ],
+
 "contentare": [
   {"id":3312,"text":["content"]}
-],
+ ],
+
 "contento": [
   {"id":3313,"text":["content"]}
-],
+ ],
+
 "contenuto": [
   {"id":3314,"text":["content"]}
-],
+ ],
+
 "contenzioso": [
   {"id":3316,"text":["contentious"]},
   {"id":14144,"text":["suit"]}
-],
+ ],
+
 "contesa": [
   {"id":3315,"text":["contention"]}
-],
+ ],
+
 "contestare": [
   {"id":742,"text":["answer"]},
   {"id":3318,"text":["contest"]}
-],
+ ],
+
 "contesto": [
   {"id":3320,"text":["context"]}
-],
+ ],
+
 "contestuale": [
   {"id":3321,"text":["contextual"]}
-],
+ ],
+
 "contestualmente": [
   {"id":3322,"text":["contextually"]}
-],
+ ],
+
 "contiguo": [
   {"id":3323,"text":["contiguous"]}
-],
+ ],
+
 "continentale": [
   {"id":3325,"text":["continental"]}
-],
+ ],
+
 "continente": [
   {"id":3324,"text":["continent"]}
-],
+ ],
+
 "contingente": [
   {"id":3327,"text":["contingent"]}
-],
+ ],
+
 "contingenza": [
   {"id":3326,"text":["contingency"]}
-],
+ ],
+
 "continuamente": [
   {"id":3328,"text":["continually"]},
   {"id":3336,"text":["continuously"]}
-],
+ ],
+
 "continuare": [
   {"id":3333,"text":["continue"]},
   {"id":8207,"text":["keep on"]}
-],
+ ],
+
 "continuazione": [
   {"id":3329,"text":["continuation"]}
-],
+ ],
+
 "continuo": [
   {"id":3330,"text":["continuation"]},
   {"id":3335,"text":["continuous"]}
-],
+ ],
+
 "conto": [
   {"id":146,"text":["account"]},
   {"id":1657,"text":["bill"]}
-],
+ ],
+
 "contorno": [
   {"id":3338,"text":["contour"]},
   {"id":10272,"text":["outline"]}
-],
+ ],
+
 "contorsionista": [
   {"id":3337,"text":["contortionist"]}
-],
+ ],
+
 "contrabbando": [
   {"id":13464,"text":["smuggling"]}
-],
+ ],
+
 "contraccettivo": [
   {"id":3340,"text":["contraceptive"]}
-],
+ ],
+
 "contraccezione": [
   {"id":3339,"text":["contraception"]}
-],
+ ],
+
 "contraddire": [
   {"id":3349,"text":["contradict"]}
-],
+ ],
+
 "contraddittorio": [
   {"id":3351,"text":["contradictory"]}
-],
+ ],
+
 "contraddizione": [
   {"id":3350,"text":["contradiction"]}
-],
+ ],
+
 "contraffare": [
   {"id":3534,"text":["counterfeit"]}
-],
+ ],
+
 "contraffatto": [
   {"id":3535,"text":["counterfeit"]}
-],
+ ],
+
 "contraffazione": [
   {"id":3536,"text":["counterfeit"]},
   {"id":5615,"text":["fake"]}
-],
+ ],
+
 "contrappeso": [
   {"id":3541,"text":["counterweight"]}
-],
+ ],
+
 "contrapposizione": [
   {"id":3353,"text":["contraposition"]}
-],
+ ],
+
 "contrapposto": [
   {"id":10147,"text":["opposed"]}
-],
+ ],
+
 "contrappunto": [
   {"id":3538,"text":["counterpoint"]}
-],
+ ],
+
 "contrariamente": [
   {"id":3354,"text":["contrary"]}
-],
+ ],
+
 "contrario": [
   {"id":3355,"text":["contrary"]}
-],
+ ],
+
 "contrarre": [
   {"id":3342,"text":["contract"]}
-],
+ ],
+
 "contrastare": [
   {"id":3356,"text":["contrast"]}
-],
+ ],
+
 "contrasto": [
   {"id":3357,"text":["contrast"]}
-],
+ ],
+
 "contrattaccare": [
   {"id":3526,"text":["counter"]}
-],
+ ],
+
 "contrattacco": [
   {"id":3529,"text":["counterattack"]}
-],
+ ],
+
 "contrattazione": [
   {"id":1440,"text":["bargaining"]}
-],
+ ],
+
 "contrattile": [
   {"id":3345,"text":["contractile"]}
-],
+ ],
+
 "contratto": [
   {"id":3343,"text":["contract"]},
   {"id":3344,"text":["contracted"]}
-],
+ ],
+
 "contrattuale": [
   {"id":3347,"text":["contractual"]}
-],
+ ],
+
 "contrattura": [
   {"id":3348,"text":["contracture"]}
-],
+ ],
+
 "contravvenire": [
   {"id":3358,"text":["contravene"]}
-],
+ ],
+
 "contravvenzione": [
   {"id":3359,"text":["contravention"]}
-],
+ ],
+
 "contrazione": [
   {"id":3346,"text":["contraction"]}
-],
+ ],
+
 "contribuire": [
   {"id":3360,"text":["contribute"]}
-],
+ ],
+
 "contributo": [
   {"id":3361,"text":["contribution"]}
-],
+ ],
+
 "contro": [
   {"id":379,"text":["against"]},
   {"id":3091,"text":["con"]},
   {"id":3527,"text":["counter"]}
-],
+ ],
+
 "controbilanciare": [
   {"id":3530,"text":["counterbalance"]}
-],
+ ],
+
 "controcultura": [
   {"id":3531,"text":["counterculture"]}
-],
+ ],
+
 "controesempio": [
   {"id":3533,"text":["counterexample"]}
-],
+ ],
+
 "controffensiva": [
   {"id":3537,"text":["counteroffensive"]}
-],
+ ],
+
 "controindicazione": [
   {"id":3352,"text":["contraindication"]}
-],
+ ],
+
 "controllabile": [
   {"id":3365,"text":["controllable"]}
-],
+ ],
+
 "controllare": [
   {"id":2543,"text":["check"]},
   {"id":3363,"text":["control"]},
   {"id":9367,"text":["monitor"]}
-],
+ ],
+
 "controllo": [
   {"id":2544,"text":["check"]},
   {"id":3364,"text":["control"]},
   {"id":9370,"text":["monitoring"]}
-],
+ ],
+
 "controllore": [
   {"id":3366,"text":["controller"]}
-],
+ ],
+
 "controproducente": [
   {"id":3539,"text":["counterproductive"]}
-],
+ ],
+
 "controprogrammazione": [
   {"id":3540,"text":["counterprogramming"]}
-],
+ ],
+
 "controspionaggio": [
   {"id":3532,"text":["counterespionage"]}
-],
+ ],
+
 "controversia": [
   {"id":3368,"text":["controversy"]}
-],
+ ],
+
 "controverso": [
   {"id":3367,"text":["controversial"]}
-],
+ ],
+
 "contusione": [
   {"id":3370,"text":["contusion"]}
-],
+ ],
+
 "conurbazione": [
   {"id":3371,"text":["conurbation"]}
-],
+ ],
+
 "convalescenza": [
   {"id":3372,"text":["convalescence"]}
-],
+ ],
+
 "convalidare": [
   {"id":15454,"text":["validate"]}
-],
+ ],
+
 "conveniente": [
   {"id":3375,"text":["convenient"]}
-],
+ ],
+
 "convenienza": [
   {"id":3374,"text":["convenience"]},
   {"id":14147,"text":["suitability"]}
-],
+ ],
+
 "convento": [
   {"id":3376,"text":["convent"]}
-],
+ ],
+
 "convenzionale": [
   {"id":3378,"text":["conventional"]}
-],
+ ],
+
 "convenzionalismo": [
   {"id":3379,"text":["conventionalism"]}
-],
+ ],
+
 "convenzionalmente": [
   {"id":3380,"text":["conventionally"]}
-],
+ ],
+
 "convenzione": [
   {"id":410,"text":["agreement"]},
   {"id":3377,"text":["convention"]}
-],
+ ],
+
 "convergente": [
   {"id":3384,"text":["convergent"]}
-],
+ ],
+
 "convergenza": [
   {"id":3383,"text":["convergence"]}
-],
+ ],
+
 "convergere": [
   {"id":3382,"text":["converge"]}
-],
+ ],
+
 "conversare": [
   {"id":3388,"text":["converse"]}
-],
+ ],
+
 "conversazione": [
   {"id":3385,"text":["conversation"]},
   {"id":3386,"text":["conversational"]}
-],
+ ],
+
 "conversione": [
   {"id":3390,"text":["conversion"]}
-],
+ ],
+
 "convertibile": [
   {"id":3393,"text":["convertible"]}
-],
+ ],
+
 "convertire": [
   {"id":3391,"text":["convert"]}
-],
+ ],
+
 "convertitore": [
   {"id":3392,"text":["converter"]}
-],
+ ],
+
 "convesso": [
   {"id":3394,"text":["convex"]}
-],
+ ],
+
 "convezione": [
   {"id":3373,"text":["convection"]}
-],
+ ],
+
 "convincente": [
   {"id":3402,"text":["convincing"]}
-],
+ ],
+
 "convincere": [
   {"id":3401,"text":["convince"]}
-],
+ ],
+
 "convinzione": [
   {"id":3400,"text":["conviction"]}
-],
+ ],
+
 "convivenza": [
   {"id":2857,"text":["cohabitation"]}
-],
+ ],
+
 "convocare": [
   {"id":14165,"text":["summon"]}
-],
+ ],
+
 "convocazione": [
   {"id":3403,"text":["convocation"]}
-],
+ ],
+
 "convoglio": [
   {"id":3404,"text":["convoy"]}
-],
+ ],
+
 "convulsione": [
   {"id":3405,"text":["convulsion"]}
-],
+ ],
+
 "cooperare": [
   {"id":3418,"text":["cooperate"]}
-],
+ ],
+
 "cooperativa": [
   {"id":2812,"text":["co-op"]}
-],
+ ],
+
 "cooperativo": [
   {"id":3420,"text":["cooperative"]}
-],
+ ],
+
 "cooperazione": [
   {"id":3419,"text":["cooperation"]}
-],
+ ],
+
 "coordinamento": [
   {"id":3423,"text":["coordination"]}
-],
+ ],
+
 "coordinare": [
   {"id":3421,"text":["coordinate"]}
-],
+ ],
+
 "coordinata": [
   {"id":3422,"text":["coordinate"]}
-],
+ ],
+
 "coordinatore": [
   {"id":3425,"text":["coordinator"]}
-],
+ ],
+
 "coordinazione": [
   {"id":3424,"text":["coordination"]}
-],
+ ],
+
 "copale": [
   {"id":3426,"text":["copal"]}
-],
+ ],
+
 "coperchio": [
   {"id":8502,"text":["lid"]}
-],
+ ],
+
 "coperta": [
   {"id":1748,"text":["blanket"]},
   {"id":3560,"text":["cover"]}
-],
+ ],
+
 "copertina": [
   {"id":3561,"text":["cover"]}
-],
+ ],
+
 "copertura": [
   {"id":3563,"text":["coverage"]},
   {"id":3564,"text":["covering"]}
-],
+ ],
+
 "copia": [
   {"id":3438,"text":["copy"]}
-],
+ ],
+
 "copiare": [
   {"id":3439,"text":["copy"]}
-],
+ ],
+
 "copione": [
   {"id":12860,"text":["script"]}
-],
+ ],
+
 "copolimero": [
   {"id":3430,"text":["copolymer"]}
-],
+ ],
+
 "coppa": [
   {"id":1511,"text":["beaker"]},
   {"id":3697,"text":["cup"]}
-],
+ ],
+
 "coppia": [
   {"id":3546,"text":["couple"]}
-],
+ ],
+
 "coprecipitazione": [
   {"id":3433,"text":["coprecipitation"]}
-],
+ ],
+
 "copriletto": [
   {"id":1541,"text":["bedspread"]}
-],
+ ],
+
 "coprire": [
   {"id":3562,"text":["cover"]}
-],
+ ],
+
 "coprocessore": [
   {"id":3434,"text":["coprocessor"]}
-],
+ ],
+
 "coprofagia": [
   {"id":3435,"text":["coprophagy"]}
-],
+ ],
+
 "copula": [
   {"id":3436,"text":["copula"]}
-],
+ ],
+
 "copulazione": [
   {"id":3437,"text":["copulation"]}
-],
+ ],
+
 "copyright": [
   {"id":3441,"text":["copyright"]}
-],
+ ],
+
 "coraggio": [
   {"id":3549,"text":["courage"]},
   {"id":11610,"text":["prowess"]}
-],
+ ],
+
 "coraggioso": [
   {"id":1937,"text":["brave"]}
-],
+ ],
+
 "corale": [
   {"id":2617,"text":["choral"]}
-],
+ ],
+
 "corallo": [
   {"id":2618,"text":["choral"]},
   {"id":3442,"text":["coral"]}
-],
+ ],
+
 "corda": [
   {"id":12571,"text":["rope"]},
   {"id":13979,"text":["string"]}
-],
+ ],
+
 "cordiale": [
   {"id":3444,"text":["cordial"]},
   {"id":9684,"text":["neighborly"]},
   {"id":9693,"text":["neighbourly"]}
-],
+ ],
+
 "cordone": [
   {"id":3443,"text":["cord"]}
-],
+ ],
+
 "cordovese": [
   {"id":3445,"text":["cordovan"]}
-],
+ ],
+
 "Corea": [
   {"id":8264,"text":["Korea"]}
-],
+ ],
+
 "coreano": [
   {"id":8265,"text":["Korean"]}
-],
+ ],
+
 "coreografia": [
   {"id":2622,"text":["choreography"]}
-],
+ ],
+
 "coreografico": [
   {"id":2621,"text":["choreographic"]}
-],
+ ],
+
 "coreografo": [
   {"id":2620,"text":["choreographer"]}
-],
+ ],
+
 "coriandoli": [
   {"id":3164,"text":["confetti"]}
-],
+ ],
+
 "coriandolo": [
   {"id":3447,"text":["coriander"]}
-],
+ ],
+
 "corion": [
   {"id":2623,"text":["chorion"]}
-],
+ ],
+
 "corista": [
   {"id":2624,"text":["chorister"]}
-],
+ ],
+
 "cormo": [
   {"id":3449,"text":["corm"]}
-],
+ ],
+
 "cornamusa": [
   {"id":1356,"text":["bagpipe"]}
-],
+ ],
+
 "cornea": [
   {"id":3453,"text":["cornea"]}
-],
+ ],
+
 "corneale": [
   {"id":3454,"text":["corneal"]}
-],
+ ],
+
 "cornetto": [
   {"id":3629,"text":["croissant"]}
-],
+ ],
+
 "cornice": [
   {"id":6147,"text":["frame"]}
-],
+ ],
+
 "corno": [
   {"id":7125,"text":["horn"]}
-],
+ ],
+
 "coro": [
   {"id":2611,"text":["choir"]},
   {"id":2626,"text":["chorus"]}
-],
+ ],
+
 "corolla": [
   {"id":3458,"text":["corolla"]}
-],
+ ],
+
 "corollario": [
   {"id":3459,"text":["corollary"]}
-],
+ ],
+
 "corologia": [
   {"id":2625,"text":["chorology"]}
-],
+ ],
+
 "corona": [
   {"id":3641,"text":["crown"]}
-],
+ ],
+
 "coronazione": [
   {"id":3460,"text":["coronation"]}
-],
+ ],
+
 "corpetto": [
   {"id":1816,"text":["bodice"]}
-],
+ ],
+
 "corpo": [
   {"id":1818,"text":["body"]},
   {"id":3466,"text":["corps"]}
-],
+ ],
+
 "corporale": [
   {"id":3462,"text":["corporal"]}
-],
+ ],
+
 "corporativismo": [
   {"id":3465,"text":["corporatism"]}
-],
+ ],
+
 "corporativo": [
   {"id":3463,"text":["corporate"]}
-],
+ ],
+
 "corporatura": [
   {"id":2043,"text":["build"]},
   {"id":10852,"text":["physique"]}
-],
+ ],
+
 "corporazione": [
   {"id":6698,"text":["guild"]}
-],
+ ],
+
 "corpulento": [
   {"id":3469,"text":["corpulent"]}
-],
+ ],
+
 "corpuscolare": [
   {"id":3471,"text":["corpuscular"]}
-],
+ ],
+
 "corpuscolo": [
   {"id":3470,"text":["corpuscle"]}
-],
+ ],
+
 "correggere": [
   {"id":270,"text":["adjust"]},
   {"id":3472,"text":["correct"]}
-],
+ ],
+
 "correggibile": [
   {"id":3474,"text":["correctable"]}
-],
+ ],
+
 "correlativo": [
   {"id":3477,"text":["correlated"]},
   {"id":3479,"text":["correlative"]}
-],
+ ],
+
 "correlazione": [
   {"id":3478,"text":["correlation"]}
-],
+ ],
+
 "corrente": [
   {"id":2998,"text":["common"]},
   {"id":3714,"text":["current"]},
   {"id":13951,"text":["stream"]}
-],
+ ],
+
 "correnteelettrica": [
   {"id":4925,"text":["electriccurrent"]}
-],
+ ],
+
 "correre": [
   {"id":11790,"text":["race"]},
   {"id":12630,"text":["run"]}
-],
+ ],
+
 "correttamente": [
   {"id":3476,"text":["correctly"]},
   {"id":11531,"text":["properly"]},
   {"id":12492,"text":["rightly"]}
-],
+ ],
+
 "corretto": [
   {"id":3473,"text":["correct"]},
   {"id":12486,"text":["right"]}
-],
+ ],
+
 "correzione": [
   {"id":3475,"text":["correction"]}
-],
+ ],
+
 "corridoio": [
   {"id":3484,"text":["corridor"]}
-],
+ ],
+
 "corridore": [
   {"id":12634,"text":["runner"]}
-],
+ ],
+
 "corrispondente": [
   {"id":3482,"text":["correspondent"]},
   {"id":3483,"text":["corresponding"]}
-],
+ ],
+
 "corrispondenza": [
   {"id":3481,"text":["correspondence"]}
-],
+ ],
+
 "corrispondere": [
   {"id":3480,"text":["correspond"]}
-],
+ ],
+
 "corrompere": [
   {"id":1969,"text":["bribe"]},
   {"id":3487,"text":["corrupt"]}
-],
+ ],
+
 "corrosione": [
   {"id":3485,"text":["corrosion"]}
-],
+ ],
+
 "corrosivo": [
   {"id":3486,"text":["corrosive"]}
-],
+ ],
+
 "corrotto": [
   {"id":3488,"text":["corrupt"]},
   {"id":3489,"text":["corrupted"]}
-],
+ ],
+
 "corruzione": [
   {"id":1971,"text":["bribery"]},
   {"id":3490,"text":["corruption"]}
-],
+ ],
+
 "corsa": [
   {"id":11791,"text":["race"]}
-],
+ ],
+
 "corso": [
   {"id":3550,"text":["course"]}
-],
+ ],
+
 "corteccia": [
   {"id":1445,"text":["bark"]},
   {"id":3491,"text":["cortex"]}
-],
+ ],
+
 "corteggiamento": [
   {"id":3554,"text":["courtship"]}
-],
+ ],
+
 "cortese": [
   {"id":9685,"text":["neighborly"]},
   {"id":9694,"text":["neighbourly"]}
-],
+ ],
+
 "cortesia": [
   {"id":3553,"text":["courtesy"]}
-],
+ ],
+
 "corticale": [
   {"id":3492,"text":["cortical"]}
-],
+ ],
+
 "cortile": [
   {"id":3555,"text":["courtyard"]},
   {"id":10994,"text":["playground"]},
   {"id":15995,"text":["yard"]}
-],
+ ],
+
 "cortisone": [
   {"id":3493,"text":["cortisone"]}
-],
+ ],
+
 "corto": [
   {"id":13192,"text":["short"]}
-],
+ ],
+
 "cortocircuito": [
   {"id":13193,"text":["shortcircuit"]}
-],
+ ],
+
 "cortometraggio": [
   {"id":13196,"text":["shortfilm"]}
-],
+ ],
+
 "corvetta": [
   {"id":3494,"text":["corvette"]}
-],
+ ],
+
 "corvo": [
   {"id":3637,"text":["crow"]},
   {"id":11881,"text":["raven"]}
-],
+ ],
+
 "cosa": [
   {"id":14633,"text":["thing"]},
   {"id":15840,"text":["what"]}
-],
+ ],
+
 "cosciente": [
   {"id":3219,"text":["conscious"]}
-],
+ ],
+
 "coscientemente": [
   {"id":3220,"text":["consciously"]}
-],
+ ],
+
 "coscienza": [
   {"id":3222,"text":["consciousness"]}
-],
+ ],
+
 "coscrizione": [
   {"id":3223,"text":["conscription"]},
   {"id":11997,"text":["recruitment"]}
-],
+ ],
+
 "coseno": [
   {"id":3495,"text":["cosine"]}
-],
+ ],
+
 "cosmetico": [
   {"id":3496,"text":["cosmetic"]}
-],
+ ],
+
 "cosmico": [
   {"id":3497,"text":["cosmic"]}
-],
+ ],
+
 "cosmo": [
   {"id":3502,"text":["cosmos"]}
-],
+ ],
+
 "cosmogonia": [
   {"id":3498,"text":["cosmogony"]}
-],
+ ],
+
 "cosmologia": [
   {"id":3499,"text":["cosmology"]}
-],
+ ],
+
 "cosmonauta": [
   {"id":3500,"text":["cosmonaut"]}
-],
+ ],
+
 "cosmopolitismo": [
   {"id":3501,"text":["cosmopolitism"]}
-],
+ ],
+
 "cospirare": [
   {"id":3260,"text":["conspire"]}
-],
+ ],
+
 "cospirazione": [
   {"id":3259,"text":["conspiracy"]}
-],
+ ],
+
 "costa": [
   {"id":2818,"text":["coast"]}
-],
+ ],
+
 "Costa d'Avorio": [
   {"id":8102,"text":["Ivory Coast"]}
-],
+ ],
+
 "costante": [
   {"id":3261,"text":["constant"]}
-],
+ ],
+
 "costantemente": [
   {"id":3262,"text":["constantly"]}
-],
+ ],
+
 "costare": [
   {"id":3503,"text":["cost"]}
-],
+ ],
+
 "costellazione": [
   {"id":3263,"text":["constellation"]}
-],
+ ],
+
 "costernazione": [
   {"id":3264,"text":["consternation"]}
-],
+ ],
+
 "costipazione": [
   {"id":3265,"text":["constipation"]}
-],
+ ],
+
 "costituente": [
   {"id":3266,"text":["constituent"]}
-],
+ ],
+
 "costituire": [
   {"id":3267,"text":["constitute"]}
-],
+ ],
+
 "costituzionale": [
   {"id":3269,"text":["constitutional"]}
-],
+ ],
+
 "costituzionalismo": [
   {"id":3270,"text":["constitutionalism"]}
-],
+ ],
+
 "costituzionalista": [
   {"id":3271,"text":["constitutionalist"]}
-],
+ ],
+
 "costituzionalmente": [
   {"id":3272,"text":["constitutionally"]}
-],
+ ],
+
 "costituzione": [
   {"id":3268,"text":["constitution"]}
-],
+ ],
+
 "costo": [
   {"id":3504,"text":["cost"]},
   {"id":5714,"text":["fee"]},
   {"id":10269,"text":["outlay"]}
-],
+ ],
+
 "costola": [
   {"id":12473,"text":["rib"]}
-],
+ ],
+
 "costoso": [
   {"id":3506,"text":["costly"]}
-],
+ ],
+
 "costretto": [
   {"id":1891,"text":["bound"]}
-],
+ ],
+
 "costringere": [
   {"id":3028,"text":["compel"]},
   {"id":3273,"text":["constrain"]}
-],
+ ],
+
 "costrizione": [
   {"id":3274,"text":["constriction"]}
-],
+ ],
+
 "costruire": [
   {"id":3275,"text":["construct"]}
-],
+ ],
+
 "costruttivismo": [
   {"id":3280,"text":["constructivism"]}
-],
+ ],
+
 "costruttivo": [
   {"id":3279,"text":["constructive"]}
-],
+ ],
+
 "costruttore": [
   {"id":2045,"text":["builder"]},
   {"id":3282,"text":["constructor"]}
-],
+ ],
+
 "costruzione": [
   {"id":3276,"text":["construction"]}
-],
+ ],
+
 "costume": [
   {"id":3507,"text":["costume"]},
   {"id":3731,"text":["custom"]}
-],
+ ],
+
 "così": [
   {"id":13480,"text":["so"]},
   {"id":14119,"text":["such"]}
-],
+ ],
+
 "cotile": [
   {"id":167,"text":["acetabulum"]}
-],
+ ],
+
 "cotoletta": [
   {"id":3740,"text":["cutlet"]}
-],
+ ],
+
 "cotone": [
   {"id":3509,"text":["cotton"]}
-],
+ ],
+
 "cotta": [
   {"id":3653,"text":["crush"]}
-],
+ ],
+
 "covalente": [
   {"id":3557,"text":["covalent"]}
-],
+ ],
+
 "covare": [
   {"id":6840,"text":["hatch"]}
-],
+ ],
+
 "covariante": [
   {"id":3559,"text":["covariant"]}
-],
+ ],
+
 "covarianza": [
   {"id":3558,"text":["covariance"]}
-],
+ ],
+
 "coyote": [
   {"id":3571,"text":["coyote"]}
-],
+ ],
+
 "cozza": [
   {"id":9552,"text":["mussel"]}
-],
+ ],
+
 "crampo": [
   {"id":3578,"text":["cramp"]}
-],
+ ],
+
 "cranico": [
   {"id":3581,"text":["cranial"]}
-],
+ ],
+
 "cranio": [
   {"id":13391,"text":["skull"]}
-],
+ ],
+
 "cratere": [
   {"id":3584,"text":["crater"]}
-],
+ ],
+
 "cravatta": [
   {"id":14731,"text":["tie"]}
-],
+ ],
+
 "creabile": [
   {"id":3602,"text":["credible"]}
-],
+ ],
+
 "creare": [
   {"id":3595,"text":["create"]},
   {"id":8793,"text":["make"]}
-],
+ ],
+
 "creativamente": [
   {"id":3599,"text":["creatively"]}
-],
+ ],
+
 "creativo": [
   {"id":3598,"text":["creative"]}
-],
+ ],
+
 "creatore": [
   {"id":3600,"text":["creator"]}
-],
+ ],
+
 "creatura": [
   {"id":3601,"text":["creature"]}
-],
+ ],
+
 "creazione": [
   {"id":3597,"text":["creation"]}
-],
+ ],
+
 "credente": [
   {"id":1572,"text":["believer"]}
-],
+ ],
+
 "credenza": [
   {"id":1568,"text":["belief"]},
   {"id":3700,"text":["cupboard"]},
   {"id":4655,"text":["dresser"]}
-],
+ ],
+
 "credere": [
   {"id":1570,"text":["believe"]}
-],
+ ],
+
 "credito": [
   {"id":3604,"text":["credit"]}
-],
+ ],
+
 "creditore": [
   {"id":3605,"text":["creditor"]}
-],
+ ],
+
 "credo": [
   {"id":1569,"text":["belief"]},
   {"id":3606,"text":["creed"]}
-],
+ ],
+
 "crema": [
   {"id":3590,"text":["cream"]}
-],
+ ],
+
 "crematorio": [
   {"id":3608,"text":["crematory"]}
-],
+ ],
+
 "cremazione": [
   {"id":3607,"text":["cremation"]}
-],
+ ],
+
 "crepa": [
   {"id":3573,"text":["crack"]}
-],
+ ],
+
 "crepuscolo": [
   {"id":4734,"text":["dusk"]}
-],
+ ],
+
 "crescente": [
   {"id":7528,"text":["increasing"]}
-],
+ ],
+
 "crescere": [
   {"id":6680,"text":["grow"]}
-],
+ ],
+
 "crescita": [
   {"id":6681,"text":["growth"]}
-],
+ ],
+
 "cresta": [
   {"id":4602,"text":["dorsal"]}
-],
+ ],
+
 "cretino": [
   {"id":3609,"text":["cretin"]},
   {"id":3610,"text":["cretinous"]}
-],
+ ],
+
 "criceto": [
   {"id":6770,"text":["hamster"]}
-],
+ ],
+
 "cricket": [
   {"id":3614,"text":["cricket"]}
-],
+ ],
+
 "criminale": [
   {"id":3617,"text":["criminal"]}
-],
+ ],
+
 "crimine": [
   {"id":3615,"text":["crime"]}
-],
+ ],
+
 "criminologia": [
   {"id":3619,"text":["criminology"]}
-],
+ ],
+
 "criminologo": [
   {"id":3618,"text":["criminologist"]}
-],
+ ],
+
 "criniera": [
   {"id":8844,"text":["mane"]}
-],
+ ],
+
 "criogenico": [
   {"id":3662,"text":["cryogenic"]}
-],
+ ],
+
 "cripta": [
   {"id":3663,"text":["crypt"]}
-],
+ ],
+
 "criptorchidismo": [
   {"id":3665,"text":["cryptorchidism"]}
-],
+ ],
+
 "crisalide": [
   {"id":2839,"text":["cocoon"]}
-],
+ ],
+
 "crisantemo": [
   {"id":2651,"text":["chrysanthemum"]}
-],
+ ],
+
 "crisi": [
   {"id":3620,"text":["crisis"]}
-],
+ ],
+
 "cristalleria": [
   {"id":3674,"text":["crystalware"]},
   {"id":6486,"text":["glassware"]}
-],
+ ],
+
 "cristallino": [
   {"id":3667,"text":["crystalline"]}
-],
+ ],
+
 "cristallizzare": [
   {"id":3670,"text":["crystallise"]},
   {"id":3672,"text":["crystallize"]}
-],
+ ],
+
 "cristallizzazione": [
   {"id":3669,"text":["crystallisation"]},
   {"id":3671,"text":["crystallization"]}
-],
+ ],
+
 "cristallo": [
   {"id":3666,"text":["crystal"]}
-],
+ ],
+
 "cristallografia": [
   {"id":3673,"text":["crystallography"]}
-],
+ ],
+
 "cristianizzazione": [
   {"id":2628,"text":["christianisation"]}
-],
+ ],
+
 "cristiano": [
   {"id":2627,"text":["christian"]}
-],
+ ],
+
 "criterio": [
   {"id":3621,"text":["criterion"]}
-],
+ ],
+
 "critica": [
   {"id":3625,"text":["criticism"]},
   {"id":3626,"text":["critique"]}
-],
+ ],
+
 "criticare": [
   {"id":3624,"text":["criticise"]}
-],
+ ],
+
 "critico": [
   {"id":3622,"text":["critic"]},
   {"id":3623,"text":["critical"]}
-],
+ ],
+
 "crittografia": [
   {"id":3664,"text":["cryptography"]},
   {"id":5068,"text":["encryption"]}
-],
+ ],
+
 "Croazia": [
   {"id":3627,"text":["Croatia"]}
-],
+ ],
+
 "croce": [
   {"id":3632,"text":["cross"]}
-],
+ ],
+
 "crociata": [
   {"id":3651,"text":["crusade"]}
-],
+ ],
+
 "crociato": [
   {"id":3644,"text":["cruciform"]},
   {"id":3652,"text":["crusader"]}
-],
+ ],
+
 "crociera": [
   {"id":3647,"text":["cruise"]}
-],
+ ],
+
 "crocifisso": [
   {"id":3643,"text":["crucifix"]}
-],
+ ],
+
 "crollare": [
   {"id":2883,"text":["collapse"]}
-],
+ ],
+
 "crollo": [
   {"id":2884,"text":["collapse"]}
-],
+ ],
+
 "croma": [
   {"id":11758,"text":["quaver"]}
-],
+ ],
+
 "cromatico": [
   {"id":2630,"text":["chromatic"]},
   {"id":13160,"text":["shiny"]}
-],
+ ],
+
 "cromatide": [
   {"id":2631,"text":["chromatid"]}
-],
+ ],
+
 "cromatina": [
   {"id":2632,"text":["chromatin"]}
-],
+ ],
+
 "cromatismo": [
   {"id":2633,"text":["chromatism"]}
-],
+ ],
+
 "cromatografia": [
   {"id":2637,"text":["chromatography"]}
-],
+ ],
+
 "cromatografico": [
   {"id":2636,"text":["chromatographic"]}
-],
+ ],
+
 "cromatogramma": [
   {"id":2634,"text":["chromatogram"]},
   {"id":2635,"text":["chromatograph"]}
-],
+ ],
+
 "cromico": [
   {"id":2638,"text":["chromic"]}
-],
+ ],
+
 "cromo": [
   {"id":2639,"text":["chromium"]}
-],
+ ],
+
 "cromosoma": [
   {"id":2641,"text":["chromosome"]}
-],
+ ],
+
 "cromosomico": [
   {"id":2640,"text":["chromosomal"]}
-],
+ ],
+
 "cronaca": [
   {"id":2643,"text":["chronicle"]}
-],
+ ],
+
 "cronico": [
   {"id":2642,"text":["chronic"]}
-],
+ ],
+
 "cronista": [
   {"id":2644,"text":["chronicler"]}
-],
+ ],
+
 "cronografo": [
   {"id":2645,"text":["chronograph"]}
-],
+ ],
+
 "cronologia": [
   {"id":2648,"text":["chronology"]}
-],
+ ],
+
 "cronologicamente": [
   {"id":2647,"text":["chronologically"]}
-],
+ ],
+
 "cronologico": [
   {"id":2646,"text":["chronological"]}
-],
+ ],
+
 "cronometrare": [
   {"id":14739,"text":["time"]}
-],
+ ],
+
 "cronometro": [
   {"id":2650,"text":["chronometer"]},
   {"id":14745,"text":["timer"]}
-],
+ ],
+
 "crostaceo": [
   {"id":3658,"text":["crustacean"]}
-],
+ ],
+
 "cruciale": [
   {"id":3642,"text":["crucial"]}
-],
+ ],
+
 "crudele": [
   {"id":3646,"text":["cruel"]}
-],
+ ],
+
 "crudo": [
   {"id":3645,"text":["crude"]},
   {"id":11882,"text":["raw"]},
   {"id":15227,"text":["uncooked"]}
-],
+ ],
+
 "cruento": [
   {"id":1791,"text":["bloody"]}
-],
+ ],
+
 "crusca": [
   {"id":1931,"text":["bran"]}
-],
+ ],
+
 "cubano": [
   {"id":3675,"text":["Cuban"]}
-],
+ ],
+
 "cubico": [
   {"id":3677,"text":["cubic"]}
-],
+ ],
+
 "cubismo": [
   {"id":3678,"text":["cubism"]}
-],
+ ],
+
 "cubitale": [
   {"id":3679,"text":["cubital"]}
-],
+ ],
+
 "cubo": [
   {"id":3676,"text":["cube"]}
-],
+ ],
+
 "cucchiaio": [
   {"id":13720,"text":["spoon"]}
-],
+ ],
+
 "cucciolo": [
   {"id":11684,"text":["puppy"]}
-],
+ ],
+
 "cucina": [
   {"id":3409,"text":["cooker"]},
   {"id":3411,"text":["cooking"]},
   {"id":8244,"text":["kitchen"]}
-],
+ ],
+
 "cucinare": [
   {"id":3406,"text":["cook"]}
-],
+ ],
+
 "cucire": [
   {"id":13090,"text":["sew"]}
-],
+ ],
+
 "cugino": [
   {"id":3556,"text":["cousin"]}
-],
+ ],
+
 "cui": [
   {"id":15874,"text":["who"]}
-],
+ ],
+
 "culinario": [
   {"id":3683,"text":["culinary"]}
-],
+ ],
+
 "culla": [
   {"id":3574,"text":["cradle"]},
   {"id":3612,"text":["crib"]}
-],
+ ],
+
 "culminare": [
   {"id":3684,"text":["culminate"]}
-],
+ ],
+
 "culmine": [
   {"id":2765,"text":["climax"]}
-],
+ ],
+
 "culo": [
   {"id":1859,"text":["booty"]},
   {"id":2100,"text":["buttock"]}
-],
+ ],
+
 "culto": [
   {"id":3686,"text":["cult"]}
-],
+ ],
+
 "cultura": [
   {"id":3691,"text":["culture"]}
-],
+ ],
+
 "culturale": [
   {"id":3689,"text":["cultural"]}
-],
+ ],
+
 "culturalmente": [
   {"id":3690,"text":["culturally"]}
-],
+ ],
+
 "cumulo": [
   {"id":155,"text":["accumulation"]},
   {"id":6879,"text":["heap"]}
-],
+ ],
+
 "cuneiforme": [
   {"id":3693,"text":["cuneiform"]}
-],
+ ],
+
 "cuneo": [
   {"id":15811,"text":["wedge"]}
-],
+ ],
+
 "cuocere": [
   {"id":1361,"text":["bake"]},
   {"id":3407,"text":["cook"]}
-],
+ ],
+
 "cuoco": [
   {"id":2555,"text":["chef"]},
   {"id":3408,"text":["cook"]}
-],
+ ],
+
 "cuoio capelluto": [
   {"id":12776,"text":["scalp"]}
-],
+ ],
+
 "cuore": [
   {"id":6884,"text":["heart"]}
-],
+ ],
+
 "cupido": [
   {"id":3701,"text":["cupid"]}
-],
+ ],
+
 "cupo": [
   {"id":6653,"text":["grim"]}
-],
+ ],
+
 "cupola": [
   {"id":4577,"text":["dome"]}
-],
+ ],
+
 "cura": [
   {"id":2283,"text":["care"]},
   {"id":3703,"text":["cure"]},
   {"id":11386,"text":["priest"]}
-],
+ ],
+
 "curare": [
   {"id":3704,"text":["cure"]},
   {"id":6874,"text":["heal"]}
-],
+ ],
+
 "curculione": [
   {"id":15820,"text":["weevil"]}
-],
+ ],
+
 "curia": [
   {"id":3706,"text":["curia"]}
-],
+ ],
+
 "curio": [
   {"id":3709,"text":["curium"]}
-],
+ ],
+
 "curiosamente": [
   {"id":7869,"text":["interestingly"]}
-],
+ ],
+
 "curioso": [
   {"id":3708,"text":["curious"]}
-],
+ ],
+
 "curriculum": [
   {"id":3716,"text":["curriculum"]}
-],
+ ],
+
 "cursore": [
   {"id":3719,"text":["cursor"]}
-],
+ ],
+
 "curva": [
   {"id":1585,"text":["bend"]},
   {"id":3724,"text":["curve"]}
-],
+ ],
+
 "curvare": [
   {"id":15741,"text":["warp"]}
-],
+ ],
+
 "curvatura": [
   {"id":3723,"text":["curvature"]},
   {"id":15742,"text":["warp"]}
-],
+ ],
+
 "cuscinetto": [
   {"id":10345,"text":["pad"]},
   {"id":10906,"text":["pincushion"]}
-],
+ ],
+
 "cuspide": [
   {"id":3728,"text":["cusp"]}
-],
+ ],
+
 "custodia": [
   {"id":2327,"text":["case"]},
   {"id":3729,"text":["custody"]},
   {"id":12675,"text":["safekeeping"]}
-],
+ ],
+
 "cutaneo": [
   {"id":3739,"text":["cutaneous"]}
-]
-}
+ ]}

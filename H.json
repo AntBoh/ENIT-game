@@ -1,1455 +1,1904 @@
-{
-  "haberdashery": [
-    {"id": 6726,"text": ["merceria"]}
-  ],
-  "habilitation": [
-    {"id": 6727,"text": ["abilitazione"]}
-  ],
-  "habit": [
-    {"id": 6728,"text": ["abitudine"]}
-  ],
-  "habitat": [
-    {"id": 6729,"text": ["habitat"]}
-  ],
-  "habitation": [
-    {"id": 6730,"text": ["abitazione"]}
-  ],
-  "habitual": [
-    {"id": 6731,"text": ["abituale"]}
-  ],
-  "habitually": [
-    {"id": 6732,"text": ["abitualmente"]}
-  ],
-  "hacker": [
-    {"id": 6733,"text": ["hacker"]}
-  ],
-  "haematoma": [
-    {"id": 6734,"text": ["ematoma"]}
-  ],
-  "hafnium": [
-    {"id": 6735,"text": ["afnio"]}
-  ],
-  "hagiographical": [
-    {"id": 6736,"text": ["agiografico"]}
-  ],
-  "hagiography": [
-    {"id": 6737,"text": ["agiografia"]}
-  ],
-  "hail": [
-    {"id": 6738,"text": ["grandinare"]},
-    {"id": 6739,"text": ["grandine"]},
-    {"id": 6740,"text": ["gridare"]},
-    {"id": 6741,"text": ["grido"]},
-    {"id": 6742,"text": ["salutare"]},
-    {"id": 6743,"text": ["saluto"]}
-  ],
-  "hailstorm": [
-    {"id": 6744,"text": ["grandinata"]}
-  ],
-  "hair": [
-    {"id": 6745,"text": ["capello"]},
-    {"id": 6746,"text": ["pelo"]}
-  ],
-  "hairdresser": [
-    {"id": 6747,"text": ["parrucchiere"]}
-  ],
-  "hairy": [
-    {"id": 6748,"text": ["peloso"]}
-  ],
-  "hake": [
-    {"id": 6749,"text": ["nasello"]}
-  ],
-  "half": [
-    {"id": 6750,"text": ["metà"]},
-    {"id": 6751,"text": ["mezzo"]}
-  ],
-  "half-wit": [
-    {"id": 6752,"text": ["idiota"]}
-  ],
-  "halfbrother": [
-    {"id": 6753,"text": ["fratellomezzo"]}
-  ],
-  "halide": [
-    {"id": 6754,"text": ["alogenuro"]}
-  ],
-  "hall": [
-    {"id": 6755,"text": ["sala"]}
-  ],
-  "hallelujah": [
-    {"id": 6756,"text": ["alleluia"]}
-  ],
-  "hallucination": [
-    {"id": 6757,"text": ["allucinazione"]}
-  ],
-  "hallucinogen": [
-    {"id": 6758,"text": ["allucinogeno"]}
-  ],
-  "halo": [
-    {"id": 6759,"text": ["aureola"]}
-  ],
-  "halt": [
-    {"id": 6760,"text": ["arrestare"]}
-  ],
-  "halter": [
-    {"id": 6761,"text": ["cavezza"]}
-  ],
-  "ham": [
-    {"id": 6762,"text": ["prosciutto"]}
-  ],
-  "Hamburg": [
-    {"id": 6763,"text": ["Amburgo"]}
-  ],
-  "hamburger": [
-    {"id": 6764,"text": ["hamburger"]}
-  ],
-  "hammer": [
-    {"id": 6765,"text": ["martellare"]},
-    {"id": 6766,"text": ["martello"]}
-  ],
-  "hammock": [
-    {"id": 6767,"text": ["amaca"]}
-  ],
-  "hamper": [
-    {"id": 6768,"text": ["intralciare"]},
-    {"id": 6769,"text": ["ostacolare"]}
-  ],
-  "hamster": [
-    {"id": 6770,"text": ["criceto"]}
-  ],
-  "hand": [
-    {"id": 6771,"text": ["consegnare"]},
-    {"id": 6772,"text": ["mano"]}
-  ],
-  "handbag": [
-    {"id": 6773,"text": ["borsa"]}
-  ],
-  "handball": [
-    {"id": 6774,"text": ["pallamano"]}
-  ],
-  "handcuff": [
-    {"id": 6775,"text": ["ammanettare"]}
-  ],
-  "handcuffs": [
-    {"id": 6776,"text": ["manette"]}
-  ],
-  "handicrafts": [
-    {"id": 6777,"text": ["artigianato"]}
-  ],
-  "handkerchief": [
-    {"id": 6778,"text": ["fazzoletto"]}
-  ],
-  "handle": [
-    {"id": 6779,"text": ["maneggiare"]},
-    {"id": 6780,"text": ["maniglia"]},
-    {"id": 6781,"text": ["manubrio"]}
-  ],
-  "handlebar": [
-    {"id": 6782,"text": ["manubrio"]}
-  ],
-  "handmade": [
-    {"id": 6783,"text": ["artigianale"]},
-    {"id": 6784,"text": ["fatto a mano"]}
-  ],
-  "handoverfist": [
-    {"id": 6785,"text": ["rapidamente"]}
-  ],
-  "handshake": [
-    {"id": 6786,"text": ["stretta di mano"]}
-  ],
-  "handsome": [
-    {"id": 6787,"text": ["bello"]}
-  ],
-  "handwriting": [
-    {"id": 6788,"text": ["grafia"]},
-    {"id": 6789,"text": ["scrittura"]}
-  ],
-  "handwritten": [
-    {"id": 6790,"text": ["manoscritto"]}
-  ],
-  "handy": [
-    {"id": 6791,"text": ["utile"]}
-  ],
-  "hang": [
-    {"id": 6792,"text": ["appendere"]},
-    {"id": 6793,"text": ["impiccare"]},
-    {"id": 6794,"text": ["pendere"]}
-  ],
-  "hangman": [
-    {"id": 6795,"text": ["boia"]},
-    {"id": 6796,"text": ["impiccato"]}
-  ],
-  "hangover": [
-    {"id": 6797,"text": ["postumi"]}
-  ],
-  "Hannibal": [
-    {"id": 6798,"text": ["Annibale"]}
-  ],
-  "haphazard": [
-    {"id": 6799,"text": ["fortuito"]}
-  ],
-  "haploid": [
-    {"id": 6800,"text": ["aploide"]}
-  ],
-  "happen": [
-    {"id": 6801,"text": ["accadere"]},
-    {"id": 6802,"text": ["avvenire"]},
-    {"id": 6803,"text": ["capitare"]},
-    {"id": 6804,"text": ["succedere"]}
-  ],
-  "happily": [
-    {"id": 6805,"text": ["felicemente"]}
-  ],
-  "happy": [
-    {"id": 6806,"text": ["felice"]}
-  ],
-  "harbor": [
-    {"id": 6807,"text": ["porto"]}
-  ],
-  "harbour": [
-    {"id": 6808,"text": ["porto"]}
-  ],
-  "hard": [
-    {"id": 6809,"text": ["arduo"]},
-    {"id": 6810,"text": ["duro"]}
-  ],
-  "harden": [
-    {"id": 6811,"text": ["indurire"]}
-  ],
-  "hardly": [
-    {"id": 6812,"text": ["difficilmente"]},
-    {"id": 6813,"text": ["duramente"]}
-  ],
-  "hardness": [
-    {"id": 6814,"text": ["durezza"]}
-  ],
-  "hardship": [
-    {"id": 6815,"text": ["trance"]}
-  ],
-  "hardtobelieve": [
-    {"id": 6816,"text": ["difficiledacredere"]}
-  ],
-  "hare": [
-    {"id": 6817,"text": ["lepre"]}
-  ],
-  "harem": [
-    {"id": 6818,"text": ["harem"]}
-  ],
-  "harm": [
-    {"id": 6819,"text": ["danneggiare"]},
-    {"id": 6820,"text": ["danno"]},
-    {"id": 6821,"text": ["nuocere"]}
-  ],
-  "harmful": [
-    {"id": 6822,"text": ["dannoso"]},
-    {"id": 6823,"text": ["nocivo"]}
-  ],
-  "harmonic": [
-    {"id": 6824,"text": ["armonico"]}
-  ],
-  "harmonisation": [
-    {"id": 6825,"text": ["armonizzazione"]}
-  ],
-  "harmonise": [
-    {"id": 6826,"text": ["armonizzare"]}
-  ],
-  "harmonium": [
-    {"id": 6827,"text": ["armonium"]}
-  ],
-  "harmonization": [
-    {"id": 6828,"text": ["armonizzazione"]}
-  ],
-  "harmonize": [
-    {"id": 6829,"text": ["armonizzare"]}
-  ],
-  "harmony": [
-    {"id": 6830,"text": ["armonia"]}
-  ],
-  "harness": [
-    {"id": 6831,"text": ["imbracatura"]}
-  ],
-  "harp": [
-    {"id": 6832,"text": ["arpa"]}
-  ],
-  "harpy": [
-    {"id": 6833,"text": ["arpia"]}
-  ],
-  "harsh": [
-    {"id": 6834,"text": ["duro"]}
-  ],
-  "harshly": [
-    {"id": 6835,"text": ["aspramente"]}
-  ],
-  "harvest": [
-    {"id": 6836,"text": ["raccogliere"]},
-    {"id": 6837,"text": ["raccolto"]}
-  ],
-  "haste": [
-    {"id": 6838,"text": ["fretta"]}
-  ],
-  "hat": [
-    {"id": 6839,"text": ["cappello"]}
-  ],
-  "hatch": [
-    {"id": 6840,"text": ["covare"]}
-  ],
-  "hate": [
-    {"id": 6841,"text": ["odiare"]},
-    {"id": 6842,"text": ["odio"]}
-  ],
-  "hateful": [
-    {"id": 6843,"text": ["odioso"]}
-  ],
-  "hatred": [
-    {"id": 6844,"text": ["odio"]},
-    {"id": 6845,"text": ["rancore"]}
-  ],
-  "haustorium": [
-    {"id": 6846,"text": ["austorio"]}
-  ],
-  "have": [
-    {"id": 6847,"text": ["avere"]}
-  ],
-  "have got": [
-    {"id": 6848,"text": ["avere"]}
-  ],
-  "haven": [
-    {"id": 6849,"text": ["rifugio"]}
-  ],
-  "hawk": [
-    {"id": 6850,"text": ["falco"]}
-  ],
-  "hay": [
-    {"id": 6851,"text": ["fieno"]}
-  ],
-  "hazardous": [
-    {"id": 6852,"text": ["pericoloso"]}
-  ],
-  "haze": [
-    {"id": 6853,"text": ["foschia"]}
-  ],
-  "hazel": [
-    {"id": 6854,"text": ["nocciolo"]}
-  ],
-  "hazelnut": [
-    {"id": 6855,"text": ["nocciola"]}
-  ],
-  "he": [
-    {"id": 6856,"text": ["egli"]},
-    {"id": 6857,"text": ["lui"]}
-  ],
-  "head": [
-    {"id": 6858,"text": ["aprire"]},
-    {"id": 6859,"text": ["capo"]},
-    {"id": 6860,"text": ["guidare"]},
-    {"id": 6861,"text": ["testa"]}
-  ],
-  "headache": [
-    {"id": 6862,"text": ["malditesta"]}
-  ],
-  "headband": [
-    {"id": 6863,"text": ["bandana"]},
-    {"id": 6864,"text": ["fascia"]}
-  ],
-  "header": [
-    {"id": 6865,"text": ["intestazione"]}
-  ],
-  "headlight": [
-    {"id": 6866,"text": ["fanale"]},
-    {"id": 6867,"text": ["faro"]}
-  ],
-  "headline": [
-    {"id": 6868,"text": ["intestatario"]}
-  ],
-  "headoffice": [
-    {"id": 6869,"text": ["centrale"]}
-  ],
-  "headofgovernment": [
-    {"id": 6870,"text": ["capodelgoverno"]}
-  ],
-  "headofstate": [
-    {"id": 6871,"text": ["capodelstato"]},
-    {"id": 6872,"text": ["capodistato"]}
-  ],
-  "headquarters": [
-    {"id": 6873,"text": ["quartier generale"]}
-  ],
-  "heal": [
-    {"id": 6874,"text": ["curare"]}
-  ],
-  "health": [
-    {"id": 6875,"text": ["salute"]}
-  ],
-  "healthy": [
-    {"id": 6876,"text": ["sano"]},
-    {"id": 6877,"text": ["salutare"]}
-  ],
-  "heap": [
-    {"id": 6878,"text": ["ammasso"]},
-    {"id": 6879,"text": ["cumulo"]}
-  ],
-  "hear": [
-    {"id": 6880,"text": ["sentire"]},
-    {"id": 6881,"text": ["udire"]}
-  ],
-  "hearing": [
-    {"id": 6882,"text": ["udienza"]},
-    {"id": 6883,"text": ["udito"]}
-  ],
-  "heart": [
-    {"id": 6884,"text": ["cuore"]}
-  ],
-  "heartrate": [
-    {"id": 6885,"text": ["frequenzacardiaca"]}
-  ],
-  "heat": [
-    {"id": 6886,"text": ["calore"]},
-    {"id": 6887,"text": ["riscaldare"]}
-  ],
-  "heater": [
-    {"id": 6888,"text": ["riscaldatore"]},
-    {"id": 6889,"text": ["scaldabagno"]},
-    {"id": 6890,"text": ["stufa"]}
-  ],
-  "heath": [
-    {"id": 6891,"text": ["brughiera"]}
-  ],
-  "heating": [
-    {"id": 6892,"text": ["riscaldamento"]}
-  ],
-  "heave": [
-    {"id": 6893,"text": ["alzare"]}
-  ],
-  "heaven": [
-    {"id": 6894,"text": ["cielo"]}
-  ],
-  "heavenly": [
-    {"id": 6895,"text": ["celestiale"]},
-    {"id": 6896,"text": ["paradisiaco"]}
-  ],
-  "heavily": [
-    {"id": 6897,"text": ["pesantemente"]}
-  ],
-  "heavy": [
-    {"id": 6898,"text": ["pesante"]}
-  ],
-  "Hebraic": [
-    {"id": 6899,"text": ["ebraico"]}
-  ],
-  "Hebrew": [
-    {"id": 6900,"text": ["ebreo"]}
-  ],
-  "hecatomb": [
-    {"id": 6901,"text": ["ecatombe"]}
-  ],
-  "hectare": [
-    {"id": 6902,"text": ["ettaro"]}
-  ],
-  "hedge": [
-    {"id": 6903,"text": ["siepe"]}
-  ],
-  "hedgehog": [
-    {"id": 6904,"text": ["riccio"]}
-  ],
-  "hedonism": [
-    {"id": 6905,"text": ["edonismo"]}
-  ],
-  "heel": [
-    {"id": 6906,"text": ["tacco"]},
-    {"id": 6907,"text": ["tallone"]}
-  ],
-  "hegemonic": [
-    {"id": 6908,"text": ["egemonico"]}
-  ],
-  "hegemony": [
-    {"id": 6909,"text": ["egemonia"]}
-  ],
-  "height": [
-    {"id": 6910,"text": ["altezza"]},
-    {"id": 6911,"text": ["statura"]}
-  ],
-  "heir": [
-    {"id": 6912,"text": ["erede"]}
-  ],
-  "helically": [
-    {"id": 6913,"text": ["elicoidalmente"]}
-  ],
-  "helicoid": [
-    {"id": 6914,"text": ["elicoide"]}
-  ],
-  "helicoidal": [
-    {"id": 6915,"text": ["elicoidale"]}
-  ],
-  "helicopter": [
-    {"id": 6916,"text": ["elicottero"]}
-  ],
-  "heliport": [
-    {"id": 6917,"text": ["eliporto"]}
-  ],
-  "helium": [
-    {"id": 6918,"text": ["elio"]}
-  ],
-  "hell": [
-    {"id": 6919,"text": ["inferno"]}
-  ],
-  "Hellenic": [
-    {"id": 6920,"text": ["ellenico"]}
-  ],
-  "hellenism": [
-    {"id": 6921,"text": ["ellenismo"]}
-  ],
-  "hello": [
-    {"id": 6922,"text": ["ciao"]}
-  ],
-  "helmet": [
-    {"id": 6923,"text": ["casco"]}
-  ],
-  "help": [
-    {"id": 6924,"text": ["aiutare"]},
-    {"id": 6925,"text": ["aiuto"]},
-    {"id": 6926,"text": ["soccorrere"]}
-  ],
-  "helper": [
-    {"id": 6927,"text": ["aiutante"]}
-  ],
-  "helpful": [
-    {"id": 6928,"text": ["utile"]}
-  ],
-  "hematology": [
-    {"id": 6929,"text": ["ematologia"]}
-  ],
-  "hematoma": [
-    {"id": 6930,"text": ["ematoma"]}
-  ],
-  "hematuria": [
-    {"id": 6931,"text": ["ematuria"]}
-  ],
-  "hemicycle": [
-    {"id": 6932,"text": ["emiciclo"]}
-  ],
-  "hemiparesis": [
-    {"id": 6933,"text": ["emiparesi"]}
-  ],
-  "hemiplegia": [
-    {"id": 6934,"text": ["emiplegia"]}
-  ],
-  "hemisphere": [
-    {"id": 6935,"text": ["emisfero"]}
-  ],
-  "hemispherical": [
-    {"id": 6936,"text": ["emisferico"]}
-  ],
-  "hemistich": [
-    {"id": 6937,"text": ["emistichio"]}
-  ],
-  "hemoglobin": [
-    {"id": 6938,"text": ["emoglobina"]}
-  ],
-  "hemogram": [
-    {"id": 6939,"text": ["emocromo"]}
-  ],
-  "hemophilia": [
-    {"id": 6940,"text": ["emofilia"]}
-  ],
-  "hemorrhoid": [
-    {"id": 6941,"text": ["emorroide"]}
-  ],
-  "hemp": [
-    {"id": 6942,"text": ["canapa"]}
-  ],
-  "hen": [
-    {"id": 6943,"text": ["gallina"]}
-  ],
-  "hence": [
-    {"id": 6944,"text": ["perciò"]}
-  ],
-  "henceforth": [
-    {"id": 6945,"text": ["d'ora in avanti"]}
-  ],
-  "heparin": [
-    {"id": 6946,"text": ["eparina"]}
-  ],
-  "hepatic": [
-    {"id": 6947,"text": ["epatico"]}
-  ],
-  "hepatitis": [
-    {"id": 6948,"text": ["epatite"]}
-  ],
-  "hepatomegaly": [
-    {"id": 6949,"text": ["epatomegalia"]}
-  ],
-  "heptagon": [
-    {"id": 6950,"text": ["ettagono"]}
-  ],
-  "her": [
-    {"id": 6951,"text": ["la"]},
-    {"id": 6952,"text": ["le"]},
-    {"id": 6953,"text": ["lei"]},
-    {"id": 6954,"text": ["sua"]},
-    {"id": 6955,"text": ["suo"]}
-  ],
-  "herald": [
-    {"id": 6956,"text": ["araldo"]}
-  ],
-  "herbicide": [
-    {"id": 6957,"text": ["erbicida"]}
-  ],
-  "herbivore": [
-    {"id": 6958,"text": ["erbivoro"]}
-  ],
-  "herbivorous": [
-    {"id": 6959,"text": ["erbivoro"]}
-  ],
-  "Hercules": [
-    {"id": 6960,"text": ["Ercole"]}
-  ],
-  "herd": [
-    {"id": 6961,"text": ["branco"]},
-    {"id": 6962,"text": ["gregge"]},
-    {"id": 6963,"text": ["mandria"]}
-  ],
-  "here": [
-    {"id": 6964,"text": ["qui"]}
-  ],
-  "hereby": [
-    {"id": 6965,"text": ["d'ora in avanti"]}
-  ],
-  "hereditary": [
-    {"id": 6966,"text": ["ereditario"]}
-  ],
-  "heritage": [
-    {"id": 6967,"text": ["eredità"]},
-    {"id": 6968,"text": ["patrimonio"]}
-  ],
-  "hermetical": [
-    {"id": 6969,"text": ["ermetico"]}
-  ],
-  "hermit": [
-    {"id": 6970,"text": ["eremita"]}
-  ],
-  "hernia": [
-    {"id": 6971,"text": ["ernia"]}
-  ],
-  "hero": [
-    {"id": 6972,"text": ["eroe"]}
-  ],
-  "heroic": [
-    {"id": 6973,"text": ["eroico"]}
-  ],
-  "heroine": [
-    {"id": 6974,"text": ["eroina"]}
-  ],
-  "heroism": [
-    {"id": 6975,"text": ["eroismo"]}
-  ],
-  "hers": [
-    {"id": 6976,"text": ["ilsuo"]},
-    {"id": 6977,"text": ["suo"]}
-  ],
-  "herself": [
-    {"id": 6978,"text": ["sé stessa"]}
-  ],
-  "hesitant": [
-    {"id": 6979,"text": ["indeciso"]}
-  ],
-  "hesitate": [
-    {"id": 6980,"text": ["esitare"]}
-  ],
-  "hesitation": [
-    {"id": 6981,"text": ["esitazione"]}
-  ],
-  "heterocyclic": [
-    {"id": 6982,"text": ["eterociclico"]}
-  ],
-  "heterogamy": [
-    {"id": 6983,"text": ["eterogamia"]}
-  ],
-  "heterogeneous": [
-    {"id": 6984,"text": ["eterogeneo"]}
-  ],
-  "heterosexual": [
-    {"id": 6985,"text": ["eterosessuale"]}
-  ],
-  "heterozygote": [
-    {"id": 6986,"text": ["eterozigote"]}
-  ],
-  "heuristic": [
-    {"id": 6987,"text": ["euristico"]}
-  ],
-  "hexadecimal": [
-    {"id": 6988,"text": ["esadecimale"]}
-  ],
-  "hexagon": [
-    {"id": 6989,"text": ["esagono"]}
-  ],
-  "hexagonal": [
-    {"id": 6990,"text": ["esagonale"]}
-  ],
-  "hexameter": [
-    {"id": 6991,"text": ["esametro"]}
-  ],
-  "hexastyle": [
-    {"id": 6992,"text": ["esastilo"]}
-  ],
-  "hexose": [
-    {"id": 6993,"text": ["esoso"]}
-  ],
-  "hi": [
-    {"id": 6994,"text": ["ciao"]}
-  ],
-  "hiatus": [
-    {"id": 6995,"text": ["iato"]}
-  ],
-  "hibernation": [
-    {"id": 6996,"text": ["ibernazione"]},
-    {"id": 6997,"text": ["letargo"]}
-  ],
-  "hiccough": [
-    {"id": 6998,"text": ["singhiozzo"]}
-  ],
-  "hiccup": [
-    {"id": 6999,"text": ["singhiozzo"]}
-  ],
-  "hide": [
-    {"id": 7000,"text": ["nascondere"]},
-    {"id": 7001,"text": ["nascondersi"]}
-  ],
-  "hierarchical": [
-    {"id": 7002,"text": ["gerarchico"]}
-  ],
-  "hierarchy": [
-    {"id": 7003,"text": ["gerarchia"]}
-  ],
-  "hieroglyph": [
-    {"id": 7004,"text": ["geroglifico"]}
-  ],
-  "hieroglyphic": [
-    {"id": 7005,"text": ["geroglifico"]}
-  ],
-  "high": [
-    {"id": 7006,"text": ["alto"]},
-    {"id": 7007,"text": ["fatto"]}
-  ],
-  "highlight": [
-    {"id": 7008,"text": ["evidenziare"]}
-  ],
-  "highly": [
-    {"id": 7009,"text": ["altamente"]}
-  ],
-  "highway": [
-    {"id": 7010,"text": ["autostrada"]}
-  ],
-  "hiking": [
-    {"id": 7011,"text": ["escursionismo"]}
-  ],
-  "hill": [
-    {"id": 7012,"text": ["collina"]}
-  ],
-  "him": [
-    {"id": 7013,"text": ["gli"]},
-    {"id": 7014,"text": ["lo"]},
-    {"id": 7015,"text": ["lui"]}
-  ],
-  "himself": [
-    {"id": 7016,"text": ["sé stesso"]}
-  ],
-  "hinder": [
-    {"id": 7017,"text": ["inibire"]}
-  ],
-  "hinduism": [
-    {"id": 7018,"text": ["induismo"]}
-  ],
-  "hinge": [
-    {"id": 7019,"text": ["cardine"]},
-    {"id": 7020,"text": ["cerniera"]}
-  ],
-  "hint": [
-    {"id": 7021,"text": ["indizio"]},
-    {"id": 7022,"text": ["suggerimento"]},
-    {"id": 7023,"text": ["suggerire"]}
-  ],
-  "hip": [
-    {"id": 7024,"text": ["anca"]},
-    {"id": 7025,"text": ["fianco"]}
-  ],
-  "hippocampus": [
-    {"id": 7026,"text": ["ippocampo"]}
-  ],
-  "hippodrome": [
-    {"id": 7027,"text": ["ippodromo"]}
-  ],
-  "hippopotamus": [
-    {"id": 7028,"text": ["ippopotamo"]}
-  ],
-  "hire": [
-    {"id": 7029,"text": ["affitto"]}
-  ],
-  "his": [
-    {"id": 7030,"text": ["sua"]},
-    {"id": 7031,"text": ["suo"]}
-  ],
-  "Hispanic": [
-    {"id": 7032,"text": ["ispanico"]}
-  ],
-  "histogram": [
-    {"id": 7033,"text": ["istogramma"]}
-  ],
-  "histology": [
-    {"id": 7034,"text": ["istologia"]}
-  ],
-  "historian": [
-    {"id": 7035,"text": ["storico"]}
-  ],
-  "historical": [
-    {"id": 7036,"text": ["storico"]}
-  ],
-  "historically": [
-    {"id": 7037,"text": ["storicamente"]}
-  ],
-  "historiography": [
-    {"id": 7038,"text": ["storiografia"]}
-  ],
-  "history": [
-    {"id": 7039,"text": ["storia"]}
-  ],
-  "hit": [
-    {"id": 7040,"text": ["colpito"]},
-    {"id": 7041,"text": ["colpo"]},
-    {"id": 7042,"text": ["impatto"]},
-    {"id": 7043,"text": ["successo"]}
-  ],
-  "hitchhiking": [
-    {"id": 7044,"text": ["autostop"]}
-  ],
-  "Hitler": [
-    {"id": 7045,"text": ["Hitler"]}
-  ],
-  "hoarfrost": [
-    {"id": 7046,"text": ["calaverna"]},
-    {"id": 7047,"text": ["galaverna"]}
-  ],
-  "hobby": [
-    {"id": 7048,"text": ["hobby"]}
-  ],
-  "hockey": [
-    {"id": 7049,"text": ["hockey"]}
-  ],
-  "hold": [
-    {"id": 7050,"text": ["tenere"]}
-  ],
-  "holder": [
-    {"id": 7051,"text": ["intestatario"]}
-  ],
-  "hole": [
-    {"id": 7052,"text": ["buco"]}
-  ],
-  "holiday": [
-    {"id": 7053,"text": ["festa"]},
-    {"id": 7054,"text": ["vacanza"]}
-  ],
-  "Holland": [
-    {"id": 7055,"text": ["Olanda"]}
-  ],
-  "hollow": [
-    {"id": 7056,"text": ["vacuo"]},
-    {"id": 7057,"text": ["vuoto"]}
-  ],
-  "holmium": [
-    {"id": 7058,"text": ["olmio"]}
-  ],
-  "holocaust": [
-    {"id": 7059,"text": ["olocausto"]}
-  ],
-  "hologram": [
-    {"id": 7060,"text": ["ologramma"]}
-  ],
-  "holography": [
-    {"id": 7061,"text": ["olografia"]}
-  ],
-  "holotype": [
-    {"id": 7062,"text": ["olotipo"]}
-  ],
-  "holy": [
-    {"id": 7063,"text": ["sacro"]},
-    {"id": 7064,"text": ["santo"]}
-  ],
-  "Holy Ghost": [
-    {"id": 7065,"text": ["Spirito Santo"]}
-  ],
-  "holy grail": [
-    {"id": 7066,"text": ["sacro graal"]}
-  ],
-  "Holy Spirit": [
-    {"id": 7067,"text": ["Spirito Santo"]}
-  ],
-  "homage": [
-    {"id": 7068,"text": ["omaggio"]}
-  ],
-  "home": [
-    {"id": 7069,"text": ["allacasa"]},
-    {"id": 7070,"text": ["casa"]}
-  ],
-  "home-made": [
-    {"id": 7071,"text": ["casereccio"]},
-    {"id": 7072,"text": ["fatto in casa"]}
-  ],
-  "homeland": [
-    {"id": 7073,"text": ["patria"]}
-  ],
-  "homeomorphism": [
-    {"id": 7074,"text": ["omeomorfismo"]}
-  ],
-  "Homer": [
-    {"id": 7075,"text": ["Omero"]}
-  ],
-  "homework": [
-    {"id": 7076,"text": ["dovere"]}
-  ],
-  "homicide": [
-    {"id": 7077,"text": ["omicidio"]}
-  ],
-  "homoeopathic": [
-    {"id": 7078,"text": ["omeopatico"]}
-  ],
-  "homoeopathy": [
-    {"id": 7079,"text": ["omeopatia"]}
-  ],
-  "homogenisation": [
-    {"id": 7080,"text": ["omogeneizzazione"]}
-  ],
-  "homogenization": [
-    {"id": 7081,"text": ["omogeneizzazione"]}
-  ],
-  "homography": [
-    {"id": 7082,"text": ["omografia"]}
-  ],
-  "homologation": [
-    {"id": 7083,"text": ["omologazione"]}
-  ],
-  "homologous": [
-    {"id": 7084,"text": ["omologo"]}
-  ],
-  "homology": [
-    {"id": 7085,"text": ["omologia"]}
-  ],
-  "homomorphism": [
-    {"id": 7086,"text": ["omomorfismo"]}
-  ],
-  "homonym": [
-    {"id": 7087,"text": ["omonimo"]}
-  ],
-  "homonymy": [
-    {"id": 7088,"text": ["omonimia"]}
-  ],
-  "homophobia": [
-    {"id": 7089,"text": ["omofobia"]}
-  ],
-  "homophone": [
-    {"id": 7090,"text": ["omofono"]}
-  ],
-  "homophony": [
-    {"id": 7091,"text": ["omofonia"]}
-  ],
-  "homopolar": [
-    {"id": 7092,"text": ["omopolare"]}
-  ],
-  "homopolymer": [
-    {"id": 7093,"text": ["omopolimero"]}
-  ],
-  "homosexual": [
-    {"id": 7094,"text": ["omosessuale"]}
-  ],
-  "homotopy": [
-    {"id": 7095,"text": ["omotopia"]}
-  ],
-  "Honduran": [
-    {"id": 7096,"text": ["onduregno"]}
-  ],
-  "honest": [
-    {"id": 7097,"text": ["onesto"]}
-  ],
-  "honestly": [
-    {"id": 7098,"text": ["onestamente"]}
-  ],
-  "honey": [
-    {"id": 7099,"text": ["miele"]}
-  ],
-  "honeymoon": [
-    {"id": 7100,"text": ["luna di miele"]}
-  ],
-  "honor": [
-    {"id": 7101,"text": ["onorare"]},
-    {"id": 7102,"text": ["onore"]},
-    {"id": 7103,"text": ["onorificenza"]}
-  ],
-  "honorable": [
-    {"id": 7104,"text": ["onorabile"]}
-  ],
-  "honorary": [
-    {"id": 7105,"text": ["onorario"]}
-  ],
-  "honorific": [
-    {"id": 7106,"text": ["onorifico"]}
-  ],
-  "honour": [
-    {"id": 7107,"text": ["onorare"]},
-    {"id": 7108,"text": ["onore"]},
-    {"id": 7109,"text": ["onorificenza"]}
-  ],
-  "honourable": [
-    {"id": 7110,"text": ["onorabile"]}
-  ],
-  "hook": [
-    {"id": 7111,"text": ["agganciare"]},
-    {"id": 7112,"text": ["gancio"]}
-  ],
-  "hoopoe": [
-    {"id": 7113,"text": ["upupa"]}
-  ],
-  "hope": [
-    {"id": 7114,"text": ["auspicare"]},
-    {"id": 7115,"text": ["speranza"]},
-    {"id": 7116,"text": ["sperare"]}
-  ],
-  "hopeless": [
-    {"id": 7117,"text": ["disperato"]}
-  ],
-  "hopper": [
-    {"id": 7118,"text": ["cavalletta"]}
-  ],
-  "Horace": [
-    {"id": 7119,"text": ["Orazio"]}
-  ],
-  "horizon": [
-    {"id": 7120,"text": ["orizzonte"]}
-  ],
-  "horizontal": [
-    {"id": 7121,"text": ["orizzontale"]}
-  ],
-  "horizontally": [
-    {"id": 7122,"text": ["orizzontalmente"]}
-  ],
-  "hormone": [
-    {"id": 7123,"text": ["ormone"]}
-  ],
-  "horn": [
-    {"id": 7124,"text": ["clacson"]},
-    {"id": 7125,"text": ["corno"]}
-  ],
-  "hornblende": [
-    {"id": 7126,"text": ["orneblenda"]}
-  ],
-  "horoscope": [
-    {"id": 7127,"text": ["oroscopo"]}
-  ],
-  "horrible": [
-    {"id": 7128,"text": ["orribile"]}
-  ],
-  "horrify": [
-    {"id": 7129,"text": ["inorridire"]}
-  ],
-  "horror": [
-    {"id": 7130,"text": ["orrore"]}
-  ],
-  "horse": [
-    {"id": 7131,"text": ["cavallo"]}
-  ],
-  "horse riding": [
-    {"id": 7132,"text": ["equitazione"]}
-  ],
-  "horseshoe": [
-    {"id": 7133,"text": ["ferro di cavallo"]}
-  ],
-  "horticulture": [
-    {"id": 7134,"text": ["orticoltura"]}
-  ],
-  "hospice": [
-    {"id": 7135,"text": ["ospizio"]}
-  ],
-  "hospital": [
-    {"id": 7136,"text": ["ospedale"]}
-  ],
-  "hospitalisation": [
-    {"id": 7137,"text": ["ospedalizzazione"]}
-  ],
-  "host": [
-    {"id": 7138,"text": ["ospite"]},
-    {"id": 7139,"text": ["oste"]}
-  ],
-  "hostage": [
-    {"id": 7140,"text": ["ostaggio"]}
-  ],
-  "hostel": [
-    {"id": 7141,"text": ["ostello"]}
-  ],
-  "hostile": [
-    {"id": 7142,"text": ["ostile"]}
-  ],
-  "hot": [
-    {"id": 7143,"text": ["caldo"]}
-  ],
-  "hot air balloon": [
-    {"id": 7144,"text": ["mongolfiera"]}
-  ],
-  "hotel": [
-    {"id": 7145,"text": ["albergo"]},
-    {"id": 7146,"text": ["hotel"]}
-  ],
-  "hour": [
-    {"id": 7147,"text": ["ora"]}
-  ],
-  "house": [
-    {"id": 7148,"text": ["albergare"]},
-    {"id": 7149,"text": ["casa"]}
-  ],
-  "household": [
-    {"id": 7150,"text": ["casa"]}
-  ],
-  "housing": [
-    {"id": 7151,"text": ["alloggio"]}
-  ],
-  "hover": [
-    {"id": 7152,"text": ["sorvolare"]}
-  ],
-  "how": [
-    {"id": 7153,"text": ["come"]}
-  ],
-  "howmany": [
-    {"id": 7154,"text": ["quanto"]}
-  ],
-  "howmuch": [
-    {"id": 7155,"text": ["quanto"]}
-  ],
-  "hug": [
-    {"id": 7156,"text": ["abbracciare"]}
-  ],
-  "huge": [
-    {"id": 7157,"text": ["enorme"]}
-  ],
-  "hugely": [
-    {"id": 7158,"text": ["enormemente"]}
-  ],
-  "human": [
-    {"id": 7159,"text": ["umano"]}
-  ],
-  "human being": [
-    {"id": 7160,"text": ["essere umano"]}
-  ],
-  "human race": [
-    {"id": 7161,"text": ["razza umana"]}
-  ],
-  "humanise": [
-    {"id": 7162,"text": ["umanizzare"]}
-  ],
-  "humanism": [
-    {"id": 7163,"text": ["umanismo"]}
-  ],
-  "humanist": [
-    {"id": 7164,"text": ["umanista"]}
-  ],
-  "humanistic": [
-    {"id": 7165,"text": ["umanistico"]}
-  ],
-  "humanitarian": [
-    {"id": 7166,"text": ["umanitario"]}
-  ],
-  "humanity": [
-    {"id": 7167,"text": ["umanità"]}
-  ],
-  "humanize": [
-    {"id": 7168,"text": ["umanizzare"]}
-  ],
-  "humanly": [
-    {"id": 7169,"text": ["umanamente"]}
-  ],
-  "humble": [
-    {"id": 7170,"text": ["umile"]}
-  ],
-  "humbly": [
-    {"id": 7171,"text": ["umilmente"]}
-  ],
-  "humerus": [
-    {"id": 7172,"text": ["omero"]}
-  ],
-  "humic": [
-    {"id": 7173,"text": ["umico"]}
-  ],
-  "humid": [
-    {"id": 7174,"text": ["umido"]}
-  ],
-  "humification": [
-    {"id": 7175,"text": ["umificazione"]}
-  ],
-  "humiliate": [
-    {"id": 7176,"text": ["umiliare"]}
-  ],
-  "humiliating": [
-    {"id": 7177,"text": ["umiliante"]}
-  ],
-  "humiliation": [
-    {"id": 7178,"text": ["umiliazione"]}
-  ],
-  "humoral": [
-    {"id": 7179,"text": ["umorale"]}
-  ],
-  "humorist": [
-    {"id": 7180,"text": ["umorista"]}
-  ],
-  "humorous": [
-    {"id": 7181,"text": ["umoristico"]}
-  ],
-  "humour": [
-    {"id": 7182,"text": ["umorismo"]}
-  ],
-  "hump": [
-    {"id": 7183,"text": ["gobba"]}
-  ],
-  "hundred": [
-    {"id": 7184,"text": ["centinaio"]}
-  ],
-  "hundredth": [
-    {"id": 7185,"text": ["centesimo"]}
-  ],
-  "Hungarian": [
-    {"id": 7186,"text": ["ungherese"]}
-  ],
-  "Hungary": [
-    {"id": 7187,"text": ["Ungheria"]}
-  ],
-  "hunger": [
-    {"id": 7188,"text": ["fame"]}
-  ],
-  "hungry": [
-    {"id": 7189,"text": ["affamato"]}
-  ],
-  "hunt": [
-    {"id": 7190,"text": ["caccia"]},
-    {"id": 7191,"text": ["cacciare"]}
-  ],
-  "hunting": [
-    {"id": 7192,"text": ["caccia"]}
-  ],
-  "hurricane": [
-    {"id": 7193,"text": ["uragano"]}
-  ],
-  "hurry": [
-    {"id": 7194,"text": ["accorrere"]},
-    {"id": 7195,"text": ["fretta"]}
-  ],
-  "hurt": [
-    {"id": 7196,"text": ["dolere"]}
-  ],
-  "husband": [
-    {"id": 7197,"text": ["marito"]}
-  ],
-  "hussar": [
-    {"id": 7198,"text": ["ussaro"]}
-  ],
-  "hut": [
-    {"id": 7199,"text": ["capanna"]}
-  ],
-  "hyacinth": [
-    {"id": 7200,"text": ["giacinto"]}
-  ],
-  "hybrid": [
-    {"id": 7201,"text": ["ibrido"]}
-  ],
-  "hybridisation": [
-    {"id": 7202,"text": ["ibridazione"]},
-    {"id": 7203,"text": ["ibridizzazione"]}
-  ],
-  "hydrangea": [
-    {"id": 7204,"text": ["ortensia"]}
-  ],
-  "hydratation": [
-    {"id": 7205,"text": ["idratazione"]}
-  ],
-  "hydrate": [
-    {"id": 7206,"text": ["idrato"]}
-  ],
-  "hydraulic": [
-    {"id": 7207,"text": ["idraulico"]}
-  ],
-  "hydrazine": [
-    {"id": 7208,"text": ["idrazina"]}
-  ],
-  "hydride": [
-    {"id": 7209,"text": ["idruro"]}
-  ],
-  "hydrocarbon": [
-    {"id": 7210,"text": ["idrocarburo"]}
-  ],
-  "hydrocephalus": [
-    {"id": 7211,"text": ["idrocefalo"]}
-  ],
-  "hydrodynamic": [
-    {"id": 7212,"text": ["idrodinamico"]}
-  ],
-  "hydroelectric": [
-    {"id": 7213,"text": ["idroelettrico"]}
-  ],
-  "hydrofluoric": [
-    {"id": 7214,"text": ["fluoridrico"]}
-  ],
-  "hydrogen": [
-    {"id": 7215,"text": ["idrogeno"]}
-  ],
-  "hydrogenation": [
-    {"id": 7216,"text": ["idrogenazione"]}
-  ],
-  "hydrographic": [
-    {"id": 7217,"text": ["idrografico"]}
-  ],
-  "hydrography": [
-    {"id": 7218,"text": ["idrografia"]}
-  ],
-  "hydrological": [
-    {"id": 7219,"text": ["idrologico"]}
-  ],
-  "hydrology": [
-    {"id": 7220,"text": ["idrologia"]}
-  ],
-  "hydrolysis": [
-    {"id": 7221,"text": ["idrolisi"]}
-  ],
-  "hydrolytic": [
-    {"id": 7222,"text": ["idrolitico"]}
-  ],
-  "hydrophobia": [
-    {"id": 7223,"text": ["idrofobia"]}
-  ],
-  "hydrophobic": [
-    {"id": 7224,"text": ["idrofobico"]}
-  ],
-  "hydroplane": [
-    {"id": 7225,"text": ["idrovolante"]}
-  ],
-  "hydrostatic": [
-    {"id": 7226,"text": ["idrostatico"]}
-  ],
-  "hydroxyde": [
-    {"id": 7227,"text": ["idrossido"]}
-  ],
-  "hyena": [
-    {"id": 7228,"text": ["iena"]}
-  ],
-  "hygiene": [
-    {"id": 7229,"text": ["igiene"]}
-  ],
-  "hygienic": [
-    {"id": 7230,"text": ["igienico"]}
-  ],
-  "hygrometer": [
-    {"id": 7231,"text": ["igrometro"]}
-  ],
-  "hygrometry": [
-    {"id": 7232,"text": ["igrometria"]}
-  ],
-  "hygroscopic": [
-    {"id": 7233,"text": ["igroscopico"]}
-  ],
-  "hymen": [
-    {"id": 7234,"text": ["imene"]}
-  ],
-  "hymn": [
-    {"id": 7235,"text": ["inno"]}
-  ],
-  "hyperbola": [
-    {"id": 7236,"text": ["iperbole"]}
-  ],
-  "hyperbole": [
-    {"id": 7237,"text": ["iperbole"]}
-  ],
-  "hyperbolic": [
-    {"id": 7238,"text": ["iperbolico"]}
-  ],
-  "hyperboloid": [
-    {"id": 7239,"text": ["iperboloide"]}
-  ],
-  "hyperemia": [
-    {"id": 7240,"text": ["iperemia"]}
-  ],
-  "hypermarket": [
-    {"id": 7241,"text": ["ipermercato"]}
-  ],
-  "hyperplasia": [
-    {"id": 7242,"text": ["iperplasia"]}
-  ],
-  "hyperpyrexia": [
-    {"id": 7243,"text": ["iperpiressia"]}
-  ],
-  "hyperthermia": [
-    {"id": 7244,"text": ["ipertermia"]}
-  ],
-  "hyphen": [
-    {"id": 7245,"text": ["trattino"]}
-  ],
-  "hypnosis": [
-    {"id": 7246,"text": ["ipnosi"]}
-  ],
-  "hypnotic": [
-    {"id": 7247,"text": ["ipnotico"]}
-  ],
-  "hypochondria": [
-    {"id": 7248,"text": ["ipocondria"]}
-  ],
-  "hypocoristic": [
-    {"id": 7249,"text": ["ipocoristico"]}
-  ],
-  "hypocrisy": [
-    {"id": 7250,"text": ["ipocrisia"]}
-  ],
-  "hypocrite": [
-    {"id": 7251,"text": ["ipocrita"]}
-  ],
-  "hypocritical": [
-    {"id": 7252,"text": ["ipocrita"]}
-  ],
-  "hypogastric": [
-    {"id": 7253,"text": ["ipogastrico"]}
-  ],
-  "hypogeum": [
-    {"id": 7254,"text": ["ipogeo"]}
-  ],
-  "hypoplasia": [
-    {"id": 7255,"text": ["ipoplasia"]}
-  ],
-  "hypotension": [
-    {"id": 7256,"text": ["ipotensione"]}
-  ],
-  "hypotenuse": [
-    {"id": 7257,"text": ["ipotenusa"]}
-  ],
-  "hypothalamus": [
-    {"id": 7258,"text": ["ipotalamo"]}
-  ],
-  "hypothermia": [
-    {"id": 7259,"text": ["ipotermia"]}
-  ],
-  "hypothesis": [
-    {"id": 7260,"text": ["ipotesi"]}
-  ],
-  "hypothetical": [
-    {"id": 7261,"text": ["ipotetico"]}
-  ],
-  "hypothetically": [
-    {"id": 7262,"text": ["ipoteticamente"]}
-  ],
-  "hypothyroidism": [
-    {"id": 7263,"text": ["ipotiroidismo"]}
-  ],
-  "hypovolemia": [
-    {"id": 7264,"text": ["ipovolemia"]}
-  ],
-  "hypoxia": [
-    {"id": 7265,"text": ["ipossia"]}
-  ],
-  "hypsographic": [
-    {"id": 7266,"text": ["ipsografico"]}
-  ],
-  "hyssop": [
-    {"id": 7267,"text": ["issopo"]}
-  ],
-  "hysteria": [
-    {"id": 7268,"text": ["isteria"]}
-  ]
-}
+{"haberdashery": [
+  {"id":6726,"text":["merceria"]}
+ ],
+
+"habilitation": [
+  {"id":6727,"text":["abilitazione"]}
+ ],
+
+"habit": [
+  {"id":6728,"text":["abitudine"]}
+ ],
+
+"habitat": [
+  {"id":6729,"text":["habitat"]}
+ ],
+
+"habitation": [
+  {"id":6730,"text":["abitazione"]}
+ ],
+
+"habitual": [
+  {"id":6731,"text":["abituale"]}
+ ],
+
+"habitually": [
+  {"id":6732,"text":["abitualmente"]}
+ ],
+
+"hacker": [
+  {"id":6733,"text":["hacker"]}
+ ],
+
+"haematoma": [
+  {"id":6734,"text":["ematoma"]}
+ ],
+
+"hafnium": [
+  {"id":6735,"text":["afnio"]}
+ ],
+
+"hagiographical": [
+  {"id":6736,"text":["agiografico"]}
+ ],
+
+"hagiography": [
+  {"id":6737,"text":["agiografia"]}
+ ],
+
+"hail": [
+  {"id":6738,"text":["grandinare"]},
+  {"id":6739,"text":["grandine"]},
+  {"id":6740,"text":["gridare"]},
+  {"id":6741,"text":["grido"]},
+  {"id":6742,"text":["salutare"]},
+  {"id":6743,"text":["saluto"]}
+ ],
+
+"hailstorm": [
+  {"id":6744,"text":["grandinata"]}
+ ],
+
+"hair": [
+  {"id":6745,"text":["capello"]},
+  {"id":6746,"text":["pelo"]}
+ ],
+
+"hairdresser": [
+  {"id":6747,"text":["parrucchiere"]}
+ ],
+
+"hairy": [
+  {"id":6748,"text":["peloso"]}
+ ],
+
+"hake": [
+  {"id":6749,"text":["nasello"]}
+ ],
+
+"half": [
+  {"id":6750,"text":["metà"]},
+  {"id":6751,"text":["mezzo"]}
+ ],
+
+"half-wit": [
+  {"id":6752,"text":["idiota"]}
+ ],
+
+"halfbrother": [
+  {"id":6753,"text":["fratellomezzo"]}
+ ],
+
+"halide": [
+  {"id":6754,"text":["alogenuro"]}
+ ],
+
+"hall": [
+  {"id":6755,"text":["sala"]}
+ ],
+
+"hallelujah": [
+  {"id":6756,"text":["alleluia"]}
+ ],
+
+"hallucination": [
+  {"id":6757,"text":["allucinazione"]}
+ ],
+
+"hallucinogen": [
+  {"id":6758,"text":["allucinogeno"]}
+ ],
+
+"halo": [
+  {"id":6759,"text":["aureola"]}
+ ],
+
+"halt": [
+  {"id":6760,"text":["arrestare"]}
+ ],
+
+"halter": [
+  {"id":6761,"text":["cavezza"]}
+ ],
+
+"ham": [
+  {"id":6762,"text":["prosciutto"]}
+ ],
+
+"Hamburg": [
+  {"id":6763,"text":["Amburgo"]}
+ ],
+
+"hamburger": [
+  {"id":6764,"text":["hamburger"]}
+ ],
+
+"hammer": [
+  {"id":6765,"text":["martellare"]},
+  {"id":6766,"text":["martello"]}
+ ],
+
+"hammock": [
+  {"id":6767,"text":["amaca"]}
+ ],
+
+"hamper": [
+  {"id":6768,"text":["intralciare"]},
+  {"id":6769,"text":["ostacolare"]}
+ ],
+
+"hamster": [
+  {"id":6770,"text":["criceto"]}
+ ],
+
+"hand": [
+  {"id":6771,"text":["consegnare"]},
+  {"id":6772,"text":["mano"]}
+ ],
+
+"handbag": [
+  {"id":6773,"text":["borsa"]}
+ ],
+
+"handball": [
+  {"id":6774,"text":["pallamano"]}
+ ],
+
+"handcuff": [
+  {"id":6775,"text":["ammanettare"]}
+ ],
+
+"handcuffs": [
+  {"id":6776,"text":["manette"]}
+ ],
+
+"handicrafts": [
+  {"id":6777,"text":["artigianato"]}
+ ],
+
+"handkerchief": [
+  {"id":6778,"text":["fazzoletto"]}
+ ],
+
+"handle": [
+  {"id":6779,"text":["maneggiare"]},
+  {"id":6780,"text":["maniglia"]},
+  {"id":6781,"text":["manubrio"]}
+ ],
+
+"handlebar": [
+  {"id":6782,"text":["manubrio"]}
+ ],
+
+"handmade": [
+  {"id":6783,"text":["artigianale"]},
+  {"id":6784,"text":["fatto a mano"]}
+ ],
+
+"handoverfist": [
+  {"id":6785,"text":["rapidamente"]}
+ ],
+
+"handshake": [
+  {"id":6786,"text":["stretta di mano"]}
+ ],
+
+"handsome": [
+  {"id":6787,"text":["bello"]}
+ ],
+
+"handwriting": [
+  {"id":6788,"text":["grafia"]},
+  {"id":6789,"text":["scrittura"]}
+ ],
+
+"handwritten": [
+  {"id":6790,"text":["manoscritto"]}
+ ],
+
+"handy": [
+  {"id":6791,"text":["utile"]}
+ ],
+
+"hang": [
+  {"id":6792,"text":["appendere"]},
+  {"id":6793,"text":["impiccare"]},
+  {"id":6794,"text":["pendere"]}
+ ],
+
+"hangman": [
+  {"id":6795,"text":["boia"]},
+  {"id":6796,"text":["impiccato"]}
+ ],
+
+"hangover": [
+  {"id":6797,"text":["postumi"]}
+ ],
+
+"Hannibal": [
+  {"id":6798,"text":["Annibale"]}
+ ],
+
+"haphazard": [
+  {"id":6799,"text":["fortuito"]}
+ ],
+
+"haploid": [
+  {"id":6800,"text":["aploide"]}
+ ],
+
+"happen": [
+  {"id":6801,"text":["accadere","avvenire","capitare","succedere"]}
+ ],
+
+"happily": [
+  {"id":6805,"text":["felicemente"]}
+ ],
+
+"happy": [
+  {"id":6806,"text":["felice"]}
+ ],
+
+"harbor": [
+  {"id":6807,"text":["porto"]}
+ ],
+
+"harbour": [
+  {"id":6808,"text":["porto"]}
+ ],
+
+"hard": [
+  {"id":6809,"text":["arduo"]},
+  {"id":6810,"text":["duro"]}
+ ],
+
+"harden": [
+  {"id":6811,"text":["indurire"]}
+ ],
+
+"hardly": [
+  {"id":6812,"text":["difficilmente"]},
+  {"id":6813,"text":["duramente"]}
+ ],
+
+"hardness": [
+  {"id":6814,"text":["durezza"]}
+ ],
+
+"hardship": [
+  {"id":6815,"text":["trance"]}
+ ],
+
+"hardtobelieve": [
+  {"id":6816,"text":["difficiledacredere"]}
+ ],
+
+"hare": [
+  {"id":6817,"text":["lepre"]}
+ ],
+
+"harem": [
+  {"id":6818,"text":["harem"]}
+ ],
+
+"harm": [
+  {"id":6819,"text":["danneggiare"]},
+  {"id":6820,"text":["danno"]},
+  {"id":6821,"text":["nuocere"]}
+ ],
+
+"harmful": [
+  {"id":6822,"text":["dannoso"]},
+  {"id":6823,"text":["nocivo"]}
+ ],
+
+"harmonic": [
+  {"id":6824,"text":["armonico"]}
+ ],
+
+"harmonisation": [
+  {"id":6825,"text":["armonizzazione"]}
+ ],
+
+"harmonise": [
+  {"id":6826,"text":["armonizzare"]}
+ ],
+
+"harmonium": [
+  {"id":6827,"text":["armonium"]}
+ ],
+
+"harmonization": [
+  {"id":6828,"text":["armonizzazione"]}
+ ],
+
+"harmonize": [
+  {"id":6829,"text":["armonizzare"]}
+ ],
+
+"harmony": [
+  {"id":6830,"text":["armonia"]}
+ ],
+
+"harness": [
+  {"id":6831,"text":["imbracatura"]}
+ ],
+
+"harp": [
+  {"id":6832,"text":["arpa"]}
+ ],
+
+"harpy": [
+  {"id":6833,"text":["arpia"]}
+ ],
+
+"harsh": [
+  {"id":6834,"text":["duro"]}
+ ],
+
+"harshly": [
+  {"id":6835,"text":["aspramente"]}
+ ],
+
+"harvest": [
+  {"id":6836,"text":["raccogliere"]},
+  {"id":6837,"text":["raccolto"]}
+ ],
+
+"haste": [
+  {"id":6838,"text":["fretta"]}
+ ],
+
+"hat": [
+  {"id":6839,"text":["cappello"]}
+ ],
+
+"hatch": [
+  {"id":6840,"text":["covare"]}
+ ],
+
+"hate": [
+  {"id":6841,"text":["odiare"]},
+  {"id":6842,"text":["odio"]}
+ ],
+
+"hateful": [
+  {"id":6843,"text":["odioso"]}
+ ],
+
+"hatred": [
+  {"id":6844,"text":["odio"]},
+  {"id":6845,"text":["rancore"]}
+ ],
+
+"haustorium": [
+  {"id":6846,"text":["austorio"]}
+ ],
+
+"have": [
+  {"id":6847,"text":["avere"]}
+ ],
+
+"have got": [
+  {"id":6848,"text":["avere"]}
+ ],
+
+"haven": [
+  {"id":6849,"text":["rifugio"]}
+ ],
+
+"hawk": [
+  {"id":6850,"text":["falco"]}
+ ],
+
+"hay": [
+  {"id":6851,"text":["fieno"]}
+ ],
+
+"hazardous": [
+  {"id":6852,"text":["pericoloso"]}
+ ],
+
+"haze": [
+  {"id":6853,"text":["foschia"]}
+ ],
+
+"hazel": [
+  {"id":6854,"text":["nocciolo"]}
+ ],
+
+"hazelnut": [
+  {"id":6855,"text":["nocciola"]}
+ ],
+
+"he": [
+  {"id":6856,"text":["egli"]},
+  {"id":6857,"text":["lui"]}
+ ],
+
+"head": [
+  {"id":6858,"text":["aprire"]},
+  {"id":6859,"text":["capo"]},
+  {"id":6860,"text":["guidare"]},
+  {"id":6861,"text":["testa"]}
+ ],
+
+"headache": [
+  {"id":6862,"text":["malditesta"]}
+ ],
+
+"headband": [
+  {"id":6863,"text":["bandana"]},
+  {"id":6864,"text":["fascia"]}
+ ],
+
+"header": [
+  {"id":6865,"text":["intestazione"]}
+ ],
+
+"headlight": [
+  {"id":6866,"text":["fanale"]},
+  {"id":6867,"text":["faro"]}
+ ],
+
+"headline": [
+  {"id":6868,"text":["intestatario"]}
+ ],
+
+"headoffice": [
+  {"id":6869,"text":["centrale"]}
+ ],
+
+"headofgovernment": [
+  {"id":6870,"text":["capodelgoverno"]}
+ ],
+
+"headofstate": [
+  {"id":6871,"text":["capodelstato"]},
+  {"id":6872,"text":["capodistato"]}
+ ],
+
+"headquarters": [
+  {"id":6873,"text":["quartier generale"]}
+ ],
+
+"heal": [
+  {"id":6874,"text":["curare"]}
+ ],
+
+"health": [
+  {"id":6875,"text":["salute"]}
+ ],
+
+"healthy": [
+  {"id":6876,"text":["sano"]},
+  {"id":6877,"text":["salutare"]}
+ ],
+
+"heap": [
+  {"id":6878,"text":["ammasso"]},
+  {"id":6879,"text":["cumulo"]}
+ ],
+
+"hear": [
+  {"id":6880,"text":["sentire"]},
+  {"id":6881,"text":["udire"]}
+ ],
+
+"hearing": [
+  {"id":6882,"text":["udienza"]},
+  {"id":6883,"text":["udito"]}
+ ],
+
+"heart": [
+  {"id":6884,"text":["cuore"]}
+ ],
+
+"heartrate": [
+  {"id":6885,"text":["frequenzacardiaca"]}
+ ],
+
+"heat": [
+  {"id":6886,"text":["calore"]},
+  {"id":6887,"text":["riscaldare"]}
+ ],
+
+"heater": [
+  {"id":6888,"text":["riscaldatore"]},
+  {"id":6889,"text":["scaldabagno"]},
+  {"id":6890,"text":["stufa"]}
+ ],
+
+"heath": [
+  {"id":6891,"text":["brughiera"]}
+ ],
+
+"heating": [
+  {"id":6892,"text":["riscaldamento"]}
+ ],
+
+"heave": [
+  {"id":6893,"text":["alzare"]}
+ ],
+
+"heaven": [
+  {"id":6894,"text":["cielo"]}
+ ],
+
+"heavenly": [
+  {"id":6895,"text":["celestiale"]},
+  {"id":6896,"text":["paradisiaco"]}
+ ],
+
+"heavily": [
+  {"id":6897,"text":["pesantemente"]}
+ ],
+
+"heavy": [
+  {"id":6898,"text":["pesante"]}
+ ],
+
+"Hebraic": [
+  {"id":6899,"text":["ebraico"]}
+ ],
+
+"Hebrew": [
+  {"id":6900,"text":["ebreo"]}
+ ],
+
+"hecatomb": [
+  {"id":6901,"text":["ecatombe"]}
+ ],
+
+"hectare": [
+  {"id":6902,"text":["ettaro"]}
+ ],
+
+"hedge": [
+  {"id":6903,"text":["siepe"]}
+ ],
+
+"hedgehog": [
+  {"id":6904,"text":["riccio"]}
+ ],
+
+"hedonism": [
+  {"id":6905,"text":["edonismo"]}
+ ],
+
+"heel": [
+  {"id":6906,"text":["tacco"]},
+  {"id":6907,"text":["tallone"]}
+ ],
+
+"hegemonic": [
+  {"id":6908,"text":["egemonico"]}
+ ],
+
+"hegemony": [
+  {"id":6909,"text":["egemonia"]}
+ ],
+
+"height": [
+  {"id":6910,"text":["altezza"]},
+  {"id":6911,"text":["statura"]}
+ ],
+
+"heir": [
+  {"id":6912,"text":["erede"]}
+ ],
+
+"helically": [
+  {"id":6913,"text":["elicoidalmente"]}
+ ],
+
+"helicoid": [
+  {"id":6914,"text":["elicoide"]}
+ ],
+
+"helicoidal": [
+  {"id":6915,"text":["elicoidale"]}
+ ],
+
+"helicopter": [
+  {"id":6916,"text":["elicottero"]}
+ ],
+
+"heliport": [
+  {"id":6917,"text":["eliporto"]}
+ ],
+
+"helium": [
+  {"id":6918,"text":["elio"]}
+ ],
+
+"hell": [
+  {"id":6919,"text":["inferno"]}
+ ],
+
+"Hellenic": [
+  {"id":6920,"text":["ellenico"]}
+ ],
+
+"hellenism": [
+  {"id":6921,"text":["ellenismo"]}
+ ],
+
+"hello": [
+  {"id":6922,"text":["ciao"]}
+ ],
+
+"helmet": [
+  {"id":6923,"text":["casco"]}
+ ],
+
+"help": [
+  {"id":6924,"text":["aiutare"]},
+  {"id":6925,"text":["aiuto"]},
+  {"id":6926,"text":["soccorrere"]}
+ ],
+
+"helper": [
+  {"id":6927,"text":["aiutante"]}
+ ],
+
+"helpful": [
+  {"id":6928,"text":["utile"]}
+ ],
+
+"hematology": [
+  {"id":6929,"text":["ematologia"]}
+ ],
+
+"hematoma": [
+  {"id":6930,"text":["ematoma"]}
+ ],
+
+"hematuria": [
+  {"id":6931,"text":["ematuria"]}
+ ],
+
+"hemicycle": [
+  {"id":6932,"text":["emiciclo"]}
+ ],
+
+"hemiparesis": [
+  {"id":6933,"text":["emiparesi"]}
+ ],
+
+"hemiplegia": [
+  {"id":6934,"text":["emiplegia"]}
+ ],
+
+"hemisphere": [
+  {"id":6935,"text":["emisfero"]}
+ ],
+
+"hemispherical": [
+  {"id":6936,"text":["emisferico"]}
+ ],
+
+"hemistich": [
+  {"id":6937,"text":["emistichio"]}
+ ],
+
+"hemoglobin": [
+  {"id":6938,"text":["emoglobina"]}
+ ],
+
+"hemogram": [
+  {"id":6939,"text":["emocromo"]}
+ ],
+
+"hemophilia": [
+  {"id":6940,"text":["emofilia"]}
+ ],
+
+"hemorrhoid": [
+  {"id":6941,"text":["emorroide"]}
+ ],
+
+"hemp": [
+  {"id":6942,"text":["canapa"]}
+ ],
+
+"hen": [
+  {"id":6943,"text":["gallina"]}
+ ],
+
+"hence": [
+  {"id":6944,"text":["perciò"]}
+ ],
+
+"henceforth": [
+  {"id":6945,"text":["d'ora in avanti"]}
+ ],
+
+"heparin": [
+  {"id":6946,"text":["eparina"]}
+ ],
+
+"hepatic": [
+  {"id":6947,"text":["epatico"]}
+ ],
+
+"hepatitis": [
+  {"id":6948,"text":["epatite"]}
+ ],
+
+"hepatomegaly": [
+  {"id":6949,"text":["epatomegalia"]}
+ ],
+
+"heptagon": [
+  {"id":6950,"text":["ettagono"]}
+ ],
+
+"her": [
+  {"id":6951,"text":["la"]},
+  {"id":6952,"text":["le"]},
+  {"id":6953,"text":["lei"]},
+  {"id":6954,"text":["sua"]},
+  {"id":6955,"text":["suo"]}
+ ],
+
+"herald": [
+  {"id":6956,"text":["araldo"]}
+ ],
+
+"herbicide": [
+  {"id":6957,"text":["erbicida"]}
+ ],
+
+"herbivore": [
+  {"id":6958,"text":["erbivoro"]}
+ ],
+
+"herbivorous": [
+  {"id":6959,"text":["erbivoro"]}
+ ],
+
+"Hercules": [
+  {"id":6960,"text":["Ercole"]}
+ ],
+
+"herd": [
+  {"id":6961,"text":["branco"]},
+  {"id":6962,"text":["gregge"]},
+  {"id":6963,"text":["mandria"]}
+ ],
+
+"here": [
+  {"id":6964,"text":["qui"]}
+ ],
+
+"hereby": [
+  {"id":6965,"text":["d'ora in avanti"]}
+ ],
+
+"hereditary": [
+  {"id":6966,"text":["ereditario"]}
+ ],
+
+"heritage": [
+  {"id":6967,"text":["eredità"]},
+  {"id":6968,"text":["patrimonio"]}
+ ],
+
+"hermetical": [
+  {"id":6969,"text":["ermetico"]}
+ ],
+
+"hermit": [
+  {"id":6970,"text":["eremita"]}
+ ],
+
+"hernia": [
+  {"id":6971,"text":["ernia"]}
+ ],
+
+"hero": [
+  {"id":6972,"text":["eroe"]}
+ ],
+
+"heroic": [
+  {"id":6973,"text":["eroico"]}
+ ],
+
+"heroine": [
+  {"id":6974,"text":["eroina"]}
+ ],
+
+"heroism": [
+  {"id":6975,"text":["eroismo"]}
+ ],
+
+"hers": [
+  {"id":6976,"text":["ilsuo"]},
+  {"id":6977,"text":["suo"]}
+ ],
+
+"herself": [
+  {"id":6978,"text":["sé stessa"]}
+ ],
+
+"hesitant": [
+  {"id":6979,"text":["indeciso"]}
+ ],
+
+"hesitate": [
+  {"id":6980,"text":["esitare"]}
+ ],
+
+"hesitation": [
+  {"id":6981,"text":["esitazione"]}
+ ],
+
+"heterocyclic": [
+  {"id":6982,"text":["eterociclico"]}
+ ],
+
+"heterogamy": [
+  {"id":6983,"text":["eterogamia"]}
+ ],
+
+"heterogeneous": [
+  {"id":6984,"text":["eterogeneo"]}
+ ],
+
+"heterosexual": [
+  {"id":6985,"text":["eterosessuale"]}
+ ],
+
+"heterozygote": [
+  {"id":6986,"text":["eterozigote"]}
+ ],
+
+"heuristic": [
+  {"id":6987,"text":["euristico"]}
+ ],
+
+"hexadecimal": [
+  {"id":6988,"text":["esadecimale"]}
+ ],
+
+"hexagon": [
+  {"id":6989,"text":["esagono"]}
+ ],
+
+"hexagonal": [
+  {"id":6990,"text":["esagonale"]}
+ ],
+
+"hexameter": [
+  {"id":6991,"text":["esametro"]}
+ ],
+
+"hexastyle": [
+  {"id":6992,"text":["esastilo"]}
+ ],
+
+"hexose": [
+  {"id":6993,"text":["esoso"]}
+ ],
+
+"hi": [
+  {"id":6994,"text":["ciao"]}
+ ],
+
+"hiatus": [
+  {"id":6995,"text":["iato"]}
+ ],
+
+"hibernation": [
+  {"id":6996,"text":["ibernazione"]},
+  {"id":6997,"text":["letargo"]}
+ ],
+
+"hiccough": [
+  {"id":6998,"text":["singhiozzo"]}
+ ],
+
+"hiccup": [
+  {"id":6999,"text":["singhiozzo"]}
+ ],
+
+"hide": [
+  {"id":7000,"text":["nascondere"]},
+  {"id":7001,"text":["nascondersi"]}
+ ],
+
+"hierarchical": [
+  {"id":7002,"text":["gerarchico"]}
+ ],
+
+"hierarchy": [
+  {"id":7003,"text":["gerarchia"]}
+ ],
+
+"hieroglyph": [
+  {"id":7004,"text":["geroglifico"]}
+ ],
+
+"hieroglyphic": [
+  {"id":7005,"text":["geroglifico"]}
+ ],
+
+"high": [
+  {"id":7006,"text":["alto"]},
+  {"id":7007,"text":["fatto"]}
+ ],
+
+"highlight": [
+  {"id":7008,"text":["evidenziare"]}
+ ],
+
+"highly": [
+  {"id":7009,"text":["altamente"]}
+ ],
+
+"highway": [
+  {"id":7010,"text":["autostrada"]}
+ ],
+
+"hiking": [
+  {"id":7011,"text":["escursionismo"]}
+ ],
+
+"hill": [
+  {"id":7012,"text":["collina"]}
+ ],
+
+"him": [
+  {"id":7013,"text":["gli"]},
+  {"id":7014,"text":["lo"]},
+  {"id":7015,"text":["lui"]}
+ ],
+
+"himself": [
+  {"id":7016,"text":["sé stesso"]}
+ ],
+
+"hinder": [
+  {"id":7017,"text":["inibire"]}
+ ],
+
+"hinduism": [
+  {"id":7018,"text":["induismo"]}
+ ],
+
+"hinge": [
+  {"id":7019,"text":["cardine"]},
+  {"id":7020,"text":["cerniera"]}
+ ],
+
+"hint": [
+  {"id":7021,"text":["indizio"]},
+  {"id":7022,"text":["suggerimento"]},
+  {"id":7023,"text":["suggerire"]}
+ ],
+
+"hip": [
+  {"id":7024,"text":["anca"]},
+  {"id":7025,"text":["fianco"]}
+ ],
+
+"hippocampus": [
+  {"id":7026,"text":["ippocampo"]}
+ ],
+
+"hippodrome": [
+  {"id":7027,"text":["ippodromo"]}
+ ],
+
+"hippopotamus": [
+  {"id":7028,"text":["ippopotamo"]}
+ ],
+
+"hire": [
+  {"id":7029,"text":["affitto"]}
+ ],
+
+"his": [
+  {"id":7030,"text":["sua"]},
+  {"id":7031,"text":["suo"]}
+ ],
+
+"Hispanic": [
+  {"id":7032,"text":["ispanico"]}
+ ],
+
+"histogram": [
+  {"id":7033,"text":["istogramma"]}
+ ],
+
+"histology": [
+  {"id":7034,"text":["istologia"]}
+ ],
+
+"historian": [
+  {"id":7035,"text":["storico"]}
+ ],
+
+"historical": [
+  {"id":7036,"text":["storico"]}
+ ],
+
+"historically": [
+  {"id":7037,"text":["storicamente"]}
+ ],
+
+"historiography": [
+  {"id":7038,"text":["storiografia"]}
+ ],
+
+"history": [
+  {"id":7039,"text":["storia"]}
+ ],
+
+"hit": [
+  {"id":7040,"text":["colpito"]},
+  {"id":7041,"text":["colpo"]},
+  {"id":7042,"text":["impatto"]},
+  {"id":7043,"text":["successo"]}
+ ],
+
+"hitchhiking": [
+  {"id":7044,"text":["autostop"]}
+ ],
+
+"Hitler": [
+  {"id":7045,"text":["Hitler"]}
+ ],
+
+"hoarfrost": [
+  {"id":7046,"text":["calaverna"]},
+  {"id":7047,"text":["galaverna"]}
+ ],
+
+"hobby": [
+  {"id":7048,"text":["hobby"]}
+ ],
+
+"hockey": [
+  {"id":7049,"text":["hockey"]}
+ ],
+
+"hold": [
+  {"id":7050,"text":["tenere"]}
+ ],
+
+"holder": [
+  {"id":7051,"text":["intestatario"]}
+ ],
+
+"hole": [
+  {"id":7052,"text":["buco"]}
+ ],
+
+"holiday": [
+  {"id":7053,"text":["festa"]},
+  {"id":7054,"text":["vacanza"]}
+ ],
+
+"Holland": [
+  {"id":7055,"text":["Olanda"]}
+ ],
+
+"hollow": [
+  {"id":7056,"text":["vacuo"]},
+  {"id":7057,"text":["vuoto"]}
+ ],
+
+"holmium": [
+  {"id":7058,"text":["olmio"]}
+ ],
+
+"holocaust": [
+  {"id":7059,"text":["olocausto"]}
+ ],
+
+"hologram": [
+  {"id":7060,"text":["ologramma"]}
+ ],
+
+"holography": [
+  {"id":7061,"text":["olografia"]}
+ ],
+
+"holotype": [
+  {"id":7062,"text":["olotipo"]}
+ ],
+
+"holy": [
+  {"id":7063,"text":["sacro"]},
+  {"id":7064,"text":["santo"]}
+ ],
+
+"Holy Ghost": [
+  {"id":7065,"text":["Spirito Santo"]}
+ ],
+
+"holy grail": [
+  {"id":7066,"text":["sacro graal"]}
+ ],
+
+"Holy Spirit": [
+  {"id":7067,"text":["Spirito Santo"]}
+ ],
+
+"homage": [
+  {"id":7068,"text":["omaggio"]}
+ ],
+
+"home": [
+  {"id":7069,"text":["allacasa"]},
+  {"id":7070,"text":["casa"]}
+ ],
+
+"home-made": [
+  {"id":7071,"text":["casereccio"]},
+  {"id":7072,"text":["fatto in casa"]}
+ ],
+
+"homeland": [
+  {"id":7073,"text":["patria"]}
+ ],
+
+"homeomorphism": [
+  {"id":7074,"text":["omeomorfismo"]}
+ ],
+
+"Homer": [
+  {"id":7075,"text":["Omero"]}
+ ],
+
+"homework": [
+  {"id":7076,"text":["dovere"]}
+ ],
+
+"homicide": [
+  {"id":7077,"text":["omicidio"]}
+ ],
+
+"homoeopathic": [
+  {"id":7078,"text":["omeopatico"]}
+ ],
+
+"homoeopathy": [
+  {"id":7079,"text":["omeopatia"]}
+ ],
+
+"homogenisation": [
+  {"id":7080,"text":["omogeneizzazione"]}
+ ],
+
+"homogenization": [
+  {"id":7081,"text":["omogeneizzazione"]}
+ ],
+
+"homography": [
+  {"id":7082,"text":["omografia"]}
+ ],
+
+"homologation": [
+  {"id":7083,"text":["omologazione"]}
+ ],
+
+"homologous": [
+  {"id":7084,"text":["omologo"]}
+ ],
+
+"homology": [
+  {"id":7085,"text":["omologia"]}
+ ],
+
+"homomorphism": [
+  {"id":7086,"text":["omomorfismo"]}
+ ],
+
+"homonym": [
+  {"id":7087,"text":["omonimo"]}
+ ],
+
+"homonymy": [
+  {"id":7088,"text":["omonimia"]}
+ ],
+
+"homophobia": [
+  {"id":7089,"text":["omofobia"]}
+ ],
+
+"homophone": [
+  {"id":7090,"text":["omofono"]}
+ ],
+
+"homophony": [
+  {"id":7091,"text":["omofonia"]}
+ ],
+
+"homopolar": [
+  {"id":7092,"text":["omopolare"]}
+ ],
+
+"homopolymer": [
+  {"id":7093,"text":["omopolimero"]}
+ ],
+
+"homosexual": [
+  {"id":7094,"text":["omosessuale"]}
+ ],
+
+"homotopy": [
+  {"id":7095,"text":["omotopia"]}
+ ],
+
+"Honduran": [
+  {"id":7096,"text":["onduregno"]}
+ ],
+
+"honest": [
+  {"id":7097,"text":["onesto"]}
+ ],
+
+"honestly": [
+  {"id":7098,"text":["onestamente"]}
+ ],
+
+"honey": [
+  {"id":7099,"text":["miele"]}
+ ],
+
+"honeymoon": [
+  {"id":7100,"text":["luna di miele"]}
+ ],
+
+"honor": [
+  {"id":7101,"text":["onorare"]},
+  {"id":7102,"text":["onore"]},
+  {"id":7103,"text":["onorificenza"]}
+ ],
+
+"honorable": [
+  {"id":7104,"text":["onorabile"]}
+ ],
+
+"honorary": [
+  {"id":7105,"text":["onorario"]}
+ ],
+
+"honorific": [
+  {"id":7106,"text":["onorifico"]}
+ ],
+
+"honour": [
+  {"id":7107,"text":["onorare"]},
+  {"id":7108,"text":["onore"]},
+  {"id":7109,"text":["onorificenza"]}
+ ],
+
+"honourable": [
+  {"id":7110,"text":["onorabile"]}
+ ],
+
+"hook": [
+  {"id":7111,"text":["agganciare"]},
+  {"id":7112,"text":["gancio"]}
+ ],
+
+"hoopoe": [
+  {"id":7113,"text":["upupa"]}
+ ],
+
+"hope": [
+  {"id":7114,"text":["auspicare"]},
+  {"id":7115,"text":["speranza"]},
+  {"id":7116,"text":["sperare"]}
+ ],
+
+"hopeless": [
+  {"id":7117,"text":["disperato"]}
+ ],
+
+"hopper": [
+  {"id":7118,"text":["cavalletta"]}
+ ],
+
+"Horace": [
+  {"id":7119,"text":["Orazio"]}
+ ],
+
+"horizon": [
+  {"id":7120,"text":["orizzonte"]}
+ ],
+
+"horizontal": [
+  {"id":7121,"text":["orizzontale"]}
+ ],
+
+"horizontally": [
+  {"id":7122,"text":["orizzontalmente"]}
+ ],
+
+"hormone": [
+  {"id":7123,"text":["ormone"]}
+ ],
+
+"horn": [
+  {"id":7124,"text":["clacson"]},
+  {"id":7125,"text":["corno"]}
+ ],
+
+"hornblende": [
+  {"id":7126,"text":["orneblenda"]}
+ ],
+
+"horoscope": [
+  {"id":7127,"text":["oroscopo"]}
+ ],
+
+"horrible": [
+  {"id":7128,"text":["orribile"]}
+ ],
+
+"horrify": [
+  {"id":7129,"text":["inorridire"]}
+ ],
+
+"horror": [
+  {"id":7130,"text":["orrore"]}
+ ],
+
+"horse": [
+  {"id":7131,"text":["cavallo"]}
+ ],
+
+"horse riding": [
+  {"id":7132,"text":["equitazione"]}
+ ],
+
+"horseshoe": [
+  {"id":7133,"text":["ferro di cavallo"]}
+ ],
+
+"horticulture": [
+  {"id":7134,"text":["orticoltura"]}
+ ],
+
+"hospice": [
+  {"id":7135,"text":["ospizio"]}
+ ],
+
+"hospital": [
+  {"id":7136,"text":["ospedale"]}
+ ],
+
+"hospitalisation": [
+  {"id":7137,"text":["ospedalizzazione"]}
+ ],
+
+"host": [
+  {"id":7138,"text":["ospite"]},
+  {"id":7139,"text":["oste"]}
+ ],
+
+"hostage": [
+  {"id":7140,"text":["ostaggio"]}
+ ],
+
+"hostel": [
+  {"id":7141,"text":["ostello"]}
+ ],
+
+"hostile": [
+  {"id":7142,"text":["ostile"]}
+ ],
+
+"hot": [
+  {"id":7143,"text":["caldo"]}
+ ],
+
+"hot air balloon": [
+  {"id":7144,"text":["mongolfiera"]}
+ ],
+
+"hotel": [
+  {"id":7145,"text":["albergo"]},
+  {"id":7146,"text":["hotel"]}
+ ],
+
+"hour": [
+  {"id":7147,"text":["ora"]}
+ ],
+
+"house": [
+  {"id":7148,"text":["albergare"]},
+  {"id":7149,"text":["casa"]}
+ ],
+
+"household": [
+  {"id":7150,"text":["casa"]}
+ ],
+
+"housing": [
+  {"id":7151,"text":["alloggio"]}
+ ],
+
+"hover": [
+  {"id":7152,"text":["sorvolare"]}
+ ],
+
+"how": [
+  {"id":7153,"text":["come"]}
+ ],
+
+"howmany": [
+  {"id":7154,"text":["quanto"]}
+ ],
+
+"howmuch": [
+  {"id":7155,"text":["quanto"]}
+ ],
+
+"hug": [
+  {"id":7156,"text":["abbracciare"]}
+ ],
+
+"huge": [
+  {"id":7157,"text":["enorme"]}
+ ],
+
+"hugely": [
+  {"id":7158,"text":["enormemente"]}
+ ],
+
+"human": [
+  {"id":7159,"text":["umano"]}
+ ],
+
+"human being": [
+  {"id":7160,"text":["essere umano"]}
+ ],
+
+"human race": [
+  {"id":7161,"text":["razza umana"]}
+ ],
+
+"humanise": [
+  {"id":7162,"text":["umanizzare"]}
+ ],
+
+"humanism": [
+  {"id":7163,"text":["umanismo"]}
+ ],
+
+"humanist": [
+  {"id":7164,"text":["umanista"]}
+ ],
+
+"humanistic": [
+  {"id":7165,"text":["umanistico"]}
+ ],
+
+"humanitarian": [
+  {"id":7166,"text":["umanitario"]}
+ ],
+
+"humanity": [
+  {"id":7167,"text":["umanità"]}
+ ],
+
+"humanize": [
+  {"id":7168,"text":["umanizzare"]}
+ ],
+
+"humanly": [
+  {"id":7169,"text":["umanamente"]}
+ ],
+
+"humble": [
+  {"id":7170,"text":["umile"]}
+ ],
+
+"humbly": [
+  {"id":7171,"text":["umilmente"]}
+ ],
+
+"humerus": [
+  {"id":7172,"text":["omero"]}
+ ],
+
+"humic": [
+  {"id":7173,"text":["umico"]}
+ ],
+
+"humid": [
+  {"id":7174,"text":["umido"]}
+ ],
+
+"humification": [
+  {"id":7175,"text":["umificazione"]}
+ ],
+
+"humiliate": [
+  {"id":7176,"text":["umiliare"]}
+ ],
+
+"humiliating": [
+  {"id":7177,"text":["umiliante"]}
+ ],
+
+"humiliation": [
+  {"id":7178,"text":["umiliazione"]}
+ ],
+
+"humoral": [
+  {"id":7179,"text":["umorale"]}
+ ],
+
+"humorist": [
+  {"id":7180,"text":["umorista"]}
+ ],
+
+"humorous": [
+  {"id":7181,"text":["umoristico"]}
+ ],
+
+"humour": [
+  {"id":7182,"text":["umorismo"]}
+ ],
+
+"hump": [
+  {"id":7183,"text":["gobba"]}
+ ],
+
+"hundred": [
+  {"id":7184,"text":["centinaio"]}
+ ],
+
+"hundredth": [
+  {"id":7185,"text":["centesimo"]}
+ ],
+
+"Hungarian": [
+  {"id":7186,"text":["ungherese"]}
+ ],
+
+"Hungary": [
+  {"id":7187,"text":["Ungheria"]}
+ ],
+
+"hunger": [
+  {"id":7188,"text":["fame"]}
+ ],
+
+"hungry": [
+  {"id":7189,"text":["affamato"]}
+ ],
+
+"hunt": [
+  {"id":7190,"text":["caccia"]},
+  {"id":7191,"text":["cacciare"]}
+ ],
+
+"hunting": [
+  {"id":7192,"text":["caccia"]}
+ ],
+
+"hurricane": [
+  {"id":7193,"text":["uragano"]}
+ ],
+
+"hurry": [
+  {"id":7194,"text":["accorrere"]},
+  {"id":7195,"text":["fretta"]}
+ ],
+
+"hurt": [
+  {"id":7196,"text":["dolere"]}
+ ],
+
+"husband": [
+  {"id":7197,"text":["marito"]}
+ ],
+
+"hussar": [
+  {"id":7198,"text":["ussaro"]}
+ ],
+
+"hut": [
+  {"id":7199,"text":["capanna"]}
+ ],
+
+"hyacinth": [
+  {"id":7200,"text":["giacinto"]}
+ ],
+
+"hybrid": [
+  {"id":7201,"text":["ibrido"]}
+ ],
+
+"hybridisation": [
+  {"id":7202,"text":["ibridazione"]},
+  {"id":7203,"text":["ibridizzazione"]}
+ ],
+
+"hydrangea": [
+  {"id":7204,"text":["ortensia"]}
+ ],
+
+"hydratation": [
+  {"id":7205,"text":["idratazione"]}
+ ],
+
+"hydrate": [
+  {"id":7206,"text":["idrato"]}
+ ],
+
+"hydraulic": [
+  {"id":7207,"text":["idraulico"]}
+ ],
+
+"hydrazine": [
+  {"id":7208,"text":["idrazina"]}
+ ],
+
+"hydride": [
+  {"id":7209,"text":["idruro"]}
+ ],
+
+"hydrocarbon": [
+  {"id":7210,"text":["idrocarburo"]}
+ ],
+
+"hydrocephalus": [
+  {"id":7211,"text":["idrocefalo"]}
+ ],
+
+"hydrodynamic": [
+  {"id":7212,"text":["idrodinamico"]}
+ ],
+
+"hydroelectric": [
+  {"id":7213,"text":["idroelettrico"]}
+ ],
+
+"hydrofluoric": [
+  {"id":7214,"text":["fluoridrico"]}
+ ],
+
+"hydrogen": [
+  {"id":7215,"text":["idrogeno"]}
+ ],
+
+"hydrogenation": [
+  {"id":7216,"text":["idrogenazione"]}
+ ],
+
+"hydrographic": [
+  {"id":7217,"text":["idrografico"]}
+ ],
+
+"hydrography": [
+  {"id":7218,"text":["idrografia"]}
+ ],
+
+"hydrological": [
+  {"id":7219,"text":["idrologico"]}
+ ],
+
+"hydrology": [
+  {"id":7220,"text":["idrologia"]}
+ ],
+
+"hydrolysis": [
+  {"id":7221,"text":["idrolisi"]}
+ ],
+
+"hydrolytic": [
+  {"id":7222,"text":["idrolitico"]}
+ ],
+
+"hydrophobia": [
+  {"id":7223,"text":["idrofobia"]}
+ ],
+
+"hydrophobic": [
+  {"id":7224,"text":["idrofobico"]}
+ ],
+
+"hydroplane": [
+  {"id":7225,"text":["idrovolante"]}
+ ],
+
+"hydrostatic": [
+  {"id":7226,"text":["idrostatico"]}
+ ],
+
+"hydroxyde": [
+  {"id":7227,"text":["idrossido"]}
+ ],
+
+"hyena": [
+  {"id":7228,"text":["iena"]}
+ ],
+
+"hygiene": [
+  {"id":7229,"text":["igiene"]}
+ ],
+
+"hygienic": [
+  {"id":7230,"text":["igienico"]}
+ ],
+
+"hygrometer": [
+  {"id":7231,"text":["igrometro"]}
+ ],
+
+"hygrometry": [
+  {"id":7232,"text":["igrometria"]}
+ ],
+
+"hygroscopic": [
+  {"id":7233,"text":["igroscopico"]}
+ ],
+
+"hymen": [
+  {"id":7234,"text":["imene"]}
+ ],
+
+"hymn": [
+  {"id":7235,"text":["inno"]}
+ ],
+
+"hyperbola": [
+  {"id":7236,"text":["iperbole"]}
+ ],
+
+"hyperbole": [
+  {"id":7237,"text":["iperbole"]}
+ ],
+
+"hyperbolic": [
+  {"id":7238,"text":["iperbolico"]}
+ ],
+
+"hyperboloid": [
+  {"id":7239,"text":["iperboloide"]}
+ ],
+
+"hyperemia": [
+  {"id":7240,"text":["iperemia"]}
+ ],
+
+"hypermarket": [
+  {"id":7241,"text":["ipermercato"]}
+ ],
+
+"hyperplasia": [
+  {"id":7242,"text":["iperplasia"]}
+ ],
+
+"hyperpyrexia": [
+  {"id":7243,"text":["iperpiressia"]}
+ ],
+
+"hyperthermia": [
+  {"id":7244,"text":["ipertermia"]}
+ ],
+
+"hyphen": [
+  {"id":7245,"text":["trattino"]}
+ ],
+
+"hypnosis": [
+  {"id":7246,"text":["ipnosi"]}
+ ],
+
+"hypnotic": [
+  {"id":7247,"text":["ipnotico"]}
+ ],
+
+"hypochondria": [
+  {"id":7248,"text":["ipocondria"]}
+ ],
+
+"hypocoristic": [
+  {"id":7249,"text":["ipocoristico"]}
+ ],
+
+"hypocrisy": [
+  {"id":7250,"text":["ipocrisia"]}
+ ],
+
+"hypocrite": [
+  {"id":7251,"text":["ipocrita"]}
+ ],
+
+"hypocritical": [
+  {"id":7252,"text":["ipocrita"]}
+ ],
+
+"hypogastric": [
+  {"id":7253,"text":["ipogastrico"]}
+ ],
+
+"hypogeum": [
+  {"id":7254,"text":["ipogeo"]}
+ ],
+
+"hypoplasia": [
+  {"id":7255,"text":["ipoplasia"]}
+ ],
+
+"hypotension": [
+  {"id":7256,"text":["ipotensione"]}
+ ],
+
+"hypotenuse": [
+  {"id":7257,"text":["ipotenusa"]}
+ ],
+
+"hypothalamus": [
+  {"id":7258,"text":["ipotalamo"]}
+ ],
+
+"hypothermia": [
+  {"id":7259,"text":["ipotermia"]}
+ ],
+
+"hypothesis": [
+  {"id":7260,"text":["ipotesi"]}
+ ],
+
+"hypothetical": [
+  {"id":7261,"text":["ipotetico"]}
+ ],
+
+"hypothetically": [
+  {"id":7262,"text":["ipoteticamente"]}
+ ],
+
+"hypothyroidism": [
+  {"id":7263,"text":["ipotiroidismo"]}
+ ],
+
+"hypovolemia": [
+  {"id":7264,"text":["ipovolemia"]}
+ ],
+
+"hypoxia": [
+  {"id":7265,"text":["ipossia"]}
+ ],
+
+"hypsographic": [
+  {"id":7266,"text":["ipsografico"]}
+ ],
+
+"hyssop": [
+  {"id":7267,"text":["issopo"]}
+ ],
+
+"hysteria": [
+  {"id":7268,"text":["isteria"]}
+ ]}

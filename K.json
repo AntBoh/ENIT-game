@@ -1,172 +1,223 @@
-{
-  "keen": [
-    {"id": 8204,"text": ["entusiasta"]}
-  ],
-  "keenly": [
-    {"id": 8205,"text": ["vivamente"]}
-  ],
-  "keep": [
-    {"id": 8206,"text": ["mantenere"]}
-  ],
-  "keep on": [
-    {"id": 8207,"text": ["continuare"]}
-  ],
-  "keep watch": [
-    {"id": 8208,"text": ["vigilare"]}
-  ],
-  "kennel": [
-    {"id": 8209,"text": ["canile"]}
-  ],
-  "keratin": [
-    {"id": 8210,"text": ["cheratina"]}
-  ],
-  "key": [
-    {"id": 8211,"text": ["chiave"]},
-    {"id": 8212,"text": ["tono"]}
-  ],
-  "keyboard": [
-    {"id": 8213,"text": ["tastiera"]}
-  ],
-  "keyhole": [
-    {"id": 8214,"text": ["serratura"]}
-  ],
-  "kick": [
-    {"id": 8215,"text": ["calciare"]},
-    {"id": 8216,"text": ["calcio"]}
-  ],
-  "kickoff": [
-    {"id": 8217,"text": ["inizio"]}
-  ],
-  "kid": [
-    {"id": 8218,"text": ["bambino"]},
-    {"id": 8219,"text": ["scherzare"]}
-  ],
-  "kidnap": [
-    {"id": 8220,"text": ["rapire"]}
-  ],
-  "kidnapper": [
-    {"id": 8221,"text": ["rapitore"]}
-  ],
-  "kidney": [
-    {"id": 8222,"text": ["rene"]}
-  ],
-  "kill": [
-    {"id": 8223,"text": ["uccidere"]}
-  ],
-  "killing": [
-    {"id": 8224,"text": ["uccisione"]}
-  ],
-  "kilocalory": [
-    {"id": 8225,"text": ["chilocaloria"]}
-  ],
-  "kilogram": [
-    {"id": 8226,"text": ["chilogrammo"]}
-  ],
-  "kilogramme": [
-    {"id": 8227,"text": ["chilogrammo"]}
-  ],
-  "kilometre": [
-    {"id": 8228,"text": ["chilometro"]}
-  ],
-  "kind": [
-    {"id": 8229,"text": ["gentile"]},
-    {"id": 8230,"text": ["tipo"]}
-  ],
-  "kindergarten": [
-    {"id": 8231,"text": ["asilo"]}
-  ],
-  "kindly": [
-    {"id": 8232,"text": ["gentilmente"]}
-  ],
-  "kindness": [
-    {"id": 8233,"text": ["gentilezza"]}
-  ],
-  "kinematic": [
-    {"id": 8234,"text": ["cinematico"]}
-  ],
-  "kinescope": [
-    {"id": 8235,"text": ["cinescopio"]}
-  ],
-  "kinesthesia": [
-    {"id": 8236,"text": ["cinestesia"]}
-  ],
-  "kinetical": [
-    {"id": 8237,"text": ["cinetico"]}
-  ],
-  "king": [
-    {"id": 8238,"text": ["re"]}
-  ],
-  "kinship": [
-    {"id": 8239,"text": ["parentela"]}
-  ],
-  "kiosk": [
-    {"id": 8240,"text": ["chiosco"]}
-  ],
-  "kiss": [
-    {"id": 8241,"text": ["baciare"]},
-    {"id": 8242,"text": ["bacio"]}
-  ],
-  "kit": [
-    {"id": 8243,"text": ["scatola"]}
-  ],
-  "kitchen": [
-    {"id": 8244,"text": ["cucina"]}
-  ],
-  "kite": [
-    {"id": 8245,"text": ["aquilone"]}
-  ],
-  "kitten": [
-    {"id": 8246,"text": ["gattino"]}
-  ],
-  "klaxon": [
-    {"id": 8247,"text": ["clacson"]}
-  ],
-  "knee": [
-    {"id": 8248,"text": ["ginocchio"]}
-  ],
-  "kneel": [
-    {"id": 8249,"text": ["inginocchiarsi"]}
-  ],
-  "kneepad": [
-    {"id": 8250,"text": ["ginocchiera"]}
-  ],
-  "knife": [
-    {"id": 8251,"text": ["coltello"]}
-  ],
-  "knight": [
-    {"id": 8252,"text": ["cavaliere"]}
-  ],
-  "knit": [
-    {"id": 8253,"text": ["lavorare a maglia"]}
-  ],
-  "knock": [
-    {"id": 8254,"text": ["bussare"]}
-  ],
-  "knock down": [
-    {"id": 8255,"text": ["abbattere"]}
-  ],
-  "knot": [
-    {"id": 8256,"text": ["nodo"]}
-  ],
-  "know": [
-    {"id": 8257,"text": ["conoscere"]},
-    {"id": 8258,"text": ["sapere"]}
-  ],
-  "knowledge": [
-    {"id": 8259,"text": ["conoscenza"]},
-    {"id": 8260,"text": ["sapere"]},
-    {"id": 8261,"text": ["sapienza"]}
-  ],
-  "knowledgeable": [
-    {"id": 8262,"text": ["imparato"]}
-  ],
-  "knuckle": [
-    {"id": 8263,"text": ["nocca"]}
-  ],
-  "Korea": [
-    {"id": 8264,"text": ["Corea"]}
-  ],
-  "Korean": [
-    {"id": 8265,"text": ["coreano"]}
-  ]
-}
+{"keen": [
+  {"id":8204,"text":["entusiasta"]}
+ ],
+
+"keenly": [
+  {"id":8205,"text":["vivamente"]}
+ ],
+
+"keep": [
+  {"id":8206,"text":["mantenere"]}
+ ],
+
+"keep on": [
+  {"id":8207,"text":["continuare"]}
+ ],
+
+"keep watch": [
+  {"id":8208,"text":["vigilare"]}
+ ],
+
+"kennel": [
+  {"id":8209,"text":["canile"]}
+ ],
+
+"keratin": [
+  {"id":8210,"text":["cheratina"]}
+ ],
+
+"key": [
+  {"id":8211,"text":["chiave"]},
+  {"id":8212,"text":["tono"]}
+ ],
+
+"keyboard": [
+  {"id":8213,"text":["tastiera"]}
+ ],
+
+"keyhole": [
+  {"id":8214,"text":["serratura"]}
+ ],
+
+"kick": [
+  {"id":8215,"text":["calciare"]},
+  {"id":8216,"text":["calcio"]}
+ ],
+
+"kickoff": [
+  {"id":8217,"text":["inizio"]}
+ ],
+
+"kid": [
+  {"id":8218,"text":["bambino"]},
+  {"id":8219,"text":["scherzare"]}
+ ],
+
+"kidnap": [
+  {"id":8220,"text":["rapire"]}
+ ],
+
+"kidnapper": [
+  {"id":8221,"text":["rapitore"]}
+ ],
+
+"kidney": [
+  {"id":8222,"text":["rene"]}
+ ],
+
+"kill": [
+  {"id":8223,"text":["uccidere"]}
+ ],
+
+"killing": [
+  {"id":8224,"text":["uccisione"]}
+ ],
+
+"kilocalory": [
+  {"id":8225,"text":["chilocaloria"]}
+ ],
+
+"kilogram": [
+  {"id":8226,"text":["chilogrammo"]}
+ ],
+
+"kilogramme": [
+  {"id":8227,"text":["chilogrammo"]}
+ ],
+
+"kilometre": [
+  {"id":8228,"text":["chilometro"]}
+ ],
+
+"kind": [
+  {"id":8229,"text":["gentile"]},
+  {"id":8230,"text":["tipo"]}
+ ],
+
+"kindergarten": [
+  {"id":8231,"text":["asilo"]}
+ ],
+
+"kindly": [
+  {"id":8232,"text":["gentilmente"]}
+ ],
+
+"kindness": [
+  {"id":8233,"text":["gentilezza"]}
+ ],
+
+"kinematic": [
+  {"id":8234,"text":["cinematico"]}
+ ],
+
+"kinescope": [
+  {"id":8235,"text":["cinescopio"]}
+ ],
+
+"kinesthesia": [
+  {"id":8236,"text":["cinestesia"]}
+ ],
+
+"kinetical": [
+  {"id":8237,"text":["cinetico"]}
+ ],
+
+"king": [
+  {"id":8238,"text":["re"]}
+ ],
+
+"kinship": [
+  {"id":8239,"text":["parentela"]}
+ ],
+
+"kiosk": [
+  {"id":8240,"text":["chiosco"]}
+ ],
+
+"kiss": [
+  {"id":8241,"text":["baciare"]},
+  {"id":8242,"text":["bacio"]}
+ ],
+
+"kit": [
+  {"id":8243,"text":["scatola"]}
+ ],
+
+"kitchen": [
+  {"id":8244,"text":["cucina"]}
+ ],
+
+"kite": [
+  {"id":8245,"text":["aquilone"]}
+ ],
+
+"kitten": [
+  {"id":8246,"text":["gattino"]}
+ ],
+
+"klaxon": [
+  {"id":8247,"text":["clacson"]}
+ ],
+
+"knee": [
+  {"id":8248,"text":["ginocchio"]}
+ ],
+
+"kneel": [
+  {"id":8249,"text":["inginocchiarsi"]}
+ ],
+
+"kneepad": [
+  {"id":8250,"text":["ginocchiera"]}
+ ],
+
+"knife": [
+  {"id":8251,"text":["coltello"]}
+ ],
+
+"knight": [
+  {"id":8252,"text":["cavaliere"]}
+ ],
+
+"knit": [
+  {"id":8253,"text":["lavorare a maglia"]}
+ ],
+
+"knock": [
+  {"id":8254,"text":["bussare"]}
+ ],
+
+"knock down": [
+  {"id":8255,"text":["abbattere"]}
+ ],
+
+"knot": [
+  {"id":8256,"text":["nodo"]}
+ ],
+
+"know": [
+  {"id":8257,"text":["conoscere"]},
+  {"id":8258,"text":["sapere"]}
+ ],
+
+"knowledge": [
+  {"id":8259,"text":["conoscenza"]},
+  {"id":8260,"text":["sapere"]},
+  {"id":8261,"text":["sapienza"]}
+ ],
+
+"knowledgeable": [
+  {"id":8262,"text":["imparato"]}
+ ],
+
+"knuckle": [
+  {"id":8263,"text":["nocca"]}
+ ],
+
+"Korea": [
+  {"id":8264,"text":["Corea"]}
+ ],
+
+"Korean": [
+  {"id":8265,"text":["coreano"]}
+ ]}
