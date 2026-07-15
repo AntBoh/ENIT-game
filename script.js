@@ -11,6 +11,7 @@ let showFoundTimer = null;
 
   // unisci tutti i file in un unico dictionary
   dictionary[mode] = {};
+loadedLetters[mode].clear();
   for (const data of allData) {
     dictionary[mode] = { ...dictionary[mode], ...data };
   }
@@ -23,6 +24,7 @@ let showFoundTimer = null;
     en_it: {},
     it_en: {}
   };
+const loadedLetters = { en_it: new Set(), it_en: new Set() };
 
   let progress = JSON.parse(localStorage.getItem("progress"));
   let counters = JSON.parse(localStorage.getItem("counters")) || {
@@ -41,7 +43,11 @@ function recalcCountersFromProgress() {
     const found = prog[word] || [];
     translations += completedGroups(word);
 
-    if (dict[word] && completedGroups(word) === dict[word].length) {
+    if (
+    dict[word] &&
+    completedGroups(word) === getGroups(word).length
+)
+{
     completed++;
 }
   }
@@ -55,6 +61,8 @@ function recalcCountersFromProgress() {
   if (!progress || typeof progress !== "object") {
     progress = { en_it: {}, it_en: {} };
   }
+
+
 
   if (!progress.en_it) progress.en_it = {};
   if (!progress.it_en) progress.it_en = {};
@@ -70,6 +78,15 @@ function recalcCountersFromProgress() {
       .replace(/[“”]/g, '"')
       .trim();
   }
+function getGroups(word) {
+
+    const data = dictionary[mode][word];
+
+    if (!data) return [];
+
+    return data;
+
+}
 
 function updateCounters() {
   document.getElementById("completedCounter").textContent =
@@ -83,6 +100,21 @@ function updateCounters() {
 
 function showFoundTranslations() {
   const found = progress[mode][currentWordKey] || [];
+
+const groups = dictionary[mode][currentWordKey] || [];
+
+const texts = [];
+
+for (const group of groups) {
+
+    if (found.includes(group.id)) {
+
+        texts.push(...group.text);
+
+    }
+
+}
+
   const foundDiv = document.getElementById("found");
   const foundContainer = document.getElementById("foundContainer");
 
@@ -93,7 +125,7 @@ function showFoundTranslations() {
 
   foundContainer.classList.remove("hidden");
   foundDiv.innerHTML =
-    "Traduzioni già trovate:<br>" + found.join(", ");
+    "Traduzioni già trovate:<br>" + texts.join(", ");
 }
 
 function saveData() {
@@ -194,7 +226,6 @@ function loadDictionaryForLetter(letter) {
       return res.json();
     });
 }
-const loadedLetters = { en_it: new Set(), it_en: new Set() };
 
  async function chooseWord() {
     const letter = alphabet[Math.floor(Math.random() * alphabet.length)];
@@ -242,26 +273,37 @@ const loadedLetters = { en_it: new Set(), it_en: new Set() };
 function completedGroups(word) {
 
     const groups = dictionary[mode][word];
-    const found = progress[mode][word] || [];
 
-    if (!groups || groups.length === 0)
+    let found = progress[mode][word];
+
+
+    if (!groups)
         return 0;
 
-    if (!Array.isArray(groups[0])) {
-        return found.length;
+
+    // protezione da vecchi salvataggi corrotti
+    if (!Array.isArray(found)) {
+        console.warn(
+            "Progress non valido eliminato:",
+            word,
+            found
+        );
+
+        delete progress[mode][word];
+
+        localStorage.setItem(
+            "progress",
+            JSON.stringify(progress)
+        );
+
+        return 0;
     }
 
-    let completed = 0;
 
-    for (const group of groups) {
+    return groups.filter(group =>
+        found.includes(group.id)
+    ).length;
 
-        if (group.some(t => found.includes(t))) {
-            completed++;
-        }
-
-    }
-
-    return completed;
 }
 
 
@@ -318,29 +360,33 @@ function completedGroups(word) {
         const itemRight = document.createElement("div");
         itemRight.className = "word-item right";
 
-        const allRaw = dictionary[mode][word];
+        const all = getGroups(word)
+    .flat()
+    .sort((a,b)=>a.localeCompare(b));
 
-const all = allRaw.flat().sort((a,b)=>a.localeCompare(b));
+        const foundIDs = progress[mode]?.[word] || [];
 
-        const found = [...(Array.isArray(progress[mode]?.[word]) ? progress[mode][word] : [])]
-        .sort((a, b) => a.localeCompare(b));
+const foundTexts = getGroups(word)
+    .filter(group => foundIDs.includes(group.id))
+    .flatMap(group => group.text);
+       
 
         const isSeen = Array.isArray(progress[mode]?.[word]);
         itemLeft.textContent = isSeen ? word : "???";
 
        
 
-        if (isSeen && completedGroups(word) === dictionary[mode][word].length) {
+        if (isSeen && completedGroups(word) === getGroups(word).length) {
           itemLeft.textContent += " ✔";
         }
 
         if (!isSeen) {
           itemRight.textContent = "";
-        } else if (found.length === 0) {
+        } else if (foundIDs.length === 0) {
           itemRight.textContent = all.map(() => "...").join(", ");
         } else {
           itemRight.textContent = all
-            .map(t => found.includes(t) ? t : "...")
+            .map(t => foundTexts.includes(t) ? t : "...")
             .join(", ");
         }
 
@@ -425,16 +471,25 @@ if (!dictionary[mode] || !dictionary[mode][currentWordKey]) {
 
 } else {
 
-    const groups = dictionary[mode][currentWordKey];
+    const groups = getGroups(currentWordKey);
 
-    let matchedGroup = null;
+let matchedGroup = null;
 
-    for (const group of groups) {
-        if (group.map(normalize).includes(userAnswer)) {
-            matchedGroup = group;
-            break;
-        }
+
+for (const group of groups) {
+
+    if (
+        group.text
+        .map(normalize)
+        .includes(userAnswer)
+    ) {
+
+        matchedGroup = group;
+        break;
+
     }
+
+}
 
 
     if (matchedGroup) {
@@ -444,16 +499,19 @@ if (!dictionary[mode] || !dictionary[mode][currentWordKey]) {
 
 const foundBefore = progress[mode][currentWordKey]?.length || 0;
 
-if (!progress[mode][currentWordKey].includes(userAnswer)) {
-  for (const translation of matchedGroup) {
-    if (!progress[mode][currentWordKey].includes(translation)) {
-        progress[mode][currentWordKey].push(translation);
-    }
+if (
+    !progress[mode][currentWordKey]
+    .includes(matchedGroup.id)
+) {
+
+    progress[mode][currentWordKey]
+    .push(matchedGroup.id);
+
 }
   localStorage.setItem("progress", JSON.stringify(progress));
   recalcCountersFromProgress();
   updateCounters();
-}
+
 
     renderWorddexAccordion();
     updateCounters();
@@ -466,7 +524,7 @@ feedback.style.visibility = "visible";
     feedback.textContent = "Sbagliato!";
     feedback.style.color = "red";
     feedback.style.visibility = "visible";
-  }
+  }}
 
   input.value = "";
   chooseWord();

@@ -1,148 +1,148 @@
 {
-  "zafferano": [
-    "saffron"
-  ],
-  "zaffiro": [
-    "sapphire"
-  ],
-  "zaino": [
-    "backpack",
-    "rucksack"
-  ],
-  "zambia": [
-    "zambia"
-  ],
-  "zampillo": [
-    "spurt"
-  ],
-  "zanna": [
-    "fang"
-  ],
-  "zanzara": [
-    "mosquito"
-  ],
-  "zar": [
-    "tzar"
-  ],
-  "zarismo": [
-    "tsarism"
-  ],
-  "zarista": [
-    "tsarist"
-  ],
-  "zarzuela": [
-    "zarzuela"
-  ],
-  "zattera": [
-    "raft"
-  ],
-  "zavorra": [
-    "ballast"
-  ],
-  "zebra": [
-    "zebra"
-  ],
-  "zebrato": [
-    "striped"
-  ],
-  "zelo": [
-    "zeal"
-  ],
-  "zen": [
-    "zen"
-  ],
-  "zenzero": [
-    "ginger"
-  ],
-  "zerbino": [
-    "doormat"
-  ],
-  "zero": [
-    "nil",
-    "scratch",
-    "zero"
-  ],
-  "zigomatico": [
-    "zygomatic"
-  ],
-  "zigomo": [
-    "cheekbone"
-  ],
-  "zigote": [
-    "zygote"
-  ],
-  "zimbabwe": [
-    "zimbabwe"
-  ],
-  "zimbello": [
-    "laughing stock"
-  ],
-  "zinco": [
-    "zinc"
-  ],
-  "zio": [
-    "aunt",
-    "uncle"
-  ],
-  "zirconio": [
-    "zirconium"
-  ],
-  "zitella": [
-    "maiden"
-  ],
-  "zodiaco": [
-    "zodiac"
-  ],
-  "zolfo": [
-    "brimstone",
-    "sulphur"
-  ],
-  "zolla": [
-    "clod"
-  ],
-  "zona": [
-    "zone"
-  ],
-  "zonale": [
-    "zonal"
-  ],
-  "zonazione": [
-    "zonation"
-  ],
-  "zonificazione": [
-    "zoning"
-  ],
-  "zonula": [
-    "zonule"
-  ],
-  "zoo": [
-    "zoo"
-  ],
-  "zoogeografia": [
-    "zoogeography"
-  ],
-  "zoologia": [
-    "zoology"
-  ],
-  "zoologico": [
-    "zoological"
-  ],
-  "zoom": [
-    "zoom"
-  ],
-  "zoppicare": [
-    "limp"
-  ],
-  "zoticone": [
-    "boor"
-  ],
-  "zucchero": [
-    "sugar"
-  ],
-  "zuppa": [
-    "soup"
-  ],
-  "zuppiera": [
-    "tureen"
-  ]
+"zafferano": [
+  {"id":12678,"text":["saffron"]}
+],
+"zaffiro": [
+  {"id":12721,"text":["sapphire"]}
+],
+"zaino": [
+  {"id":1334,"text":["backpack"]},
+  {"id":12608,"text":["rucksack"]}
+],
+"zambia": [
+  {"id":16036,"text":["zambia"]}
+],
+"zampillo": [
+  {"id":13750,"text":["spurt"]}
+],
+"zanna": [
+  {"id":5647,"text":["fang"]}
+],
+"zanzara": [
+  {"id":9444,"text":["mosquito"]}
+],
+"zar": [
+  {"id":15183,"text":["tzar"]}
+],
+"zarismo": [
+  {"id":15080,"text":["tsarism"]}
+],
+"zarista": [
+  {"id":15081,"text":["tsarist"]}
+],
+"zarzuela": [
+  {"id":16037,"text":["zarzuela"]}
+],
+"zattera": [
+  {"id":11824,"text":["raft"]}
+],
+"zavorra": [
+  {"id":1380,"text":["ballast"]}
+],
+"zebra": [
+  {"id":16039,"text":["zebra"]}
+],
+"zebrato": [
+  {"id":13989,"text":["striped"]}
+],
+"zelo": [
+  {"id":16038,"text":["zeal"]}
+],
+"zen": [
+  {"id":16040,"text":["zen"]}
+],
+"zenzero": [
+  {"id":6459,"text":["ginger"]}
+],
+"zerbino": [
+  {"id":4596,"text":["doormat"]}
+],
+"zero": [
+  {"id":9767,"text":["nil"]},
+  {"id":12852,"text":["scratch"]},
+  {"id":16041,"text":["zero"]}
+],
+"zigomatico": [
+  {"id":16060,"text":["zygomatic"]}
+],
+"zigomo": [
+  {"id":2550,"text":["cheekbone"]}
+],
+"zigote": [
+  {"id":16061,"text":["zygote"]}
+],
+"zimbabwe": [
+  {"id":16042,"text":["zimbabwe"]}
+],
+"zimbello": [
+  {"id":8345,"text":["laughing stock"]}
+],
+"zinco": [
+  {"id":16043,"text":["zinc"]}
+],
+"zio": [
+  {"id":1232,"text":["aunt"]},
+  {"id":15216,"text":["uncle"]}
+],
+"zirconio": [
+  {"id":16046,"text":["zirconium"]}
+],
+"zitella": [
+  {"id":8780,"text":["maiden"]}
+],
+"zodiaco": [
+  {"id":16048,"text":["zodiac"]}
+],
+"zolfo": [
+  {"id":1987,"text":["brimstone"]},
+  {"id":14153,"text":["sulphur"]}
+],
+"zolla": [
+  {"id":2778,"text":["clod"]}
+],
+"zona": [
+  {"id":16052,"text":["zone"]}
+],
+"zonale": [
+  {"id":16049,"text":["zonal"]}
+],
+"zonazione": [
+  {"id":16050,"text":["zonation"]}
+],
+"zonificazione": [
+  {"id":16053,"text":["zoning"]}
+],
+"zonula": [
+  {"id":16054,"text":["zonule"]}
+],
+"zoo": [
+  {"id":16055,"text":["zoo"]}
+],
+"zoogeografia": [
+  {"id":16056,"text":["zoogeography"]}
+],
+"zoologia": [
+  {"id":16058,"text":["zoology"]}
+],
+"zoologico": [
+  {"id":16057,"text":["zoological"]}
+],
+"zoom": [
+  {"id":16059,"text":["zoom"]}
+],
+"zoppicare": [
+  {"id":8544,"text":["limp"]}
+],
+"zoticone": [
+  {"id":1848,"text":["boor"]}
+],
+"zucchero": [
+  {"id":14139,"text":["sugar"]}
+],
+"zuppa": [
+  {"id":13589,"text":["soup"]}
+],
+"zuppiera": [
+  {"id":15112,"text":["tureen"]}
+]
 }

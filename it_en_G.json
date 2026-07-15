@@ -1,1373 +1,1378 @@
 {
-  "gabbia": [
-    "cage"
-  ],
-  "gabbiano": [
-    "seagull"
-  ],
-  "gabinetto": [
-    "cabinet",
-    "toilet"
-  ],
-  "gadolinio": [
-    "gadolinium"
-  ],
-  "gaelico": [
-    "Gaelic"
-  ],
-  "gaffe": [
-    "blunder"
-  ],
-  "gagliardo": [
-    "galliard"
-  ],
-  "gaio": [
-    "gay"
-  ],
-  "galassia": [
-    "galaxy"
-  ],
-  "galaverna": [
-    "hoarfrost"
-  ],
-  "galera": [
-    "jail"
-  ],
-  "galiziano": [
-    "Galician"
-  ],
-  "galleggiante": [
-    "float",
-    "floating"
-  ],
-  "galleggiare": [
-    "float"
-  ],
-  "galleria": [
-    "gallery",
-    "tunnel"
-  ],
-  "Galles": [
-    "Wales"
-  ],
-  "gallico": [
-    "gallic"
-  ],
-  "gallina": [
-    "hen"
-  ],
-  "gallio": [
-    "gallium"
-  ],
-  "gallo": [
-    "rooster"
-  ],
-  "gallone": [
-    "chevron",
-    "gallon"
-  ],
-  "galoppare": [
-    "gallop"
-  ],
-  "galoppo": [
-    "gallop"
-  ],
-  "galvanico": [
-    "galvanic"
-  ],
-  "galvanizzazione": [
-    "galvanisation",
-    "galvanization"
-  ],
-  "galvanometro": [
-    "galvanometer"
-  ],
-  "gamba": [
-    "leg"
-  ],
-  "gambero": [
-    "shrimp"
-  ],
-  "gambo": [
-    "stem"
-  ],
-  "gametofito": [
-    "gametophyte"
-  ],
-  "gamma": [
-    "range"
-  ],
-  "gammaglobuline": [
-    "gammaglobulin"
-  ],
-  "gammagrafia": [
-    "gammagraphy"
-  ],
-  "gancio": [
-    "hook"
-  ],
-  "gang": [
-    "gang"
-  ],
-  "ganglio": [
-    "ganglion"
-  ],
-  "gara": [
-    "race"
-  ],
-  "garage": [
-    "garage"
-  ],
-  "garantire": [
-    "guarantee"
-  ],
-  "garanzia": [
-    "assurance",
-    "undertaking",
-    "warranty"
-  ],
-  "gareggiare": [
-    "race"
-  ],
-  "Garfield": [
-    "Garfield"
-  ],
-  "garofano": [
-    "carnation"
-  ],
-  "garza": [
-    "lint"
-  ],
-  "gas": [
-    "gas"
-  ],
-  "gasolio": [
-    "diesel"
-  ],
-  "gasometria": [
-    "gasometry"
-  ],
-  "gassazione": [
-    "gassing"
-  ],
-  "gassificazione": [
-    "gasification"
-  ],
-  "gastrico": [
-    "gastric"
-  ],
-  "gastronomia": [
-    "gastronomy"
-  ],
-  "gastroscopia": [
-    "gastroscopy"
-  ],
-  "gastrulazione": [
-    "gastrulation"
-  ],
-  "gattino": [
-    "kitten"
-  ],
-  "gatto": [
-    "cat"
-  ],
-  "gay": [
-    "gay"
-  ],
-  "gazzella": [
-    "gazelle"
-  ],
-  "gazzetta": [
-    "gazette"
-  ],
-  "gelare": [
-    "freeze"
-  ],
-  "gelatina": [
-    "gelatin",
-    "jelly"
-  ],
-  "gelatinoso": [
-    "gelatinous"
-  ],
-  "gelato": [
-    "ice cream"
-  ],
-  "gelido": [
-    "freezing"
-  ],
-  "gelificazione": [
-    "gelling"
-  ],
-  "gelo": [
-    "freeze"
-  ],
-  "gelosamente": [
-    "jealously"
-  ],
-  "gelosia": [
-    "jealousy"
-  ],
-  "geloso": [
-    "jealous"
-  ],
-  "gelsomino": [
-    "jasmine"
-  ],
-  "gemello": [
-    "twin"
-  ],
-  "gemere": [
-    "groan"
-  ],
-  "geminazione": [
-    "gemination"
-  ],
-  "gemito": [
-    "moan"
-  ],
-  "gemmare": [
-    "burgeon"
-  ],
-  "gemmazione": [
-    "gemmation"
-  ],
-  "gemmologia": [
-    "gemology"
-  ],
-  "gene": [
-    "gene"
-  ],
-  "genealogia": [
-    "genealogy"
-  ],
-  "genealogico": [
-    "genealogical"
-  ],
-  "generale": [
-    "general"
-  ],
-  "generalizzare": [
-    "generalise"
-  ],
-  "generalizzazione": [
-    "generalisation"
-  ],
-  "generalmente": [
-    "generally"
-  ],
-  "generare": [
-    "generate"
-  ],
-  "generatore": [
-    "generator"
-  ],
-  "generazionale": [
-    "generational"
-  ],
-  "generazione": [
-    "generation"
-  ],
-  "genere": [
-    "gender",
-    "genre"
-  ],
-  "genericamente": [
-    "generically"
-  ],
-  "generico": [
-    "generic"
-  ],
-  "generosamente": [
-    "generously"
-  ],
-  "generoso": [
-    "generous"
-  ],
-  "geneticamente": [
-    "genetically"
-  ],
-  "genetico": [
-    "genetic"
-  ],
-  "gengiva": [
-    "gum"
-  ],
-  "gengivale": [
-    "gingival"
-  ],
-  "geniale": [
-    "genial",
-    "ingenious"
-  ],
-  "genico": [
-    "genic"
-  ],
-  "genio": [
-    "genie",
-    "genius"
-  ],
-  "genitale": [
-    "genital"
-  ],
-  "genitivo": [
-    "genitive"
-  ],
-  "genitore": [
-    "parent"
-  ],
-  "genitoriale": [
-    "parental"
-  ],
-  "gennaio": [
-    "January"
-  ],
-  "genocidio": [
-    "genocide"
-  ],
-  "genoma": [
-    "genome"
-  ],
-  "genotipo": [
-    "genotype"
-  ],
-  "Genova": [
-    "Genoa"
-  ],
-  "gente": [
-    "people"
-  ],
-  "gentile": [
-    "gentle",
-    "kind"
-  ],
-  "gentilezza": [
-    "kindness"
-  ],
-  "gentilmente": [
-    "kindly"
-  ],
-  "genuino": [
-    "genuine"
-  ],
-  "genziana": [
-    "gentian"
-  ],
-  "geocronologia": [
-    "geochronology"
-  ],
-  "geodesia": [
-    "geodesy"
-  ],
-  "geodetico": [
-    "geodesic"
-  ],
-  "geografia": [
-    "geography"
-  ],
-  "geograficamente": [
-    "geographically"
-  ],
-  "geografico": [
-    "geographic",
-    "geographical"
-  ],
-  "geoide": [
-    "geoid"
-  ],
-  "geologia": [
-    "geology"
-  ],
-  "geologicamente": [
-    "geologically"
-  ],
-  "geologico": [
-    "geological"
-  ],
-  "geomagnetico": [
-    "geomagnetic"
-  ],
-  "geometria": [
-    "geometry"
-  ],
-  "geometricamente": [
-    "geometrically"
-  ],
-  "geometrico": [
-    "geometrical"
-  ],
-  "geomorfico": [
-    "geomorphic"
-  ],
-  "geomorfologico": [
-    "geomorphological"
-  ],
-  "geopolitico": [
-    "geopolitical"
-  ],
-  "geotermico": [
-    "geothermal"
-  ],
-  "Geova": [
-    "Jehovah"
-  ],
-  "geranio": [
-    "geranium"
-  ],
-  "gerarchia": [
-    "hierarchy"
-  ],
-  "gerarchico": [
-    "hierarchical"
-  ],
-  "geriatria": [
-    "geriatrics"
-  ],
-  "germanesimo": [
-    "germanism"
-  ],
-  "Germania": [
-    "Germany"
-  ],
-  "germanico": [
-    "germanic"
-  ],
-  "germanio": [
-    "germanium"
-  ],
-  "germanizzazione": [
-    "germanisation",
-    "germanization"
-  ],
-  "germe": [
-    "germ"
-  ],
-  "germinale": [
-    "germinal"
-  ],
-  "germinare": [
-    "germinate"
-  ],
-  "germinazione": [
-    "germination"
-  ],
-  "geroglifico": [
-    "hieroglyph",
-    "hieroglyphic"
-  ],
-  "gerontologia": [
-    "gerontology"
-  ],
-  "gerundio": [
-    "gerund"
-  ],
-  "Gerusalemme": [
-    "Jerusalem"
-  ],
-  "gesso": [
-    "chalk",
-    "gypsum"
-  ],
-  "gestazione": [
-    "gestation"
-  ],
-  "gestibile": [
-    "manageable"
-  ],
-  "gestione": [
-    "management"
-  ],
-  "gestire": [
-    "manage",
-    "run"
-  ],
-  "gesto": [
-    "gesture"
-  ],
-  "gestuale": [
-    "gestural"
-  ],
-  "Gesù": [
-    "Jesus"
-  ],
-  "gettare": [
-    "throw"
-  ],
-  "getto": [
-    "spurt"
-  ],
-  "geyser": [
-    "geyser"
-  ],
-  "ghetto": [
-    "ghetto"
-  ],
-  "ghiacciaio": [
-    "glacier"
-  ],
-  "ghiaccio": [
-    "ice"
-  ],
-  "ghiaia": [
-    "gravel"
-  ],
-  "ghianda": [
-    "acorn"
-  ],
-  "ghiandaia": [
-    "jay"
-  ],
-  "ghiandola": [
-    "gland"
-  ],
-  "ghigliottina": [
-    "guillotine"
-  ],
-  "Giacarta": [
-    "Jakarta"
-  ],
-  "giacca": [
-    "coat",
-    "jacket"
-  ],
-  "giacere": [
-    "lie"
-  ],
-  "giacimento": [
-    "deposit"
-  ],
-  "giacinto": [
-    "hyacinth"
-  ],
-  "giacobinismo": [
-    "jacobinism"
-  ],
-  "giacobita": [
-    "jacobite"
-  ],
-  "giada": [
-    "jade"
-  ],
-  "giaguaro": [
-    "jaguar"
-  ],
-  "giallastro": [
-    "yellowish"
-  ],
-  "giallo": [
-    "yellow"
-  ],
-  "Giamaica": [
-    "Jamaica"
-  ],
-  "giamaicano": [
-    "Jamaican"
-  ],
-  "Giappone": [
-    "Japan"
-  ],
-  "giapponese": [
-    "Japanese"
-  ],
-  "giara": [
-    "jar"
-  ],
-  "giardinaggio": [
-    "gardening"
-  ],
-  "giardiniere": [
-    "gardener"
-  ],
-  "giardino": [
-    "garden"
-  ],
-  "giavellotto": [
-    "javelin"
-  ],
-  "Gibilterra": [
-    "Gibraltar"
-  ],
-  "gibilterrino": [
-    "gibraltarian"
-  ],
-  "gigante": [
-    "giant"
-  ],
-  "gigantesco": [
-    "gigantic"
-  ],
-  "gigantismo": [
-    "gigantism"
-  ],
-  "giglio": [
-    "lily"
-  ],
-  "gilda": [
-    "guild"
-  ],
-  "ginecologia": [
-    "gynaecology"
-  ],
-  "ginecologo": [
-    "gynaecologist"
-  ],
-  "ginecomastia": [
-    "gynecomastia"
-  ],
-  "ginnasio": [
-    "gymnasium"
-  ],
-  "ginnasta": [
-    "gymnast"
-  ],
-  "ginnastica": [
-    "gymnastics"
-  ],
-  "ginnastico": [
-    "gymnastic"
-  ],
-  "ginocchiera": [
-    "kneepad"
-  ],
-  "ginocchio": [
-    "knee"
-  ],
-  "giocare": [
-    "play"
-  ],
-  "giocatore": [
-    "player"
-  ],
-  "giocattolo": [
-    "toy"
-  ],
-  "gioco": [
-    "game",
-    "play"
-  ],
-  "gioco d'azzardo": [
-    "gambling"
-  ],
-  "gioco da tavolo": [
-    "board game"
-  ],
-  "giogo": [
-    "yoke"
-  ],
-  "gioia": [
-    "joy"
-  ],
-  "gioielleria": [
-    "jewelery",
-    "jewellery"
-  ],
-  "gioiello": [
-    "jewel",
-    "jewelery",
-    "jewellery"
-  ],
-  "Giordania": [
-    "Jordan"
-  ],
-  "giordano": [
-    "Jordanian"
-  ],
-  "giornale": [
-    "newspaper"
-  ],
-  "giornalismo": [
-    "journalism"
-  ],
-  "giornalista": [
-    "journalist"
-  ],
-  "giornalistico": [
-    "journalistic"
-  ],
-  "giornalmente": [
-    "daily"
-  ],
-  "giornata": [
-    "day"
-  ],
-  "giorno": [
-    "day"
-  ],
-  "giorno di paga": [
-    "payday"
-  ],
-  "giornolavorativo": [
-    "businessday"
-  ],
-  "giostra": [
-    "ride"
-  ],
-  "giovane": [
-    "junior",
-    "young",
-    "youngster"
-  ],
-  "giovanile": [
-    "juvenile"
-  ],
-  "Giove": [
-    "Jupiter"
-  ],
-  "gioventù": [
-    "youth"
-  ],
-  "gioviale": [
-    "jovial"
-  ],
-  "giovinezza": [
-    "youth"
-  ],
-  "giraffa": [
-    "giraffe"
-  ],
-  "girare": [
-    "spin",
-    "turn"
-  ],
-  "girasole": [
-    "sunflower"
-  ],
-  "girata": [
-    "indorsement"
-  ],
-  "girino": [
-    "tadpole"
-  ],
-  "giro": [
-    "tour",
-    "twist"
-  ],
-  "girone": [
-    "circle"
-  ],
-  "giroscopico": [
-    "gyroscopic"
-  ],
-  "giroscopio": [
-    "gyroscope"
-  ],
-  "gita": [
-    "trip"
-  ],
-  "giudaico": [
-    "judaic"
-  ],
-  "giudicare": [
-    "judge"
-  ],
-  "giudice": [
-    "judge"
-  ],
-  "giudiziariamente": [
-    "judicially"
-  ],
-  "giudiziario": [
-    "judicial"
-  ],
-  "giudizio": [
-    "judgement",
-    "trial"
-  ],
-  "giugno": [
-    "June"
-  ],
-  "giullare": [
-    "jester"
-  ],
-  "giungere": [
-    "arrive"
-  ],
-  "giungla": [
-    "jungle"
-  ],
-  "giuntura": [
-    "articulation",
-    "joint"
-  ],
-  "giuramento": [
-    "swearing",
-    "vow"
-  ],
-  "giurare": [
-    "swear",
-    "vow"
-  ],
-  "giuria": [
-    "jury"
-  ],
-  "giuridicamente": [
-    "juridically"
-  ],
-  "giuridico": [
-    "juridical"
-  ],
-  "giurisdizione": [
-    "jurisdiction"
-  ],
-  "giurisprudenza": [
-    "jurisprudence"
-  ],
-  "giurispurudenza": [
-    "law"
-  ],
-  "giurista": [
-    "jurist"
-  ],
-  "giustamente": [
-    "precisely"
-  ],
-  "giustapporre": [
-    "juxtapose"
-  ],
-  "giustapposizione": [
-    "juxtaposition"
-  ],
-  "giustificabile": [
-    "justifiable"
-  ],
-  "giustificare": [
-    "justify"
-  ],
-  "giustificazione": [
-    "justification"
-  ],
-  "giustizia": [
-    "justice"
-  ],
-  "giustiziare": [
-    "execute"
-  ],
-  "giusto": [
-    "fair",
-    "just"
-  ],
-  "già": [
-    "yet"
-  ],
-  "giù": [
-    "down",
-    "off"
-  ],
-  "glaciale": [
-    "glacial"
-  ],
-  "glaciazione": [
-    "glaciation"
-  ],
-  "glaciologia": [
-    "glaciology"
-  ],
-  "gli": [
-    "him",
-    "the"
-  ],
-  "glicina": [
-    "glycine"
-  ],
-  "glicoproteina": [
-    "glycoprotein"
-  ],
-  "globale": [
-    "global",
-    "overall",
-    "worldwide"
-  ],
-  "globalizzazione": [
-    "globalisation",
-    "globalization"
-  ],
-  "globalmente": [
-    "globally",
-    "worldwide"
-  ],
-  "globina": [
-    "globin"
-  ],
-  "globo": [
-    "globe"
-  ],
-  "globulare": [
-    "globular"
-  ],
-  "gloria": [
-    "glory"
-  ],
-  "glorificare": [
-    "glorify"
-  ],
-  "glorificazione": [
-    "glorification"
-  ],
-  "gloriosamente": [
-    "gloriously"
-  ],
-  "glossario": [
-    "glossary"
-  ],
-  "glottocronologia": [
-    "glottochronology"
-  ],
-  "glucosio": [
-    "glucose"
-  ],
-  "gluone": [
-    "gluon"
-  ],
-  "glutammina": [
-    "glutamine"
-  ],
-  "glutine": [
-    "gluten"
-  ],
-  "gnomo": [
-    "gnome"
-  ],
-  "gnomone": [
-    "gnomon"
-  ],
-  "goal": [
-    "goal"
-  ],
-  "gobba": [
-    "hump"
-  ],
-  "goccia": [
-    "drop"
-  ],
-  "gocciolina": [
-    "droplet"
-  ],
-  "godimento": [
-    "enjoyment"
-  ],
-  "goffamente": [
-    "awkwardly"
-  ],
-  "goffo": [
-    "clumsy"
-  ],
-  "gola": [
-    "throat"
-  ],
-  "golfo": [
-    "gulf"
-  ],
-  "golpista": [
-    "coupleader"
-  ],
-  "gomito": [
-    "elbow"
-  ],
-  "gomma": [
-    "rubber"
-  ],
-  "gomma da masticare": [
-    "chewing gum"
-  ],
-  "gondola": [
-    "gondola"
-  ],
-  "gonfiabile": [
-    "inflatable"
-  ],
-  "gonfiare": [
-    "inflate"
-  ],
-  "gonfiore": [
-    "lump",
-    "swelling"
-  ],
-  "gong": [
-    "gong"
-  ],
-  "goniometro": [
-    "goniometer"
-  ],
-  "gonna": [
-    "skirt"
-  ],
-  "gorilla": [
-    "gorilla"
-  ],
-  "gotico": [
-    "gothic"
-  ],
-  "goto": [
-    "goth"
-  ],
-  "governante": [
-    "governess",
-    "ruler",
-    "ruling"
-  ],
-  "governare": [
-    "govern"
-  ],
-  "governativo": [
-    "governmental"
-  ],
-  "governatore": [
-    "governor"
-  ],
-  "governo": [
-    "government"
-  ],
-  "gradazione": [
-    "gradation"
-  ],
-  "gradevole": [
-    "pleasant"
-  ],
-  "gradevolmente": [
-    "pleasantly"
-  ],
-  "gradiente": [
-    "gradient"
-  ],
-  "gradino": [
-    "step"
-  ],
-  "grado": [
-    "degree",
-    "grade",
-    "rank"
-  ],
-  "graduale": [
-    "gradual"
-  ],
-  "gradualmente": [
-    "gradually"
-  ],
-  "graffiare": [
-    "scratch"
-  ],
-  "graffio": [
-    "scratch"
-  ],
-  "grafia": [
-    "handwriting"
-  ],
-  "grafico": [
-    "chart",
-    "graph",
-    "graphical"
-  ],
-  "grafite": [
-    "graphite"
-  ],
-  "grafologia": [
-    "graphology"
-  ],
-  "grammatica": [
-    "grammar"
-  ],
-  "grammaticale": [
-    "grammatical"
-  ],
-  "grammaticalizzazione": [
-    "grammaticalisation"
-  ],
-  "grammatico": [
-    "grammarian"
-  ],
-  "grammatura": [
-    "grammage"
-  ],
-  "grammo": [
-    "gram",
-    "gramme"
-  ],
-  "grammofono": [
-    "gramophone"
-  ],
-  "Gran Bretagna": [
-    "Great Britain"
-  ],
-  "gran premio": [
-    "grand prix"
-  ],
-  "granaio": [
-    "granary"
-  ],
-  "granatiere": [
-    "grenadier"
-  ],
-  "granchio": [
-    "crab"
-  ],
-  "grande": [
-    "big",
-    "elder",
-    "great",
-    "large"
-  ],
-  "Grande Guerra": [
-    "Great War"
-  ],
-  "grandemente": [
-    "greatly",
-    "largely"
-  ],
-  "grandezza": [
-    "greatness"
-  ],
-  "grandinare": [
-    "hail"
-  ],
-  "grandinata": [
-    "hailstorm"
-  ],
-  "grandine": [
-    "hail"
-  ],
-  "grandioso": [
-    "grand"
-  ],
-  "granito": [
-    "granite"
-  ],
-  "grano": [
-    "grain"
-  ],
-  "granturco": [
-    "corn"
-  ],
-  "granulare": [
-    "granular"
-  ],
-  "granulazione": [
-    "granulation"
-  ],
-  "granulometria": [
-    "granulometry"
-  ],
-  "grappolo": [
-    "pendant"
-  ],
-  "grasso": [
-    "fat",
-    "grease",
-    "greasy"
-  ],
-  "gratamente": [
-    "gratefully"
-  ],
-  "gratificare": [
-    "gratify"
-  ],
-  "gratis": [
-    "free"
-  ],
-  "grattacielo": [
-    "skyscraper"
-  ],
-  "grattare": [
-    "scrape",
-    "scratch"
-  ],
-  "grattugia": [
-    "grater"
-  ],
-  "grattugiato": [
-    "grated"
-  ],
-  "gratuitamente": [
-    "freely"
-  ],
-  "gratuito": [
-    "free"
-  ],
-  "grave": [
-    "grave"
-  ],
-  "gravemente": [
-    "gravely"
-  ],
-  "gravidanza": [
-    "pregnancy"
-  ],
-  "gravimetria": [
-    "gravimetry"
-  ],
-  "gravitazionale": [
-    "gravitational"
-  ],
-  "gravitazionalmente": [
-    "gravitationally"
-  ],
-  "gravitazione": [
-    "gravitation"
-  ],
-  "grazia": [
-    "grace"
-  ],
-  "grazie": [
-    "thank you",
-    "thanks"
-  ],
-  "Grecia": [
-    "Greece"
-  ],
-  "greco": [
-    "Greek"
-  ],
-  "gregge": [
-    "flock",
-    "herd"
-  ],
-  "grembiule": [
-    "apron"
-  ],
-  "gridare": [
-    "cry",
-    "hail",
-    "scream",
-    "shout"
-  ],
-  "grido": [
-    "cry",
-    "hail",
-    "scream",
-    "shout"
-  ],
-  "grifone": [
-    "griffin"
-  ],
-  "grigio": [
-    "grey"
-  ],
-  "griglia": [
-    "grid",
-    "grille"
-  ],
-  "grilletto": [
-    "trigger"
-  ],
-  "grisaille": [
-    "grisaille"
-  ],
-  "Groenlandia": [
-    "Greenland"
-  ],
-  "groppa": [
-    "rump"
-  ],
-  "grossista": [
-    "wholesale",
-    "wholesaler"
-  ],
-  "grossolano": [
-    "earthy"
-  ],
-  "grotta": [
-    "cave",
-    "grotto"
-  ],
-  "gru": [
-    "crane"
-  ],
-  "gruccia": [
-    "coathanger"
-  ],
-  "grumo": [
-    "clot"
-  ],
-  "gruppo": [
-    "cluster",
-    "group"
-  ],
-  "guadagnare": [
-    "earn"
-  ],
-  "guaio": [
-    "trouble"
-  ],
-  "guancia": [
-    "cheek"
-  ],
-  "guanina": [
-    "guanine"
-  ],
-  "guanto": [
-    "glove"
-  ],
-  "guardare": [
-    "glance",
-    "look",
-    "watch"
-  ],
-  "guardaroba": [
-    "wardrobe"
-  ],
-  "guardia": [
-    "guard"
-  ],
-  "guardia del corpo": [
-    "bodyguard"
-  ],
-  "guarnigione": [
-    "garrison"
-  ],
-  "guarnire": [
-    "garnish"
-  ],
-  "guasto": [
-    "breakdown",
-    "broken"
-  ],
-  "guerra": [
-    "war"
-  ],
-  "Guerra Fredda": [
-    "Cold War"
-  ],
-  "guerriero": [
-    "warrior"
-  ],
-  "guerriglia": [
-    "guerrilla"
-  ],
-  "guerrigliero": [
-    "guerrilla"
-  ],
-  "gufo": [
-    "owl",
-    "sty"
-  ],
-  "guida": [
-    "guide",
-    "leader"
-  ],
-  "guidare": [
-    "drive",
-    "guide",
-    "head"
-  ],
-  "guidatore": [
-    "driver"
-  ],
-  "guinzaglio": [
-    "leash"
-  ],
-  "guscio": [
-    "peel",
-    "shell"
-  ],
-  "gustare": [
-    "like",
-    "taste"
-  ],
-  "gusto": [
-    "flavor",
-    "flavour",
-    "taste"
-  ],
-  "gutturale": [
-    "guttural"
-  ]
+"gabbia": [
+  {"id":2144,"text":["cage"]}
+],
+"gabbiano": [
+  {"id":12877,"text":["seagull"]}
+],
+"gabinetto": [
+  {"id":2124,"text":["cabinet"]},
+  {"id":14788,"text":["toilet"]}
+],
+"gadolinio": [
+  {"id":6287,"text":["gadolinium"]}
+],
+"gaelico": [
+  {"id":6288,"text":["Gaelic"]}
+],
+"gaffe": [
+  {"id":1802,"text":["blunder"]}
+],
+"gagliardo": [
+  {"id":6293,"text":["galliard"]}
+],
+"gaio": [
+  {"id":6339,"text":["gay"]}
+],
+"galassia": [
+  {"id":6290,"text":["galaxy"]}
+],
+"galaverna": [
+  {"id":7047,"text":["hoarfrost"]}
+],
+"galera": [
+  {"id":8109,"text":["jail"]}
+],
+"galiziano": [
+  {"id":6291,"text":["Galician"]}
+],
+"galleggiante": [
+  {"id":5949,"text":["float"]},
+  {"id":5951,"text":["floating"]}
+],
+"galleggiare": [
+  {"id":5950,"text":["float"]}
+],
+"galleria": [
+  {"id":6292,"text":["gallery"]},
+  {"id":15104,"text":["tunnel"]}
+],
+"Galles": [
+  {"id":15712,"text":["Wales"]}
+],
+"gallico": [
+  {"id":6294,"text":["gallic"]}
+],
+"gallina": [
+  {"id":6943,"text":["hen"]}
+],
+"gallio": [
+  {"id":6296,"text":["gallium"]}
+],
+"gallo": [
+  {"id":12566,"text":["rooster"]}
+],
+"gallone": [
+  {"id":2575,"text":["chevron"]},
+  {"id":6297,"text":["gallon"]}
+],
+"galoppare": [
+  {"id":6298,"text":["gallop"]}
+],
+"galoppo": [
+  {"id":6299,"text":["gallop"]}
+],
+"galvanico": [
+  {"id":6300,"text":["galvanic"]}
+],
+"galvanizzazione": [
+  {"id":6301,"text":["galvanisation"]},
+  {"id":6302,"text":["galvanization"]}
+],
+"galvanometro": [
+  {"id":6303,"text":["galvanometer"]}
+],
+"gamba": [
+  {"id":8417,"text":["leg"]}
+],
+"gambero": [
+  {"id":13223,"text":["shrimp"]}
+],
+"gambo": [
+  {"id":13844,"text":["stem"]}
+],
+"gametofito": [
+  {"id":6307,"text":["gametophyte"]}
+],
+"gamma": [
+  {"id":11850,"text":["range"]}
+],
+"gammaglobuline": [
+  {"id":6308,"text":["gammaglobulin"]}
+],
+"gammagrafia": [
+  {"id":6309,"text":["gammagraphy"]}
+],
+"gancio": [
+  {"id":7112,"text":["hook"]}
+],
+"gang": [
+  {"id":6311,"text":["gang"]}
+],
+"ganglio": [
+  {"id":6312,"text":["ganglion"]}
+],
+"gara": [
+  {"id":11792,"text":["race"]}
+],
+"garage": [
+  {"id":6316,"text":["garage"]}
+],
+"garantire": [
+  {"id":6685,"text":["guarantee"]}
+],
+"garanzia": [
+  {"id":1117,"text":["assurance"]},
+  {"id":15252,"text":["undertaking"]},
+  {"id":15747,"text":["warranty"]}
+],
+"gareggiare": [
+  {"id":11793,"text":["race"]}
+],
+"Garfield": [
+  {"id":6322,"text":["Garfield"]}
+],
+"garofano": [
+  {"id":2297,"text":["carnation"]}
+],
+"garza": [
+  {"id":8566,"text":["lint"]}
+],
+"gas": [
+  {"id":6326,"text":["gas"]}
+],
+"gasolio": [
+  {"id":4276,"text":["diesel"]}
+],
+"gasometria": [
+  {"id":6329,"text":["gasometry"]}
+],
+"gassazione": [
+  {"id":6330,"text":["gassing"]}
+],
+"gassificazione": [
+  {"id":6327,"text":["gasification"]}
+],
+"gastrico": [
+  {"id":6331,"text":["gastric"]}
+],
+"gastronomia": [
+  {"id":6332,"text":["gastronomy"]}
+],
+"gastroscopia": [
+  {"id":6333,"text":["gastroscopy"]}
+],
+"gastrulazione": [
+  {"id":6334,"text":["gastrulation"]}
+],
+"gattino": [
+  {"id":8246,"text":["kitten"]}
+],
+"gatto": [
+  {"id":2345,"text":["cat"]}
+],
+"gay": [
+  {"id":6340,"text":["gay"]}
+],
+"gazzella": [
+  {"id":6341,"text":["gazelle"]}
+],
+"gazzetta": [
+  {"id":6342,"text":["gazette"]}
+],
+"gelare": [
+  {"id":6177,"text":["freeze"]}
+],
+"gelatina": [
+  {"id":6346,"text":["gelatin"]},
+  {"id":8130,"text":["jelly"]}
+],
+"gelatinoso": [
+  {"id":6347,"text":["gelatinous"]}
+],
+"gelato": [
+  {"id":7273,"text":["ice cream"]}
+],
+"gelido": [
+  {"id":6180,"text":["freezing"]}
+],
+"gelificazione": [
+  {"id":6348,"text":["gelling"]}
+],
+"gelo": [
+  {"id":6178,"text":["freeze"]}
+],
+"gelosamente": [
+  {"id":8127,"text":["jealously"]}
+],
+"gelosia": [
+  {"id":8128,"text":["jealousy"]}
+],
+"geloso": [
+  {"id":8126,"text":["jealous"]}
+],
+"gelsomino": [
+  {"id":8121,"text":["jasmine"]}
+],
+"gemello": [
+  {"id":15158,"text":["twin"]}
+],
+"gemere": [
+  {"id":6663,"text":["groan"]}
+],
+"geminazione": [
+  {"id":6349,"text":["gemination"]}
+],
+"gemito": [
+  {"id":9305,"text":["moan"]}
+],
+"gemmare": [
+  {"id":2073,"text":["burgeon"]}
+],
+"gemmazione": [
+  {"id":6350,"text":["gemmation"]}
+],
+"gemmologia": [
+  {"id":6351,"text":["gemology"]}
+],
+"gene": [
+  {"id":6353,"text":["gene"]}
+],
+"genealogia": [
+  {"id":6355,"text":["genealogy"]}
+],
+"genealogico": [
+  {"id":6354,"text":["genealogical"]}
+],
+"generale": [
+  {"id":6356,"text":["general"]}
+],
+"generalizzare": [
+  {"id":6358,"text":["generalise"]}
+],
+"generalizzazione": [
+  {"id":6357,"text":["generalisation"]}
+],
+"generalmente": [
+  {"id":6359,"text":["generally"]}
+],
+"generare": [
+  {"id":6360,"text":["generate"]}
+],
+"generatore": [
+  {"id":6363,"text":["generator"]}
+],
+"generazionale": [
+  {"id":6362,"text":["generational"]}
+],
+"generazione": [
+  {"id":6361,"text":["generation"]}
+],
+"genere": [
+  {"id":6352,"text":["gender"]},
+  {"id":6380,"text":["genre"]}
+],
+"genericamente": [
+  {"id":6365,"text":["generically"]}
+],
+"generico": [
+  {"id":6364,"text":["generic"]}
+],
+"generosamente": [
+  {"id":6367,"text":["generously"]}
+],
+"generoso": [
+  {"id":6366,"text":["generous"]}
+],
+"geneticamente": [
+  {"id":6369,"text":["genetically"]}
+],
+"genetico": [
+  {"id":6368,"text":["genetic"]}
+],
+"gengiva": [
+  {"id":6708,"text":["gum"]}
+],
+"gengivale": [
+  {"id":6460,"text":["gingival"]}
+],
+"geniale": [
+  {"id":6370,"text":["genial"]},
+  {"id":7677,"text":["ingenious"]}
+],
+"genico": [
+  {"id":6371,"text":["genic"]}
+],
+"genio": [
+  {"id":6372,"text":["genie"]},
+  {"id":6375,"text":["genius"]}
+],
+"genitale": [
+  {"id":6373,"text":["genital"]}
+],
+"genitivo": [
+  {"id":6374,"text":["genitive"]}
+],
+"genitore": [
+  {"id":10474,"text":["parent"]}
+],
+"genitoriale": [
+  {"id":10475,"text":["parental"]}
+],
+"gennaio": [
+  {"id":8115,"text":["January"]}
+],
+"genocidio": [
+  {"id":6377,"text":["genocide"]}
+],
+"genoma": [
+  {"id":6378,"text":["genome"]}
+],
+"genotipo": [
+  {"id":6379,"text":["genotype"]}
+],
+"Genova": [
+  {"id":6376,"text":["Genoa"]}
+],
+"gente": [
+  {"id":10648,"text":["people"]}
+],
+"gentile": [
+  {"id":6382,"text":["gentle"]},
+  {"id":8229,"text":["kind"]}
+],
+"gentilezza": [
+  {"id":8233,"text":["kindness"]}
+],
+"gentilmente": [
+  {"id":8232,"text":["kindly"]},
+  {"id":9757,"text":["nicely"]}
+],
+"genuino": [
+  {"id":6385,"text":["genuine"]}
+],
+"genziana": [
+  {"id":6381,"text":["gentian"]}
+],
+"geocronologia": [
+  {"id":6387,"text":["geochronology"]}
+],
+"geodesia": [
+  {"id":6389,"text":["geodesy"]}
+],
+"geodetico": [
+  {"id":6388,"text":["geodesic"]}
+],
+"geografia": [
+  {"id":6393,"text":["geography"]}
+],
+"geograficamente": [
+  {"id":6392,"text":["geographically"]}
+],
+"geografico": [
+  {"id":6390,"text":["geographic"]},
+  {"id":6391,"text":["geographical"]}
+],
+"geoide": [
+  {"id":6394,"text":["geoid"]}
+],
+"geologia": [
+  {"id":6397,"text":["geology"]}
+],
+"geologicamente": [
+  {"id":6396,"text":["geologically"]}
+],
+"geologico": [
+  {"id":6395,"text":["geological"]}
+],
+"geomagnetico": [
+  {"id":6398,"text":["geomagnetic"]}
+],
+"geometria": [
+  {"id":6401,"text":["geometry"]}
+],
+"geometricamente": [
+  {"id":6400,"text":["geometrically"]}
+],
+"geometrico": [
+  {"id":6399,"text":["geometrical"]}
+],
+"geomorfico": [
+  {"id":6402,"text":["geomorphic"]}
+],
+"geomorfologico": [
+  {"id":6403,"text":["geomorphological"]}
+],
+"geopolitico": [
+  {"id":6404,"text":["geopolitical"]}
+],
+"geotermico": [
+  {"id":6405,"text":["geothermal"]}
+],
+"Geova": [
+  {"id":8129,"text":["Jehovah"]}
+],
+"geranio": [
+  {"id":6406,"text":["geranium"]}
+],
+"gerarchia": [
+  {"id":7003,"text":["hierarchy"]}
+],
+"gerarchico": [
+  {"id":7002,"text":["hierarchical"]}
+],
+"geriatria": [
+  {"id":6407,"text":["geriatrics"]}
+],
+"germanesimo": [
+  {"id":6412,"text":["germanism"]}
+],
+"Germania": [
+  {"id":6415,"text":["Germany"]}
+],
+"germanico": [
+  {"id":6410,"text":["germanic"]}
+],
+"germanio": [
+  {"id":6413,"text":["germanium"]}
+],
+"germanizzazione": [
+  {"id":6411,"text":["germanisation"]},
+  {"id":6414,"text":["germanization"]}
+],
+"germe": [
+  {"id":6408,"text":["germ"]}
+],
+"germinale": [
+  {"id":6416,"text":["germinal"]}
+],
+"germinare": [
+  {"id":6417,"text":["germinate"]}
+],
+"germinazione": [
+  {"id":6418,"text":["germination"]}
+],
+"geroglifico": [
+  {"id":7004,"text":["hieroglyph"]},
+  {"id":7005,"text":["hieroglyphic"]}
+],
+"gerontologia": [
+  {"id":6419,"text":["gerontology"]}
+],
+"gerundio": [
+  {"id":6420,"text":["gerund"]}
+],
+"Gerusalemme": [
+  {"id":8133,"text":["Jerusalem"]}
+],
+"gesso": [
+  {"id":2485,"text":["chalk"]},
+  {"id":6723,"text":["gypsum"]}
+],
+"gestazione": [
+  {"id":6421,"text":["gestation"]}
+],
+"gestibile": [
+  {"id":8830,"text":["manageable"]}
+],
+"gestione": [
+  {"id":8832,"text":["management"]}
+],
+"gestire": [
+  {"id":8828,"text":["manage"]},
+  {"id":12632,"text":["run"]}
+],
+"gesto": [
+  {"id":6423,"text":["gesture"]}
+],
+"gestuale": [
+  {"id":6422,"text":["gestural"]}
+],
+"Gesù": [
+  {"id":8136,"text":["Jesus"]}
+],
+"gettare": [
+  {"id":14707,"text":["throw"]}
+],
+"getto": [
+  {"id":13747,"text":["spurt"]}
+],
+"geyser": [
+  {"id":6440,"text":["geyser"]}
+],
+"ghetto": [
+  {"id":6441,"text":["ghetto"]}
+],
+"ghiacciaio": [
+  {"id":6474,"text":["glacier"]}
+],
+"ghiaccio": [
+  {"id":7272,"text":["ice"]}
+],
+"ghiaia": [
+  {"id":6615,"text":["gravel"]}
+],
+"ghianda": [
+  {"id":185,"text":["acorn"]}
+],
+"ghiandaia": [
+  {"id":8125,"text":["jay"]}
+],
+"ghiandola": [
+  {"id":6481,"text":["gland"]}
+],
+"ghigliottina": [
+  {"id":6700,"text":["guillotine"]}
+],
+"Giacarta": [
+  {"id":8111,"text":["Jakarta"]}
+],
+"giacca": [
+  {"id":2822,"text":["coat"]},
+  {"id":8104,"text":["jacket"]}
+],
+"giacere": [
+  {"id":8504,"text":["lie"]}
+],
+"giacimento": [
+  {"id":4097,"text":["deposit"]}
+],
+"giacinto": [
+  {"id":7200,"text":["hyacinth"]}
+],
+"giacobinismo": [
+  {"id":8105,"text":["jacobinism"]}
+],
+"giacobita": [
+  {"id":8106,"text":["jacobite"]}
+],
+"giada": [
+  {"id":8107,"text":["jade"]}
+],
+"giaguaro": [
+  {"id":8108,"text":["jaguar"]}
+],
+"giallastro": [
+  {"id":16003,"text":["yellowish"]}
+],
+"giallo": [
+  {"id":16002,"text":["yellow"]}
+],
+"Giamaica": [
+  {"id":8113,"text":["Jamaica"]}
+],
+"giamaicano": [
+  {"id":8114,"text":["Jamaican"]}
+],
+"Giappone": [
+  {"id":8116,"text":["Japan"]}
+],
+"giapponese": [
+  {"id":8117,"text":["Japanese"]}
+],
+"giara": [
+  {"id":8118,"text":["jar"]}
+],
+"giardinaggio": [
+  {"id":6321,"text":["gardening"]}
+],
+"giardiniere": [
+  {"id":6320,"text":["gardener"]}
+],
+"giardino": [
+  {"id":6319,"text":["garden"]}
+],
+"giavellotto": [
+  {"id":8124,"text":["javelin"]}
+],
+"Gibilterra": [
+  {"id":6445,"text":["Gibraltar"]}
+],
+"gibilterrino": [
+  {"id":6446,"text":["gibraltarian"]}
+],
+"gigante": [
+  {"id":6444,"text":["giant"]}
+],
+"gigantesco": [
+  {"id":6454,"text":["gigantic"]}
+],
+"gigantismo": [
+  {"id":6455,"text":["gigantism"]}
+],
+"giglio": [
+  {"id":8536,"text":["lily"]}
+],
+"gilda": [
+  {"id":6699,"text":["guild"]}
+],
+"ginecologia": [
+  {"id":6721,"text":["gynaecology"]}
+],
+"ginecologo": [
+  {"id":6720,"text":["gynaecologist"]}
+],
+"ginecomastia": [
+  {"id":6722,"text":["gynecomastia"]}
+],
+"ginnasio": [
+  {"id":6715,"text":["gymnasium"]}
+],
+"ginnasta": [
+  {"id":6717,"text":["gymnast"]}
+],
+"ginnastica": [
+  {"id":6719,"text":["gymnastics"]}
+],
+"ginnastico": [
+  {"id":6718,"text":["gymnastic"]}
+],
+"ginocchiera": [
+  {"id":8250,"text":["kneepad"]}
+],
+"ginocchio": [
+  {"id":8248,"text":["knee"]}
+],
+"giocare": [
+  {"id":10988,"text":["play"]}
+],
+"giocatore": [
+  {"id":10992,"text":["player"]}
+],
+"giocattolo": [
+  {"id":14867,"text":["toy"]}
+],
+"gioco": [
+  {"id":6306,"text":["game"]},
+  {"id":10989,"text":["play"]}
+],
+"gioco d'azzardo": [
+  {"id":6305,"text":["gambling"]}
+],
+"gioco da tavolo": [
+  {"id":1811,"text":["board game"]}
+],
+"giogo": [
+  {"id":16011,"text":["yoke"]}
+],
+"gioia": [
+  {"id":8166,"text":["joy"]}
+],
+"gioielleria": [
+  {"id":8139,"text":["jewelery"]},
+  {"id":8141,"text":["jewellery"]}
+],
+"gioiello": [
+  {"id":8138,"text":["jewel"]},
+  {"id":8140,"text":["jewelery"]},
+  {"id":8142,"text":["jewellery"]}
+],
+"Giordania": [
+  {"id":8157,"text":["Jordan"]}
+],
+"giordano": [
+  {"id":8158,"text":["Jordanian"]}
+],
+"giornale": [
+  {"id":9750,"text":["newspaper"]}
+],
+"giornalismo": [
+  {"id":8161,"text":["journalism"]}
+],
+"giornalista": [
+  {"id":8162,"text":["journalist"]}
+],
+"giornalistico": [
+  {"id":8163,"text":["journalistic"]}
+],
+"giornalmente": [
+  {"id":3774,"text":["daily"]}
+],
+"giornata": [
+  {"id":3816,"text":["day"]}
+],
+"giorno": [
+  {"id":3817,"text":["day"]}
+],
+"giorno di paga": [
+  {"id":10579,"text":["payday"]}
+],
+"giornolavorativo": [
+  {"id":2090,"text":["businessday"]}
+],
+"giostra": [
+  {"id":12480,"text":["ride"]}
+],
+"giovane": [
+  {"id":8184,"text":["junior"]},
+  {"id":16017,"text":["young"]},
+  {"id":16018,"text":["youngster"]}
+],
+"giovanile": [
+  {"id":8201,"text":["juvenile"]}
+],
+"Giove": [
+  {"id":8185,"text":["Jupiter"]}
+],
+"gioventù": [
+  {"id":16031,"text":["youth"]}
+],
+"gioviale": [
+  {"id":8165,"text":["jovial"]}
+],
+"giovinezza": [
+  {"id":16032,"text":["youth"]}
+],
+"giraffa": [
+  {"id":6461,"text":["giraffe"]}
+],
+"girare": [
+  {"id":13678,"text":["spin"]},
+  {"id":15116,"text":["turn"]}
+],
+"girasole": [
+  {"id":14169,"text":["sunflower"]}
+],
+"girata": [
+  {"id":7595,"text":["indorsement"]}
+],
+"girino": [
+  {"id":14366,"text":["tadpole"]}
+],
+"giro": [
+  {"id":14846,"text":["tour"]},
+  {"id":15159,"text":["twist"]}
+],
+"girone": [
+  {"id":2674,"text":["circle"]}
+],
+"giroscopico": [
+  {"id":6725,"text":["gyroscopic"]}
+],
+"giroscopio": [
+  {"id":6724,"text":["gyroscope"]}
+],
+"gita": [
+  {"id":15029,"text":["trip"]}
+],
+"giudaico": [
+  {"id":8167,"text":["judaic"]}
+],
+"giudicare": [
+  {"id":8169,"text":["judge"]}
+],
+"giudice": [
+  {"id":8170,"text":["judge"]}
+],
+"giudiziariamente": [
+  {"id":8174,"text":["judicially"]}
+],
+"giudiziario": [
+  {"id":8173,"text":["judicial"]}
+],
+"giudizio": [
+  {"id":8171,"text":["judgement"]},
+  {"id":15004,"text":["trial"]}
+],
+"giugno": [
+  {"id":8182,"text":["June"]}
+],
+"giullare": [
+  {"id":8135,"text":["jester"]}
+],
+"giungere": [
+  {"id":1003,"text":["arrive"]}
+],
+"giungla": [
+  {"id":8183,"text":["jungle"]}
+],
+"giuntura": [
+  {"id":1026,"text":["articulation"]},
+  {"id":8150,"text":["joint"]}
+],
+"giuramento": [
+  {"id":14258,"text":["swearing"]},
+  {"id":15684,"text":["vow"]}
+],
+"giurare": [
+  {"id":14257,"text":["swear"]},
+  {"id":15685,"text":["vow"]}
+],
+"giuria": [
+  {"id":8191,"text":["jury"]}
+],
+"giuridicamente": [
+  {"id":8187,"text":["juridically"]}
+],
+"giuridico": [
+  {"id":8186,"text":["juridical"]}
+],
+"giurisdizione": [
+  {"id":8188,"text":["jurisdiction"]}
+],
+"giurisprudenza": [
+  {"id":8189,"text":["jurisprudence"]}
+],
+"giurispurudenza": [
+  {"id":8354,"text":["law"]}
+],
+"giurista": [
+  {"id":8190,"text":["jurist"]}
+],
+"giustamente": [
+  {"id":11272,"text":["precisely"]}
+],
+"giustapporre": [
+  {"id":8202,"text":["juxtapose"]}
+],
+"giustapposizione": [
+  {"id":8203,"text":["juxtaposition"]}
+],
+"giustificabile": [
+  {"id":8197,"text":["justifiable"]}
+],
+"giustificare": [
+  {"id":8199,"text":["justify"]}
+],
+"giustificazione": [
+  {"id":8198,"text":["justification"]}
+],
+"giustizia": [
+  {"id":8196,"text":["justice"]}
+],
+"giustiziare": [
+  {"id":5435,"text":["execute"]}
+],
+"giusto": [
+  {"id":5609,"text":["fair"]},
+  {"id":8194,"text":["just"]}
+],
+"già": [
+  {"id":16006,"text":["yet"]}
+],
+"giù": [
+  {"id":4619,"text":["down"]},
+  {"id":10044,"text":["off"]}
+],
+"glaciale": [
+  {"id":6472,"text":["glacial"]}
+],
+"glaciazione": [
+  {"id":6473,"text":["glaciation"]}
+],
+"glaciologia": [
+  {"id":6475,"text":["glaciology"]}
+],
+"gli": [
+  {"id":7013,"text":["him"]},
+  {"id":14565,"text":["the"]}
+],
+"glicina": [
+  {"id":6519,"text":["glycine"]}
+],
+"glicoproteina": [
+  {"id":6520,"text":["glycoprotein"]}
+],
+"globale": [
+  {"id":6495,"text":["global"]},
+  {"id":10288,"text":["overall"]},
+  {"id":15965,"text":["worldwide"]}
+],
+"globalizzazione": [
+  {"id":6496,"text":["globalisation"]},
+  {"id":6497,"text":["globalization"]}
+],
+"globalmente": [
+  {"id":6498,"text":["globally"]},
+  {"id":15966,"text":["worldwide"]}
+],
+"globina": [
+  {"id":6500,"text":["globin"]}
+],
+"globo": [
+  {"id":6499,"text":["globe"]}
+],
+"globulare": [
+  {"id":6501,"text":["globular"]}
+],
+"gloria": [
+  {"id":6506,"text":["glory"]}
+],
+"glorificare": [
+  {"id":6503,"text":["glorify"]}
+],
+"glorificazione": [
+  {"id":6502,"text":["glorification"]}
+],
+"gloriosamente": [
+  {"id":6505,"text":["gloriously"]}
+],
+"glossario": [
+  {"id":6508,"text":["glossary"]}
+],
+"glottocronologia": [
+  {"id":6509,"text":["glottochronology"]}
+],
+"glucosio": [
+  {"id":6513,"text":["glucose"]}
+],
+"gluone": [
+  {"id":6516,"text":["gluon"]}
+],
+"glutammina": [
+  {"id":6517,"text":["glutamine"]}
+],
+"glutine": [
+  {"id":6518,"text":["gluten"]}
+],
+"gnomo": [
+  {"id":6521,"text":["gnome"]}
+],
+"gnomone": [
+  {"id":6522,"text":["gnomon"]}
+],
+"goal": [
+  {"id":6526,"text":["goal"]}
+],
+"gobba": [
+  {"id":7183,"text":["hump"]}
+],
+"goccia": [
+  {"id":4676,"text":["drop"]}
+],
+"gocciolina": [
+  {"id":4678,"text":["droplet"]}
+],
+"godimento": [
+  {"id":5119,"text":["enjoyment"]}
+],
+"goffamente": [
+  {"id":1311,"text":["awkwardly"]}
+],
+"goffo": [
+  {"id":2808,"text":["clumsy"]}
+],
+"gola": [
+  {"id":6706,"text":["gully"]},
+  {"id":14701,"text":["throat"]}
+],
+"golfo": [
+  {"id":6704,"text":["gulf"]}
+],
+"golpista": [
+  {"id":3547,"text":["coupleader"]}
+],
+"gomito": [
+  {"id":4912,"text":["elbow"]}
+],
+"gomma": [
+  {"id":12600,"text":["rubber"]}
+],
+"gomma da masticare": [
+  {"id":2577,"text":["chewing gum"]}
+],
+"gondola": [
+  {"id":6542,"text":["gondola"]}
+],
+"gonfiabile": [
+  {"id":7647,"text":["inflatable"]}
+],
+"gonfiare": [
+  {"id":7648,"text":["inflate"]}
+],
+"gonfiore": [
+  {"id":8706,"text":["lump"]},
+  {"id":14270,"text":["swelling"]}
+],
+"gong": [
+  {"id":6543,"text":["gong"]}
+],
+"goniometro": [
+  {"id":6544,"text":["goniometer"]}
+],
+"gonna": [
+  {"id":13388,"text":["skirt"]}
+],
+"gorilla": [
+  {"id":6553,"text":["gorilla"]}
+],
+"gotico": [
+  {"id":6555,"text":["gothic"]}
+],
+"goto": [
+  {"id":6554,"text":["goth"]}
+],
+"governante": [
+  {"id":6559,"text":["governess"]},
+  {"id":12620,"text":["ruler"]},
+  {"id":12622,"text":["ruling"]}
+],
+"governare": [
+  {"id":6558,"text":["govern"]}
+],
+"governativo": [
+  {"id":6561,"text":["governmental"]}
+],
+"governatore": [
+  {"id":6562,"text":["governor"]}
+],
+"governo": [
+  {"id":6560,"text":["government"]}
+],
+"gradazione": [
+  {"id":6564,"text":["gradation"]}
+],
+"gradevole": [
+  {"id":10996,"text":["pleasant"]}
+],
+"gradevolmente": [
+  {"id":10997,"text":["pleasantly"]}
+],
+"gradiente": [
+  {"id":6567,"text":["gradient"]}
+],
+"gradino": [
+  {"id":13847,"text":["step"]}
+],
+"grado": [
+  {"id":3957,"text":["degree"]},
+  {"id":6565,"text":["grade"]},
+  {"id":11854,"text":["rank"]}
+],
+"graduale": [
+  {"id":6568,"text":["gradual"]}
+],
+"gradualmente": [
+  {"id":6569,"text":["gradually"]}
+],
+"graffetta": [
+  {"id":2774,"text":["clip"]}
+],
+"graffiare": [
+  {"id":12849,"text":["scratch"]}
+],
+"graffio": [
+  {"id":12850,"text":["scratch"]}
+],
+"grafia": [
+  {"id":6788,"text":["handwriting"]}
+],
+"grafico": [
+  {"id":2529,"text":["chart"]},
+  {"id":6602,"text":["graph"]},
+  {"id":6603,"text":["graphical"]}
+],
+"grafite": [
+  {"id":6604,"text":["graphite"]}
+],
+"grafologia": [
+  {"id":6605,"text":["graphology"]}
+],
+"grammatica": [
+  {"id":6577,"text":["grammar"]}
+],
+"grammaticale": [
+  {"id":6579,"text":["grammatical"]}
+],
+"grammaticalizzazione": [
+  {"id":6580,"text":["grammaticalisation"]}
+],
+"grammatico": [
+  {"id":6578,"text":["grammarian"]}
+],
+"grammatura": [
+  {"id":6576,"text":["grammage"]}
+],
+"grammo": [
+  {"id":6575,"text":["gram"]},
+  {"id":6581,"text":["gramme"]}
+],
+"grammofono": [
+  {"id":6582,"text":["gramophone"]}
+],
+"Gran Bretagna": [
+  {"id":6631,"text":["Great Britain"]}
+],
+"gran premio": [
+  {"id":6585,"text":["grand prix"]}
+],
+"granaio": [
+  {"id":6583,"text":["granary"]}
+],
+"granatiere": [
+  {"id":6646,"text":["grenadier"]}
+],
+"granchio": [
+  {"id":3572,"text":["crab"]}
+],
+"grande": [
+  {"id":1644,"text":["big"]},
+  {"id":4913,"text":["elder"]},
+  {"id":6629,"text":["great"]},
+  {"id":8316,"text":["large"]}
+],
+"Grande Guerra": [
+  {"id":6632,"text":["Great War"]}
+],
+"grandemente": [
+  {"id":6634,"text":["greatly"]},
+  {"id":8317,"text":["largely"]}
+],
+"grandezza": [
+  {"id":6636,"text":["greatness"]}
+],
+"grandinare": [
+  {"id":6738,"text":["hail"]}
+],
+"grandinata": [
+  {"id":6744,"text":["hailstorm"]}
+],
+"grandine": [
+  {"id":6739,"text":["hail"]}
+],
+"grandioso": [
+  {"id":6584,"text":["grand"]}
+],
+"granito": [
+  {"id":6593,"text":["granite"]}
+],
+"grano": [
+  {"id":6574,"text":["grain"]}
+],
+"granturco": [
+  {"id":3451,"text":["corn"]}
+],
+"granulare": [
+  {"id":6597,"text":["granular"]}
+],
+"granulazione": [
+  {"id":6598,"text":["granulation"]}
+],
+"granulometria": [
+  {"id":6599,"text":["granulometry"]}
+],
+"grappolo": [
+  {"id":10625,"text":["pendant"]}
+],
+"grasso": [
+  {"id":5668,"text":["fat"]},
+  {"id":6625,"text":["grease"]},
+  {"id":6627,"text":["greasy"]}
+],
+"gratamente": [
+  {"id":6610,"text":["gratefully"]}
+],
+"gratificare": [
+  {"id":6612,"text":["gratify"]}
+],
+"gratis": [
+  {"id":6167,"text":["free"]}
+],
+"grattacielo": [
+  {"id":13394,"text":["skyscraper"]}
+],
+"grattare": [
+  {"id":12846,"text":["scrape"]},
+  {"id":12851,"text":["scratch"]}
+],
+"grattugia": [
+  {"id":6611,"text":["grater"]}
+],
+"grattugiato": [
+  {"id":6609,"text":["grated"]}
+],
+"gratuitamente": [
+  {"id":6172,"text":["freely"]}
+],
+"gratuito": [
+  {"id":6168,"text":["free"]}
+],
+"grave": [
+  {"id":6613,"text":["grave"]}
+],
+"gravemente": [
+  {"id":6616,"text":["gravely"]}
+],
+"gravidanza": [
+  {"id":11306,"text":["pregnancy"]}
+],
+"gravimetria": [
+  {"id":6618,"text":["gravimetry"]}
+],
+"gravitazionale": [
+  {"id":6620,"text":["gravitational"]}
+],
+"gravitazionalmente": [
+  {"id":6621,"text":["gravitationally"]}
+],
+"gravitazione": [
+  {"id":6619,"text":["gravitation"]}
+],
+"grazia": [
+  {"id":6563,"text":["grace"]}
+],
+"grazie": [
+  {"id":14557,"text":["thank you"]},
+  {"id":14559,"text":["thanks"]}
+],
+"Grecia": [
+  {"id":6637,"text":["Greece"]}
+],
+"greco": [
+  {"id":6640,"text":["Greek"]}
+],
+"gregge": [
+  {"id":5954,"text":["flock"]},
+  {"id":6962,"text":["herd"]}
+],
+"grembiule": [
+  {"id":896,"text":["apron"]}
+],
+"gridare": [
+  {"id":3659,"text":["cry"]},
+  {"id":6740,"text":["hail"]},
+  {"id":12853,"text":["scream"]},
+  {"id":13206,"text":["shout"]}
+],
+"grido": [
+  {"id":3660,"text":["cry"]},
+  {"id":6741,"text":["hail"]},
+  {"id":12854,"text":["scream"]},
+  {"id":13207,"text":["shout"]}
+],
+"grifone": [
+  {"id":6651,"text":["griffin"]}
+],
+"grigio": [
+  {"id":6647,"text":["grey"]}
+],
+"griglia": [
+  {"id":6649,"text":["grid"]},
+  {"id":6652,"text":["grille"]}
+],
+"grilletto": [
+  {"id":15019,"text":["trigger"]}
+],
+"grisaille": [
+  {"id":6662,"text":["grisaille"]}
+],
+"Groenlandia": [
+  {"id":6643,"text":["Greenland"]}
+],
+"groppa": [
+  {"id":12628,"text":["rump"]}
+],
+"grossista": [
+  {"id":15878,"text":["wholesale"]},
+  {"id":15879,"text":["wholesaler"]}
+],
+"grossolano": [
+  {"id":4784,"text":["earthy"]}
+],
+"grotta": [
+  {"id":2403,"text":["cave"]},
+  {"id":6670,"text":["grotto"]}
+],
+"gru": [
+  {"id":3580,"text":["crane"]}
+],
+"gruccia": [
+  {"id":2826,"text":["coathanger"]}
+],
+"grumo": [
+  {"id":2789,"text":["clot"]}
+],
+"gruppo": [
+  {"id":2810,"text":["cluster"]},
+  {"id":6675,"text":["group"]}
+],
+"guadagnare": [
+  {"id":4774,"text":["earn"]}
+],
+"guaio": [
+  {"id":15057,"text":["trouble"]}
+],
+"guancia": [
+  {"id":2549,"text":["cheek"]}
+],
+"guanina": [
+  {"id":6683,"text":["guanine"]}
+],
+"guanto": [
+  {"id":6510,"text":["glove"]}
+],
+"guardare": [
+  {"id":6478,"text":["glance"]},
+  {"id":8662,"text":["look"]},
+  {"id":15757,"text":["watch"]}
+],
+"guardaroba": [
+  {"id":15730,"text":["wardrobe"]}
+],
+"guardia": [
+  {"id":6686,"text":["guard"]}
+],
+"guardia del corpo": [
+  {"id":1819,"text":["bodyguard"]}
+],
+"guarnigione": [
+  {"id":6325,"text":["garrison"]}
+],
+"guarnire": [
+  {"id":6324,"text":["garnish"]}
+],
+"guasto": [
+  {"id":1950,"text":["breakdown"]},
+  {"id":2004,"text":["broken"]}
+],
+"guerra": [
+  {"id":15729,"text":["war"]}
+],
+"Guerra Fredda": [
+  {"id":2874,"text":["Cold War"]}
+],
+"guerriero": [
+  {"id":15748,"text":["warrior"]}
+],
+"guerriglia": [
+  {"id":6687,"text":["guerrilla"]}
+],
+"guerrigliero": [
+  {"id":6688,"text":["guerrilla"]}
+],
+"gufo": [
+  {"id":10312,"text":["owl"]},
+  {"id":14034,"text":["sty"]}
+],
+"guida": [
+  {"id":6695,"text":["guide"]},
+  {"id":8376,"text":["leader"]}
+],
+"guidare": [
+  {"id":4669,"text":["drive"]},
+  {"id":6696,"text":["guide"]},
+  {"id":6860,"text":["head"]}
+],
+"guidatore": [
+  {"id":4672,"text":["driver"]}
+],
+"guinzaglio": [
+  {"id":8399,"text":["leash"]}
+],
+"guscio": [
+  {"id":10612,"text":["peel"]},
+  {"id":13146,"text":["shell"]}
+],
+"gustare": [
+  {"id":8531,"text":["like"]},
+  {"id":14422,"text":["taste"]}
+],
+"gusto": [
+  {"id":5927,"text":["flavor"]},
+  {"id":5928,"text":["flavour"]},
+  {"id":14423,"text":["taste"]}
+],
+"gutturale": [
+  {"id":6712,"text":["guttural"]}
+]
 }

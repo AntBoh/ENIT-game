@@ -1,673 +1,673 @@
 {
   "ugly": [
-    "brutto"
+    {"id": 15184,"text": ["brutto"]}
   ],
   "Ukraine": [
-    "Ucraina"
+    {"id": 15185,"text": ["Ucraina"]}
   ],
   "ukrainian": [
-    "ucraino"
+    {"id": 15186,"text": ["ucraino"]}
   ],
   "ulcer": [
-    "ulcera"
+    {"id": 15187,"text": ["ulcera"]}
   ],
   "ulceration": [
-    "ulcerazione"
+    {"id": 15188,"text": ["ulcerazione"]}
   ],
   "ulterior": [
-    "ulteriore"
+    {"id": 15189,"text": ["ulteriore"]}
   ],
   "ultimate": [
-    "definitivo"
+    {"id": 15190,"text": ["definitivo"]}
   ],
   "ultimately": [
-    "infine"
+    {"id": 15191,"text": ["infine"]}
   ],
   "ultimatum": [
-    "ultimatum"
+    {"id": 15192,"text": ["ultimatum"]}
   ],
   "ultrasonic": [
-    "ultrasonico"
+    {"id": 15193,"text": ["ultrasonico"]}
   ],
   "ultrasound": [
-    "ultrasuono"
+    {"id": 15194,"text": ["ultrasuono"]}
   ],
   "ultraviolet": [
-    "ultravioletto"
+    {"id": 15195,"text": ["ultravioletto"]}
   ],
   "umbella": [
-    "ombrello"
+    {"id": 15196,"text": ["ombrello"]}
   ],
   "umbilical": [
-    "ombelicale"
+    {"id": 15197,"text": ["ombelicale"]}
   ],
   "umbrella": [
-    "ombrello"
+    {"id": 15198,"text": ["ombrello"]}
   ],
   "unable": [
-    "incapace"
+    {"id": 15199,"text": ["incapace"]}
   ],
   "unacceptable": [
-    "inaccettabile"
+    {"id": 15200,"text": ["inaccettabile"]}
   ],
   "unacceptably": [
-    "inaccettabilmente"
+    {"id": 15201,"text": ["inaccettabilmente"]}
   ],
   "unanimous": [
-    "unanime"
+    {"id": 15202,"text": ["unanime"]}
   ],
   "unanimously": [
-    "unanimemente"
+    {"id": 15203,"text": ["unanimemente"]}
   ],
   "unappealable": [
-    "inappellabile"
+    {"id": 15204,"text": ["inappellabile"]}
   ],
   "unavoidable": [
-    "inevitabile"
+    {"id": 15205,"text": ["inevitabile"]}
   ],
   "unbalance": [
-    "sbilanciare"
+    {"id": 15206,"text": ["sbilanciare"]}
   ],
   "unbalanced": [
-    "squilibrato"
+    {"id": 15207,"text": ["squilibrato"]}
   ],
   "unbearable": [
-    "insopportabile"
+    {"id": 15208,"text": ["insopportabile"]}
   ],
   "unbelievably": [
-    "incredibilmente"
+    {"id": 15209,"text": ["incredibilmente"]}
   ],
   "unbidden": [
-    "spontaneamente"
+    {"id": 15210,"text": ["spontaneamente"]}
   ],
   "unblock": [
-    "sbloccare"
+    {"id": 15211,"text": ["sbloccare"]}
   ],
   "uncertain": [
-    "incerto"
+    {"id": 15212,"text": ["incerto"]}
   ],
   "uncertainty": [
-    "incertezza",
-    "indeterminazione"
+    {"id": 15213,"text": ["incertezza"]},
+    {"id": 15214,"text": ["indeterminazione"]}
   ],
   "unchain": [
-    "liberare"
+    {"id": 15215,"text": ["liberare"]}
   ],
   "uncle": [
-    "zio"
+    {"id": 15216,"text": ["zio"]}
   ],
   "uncoiling": [
-    "sviluppo"
+    {"id": 15217,"text": ["sviluppo"]}
   ],
   "uncomfortable": [
-    "scomodo"
+    {"id": 15218,"text": ["scomodo"]}
   ],
   "unconditional": [
-    "incondizionale",
-    "incondizionato"
+    {"id": 15219,"text": ["incondizionale"]},
+    {"id": 15220,"text": ["incondizionato"]}
   ],
   "unconditionally": [
-    "incondizionalmente",
-    "incondizionatamente"
+    {"id": 15221,"text": ["incondizionalmente"]},
+    {"id": 15222,"text": ["incondizionatamente"]}
   ],
   "unconditioned": [
-    "incondizionato"
+    {"id": 15223,"text": ["incondizionato"]}
   ],
   "unconformity": [
-    "discordanza"
+    {"id": 15224,"text": ["discordanza"]}
   ],
   "uncontainable": [
-    "incontenibile"
+    {"id": 15225,"text": ["incontenibile"]}
   ],
   "uncontrolled": [
-    "incontrollato"
+    {"id": 15226,"text": ["incontrollato"]}
   ],
   "uncooked": [
-    "crudo"
+    {"id": 15227,"text": ["crudo"]}
   ],
   "undecided": [
-    "indeciso"
+    {"id": 15228,"text": ["indeciso"]}
   ],
   "undeclinable": [
-    "indeclinabile"
+    {"id": 15229,"text": ["indeclinabile"]}
   ],
   "undemonstrable": [
-    "indimostrabile"
+    {"id": 15230,"text": ["indimostrabile"]}
   ],
   "under": [
-    "sotto"
+    {"id": 15231,"text": ["sotto"]}
   ],
   "undercover": [
-    "sotto copertura"
+    {"id": 15232,"text": ["sotto copertura"]}
   ],
   "underdeveloped": [
-    "sottosviluppato"
+    {"id": 15233,"text": ["sottosviluppato"]}
   ],
   "underdevelopment": [
-    "sottosviluppo"
+    {"id": 15234,"text": ["sottosviluppo"]}
   ],
   "underemployment": [
-    "sottoccupazione"
+    {"id": 15235,"text": ["sottoccupazione"]}
   ],
   "underestimate": [
-    "sottovalutare"
+    {"id": 15236,"text": ["sottovalutare"]}
   ],
   "undergo": [
-    "sottoporsi",
-    "subire"
+    {"id": 15237,"text": ["sottoporsi"]},
+    {"id": 15238,"text": ["subire"]}
   ],
   "underground": [
-    "sotterraneo"
+    {"id": 15239,"text": ["sotterraneo"]}
   ],
   "underline": [
-    "sottolineare"
+    {"id": 15240,"text": ["sottolineare"]}
   ],
   "undermine": [
-    "indebolire",
-    "minare",
-    "scavare"
+    {"id": 15241,"text": ["indebolire"]},
+    {"id": 15242,"text": ["minare"]},
+    {"id": 15243,"text": ["scavare"]}
   ],
   "underneath": [
-    "sotto"
+    {"id": 15244,"text": ["sotto"]}
   ],
   "undershirt": [
-    "canottiera"
+    {"id": 15245,"text": ["canottiera"]}
   ],
   "undersigned": [
-    "sottoscritto"
+    {"id": 15246,"text": ["sottoscritto"]}
   ],
   "understand": [
-    "capire",
-    "comprendere"
+    {"id": 15247,"text": ["capire"]},
+    {"id": 15248,"text": ["comprendere"]}
   ],
   "understanding": [
-    "comprensione",
-    "intendimento"
+    {"id": 15249,"text": ["comprensione"]},
+    {"id": 15250,"text": ["intendimento"]}
   ],
   "undertake": [
-    "intraprendere"
+    {"id": 15251,"text": ["intraprendere"]}
   ],
   "undertaking": [
-    "garanzia",
-    "impresa",
-    "assicurazione"
+    {"id": 15252,"text": ["garanzia"]},
+    {"id": 15253,"text": ["impresa"]},
+    {"id": 15254,"text": ["assicurazione"]}
   ],
   "undervaluation": [
-    "sottovalutazione"
+    {"id": 15255,"text": ["sottovalutazione"]}
   ],
   "underwater": [
-    "sott'acqua",
-    "sottomarino",
-    "subacqueo"
+    {"id": 15256,"text": ["sott'acqua"]},
+    {"id": 15257,"text": ["sottomarino"]},
+    {"id": 15258,"text": ["subacqueo"]}
   ],
   "underwear": [
-    "biancheria"
+    {"id": 15259,"text": ["biancheria"]}
   ],
   "underworld": [
-    "aldilà",
-    "oltretomba"
+    {"id": 15260,"text": ["aldilà"]},
+    {"id": 15261,"text": ["oltretomba"]}
   ],
   "undesirable": [
-    "indesiderabile"
+    {"id": 15262,"text": ["indesiderabile"]}
   ],
   "undo": [
-    "disfare"
+    {"id": 15263,"text": ["disfare"]}
   ],
   "undoubted": [
-    "indubitabile"
+    {"id": 15264,"text": ["indubitabile"]}
   ],
   "undoubtedly": [
-    "indubbiamente"
+    {"id": 15265,"text": ["indubbiamente"]}
   ],
   "undress": [
-    "svestire",
-    "spogliare"
+    {"id": 15266,"text": ["svestire"]},
+    {"id": 15267,"text": ["spogliare"]}
   ],
   "uneconomic": [
-    "antieconomico"
+    {"id": 15268,"text": ["antieconomico"]}
   ],
   "unemployed": [
-    "disoccupato"
+    {"id": 15269,"text": ["disoccupato"]}
   ],
   "unemployment": [
-    "disoccupazione"
+    {"id": 15270,"text": ["disoccupazione"]}
   ],
   "unequal": [
-    "disuguale"
+    {"id": 15271,"text": ["disuguale"]}
   ],
   "uneven": [
-    "disuguale",
-    "impari"
+    {"id": 15272,"text": ["disuguale"]},
+    {"id": 15273,"text": ["impari"]}
   ],
   "unevenly": [
-    "disugualmente"
+    {"id": 15274,"text": ["disugualmente"]}
   ],
   "unexpected": [
-    "imprevisto",
-    "inaspettato"
+    {"id": 15275,"text": ["imprevisto"]},
+    {"id": 15276,"text": ["inaspettato"]}
   ],
   "unexpectedly": [
-    "inaspettatamente"
+    {"id": 15277,"text": ["inaspettatamente"]}
   ],
   "unfair": [
-    "ingiusto"
+    {"id": 15278,"text": ["ingiusto"]}
   ],
   "unfairly": [
-    "ingiustamente"
+    {"id": 15279,"text": ["ingiustamente"]}
   ],
   "unfaithful": [
-    "infedele"
+    {"id": 15280,"text": ["infedele"]}
   ],
   "unfavourable": [
-    "sfavorevole"
+    {"id": 15281,"text": ["sfavorevole"]}
   ],
   "unforeseen": [
-    "imprevisto"
+    {"id": 15282,"text": ["imprevisto"]}
   ],
   "unforgivable": [
-    "imperdonabile"
+    {"id": 15283,"text": ["imperdonabile"]}
   ],
   "unfortunately": [
-    "sfortunatamente"
+    {"id": 15284,"text": ["sfortunatamente"]}
   ],
   "unhappy": [
-    "infelice"
+    {"id": 15285,"text": ["infelice"]}
   ],
   "unicellular": [
-    "unicellulare"
+    {"id": 15286,"text": ["unicellulare"]}
   ],
   "unicolored": [
-    "unicolore"
+    {"id": 15287,"text": ["unicolore"]}
   ],
   "unicoloured": [
-    "unicolore"
+    {"id": 15288,"text": ["unicolore"]}
   ],
   "unicorn": [
-    "unicorno"
+    {"id": 15289,"text": ["unicorno"]}
   ],
   "unidirectional": [
-    "unidirezionale"
+    {"id": 15290,"text": ["unidirezionale"]}
   ],
   "unification": [
-    "unificazione"
+    {"id": 15291,"text": ["unificazione"]}
   ],
   "uniform": [
-    "divisa",
-    "uniforme"
+    {"id": 15292,"text": ["divisa"]},
+    {"id": 15293,"text": ["uniforme"]}
   ],
   "unify": [
-    "unificare"
+    {"id": 15294,"text": ["unificare"]}
   ],
   "unilateral": [
-    "unilaterale"
+    {"id": 15295,"text": ["unilaterale"]}
   ],
   "unilaterally": [
-    "unilateralmente"
+    {"id": 15296,"text": ["unilateralmente"]}
   ],
   "unimportance": [
-    "insignificanza"
+    {"id": 15297,"text": ["insignificanza"]}
   ],
   "unintellegible": [
-    "incomprensibile"
+    {"id": 15298,"text": ["incomprensibile"]}
   ],
   "unintentional": [
-    "involontario"
+    {"id": 15299,"text": ["involontario"]}
   ],
   "unintentionally": [
-    "involontariamente"
+    {"id": 15300,"text": ["involontariamente"]}
   ],
   "union": [
-    "sindacato",
-    "unione"
+    {"id": 15301,"text": ["sindacato"]},
+    {"id": 15302,"text": ["unione"]}
   ],
   "unipolar": [
-    "unipolare"
+    {"id": 15303,"text": ["unipolare"]}
   ],
   "unique": [
-    "unico"
+    {"id": 15304,"text": ["unico"]}
   ],
   "uniquely": [
-    "singolarmente",
-    "unicamente"
+    {"id": 15305,"text": ["singolarmente"]},
+    {"id": 15306,"text": ["unicamente"]}
   ],
   "unitarianism": [
-    "unitarianismo"
+    {"id": 15307,"text": ["unitarianismo"]}
   ],
   "unitarily": [
-    "unitariamente"
+    {"id": 15308,"text": ["unitariamente"]}
   ],
   "unite": [
-    "unire"
+    {"id": 15309,"text": ["unire"]}
   ],
   "united": [
-    "unito"
+    {"id": 15310,"text": ["unito"]}
   ],
   "United Kingdom": [
-    "Regno Unito"
+    {"id": 15311,"text": ["Regno Unito"]}
   ],
   "United States": [
-    "Stati Uniti"
+    {"id": 15312,"text": ["Stati Uniti"]}
   ],
   "universal": [
-    "universale"
+    {"id": 15313,"text": ["universale"]}
   ],
   "universalism": [
-    "universalismo"
+    {"id": 15314,"text": ["universalismo"]}
   ],
   "universally": [
-    "universalmente"
+    {"id": 15315,"text": ["universalmente"]}
   ],
   "universe": [
-    "universo"
+    {"id": 15316,"text": ["universo"]}
   ],
   "university": [
-    "universitario"
+    {"id": 15317,"text": ["universitario"]}
   ],
   "unkind": [
-    "antipatico"
+    {"id": 15318,"text": ["antipatico"]}
   ],
   "unknowable": [
-    "inconoscibile"
+    {"id": 15319,"text": ["inconoscibile"]}
   ],
   "unknown": [
-    "ignoto",
-    "sconosciuto"
+    {"id": 15320,"text": ["ignoto"]},
+    {"id": 15321,"text": ["sconosciuto"]}
   ],
   "unleash": [
-    "scatenare"
+    {"id": 15322,"text": ["scatenare"]}
   ],
   "unless": [
-    "a meno che",
-    "tranne"
+    {"id": 15323,"text": ["a meno che"]},
+    {"id": 15324,"text": ["tranne"]}
   ],
   "unlikely": [
-    "improbabile"
+    {"id": 15325,"text": ["improbabile"]}
   ],
   "unlimited": [
-    "illimitato"
+    {"id": 15326,"text": ["illimitato"]}
   ],
   "unload": [
-    "scaricare"
+    {"id": 15327,"text": ["scaricare"]}
   ],
   "unlucky": [
-    "sfortunato"
+    {"id": 15328,"text": ["sfortunato"]}
   ],
   "unmask": [
-    "smascherare"
+    {"id": 15329,"text": ["smascherare"]}
   ],
   "unnatural": [
-    "antinaturale"
+    {"id": 15330,"text": ["antinaturale"]}
   ],
   "unnecessary": [
-    "inutile",
-    "non necessario",
-    "superfluo"
+    {"id": 15331,"text": ["inutile"]},
+    {"id": 15332,"text": ["non necessario"]},
+    {"id": 15333,"text": ["superfluo"]}
   ],
   "unobserved": [
-    "inosservato"
+    {"id": 15334,"text": ["inosservato"]}
   ],
   "unofficial": [
-    "ufficioso"
+    {"id": 15335,"text": ["ufficioso"]}
   ],
   "unpleasant": [
-    "sgradevole",
-    "spiacevole"
+    {"id": 15336,"text": ["sgradevole"]},
+    {"id": 15337,"text": ["spiacevole"]}
   ],
   "unpleasantly": [
-    "sgradevolmente"
+    {"id": 15338,"text": ["sgradevolmente"]}
   ],
   "unpopular": [
-    "impopolare"
+    {"id": 15339,"text": ["impopolare"]}
   ],
   "unpredictable": [
-    "imprevedibile"
+    {"id": 15340,"text": ["imprevedibile"]}
   ],
   "unprotected": [
-    "indifeso"
+    {"id": 15341,"text": ["indifeso"]}
   ],
   "unprovable": [
-    "indimostrabile"
+    {"id": 15342,"text": ["indimostrabile"]}
   ],
   "unquestionable": [
-    "inquestionabile"
+    {"id": 15343,"text": ["inquestionabile"]}
   ],
   "unquestionably": [
-    "indubbiamente"
+    {"id": 15344,"text": ["indubbiamente"]}
   ],
   "unreadable": [
-    "illeggibile"
+    {"id": 15345,"text": ["illeggibile"]}
   ],
   "unreal": [
-    "irreale"
+    {"id": 15346,"text": ["irreale"]}
   ],
   "unrecognizable": [
-    "irriconoscibile"
+    {"id": 15347,"text": ["irriconoscibile"]}
   ],
   "unrest": [
-    "agitazione",
-    "disordine",
-    "inquietudine"
+    {"id": 15348,"text": ["agitazione"]},
+    {"id": 15349,"text": ["disordine"]},
+    {"id": 15350,"text": ["inquietudine"]}
   ],
   "unripe": [
-    "acerbo"
+    {"id": 15351,"text": ["acerbo"]}
   ],
   "unsatisfactory": [
-    "insoddisfacente"
+    {"id": 15352,"text": ["insoddisfacente"]}
   ],
   "unsatisfied": [
-    "insoddisfatto"
+    {"id": 15353,"text": ["insoddisfatto"]}
   ],
   "unscrew": [
-    "svitare"
+    {"id": 15354,"text": ["svitare"]}
   ],
   "unseen": [
-    "occulto"
+    {"id": 15355,"text": ["occulto"]}
   ],
   "unsolvable": [
-    "irrisolvibile"
+    {"id": 15356,"text": ["irrisolvibile"]}
   ],
   "unstable": [
-    "instabile"
+    {"id": 15357,"text": ["instabile"]}
   ],
   "unsure": [
-    "incerto",
-    "insicuro"
+    {"id": 15358,"text": ["incerto"]},
+    {"id": 15359,"text": ["insicuro"]}
   ],
   "unsustainable": [
-    "insostenibile"
+    {"id": 15360,"text": ["insostenibile"]}
   ],
   "untidiness": [
-    "disordine"
+    {"id": 15361,"text": ["disordine"]}
   ],
   "until": [
-    "fino a"
+    {"id": 15362,"text": ["fino a"]}
   ],
   "unusable": [
-    "inutilizzabile"
+    {"id": 15363,"text": ["inutilizzabile"]}
   ],
   "unusual": [
-    "insolito",
-    "inusuale"
+    {"id": 15364,"text": ["insolito"]},
+    {"id": 15365,"text": ["inusuale"]}
   ],
   "unveil": [
-    "svelare"
+    {"id": 15366,"text": ["svelare"]}
   ],
   "unworthy": [
-    "indegno"
+    {"id": 15367,"text": ["indegno"]}
   ],
   "up": [
-    "sopra",
-    "su"
+    {"id": 15368,"text": ["sopra"]},
+    {"id": 15369,"text": ["su"]}
   ],
   "up to now": [
-    "finora"
+    {"id": 15370,"text": ["finora"]}
   ],
   "up until now": [
-    "finora"
+    {"id": 15371,"text": ["finora"]}
   ],
   "update": [
-    "aggiornamento",
-    "aggiornare"
+    {"id": 15372,"text": ["aggiornamento"]},
+    {"id": 15373,"text": ["aggiornare"]}
   ],
   "upholstery": [
-    "tappezzeria"
+    {"id": 15374,"text": ["tappezzeria"]}
   ],
   "upper": [
-    "superiore"
+    {"id": 15375,"text": ["superiore"]}
   ],
   "uppercase": [
-    "maiuscolo"
+    {"id": 15376,"text": ["maiuscolo"]}
   ],
   "uprising": [
-    "ascesa"
+    {"id": 15377,"text": ["ascesa"]}
   ],
   "upset": [
-    "nervoso",
-    "rovesciare"
+    {"id": 15378,"text": ["nervoso"]},
+    {"id": 15379,"text": ["rovesciare"]}
   ],
   "upside down": [
-    "sottosopra"
+    {"id": 15380,"text": ["sottosopra"]}
   ],
   "upward": [
-    "ascendente",
-    "sopra"
+    {"id": 15381,"text": ["ascendente"]},
+    {"id": 15382,"text": ["sopra"]}
   ],
   "uranium": [
-    "uranio"
+    {"id": 15383,"text": ["uranio"]}
   ],
   "Uranus": [
-    "Urano"
+    {"id": 15384,"text": ["Urano"]}
   ],
   "urban": [
-    "urbano"
+    {"id": 15385,"text": ["urbano"]}
   ],
   "urbanisation": [
-    "urbanizzazione"
+    {"id": 15386,"text": ["urbanizzazione"]}
   ],
   "urbanism": [
-    "urbanistica"
+    {"id": 15387,"text": ["urbanistica"]}
   ],
   "urbanistically": [
-    "urbanisticamente"
+    {"id": 15388,"text": ["urbanisticamente"]}
   ],
   "urbanization": [
-    "urbanizzazione"
+    {"id": 15389,"text": ["urbanizzazione"]}
   ],
   "ureter": [
-    "uretere"
+    {"id": 15390,"text": ["uretere"]}
   ],
   "urethra": [
-    "uretra"
+    {"id": 15391,"text": ["uretra"]}
   ],
   "urethral": [
-    "uretrale"
+    {"id": 15392,"text": ["uretrale"]}
   ],
   "urge": [
-    "impulso",
-    "spingere"
+    {"id": 15393,"text": ["impulso"]},
+    {"id": 15394,"text": ["spingere"]}
   ],
   "urgency": [
-    "urgenza"
+    {"id": 15395,"text": ["urgenza"]}
   ],
   "urgent": [
-    "urgente"
+    {"id": 15396,"text": ["urgente"]}
   ],
   "urgently": [
-    "urgentemente"
+    {"id": 15397,"text": ["urgentemente"]}
   ],
   "urination": [
-    "minzione"
+    {"id": 15398,"text": ["minzione"]}
   ],
   "urine": [
-    "orina",
-    "urina"
+    {"id": 15399,"text": ["orina"]},
+    {"id": 15400,"text": ["urina"]}
   ],
   "urn": [
-    "urna"
+    {"id": 15401,"text": ["urna"]}
   ],
   "urology": [
-    "urologia"
+    {"id": 15402,"text": ["urologia"]}
   ],
   "us": [
-    "ci",
-    "noi"
+    {"id": 15403,"text": ["ci"]},
+    {"id": 15404,"text": ["noi"]}
   ],
   "use": [
-    "impiegare",
-    "impiego",
-    "usare",
-    "uso",
-    "utenza",
-    "utilizzo"
+    {"id": 15405,"text": ["impiegare"]},
+    {"id": 15406,"text": ["impiego"]},
+    {"id": 15407,"text": ["usare"]},
+    {"id": 15408,"text": ["uso"]},
+    {"id": 15409,"text": ["utenza"]},
+    {"id": 15410,"text": ["utilizzo"]}
   ],
   "useful": [
-    "utile"
+    {"id": 15411,"text": ["utile"]}
   ],
   "useless": [
-    "inutile"
+    {"id": 15412,"text": ["inutile"]}
   ],
   "uselessly": [
-    "inutilmente"
+    {"id": 15413,"text": ["inutilmente"]}
   ],
   "user": [
-    "utente"
+    {"id": 15414,"text": ["utente"]}
   ],
   "usual": [
-    "usuale"
+    {"id": 15415,"text": ["usuale"]}
   ],
   "usually": [
-    "solitamente",
-    "usualmente"
+    {"id": 15416,"text": ["solitamente"]},
+    {"id": 15417,"text": ["usualmente"]}
   ],
   "usufruct": [
-    "usufrutto"
+    {"id": 15418,"text": ["usufrutto"]}
   ],
   "usurp": [
-    "usurpare"
+    {"id": 15419,"text": ["usurpare"]}
   ],
   "usurper": [
-    "usurpatore"
+    {"id": 15420,"text": ["usurpatore"]}
   ],
   "usury": [
-    "usura"
+    {"id": 15421,"text": ["usura"]}
   ],
   "uterine": [
-    "uterino"
+    {"id": 15422,"text": ["uterino"]}
   ],
   "uterus": [
-    "utero"
+    {"id": 15423,"text": ["utero"]}
   ],
   "utilisation": [
-    "utilizzazione"
+    {"id": 15424,"text": ["utilizzazione"]}
   ],
   "utilise": [
-    "utilizzare"
+    {"id": 15425,"text": ["utilizzare"]}
   ],
   "utilitarian": [
-    "utilitario"
+    {"id": 15426,"text": ["utilitario"]}
   ],
   "utilitarism": [
-    "utilitarismo"
+    {"id": 15427,"text": ["utilitarismo"]}
   ],
   "utilization": [
-    "utilizzazione"
+    {"id": 15428,"text": ["utilizzazione"]}
   ],
   "utilize": [
-    "utilizzare"
+    {"id": 15429,"text": ["utilizzare"]}
   ],
   "utopia": [
-    "utopia"
+    {"id": 15430,"text": ["utopia"]}
   ],
   "utopian": [
-    "utopico"
+    {"id": 15431,"text": ["utopico"]}
   ],
   "utterance": [
-    "enunciazione"
+    {"id": 15432,"text": ["enunciazione"]}
   ],
   "utterly": [
-    "assolutamente"
+    {"id": 15433,"text": ["assolutamente"]}
   ],
   "uvula": [
-    "ugola"
+    {"id": 15434,"text": ["ugola"]}
   ]
 }

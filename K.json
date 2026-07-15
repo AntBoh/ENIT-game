@@ -1,172 +1,172 @@
 {
   "keen": [
-    "entusiasta"
+    {"id": 8204,"text": ["entusiasta"]}
   ],
   "keenly": [
-    "vivamente"
+    {"id": 8205,"text": ["vivamente"]}
   ],
   "keep": [
-    "mantenere"
+    {"id": 8206,"text": ["mantenere"]}
   ],
   "keep on": [
-    "continuare"
+    {"id": 8207,"text": ["continuare"]}
   ],
   "keep watch": [
-    "vigilare"
+    {"id": 8208,"text": ["vigilare"]}
   ],
   "kennel": [
-    "canile"
+    {"id": 8209,"text": ["canile"]}
   ],
   "keratin": [
-    "cheratina"
+    {"id": 8210,"text": ["cheratina"]}
   ],
   "key": [
-    "chiave",
-    "tono"
+    {"id": 8211,"text": ["chiave"]},
+    {"id": 8212,"text": ["tono"]}
   ],
   "keyboard": [
-    "tastiera"
+    {"id": 8213,"text": ["tastiera"]}
   ],
   "keyhole": [
-    "serratura"
+    {"id": 8214,"text": ["serratura"]}
   ],
   "kick": [
-    "calciare",
-    "calcio"
+    {"id": 8215,"text": ["calciare"]},
+    {"id": 8216,"text": ["calcio"]}
   ],
   "kickoff": [
-    "inizio"
+    {"id": 8217,"text": ["inizio"]}
   ],
   "kid": [
-    "bambino",
-    "scherzare"
+    {"id": 8218,"text": ["bambino"]},
+    {"id": 8219,"text": ["scherzare"]}
   ],
   "kidnap": [
-    "rapire"
+    {"id": 8220,"text": ["rapire"]}
   ],
   "kidnapper": [
-    "rapitore"
+    {"id": 8221,"text": ["rapitore"]}
   ],
   "kidney": [
-    "rene"
+    {"id": 8222,"text": ["rene"]}
   ],
   "kill": [
-    "uccidere"
+    {"id": 8223,"text": ["uccidere"]}
   ],
   "killing": [
-    "uccisione"
+    {"id": 8224,"text": ["uccisione"]}
   ],
   "kilocalory": [
-    "chilocaloria"
+    {"id": 8225,"text": ["chilocaloria"]}
   ],
   "kilogram": [
-    "chilogrammo"
+    {"id": 8226,"text": ["chilogrammo"]}
   ],
   "kilogramme": [
-    "chilogrammo"
+    {"id": 8227,"text": ["chilogrammo"]}
   ],
   "kilometre": [
-    "chilometro"
+    {"id": 8228,"text": ["chilometro"]}
   ],
   "kind": [
-    "gentile",
-    "tipo"
+    {"id": 8229,"text": ["gentile"]},
+    {"id": 8230,"text": ["tipo"]}
   ],
   "kindergarten": [
-    "asilo"
+    {"id": 8231,"text": ["asilo"]}
   ],
   "kindly": [
-    "gentilmente"
+    {"id": 8232,"text": ["gentilmente"]}
   ],
   "kindness": [
-    "gentilezza"
+    {"id": 8233,"text": ["gentilezza"]}
   ],
   "kinematic": [
-    "cinematico"
+    {"id": 8234,"text": ["cinematico"]}
   ],
   "kinescope": [
-    "cinescopio"
+    {"id": 8235,"text": ["cinescopio"]}
   ],
   "kinesthesia": [
-    "cinestesia"
+    {"id": 8236,"text": ["cinestesia"]}
   ],
   "kinetical": [
-    "cinetico"
+    {"id": 8237,"text": ["cinetico"]}
   ],
   "king": [
-    "re"
+    {"id": 8238,"text": ["re"]}
   ],
   "kinship": [
-    "parentela"
+    {"id": 8239,"text": ["parentela"]}
   ],
   "kiosk": [
-    "chiosco"
+    {"id": 8240,"text": ["chiosco"]}
   ],
   "kiss": [
-    "baciare",
-    "bacio"
+    {"id": 8241,"text": ["baciare"]},
+    {"id": 8242,"text": ["bacio"]}
   ],
   "kit": [
-    "scatola"
+    {"id": 8243,"text": ["scatola"]}
   ],
   "kitchen": [
-    "cucina"
+    {"id": 8244,"text": ["cucina"]}
   ],
   "kite": [
-    "aquilone"
+    {"id": 8245,"text": ["aquilone"]}
   ],
   "kitten": [
-    "gattino"
+    {"id": 8246,"text": ["gattino"]}
   ],
   "klaxon": [
-    "clacson"
+    {"id": 8247,"text": ["clacson"]}
   ],
   "knee": [
-    "ginocchio"
+    {"id": 8248,"text": ["ginocchio"]}
   ],
   "kneel": [
-    "inginocchiarsi"
+    {"id": 8249,"text": ["inginocchiarsi"]}
   ],
   "kneepad": [
-    "ginocchiera"
+    {"id": 8250,"text": ["ginocchiera"]}
   ],
   "knife": [
-    "coltello"
+    {"id": 8251,"text": ["coltello"]}
   ],
   "knight": [
-    "cavaliere"
+    {"id": 8252,"text": ["cavaliere"]}
   ],
   "knit": [
-    "lavorare a maglia"
+    {"id": 8253,"text": ["lavorare a maglia"]}
   ],
   "knock": [
-    "bussare"
+    {"id": 8254,"text": ["bussare"]}
   ],
   "knock down": [
-    "abbattere"
+    {"id": 8255,"text": ["abbattere"]}
   ],
   "knot": [
-    "nodo"
+    {"id": 8256,"text": ["nodo"]}
   ],
   "know": [
-    "conoscere",
-    "sapere"
+    {"id": 8257,"text": ["conoscere"]},
+    {"id": 8258,"text": ["sapere"]}
   ],
   "knowledge": [
-    "conoscenza",
-    "sapere",
-    "sapienza"
+    {"id": 8259,"text": ["conoscenza"]},
+    {"id": 8260,"text": ["sapere"]},
+    {"id": 8261,"text": ["sapienza"]}
   ],
   "knowledgeable": [
-    "imparato"
+    {"id": 8262,"text": ["imparato"]}
   ],
   "knuckle": [
-    "nocca"
+    {"id": 8263,"text": ["nocca"]}
   ],
   "Korea": [
-    "Corea"
+    {"id": 8264,"text": ["Corea"]}
   ],
   "Korean": [
-    "coreano"
+    {"id": 8265,"text": ["coreano"]}
   ]
 }

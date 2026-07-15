@@ -1,2005 +1,2005 @@
 {
   "baboon": [
-    "babbuino"
+    {"id": 1322,"text": ["babbuino"]}
   ],
   "baby": [
-    "bebè",
-    "neonato"
+    {"id": 1323,"text": ["bebè"]},
+    {"id": 1324,"text": ["neonato"]}
   ],
   "Babylonian": [
-    "babilonese"
+    {"id": 1325,"text": ["babilonese"]}
   ],
   "bacillus": [
-    "bacillo"
+    {"id": 1326,"text": ["bacillo"]}
   ],
   "back": [
-    "appoggiare",
-    "dietro",
-    "difendere",
-    "posteriore",
-    "puntare",
-    "schiena"
+    {"id": 1327,"text": ["appoggiare"]},
+    {"id": 1328,"text": ["dietro"]},
+    {"id": 1329,"text": ["difendere"]},
+    {"id": 1330,"text": ["posteriore"]},
+    {"id": 1331,"text": ["puntare"]},
+    {"id": 1332,"text": ["schiena"]}
   ],
   "background": [
-    "sfondo"
+    {"id": 1333,"text": ["sfondo"]}
   ],
   "backpack": [
-    "zaino"
+    {"id": 1334,"text": ["zaino"]}
   ],
   "backrest": [
-    "schienale",
-    "sostegno"
+    {"id": 1335,"text": ["schienale"]},
+    {"id": 1336,"text": ["sostegno"]}
   ],
   "backside": [
-    "didietro"
+    {"id": 1337,"text": ["didietro"]}
   ],
   "backup": [
-    "riserva"
+    {"id": 1338,"text": ["riserva"]}
   ],
   "backwards": [
-    "all'indietro"
+    {"id": 1339,"text": ["all'indietro"]}
   ],
   "bacon": [
-    "pancetta"
+    {"id": 1340,"text": ["pancetta"]}
   ],
   "bacteriological": [
-    "batteriologico"
+    {"id": 1341,"text": ["batteriologico"]}
   ],
   "bacteriology": [
-    "batteriologia"
+    {"id": 1342,"text": ["batteriologia"]}
   ],
   "bacterium": [
-    "batterio"
+    {"id": 1343,"text": ["batterio"]}
   ],
   "bad": [
-    "cattivo",
-    "male"
+    {"id": 1344,"text": ["cattivo"]},
+    {"id": 1345,"text": ["male"]}
   ],
   "badge": [
-    "distintivo"
+    {"id": 1346,"text": ["distintivo"]}
   ],
   "badger": [
-    "tasso"
+    {"id": 1347,"text": ["tasso"]}
   ],
   "badly": [
-    "male"
+    {"id": 1348,"text": ["male"]}
   ],
   "badminton": [
-    "badminton"
+    {"id": 1349,"text": ["badminton"]}
   ],
   "baffle": [
-    "sconcertare"
+    {"id": 1350,"text": ["sconcertare"]}
   ],
   "bag": [
-    "borsa",
-    "busta",
-    "sacca"
+    {"id": 1351,"text": ["borsa"]},
+    {"id": 1352,"text": ["busta"]},
+    {"id": 1353,"text": ["sacca"]}
   ],
   "bagatelle": [
-    "bagattella"
+    {"id": 1354,"text": ["bagattella"]}
   ],
   "baggage": [
-    "bagaglio"
+    {"id": 1355,"text": ["bagaglio"]}
   ],
   "bagpipe": [
-    "cornamusa"
+    {"id": 1356,"text": ["cornamusa"]}
   ],
   "bail": [
-    "cauzione"
+    {"id": 1357,"text": ["cauzione"]}
   ],
   "bailiff": [
-    "ufficiale giudiziario"
+    {"id": 1358,"text": ["ufficiale giudiziario"]}
   ],
   "bait": [
-    "esca",
-    "ingannare"
+    {"id": 1359,"text": ["esca"]},
+    {"id": 1360,"text": ["ingannare"]}
   ],
   "bake": [
-    "cuocere",
-    "infornare"
+    {"id": 1361,"text": ["cuocere"]},
+    {"id": 1362,"text": ["infornare"]}
   ],
   "baker": [
-    "panettiere"
+    {"id": 1363,"text": ["panettiere"]}
   ],
   "bakery": [
-    "panetteria"
+    {"id": 1364,"text": ["panetteria"]}
   ],
   "baking powder": [
-    "lievito in polvere"
+    {"id": 1365,"text": ["lievito in polvere"]}
   ],
   "baking soda": [
-    "bicarbonato di sodio"
+    {"id": 1366,"text": ["bicarbonato di sodio"]}
   ],
   "balance": [
-    "bilancio",
-    "bilanciare",
-    "equilibrare",
-    "equilibrio",
-    "saldo"
+    {"id": 1367,"text": ["bilancio"]},
+    {"id": 1368,"text": ["bilanciare"]},
+    {"id": 1369,"text": ["equilibrare"]},
+    {"id": 1370,"text": ["equilibrio"]},
+    {"id": 1371,"text": ["saldo"]}
   ],
   "balcony": [
-    "balcone"
+    {"id": 1372,"text": ["balcone"]}
   ],
   "bald": [
-    "calvo"
+    {"id": 1373,"text": ["calvo"]}
   ],
   "Balkan": [
-    "Balcanico"
+    {"id": 1374,"text": ["Balcanico"]}
   ],
   "balkanisation": [
-    "balcanizzazione"
+    {"id": 1375,"text": ["balcanizzazione"]}
   ],
   "Balkans": [
-    "Balcani"
+    {"id": 1376,"text": ["Balcani"]}
   ],
   "ball": [
-    "palla",
-    "pallone"
+    {"id": 1377,"text": ["palla"]},
+    {"id": 1378,"text": ["pallone"]}
   ],
   "ballade": [
-    "ballata"
+    {"id": 1379,"text": ["ballata"]}
   ],
   "ballast": [
-    "zavorra"
+    {"id": 1380,"text": ["zavorra"]}
   ],
   "ballet": [
-    "balletto"
+    {"id": 1381,"text": ["balletto"]}
   ],
   "ballistic": [
-    "balistico"
+    {"id": 1382,"text": ["balistico"]}
   ],
   "balloon": [
-    "palloncino"
+    {"id": 1383,"text": ["palloncino"]}
   ],
   "ballroomdancer": [
-    "ballerinodiliscio"
+    {"id": 1384,"text": ["ballerinodiliscio"]}
   ],
   "balm": [
-    "balsamo"
+    {"id": 1385,"text": ["balsamo"]}
   ],
   "balneotherapy": [
-    "balneoterapia"
+    {"id": 1386,"text": ["balneoterapia"]}
   ],
   "balsam": [
-    "balsamo"
+    {"id": 1387,"text": ["balsamo"]}
   ],
   "baluster": [
-    "balaustro"
+    {"id": 1388,"text": ["balaustro"]}
   ],
   "balustrade": [
-    "balaustra"
+    {"id": 1389,"text": ["balaustra"]}
   ],
   "ban": [
-    "bandire",
-    "divieto",
-    "proibire"
+    {"id": 1390,"text": ["bandire"]},
+    {"id": 1391,"text": ["divieto"]},
+    {"id": 1392,"text": ["proibire"]}
   ],
   "banal": [
-    "banale"
+    {"id": 1393,"text": ["banale"]}
   ],
   "banana": [
-    "banana"
+    {"id": 1394,"text": ["banana"]}
   ],
   "band": [
-    "banda",
-    "fascia"
+    {"id": 1395,"text": ["banda"]},
+    {"id": 1396,"text": ["fascia"]}
   ],
   "bandage": [
-    "benda",
-    "fasciatura"
+    {"id": 1397,"text": ["benda"]},
+    {"id": 1398,"text": ["fasciatura"]}
   ],
   "bandit": [
-    "bandito"
+    {"id": 1399,"text": ["bandito"]}
   ],
   "bang": [
-    "battere",
-    "botto",
-    "colpire",
-    "colpo",
-    "sbattere",
-    "scoppio"
+    {"id": 1400,"text": ["battere"]},
+    {"id": 1401,"text": ["botto"]},
+    {"id": 1402,"text": ["colpire"]},
+    {"id": 1403,"text": ["colpo"]},
+    {"id": 1404,"text": ["sbattere"]},
+    {"id": 1405,"text": ["scoppio"]}
   ],
   "bangle": [
-    "braccialetto"
+    {"id": 1406,"text": ["braccialetto"]}
   ],
   "banish": [
-    "bandire"
+    {"id": 1407,"text": ["bandire"]}
   ],
   "banishment": [
-    "bando",
-    "esilio"
+    {"id": 1408,"text": ["bando"]},
+    {"id": 1409,"text": ["esilio"]}
   ],
   "bank": [
-    "accatastare",
-    "banca",
-    "sponda"
+    {"id": 1410,"text": ["accatastare"]},
+    {"id": 1411,"text": ["banca"]},
+    {"id": 1412,"text": ["sponda"]}
   ],
   "banker": [
-    "banchiere"
+    {"id": 1413,"text": ["banchiere"]}
   ],
   "banking": [
-    "banca",
-    "bancario"
+    {"id": 1414,"text": ["banca"]},
+    {"id": 1415,"text": ["bancario"]}
   ],
   "banknote": [
-    "banconota"
+    {"id": 1416,"text": ["banconota"]}
   ],
   "bankruptcy": [
-    "bancarotta"
+    {"id": 1417,"text": ["bancarotta"]}
   ],
   "banquet": [
-    "banchetto"
+    {"id": 1418,"text": ["banchetto"]}
   ],
   "baptise": [
-    "battezzare"
+    {"id": 1419,"text": ["battezzare"]}
   ],
   "baptism": [
-    "battesimo"
+    {"id": 1420,"text": ["battesimo"]}
   ],
   "baptistery": [
-    "battistero"
+    {"id": 1421,"text": ["battistero"]}
   ],
   "bar": [
-    "bancone",
-    "bar",
-    "barra",
-    "sbarra"
+    {"id": 1422,"text": ["bancone"]},
+    {"id": 1423,"text": ["bar"]},
+    {"id": 1424,"text": ["barra"]},
+    {"id": 1425,"text": ["sbarra"]}
   ],
   "barbarian": [
-    "barbaro"
+    {"id": 1426,"text": ["barbaro"]}
   ],
   "barbaric": [
-    "barbarico"
+    {"id": 1427,"text": ["barbarico"]}
   ],
   "barbarism": [
-    "barbarie"
+    {"id": 1428,"text": ["barbarie"]}
   ],
   "barbecue": [
-    "barbecue"
+    {"id": 1429,"text": ["barbecue"]}
   ],
   "barbed wire": [
-    "filo spinato"
+    {"id": 1430,"text": ["filo spinato"]}
   ],
   "barber": [
-    "barbiere"
+    {"id": 1431,"text": ["barbiere"]}
   ],
   "barcarole": [
-    "barcarola"
+    {"id": 1432,"text": ["barcarola"]}
   ],
   "Barcelona": [
-    "Barcellona"
+    {"id": 1433,"text": ["Barcellona"]}
   ],
   "barcode": [
-    "codiceabarre"
+    {"id": 1434,"text": ["codiceabarre"]}
   ],
   "barcodereader": [
-    "lettoredicodiceabarre"
+    {"id": 1435,"text": ["lettoredicodiceabarre"]}
   ],
   "bard": [
-    "bardo"
+    {"id": 1436,"text": ["bardo"]}
   ],
   "barely": [
-    "a malapena",
-    "appena"
+    {"id": 1437,"text": ["a malapena"]},
+    {"id": 1438,"text": ["appena"]}
   ],
   "bargain": [
-    "affare"
+    {"id": 1439,"text": ["affare"]}
   ],
   "bargaining": [
-    "contrattazione"
+    {"id": 1440,"text": ["contrattazione"]}
   ],
   "baritone": [
-    "baritono"
+    {"id": 1441,"text": ["baritono"]}
   ],
   "barium": [
-    "bario"
+    {"id": 1442,"text": ["bario"]}
   ],
   "bark": [
-    "abbaiare",
-    "abbaio",
-    "corteccia"
+    {"id": 1443,"text": ["abbaiare"]},
+    {"id": 1444,"text": ["abbaio"]},
+    {"id": 1445,"text": ["corteccia"]}
   ],
   "barley": [
-    "orzo"
+    {"id": 1446,"text": ["orzo"]}
   ],
   "barometer": [
-    "barometro"
+    {"id": 1447,"text": ["barometro"]}
   ],
   "barometric": [
-    "barometrico"
+    {"id": 1448,"text": ["barometrico"]}
   ],
   "baron": [
-    "barone"
+    {"id": 1449,"text": ["barone"]}
   ],
   "barony": [
-    "baronia"
+    {"id": 1450,"text": ["baronia"]}
   ],
   "baroque": [
-    "barocco"
+    {"id": 1451,"text": ["barocco"]}
   ],
   "barrack": [
-    "baracca"
+    {"id": 1452,"text": ["baracca"]}
   ],
   "barrel": [
-    "barile"
+    {"id": 1453,"text": ["barile"]}
   ],
   "barren": [
-    "sterile"
+    {"id": 1454,"text": ["sterile"]}
   ],
   "barricade": [
-    "barricare",
-    "barricata"
+    {"id": 1455,"text": ["barricare"]},
+    {"id": 1456,"text": ["barricata"]}
   ],
   "barrier": [
-    "barriera"
+    {"id": 1457,"text": ["barriera"]}
   ],
   "barter": [
-    "baratto"
+    {"id": 1458,"text": ["baratto"]}
   ],
   "barycentre": [
-    "baricentro"
+    {"id": 1459,"text": ["baricentro"]}
   ],
   "basal": [
-    "basale"
+    {"id": 1460,"text": ["basale"]}
   ],
   "basalt": [
-    "basalto"
+    {"id": 1461,"text": ["basalto"]}
   ],
   "base": [
-    "basare",
-    "base"
+    {"id": 1462,"text": ["basare"]},
+    {"id": 1463,"text": ["base"]}
   ],
   "basic": [
-    "basico",
-    "basilare"
+    {"id": 1464,"text": ["basico"]},
+    {"id": 1465,"text": ["basilare"]}
   ],
   "basically": [
-    "praticamente"
+    {"id": 1466,"text": ["praticamente"]}
   ],
   "basil": [
-    "basilico"
+    {"id": 1467,"text": ["basilico"]}
   ],
   "basin": [
-    "bacino",
-    "conca"
+    {"id": 1468,"text": ["bacino"]},
+    {"id": 1469,"text": ["conca"]}
   ],
   "basis": [
-    "base"
+    {"id": 1470,"text": ["base"]}
   ],
   "basket": [
-    "cesta",
-    "cesto",
-    "paniere"
+    {"id": 1471,"text": ["cesta"]},
+    {"id": 1472,"text": ["cesto"]},
+    {"id": 1473,"text": ["paniere"]}
   ],
   "basketball": [
-    "basket",
-    "pallacanestro"
+    {"id": 1474,"text": ["basket"]},
+    {"id": 1475,"text": ["pallacanestro"]}
   ],
   "basophilia": [
-    "basofilia"
+    {"id": 1476,"text": ["basofilia"]}
   ],
   "bassoon": [
-    "fagotto"
+    {"id": 1477,"text": ["fagotto"]}
   ],
   "bastard": [
-    "bastardo"
+    {"id": 1478,"text": ["bastardo"]}
   ],
   "bat": [
-    "mazza",
-    "pipistrello"
+    {"id": 1479,"text": ["mazza"]},
+    {"id": 1480,"text": ["pipistrello"]}
   ],
   "batallion": [
-    "battaglione"
+    {"id": 1481,"text": ["battaglione"]}
   ],
   "batch": [
-    "lotto"
+    {"id": 1482,"text": ["lotto"]}
   ],
   "bath": [
-    "bagno"
+    {"id": 1483,"text": ["bagno"]}
   ],
   "bathe": [
-    "bagnare"
+    {"id": 1484,"text": ["bagnare"]}
   ],
   "bathing": [
-    "balneazione"
+    {"id": 1485,"text": ["balneazione"]}
   ],
   "bathroom": [
-    "bagno"
+    {"id": 1486,"text": ["bagno"]}
   ],
   "batiste": [
-    "batista"
+    {"id": 1487,"text": ["batista"]}
   ],
   "baton": [
-    "bastone",
-    "testimone"
+    {"id": 1488,"text": ["bastone"]},
+    {"id": 1489,"text": ["testimone"]}
   ],
   "battery": [
-    "aggressione",
-    "batteria",
-    "pila"
+    {"id": 1490,"text": ["aggressione"]},
+    {"id": 1491,"text": ["batteria"]},
+    {"id": 1492,"text": ["pila"]}
   ],
   "batting": [
-    "battuta"
+    {"id": 1493,"text": ["battuta"]}
   ],
   "battle": [
-    "battaglia",
-    "combattere"
+    {"id": 1494,"text": ["battaglia"]},
+    {"id": 1495,"text": ["combattere"]}
   ],
   "bay": [
-    "baia"
+    {"id": 1496,"text": ["baia"]}
   ],
   "bayonet": [
-    "baionetta"
+    {"id": 1497,"text": ["baionetta"]}
   ],
   "be": [
-    "essere",
-    "stare"
+    {"id": 1498,"text": ["essere"]},
+    {"id": 1499,"text": ["stare"]}
   ],
   "be born": [
-    "nascere"
+    {"id": 1500,"text": ["nascere"]}
   ],
   "be enough": [
-    "bastare"
+    {"id": 1501,"text": ["bastare"]}
   ],
   "be hungry": [
-    "avere fame"
+    {"id": 1502,"text": ["avere fame"]}
   ],
   "be left": [
-    "restare"
+    {"id": 1503,"text": ["restare"]}
   ],
   "be missing": [
-    "mancare"
+    {"id": 1504,"text": ["mancare"]}
   ],
   "be sorry": [
-    "dispiacersi"
+    {"id": 1505,"text": ["dispiacersi"]}
   ],
   "be used to": [
-    "solere"
+    {"id": 1506,"text": ["solere"]}
   ],
   "be worth": [
-    "valere"
+    {"id": 1507,"text": ["valere"]}
   ],
   "beach": [
-    "spiaggia"
+    {"id": 1508,"text": ["spiaggia"]}
   ],
   "bead": [
-    "perlina"
+    {"id": 1509,"text": ["perlina"]}
   ],
   "beak": [
-    "becco"
+    {"id": 1510,"text": ["becco"]}
   ],
   "beaker": [
-    "coppa"
+    {"id": 1511,"text": ["coppa"]}
   ],
   "beam": [
-    "trave",
-    "raggio",
-    "fascio"
+    {"id": 1512,"text": ["trave"]},
+    {"id": 1513,"text": ["raggio"]},
+    {"id": 1514,"text": ["fascio"]}
   ],
   "bean": [
-    "fagiolo"
+    {"id": 1515,"text": ["fagiolo"]}
   ],
   "bear": [
-    "orso",
-    "partorire",
-    "sopportare"
+    {"id": 1516,"text": ["orso"]},
+    {"id": 1517,"text": ["partorire"]},
+    {"id": 1518,"text": ["sopportare"]}
   ],
   "bearable": [
-    "sopportabile"
+    {"id": 1519,"text": ["sopportabile"]}
   ],
   "beard": [
-    "barba"
+    {"id": 1520,"text": ["barba"]}
   ],
   "bearded": [
-    "barbuto"
+    {"id": 1521,"text": ["barbuto"]}
   ],
   "bearer": [
-    "portatore"
+    {"id": 1522,"text": ["portatore"]}
   ],
   "beast": [
-    "bestia"
+    {"id": 1523,"text": ["bestia"]}
   ],
   "beat": [
-    "battere",
-    "battito",
-    "picchiare",
-    "ritmo"
+    {"id": 1524,"text": ["battere"]},
+    {"id": 1525,"text": ["battito"]},
+    {"id": 1526,"text": ["picchiare"]},
+    {"id": 1527,"text": ["ritmo"]}
   ],
   "beat up": [
-    "picchiare"
+    {"id": 1528,"text": ["picchiare"]}
   ],
   "beautician": [
-    "estetista"
+    {"id": 1529,"text": ["estetista"]}
   ],
   "beautiful": [
-    "bello"
+    {"id": 1530,"text": ["bello"]}
   ],
   "beautifully": [
-    "fantasticamente"
+    {"id": 1531,"text": ["fantasticamente"]}
   ],
   "beauty": [
-    "bellezza"
+    {"id": 1532,"text": ["bellezza"]}
   ],
   "beaver": [
-    "castoro"
+    {"id": 1533,"text": ["castoro"]}
   ],
   "bechamel sauce": [
-    "besciamella"
+    {"id": 1534,"text": ["besciamella"]}
   ],
   "become": [
-    "divenire",
-    "diventare"
+    {"id": 1535,"text": ["divenire"]},
+    {"id": 1536,"text": ["diventare"]}
   ],
   "bed": [
-    "alloggiare",
-    "letto"
+    {"id": 1537,"text": ["alloggiare"]},
+    {"id": 1538,"text": ["letto"]}
   ],
   "bedroom": [
-    "camera da letto",
-    "stanza da letto"
+    {"id": 1539,"text": ["camera da letto"]},
+    {"id": 1540,"text": ["stanza da letto"]}
   ],
   "bedspread": [
-    "copriletto"
+    {"id": 1541,"text": ["copriletto"]}
   ],
   "bee": [
-    "ape"
+    {"id": 1542,"text": ["ape"]}
   ],
   "beef": [
-    "manzo"
+    {"id": 1543,"text": ["manzo"]}
   ],
   "beehive": [
-    "alveare"
+    {"id": 1544,"text": ["alveare"]}
   ],
   "beer": [
-    "birra"
+    {"id": 1545,"text": ["birra"]}
   ],
   "beetle": [
-    "scarabeo"
+    {"id": 1546,"text": ["scarabeo"]}
   ],
   "beetroot": [
-    "barbabietola"
+    {"id": 1547,"text": ["barbabietola"]}
   ],
   "before": [
-    "prima"
+    {"id": 1548,"text": ["prima"]}
   ],
   "beforehand": [
-    "preventivamente"
+    {"id": 1549,"text": ["preventivamente"]}
   ],
   "beg": [
-    "supplicare"
+    {"id": 1550,"text": ["supplicare"]}
   ],
   "beggar": [
-    "mendicante"
+    {"id": 1551,"text": ["mendicante"]}
   ],
   "begin": [
-    "iniziare"
+    {"id": 1552,"text": ["iniziare"]}
   ],
   "beginner": [
-    "novellino"
+    {"id": 1553,"text": ["novellino"]}
   ],
   "beginning": [
-    "inizio"
+    {"id": 1554,"text": ["inizio"]}
   ],
   "behave": [
-    "comportarsi"
+    {"id": 1555,"text": ["comportarsi"]}
   ],
   "behavior": [
-    "comportamento"
+    {"id": 1556,"text": ["comportamento"]}
   ],
   "behavioral": [
-    "comportamentale"
+    {"id": 1557,"text": ["comportamentale"]}
   ],
   "behaviorism": [
-    "comportamentismo"
+    {"id": 1558,"text": ["comportamentismo"]}
   ],
   "behaviour": [
-    "comportamento"
+    {"id": 1559,"text": ["comportamento"]}
   ],
   "behavioural": [
-    "comportamentale"
+    {"id": 1560,"text": ["comportamentale"]}
   ],
   "behaviourism": [
-    "comportamentismo"
+    {"id": 1561,"text": ["comportamentismo"]}
   ],
   "beheading": [
-    "decapitazione"
+    {"id": 1562,"text": ["decapitazione"]}
   ],
   "behind": [
-    "dietro"
+    {"id": 1563,"text": ["dietro"]}
   ],
   "Beijing": [
-    "Pechino"
+    {"id": 1564,"text": ["Pechino"]}
   ],
   "being": [
-    "essere"
+    {"id": 1565,"text": ["essere"]}
   ],
   "Belgian": [
-    "belga"
+    {"id": 1566,"text": ["belga"]}
   ],
   "Belgium": [
-    "Belgio"
+    {"id": 1567,"text": ["Belgio"]}
   ],
   "belief": [
-    "credenza",
-    "credo"
+    {"id": 1568,"text": ["credenza"]},
+    {"id": 1569,"text": ["credo"]}
   ],
   "believe": [
-    "credere",
-    "ritenere"
+    {"id": 1570,"text": ["credere"]},
+    {"id": 1571,"text": ["ritenere"]}
   ],
   "believer": [
-    "credente"
+    {"id": 1572,"text": ["credente"]}
   ],
   "bell": [
-    "campana"
+    {"id": 1573,"text": ["campana"]}
   ],
   "bell tower": [
-    "campanile"
+    {"id": 1574,"text": ["campanile"]}
   ],
   "belligerency": [
-    "belligeranza"
+    {"id": 1575,"text": ["belligeranza"]}
   ],
   "belligerent": [
-    "belligerante"
+    {"id": 1576,"text": ["belligerante"]}
   ],
   "belly": [
-    "pancia"
+    {"id": 1577,"text": ["pancia"]}
   ],
   "belly button": [
-    "ombelico"
+    {"id": 1578,"text": ["ombelico"]}
   ],
   "bellydancer": [
-    "danzatricedelventre"
+    {"id": 1579,"text": ["danzatricedelventre"]}
   ],
   "belong": [
-    "appartenere"
+    {"id": 1580,"text": ["appartenere"]}
   ],
   "belonging": [
-    "appartenenza"
+    {"id": 1581,"text": ["appartenenza"]}
   ],
   "beloved": [
-    "amato"
+    {"id": 1582,"text": ["amato"]}
   ],
   "below": [
-    "sotto"
+    {"id": 1583,"text": ["sotto"]}
   ],
   "belt": [
-    "cintura"
+    {"id": 1584,"text": ["cintura"]}
   ],
   "bend": [
-    "curva",
-    "flettere",
-    "inclinare"
+    {"id": 1585,"text": ["curva"]},
+    {"id": 1586,"text": ["flettere"]},
+    {"id": 1587,"text": ["inclinare"]}
   ],
   "beneath": [
-    "sotto"
+    {"id": 1588,"text": ["sotto"]}
   ],
   "benediction": [
-    "benedizione"
+    {"id": 1589,"text": ["benedizione"]}
   ],
   "benefactor": [
-    "benefattore"
+    {"id": 1590,"text": ["benefattore"]}
   ],
   "beneficial": [
-    "benefico"
+    {"id": 1591,"text": ["benefico"]}
   ],
   "beneficiary": [
-    "beneficiario"
+    {"id": 1592,"text": ["beneficiario"]}
   ],
   "benefit": [
-    "avvantaggiare",
-    "beneficio"
+    {"id": 1593,"text": ["avvantaggiare"]},
+    {"id": 1594,"text": ["beneficio"]}
   ],
   "benevolence": [
-    "benevolenza"
+    {"id": 1595,"text": ["benevolenza"]}
   ],
   "bentonite": [
-    "bentonite"
+    {"id": 1596,"text": ["bentonite"]}
   ],
   "benzine": [
-    "benzina"
+    {"id": 1597,"text": ["benzina"]}
   ],
   "bequeath": [
-    "legare"
+    {"id": 1598,"text": ["legare"]}
   ],
   "berkelium": [
-    "berkelio"
+    {"id": 1599,"text": ["berkelio"]}
   ],
   "Berlin": [
-    "Berlino"
+    {"id": 1600,"text": ["Berlino"]}
   ],
   "beryllium": [
-    "berillio"
+    {"id": 1601,"text": ["berillio"]}
   ],
   "beside": [
-    "accanto",
-    "assieme",
-    "presso"
+    {"id": 1602,"text": ["accanto"]},
+    {"id": 1603,"text": ["assieme"]},
+    {"id": 1604,"text": ["presso"]}
   ],
   "besides": [
-    "inoltre",
-    "oltretutto"
+    {"id": 1605,"text": ["inoltre"]},
+    {"id": 1606,"text": ["oltretutto"]}
   ],
   "besiege": [
-    "assediare"
+    {"id": 1607,"text": ["assediare"]}
   ],
   "bestial": [
-    "bestiale"
+    {"id": 1608,"text": ["bestiale"]}
   ],
   "bestow": [
-    "tributare"
+    {"id": 1609,"text": ["tributare"]}
   ],
   "bestseller": [
-    "bestseller"
+    {"id": 1610,"text": ["bestseller"]}
   ],
   "bet": [
-    "scommessa",
-    "scommettere"
+    {"id": 1611,"text": ["scommessa"]},
+    {"id": 1612,"text": ["scommettere"]}
   ],
   "betacism": [
-    "betacismo"
+    {"id": 1613,"text": ["betacismo"]}
   ],
   "betray": [
-    "tradire"
+    {"id": 1614,"text": ["tradire"]}
   ],
   "betrayal": [
-    "tradimento"
+    {"id": 1615,"text": ["tradimento"]}
   ],
   "betrayer": [
-    "traditore"
+    {"id": 1616,"text": ["traditore"]}
   ],
   "better late than never": [
-    "meglio tardi che mai"
+    {"id": 1617,"text": ["meglio tardi che mai"]}
   ],
   "betting": [
-    "scommessa"
+    {"id": 1618,"text": ["scommessa"]}
   ],
   "between": [
-    "fra",
-    "tra"
+    {"id": 1619,"text": ["fra"]},
+    {"id": 1620,"text": ["tra"]}
   ],
   "bevel": [
-    "smussatura"
+    {"id": 1621,"text": ["smussatura"]}
   ],
   "beverage": [
-    "bevanda"
+    {"id": 1622,"text": ["bevanda"]}
   ],
   "bewitch": [
-    "incantare"
+    {"id": 1623,"text": ["incantare"]}
   ],
   "beyond": [
-    "oltre"
+    {"id": 1624,"text": ["oltre"]}
   ],
   "bias": [
-    "influenzare"
+    {"id": 1625,"text": ["influenzare"]}
   ],
   "bib": [
-    "bavaglio"
+    {"id": 1626,"text": ["bavaglio"]}
   ],
   "Bible": [
-    "Bibbia"
+    {"id": 1627,"text": ["Bibbia"]}
   ],
   "biblical": [
-    "biblico"
+    {"id": 1628,"text": ["biblico"]}
   ],
   "bibliographic": [
-    "bibliografico"
+    {"id": 1629,"text": ["bibliografico"]}
   ],
   "bibliography": [
-    "bibliografia"
+    {"id": 1630,"text": ["bibliografia"]}
   ],
   "bibliometrics": [
-    "bibliometria"
+    {"id": 1631,"text": ["bibliometria"]}
   ],
   "bicameral": [
-    "bicamerale"
+    {"id": 1632,"text": ["bicamerale"]}
   ],
   "bicameralism": [
-    "bicameralismo"
+    {"id": 1633,"text": ["bicameralismo"]}
   ],
   "bicep": [
-    "bicipite"
+    {"id": 1634,"text": ["bicipite"]}
   ],
   "bicycle": [
-    "bici",
-    "bicicletta"
+    {"id": 1635,"text": ["bici"]},
+    {"id": 1636,"text": ["bicicletta"]}
   ],
   "bid": [
-    "offerta",
-    "offrire"
+    {"id": 1637,"text": ["offerta"]},
+    {"id": 1638,"text": ["offrire"]}
   ],
   "bidding": [
-    "offerta"
+    {"id": 1639,"text": ["offerta"]}
   ],
   "bidet": [
-    "bidet"
+    {"id": 1640,"text": ["bidet"]}
   ],
   "bidirectional": [
-    "bidirezionale"
+    {"id": 1641,"text": ["bidirezionale"]}
   ],
   "biennial": [
-    "biennale"
+    {"id": 1642,"text": ["biennale"]}
   ],
   "bifurcation": [
-    "biforcazione"
+    {"id": 1643,"text": ["biforcazione"]}
   ],
   "big": [
-    "grande"
+    {"id": 1644,"text": ["grande"]}
   ],
   "bigamy": [
-    "bigamia"
+    {"id": 1645,"text": ["bigamia"]}
   ],
   "bijection": [
-    "biiezione"
+    {"id": 1646,"text": ["biiezione"]}
   ],
   "bike": [
-    "bici",
-    "bicicletta"
+    {"id": 1647,"text": ["bici"]},
+    {"id": 1648,"text": ["bicicletta"]}
   ],
   "bikini": [
-    "bikini"
+    {"id": 1649,"text": ["bikini"]}
   ],
   "bilabial": [
-    "bilabiale"
+    {"id": 1650,"text": ["bilabiale"]}
   ],
   "bilateral": [
-    "bilaterale"
+    {"id": 1651,"text": ["bilaterale"]}
   ],
   "bilberry": [
-    "mirtillo"
+    {"id": 1652,"text": ["mirtillo"]}
   ],
   "bilingual": [
-    "bilingue"
+    {"id": 1653,"text": ["bilingue"]}
   ],
   "bilingualism": [
-    "bilinguismo"
+    {"id": 1654,"text": ["bilinguismo"]}
   ],
   "bilirubin": [
-    "bilirubina"
+    {"id": 1655,"text": ["bilirubina"]}
   ],
   "bill": [
-    "bolletta",
-    "conto",
-    "fattura",
-    "fatturare"
+    {"id": 1656,"text": ["bolletta"]},
+    {"id": 1657,"text": ["conto"]},
+    {"id": 1658,"text": ["fattura"]},
+    {"id": 1659,"text": ["fatturare"]}
   ],
   "billet": [
-    "alloggiare"
+    {"id": 1660,"text": ["alloggiare"]}
   ],
   "billiard": [
-    "biliardo"
+    {"id": 1661,"text": ["biliardo"]}
   ],
   "billygoat": [
-    "caprone"
+    {"id": 1662,"text": ["caprone"]}
   ],
   "bimonthly": [
-    "bimestrale"
+    {"id": 1663,"text": ["bimestrale"]}
   ],
   "bin": [
-    "cesto"
+    {"id": 1664,"text": ["cesto"]}
   ],
   "binaural": [
-    "binaurale"
+    {"id": 1665,"text": ["binaurale"]}
   ],
   "bind": [
-    "legare"
+    {"id": 1666,"text": ["legare"]}
   ],
   "binding": [
-    "obbligatorio"
+    {"id": 1667,"text": ["obbligatorio"]}
   ],
   "bingo": [
-    "bingo"
+    {"id": 1668,"text": ["bingo"]}
   ],
   "binky": [
-    "ciuccio"
+    {"id": 1669,"text": ["ciuccio"]}
   ],
   "binoculars": [
-    "binocolo"
+    {"id": 1670,"text": ["binocolo"]}
   ],
   "binomial": [
-    "binomiale",
-    "binomio"
+    {"id": 1671,"text": ["binomiale"]},
+    {"id": 1672,"text": ["binomio"]}
   ],
   "bioaccumulation": [
-    "bioaccumulazione"
+    {"id": 1673,"text": ["bioaccumulazione"]}
   ],
   "biochemical": [
-    "biochimico"
+    {"id": 1674,"text": ["biochimico"]}
   ],
   "bioclimatic": [
-    "bioclimatico"
+    {"id": 1675,"text": ["bioclimatico"]}
   ],
   "biodegradable": [
-    "biodegradabile"
+    {"id": 1676,"text": ["biodegradabile"]}
   ],
   "biodegradation": [
-    "biodegradazione"
+    {"id": 1677,"text": ["biodegradazione"]}
   ],
   "bioenergy": [
-    "bioenergia"
+    {"id": 1678,"text": ["bioenergia"]}
   ],
   "biofuel": [
-    "biocarburante"
+    {"id": 1679,"text": ["biocarburante"]}
   ],
   "biogeochemical": [
-    "biogeochimico"
+    {"id": 1680,"text": ["biogeochimico"]}
   ],
   "biogeography": [
-    "biogeografia"
+    {"id": 1681,"text": ["biogeografia"]}
   ],
   "biographer": [
-    "biografo"
+    {"id": 1682,"text": ["biografo"]}
   ],
   "biographical": [
-    "biografico"
+    {"id": 1683,"text": ["biografico"]}
   ],
   "biography": [
-    "biografia"
+    {"id": 1684,"text": ["biografia"]}
   ],
   "biological": [
-    "biologico"
+    {"id": 1685,"text": ["biologico"]}
   ],
   "biologically": [
-    "biologicamente"
+    {"id": 1686,"text": ["biologicamente"]}
   ],
   "biologicalweapon": [
-    "armabiologica"
+    {"id": 1687,"text": ["armabiologica"]}
   ],
   "biologist": [
-    "biologo"
+    {"id": 1688,"text": ["biologo"]}
   ],
   "biology": [
-    "biologia"
+    {"id": 1689,"text": ["biologia"]}
   ],
   "bioluminescence": [
-    "bioluminescenza"
+    {"id": 1690,"text": ["bioluminescenza"]}
   ],
   "biomass": [
-    "biomassa"
+    {"id": 1691,"text": ["biomassa"]}
   ],
   "biome": [
-    "bioma"
+    {"id": 1692,"text": ["bioma"]}
   ],
   "biometrics": [
-    "biometria"
+    {"id": 1693,"text": ["biometria"]}
   ],
   "biomolecular": [
-    "biomolecolare"
+    {"id": 1694,"text": ["biomolecolare"]}
   ],
   "biophysical": [
-    "biofisico"
+    {"id": 1695,"text": ["biofisico"]}
   ],
   "biopolymer": [
-    "biopolimero"
+    {"id": 1696,"text": ["biopolimero"]}
   ],
   "biopsy": [
-    "biopsia"
+    {"id": 1697,"text": ["biopsia"]}
   ],
   "biorhythm": [
-    "bioritmo"
+    {"id": 1698,"text": ["bioritmo"]}
   ],
   "biosphere": [
-    "biosfera"
+    {"id": 1699,"text": ["biosfera"]}
   ],
   "biotechnology": [
-    "biotecnologia"
+    {"id": 1700,"text": ["biotecnologia"]}
   ],
   "biotic": [
-    "biotico"
+    {"id": 1701,"text": ["biotico"]}
   ],
   "biotope": [
-    "biotopo"
+    {"id": 1702,"text": ["biotopo"]}
   ],
   "bipolar": [
-    "bipolare"
+    {"id": 1703,"text": ["bipolare"]}
   ],
   "biquadratic": [
-    "biquadratico"
+    {"id": 1704,"text": ["biquadratico"]}
   ],
   "birch": [
-    "betulla"
+    {"id": 1705,"text": ["betulla"]}
   ],
   "bird": [
-    "uccello",
-    "volatile"
+    {"id": 1706,"text": ["uccello"]},
+    {"id": 1707,"text": ["volatile"]}
   ],
   "birth": [
-    "nascita"
+    {"id": 1708,"text": ["nascita"]}
   ],
   "birthday": [
-    "compleanno"
+    {"id": 1709,"text": ["compleanno"]}
   ],
   "biscuit": [
-    "biscotto"
+    {"id": 1710,"text": ["biscotto"]}
   ],
   "bisection": [
-    "bisezione"
+    {"id": 1711,"text": ["bisezione"]}
   ],
   "bishop": [
-    "vescovo"
+    {"id": 1712,"text": ["vescovo"]}
   ],
   "bishopric": [
-    "vescovato"
+    {"id": 1713,"text": ["vescovato"]}
   ],
   "bismuth": [
-    "bismuto"
+    {"id": 1714,"text": ["bismuto"]}
   ],
   "bistoury": [
-    "bisturi"
+    {"id": 1715,"text": ["bisturi"]}
   ],
   "bit": [
-    "bit",
-    "pezzo",
-    "poco"
+    {"id": 1716,"text": ["bit"]},
+    {"id": 1717,"text": ["pezzo"]},
+    {"id": 1718,"text": ["poco"]}
   ],
   "bite": [
-    "boccone",
-    "mordere",
-    "morsicatura"
+    {"id": 1719,"text": ["boccone"]},
+    {"id": 1720,"text": ["mordere"]},
+    {"id": 1721,"text": ["morsicatura"]}
   ],
   "bitter": [
-    "amaro"
+    {"id": 1722,"text": ["amaro"]}
   ],
   "bitterly": [
-    "aspramente"
+    {"id": 1723,"text": ["aspramente"]}
   ],
   "bitterness": [
-    "amarezza"
+    {"id": 1724,"text": ["amarezza"]}
   ],
   "bitumen": [
-    "bitume"
+    {"id": 1725,"text": ["bitume"]}
   ],
   "bivalve": [
-    "bivalve"
+    {"id": 1726,"text": ["bivalve"]}
   ],
   "bizarre": [
-    "strano"
+    {"id": 1727,"text": ["strano"]}
   ],
   "black": [
-    "black",
-    "nero"
+    {"id": 1728,"text": ["black"]},
+    {"id": 1729,"text": ["nero"]}
   ],
   "blackbird": [
-    "merlo"
+    {"id": 1730,"text": ["merlo"]}
   ],
   "blackboard": [
-    "lavagna"
+    {"id": 1731,"text": ["lavagna"]}
   ],
   "blacken": [
-    "annerire"
+    {"id": 1732,"text": ["annerire"]}
   ],
   "blackening": [
-    "annerimento"
+    {"id": 1733,"text": ["annerimento"]}
   ],
   "blackhead": [
-    "comedone"
+    {"id": 1734,"text": ["comedone"]}
   ],
   "blackmail": [
-    "ricattare",
-    "ricatto"
+    {"id": 1735,"text": ["ricattare"]},
+    {"id": 1736,"text": ["ricatto"]}
   ],
   "blackmailer": [
-    "ricattatore"
+    {"id": 1737,"text": ["ricattatore"]}
   ],
   "blackout": [
-    "oscuramento"
+    {"id": 1738,"text": ["oscuramento"]}
   ],
   "blacksmith": [
-    "fabbro"
+    {"id": 1739,"text": ["fabbro"]}
   ],
   "blackthorn": [
-    "prugnolo"
+    {"id": 1740,"text": ["prugnolo"]}
   ],
   "bladder": [
-    "vescica"
+    {"id": 1741,"text": ["vescica"]}
   ],
   "blade": [
-    "foglia",
-    "foglio",
-    "lama"
+    {"id": 1742,"text": ["foglia"]},
+    {"id": 1743,"text": ["foglio"]},
+    {"id": 1744,"text": ["lama"]}
   ],
   "blame": [
-    "biasimare",
-    "colpa"
+    {"id": 1745,"text": ["biasimare"]},
+    {"id": 1746,"text": ["colpa"]}
   ],
   "blandishment": [
-    "blandimento"
+    {"id": 1747,"text": ["blandimento"]}
   ],
   "blanket": [
-    "coperta"
+    {"id": 1748,"text": ["coperta"]}
   ],
   "blasphemy": [
-    "blasfemia"
+    {"id": 1749,"text": ["blasfemia"]}
   ],
   "blast": [
-    "esplosione",
-    "volare"
+    {"id": 1750,"text": ["esplosione"]},
+    {"id": 1751,"text": ["volare"]}
   ],
   "blastomere": [
-    "blastomero"
+    {"id": 1752,"text": ["blastomero"]}
   ],
   "blastula": [
-    "blastula"
+    {"id": 1753,"text": ["blastula"]}
   ],
   "blatant": [
-    "sfacciato"
+    {"id": 1754,"text": ["sfacciato"]}
   ],
   "blatantly": [
-    "sfacciatamente"
+    {"id": 1755,"text": ["sfacciatamente"]}
   ],
   "blazon": [
-    "blasone",
-    "stemma"
+    {"id": 1756,"text": ["blasone"]},
+    {"id": 1757,"text": ["stemma"]}
   ],
   "bleach": [
-    "candeggina",
-    "imbiancare"
+    {"id": 1758,"text": ["candeggina"]},
+    {"id": 1759,"text": ["imbiancare"]}
   ],
   "bleaching": [
-    "candeggina"
+    {"id": 1760,"text": ["candeggina"]}
   ],
   "bleat": [
-    "belare"
+    {"id": 1761,"text": ["belare"]}
   ],
   "bleed": [
-    "sanguinare"
+    {"id": 1762,"text": ["sanguinare"]}
   ],
   "bleeding": [
-    "emorragia",
-    "sanguinamento",
-    "sanguinante"
+    {"id": 1763,"text": ["emorragia"]},
+    {"id": 1764,"text": ["sanguinamento"]},
+    {"id": 1765,"text": ["sanguinante"]}
   ],
   "blend": [
-    "mescolare"
+    {"id": 1766,"text": ["mescolare"]}
   ],
   "blende": [
-    "blenda"
+    {"id": 1767,"text": ["blenda"]}
   ],
   "bless": [
-    "benedire"
+    {"id": 1768,"text": ["benedire"]}
   ],
   "blessed": [
-    "benedetto"
+    {"id": 1769,"text": ["benedetto"]}
   ],
   "blessing": [
-    "benedizione"
+    {"id": 1770,"text": ["benedizione"]}
   ],
   "blimp": [
-    "dirigibile"
+    {"id": 1771,"text": ["dirigibile"]}
   ],
   "blind": [
-    "accecare",
-    "cieco",
-    "persiana"
+    {"id": 1772,"text": ["accecare"]},
+    {"id": 1773,"text": ["cieco"]},
+    {"id": 1774,"text": ["persiana"]}
   ],
   "blindly": [
-    "allacieca"
+    {"id": 1775,"text": ["allacieca"]}
   ],
   "blink": [
-    "lampeggiare"
+    {"id": 1776,"text": ["lampeggiare"]}
   ],
   "blinking": [
-    "lampeggiante"
+    {"id": 1777,"text": ["lampeggiante"]}
   ],
   "bloc": [
-    "bloc"
+    {"id": 1778,"text": ["bloc"]}
   ],
   "block": [
-    "bloccare",
-    "blocco"
+    {"id": 1779,"text": ["bloccare"]},
+    {"id": 1780,"text": ["blocco"]}
   ],
   "blockade": [
-    "blocco"
+    {"id": 1781,"text": ["blocco"]}
   ],
   "blocking": [
-    "blocco"
+    {"id": 1782,"text": ["blocco"]}
   ],
   "blog": [
-    "blog",
-    "bloggare"
+    {"id": 1783,"text": ["blog"]},
+    {"id": 1784,"text": ["bloggare"]}
   ],
   "blond": [
-    "biondo"
+    {"id": 1785,"text": ["biondo"]}
   ],
   "blood": [
-    "sangue"
+    {"id": 1786,"text": ["sangue"]}
   ],
   "bloodletting": [
-    "salasso"
+    {"id": 1787,"text": ["salasso"]}
   ],
   "bloodshed": [
-    "spargimento di sangue"
+    {"id": 1788,"text": ["spargimento di sangue"]}
   ],
   "bloodsucker": [
-    "sanguisuga"
+    {"id": 1789,"text": ["sanguisuga"]}
   ],
   "bloodthirsty": [
-    "sanguinario"
+    {"id": 1790,"text": ["sanguinario"]}
   ],
   "bloody": [
-    "cruento",
-    "sanguinoso"
+    {"id": 1791,"text": ["cruento"]},
+    {"id": 1792,"text": ["sanguinoso"]}
   ],
   "blouse": [
-    "blusa"
+    {"id": 1793,"text": ["blusa"]}
   ],
   "blow": [
-    "colpo",
-    "soffiare"
+    {"id": 1794,"text": ["colpo"]},
+    {"id": 1795,"text": ["soffiare"]}
   ],
   "blue": [
-    "blu"
+    {"id": 1796,"text": ["blu"]}
   ],
   "blueberry": [
-    "mirtillo"
+    {"id": 1797,"text": ["mirtillo"]}
   ],
   "blueprint": [
-    "progetto"
+    {"id": 1798,"text": ["progetto"]}
   ],
   "bluff": [
-    "bluff"
+    {"id": 1799,"text": ["bluff"]}
   ],
   "bluish": [
-    "bluastro"
+    {"id": 1800,"text": ["bluastro"]}
   ],
   "blunder": [
-    "errore",
-    "gaffe",
-    "sbagliare",
-    "sbaglio",
-    "svista"
+    {"id": 1801,"text": ["errore"]},
+    {"id": 1802,"text": ["gaffe"]},
+    {"id": 1803,"text": ["sbagliare"]},
+    {"id": 1804,"text": ["sbaglio"]},
+    {"id": 1805,"text": ["svista"]}
   ],
   "blurred": [
-    "sfocato"
+    {"id": 1806,"text": ["sfocato"]}
   ],
   "board": [
-    "abbordare",
-    "bordo",
-    "consiglio",
-    "lavagna"
+    {"id": 1807,"text": ["abbordare"]},
+    {"id": 1808,"text": ["bordo"]},
+    {"id": 1809,"text": ["consiglio"]},
+    {"id": 1810,"text": ["lavagna"]}
   ],
   "board game": [
-    "gioco da tavolo"
+    {"id": 1811,"text": ["gioco da tavolo"]}
   ],
   "boarding": [
-    "abbordaggio",
-    "imbarco"
+    {"id": 1812,"text": ["abbordaggio"]},
+    {"id": 1813,"text": ["imbarco"]}
   ],
   "boast": [
-    "vantare"
+    {"id": 1814,"text": ["vantare"]}
   ],
   "boat": [
-    "barca"
+    {"id": 1815,"text": ["barca"]}
   ],
   "bodice": [
-    "corpetto"
+    {"id": 1816,"text": ["corpetto"]}
   ],
   "body": [
-    "cadavere",
-    "corpo"
+    {"id": 1817,"text": ["cadavere"]},
+    {"id": 1818,"text": ["corpo"]}
   ],
   "bodyguard": [
-    "guardia del corpo"
+    {"id": 1819,"text": ["guardia del corpo"]}
   ],
   "bodywork": [
-    "carrozzeria"
+    {"id": 1820,"text": ["carrozzeria"]}
   ],
   "boil": [
-    "bollire"
+    {"id": 1821,"text": ["bollire"]}
   ],
   "boiler": [
-    "bollitore",
-    "caldaia"
+    {"id": 1822,"text": ["bollitore"]},
+    {"id": 1823,"text": ["caldaia"]}
   ],
   "boiling": [
-    "bollente",
-    "ebollizione"
+    {"id": 1824,"text": ["bollente"]},
+    {"id": 1825,"text": ["ebollizione"]}
   ],
   "boldface": [
-    "neretto"
+    {"id": 1826,"text": ["neretto"]}
   ],
   "Bolivian": [
-    "boliviano"
+    {"id": 1827,"text": ["boliviano"]}
   ],
   "bolshevism": [
-    "bolscevismo"
+    {"id": 1828,"text": ["bolscevismo"]}
   ],
   "bomb": [
-    "bomba",
-    "bombardare"
+    {"id": 1829,"text": ["bomba"]},
+    {"id": 1830,"text": ["bombardare"]}
   ],
   "bombardier": [
-    "bombardiere"
+    {"id": 1831,"text": ["bombardiere"]}
   ],
   "bombardment": [
-    "bombardamento"
+    {"id": 1832,"text": ["bombardamento"]}
   ],
   "bomber": [
-    "bombardiere"
+    {"id": 1833,"text": ["bombardiere"]}
   ],
   "bond": [
-    "legame"
+    {"id": 1834,"text": ["legame"]}
   ],
   "bone": [
-    "osso"
+    {"id": 1835,"text": ["osso"]}
   ],
   "bonnet": [
-    "cappello"
+    {"id": 1836,"text": ["cappello"]}
   ],
   "bonsai": [
-    "bonsai"
+    {"id": 1837,"text": ["bonsai"]}
   ],
   "bonus": [
-    "bonus"
+    {"id": 1838,"text": ["bonus"]}
   ],
   "book": [
-    "libro",
-    "prenotare",
-    "riservare"
+    {"id": 1839,"text": ["libro"]},
+    {"id": 1840,"text": ["prenotare"]},
+    {"id": 1841,"text": ["riservare"]}
   ],
   "bookseller": [
-    "libraio"
+    {"id": 1842,"text": ["libraio"]}
   ],
   "bookshop": [
-    "libreria"
+    {"id": 1843,"text": ["libreria"]}
   ],
   "boomerang": [
-    "boomerang"
+    {"id": 1844,"text": ["boomerang"]}
   ],
   "boor": [
-    "cafone",
-    "maleducato",
-    "villano",
-    "zoticone"
+    {"id": 1845,"text": ["cafone"]},
+    {"id": 1846,"text": ["maleducato"]},
+    {"id": 1847,"text": ["villano"]},
+    {"id": 1848,"text": ["zoticone"]}
   ],
   "boost": [
-    "aumentare",
-    "aumento",
-    "impulso",
-    "potenziamento",
-    "potenziare"
+    {"id": 1849,"text": ["aumentare"]},
+    {"id": 1850,"text": ["aumento"]},
+    {"id": 1851,"text": ["impulso"]},
+    {"id": 1852,"text": ["potenziamento"]},
+    {"id": 1853,"text": ["potenziare"]}
   ],
   "boot": [
-    "avviare",
-    "bagagliaio",
-    "scarpone",
-    "stivale"
+    {"id": 1854,"text": ["avviare"]},
+    {"id": 1855,"text": ["bagagliaio"]},
+    {"id": 1856,"text": ["scarpone"]},
+    {"id": 1857,"text": ["stivale"]}
   ],
   "booty": [
-    "bottino",
-    "culo"
+    {"id": 1858,"text": ["bottino"]},
+    {"id": 1859,"text": ["culo"]}
   ],
   "booze": [
-    "liquore"
+    {"id": 1860,"text": ["liquore"]}
   ],
   "border": [
-    "bordo",
-    "confinare",
-    "confine",
-    "frontiera"
+    {"id": 1861,"text": ["bordo"]},
+    {"id": 1862,"text": ["confinare"]},
+    {"id": 1863,"text": ["confine"]},
+    {"id": 1864,"text": ["frontiera"]}
   ],
   "bore": [
-    "annoiare",
-    "bucare",
-    "forare",
-    "stufare"
+    {"id": 1865,"text": ["annoiare"]},
+    {"id": 1866,"text": ["bucare"]},
+    {"id": 1867,"text": ["forare"]},
+    {"id": 1868,"text": ["stufare"]}
   ],
   "boredom": [
-    "noia"
+    {"id": 1869,"text": ["noia"]}
   ],
   "boring": [
-    "noioso"
+    {"id": 1870,"text": ["noioso"]}
   ],
   "born": [
-    "nato"
+    {"id": 1871,"text": ["nato"]}
   ],
   "boron": [
-    "boro"
+    {"id": 1872,"text": ["boro"]}
   ],
   "borough": [
-    "borgo"
+    {"id": 1873,"text": ["borgo"]}
   ],
   "borrower": [
-    "mutuatario"
+    {"id": 1874,"text": ["mutuatario"]}
   ],
   "boss": [
-    "capo"
+    {"id": 1875,"text": ["capo"]}
   ],
   "botanic": [
-    "botanico"
+    {"id": 1876,"text": ["botanico"]}
   ],
   "botanist": [
-    "botanico"
+    {"id": 1877,"text": ["botanico"]}
   ],
   "botany": [
-    "botanica"
+    {"id": 1878,"text": ["botanica"]}
   ],
   "both": [
-    "ambi",
-    "entrambi"
+    {"id": 1879,"text": ["ambi"]},
+    {"id": 1880,"text": ["entrambi"]}
   ],
   "bother": [
-    "importare",
-    "infastidire"
+    {"id": 1881,"text": ["importare"]},
+    {"id": 1882,"text": ["infastidire"]}
   ],
   "bottle": [
-    "bottiglia",
-    "imbottigliare"
+    {"id": 1883,"text": ["bottiglia"]},
+    {"id": 1884,"text": ["imbottigliare"]}
   ],
   "bottling": [
-    "imbottigliamento"
+    {"id": 1885,"text": ["imbottigliamento"]}
   ],
   "bottom": [
-    "fondo",
-    "inferiore",
-    "sedere"
+    {"id": 1886,"text": ["fondo"]},
+    {"id": 1887,"text": ["inferiore"]},
+    {"id": 1888,"text": ["sedere"]}
   ],
   "bounce": [
-    "rimbalzare",
-    "rimbalzo"
+    {"id": 1889,"text": ["rimbalzare"]},
+    {"id": 1890,"text": ["rimbalzo"]}
   ],
   "bound": [
-    "costretto",
-    "destinato",
-    "legato",
-    "limite",
-    "obbligato"
+    {"id": 1891,"text": ["costretto"]},
+    {"id": 1892,"text": ["destinato"]},
+    {"id": 1893,"text": ["legato"]},
+    {"id": 1894,"text": ["limite"]},
+    {"id": 1895,"text": ["obbligato"]}
   ],
   "boundary": [
-    "confine",
-    "frontiera",
-    "limite"
+    {"id": 1896,"text": ["confine"]},
+    {"id": 1897,"text": ["frontiera"]},
+    {"id": 1898,"text": ["limite"]}
   ],
   "boundless": [
-    "illimitato",
-    "sconfinato"
+    {"id": 1899,"text": ["illimitato"]},
+    {"id": 1900,"text": ["sconfinato"]}
   ],
   "bouquet": [
-    "bouquet"
+    {"id": 1901,"text": ["bouquet"]}
   ],
   "bourgeois": [
-    "borghese"
+    {"id": 1902,"text": ["borghese"]}
   ],
   "bourgeoisie": [
-    "borghesia"
+    {"id": 1903,"text": ["borghesia"]}
   ],
   "bovine": [
-    "bovino"
+    {"id": 1904,"text": ["bovino"]}
   ],
   "bow": [
-    "arco",
-    "fiocco",
-    "inchinarsi",
-    "inchino"
+    {"id": 1905,"text": ["arco"]},
+    {"id": 1906,"text": ["fiocco"]},
+    {"id": 1907,"text": ["inchinarsi"]},
+    {"id": 1908,"text": ["inchino"]}
   ],
   "bowel": [
-    "sfilata"
+    {"id": 1909,"text": ["sfilata"]}
   ],
   "bowl": [
-    "scodella"
+    {"id": 1910,"text": ["scodella"]}
   ],
   "box": [
-    "boxare",
-    "scatola"
+    {"id": 1911,"text": ["boxare"]},
+    {"id": 1912,"text": ["scatola"]}
   ],
   "boxer": [
-    "pugile"
+    {"id": 1913,"text": ["pugile"]}
   ],
   "boxing": [
-    "pugilato"
+    {"id": 1914,"text": ["pugilato"]}
   ],
   "boy": [
-    "bambino",
-    "ragazzo"
+    {"id": 1915,"text": ["bambino"]},
+    {"id": 1916,"text": ["ragazzo"]}
   ],
   "boyar": [
-    "boiardo"
+    {"id": 1917,"text": ["boiardo"]}
   ],
   "boycott": [
-    "boicottaggio",
-    "boicottare"
+    {"id": 1918,"text": ["boicottaggio"]},
+    {"id": 1919,"text": ["boicottare"]}
   ],
   "boyfriend": [
-    "fidanzato",
-    "ragazzo"
+    {"id": 1920,"text": ["fidanzato"]},
+    {"id": 1921,"text": ["ragazzo"]}
   ],
   "bra": [
-    "reggiseno"
+    {"id": 1922,"text": ["reggiseno"]}
   ],
   "bracelet": [
-    "braccialetto"
+    {"id": 1923,"text": ["braccialetto"]}
   ],
   "brachistochrone": [
-    "brachistocrona"
+    {"id": 1924,"text": ["brachistocrona"]}
   ],
   "bract": [
-    "brattea"
+    {"id": 1925,"text": ["brattea"]}
   ],
   "brain": [
-    "cervello"
+    {"id": 1926,"text": ["cervello"]}
   ],
   "brainless": [
-    "panfilo"
+    {"id": 1927,"text": ["panfilo"]}
   ],
   "brake": [
-    "frenare",
-    "freno"
+    {"id": 1928,"text": ["frenare"]},
+    {"id": 1929,"text": ["freno"]}
   ],
   "bramble": [
-    "rovo"
+    {"id": 1930,"text": ["rovo"]}
   ],
   "bran": [
-    "crusca"
+    {"id": 1931,"text": ["crusca"]}
   ],
   "branch": [
-    "diramazione",
-    "filiale",
-    "ramo"
+    {"id": 1932,"text": ["diramazione"]},
+    {"id": 1933,"text": ["filiale"]},
+    {"id": 1934,"text": ["ramo"]}
   ],
   "brand": [
-    "marca",
-    "marchio"
+    {"id": 1935,"text": ["marca"]},
+    {"id": 1936,"text": ["marchio"]}
   ],
   "brave": [
-    "coraggioso"
+    {"id": 1937,"text": ["coraggioso"]}
   ],
   "Brazil": [
-    "Brasile"
+    {"id": 1938,"text": ["Brasile"]}
   ],
   "Brazilian": [
-    "brasiliano"
+    {"id": 1939,"text": ["brasiliano"]}
   ],
   "breach": [
-    "breccia",
-    "brecciare",
-    "infrangere",
-    "infrazione",
-    "violare",
-    "violazione"
+    {"id": 1940,"text": ["breccia"]},
+    {"id": 1941,"text": ["brecciare"]},
+    {"id": 1942,"text": ["infrangere"]},
+    {"id": 1943,"text": ["infrazione"]},
+    {"id": 1944,"text": ["violare"]},
+    {"id": 1945,"text": ["violazione"]}
   ],
   "bread": [
-    "pane"
+    {"id": 1946,"text": ["pane"]}
   ],
   "breadwinner": [
-    "capofamiglia"
+    {"id": 1947,"text": ["capofamiglia"]}
   ],
   "break": [
-    "rompere",
-    "rottura"
+    {"id": 1948,"text": ["rompere"]},
+    {"id": 1949,"text": ["rottura"]}
   ],
   "breakdown": [
-    "guasto"
+    {"id": 1950,"text": ["guasto"]}
   ],
   "breakfast": [
-    "colazione"
+    {"id": 1951,"text": ["colazione"]}
   ],
   "breast": [
-    "petto",
-    "seno"
+    {"id": 1952,"text": ["petto"]},
+    {"id": 1953,"text": ["seno"]}
   ],
   "breastbone": [
-    "sterno"
+    {"id": 1954,"text": ["sterno"]}
   ],
   "breath": [
-    "respirazione"
+    {"id": 1955,"text": ["respirazione"]}
   ],
   "breathe": [
-    "respirare"
+    {"id": 1956,"text": ["respirare"]}
   ],
   "breather": [
-    "respiratore"
+    {"id": 1957,"text": ["respiratore"]}
   ],
   "breathing": [
-    "respirazione"
+    {"id": 1958,"text": ["respirazione"]}
   ],
   "breathtaking": [
-    "mozzafiato"
+    {"id": 1959,"text": ["mozzafiato"]}
   ],
   "breed": [
-    "accoppiarsi",
-    "razza",
-    "riprodursi"
+    {"id": 1960,"text": ["accoppiarsi"]},
+    {"id": 1961,"text": ["razza"]},
+    {"id": 1962,"text": ["riprodursi"]}
   ],
   "breeder": [
-    "allevatore"
+    {"id": 1963,"text": ["allevatore"]}
   ],
   "breeze": [
-    "brezza"
+    {"id": 1964,"text": ["brezza"]}
   ],
   "breezily": [
-    "allegramente"
+    {"id": 1965,"text": ["allegramente"]}
   ],
   "breviary": [
-    "breviario"
+    {"id": 1966,"text": ["breviario"]}
   ],
   "brevier": [
-    "breviario"
+    {"id": 1967,"text": ["breviario"]}
   ],
   "brewery": [
-    "birreria"
+    {"id": 1968,"text": ["birreria"]}
   ],
   "bribe": [
-    "corrompere",
-    "mazzetta"
+    {"id": 1969,"text": ["corrompere"]},
+    {"id": 1970,"text": ["mazzetta"]}
   ],
   "bribery": [
-    "corruzione"
+    {"id": 1971,"text": ["corruzione"]}
   ],
   "brick": [
-    "mattone"
+    {"id": 1972,"text": ["mattone"]}
   ],
   "bricklayer": [
-    "muratore"
+    {"id": 1973,"text": ["muratore"]}
   ],
   "bride": [
-    "sposa"
+    {"id": 1974,"text": ["sposa"]}
   ],
   "bridge": [
-    "ponte"
+    {"id": 1975,"text": ["ponte"]}
   ],
   "brief": [
-    "breve",
-    "informare"
+    {"id": 1976,"text": ["breve"]},
+    {"id": 1977,"text": ["informare"]}
   ],
   "briefcase": [
-    "borsa"
+    {"id": 1978,"text": ["borsa"]}
   ],
   "briefly": [
-    "brevemente"
+    {"id": 1979,"text": ["brevemente"]}
   ],
   "brigade": [
-    "brigata"
+    {"id": 1980,"text": ["brigata"]}
   ],
   "bright": [
-    "brillante",
-    "luminoso"
+    {"id": 1981,"text": ["brillante"]},
+    {"id": 1982,"text": ["luminoso"]}
   ],
   "brighten": [
-    "illuminare"
+    {"id": 1983,"text": ["illuminare"]}
   ],
   "brightness": [
-    "lucentezza"
+    {"id": 1984,"text": ["lucentezza"]}
   ],
   "brilliant": [
-    "brillante"
+    {"id": 1985,"text": ["brillante"]}
   ],
   "brim": [
-    "orlo"
+    {"id": 1986,"text": ["orlo"]}
   ],
   "brimstone": [
-    "zolfo"
+    {"id": 1987,"text": ["zolfo"]}
   ],
   "brine": [
-    "salamoia"
+    {"id": 1988,"text": ["salamoia"]}
   ],
   "bring": [
-    "portare"
+    {"id": 1989,"text": ["portare"]}
   ],
   "bring back": [
-    "riportare"
+    {"id": 1990,"text": ["riportare"]}
   ],
   "bring down": [
-    "abbattere",
-    "scendere"
+    {"id": 1991,"text": ["abbattere"]},
+    {"id": 1992,"text": ["scendere"]}
   ],
   "bring together": [
-    "riunire"
+    {"id": 1993,"text": ["riunire"]}
   ],
   "brink": [
-    "orlo"
+    {"id": 1994,"text": ["orlo"]}
   ],
   "Britain": [
-    "Bretagna"
+    {"id": 1995,"text": ["Bretagna"]}
   ],
   "british": [
-    "britannico"
+    {"id": 1996,"text": ["britannico"]}
   ],
   "brittle": [
-    "fragile"
+    {"id": 1997,"text": ["fragile"]}
   ],
   "broad": [
-    "largo"
+    {"id": 1998,"text": ["largo"]}
   ],
   "broad bean": [
-    "fava"
+    {"id": 1999,"text": ["fava"]}
   ],
   "broadcast": [
-    "emissione"
+    {"id": 2000,"text": ["emissione"]}
   ],
   "broaden": [
-    "ampliare"
+    {"id": 2001,"text": ["ampliare"]}
   ],
   "brocade": [
-    "broccato"
+    {"id": 2002,"text": ["broccato"]}
   ],
   "broccoli": [
-    "broccoli"
+    {"id": 2003,"text": ["broccoli"]}
   ],
   "broken": [
-    "guasto"
+    {"id": 2004,"text": ["guasto"]}
   ],
   "brokerage": [
-    "intermediazione"
+    {"id": 2005,"text": ["intermediazione"]}
   ],
   "bromide": [
-    "bromuro"
+    {"id": 2006,"text": ["bromuro"]}
   ],
   "bromine": [
-    "bromo"
+    {"id": 2007,"text": ["bromo"]}
   ],
   "bronchial": [
-    "bronchiale"
+    {"id": 2008,"text": ["bronchiale"]}
   ],
   "bronchiole": [
-    "bronchiolo"
+    {"id": 2009,"text": ["bronchiolo"]}
   ],
   "bronchopulmonary": [
-    "broncopolmonare"
+    {"id": 2010,"text": ["broncopolmonare"]}
   ],
   "bronchus": [
-    "bronco"
+    {"id": 2011,"text": ["bronco"]}
   ],
   "bronze": [
-    "bronzare",
-    "bronzo"
+    {"id": 2012,"text": ["bronzare"]},
+    {"id": 2013,"text": ["bronzo"]}
   ],
   "brooch": [
-    "spilla"
+    {"id": 2014,"text": ["spilla"]}
   ],
   "brook": [
-    "ruscello"
+    {"id": 2015,"text": ["ruscello"]}
   ],
   "broth": [
-    "brodo"
+    {"id": 2016,"text": ["brodo"]}
   ],
   "brothel": [
-    "bordello"
+    {"id": 2017,"text": ["bordello"]}
   ],
   "brother": [
-    "fratello"
+    {"id": 2018,"text": ["fratello"]}
   ],
   "brotherhood": [
-    "fratellanza"
+    {"id": 2019,"text": ["fratellanza"]}
   ],
   "brotherly": [
-    "fraterno"
+    {"id": 2020,"text": ["fraterno"]}
   ],
   "brown": [
-    "bruno",
-    "castano",
-    "marrone"
+    {"id": 2021,"text": ["bruno"]},
+    {"id": 2022,"text": ["castano"]},
+    {"id": 2023,"text": ["marrone"]}
   ],
   "browser": [
-    "navigatore"
+    {"id": 2024,"text": ["navigatore"]}
   ],
   "bruise": [
-    "livido"
+    {"id": 2025,"text": ["livido"]}
   ],
   "brush": [
-    "pennello",
-    "spazzola",
-    "spazzolare"
+    {"id": 2026,"text": ["pennello"]},
+    {"id": 2027,"text": ["spazzola"]},
+    {"id": 2028,"text": ["spazzolare"]}
   ],
   "brusque": [
-    "brusco"
+    {"id": 2029,"text": ["brusco"]}
   ],
   "brutal": [
-    "brutale"
+    {"id": 2030,"text": ["brutale"]}
   ],
   "brutally": [
-    "brutalmente"
+    {"id": 2031,"text": ["brutalmente"]}
   ],
   "bubble": [
-    "bolla"
+    {"id": 2032,"text": ["bolla"]}
   ],
   "buccal": [
-    "bucalo"
+    {"id": 2033,"text": ["bucalo"]}
   ],
   "bucket": [
-    "secchio"
+    {"id": 2034,"text": ["secchio"]}
   ],
   "buckle": [
-    "fibbia"
+    {"id": 2035,"text": ["fibbia"]}
   ],
   "buddhist": [
-    "buddista"
+    {"id": 2036,"text": ["buddista"]}
   ],
   "budget": [
-    "budget"
+    {"id": 2037,"text": ["budget"]}
   ],
   "budgetary": [
-    "budgetario"
+    {"id": 2038,"text": ["budgetario"]}
   ],
   "budgie": [
-    "pappagallino"
+    {"id": 2039,"text": ["pappagallino"]}
   ],
   "buffalo": [
-    "bisonte",
-    "bufalo",
-    "bullizzare"
+    {"id": 2040,"text": ["bisonte"]},
+    {"id": 2041,"text": ["bufalo"]},
+    {"id": 2042,"text": ["bullizzare"]}
   ],
   "build": [
-    "corporatura",
-    "edificare"
+    {"id": 2043,"text": ["corporatura"]},
+    {"id": 2044,"text": ["edificare"]}
   ],
   "builder": [
-    "costruttore"
+    {"id": 2045,"text": ["costruttore"]}
   ],
   "building": [
-    "edificazione",
-    "edificio",
-    "edilizia"
+    {"id": 2046,"text": ["edificazione"]},
+    {"id": 2047,"text": ["edificio"]},
+    {"id": 2048,"text": ["edilizia"]}
   ],
   "bulb": [
-    "bulbo"
+    {"id": 2049,"text": ["bulbo"]}
   ],
   "bulgarian": [
-    "bulgaro"
+    {"id": 2050,"text": ["bulgaro"]}
   ],
   "bulimia": [
-    "bulimia"
+    {"id": 2051,"text": ["bulimia"]}
   ],
   "bulky": [
-    "voluminoso"
+    {"id": 2052,"text": ["voluminoso"]}
   ],
   "bull": [
-    "toro"
+    {"id": 2053,"text": ["toro"]}
   ],
   "bulldozer": [
-    "ruspa"
+    {"id": 2054,"text": ["ruspa"]}
   ],
   "bullet": [
-    "pallottola",
-    "proiettile"
+    {"id": 2055,"text": ["pallottola"]},
+    {"id": 2056,"text": ["proiettile"]}
   ],
   "bulletin": [
-    "bollettino"
+    {"id": 2057,"text": ["bollettino"]}
   ],
   "bully": [
-    "bullizzare",
-    "bullo"
+    {"id": 2058,"text": ["bullizzare"]},
+    {"id": 2059,"text": ["bullo"]}
   ],
   "bumblebee": [
-    "bombo"
+    {"id": 2060,"text": ["bombo"]}
   ],
   "bump": [
-    "bernoccolo",
-    "dosso",
-    "urtare",
-    "urto"
+    {"id": 2061,"text": ["bernoccolo"]},
+    {"id": 2062,"text": ["dosso"]},
+    {"id": 2063,"text": ["urtare"]},
+    {"id": 2064,"text": ["urto"]}
   ],
   "bunch": [
-    "mazzo"
+    {"id": 2065,"text": ["mazzo"]}
   ],
   "bunk": [
-    "branda"
+    {"id": 2066,"text": ["branda"]}
   ],
   "bunker": [
-    "bunker"
+    {"id": 2067,"text": ["bunker"]}
   ],
   "burden": [
-    "fardello"
+    {"id": 2068,"text": ["fardello"]}
   ],
   "bureau": [
-    "agenzia"
+    {"id": 2069,"text": ["agenzia"]}
   ],
   "bureaucracy": [
-    "burocrazia"
+    {"id": 2070,"text": ["burocrazia"]}
   ],
   "bureaucratic": [
-    "burocratico"
+    {"id": 2071,"text": ["burocratico"]}
   ],
   "bureaucratisation": [
-    "burocratizzazione"
+    {"id": 2072,"text": ["burocratizzazione"]}
   ],
   "burgeon": [
-    "gemmare"
+    {"id": 2073,"text": ["gemmare"]}
   ],
   "burial": [
-    "sepoltura"
+    {"id": 2074,"text": ["sepoltura"]}
   ],
   "burn": [
-    "ardere",
-    "bruciare",
-    "ustione"
+    {"id": 2075,"text": ["ardere"]},
+    {"id": 2076,"text": ["bruciare"]},
+    {"id": 2077,"text": ["ustione"]}
   ],
   "burner": [
-    "bruciatore"
+    {"id": 2078,"text": ["bruciatore"]}
   ],
   "burse": [
-    "borsa"
+    {"id": 2079,"text": ["borsa"]}
   ],
   "burst": [
-    "esplodere",
-    "esplosione",
-    "scoppiare",
-    "scoppio"
+    {"id": 2080,"text": ["esplodere"]},
+    {"id": 2081,"text": ["esplosione"]},
+    {"id": 2082,"text": ["scoppiare"]},
+    {"id": 2083,"text": ["scoppio"]}
   ],
   "bury": [
-    "sotterrare"
+    {"id": 2084,"text": ["sotterrare"]}
   ],
   "bus": [
-    "autobus",
-    "bus",
-    "pullman"
+    {"id": 2085,"text": ["autobus"]},
+    {"id": 2086,"text": ["bus"]},
+    {"id": 2087,"text": ["pullman"]}
   ],
   "bush": [
-    "cespuglio"
+    {"id": 2088,"text": ["cespuglio"]}
   ],
   "business": [
-    "affare"
+    {"id": 2089,"text": ["affare"]}
   ],
   "businessday": [
-    "giornolavorativo"
+    {"id": 2090,"text": ["giornolavorativo"]}
   ],
   "bust": [
-    "busto"
+    {"id": 2091,"text": ["busto"]}
   ],
   "bustle": [
-    "trambusto"
+    {"id": 2092,"text": ["trambusto"]}
   ],
   "busy": [
-    "occupato"
+    {"id": 2093,"text": ["occupato"]}
   ],
   "but": [
-    "ma",
-    "tranne"
+    {"id": 2094,"text": ["ma"]},
+    {"id": 2095,"text": ["tranne"]}
   ],
   "butane": [
-    "butano"
+    {"id": 2096,"text": ["butano"]}
   ],
   "butter": [
-    "burro"
+    {"id": 2097,"text": ["burro"]}
   ],
   "butterfly": [
-    "farfalla"
+    {"id": 2098,"text": ["farfalla"]}
   ],
   "buttock": [
-    "chiappa",
-    "culo",
-    "natica"
+    {"id": 2099,"text": ["chiappa"]},
+    {"id": 2100,"text": ["culo"]},
+    {"id": 2101,"text": ["natica"]}
   ],
   "button": [
-    "bottone"
+    {"id": 2102,"text": ["bottone"]}
   ],
   "buttonhole": [
-    "asola",
-    "occhiello"
+    {"id": 2103,"text": ["asola"]},
+    {"id": 2104,"text": ["occhiello"]}
   ],
   "butyl": [
-    "butile"
+    {"id": 2105,"text": ["butile"]}
   ],
   "buy": [
-    "comprare"
+    {"id": 2106,"text": ["comprare"]}
   ],
   "buyer": [
-    "acquirente",
-    "committente",
-    "compratore"
+    {"id": 2107,"text": ["acquirente"]},
+    {"id": 2108,"text": ["committente"]},
+    {"id": 2109,"text": ["compratore"]}
   ],
   "buzzer": [
-    "cicalino"
+    {"id": 2110,"text": ["cicalino"]}
   ],
   "by": [
-    "con",
-    "da",
-    "per",
-    "tramite"
+    {"id": 2111,"text": ["con"]},
+    {"id": 2112,"text": ["da"]},
+    {"id": 2113,"text": ["per"]},
+    {"id": 2114,"text": ["tramite"]}
   ],
   "by hand": [
-    "a mano"
+    {"id": 2115,"text": ["a mano"]}
   ],
   "by heart": [
-    "a memoria"
+    {"id": 2116,"text": ["a memoria"]}
   ],
   "bye": [
-    "arrivederci",
-    "ciao"
+    {"id": 2117,"text": ["arrivederci"]},
+    {"id": 2118,"text": ["ciao"]}
   ],
   "byte": [
-    "byte"
+    {"id": 2119,"text": ["byte"]}
   ],
   "Byzantine": [
-    "bizantino"
+    {"id": 2120,"text": ["bizantino"]}
   ]
 }

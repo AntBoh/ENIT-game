@@ -1,733 +1,733 @@
 {
   "vacancy": [
-    "postovacante"
+    {"id": 15435,"text": ["postovacante"]}
   ],
   "vacant": [
-    "vacante"
+    {"id": 15436,"text": ["vacante"]}
   ],
   "vacation": [
-    "vacanza"
+    {"id": 15437,"text": ["vacanza"]}
   ],
   "vaccination": [
-    "vaccinazione"
+    {"id": 15438,"text": ["vaccinazione"]}
   ],
   "vaccine": [
-    "vaccinare",
-    "vaccino"
+    {"id": 15439,"text": ["vaccinare"]},
+    {"id": 15440,"text": ["vaccino"]}
   ],
   "vacillation": [
-    "esitazione"
+    {"id": 15441,"text": ["esitazione"]}
   ],
   "vacuole": [
-    "vacuolo"
+    {"id": 15442,"text": ["vacuolo"]}
   ],
   "vacuum": [
-    "aspirapolvere",
-    "vuoto"
+    {"id": 15443,"text": ["aspirapolvere"]},
+    {"id": 15444,"text": ["vuoto"]}
   ],
   "vacuum cleaner": [
-    "aspirapolvere"
+    {"id": 15445,"text": ["aspirapolvere"]}
   ],
   "vagabond": [
-    "vagabondo"
+    {"id": 15446,"text": ["vagabondo"]}
   ],
   "vagina": [
-    "vagina"
+    {"id": 15447,"text": ["vagina"]}
   ],
   "vaginal": [
-    "vaginale"
+    {"id": 15448,"text": ["vaginale"]}
   ],
   "vaguely": [
-    "vagamente"
+    {"id": 15449,"text": ["vagamente"]}
   ],
   "vain": [
-    "vano"
+    {"id": 15450,"text": ["vano"]}
   ],
   "valencian": [
-    "valenziano"
+    {"id": 15451,"text": ["valenziano"]}
   ],
   "valency": [
-    "valenzia"
+    {"id": 15452,"text": ["valenzia"]}
   ],
   "valid": [
-    "vigente"
+    {"id": 15453,"text": ["vigente"]}
   ],
   "validate": [
-    "convalidare",
-    "validare"
+    {"id": 15454,"text": ["convalidare"]},
+    {"id": 15455,"text": ["validare"]}
   ],
   "validation": [
-    "validazione"
+    {"id": 15456,"text": ["validazione"]}
   ],
   "valley": [
-    "valle"
+    {"id": 15457,"text": ["valle"]}
   ],
   "valor": [
-    "valore"
+    {"id": 15458,"text": ["valore"]}
   ],
   "valorisation": [
-    "valorizzazione"
+    {"id": 15459,"text": ["valorizzazione"]}
   ],
   "valorization": [
-    "valorizzazione"
+    {"id": 15460,"text": ["valorizzazione"]}
   ],
   "valuation": [
-    "valutazione"
+    {"id": 15461,"text": ["valutazione"]}
   ],
   "value": [
-    "valore",
-    "valutare"
+    {"id": 15462,"text": ["valore"]},
+    {"id": 15463,"text": ["valutare"]}
   ],
   "valve": [
-    "valvola"
+    {"id": 15464,"text": ["valvola"]}
   ],
   "vampire": [
-    "vampiro"
+    {"id": 15465,"text": ["vampiro"]}
   ],
   "van": [
-    "furgone"
+    {"id": 15466,"text": ["furgone"]}
   ],
   "vanadium": [
-    "vanadio"
+    {"id": 15467,"text": ["vanadio"]}
   ],
   "vandal": [
-    "vandalo"
+    {"id": 15468,"text": ["vandalo"]}
   ],
   "vandalism": [
-    "vandalismo"
+    {"id": 15469,"text": ["vandalismo"]}
   ],
   "vanilla": [
-    "vaniglia"
+    {"id": 15470,"text": ["vaniglia"]}
   ],
   "vaporisation": [
-    "vaporizzazione"
+    {"id": 15471,"text": ["vaporizzazione"]}
   ],
   "vaporise": [
-    "vaporizzare"
+    {"id": 15472,"text": ["vaporizzare"]}
   ],
   "vaporization": [
-    "vaporizzazione"
+    {"id": 15473,"text": ["vaporizzazione"]}
   ],
   "vaporize": [
-    "vaporizzare"
+    {"id": 15474,"text": ["vaporizzare"]}
   ],
   "vapour": [
-    "vapore"
+    {"id": 15475,"text": ["vapore"]}
   ],
   "variable": [
-    "variabile"
+    {"id": 15476,"text": ["variabile"]}
   ],
   "variance": [
-    "varianza"
+    {"id": 15477,"text": ["varianza"]}
   ],
   "variation": [
-    "variazione"
+    {"id": 15478,"text": ["variazione"]}
   ],
   "variator": [
-    "variatore"
+    {"id": 15479,"text": ["variatore"]}
   ],
   "variedly": [
-    "variamente"
+    {"id": 15480,"text": ["variamente"]}
   ],
   "various": [
-    "vario"
+    {"id": 15481,"text": ["vario"]}
   ],
   "vary": [
-    "variare"
+    {"id": 15482,"text": ["variare"]}
   ],
   "vascular": [
-    "vascolare"
+    {"id": 15483,"text": ["vascolare"]}
   ],
   "vase": [
-    "vaso"
+    {"id": 15484,"text": ["vaso"]}
   ],
   "vasectomy": [
-    "vasectomia"
+    {"id": 15485,"text": ["vasectomia"]}
   ],
   "vasodilation": [
-    "vasodilatazione"
+    {"id": 15486,"text": ["vasodilatazione"]}
   ],
   "vassal": [
-    "vassallo"
+    {"id": 15487,"text": ["vassallo"]}
   ],
   "vassalage": [
-    "vassallaggio"
+    {"id": 15488,"text": ["vassallaggio"]}
   ],
   "vast": [
-    "vasto"
+    {"id": 15489,"text": ["vasto"]}
   ],
   "Vatican": [
-    "Vaticano"
+    {"id": 15490,"text": ["Vaticano"]}
   ],
   "vault": [
-    "tomba",
-    "volta",
-    "volteggio"
+    {"id": 15491,"text": ["tomba"]},
+    {"id": 15492,"text": ["volta"]},
+    {"id": 15493,"text": ["volteggio"]}
   ],
   "vector": [
-    "vettore"
+    {"id": 15494,"text": ["vettore"]}
   ],
   "vegetable": [
-    "ortaggio",
-    "vegetale",
-    "verdura"
+    {"id": 15495,"text": ["ortaggio"]},
+    {"id": 15496,"text": ["vegetale"]},
+    {"id": 15497,"text": ["verdura"]}
   ],
   "vegetal": [
-    "vegetale"
+    {"id": 15498,"text": ["vegetale"]}
   ],
   "vegetarian": [
-    "vegetariano"
+    {"id": 15499,"text": ["vegetariano"]}
   ],
   "vegetation": [
-    "vegetazione"
+    {"id": 15500,"text": ["vegetazione"]}
   ],
   "vehement": [
-    "veemente"
+    {"id": 15501,"text": ["veemente"]}
   ],
   "vehemently": [
-    "veementemente"
+    {"id": 15502,"text": ["veementemente"]}
   ],
   "vehicle": [
-    "veicolo"
+    {"id": 15503,"text": ["veicolo"]}
   ],
   "veil": [
-    "velo"
+    {"id": 15504,"text": ["velo"]}
   ],
   "vein": [
-    "vena"
+    {"id": 15505,"text": ["vena"]}
   ],
   "velocipede": [
-    "velocipede"
+    {"id": 15506,"text": ["velocipede"]}
   ],
   "velodrome": [
-    "velodromo"
+    {"id": 15507,"text": ["velodromo"]}
   ],
   "velvet": [
-    "velluto"
+    {"id": 15508,"text": ["velluto"]}
   ],
   "vendor": [
-    "venditore"
+    {"id": 15509,"text": ["venditore"]}
   ],
   "venerate": [
-    "venerare"
+    {"id": 15510,"text": ["venerare"]}
   ],
   "veneration": [
-    "venerazione"
+    {"id": 15511,"text": ["venerazione"]}
   ],
   "Venetian": [
-    "veneziano"
+    {"id": 15512,"text": ["veneziano"]}
   ],
   "venezuelan": [
-    "venezuelano"
+    {"id": 15513,"text": ["venezuelano"]}
   ],
   "Venice": [
-    "Venezia"
+    {"id": 15514,"text": ["Venezia"]}
   ],
   "vent": [
-    "condotto",
-    "sfogarsi",
-    "sfogo"
+    {"id": 15515,"text": ["condotto"]},
+    {"id": 15516,"text": ["sfogarsi"]},
+    {"id": 15517,"text": ["sfogo"]}
   ],
   "ventilate": [
-    "ventilare"
+    {"id": 15518,"text": ["ventilare"]}
   ],
   "ventilation": [
-    "ventilazione"
+    {"id": 15519,"text": ["ventilazione"]}
   ],
   "ventricle": [
-    "ventricolo"
+    {"id": 15520,"text": ["ventricolo"]}
   ],
   "venture": [
-    "avventurarsi"
+    {"id": 15521,"text": ["avventurarsi"]}
   ],
   "venue": [
-    "locale",
-    "luogo",
-    "sede"
+    {"id": 15522,"text": ["locale"]},
+    {"id": 15523,"text": ["luogo"]},
+    {"id": 15524,"text": ["sede"]}
   ],
   "Venus": [
-    "Venere"
+    {"id": 15525,"text": ["Venere"]}
   ],
   "verb": [
-    "verbo"
+    {"id": 15526,"text": ["verbo"]}
   ],
   "verbal": [
-    "verbale"
+    {"id": 15527,"text": ["verbale"]}
   ],
   "verbally": [
-    "verbalmente"
+    {"id": 15528,"text": ["verbalmente"]}
   ],
   "verdict": [
-    "verdetto"
+    {"id": 15529,"text": ["verdetto"]}
   ],
   "verge": [
-    "orlo"
+    {"id": 15530,"text": ["orlo"]}
   ],
   "vergence": [
-    "vergenza"
+    {"id": 15531,"text": ["vergenza"]}
   ],
   "verify": [
-    "verificare"
+    {"id": 15532,"text": ["verificare"]}
   ],
   "vernacular": [
-    "vernacolare",
-    "vernacolo"
+    {"id": 15533,"text": ["vernacolare"]},
+    {"id": 15534,"text": ["vernacolo"]}
   ],
   "versatile": [
-    "versatile"
+    {"id": 15535,"text": ["versatile"]}
   ],
   "verse": [
-    "verso"
+    {"id": 15536,"text": ["verso"]}
   ],
   "version": [
-    "versione"
+    {"id": 15537,"text": ["versione"]}
   ],
   "vertebra": [
-    "vertebra"
+    {"id": 15538,"text": ["vertebra"]}
   ],
   "vertex": [
-    "vertice"
+    {"id": 15539,"text": ["vertice"]}
   ],
   "vertical": [
-    "verticale"
+    {"id": 15540,"text": ["verticale"]}
   ],
   "vertically": [
-    "verticalmente"
+    {"id": 15541,"text": ["verticalmente"]}
   ],
   "vertiginous": [
-    "vertiginoso"
+    {"id": 15542,"text": ["vertiginoso"]}
   ],
   "very": [
-    "molto"
+    {"id": 15543,"text": ["molto"]}
   ],
   "vesicle": [
-    "vescicola"
+    {"id": 15544,"text": ["vescicola"]}
   ],
   "vessel": [
-    "ricettacolo",
-    "vascello"
+    {"id": 15545,"text": ["ricettacolo"]},
+    {"id": 15546,"text": ["vascello"]}
   ],
   "vest": [
-    "veste"
+    {"id": 15547,"text": ["veste"]}
   ],
   "vestibular": [
-    "vestibolare"
+    {"id": 15548,"text": ["vestibolare"]}
   ],
   "vetch": [
-    "veccia"
+    {"id": 15549,"text": ["veccia"]}
   ],
   "veteran": [
-    "veterano"
+    {"id": 15550,"text": ["veterano"]}
   ],
   "veterinarian": [
-    "veterinario"
+    {"id": 15551,"text": ["veterinario"]}
   ],
   "veterinary": [
-    "veterinario"
+    {"id": 15552,"text": ["veterinario"]}
   ],
   "veterinary medicine": [
-    "veterinaria"
+    {"id": 15553,"text": ["veterinaria"]}
   ],
   "vexation": [
-    "sopraffazione",
-    "vessazione"
+    {"id": 15554,"text": ["sopraffazione"]},
+    {"id": 15555,"text": ["vessazione"]}
   ],
   "viaduct": [
-    "viadotto"
+    {"id": 15556,"text": ["viadotto"]}
   ],
   "vibrant": [
-    "vibrante"
+    {"id": 15557,"text": ["vibrante"]}
   ],
   "vibrate": [
-    "vibrare"
+    {"id": 15558,"text": ["vibrare"]}
   ],
   "vibration": [
-    "vibrazione"
+    {"id": 15559,"text": ["vibrazione"]}
   ],
   "vicar": [
-    "vicario"
+    {"id": 15560,"text": ["vicario"]}
   ],
   "vicariant": [
-    "vicariante"
+    {"id": 15561,"text": ["vicariante"]}
   ],
   "vice": [
-    "vice",
-    "vizio"
+    {"id": 15562,"text": ["vice"]},
+    {"id": 15563,"text": ["vizio"]}
   ],
   "vice-president": [
-    "vicepresidente"
+    {"id": 15564,"text": ["vicepresidente"]}
   ],
   "vicepresident": [
-    "vicepresidente"
+    {"id": 15565,"text": ["vicepresidente"]}
   ],
   "viceversa": [
-    "viceversa"
+    {"id": 15566,"text": ["viceversa"]}
   ],
   "vicinal": [
-    "vicinale"
+    {"id": 15567,"text": ["vicinale"]}
   ],
   "victim": [
-    "vittima"
+    {"id": 15568,"text": ["vittima"]}
   ],
   "victimisation": [
-    "vittimizzazione"
+    {"id": 15569,"text": ["vittimizzazione"]}
   ],
   "victorian": [
-    "vittoriano"
+    {"id": 15570,"text": ["vittoriano"]}
   ],
   "victory": [
-    "vittoria"
+    {"id": 15571,"text": ["vittoria"]}
   ],
   "video": [
-    "video"
+    {"id": 15572,"text": ["video"]}
   ],
   "videoconference": [
-    "videoconferenza"
+    {"id": 15573,"text": ["videoconferenza"]}
   ],
   "videoconsole": [
-    "videoconsole"
+    {"id": 15574,"text": ["videoconsole"]}
   ],
   "videogame": [
-    "videogioco"
+    {"id": 15575,"text": ["videogioco"]}
   ],
   "videography": [
-    "videografia"
+    {"id": 15576,"text": ["videografia"]}
   ],
   "Vietnamese": [
-    "vietnamita"
+    {"id": 15577,"text": ["vietnamita"]}
   ],
   "view": [
-    "vedere",
-    "vista",
-    "visualizzare",
-    "visualizzazione"
+    {"id": 15578,"text": ["vedere"]},
+    {"id": 15579,"text": ["vista"]},
+    {"id": 15580,"text": ["visualizzare"]},
+    {"id": 15581,"text": ["visualizzazione"]}
   ],
   "viewer": [
-    "spettatore"
+    {"id": 15582,"text": ["spettatore"]}
   ],
   "vigorous": [
-    "vigoroso"
+    {"id": 15583,"text": ["vigoroso"]}
   ],
   "vigorously": [
-    "vigorosamente"
+    {"id": 15584,"text": ["vigorosamente"]}
   ],
   "vigour": [
-    "vigore"
+    {"id": 15585,"text": ["vigore"]}
   ],
   "vile": [
-    "vile"
+    {"id": 15586,"text": ["vile"]}
   ],
   "villa": [
-    "villa"
+    {"id": 15587,"text": ["villa"]}
   ],
   "village": [
-    "villaggio"
+    {"id": 15588,"text": ["villaggio"]}
   ],
   "vinaigrette": [
-    "vinaigrette"
+    {"id": 15589,"text": ["vinaigrette"]}
   ],
   "vincamine": [
-    "vincamina"
+    {"id": 15590,"text": ["vincamina"]}
   ],
   "vindication": [
-    "rivendicazione"
+    {"id": 15591,"text": ["rivendicazione"]}
   ],
   "vine": [
-    "vite"
+    {"id": 15592,"text": ["vite"]}
   ],
   "vinegar": [
-    "aceto"
+    {"id": 15593,"text": ["aceto"]}
   ],
   "vineyard": [
-    "vigneto"
+    {"id": 15594,"text": ["vigneto"]}
   ],
   "vinification": [
-    "vinificazione"
+    {"id": 15595,"text": ["vinificazione"]}
   ],
   "vintage": [
-    "vendemmia"
+    {"id": 15596,"text": ["vendemmia"]}
   ],
   "violate": [
-    "violare"
+    {"id": 15597,"text": ["violare"]}
   ],
   "violation": [
-    "violazione"
+    {"id": 15598,"text": ["violazione"]}
   ],
   "violence": [
-    "violenza"
+    {"id": 15599,"text": ["violenza"]}
   ],
   "violent": [
-    "violento"
+    {"id": 15600,"text": ["violento"]}
   ],
   "violently": [
-    "violentemente"
+    {"id": 15601,"text": ["violentemente"]}
   ],
   "violet": [
-    "viola",
-    "violetto"
+    {"id": 15602,"text": ["viola"]},
+    {"id": 15603,"text": ["violetto"]}
   ],
   "violin": [
-    "violino"
+    {"id": 15604,"text": ["violino"]}
   ],
   "violinist": [
-    "violinista"
+    {"id": 15605,"text": ["violinista"]}
   ],
   "viper": [
-    "vipera"
+    {"id": 15606,"text": ["vipera"]}
   ],
   "viral": [
-    "virale"
+    {"id": 15607,"text": ["virale"]}
   ],
   "Virgil": [
-    "Virgilio"
+    {"id": 15608,"text": ["Virgilio"]}
   ],
   "virgin": [
-    "vergine"
+    {"id": 15609,"text": ["vergine"]}
   ],
   "virile": [
-    "virile"
+    {"id": 15610,"text": ["virile"]}
   ],
   "virology": [
-    "virologia"
+    {"id": 15611,"text": ["virologia"]}
   ],
   "virtual": [
-    "virtuale"
+    {"id": 15612,"text": ["virtuale"]}
   ],
   "virtually": [
-    "virtualmente"
+    {"id": 15613,"text": ["virtualmente"]}
   ],
   "virtuous": [
-    "virtuoso"
+    {"id": 15614,"text": ["virtuoso"]}
   ],
   "virulence": [
-    "virulenza"
+    {"id": 15615,"text": ["virulenza"]}
   ],
   "virus": [
-    "virus"
+    {"id": 15616,"text": ["virus"]}
   ],
   "visa": [
-    "visto"
+    {"id": 15617,"text": ["visto"]}
   ],
   "visceral": [
-    "viscerale"
+    {"id": 15618,"text": ["viscerale"]}
   ],
   "viscous": [
-    "viscoso"
+    {"id": 15619,"text": ["viscoso"]}
   ],
   "visible": [
-    "visibile"
+    {"id": 15620,"text": ["visibile"]}
   ],
   "visibly": [
-    "visibilmente"
+    {"id": 15621,"text": ["visibilmente"]}
   ],
   "visigoth": [
-    "visigoto"
+    {"id": 15622,"text": ["visigoto"]}
   ],
   "visigothic": [
-    "visigoto"
+    {"id": 15623,"text": ["visigoto"]}
   ],
   "vision": [
-    "visione"
+    {"id": 15624,"text": ["visione"]}
   ],
   "visit": [
-    "visita",
-    "visitare"
+    {"id": 15625,"text": ["visita"]},
+    {"id": 15626,"text": ["visitare"]}
   ],
   "visitation": [
-    "visitazione"
+    {"id": 15627,"text": ["visitazione"]}
   ],
   "visitor": [
-    "visitatore"
+    {"id": 15628,"text": ["visitatore"]}
   ],
   "visor": [
-    "visiera",
-    "visore"
+    {"id": 15629,"text": ["visiera"]},
+    {"id": 15630,"text": ["visore"]}
   ],
   "visual": [
-    "visuale"
+    {"id": 15631,"text": ["visuale"]}
   ],
   "visualisation": [
-    "visualizzazione"
+    {"id": 15632,"text": ["visualizzazione"]}
   ],
   "visualise": [
-    "visualizzare"
+    {"id": 15633,"text": ["visualizzare"]}
   ],
   "visualization": [
-    "visualizzazione"
+    {"id": 15634,"text": ["visualizzazione"]}
   ],
   "visualize": [
-    "visualizzare"
+    {"id": 15635,"text": ["visualizzare"]}
   ],
   "visually": [
-    "visivamente"
+    {"id": 15636,"text": ["visivamente"]}
   ],
   "vital": [
-    "vitale"
+    {"id": 15637,"text": ["vitale"]}
   ],
   "vitamin": [
-    "vitamina"
+    {"id": 15638,"text": ["vitamina"]}
   ],
   "viticulture": [
-    "viticultura"
+    {"id": 15639,"text": ["viticultura"]}
   ],
   "vitrectomy": [
-    "vitrectomia"
+    {"id": 15640,"text": ["vitrectomia"]}
   ],
   "vitrification": [
-    "vitrificazione"
+    {"id": 15641,"text": ["vitrificazione"]}
   ],
   "vivacious": [
-    "vivace"
+    {"id": 15642,"text": ["vivace"]}
   ],
   "viviparous": [
-    "viviparo"
+    {"id": 15643,"text": ["viviparo"]}
   ],
   "vivisection": [
-    "vivisezione"
+    {"id": 15644,"text": ["vivisezione"]}
   ],
   "vixen": [
-    "volpe"
+    {"id": 15645,"text": ["volpe"]}
   ],
   "vizier": [
-    "visir"
+    {"id": 15646,"text": ["visir"]}
   ],
   "vocabulary": [
-    "lessico",
-    "vocabolario"
+    {"id": 15647,"text": ["lessico"]},
+    {"id": 15648,"text": ["vocabolario"]}
   ],
   "vocal": [
-    "vocale"
+    {"id": 15649,"text": ["vocale"]}
   ],
   "vocalisation": [
-    "vocalizzazione"
+    {"id": 15650,"text": ["vocalizzazione"]}
   ],
   "vocalism": [
-    "vocalismo"
+    {"id": 15651,"text": ["vocalismo"]}
   ],
   "vocalist": [
-    "vocalista"
+    {"id": 15652,"text": ["vocalista"]}
   ],
   "vocalization": [
-    "vocalizzazione"
+    {"id": 15653,"text": ["vocalizzazione"]}
   ],
   "vocation": [
-    "vocazione"
+    {"id": 15654,"text": ["vocazione"]}
   ],
   "vocational": [
-    "vocazionale"
+    {"id": 15655,"text": ["vocazionale"]}
   ],
   "vocative": [
-    "vocativo"
+    {"id": 15656,"text": ["vocativo"]}
   ],
   "vodka": [
-    "vodka"
+    {"id": 15657,"text": ["vodka"]}
   ],
   "voice": [
-    "voce"
+    {"id": 15658,"text": ["voce"]}
   ],
   "void": [
-    "vuoto"
+    {"id": 15659,"text": ["vuoto"]}
   ],
   "volatile": [
-    "volatile"
+    {"id": 15660,"text": ["volatile"]}
   ],
   "volatilisation": [
-    "volatilizzazione"
+    {"id": 15661,"text": ["volatilizzazione"]}
   ],
   "volatilization": [
-    "volatilizzazione"
+    {"id": 15662,"text": ["volatilizzazione"]}
   ],
   "volcanic": [
-    "vulcanico"
+    {"id": 15663,"text": ["vulcanico"]}
   ],
   "volcano": [
-    "vulcano"
+    {"id": 15664,"text": ["vulcano"]}
   ],
   "volleyball": [
-    "pallavolo"
+    {"id": 15665,"text": ["pallavolo"]}
   ],
   "volt": [
-    "volt"
+    {"id": 15666,"text": ["volt"]}
   ],
   "voltage": [
-    "tensione",
-    "voltaggio"
+    {"id": 15667,"text": ["tensione"]},
+    {"id": 15668,"text": ["voltaggio"]}
   ],
   "voltammetry": [
-    "voltammetria"
+    {"id": 15669,"text": ["voltammetria"]}
   ],
   "voltmeter": [
-    "voltmetro"
+    {"id": 15670,"text": ["voltmetro"]}
   ],
   "volume": [
-    "volume"
+    {"id": 15671,"text": ["volume"]}
   ],
   "volumetric": [
-    "volumetrico"
+    {"id": 15672,"text": ["volumetrico"]}
   ],
   "volumetry": [
-    "volumetria"
+    {"id": 15673,"text": ["volumetria"]}
   ],
   "voluntarily": [
-    "volontariamente"
+    {"id": 15674,"text": ["volontariamente"]}
   ],
   "voluntarism": [
-    "volontarismo"
+    {"id": 15675,"text": ["volontarismo"]}
   ],
   "voluntary": [
-    "volontario"
+    {"id": 15676,"text": ["volontario"]}
   ],
   "volunteering": [
-    "volontariato"
+    {"id": 15677,"text": ["volontariato"]}
   ],
   "vomit": [
-    "vomitare",
-    "vomito"
+    {"id": 15678,"text": ["vomitare"]},
+    {"id": 15679,"text": ["vomito"]}
   ],
   "vote": [
-    "votare",
-    "votazione",
-    "voto"
+    {"id": 15680,"text": ["votare"]},
+    {"id": 15681,"text": ["votazione"]},
+    {"id": 15682,"text": ["voto"]}
   ],
   "voucher": [
-    "buono"
+    {"id": 15683,"text": ["buono"]}
   ],
   "vow": [
-    "giuramento",
-    "giurare",
-    "voto"
+    {"id": 15684,"text": ["giuramento"]},
+    {"id": 15685,"text": ["giurare"]},
+    {"id": 15686,"text": ["voto"]}
   ],
   "vowel": [
-    "vocale"
+    {"id": 15687,"text": ["vocale"]}
   ],
   "voyage": [
-    "viaggio"
+    {"id": 15688,"text": ["viaggio"]}
   ],
   "voyager": [
-    "viaggiatore"
+    {"id": 15689,"text": ["viaggiatore"]}
   ],
   "voyeurism": [
-    "voyeurismo"
+    {"id": 15690,"text": ["voyeurismo"]}
   ],
   "vulcanism": [
-    "vulcanismo"
+    {"id": 15691,"text": ["vulcanismo"]}
   ],
   "vulcanology": [
-    "vulcanologia"
+    {"id": 15692,"text": ["vulcanologia"]}
   ],
   "vulgar": [
-    "volgare"
+    {"id": 15693,"text": ["volgare"]}
   ],
   "vulnerable": [
-    "vulnerabile"
+    {"id": 15694,"text": ["vulnerabile"]}
   ],
   "vulture": [
-    "avvoltoio"
+    {"id": 15695,"text": ["avvoltoio"]}
   ],
   "vulva": [
-    "vulva"
+    {"id": 15696,"text": ["vulva"]}
   ],
   "vuvuzela": [
-    "vuvuzela"
+    {"id": 15697,"text": ["vuvuzela"]}
   ]
 }

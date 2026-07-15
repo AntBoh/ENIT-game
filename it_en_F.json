@@ -1,1835 +1,1834 @@
 {
-  "fa": [
-    "ago"
-  ],
-  "fabbrica": [
-    "factory"
-  ],
-  "fabbricante": [
-    "maker",
-    "manufacturer"
-  ],
-  "fabbricare": [
-    "craft",
-    "fabricate",
-    "manufacture"
-  ],
-  "fabbricazione": [
-    "manufacturing"
-  ],
-  "fabbro": [
-    "blacksmith",
-    "smith"
-  ],
-  "faccia": [
-    "face"
-  ],
-  "facciale": [
-    "facial"
-  ],
-  "facile": [
-    "easy"
-  ],
-  "facilitare": [
-    "facilitate"
-  ],
-  "facilitazione": [
-    "facilitation"
-  ],
-  "facilmente": [
-    "easily",
-    "effortlessly",
-    "readily"
-  ],
-  "fagiano": [
-    "pheasant"
-  ],
-  "fagiolo": [
-    "bean"
-  ],
-  "fagocita": [
-    "phagocyte"
-  ],
-  "fagotto": [
-    "bassoon"
-  ],
-  "falangista": [
-    "falangist"
-  ],
-  "falco": [
-    "hawk"
-  ],
-  "falconeria": [
-    "falconry"
-  ],
-  "falena": [
-    "moth"
-  ],
-  "fallacia": [
-    "fallacy"
-  ],
-  "fallibile": [
-    "fallible"
-  ],
-  "fallico": [
-    "phallic"
-  ],
-  "fallimento": [
-    "bankruptcy",
-    "failure"
-  ],
-  "fallire": [
-    "fail"
-  ],
-  "fallo": [
-    "failure",
-    "foul"
-  ],
-  "falsamente": [
-    "falsely"
-  ],
-  "falsare": [
-    "distort"
-  ],
-  "falsificare": [
-    "fake",
-    "falsify"
-  ],
-  "falso": [
-    "fake",
-    "false"
-  ],
-  "fama": [
-    "fame"
-  ],
-  "fame": [
-    "hunger"
-  ],
-  "famiglia": [
-    "family"
-  ],
-  "familiare": [
-    "familiar",
-    "family"
-  ],
-  "famoso": [
-    "famous"
-  ],
-  "fanale": [
-    "headlight"
-  ],
-  "fanaticamente": [
-    "fanatically"
-  ],
-  "fanatico": [
-    "fanatical"
-  ],
-  "fanatismo": [
-    "fanaticism"
-  ],
-  "fanciulla": [
-    "maiden"
-  ],
-  "fanfara": [
-    "fanfare"
-  ],
-  "fango": [
-    "mud"
-  ],
-  "fangoso": [
-    "muddy"
-  ],
-  "fantascienza": [
-    "sciencefiction"
-  ],
-  "fantasia": [
-    "fancy",
-    "fantasy"
-  ],
-  "fantasma": [
-    "ghost",
-    "phantom"
-  ],
-  "fantasticamente": [
-    "beautifully",
-    "fantastically"
-  ],
-  "fantastico": [
-    "fantastic",
-    "terrific"
-  ],
-  "fanteria": [
-    "infantry"
-  ],
-  "faraone": [
-    "pharaoh"
-  ],
-  "faraonico": [
-    "pharaonic"
-  ],
-  "fardello": [
-    "burden"
-  ],
-  "fare": [
-    "do",
-    "make"
-  ],
-  "fare domanda": [
-    "apply"
-  ],
-  "farfalla": [
-    "butterfly"
-  ],
-  "farfugliare": [
-    "mumble"
-  ],
-  "farina": [
-    "flour"
-  ],
-  "farmaceutico": [
-    "pharmaceutical"
-  ],
-  "farmacia": [
-    "chemist's",
-    "drugstore",
-    "pharmacy"
-  ],
-  "farmacista": [
-    "chemist"
-  ],
-  "farmaco": [
-    "medication",
-    "medicine",
-    "remedy"
-  ],
-  "farmacologia": [
-    "pharmacology"
-  ],
-  "farmacologicamente": [
-    "pharmacologically"
-  ],
-  "farmacopea": [
-    "pharmacopoeia"
-  ],
-  "faro": [
-    "headlight",
-    "lighthouse"
-  ],
-  "farsa": [
-    "farce"
-  ],
-  "farsetto": [
-    "doublet"
-  ],
-  "fascia": [
-    "band",
-    "headband"
-  ],
-  "fasciatura": [
-    "bandage",
-    "dressing"
-  ],
-  "fascino": [
-    "charm",
-    "fascination"
-  ],
-  "fascio": [
-    "beam"
-  ],
-  "fascismo": [
-    "fascism"
-  ],
-  "fascista": [
-    "fascist"
-  ],
-  "fase": [
-    "phase"
-  ],
-  "fasore": [
-    "phasor"
-  ],
-  "fastidio": [
-    "annoyance"
-  ],
-  "fastidioso": [
-    "annoying"
-  ],
-  "fata": [
-    "fairy"
-  ],
-  "fatale": [
-    "fatal"
-  ],
-  "fatalismo": [
-    "fatalism"
-  ],
-  "fatalista": [
-    "fatalist",
-    "fatalistic"
-  ],
-  "fatica": [
-    "effort",
-    "fatigue"
-  ],
-  "faticosamente": [
-    "laboriously",
-    "painstakingly"
-  ],
-  "faticoso": [
-    "strenuous",
-    "tiring",
-    "wearisome"
-  ],
-  "fatidico": [
-    "fateful"
-  ],
-  "fato": [
-    "fate"
-  ],
-  "fattibile": [
-    "doable",
-    "feasible",
-    "workable"
-  ],
-  "fatto": [
-    "done",
-    "fact",
-    "high"
-  ],
-  "fatto a mano": [
-    "handmade"
-  ],
-  "fatto in casa": [
-    "home-made"
-  ],
-  "fattore": [
-    "factor"
-  ],
-  "fattoria": [
-    "farm"
-  ],
-  "fattoriale": [
-    "factorial"
-  ],
-  "fattorizzazione": [
-    "factorisation"
-  ],
-  "fattura": [
-    "bill",
-    "invoice"
-  ],
-  "fatturare": [
-    "bill",
-    "invoice"
-  ],
-  "fatturazione": [
-    "turnover"
-  ],
-  "fauna": [
-    "fauna"
-  ],
-  "fava": [
-    "broad bean"
-  ],
-  "favore": [
-    "favor",
-    "favour"
-  ],
-  "favoreggiare": [
-    "abet"
-  ],
-  "favorevolmente": [
-    "favorably",
-    "favourably"
-  ],
-  "favorire": [
-    "favor",
-    "favour"
-  ],
-  "favoritismo": [
-    "favoritism",
-    "favouritism"
-  ],
-  "favorito": [
-    "favorite",
-    "favourite"
-  ],
-  "fazione": [
-    "faction"
-  ],
-  "fazzoletto": [
-    "handkerchief",
-    "tissue"
-  ],
-  "febbraio": [
-    "February"
-  ],
-  "febbre": [
-    "fever"
-  ],
-  "febbrile": [
-    "feverish"
-  ],
-  "febbrilmente": [
-    "feverishly"
-  ],
-  "fecale": [
-    "faecal"
-  ],
-  "feccia": [
-    "scum"
-  ],
-  "feci": [
-    "faeces"
-  ],
-  "fecola": [
-    "starch"
-  ],
-  "fecondazione": [
-    "fertilisation",
-    "fertilization"
-  ],
-  "fecondo": [
-    "fertile",
-    "fruitful"
-  ],
-  "fede": [
-    "faith"
-  ],
-  "fedele": [
-    "faithful"
-  ],
-  "fedelmente": [
-    "faithfully"
-  ],
-  "federale": [
-    "federal"
-  ],
-  "federalismo": [
-    "federalism"
-  ],
-  "federalista": [
-    "federalist",
-    "federalistic"
-  ],
-  "federazione": [
-    "federation"
-  ],
-  "fegato": [
-    "liver"
-  ],
-  "felice": [
-    "glad",
-    "happy"
-  ],
-  "felicemente": [
-    "happily"
-  ],
-  "felpa": [
-    "sweatshirt"
-  ],
-  "feltro": [
-    "felt"
-  ],
-  "femmina": [
-    "female"
-  ],
-  "femminile": [
-    "female",
-    "feminine"
-  ],
-  "femminismo": [
-    "feminism"
-  ],
-  "femminista": [
-    "feminist"
-  ],
-  "femore": [
-    "femur"
-  ],
-  "fenicio": [
-    "Phoenician"
-  ],
-  "fenicottero": [
-    "flamingo"
-  ],
-  "fenolo": [
-    "phenol"
-  ],
-  "fenologia": [
-    "phenology"
-  ],
-  "fenologico": [
-    "phenolic"
-  ],
-  "fenomenale": [
-    "phenomenal"
-  ],
-  "fenomeno": [
-    "phenomenon"
-  ],
-  "fenomenologia": [
-    "phenomenology"
-  ],
-  "fenotipo": [
-    "phenotype"
-  ],
-  "ferire": [
-    "injure"
-  ],
-  "ferita": [
-    "wound"
-  ],
-  "ferito": [
-    "injured"
-  ],
-  "feritoia": [
-    "embrasure"
-  ],
-  "fermamente": [
-    "firmly",
-    "steadily"
-  ],
-  "fermare": [
-    "stall"
-  ],
-  "fermarsi": [
-    "pause",
-    "stop"
-  ],
-  "fermata": [
-    "stall",
-    "stop"
-  ],
-  "fermentare": [
-    "ferment"
-  ],
-  "fermentazione": [
-    "fermentation"
-  ],
-  "fermezza": [
-    "firmness"
-  ],
-  "fermio": [
-    "fermium"
-  ],
-  "fermo": [
-    "firm",
-    "put"
-  ],
-  "feroce": [
-    "ferocious",
-    "fierce"
-  ],
-  "ferocemente": [
-    "ferociously",
-    "fiercely"
-  ],
-  "feromone": [
-    "pheromone"
-  ],
-  "ferramenta": [
-    "ironmongery"
-  ],
-  "ferrare": [
-    "shoe"
-  ],
-  "ferreo": [
-    "iron"
-  ],
-  "ferrico": [
-    "ferric"
-  ],
-  "ferritina": [
-    "ferritin"
-  ],
-  "ferro": [
-    "iron"
-  ],
-  "ferro di cavallo": [
-    "horseshoe"
-  ],
-  "ferromagnetismo": [
-    "ferromagnetism"
-  ],
-  "ferrovia": [
-    "railroad",
-    "railway"
-  ],
-  "fertile": [
-    "fertile",
-    "fruitful"
-  ],
-  "fertilizzante": [
-    "fertiliser",
-    "fertilizer"
-  ],
-  "fertilizzazione": [
-    "fertilisation",
-    "fertilization"
-  ],
-  "fervente": [
-    "fervent"
-  ],
-  "festa": [
-    "holiday",
-    "party"
-  ],
-  "festeggiare": [
-    "party"
-  ],
-  "festival": [
-    "festival"
-  ],
-  "festivo": [
-    "festive"
-  ],
-  "fetale": [
-    "fetal"
-  ],
-  "feticcio": [
-    "fetish"
-  ],
-  "feticismo": [
-    "fetishism"
-  ],
-  "feticista": [
-    "fetishist",
-    "fetishistic"
-  ],
-  "feto": [
-    "foetus"
-  ],
-  "fetta": [
-    "slice"
-  ],
-  "feudale": [
-    "feudal"
-  ],
-  "feudalesimo": [
-    "feudalism"
-  ],
-  "fiamma": [
-    "flame"
-  ],
-  "fiammata": [
-    "flare"
-  ],
-  "fiammifero": [
-    "match"
-  ],
-  "fiammingo": [
-    "flemish"
-  ],
-  "fianco": [
-    "flank",
-    "hip"
-  ],
-  "fiasco": [
-    "fiasco"
-  ],
-  "fibbia": [
-    "buckle"
-  ],
-  "fibra": [
-    "fiber",
-    "fibre"
-  ],
-  "fibrillazione": [
-    "fibrillation"
-  ],
-  "fibrina": [
-    "fibrin"
-  ],
-  "fico": [
-    "cool",
-    "fig"
-  ],
-  "fidanzamento": [
-    "engagement"
-  ],
-  "fidanzata": [
-    "girlfriend"
-  ],
-  "fidanzato": [
-    "boyfriend",
-    "groom"
-  ],
-  "fidarsi": [
-    "trust"
-  ],
-  "fiducia": [
-    "confidence",
-    "trust"
-  ],
-  "fieno": [
-    "hay"
-  ],
-  "fiera": [
-    "fair"
-  ],
-  "fieramente": [
-    "proudly"
-  ],
-  "fiero": [
-    "proud"
-  ],
-  "figlia": [
-    "daughter"
-  ],
-  "figliastra": [
-    "stepdaughter"
-  ],
-  "figliastro": [
-    "stepchild",
-    "stepson"
-  ],
-  "figlio": [
-    "child",
-    "son"
-  ],
-  "figlioccia": [
-    "goddaughter"
-  ],
-  "figlioccio": [
-    "godchild",
-    "godson"
-  ],
-  "figo": [
-    "cool"
-  ],
-  "figura": [
-    "figure"
-  ],
-  "figurare": [
-    "appear"
-  ],
-  "figurativo": [
-    "figurative"
-  ],
-  "fila": [
-    "line",
-    "row"
-  ],
-  "filamento": [
-    "filament"
-  ],
-  "filatelia": [
-    "philately"
-  ],
-  "filatura": [
-    "spinning"
-  ],
-  "file": [
-    "file"
-  ],
-  "filiale": [
-    "branch",
-    "filial"
-  ],
-  "filigrana": [
-    "filigree"
-  ],
-  "Filippine": [
-    "Philippines"
-  ],
-  "film": [
-    "film",
-    "movie"
-  ],
-  "filmare": [
-    "film"
-  ],
-  "filo": [
-    "cut",
-    "edge",
-    "strand",
-    "thread"
-  ],
-  "filo interdentale": [
-    "dental floss"
-  ],
-  "filo spinato": [
-    "barbed wire"
-  ],
-  "filologia": [
-    "philology"
-  ],
-  "filologico": [
-    "philological"
-  ],
-  "filologo": [
-    "philologist"
-  ],
-  "filosofia": [
-    "philosophy"
-  ],
-  "filosoficamente": [
-    "philosophically"
-  ],
-  "filosofico": [
-    "philosophical"
-  ],
-  "filosofo": [
-    "philosopher"
-  ],
-  "filtrare": [
-    "filter",
-    "leak"
-  ],
-  "filtrazione": [
-    "leak"
-  ],
-  "filtro": [
-    "filter"
-  ],
-  "finale": [
-    "ending",
-    "final"
-  ],
-  "finalismo": [
-    "finalism"
-  ],
-  "finalista": [
-    "finalist"
-  ],
-  "finalmente": [
-    "finally"
-  ],
-  "finanza": [
-    "finance"
-  ],
-  "finanziamento": [
-    "funding"
-  ],
-  "finanziare": [
-    "finance",
-    "fund"
-  ],
-  "finanziariamente": [
-    "financially"
-  ],
-  "finanziario": [
-    "financial"
-  ],
-  "fine": [
-    "end"
-  ],
-  "fine settimana": [
-    "weekend"
-  ],
-  "finestra": [
-    "window"
-  ],
-  "fingere": [
-    "pretend"
-  ],
-  "finire": [
-    "end",
-    "finish"
-  ],
-  "finito": [
-    "finite"
-  ],
-  "finlandese": [
-    "finnish"
-  ],
-  "Finlandia": [
-    "Finland"
-  ],
-  "fino": [
-    "fine"
-  ],
-  "fino a": [
-    "until"
-  ],
-  "finocchio": [
-    "fennel"
-  ],
-  "finora": [
-    "up to now",
-    "up until now"
-  ],
-  "finta": [
-    "pretence"
-  ],
-  "finto": [
-    "fake"
-  ],
-  "finzione": [
-    "fiction"
-  ],
-  "fiocco": [
-    "bow",
-    "flake"
-  ],
-  "fiordaliso": [
-    "cornflower"
-  ],
-  "fiordo": [
-    "fiord"
-  ],
-  "fiore": [
-    "flower"
-  ],
-  "fioreria": [
-    "florist"
-  ],
-  "fiorire": [
-    "flower"
-  ],
-  "fiorista": [
-    "florist"
-  ],
-  "fioritura": [
-    "flowering"
-  ],
-  "firma": [
-    "signature"
-  ],
-  "firmamento": [
-    "firmament"
-  ],
-  "firmare": [
-    "endorse",
-    "sign"
-  ],
-  "fisarmonica": [
-    "accordion"
-  ],
-  "fisarmonicista": [
-    "accordionist"
-  ],
-  "fiscale": [
-    "fiscal"
-  ],
-  "fischiare": [
-    "whistle"
-  ],
-  "fischio": [
-    "whistle"
-  ],
-  "fisica": [
-    "physics"
-  ],
-  "fisicamente": [
-    "physically"
-  ],
-  "fisico": [
-    "physical",
-    "physicist",
-    "physique"
-  ],
-  "fisiocrazia": [
-    "physiocracy"
-  ],
-  "fisiologia": [
-    "physiology"
-  ],
-  "fisiologicamente": [
-    "physiologically"
-  ],
-  "fisiologico": [
-    "physiological"
-  ],
-  "fisiopatologia": [
-    "pathophysiology"
-  ],
-  "fisioterapia": [
-    "physiotherapy"
-  ],
-  "fissazione": [
-    "fixation"
-  ],
-  "fissione": [
-    "fission"
-  ],
-  "fistola": [
-    "fistula"
-  ],
-  "fitogeografia": [
-    "phytogeography"
-  ],
-  "fitopatologia": [
-    "phytopathology"
-  ],
-  "fitoplancton": [
-    "phytoplankton"
-  ],
-  "fitosociologia": [
-    "phytosociology"
-  ],
-  "fiume": [
-    "river"
-  ],
-  "flagello": [
-    "flail",
-    "scourge"
-  ],
-  "flagioletto": [
-    "flageolet"
-  ],
-  "flagrante": [
-    "flagrant"
-  ],
-  "flamenco": [
-    "flamenco"
-  ],
-  "flanella": [
-    "flannel"
-  ],
-  "flangia": [
-    "flange"
-  ],
-  "flatulenza": [
-    "fart",
-    "flatulence"
-  ],
-  "flautista": [
-    "flautist"
-  ],
-  "flauto": [
-    "flute"
-  ],
-  "flessibile": [
-    "flexible",
-    "floppy"
-  ],
-  "flessivo": [
-    "inflectional"
-  ],
-  "flettere": [
-    "bend"
-  ],
-  "flocculazione": [
-    "flocculation"
-  ],
-  "floculo": [
-    "flocculus"
-  ],
-  "floema": [
-    "phloem"
-  ],
-  "flora": [
-    "flora"
-  ],
-  "floreale": [
-    "floral"
-  ],
-  "floricoltura": [
-    "floriculture"
-  ],
-  "florido": [
-    "flourishing"
-  ],
-  "flotta": [
-    "fleet"
-  ],
-  "flottazione": [
-    "flotation"
-  ],
-  "flottiglia": [
-    "flotilla"
-  ],
-  "fluentemente": [
-    "fluently"
-  ],
-  "fluido": [
-    "fluent",
-    "fluid"
-  ],
-  "fluire": [
-    "flow"
-  ],
-  "fluoresceina": [
-    "fluorescein"
-  ],
-  "fluorescente": [
-    "fluorescent"
-  ],
-  "fluorescenza": [
-    "fluorescence"
-  ],
-  "fluoridrico": [
-    "hydrofluoric"
-  ],
-  "fluorite": [
-    "fluorite"
-  ],
-  "fluorizzazione": [
-    "fluoridation"
-  ],
-  "fluoro": [
-    "fluorine"
-  ],
-  "fluoruro": [
-    "fluoride"
-  ],
-  "flusso": [
-    "flow",
-    "stream"
-  ],
-  "fluttuare": [
-    "float",
-    "fluctuate"
-  ],
-  "fluttuazione": [
-    "fluctuation"
-  ],
-  "fluviale": [
-    "fluvial"
-  ],
-  "fobia": [
-    "phobia"
-  ],
-  "foca": [
-    "seal"
-  ],
-  "focale": [
-    "focal"
-  ],
-  "foglia": [
-    "blade",
-    "leaf"
-  ],
-  "fogliame": [
-    "foliage"
-  ],
-  "foglio": [
-    "blade",
-    "sheet"
-  ],
-  "fogna": [
-    "sewerage"
-  ],
-  "fognatura": [
-    "sewerage"
-  ],
-  "folla": [
-    "crowd"
-  ],
-  "folletto": [
-    "goblin"
-  ],
-  "follia": [
-    "folly",
-    "madness"
-  ],
-  "follicolare": [
-    "follicular"
-  ],
-  "fomentatore": [
-    "agitator"
-  ],
-  "fonazione": [
-    "phonation"
-  ],
-  "fondamentale": [
-    "fundamental"
-  ],
-  "fondamentalismo": [
-    "fundamentalism"
-  ],
-  "fondamentalista": [
-    "fundamentalist"
-  ],
-  "fondamentalmente": [
-    "fundamentally"
-  ],
-  "fondare": [
-    "found"
-  ],
-  "fondatore": [
-    "founder"
-  ],
-  "fondazione": [
-    "foundation"
-  ],
-  "fondere": [
-    "fuse",
-    "melt",
-    "merge"
-  ],
-  "fondo": [
-    "bottom",
-    "fund"
-  ],
-  "fonduta": [
-    "fondue"
-  ],
-  "fonema": [
-    "phoneme"
-  ],
-  "fonemico": [
-    "phonemic"
-  ],
-  "fonendoscopio": [
-    "phonendoscope"
-  ],
-  "fonetica": [
-    "phonetics"
-  ],
-  "foneticamente": [
-    "phonetically"
-  ],
-  "fonico": [
-    "phonic"
-  ],
-  "fonografo": [
-    "phonograph"
-  ],
-  "fonogramma": [
-    "phonogram"
-  ],
-  "fonologia": [
-    "phonology"
-  ],
-  "fonologico": [
-    "phonological"
-  ],
-  "font": [
-    "font"
-  ],
-  "fonte": [
-    "font",
-    "fountain",
-    "source",
-    "spring"
-  ],
-  "foraggio": [
-    "forage"
-  ],
-  "forare": [
-    "bore",
-    "pierce",
-    "puncture"
-  ],
-  "forbici": [
-    "scissors"
-  ],
-  "forchetta": [
-    "fork"
-  ],
-  "foresta": [
-    "forest"
-  ],
-  "forestale": [
-    "forestry"
-  ],
-  "forfora": [
-    "dandruff"
-  ],
-  "forgia": [
-    "forge"
-  ],
-  "forgiatura": [
-    "forging"
-  ],
-  "forgiaturadelrame": [
-    "coppersmithing"
-  ],
-  "forma": [
-    "form"
-  ],
-  "formaggio": [
-    "cheese"
-  ],
-  "formale": [
-    "formal"
-  ],
-  "formalizzare": [
-    "formalise"
-  ],
-  "formalizzazione": [
-    "formalisation"
-  ],
-  "formalmente": [
-    "formally"
-  ],
-  "formare": [
-    "form"
-  ],
-  "formativo": [
-    "formative"
-  ],
-  "formato": [
-    "format"
-  ],
-  "formazione": [
-    "training"
-  ],
-  "formica": [
-    "ant"
-  ],
-  "formichiere": [
-    "anteater"
-  ],
-  "formidabile": [
-    "formidable"
-  ],
-  "formula": [
-    "formula"
-  ],
-  "formulare": [
-    "formulate"
-  ],
-  "formulazione": [
-    "formulation"
-  ],
-  "fornire": [
-    "provide",
-    "supply"
-  ],
-  "fornitore": [
-    "provider",
-    "supplier"
-  ],
-  "forno": [
-    "oven"
-  ],
-  "fornosolare": [
-    "solarcooker"
-  ],
-  "foro": [
-    "forum"
-  ],
-  "forse": [
-    "maybe",
-    "perhaps"
-  ],
-  "forte": [
-    "forceful",
-    "forte",
-    "strong"
-  ],
-  "fortemente": [
-    "strongly"
-  ],
-  "fortezza": [
-    "fortress"
-  ],
-  "fortificare": [
-    "fortify",
-    "strengthen"
-  ],
-  "fortificazione": [
-    "fortification",
-    "strengthening"
-  ],
-  "fortuito": [
-    "haphazard"
-  ],
-  "fortuna": [
-    "fortune",
-    "luck"
-  ],
-  "fortunatamente": [
-    "fortunately",
-    "luckily",
-    "thankfully"
-  ],
-  "fortunato": [
-    "fortunate",
-    "lucky"
-  ],
-  "forza": [
-    "force",
-    "might",
-    "strength"
-  ],
-  "forzare": [
-    "force"
-  ],
-  "forzatamente": [
-    "forcedly"
-  ],
-  "foschia": [
-    "haze",
-    "mist"
-  ],
-  "fosfato": [
-    "phosphate"
-  ],
-  "fosfina": [
-    "phosphine"
-  ],
-  "fosforescenza": [
-    "phosphorescence"
-  ],
-  "fosforilazione": [
-    "phosphorylation"
-  ],
-  "fosforo": [
-    "phosphorus"
-  ],
-  "fossa": [
-    "pit"
-  ],
-  "fossile": [
-    "fossil"
-  ],
-  "fossilizzazione": [
-    "fossilisation"
-  ],
-  "fosso": [
-    "ditch"
-  ],
-  "foto": [
-    "photo"
-  ],
-  "fotochimico": [
-    "photochemical"
-  ],
-  "fotocomposizione": [
-    "photocomposition"
-  ],
-  "fotocopiare": [
-    "photocopy"
-  ],
-  "fotocopiatrice": [
-    "photocopier",
-    "photocopy"
-  ],
-  "fotodiodo": [
-    "photodiode"
-  ],
-  "fotofermentazione": [
-    "photofermentation"
-  ],
-  "fotografare": [
-    "photograph"
-  ],
-  "fotografia": [
-    "photograph",
-    "photography",
-    "picture"
-  ],
-  "fotografico": [
-    "photographic"
-  ],
-  "fotografo": [
-    "photographer"
-  ],
-  "fotogramma": [
-    "filmframe"
-  ],
-  "fotogrammetria": [
-    "photogrammetry"
-  ],
-  "fotoincisione": [
-    "photoengraving"
-  ],
-  "fotolitografico": [
-    "photolithographic"
-  ],
-  "fotometria": [
-    "photometry"
-  ],
-  "fotometrico": [
-    "photometric"
-  ],
-  "fotone": [
-    "photon"
-  ],
-  "fotonico": [
-    "photonic"
-  ],
-  "fotosensibile": [
-    "lightsensitive"
-  ],
-  "fototipo": [
-    "phototype"
-  ],
-  "fotovoltaico": [
-    "photovoltaic"
-  ],
-  "fra": [
-    "among",
-    "amongst",
-    "between",
-    "in"
-  ],
-  "fragile": [
-    "brittle",
-    "fragile"
-  ],
-  "fragola": [
-    "strawberry"
-  ],
-  "frammentazione": [
-    "fragmentation"
-  ],
-  "frammento": [
-    "fragment"
-  ],
-  "frana": [
-    "landslide"
-  ],
-  "francamente": [
-    "candidly",
-    "frankly",
-    "outright"
-  ],
-  "francese": [
-    "Frechman",
-    "French"
-  ],
-  "francesismo": [
-    "gallicism"
-  ],
-  "franchezza": [
-    "frankness"
-  ],
-  "franchista": [
-    "francoist"
-  ],
-  "Francia": [
-    "France"
-  ],
-  "franco": [
-    "frank"
-  ],
-  "francobollo": [
-    "seal",
-    "stamp"
-  ],
-  "frangia": [
-    "fringe"
-  ],
-  "frantoio": [
-    "crusher"
-  ],
-  "frantumazione": [
-    "crushing"
-  ],
-  "frase": [
-    "phrase",
-    "sentence"
-  ],
-  "fraseologia": [
-    "phraseology"
-  ],
-  "frate": [
-    "friar"
-  ],
-  "fratellanza": [
-    "brotherhood",
-    "fraternity"
-  ],
-  "fratellastro": [
-    "stepbrother"
-  ],
-  "fratello": [
-    "brother"
-  ],
-  "fratellomezzo": [
-    "halfbrother"
-  ],
-  "fraterno": [
-    "brotherly",
-    "fraternal"
-  ],
-  "fratricidio": [
-    "fratricide"
-  ],
-  "frattempo": [
-    "meantime"
-  ],
-  "frattura": [
-    "fracture"
-  ],
-  "fraudolentemente": [
-    "fraudulently"
-  ],
-  "fraudolento": [
-    "fraudulent"
-  ],
-  "frazionare": [
-    "fractionate"
-  ],
-  "frazione": [
-    "fraction"
-  ],
-  "freatico": [
-    "phreatic"
-  ],
-  "freccia": [
-    "arrow"
-  ],
-  "freddamente": [
-    "coldly"
-  ],
-  "freddo": [
-    "chill",
-    "cold"
-  ],
-  "fregata": [
-    "freight",
-    "frigate"
-  ],
-  "fregatura": [
-    "catch"
-  ],
-  "frenare": [
-    "brake"
-  ],
-  "freneticamente": [
-    "frantically",
-    "frenetically"
-  ],
-  "frenetico": [
-    "frantic"
-  ],
-  "freno": [
-    "brake"
-  ],
-  "frequentare": [
-    "attend"
-  ],
-  "frequentazione": [
-    "attendance"
-  ],
-  "frequente": [
-    "frequent"
-  ],
-  "frequentemente": [
-    "frequently"
-  ],
-  "frequenza": [
-    "frequency"
-  ],
-  "frequenzacardiaca": [
-    "heartrate"
-  ],
-  "freschezza": [
-    "freshness"
-  ],
-  "fresco": [
-    "cool",
-    "fresh"
-  ],
-  "fretta": [
-    "haste",
-    "hurry"
-  ],
-  "friabile": [
-    "friable"
-  ],
-  "friggere": [
-    "fry"
-  ],
-  "frigo": [
-    "fridge"
-  ],
-  "frigorifero": [
-    "fridge"
-  ],
-  "frivolo": [
-    "frivolous"
-  ],
-  "frizione": [
-    "clutch"
-  ],
-  "frode": [
-    "fraud"
-  ],
-  "frontale": [
-    "frontal"
-  ],
-  "fronte": [
-    "forehead",
-    "front"
-  ],
-  "frontespizio": [
-    "frontispiece"
-  ],
-  "frontiera": [
-    "border",
-    "boundary",
-    "frontier"
-  ],
-  "fruizione": [
-    "fruition"
-  ],
-  "frumento": [
-    "wheat"
-  ],
-  "frusta": [
-    "whip"
-  ],
-  "frustata": [
-    "whip"
-  ],
-  "frustrare": [
-    "frustrate"
-  ],
-  "frustrazione": [
-    "frustration"
-  ],
-  "frutteto": [
-    "orchard"
-  ],
-  "fruttifero": [
-    "fruitful"
-  ],
-  "frutto": [
-    "fruit"
-  ],
-  "fruttuoso": [
-    "fruitful"
-  ],
-  "fucilazione": [
-    "shooting"
-  ],
-  "fucile": [
-    "rifle"
-  ],
-  "fucina": [
-    "forge"
-  ],
-  "fuga": [
-    "escape"
-  ],
-  "fuggire": [
-    "escape",
-    "flee"
-  ],
-  "fuggitivo": [
-    "fugitive"
-  ],
-  "fulcro": [
-    "fulcrum"
-  ],
-  "fuliggine": [
-    "soot"
-  ],
-  "fulminare": [
-    "fulminate"
-  ],
-  "fulmine": [
-    "lightning",
-    "ray",
-    "thunderbolt"
-  ],
-  "fumare": [
-    "smoke"
-  ],
-  "fumatore": [
-    "smoker"
-  ],
-  "fumigazione": [
-    "fumigation"
-  ],
-  "fumo": [
-    "smoke"
-  ],
-  "funerale": [
-    "funeral"
-  ],
-  "fungibile": [
-    "fungible"
-  ],
-  "fungo": [
-    "fungus",
-    "mushroom"
-  ],
-  "funicolare": [
-    "funicular"
-  ],
-  "funicolo": [
-    "funiculus"
-  ],
-  "funivia": [
-    "cable car",
-    "cableway",
-    "ropeway"
-  ],
-  "funzionale": [
-    "functional"
-  ],
-  "funzionalismo": [
-    "functionalism"
-  ],
-  "funzionamento": [
-    "functioning",
-    "operation"
-  ],
-  "funzionante": [
-    "functioning"
-  ],
-  "funzionare": [
-    "function",
-    "run"
-  ],
-  "funzionario": [
-    "civilservant"
-  ],
-  "funzione": [
-    "function",
-    "role"
-  ],
-  "fuoco": [
-    "fire",
-    "focus"
-  ],
-  "fuori": [
-    "off",
-    "out",
-    "outside"
-  ],
-  "fuori luogo": [
-    "out of place"
-  ],
-  "furbizia": [
-    "shrewdness",
-    "slyness"
-  ],
-  "furgone": [
-    "truck",
-    "van"
-  ],
-  "furia": [
-    "fury"
-  ],
-  "furibondo": [
-    "furious"
-  ],
-  "furiosamente": [
-    "angrily",
-    "furiously"
-  ],
-  "furioso": [
-    "raging"
-  ],
-  "furto": [
-    "robbery",
-    "theft"
-  ],
-  "fusibile": [
-    "fusible"
-  ],
-  "fusione": [
-    "foundry",
-    "fusion",
-    "merger"
-  ],
-  "fuso orario": [
-    "timezone"
-  ],
-  "fusoliera": [
-    "fuselage"
-  ],
-  "futile": [
-    "futile"
-  ],
-  "futurismo": [
-    "futurism"
-  ],
-  "futurista": [
-    "futurist",
-    "futuristic"
-  ],
-  "futuro": [
-    "future"
-  ]
+"fa": [
+  {"id":403,"text":["ago"]}
+],
+"fabbrica": [
+  {"id":5601,"text":["factory"]}
+],
+"fabbricante": [
+  {"id":8796,"text":["maker"]},
+  {"id":8865,"text":["manufacturer"]}
+],
+"fabbricare": [
+  {"id":3576,"text":["craft"]},
+  {"id":5582,"text":["fabricate"]},
+  {"id":8864,"text":["manufacture"]}
+],
+"fabbricazione": [
+  {"id":8866,"text":["manufacturing"]}
+],
+"fabbro": [
+  {"id":1739,"text":["blacksmith"]},
+  {"id":13458,"text":["smith"]}
+],
+"faccia": [
+  {"id":5585,"text":["face"]}
+],
+"facciale": [
+  {"id":5589,"text":["facial"]}
+],
+"facile": [
+  {"id":4793,"text":["easy"]}
+],
+"facilitare": [
+  {"id":5591,"text":["facilitate"]}
+],
+"facilitazione": [
+  {"id":5593,"text":["facilitation"]}
+],
+"facilmente": [
+  {"id":4788,"text":["easily"]},
+  {"id":4861,"text":["effortlessly"]},
+  {"id":11901,"text":["readily"]}
+],
+"fagiano": [
+  {"id":10778,"text":["pheasant"]}
+],
+"fagiolo": [
+  {"id":1515,"text":["bean"]}
+],
+"fagocita": [
+  {"id":10765,"text":["phagocyte"]}
+],
+"fagotto": [
+  {"id":1477,"text":["bassoon"]}
+],
+"falangista": [
+  {"id":5619,"text":["falangist"]}
+],
+"falco": [
+  {"id":6850,"text":["hawk"]}
+],
+"falconeria": [
+  {"id":5620,"text":["falconry"]}
+],
+"falena": [
+  {"id":9448,"text":["moth"]}
+],
+"fallacia": [
+  {"id":5625,"text":["fallacy"]}
+],
+"fallibile": [
+  {"id":5626,"text":["fallible"]}
+],
+"fallico": [
+  {"id":10766,"text":["phallic"]}
+],
+"fallimento": [
+  {"id":5605,"text":["failure"]}
+],
+"fallire": [
+  {"id":5604,"text":["fail"]}
+],
+"fallo": [
+  {"id":5606,"text":["failure"]},
+  {"id":6124,"text":["foul"]}
+],
+"falsamente": [
+  {"id":5628,"text":["falsely"]}
+],
+"falsare": [
+  {"id":4511,"text":["distort"]}
+],
+"falsificare": [
+  {"id":5616,"text":["fake"]},
+  {"id":5629,"text":["falsify"]}
+],
+"falso": [
+  {"id":5617,"text":["fake"]},
+  {"id":5627,"text":["false"]}
+],
+"fama": [
+  {"id":5630,"text":["fame"]}
+],
+"fame": [
+  {"id":7188,"text":["hunger"]}
+],
+"famiglia": [
+  {"id":5632,"text":["family"]}
+],
+"familiare": [
+  {"id":5631,"text":["familiar"]},
+  {"id":5633,"text":["family"]}
+],
+"famoso": [
+  {"id":5636,"text":["famous"]}
+],
+"fanale": [
+  {"id":6866,"text":["headlight"]}
+],
+"fanaticamente": [
+  {"id":5641,"text":["fanatically"]}
+],
+"fanatico": [
+  {"id":5640,"text":["fanatical"]}
+],
+"fanatismo": [
+  {"id":5642,"text":["fanaticism"]}
+],
+"fanciulla": [
+  {"id":8778,"text":["maiden"]}
+],
+"fanfara": [
+  {"id":5646,"text":["fanfare"]}
+],
+"fango": [
+  {"id":9495,"text":["mud"]}
+],
+"fangoso": [
+  {"id":9496,"text":["muddy"]}
+],
+"fantascienza": [
+  {"id":12821,"text":["sciencefiction"]}
+],
+"fantasia": [
+  {"id":5644,"text":["fancy"]},
+  {"id":5650,"text":["fantasy"]}
+],
+"fantasma": [
+  {"id":6442,"text":["ghost"]},
+  {"id":10767,"text":["phantom"]}
+],
+"fantasticamente": [
+  {"id":1531,"text":["beautifully"]},
+  {"id":5649,"text":["fantastically"]}
+],
+"fantastico": [
+  {"id":5648,"text":["fantastic"]},
+  {"id":14534,"text":["terrific"]}
+],
+"fanteria": [
+  {"id":7627,"text":["infantry"]}
+],
+"faraone": [
+  {"id":10768,"text":["pharaoh"]}
+],
+"faraonico": [
+  {"id":10769,"text":["pharaonic"]}
+],
+"fardello": [
+  {"id":2068,"text":["burden"]}
+],
+"fare": [
+  {"id":4550,"text":["do"]},
+  {"id":8794,"text":["make"]}
+],
+"fare domanda": [
+  {"id":867,"text":["apply"]}
+],
+"farfalla": [
+  {"id":2098,"text":["butterfly"]}
+],
+"farfugliare": [
+  {"id":9519,"text":["mumble"]}
+],
+"farina": [
+  {"id":5968,"text":["flour"]}
+],
+"farmaceutico": [
+  {"id":10770,"text":["pharmaceutical"]}
+],
+"farmacia": [
+  {"id":2563,"text":["chemist's"]},
+  {"id":4686,"text":["drugstore"]},
+  {"id":10774,"text":["pharmacy"]}
+],
+"farmacista": [
+  {"id":2562,"text":["chemist"]}
+],
+"farmaco": [
+  {"id":9033,"text":["medication"]},
+  {"id":9035,"text":["medicine"]},
+  {"id":12177,"text":["remedy"]}
+],
+"farmacologia": [
+  {"id":10772,"text":["pharmacology"]}
+],
+"farmacologicamente": [
+  {"id":10771,"text":["pharmacologically"]}
+],
+"farmacopea": [
+  {"id":10773,"text":["pharmacopoeia"]}
+],
+"faro": [
+  {"id":6867,"text":["headlight"]},
+  {"id":8523,"text":["lighthouse"]}
+],
+"farsa": [
+  {"id":5653,"text":["farce"]}
+],
+"farsetto": [
+  {"id":4610,"text":["doublet"]}
+],
+"fascia": [
+  {"id":1396,"text":["band"]},
+  {"id":6864,"text":["headband"]}
+],
+"fasciatura": [
+  {"id":1398,"text":["bandage"]},
+  {"id":4657,"text":["dressing"]}
+],
+"fascino": [
+  {"id":2525,"text":["charm"]},
+  {"id":5661,"text":["fascination"]}
+],
+"fascio": [
+  {"id":1514,"text":["beam"]}
+],
+"fascismo": [
+  {"id":5662,"text":["fascism"]}
+],
+"fascista": [
+  {"id":5663,"text":["fascist"]}
+],
+"fase": [
+  {"id":10776,"text":["phase"]}
+],
+"fasore": [
+  {"id":10777,"text":["phasor"]}
+],
+"fastidio": [
+  {"id":724,"text":["annoyance"]}
+],
+"fastidioso": [
+  {"id":725,"text":["annoying"]}
+],
+"fata": [
+  {"id":5611,"text":["fairy"]}
+],
+"fatale": [
+  {"id":5669,"text":["fatal"]}
+],
+"fatalismo": [
+  {"id":5670,"text":["fatalism"]}
+],
+"fatalista": [
+  {"id":5671,"text":["fatalist"]},
+  {"id":5672,"text":["fatalistic"]}
+],
+"fatica": [
+  {"id":4858,"text":["effort"]},
+  {"id":5678,"text":["fatigue"]}
+],
+"faticosamente": [
+  {"id":8274,"text":["laboriously"]},
+  {"id":10361,"text":["painstakingly"]}
+],
+"faticoso": [
+  {"id":13959,"text":["strenuous"]},
+  {"id":14762,"text":["tiring"]},
+  {"id":15799,"text":["wearisome"]}
+],
+"fatidico": [
+  {"id":5675,"text":["fateful"]}
+],
+"fato": [
+  {"id":5674,"text":["fate"]}
+],
+"fattibile": [
+  {"id":4551,"text":["doable"]},
+  {"id":5703,"text":["feasible"]},
+  {"id":15957,"text":["workable"]}
+],
+"fatto": [
+  {"id":4590,"text":["done"]},
+  {"id":5595,"text":["fact"]},
+  {"id":7007,"text":["high"]}
+],
+"fatto a mano": [
+  {"id":6784,"text":["handmade"]}
+],
+"fatto in casa": [
+  {"id":7072,"text":["home-made"]}
+],
+"fattore": [
+  {"id":5597,"text":["factor"]}
+],
+"fattoria": [
+  {"id":5655,"text":["farm"]}
+],
+"fattoriale": [
+  {"id":5599,"text":["factorial"]}
+],
+"fattorizzazione": [
+  {"id":5600,"text":["factorisation"]}
+],
+"fattura": [
+  {"id":1658,"text":["bill"]},
+  {"id":8000,"text":["invoice"]}
+],
+"fatturare": [
+  {"id":1659,"text":["bill"]},
+  {"id":8001,"text":["invoice"]}
+],
+"fatturazione": [
+  {"id":15126,"text":["turnover"]}
+],
+"fauna": [
+  {"id":5683,"text":["fauna"]}
+],
+"fava": [
+  {"id":1999,"text":["broad bean"]}
+],
+"favore": [
+  {"id":5684,"text":["favor"]},
+  {"id":5691,"text":["favour"]}
+],
+"favoreggiare": [
+  {"id":26,"text":["abet"]}
+],
+"favorevolmente": [
+  {"id":5687,"text":["favorably"]},
+  {"id":5694,"text":["favourably"]}
+],
+"favorire": [
+  {"id":5685,"text":["favor"]},
+  {"id":5692,"text":["favour"]}
+],
+"favoritismo": [
+  {"id":5690,"text":["favoritism"]},
+  {"id":5697,"text":["favouritism"]}
+],
+"favorito": [
+  {"id":5688,"text":["favorite"]},
+  {"id":5695,"text":["favourite"]}
+],
+"fazione": [
+  {"id":5596,"text":["faction"]}
+],
+"fazzoletto": [
+  {"id":6778,"text":["handkerchief"]},
+  {"id":14764,"text":["tissue"]}
+],
+"febbraio": [
+  {"id":5708,"text":["February"]}
+],
+"febbre": [
+  {"id":5769,"text":["fever"]}
+],
+"febbrile": [
+  {"id":5770,"text":["feverish"]}
+],
+"febbrilmente": [
+  {"id":5771,"text":["feverishly"]}
+],
+"fecale": [
+  {"id":5602,"text":["faecal"]}
+],
+"feccia": [
+  {"id":12873,"text":["scum"]}
+],
+"feci": [
+  {"id":5603,"text":["faeces"]}
+],
+"fecola": [
+  {"id":13804,"text":["starch"]}
+],
+"fecondazione": [
+  {"id":5750,"text":["fertilisation"]},
+  {"id":5757,"text":["fertilization"]}
+],
+"fecondo": [
+  {"id":5747,"text":["fertile"]},
+  {"id":6220,"text":["fruitful"]}
+],
+"fede": [
+  {"id":5612,"text":["faith"]}
+],
+"fedele": [
+  {"id":5613,"text":["faithful"]}
+],
+"fedelmente": [
+  {"id":5614,"text":["faithfully"]}
+],
+"federale": [
+  {"id":5709,"text":["federal"]}
+],
+"federalismo": [
+  {"id":5710,"text":["federalism"]}
+],
+"federalista": [
+  {"id":5711,"text":["federalist"]},
+  {"id":5712,"text":["federalistic"]}
+],
+"federazione": [
+  {"id":5713,"text":["federation"]}
+],
+"fegato": [
+  {"id":8616,"text":["liver"]}
+],
+"felice": [
+  {"id":6476,"text":["glad"]},
+  {"id":6806,"text":["happy"]}
+],
+"felicemente": [
+  {"id":6805,"text":["happily"]}
+],
+"felpa": [
+  {"id":14263,"text":["sweatshirt"]}
+],
+"feltro": [
+  {"id":5726,"text":["felt"]}
+],
+"femmina": [
+  {"id":5727,"text":["female"]}
+],
+"femminile": [
+  {"id":5728,"text":["female"]},
+  {"id":5729,"text":["feminine"]}
+],
+"femminismo": [
+  {"id":5730,"text":["feminism"]}
+],
+"femminista": [
+  {"id":5731,"text":["feminist"]}
+],
+"femore": [
+  {"id":5732,"text":["femur"]}
+],
+"fenicio": [
+  {"id":10798,"text":["Phoenician"]}
+],
+"fenicottero": [
+  {"id":5912,"text":["flamingo"]}
+],
+"fenolo": [
+  {"id":10779,"text":["phenol"]}
+],
+"fenologia": [
+  {"id":10781,"text":["phenology"]}
+],
+"fenologico": [
+  {"id":10780,"text":["phenolic"]}
+],
+"fenomenale": [
+  {"id":10782,"text":["phenomenal"]}
+],
+"fenomeno": [
+  {"id":10784,"text":["phenomenon"]}
+],
+"fenomenologia": [
+  {"id":10783,"text":["phenomenology"]}
+],
+"fenotipo": [
+  {"id":10785,"text":["phenotype"]}
+],
+"ferire": [
+  {"id":7706,"text":["injure"]}
+],
+"ferita": [
+  {"id":15974,"text":["wound"]}
+],
+"ferito": [
+  {"id":7707,"text":["injured"]}
+],
+"feritoia": [
+  {"id":4990,"text":["embrasure"]}
+],
+"fermamente": [
+  {"id":5876,"text":["firmly"]},
+  {"id":13833,"text":["steadily"]}
+],
+"fermare": [
+  {"id":13789,"text":["stall"]}
+],
+"fermarsi": [
+  {"id":10572,"text":["pause"]},
+  {"id":13912,"text":["stop"]}
+],
+"fermata": [
+  {"id":13790,"text":["stall"]},
+  {"id":13913,"text":["stop"]}
+],
+"fermentare": [
+  {"id":5738,"text":["ferment"]}
+],
+"fermentazione": [
+  {"id":5739,"text":["fermentation"]}
+],
+"fermezza": [
+  {"id":5878,"text":["firmness"]}
+],
+"fermio": [
+  {"id":5740,"text":["fermium"]}
+],
+"fermo": [
+  {"id":5873,"text":["firm"]},
+  {"id":11711,"text":["put"]}
+],
+"feroce": [
+  {"id":5741,"text":["ferocious"]},
+  {"id":5784,"text":["fierce"]}
+],
+"ferocemente": [
+  {"id":5742,"text":["ferociously"]},
+  {"id":5785,"text":["fiercely"]}
+],
+"feromone": [
+  {"id":10786,"text":["pheromone"]}
+],
+"ferramenta": [
+  {"id":8033,"text":["ironmongery"]}
+],
+"ferrare": [
+  {"id":13177,"text":["shoe"]}
+],
+"ferreo": [
+  {"id":8028,"text":["iron"]}
+],
+"ferrico": [
+  {"id":5743,"text":["ferric"]}
+],
+"ferritina": [
+  {"id":5744,"text":["ferritin"]}
+],
+"ferro": [
+  {"id":8029,"text":["iron"]}
+],
+"ferro di cavallo": [
+  {"id":7133,"text":["horseshoe"]}
+],
+"ferromagnetismo": [
+  {"id":5745,"text":["ferromagnetism"]}
+],
+"ferrovia": [
+  {"id":11829,"text":["railroad"]},
+  {"id":11830,"text":["railway"]}
+],
+"fertile": [
+  {"id":5748,"text":["fertile"]},
+  {"id":6221,"text":["fruitful"]}
+],
+"fertilizzante": [
+  {"id":5753,"text":["fertiliser"]},
+  {"id":5755,"text":["fertilizer"]}
+],
+"fertilizzazione": [
+  {"id":5751,"text":["fertilisation"]},
+  {"id":5758,"text":["fertilization"]}
+],
+"fervente": [
+  {"id":5759,"text":["fervent"]}
+],
+"festa": [
+  {"id":7053,"text":["holiday"]},
+  {"id":10515,"text":["party"]}
+],
+"festeggiare": [
+  {"id":10516,"text":["party"]}
+],
+"festival": [
+  {"id":5760,"text":["festival"]}
+],
+"festivo": [
+  {"id":5761,"text":["festive"]}
+],
+"fetale": [
+  {"id":5762,"text":["fetal"]}
+],
+"feticcio": [
+  {"id":5763,"text":["fetish"]}
+],
+"feticismo": [
+  {"id":5764,"text":["fetishism"]}
+],
+"feticista": [
+  {"id":5765,"text":["fetishist"]},
+  {"id":5766,"text":["fetishistic"]}
+],
+"feto": [
+  {"id":6002,"text":["foetus"]}
+],
+"fetta": [
+  {"id":13415,"text":["slice"]}
+],
+"feudale": [
+  {"id":5767,"text":["feudal"]}
+],
+"feudalesimo": [
+  {"id":5768,"text":["feudalism"]}
+],
+"fiamma": [
+  {"id":5910,"text":["flame"]}
+],
+"fiammata": [
+  {"id":5917,"text":["flare"]}
+],
+"fiammifero": [
+  {"id":8950,"text":["match"]}
+],
+"fiammingo": [
+  {"id":5938,"text":["flemish"]}
+],
+"fianco": [
+  {"id":5914,"text":["flank"]},
+  {"id":7025,"text":["hip"]}
+],
+"fiasco": [
+  {"id":5775,"text":["fiasco"]}
+],
+"fibbia": [
+  {"id":2035,"text":["buckle"]}
+],
+"fibra": [
+  {"id":5776,"text":["fiber"]},
+  {"id":5777,"text":["fibre"]}
+],
+"fibrillazione": [
+  {"id":5778,"text":["fibrillation"]}
+],
+"fibrina": [
+  {"id":5779,"text":["fibrin"]}
+],
+"fico": [
+  {"id":3412,"text":["cool"]},
+  {"id":5810,"text":["fig"]}
+],
+"fidanzamento": [
+  {"id":5103,"text":["engagement"]}
+],
+"fidanzata": [
+  {"id":6464,"text":["girlfriend"]}
+],
+"fidanzato": [
+  {"id":1920,"text":["boyfriend"]},
+  {"id":6664,"text":["groom"]}
+],
+"fidarsi": [
+  {"id":15073,"text":["trust"]}
+],
+"fiducia": [
+  {"id":3166,"text":["confidence"]},
+  {"id":15074,"text":["trust"]}
+],
+"fieno": [
+  {"id":6851,"text":["hay"]}
+],
+"fiera": [
+  {"id":5608,"text":["fair"]}
+],
+"fieramente": [
+  {"id":11590,"text":["proudly"]}
+],
+"fiero": [
+  {"id":11588,"text":["proud"]}
+],
+"figlia": [
+  {"id":3812,"text":["daughter"]}
+],
+"figliastra": [
+  {"id":13851,"text":["stepdaughter"]}
+],
+"figliastro": [
+  {"id":13850,"text":["stepchild"]},
+  {"id":13856,"text":["stepson"]}
+],
+"figlio": [
+  {"id":2586,"text":["child"]},
+  {"id":13564,"text":["son"]}
+],
+"figlioccia": [
+  {"id":6532,"text":["goddaughter"]}
+],
+"figlioccio": [
+  {"id":6531,"text":["godchild"]},
+  {"id":6536,"text":["godson"]}
+],
+"figo": [
+  {"id":3413,"text":["cool"]}
+],
+"figura": [
+  {"id":5818,"text":["figure"]}
+],
+"figurare": [
+  {"id":847,"text":["appear"]}
+],
+"figurativo": [
+  {"id":5817,"text":["figurative"]}
+],
+"fila": [
+  {"id":8547,"text":["line"]},
+  {"id":12595,"text":["row"]}
+],
+"filamento": [
+  {"id":5820,"text":["filament"]}
+],
+"filatelia": [
+  {"id":10787,"text":["philately"]}
+],
+"filatura": [
+  {"id":13685,"text":["spinning"]}
+],
+"file": [
+  {"id":5823,"text":["file"]}
+],
+"filiale": [
+  {"id":1933,"text":["branch"]},
+  {"id":5825,"text":["filial"]}
+],
+"filigrana": [
+  {"id":5826,"text":["filigree"]}
+],
+"Filippine": [
+  {"id":10788,"text":["Philippines"]}
+],
+"film": [
+  {"id":5830,"text":["film"]},
+  {"id":9487,"text":["movie"]}
+],
+"filmare": [
+  {"id":5831,"text":["film"]}
+],
+"filo": [
+  {"id":3736,"text":["cut"]},
+  {"id":4822,"text":["edge"]},
+  {"id":13934,"text":["strand"]},
+  {"id":14687,"text":["thread"]}
+],
+"filo interdentale": [
+  {"id":4057,"text":["dental floss"]}
+],
+"filo spinato": [
+  {"id":1430,"text":["barbed wire"]}
+],
+"filologia": [
+  {"id":10791,"text":["philology"]}
+],
+"filologico": [
+  {"id":10789,"text":["philological"]}
+],
+"filologo": [
+  {"id":10790,"text":["philologist"]}
+],
+"filosofia": [
+  {"id":10795,"text":["philosophy"]}
+],
+"filosoficamente": [
+  {"id":10794,"text":["philosophically"]}
+],
+"filosofico": [
+  {"id":10793,"text":["philosophical"]}
+],
+"filosofo": [
+  {"id":10792,"text":["philosopher"]}
+],
+"filtrare": [
+  {"id":5834,"text":["filter"]},
+  {"id":8384,"text":["leak"]}
+],
+"filtrazione": [
+  {"id":8385,"text":["leak"]}
+],
+"filtro": [
+  {"id":5835,"text":["filter"]}
+],
+"finale": [
+  {"id":5079,"text":["ending"]},
+  {"id":5836,"text":["final"]}
+],
+"finalismo": [
+  {"id":5838,"text":["finalism"]}
+],
+"finalista": [
+  {"id":5839,"text":["finalist"]}
+],
+"finalmente": [
+  {"id":5840,"text":["finally"]}
+],
+"finanza": [
+  {"id":5842,"text":["finance"]}
+],
+"finanziamento": [
+  {"id":6256,"text":["funding"]}
+],
+"finanziare": [
+  {"id":5843,"text":["finance"]},
+  {"id":6250,"text":["fund"]}
+],
+"finanziariamente": [
+  {"id":5845,"text":["financially"]}
+],
+"finanziario": [
+  {"id":5844,"text":["financial"]}
+],
+"fine": [
+  {"id":5073,"text":["end"]}
+],
+"fine settimana": [
+  {"id":15814,"text":["weekend"]}
+],
+"finestra": [
+  {"id":15907,"text":["window"]}
+],
+"fingere": [
+  {"id":11365,"text":["pretend"]}
+],
+"finire": [
+  {"id":5074,"text":["end"]},
+  {"id":5856,"text":["finish"]}
+],
+"finito": [
+  {"id":5858,"text":["finite"]}
+],
+"finlandese": [
+  {"id":5860,"text":["finnish"]}
+],
+"Finlandia": [
+  {"id":5859,"text":["Finland"]}
+],
+"fino": [
+  {"id":5851,"text":["fine"]}
+],
+"fino a": [
+  {"id":15362,"text":["until"]}
+],
+"finocchio": [
+  {"id":5737,"text":["fennel"]}
+],
+"finora": [
+  {"id":15370,"text":["up to now"]},
+  {"id":15371,"text":["up until now"]}
+],
+"finta": [
+  {"id":11363,"text":["pretence"]}
+],
+"finto": [
+  {"id":5618,"text":["fake"]}
+],
+"finzione": [
+  {"id":5781,"text":["fiction"]}
+],
+"fiocco": [
+  {"id":1906,"text":["bow"]},
+  {"id":5908,"text":["flake"]}
+],
+"fiordaliso": [
+  {"id":3457,"text":["cornflower"]}
+],
+"fiordo": [
+  {"id":5861,"text":["fiord"]}
+],
+"fiore": [
+  {"id":5972,"text":["flower"]}
+],
+"fioreria": [
+  {"id":5964,"text":["florist"]}
+],
+"fiorire": [
+  {"id":5973,"text":["flower"]}
+],
+"fiorista": [
+  {"id":5965,"text":["florist"]}
+],
+"fioritura": [
+  {"id":5975,"text":["flowering"]}
+],
+"firma": [
+  {"id":13265,"text":["signature"]}
+],
+"firmamento": [
+  {"id":5875,"text":["firmament"]}
+],
+"firmare": [
+  {"id":5089,"text":["endorse"]},
+  {"id":13258,"text":["sign"]}
+],
+"fisarmonica": [
+  {"id":144,"text":["accordion"]}
+],
+"fisarmonicista": [
+  {"id":145,"text":["accordionist"]}
+],
+"fiscale": [
+  {"id":5884,"text":["fiscal"]}
+],
+"fischiare": [
+  {"id":15866,"text":["whistle"]}
+],
+"fischio": [
+  {"id":15867,"text":["whistle"]}
+],
+"fisica": [
+  {"id":10846,"text":["physics"]}
+],
+"fisicamente": [
+  {"id":10844,"text":["physically"]}
+],
+"fisico": [
+  {"id":10843,"text":["physical"]},
+  {"id":10845,"text":["physicist"]},
+  {"id":10853,"text":["physique"]}
+],
+"fisiocrazia": [
+  {"id":10847,"text":["physiocracy"]}
+],
+"fisiologia": [
+  {"id":10850,"text":["physiology"]}
+],
+"fisiologicamente": [
+  {"id":10849,"text":["physiologically"]}
+],
+"fisiologico": [
+  {"id":10848,"text":["physiological"]}
+],
+"fisiopatologia": [
+  {"id":10550,"text":["pathophysiology"]}
+],
+"fisioterapia": [
+  {"id":10851,"text":["physiotherapy"]}
+],
+"fissazione": [
+  {"id":5902,"text":["fixation"]}
+],
+"fissione": [
+  {"id":5892,"text":["fission"]}
+],
+"fistola": [
+  {"id":5894,"text":["fistula"]}
+],
+"fitogeografia": [
+  {"id":10854,"text":["phytogeography"]}
+],
+"fitopatologia": [
+  {"id":10855,"text":["phytopathology"]}
+],
+"fitoplancton": [
+  {"id":10856,"text":["phytoplankton"]}
+],
+"fitosociologia": [
+  {"id":10857,"text":["phytosociology"]}
+],
+"fiume": [
+  {"id":12521,"text":["river"]}
+],
+"flagello": [
+  {"id":5907,"text":["flail"]},
+  {"id":12841,"text":["scourge"]}
+],
+"flagioletto": [
+  {"id":5905,"text":["flageolet"]}
+],
+"flagrante": [
+  {"id":5906,"text":["flagrant"]}
+],
+"flamenco": [
+  {"id":5911,"text":["flamenco"]}
+],
+"flanella": [
+  {"id":5915,"text":["flannel"]}
+],
+"flangia": [
+  {"id":5913,"text":["flange"]}
+],
+"flatulenza": [
+  {"id":5659,"text":["fart"]},
+  {"id":5925,"text":["flatulence"]}
+],
+"flautista": [
+  {"id":5926,"text":["flautist"]}
+],
+"flauto": [
+  {"id":5989,"text":["flute"]}
+],
+"flessibile": [
+  {"id":5940,"text":["flexible"]},
+  {"id":5960,"text":["floppy"]}
+],
+"flessivo": [
+  {"id":7654,"text":["inflectional"]}
+],
+"flettere": [
+  {"id":1586,"text":["bend"]}
+],
+"flocculazione": [
+  {"id":5952,"text":["flocculation"]}
+],
+"floculo": [
+  {"id":5953,"text":["flocculus"]}
+],
+"floema": [
+  {"id":10796,"text":["phloem"]}
+],
+"flora": [
+  {"id":5961,"text":["flora"]}
+],
+"floreale": [
+  {"id":5962,"text":["floral"]}
+],
+"floricoltura": [
+  {"id":5963,"text":["floriculture"]}
+],
+"florido": [
+  {"id":5969,"text":["flourishing"]}
+],
+"flotta": [
+  {"id":5937,"text":["fleet"]}
+],
+"flottazione": [
+  {"id":5966,"text":["flotation"]}
+],
+"flottiglia": [
+  {"id":5967,"text":["flotilla"]}
+],
+"fluentemente": [
+  {"id":5980,"text":["fluently"]}
+],
+"fluido": [
+  {"id":5979,"text":["fluent"]},
+  {"id":5981,"text":["fluid"]}
+],
+"fluire": [
+  {"id":5970,"text":["flow"]}
+],
+"fluoresceina": [
+  {"id":5982,"text":["fluorescein"]}
+],
+"fluorescente": [
+  {"id":5984,"text":["fluorescent"]}
+],
+"fluorescenza": [
+  {"id":5983,"text":["fluorescence"]}
+],
+"fluoridrico": [
+  {"id":7214,"text":["hydrofluoric"]}
+],
+"fluorite": [
+  {"id":5988,"text":["fluorite"]}
+],
+"fluorizzazione": [
+  {"id":5985,"text":["fluoridation"]}
+],
+"fluoro": [
+  {"id":5987,"text":["fluorine"]}
+],
+"fluoruro": [
+  {"id":5986,"text":["fluoride"]}
+],
+"flusso": [
+  {"id":5971,"text":["flow"]},
+  {"id":13952,"text":["stream"]}
+],
+"fluttuare": [
+  {"id":5948,"text":["float"]},
+  {"id":5977,"text":["fluctuate"]}
+],
+"fluttuazione": [
+  {"id":5978,"text":["fluctuation"]}
+],
+"fluviale": [
+  {"id":5990,"text":["fluvial"]}
+],
+"fobia": [
+  {"id":10797,"text":["phobia"]}
+],
+"foca": [
+  {"id":12878,"text":["seal"]}
+],
+"focale": [
+  {"id":5999,"text":["focal"]}
+],
+"foglia": [
+  {"id":1742,"text":["blade"]},
+  {"id":8381,"text":["leaf"]}
+],
+"fogliame": [
+  {"id":6010,"text":["foliage"]}
+],
+"foglio": [
+  {"id":1743,"text":["blade"]},
+  {"id":13142,"text":["sheet"]}
+],
+"fogna": [
+  {"id":13091,"text":["sewerage"]}
+],
+"fognatura": [
+  {"id":13092,"text":["sewerage"]}
+],
+"folla": [
+  {"id":3640,"text":["crowd"]}
+],
+"folletto": [
+  {"id":6529,"text":["goblin"]}
+],
+"follia": [
+  {"id":6015,"text":["folly"]},
+  {"id":8747,"text":["madness"]}
+],
+"follicolare": [
+  {"id":6011,"text":["follicular"]}
+],
+"fomentatore": [
+  {"id":400,"text":["agitator"]}
+],
+"fonazione": [
+  {"id":10799,"text":["phonation"]}
+],
+"fondamentale": [
+  {"id":6252,"text":["fundamental"]}
+],
+"fondamentalismo": [
+  {"id":6253,"text":["fundamentalism"]}
+],
+"fondamentalista": [
+  {"id":6254,"text":["fundamentalist"]}
+],
+"fondamentalmente": [
+  {"id":6255,"text":["fundamentally"]}
+],
+"fondare": [
+  {"id":6126,"text":["found"]}
+],
+"fondatore": [
+  {"id":6128,"text":["founder"]}
+],
+"fondazione": [
+  {"id":6127,"text":["foundation"]}
+],
+"fondere": [
+  {"id":6277,"text":["fuse"]},
+  {"id":9061,"text":["melt"]},
+  {"id":9095,"text":["merge"]}
+],
+"fondo": [
+  {"id":1886,"text":["bottom"]},
+  {"id":6251,"text":["fund"]}
+],
+"fonduta": [
+  {"id":6021,"text":["fondue"]}
+],
+"fonema": [
+  {"id":10802,"text":["phoneme"]}
+],
+"fonemico": [
+  {"id":10803,"text":["phonemic"]}
+],
+"fonendoscopio": [
+  {"id":10804,"text":["phonendoscope"]}
+],
+"fonetica": [
+  {"id":10806,"text":["phonetics"]}
+],
+"foneticamente": [
+  {"id":10805,"text":["phonetically"]}
+],
+"fonico": [
+  {"id":10807,"text":["phonic"]}
+],
+"fonografo": [
+  {"id":10809,"text":["phonograph"]}
+],
+"fonogramma": [
+  {"id":10808,"text":["phonogram"]}
+],
+"fonologia": [
+  {"id":10811,"text":["phonology"]}
+],
+"fonologico": [
+  {"id":10810,"text":["phonological"]}
+],
+"font": [
+  {"id":6022,"text":["font"]}
+],
+"fonte": [
+  {"id":6023,"text":["font"]},
+  {"id":6130,"text":["fountain"]},
+  {"id":13592,"text":["source"]},
+  {"id":13742,"text":["spring"]}
+],
+"foraggio": [
+  {"id":6038,"text":["forage"]}
+],
+"forare": [
+  {"id":1867,"text":["bore"]},
+  {"id":10879,"text":["pierce"]},
+  {"id":11671,"text":["puncture"]}
+],
+"forbici": [
+  {"id":12825,"text":["scissors"]}
+],
+"forchetta": [
+  {"id":6062,"text":["fork"]}
+],
+"foresta": [
+  {"id":6052,"text":["forest"]}
+],
+"forestale": [
+  {"id":6053,"text":["forestry"]}
+],
+"forfora": [
+  {"id":3792,"text":["dandruff"]}
+],
+"forgia": [
+  {"id":6055,"text":["forge"]}
+],
+"forgiatura": [
+  {"id":6059,"text":["forging"]}
+],
+"forgiaturadelrame": [
+  {"id":3432,"text":["coppersmithing"]}
+],
+"forma": [
+  {"id":6064,"text":["form"]}
+],
+"formaggio": [
+  {"id":2554,"text":["cheese"]}
+],
+"formale": [
+  {"id":6069,"text":["formal"]}
+],
+"formalizzare": [
+  {"id":6071,"text":["formalise"]}
+],
+"formalizzazione": [
+  {"id":6070,"text":["formalisation"]}
+],
+"formalmente": [
+  {"id":6072,"text":["formally"]}
+],
+"formare": [
+  {"id":6065,"text":["form"]}
+],
+"formativo": [
+  {"id":6075,"text":["formative"]}
+],
+"formato": [
+  {"id":6073,"text":["format"]}
+],
+"formazione": [
+  {"id":14910,"text":["training"]}
+],
+"formica": [
+  {"id":745,"text":["ant"]}
+],
+"formichiere": [
+  {"id":749,"text":["anteater"]}
+],
+"formidabile": [
+  {"id":6078,"text":["formidable"]}
+],
+"formula": [
+  {"id":6080,"text":["formula"]}
+],
+"formulare": [
+  {"id":6081,"text":["formulate"]}
+],
+"formulazione": [
+  {"id":6082,"text":["formulation"]}
+],
+"fornire": [
+  {"id":11597,"text":["provide"]},
+  {"id":14196,"text":["supply"]}
+],
+"fornitore": [
+  {"id":11601,"text":["provider"]},
+  {"id":14195,"text":["supplier"]}
+],
+"forno": [
+  {"id":10285,"text":["oven"]}
+],
+"fornosolare": [
+  {"id":13523,"text":["solarcooker"]}
+],
+"foro": [
+  {"id":6118,"text":["forum"]}
+],
+"forse": [
+  {"id":8991,"text":["maybe"]},
+  {"id":10679,"text":["perhaps"]}
+],
+"forte": [
+  {"id":6044,"text":["forceful"]},
+  {"id":6085,"text":["forte"]},
+  {"id":13997,"text":["strong"]}
+],
+"fortemente": [
+  {"id":13998,"text":["strongly"]}
+],
+"fortezza": [
+  {"id":6093,"text":["fortress"]}
+],
+"fortificare": [
+  {"id":6091,"text":["fortify"]},
+  {"id":13956,"text":["strengthen"]}
+],
+"fortificazione": [
+  {"id":6090,"text":["fortification"]},
+  {"id":13958,"text":["strengthening"]}
+],
+"fortuito": [
+  {"id":6799,"text":["haphazard"]}
+],
+"fortuna": [
+  {"id":6097,"text":["fortune"]},
+  {"id":8693,"text":["luck"]}
+],
+"fortunatamente": [
+  {"id":6096,"text":["fortunately"]},
+  {"id":8694,"text":["luckily"]},
+  {"id":14558,"text":["thankfully"]}
+],
+"fortunato": [
+  {"id":6095,"text":["fortunate"]},
+  {"id":8695,"text":["lucky"]}
+],
+"forza": [
+  {"id":6041,"text":["force"]},
+  {"id":9195,"text":["might"]},
+  {"id":13955,"text":["strength"]}
+],
+"forzare": [
+  {"id":6042,"text":["force"]}
+],
+"forzatamente": [
+  {"id":6043,"text":["forcedly"]}
+],
+"foschia": [
+  {"id":6853,"text":["haze"]},
+  {"id":9286,"text":["mist"]}
+],
+"fosfato": [
+  {"id":10812,"text":["phosphate"]}
+],
+"fosfina": [
+  {"id":10813,"text":["phosphine"]}
+],
+"fosforescenza": [
+  {"id":10814,"text":["phosphorescence"]}
+],
+"fosforilazione": [
+  {"id":10816,"text":["phosphorylation"]}
+],
+"fosforo": [
+  {"id":10815,"text":["phosphorus"]}
+],
+"fossa": [
+  {"id":10928,"text":["pit"]}
+],
+"fossile": [
+  {"id":6121,"text":["fossil"]}
+],
+"fossilizzazione": [
+  {"id":6122,"text":["fossilisation"]}
+],
+"fosso": [
+  {"id":4531,"text":["ditch"]}
+],
+"foto": [
+  {"id":10817,"text":["photo"]}
+],
+"fotochimico": [
+  {"id":10818,"text":["photochemical"]}
+],
+"fotocomposizione": [
+  {"id":10819,"text":["photocomposition"]}
+],
+"fotocopiare": [
+  {"id":10821,"text":["photocopy"]}
+],
+"fotocopiatrice": [
+  {"id":10820,"text":["photocopier"]},
+  {"id":10822,"text":["photocopy"]}
+],
+"fotodiodo": [
+  {"id":10823,"text":["photodiode"]}
+],
+"fotofermentazione": [
+  {"id":10825,"text":["photofermentation"]}
+],
+"fotografare": [
+  {"id":10827,"text":["photograph"]}
+],
+"fotografia": [
+  {"id":10828,"text":["photograph"]},
+  {"id":10831,"text":["photography"]},
+  {"id":10873,"text":["picture"]}
+],
+"fotografico": [
+  {"id":10830,"text":["photographic"]}
+],
+"fotografo": [
+  {"id":10829,"text":["photographer"]}
+],
+"fotogramma": [
+  {"id":5833,"text":["filmframe"]}
+],
+"fotogrammetria": [
+  {"id":10826,"text":["photogrammetry"]}
+],
+"fotoincisione": [
+  {"id":10824,"text":["photoengraving"]}
+],
+"fotolitografico": [
+  {"id":10832,"text":["photolithographic"]}
+],
+"fotometria": [
+  {"id":10835,"text":["photometry"]}
+],
+"fotometrico": [
+  {"id":10834,"text":["photometric"]}
+],
+"fotone": [
+  {"id":10836,"text":["photon"]}
+],
+"fotonico": [
+  {"id":10837,"text":["photonic"]}
+],
+"fotosensibile": [
+  {"id":8527,"text":["lightsensitive"]}
+],
+"fototipo": [
+  {"id":10838,"text":["phototype"]}
+],
+"fotovoltaico": [
+  {"id":10839,"text":["photovoltaic"]}
+],
+"fra": [
+  {"id":601,"text":["among"]},
+  {"id":603,"text":["amongst"]},
+  {"id":1619,"text":["between"]},
+  {"id":7445,"text":["in"]}
+],
+"fragile": [
+  {"id":1997,"text":["brittle"]},
+  {"id":6144,"text":["fragile"]}
+],
+"fragola": [
+  {"id":13950,"text":["strawberry"]}
+],
+"frammentazione": [
+  {"id":6146,"text":["fragmentation"]}
+],
+"frammento": [
+  {"id":6145,"text":["fragment"]}
+],
+"frana": [
+  {"id":8305,"text":["landslide"]}
+],
+"francamente": [
+  {"id":2198,"text":["candidly"]},
+  {"id":6155,"text":["frankly"]},
+  {"id":10276,"text":["outright"]}
+],
+"francese": [
+  {"id":6165,"text":["Frechman"]},
+  {"id":6185,"text":["French"]}
+],
+"francesismo": [
+  {"id":6295,"text":["gallicism"]}
+],
+"franchezza": [
+  {"id":6156,"text":["frankness"]}
+],
+"franchista": [
+  {"id":6153,"text":["francoist"]}
+],
+"Francia": [
+  {"id":6152,"text":["France"]}
+],
+"franco": [
+  {"id":6154,"text":["frank"]}
+],
+"francobollo": [
+  {"id":12879,"text":["seal"]},
+  {"id":13793,"text":["stamp"]}
+],
+"frangia": [
+  {"id":6206,"text":["fringe"]}
+],
+"frantoio": [
+  {"id":3655,"text":["crusher"]}
+],
+"frantumazione": [
+  {"id":3656,"text":["crushing"]}
+],
+"frase": [
+  {"id":10840,"text":["phrase"]},
+  {"id":13010,"text":["sentence"]}
+],
+"fraseologia": [
+  {"id":10841,"text":["phraseology"]}
+],
+"frate": [
+  {"id":6196,"text":["friar"]}
+],
+"fratellanza": [
+  {"id":2019,"text":["brotherhood"]},
+  {"id":6160,"text":["fraternity"]}
+],
+"fratellastro": [
+  {"id":13849,"text":["stepbrother"]}
+],
+"fratello": [
+  {"id":2018,"text":["brother"]}
+],
+"fratellomezzo": [
+  {"id":6753,"text":["halfbrother"]}
+],
+"fraterno": [
+  {"id":2020,"text":["brotherly"]},
+  {"id":6159,"text":["fraternal"]}
+],
+"fratricidio": [
+  {"id":6161,"text":["fratricide"]}
+],
+"frattempo": [
+  {"id":9010,"text":["meantime"]}
+],
+"frattura": [
+  {"id":6143,"text":["fracture"]}
+],
+"fraudolentemente": [
+  {"id":6164,"text":["fraudulently"]}
+],
+"fraudolento": [
+  {"id":6163,"text":["fraudulent"]}
+],
+"frazionare": [
+  {"id":6142,"text":["fractionate"]}
+],
+"frazione": [
+  {"id":6141,"text":["fraction"]}
+],
+"freatico": [
+  {"id":10842,"text":["phreatic"]}
+],
+"freccia": [
+  {"id":1007,"text":["arrow"]}
+],
+"freddamente": [
+  {"id":2875,"text":["coldly"]}
+],
+"freddo": [
+  {"id":2593,"text":["chill"]},
+  {"id":2872,"text":["cold"]}
+],
+"fregata": [
+  {"id":6181,"text":["freight"]},
+  {"id":6203,"text":["frigate"]}
+],
+"fregatura": [
+  {"id":2366,"text":["catch"]}
+],
+"frenare": [
+  {"id":1928,"text":["brake"]}
+],
+"freneticamente": [
+  {"id":6158,"text":["frantically"]},
+  {"id":6186,"text":["frenetically"]}
+],
+"frenetico": [
+  {"id":6157,"text":["frantic"]}
+],
+"freno": [
+  {"id":1929,"text":["brake"]}
+],
+"frequentare": [
+  {"id":1197,"text":["attend"]}
+],
+"frequentazione": [
+  {"id":1198,"text":["attendance"]}
+],
+"frequente": [
+  {"id":6188,"text":["frequent"]}
+],
+"frequentemente": [
+  {"id":6189,"text":["frequently"]}
+],
+"frequenza": [
+  {"id":6187,"text":["frequency"]}
+],
+"frequenzacardiaca": [
+  {"id":6885,"text":["heartrate"]}
+],
+"freschezza": [
+  {"id":6194,"text":["freshness"]}
+],
+"fresco": [
+  {"id":3414,"text":["cool"]},
+  {"id":6191,"text":["fresh"]}
+],
+"fretta": [
+  {"id":6838,"text":["haste"]},
+  {"id":7195,"text":["hurry"]}
+],
+"friabile": [
+  {"id":6195,"text":["friable"]}
+],
+"friggere": [
+  {"id":6228,"text":["fry"]}
+],
+"frigo": [
+  {"id":6198,"text":["fridge"]}
+],
+"frigorifero": [
+  {"id":6199,"text":["fridge"]}
+],
+"frivolo": [
+  {"id":6207,"text":["frivolous"]}
+],
+"frizione": [
+  {"id":2811,"text":["clutch"]}
+],
+"frode": [
+  {"id":6162,"text":["fraud"]}
+],
+"frontale": [
+  {"id":6214,"text":["frontal"]}
+],
+"fronte": [
+  {"id":6047,"text":["forehead"]},
+  {"id":6213,"text":["front"]}
+],
+"frontespizio": [
+  {"id":6216,"text":["frontispiece"]}
+],
+"frontiera": [
+  {"id":1864,"text":["border"]},
+  {"id":1897,"text":["boundary"]},
+  {"id":6215,"text":["frontier"]}
+],
+"fruizione": [
+  {"id":6224,"text":["fruition"]}
+],
+"frumento": [
+  {"id":15844,"text":["wheat"]}
+],
+"frusta": [
+  {"id":15862,"text":["whip"]}
+],
+"frustata": [
+  {"id":15863,"text":["whip"]}
+],
+"frustrare": [
+  {"id":6226,"text":["frustrate"]}
+],
+"frustrazione": [
+  {"id":6227,"text":["frustration"]}
+],
+"frutteto": [
+  {"id":10175,"text":["orchard"]}
+],
+"fruttifero": [
+  {"id":6222,"text":["fruitful"]}
+],
+"frutto": [
+  {"id":6219,"text":["fruit"]}
+],
+"fruttuoso": [
+  {"id":6223,"text":["fruitful"]}
+],
+"fucilazione": [
+  {"id":13181,"text":["shooting"]}
+],
+"fucile": [
+  {"id":12484,"text":["rifle"]}
+],
+"fucina": [
+  {"id":6056,"text":["forge"]}
+],
+"fuga": [
+  {"id":5252,"text":["escape"]}
+],
+"fuggire": [
+  {"id":5253,"text":["escape"]},
+  {"id":5935,"text":["flee"]}
+],
+"fuggitivo": [
+  {"id":6231,"text":["fugitive"]}
+],
+"fulcro": [
+  {"id":6232,"text":["fulcrum"]}
+],
+"fuliggine": [
+  {"id":13570,"text":["soot"]}
+],
+"fulminare": [
+  {"id":6241,"text":["fulminate"]}
+],
+"fulmine": [
+  {"id":8525,"text":["lightning"]},
+  {"id":11883,"text":["ray"]},
+  {"id":14718,"text":["thunderbolt"]}
+],
+"fumare": [
+  {"id":13460,"text":["smoke"]}
+],
+"fumatore": [
+  {"id":13462,"text":["smoker"]}
+],
+"fumigazione": [
+  {"id":6242,"text":["fumigation"]}
+],
+"fumo": [
+  {"id":13461,"text":["smoke"]}
+],
+"funerale": [
+  {"id":6257,"text":["funeral"]}
+],
+"fungibile": [
+  {"id":6258,"text":["fungible"]}
+],
+"fungo": [
+  {"id":6259,"text":["fungus"]},
+  {"id":9542,"text":["mushroom"]}
+],
+"funicolare": [
+  {"id":6260,"text":["funicular"]}
+],
+"funicolo": [
+  {"id":6261,"text":["funiculus"]}
+],
+"funivia": [
+  {"id":2127,"text":["cable car"]},
+  {"id":2129,"text":["cableway"]},
+  {"id":12572,"text":["ropeway"]}
+],
+"funzionale": [
+  {"id":6246,"text":["functional"]}
+],
+"funzionalismo": [
+  {"id":6247,"text":["functionalism"]}
+],
+"funzionamento": [
+  {"id":6248,"text":["functioning"]},
+  {"id":10126,"text":["operation"]}
+],
+"funzionante": [
+  {"id":6249,"text":["functioning"]}
+],
+"funzionare": [
+  {"id":6244,"text":["function"]},
+  {"id":12631,"text":["run"]}
+],
+"funzionario": [
+  {"id":2702,"text":["civilservant"]}
+],
+"funzione": [
+  {"id":6245,"text":["function"]},
+  {"id":12543,"text":["role"]}
+],
+"fuoco": [
+  {"id":5863,"text":["fire"]},
+  {"id":6001,"text":["focus"]}
+],
+"fuori": [
+  {"id":10043,"text":["off"]},
+  {"id":10260,"text":["out"]},
+  {"id":10278,"text":["outside"]}
+],
+"fuori luogo": [
+  {"id":10261,"text":["out of place"]}
+],
+"furbizia": [
+  {"id":13221,"text":["shrewdness"]},
+  {"id":13445,"text":["slyness"]}
+],
+"furgone": [
+  {"id":15064,"text":["truck"]},
+  {"id":15466,"text":["van"]}
+],
+"furia": [
+  {"id":6276,"text":["fury"]}
+],
+"furibondo": [
+  {"id":6265,"text":["furious"]}
+],
+"furiosamente": [
+  {"id":697,"text":["angrily"]},
+  {"id":6266,"text":["furiously"]}
+],
+"furioso": [
+  {"id":11826,"text":["raging"]}
+],
+"furto": [
+  {"id":12530,"text":["robbery"]},
+  {"id":14578,"text":["theft"]}
+],
+"fusibile": [
+  {"id":6280,"text":["fusible"]}
+],
+"fusione": [
+  {"id":6129,"text":["foundry"]},
+  {"id":6281,"text":["fusion"]},
+  {"id":9097,"text":["merger"]}
+],
+"fuso orario": [
+  {"id":14747,"text":["timezone"]}
+],
+"fusoliera": [
+  {"id":6279,"text":["fuselage"]}
+],
+"futile": [
+  {"id":6282,"text":["futile"]}
+],
+"futurismo": [
+  {"id":6284,"text":["futurism"]}
+],
+"futurista": [
+  {"id":6285,"text":["futurist"]},
+  {"id":6286,"text":["futuristic"]}
+],
+"futuro": [
+  {"id":6283,"text":["future"]}
+]
 }

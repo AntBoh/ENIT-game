@@ -1,1197 +1,1197 @@
 {
   "gadolinium": [
-    "gadolinio"
+    {"id": 6287,"text": ["gadolinio"]}
   ],
   "Gaelic": [
-    "gaelico"
+    {"id": 6288,"text": ["gaelico"]}
   ],
   "gain": [
-    "ottenere"
+    {"id": 6289,"text": ["ottenere"]}
   ],
   "galaxy": [
-    "galassia"
+    {"id": 6290,"text": ["galassia"]}
   ],
   "Galician": [
-    "galiziano"
+    {"id": 6291,"text": ["galiziano"]}
   ],
   "gallery": [
-    "galleria"
+    {"id": 6292,"text": ["galleria"]}
   ],
   "galliard": [
-    "gagliardo"
+    {"id": 6293,"text": ["gagliardo"]}
   ],
   "gallic": [
-    "gallico"
+    {"id": 6294,"text": ["gallico"]}
   ],
   "gallicism": [
-    "francesismo"
+    {"id": 6295,"text": ["francesismo"]}
   ],
   "gallium": [
-    "gallio"
+    {"id": 6296,"text": ["gallio"]}
   ],
   "gallon": [
-    "gallone"
+    {"id": 6297,"text": ["gallone"]}
   ],
   "gallop": [
-    "galoppare",
-    "galoppo"
+    {"id": 6298,"text": ["galoppare"]},
+    {"id": 6299,"text": ["galoppo"]}
   ],
   "galvanic": [
-    "galvanico"
+    {"id": 6300,"text": ["galvanico"]}
   ],
   "galvanisation": [
-    "galvanizzazione"
+    {"id": 6301,"text": ["galvanizzazione"]}
   ],
   "galvanization": [
-    "galvanizzazione"
+    {"id": 6302,"text": ["galvanizzazione"]}
   ],
   "galvanometer": [
-    "galvanometro"
+    {"id": 6303,"text": ["galvanometro"]}
   ],
   "gamble": [
-    "scommessa"
+    {"id": 6304,"text": ["scommessa"]}
   ],
   "gambling": [
-    "gioco d'azzardo"
+    {"id": 6305,"text": ["gioco d'azzardo"]}
   ],
   "game": [
-    "gioco"
+    {"id": 6306,"text": ["gioco"]}
   ],
   "gametophyte": [
-    "gametofito"
+    {"id": 6307,"text": ["gametofito"]}
   ],
   "gammaglobulin": [
-    "gammaglobuline"
+    {"id": 6308,"text": ["gammaglobuline"]}
   ],
   "gammagraphy": [
-    "gammagrafia"
+    {"id": 6309,"text": ["gammagrafia"]}
   ],
   "gang": [
-    "banda",
-    "gang"
+    {"id": 6310,"text": ["banda"]},
+    {"id": 6311,"text": ["gang"]}
   ],
   "ganglion": [
-    "ganglio"
+    {"id": 6312,"text": ["ganglio"]}
   ],
   "gangrene": [
-    "cancrena"
+    {"id": 6313,"text": ["cancrena"]}
   ],
   "gap": [
-    "buco",
-    "vuoto"
+    {"id": 6314,"text": ["buco"]},
+    {"id": 6315,"text": ["vuoto"]}
   ],
   "garage": [
-    "garage"
+    {"id": 6316,"text": ["garage"]}
   ],
   "garbage": [
-    "immondizia"
+    {"id": 6317,"text": ["immondizia"]}
   ],
   "garbled": [
-    "confuso"
+    {"id": 6318,"text": ["confuso"]}
   ],
   "garden": [
-    "giardino"
+    {"id": 6319,"text": ["giardino"]}
   ],
   "gardener": [
-    "giardiniere"
+    {"id": 6320,"text": ["giardiniere"]}
   ],
   "gardening": [
-    "giardinaggio"
+    {"id": 6321,"text": ["giardinaggio"]}
   ],
   "Garfield": [
-    "Garfield"
+    {"id": 6322,"text": ["Garfield"]}
   ],
   "garlic": [
-    "aglio"
+    {"id": 6323,"text": ["aglio"]}
   ],
   "garnish": [
-    "guarnire"
+    {"id": 6324,"text": ["guarnire"]}
   ],
   "garrison": [
-    "guarnigione"
+    {"id": 6325,"text": ["guarnigione"]}
   ],
   "gas": [
-    "gas"
+    {"id": 6326,"text": ["gas"]}
   ],
   "gasification": [
-    "gassificazione"
+    {"id": 6327,"text": ["gassificazione"]}
   ],
   "gasoline": [
-    "benzina"
+    {"id": 6328,"text": ["benzina"]}
   ],
   "gasometry": [
-    "gasometria"
+    {"id": 6329,"text": ["gasometria"]}
   ],
   "gassing": [
-    "gassazione"
+    {"id": 6330,"text": ["gassazione"]}
   ],
   "gastric": [
-    "gastrico"
+    {"id": 6331,"text": ["gastrico"]}
   ],
   "gastronomy": [
-    "gastronomia"
+    {"id": 6332,"text": ["gastronomia"]}
   ],
   "gastroscopy": [
-    "gastroscopia"
+    {"id": 6333,"text": ["gastroscopia"]}
   ],
   "gastrulation": [
-    "gastrulazione"
+    {"id": 6334,"text": ["gastrulazione"]}
   ],
   "gate": [
-    "paratoia"
+    {"id": 6335,"text": ["paratoia"]}
   ],
   "gateway": [
-    "porta"
+    {"id": 6336,"text": ["porta"]}
   ],
   "gather": [
-    "congregare",
-    "riunire"
+    {"id": 6337,"text": ["congregare"]},
+    {"id": 6338,"text": ["riunire"]}
   ],
   "gay": [
-    "gaio",
-    "gay"
+    {"id": 6339,"text": ["gaio"]},
+    {"id": 6340,"text": ["gay"]}
   ],
   "gazelle": [
-    "gazzella"
+    {"id": 6341,"text": ["gazzella"]}
   ],
   "gazette": [
-    "gazzetta"
+    {"id": 6342,"text": ["gazzetta"]}
   ],
   "gear": [
-    "equipaggiamento",
-    "ingranaggio",
-    "marcia"
+    {"id": 6343,"text": ["equipaggiamento"]},
+    {"id": 6344,"text": ["ingranaggio"]},
+    {"id": 6345,"text": ["marcia"]}
   ],
   "gelatin": [
-    "gelatina"
+    {"id": 6346,"text": ["gelatina"]}
   ],
   "gelatinous": [
-    "gelatinoso"
+    {"id": 6347,"text": ["gelatinoso"]}
   ],
   "gelling": [
-    "gelificazione"
+    {"id": 6348,"text": ["gelificazione"]}
   ],
   "gemination": [
-    "geminazione"
+    {"id": 6349,"text": ["geminazione"]}
   ],
   "gemmation": [
-    "gemmazione"
+    {"id": 6350,"text": ["gemmazione"]}
   ],
   "gemology": [
-    "gemmologia"
+    {"id": 6351,"text": ["gemmologia"]}
   ],
   "gender": [
-    "genere"
+    {"id": 6352,"text": ["genere"]}
   ],
   "gene": [
-    "gene"
+    {"id": 6353,"text": ["gene"]}
   ],
   "genealogical": [
-    "genealogico"
+    {"id": 6354,"text": ["genealogico"]}
   ],
   "genealogy": [
-    "genealogia"
+    {"id": 6355,"text": ["genealogia"]}
   ],
   "general": [
-    "generale"
+    {"id": 6356,"text": ["generale"]}
   ],
   "generalisation": [
-    "generalizzazione"
+    {"id": 6357,"text": ["generalizzazione"]}
   ],
   "generalise": [
-    "generalizzare"
+    {"id": 6358,"text": ["generalizzare"]}
   ],
   "generally": [
-    "generalmente"
+    {"id": 6359,"text": ["generalmente"]}
   ],
   "generate": [
-    "generare"
+    {"id": 6360,"text": ["generare"]}
   ],
   "generation": [
-    "generazione"
+    {"id": 6361,"text": ["generazione"]}
   ],
   "generational": [
-    "generazionale"
+    {"id": 6362,"text": ["generazionale"]}
   ],
   "generator": [
-    "generatore"
+    {"id": 6363,"text": ["generatore"]}
   ],
   "generic": [
-    "generico"
+    {"id": 6364,"text": ["generico"]}
   ],
   "generically": [
-    "genericamente"
+    {"id": 6365,"text": ["genericamente"]}
   ],
   "generous": [
-    "generoso"
+    {"id": 6366,"text": ["generoso"]}
   ],
   "generously": [
-    "generosamente"
+    {"id": 6367,"text": ["generosamente"]}
   ],
   "genetic": [
-    "genetico"
+    {"id": 6368,"text": ["genetico"]}
   ],
   "genetically": [
-    "geneticamente"
+    {"id": 6369,"text": ["geneticamente"]}
   ],
   "genial": [
-    "geniale"
+    {"id": 6370,"text": ["geniale"]}
   ],
   "genic": [
-    "genico"
+    {"id": 6371,"text": ["genico"]}
   ],
   "genie": [
-    "genio"
+    {"id": 6372,"text": ["genio"]}
   ],
   "genital": [
-    "genitale"
+    {"id": 6373,"text": ["genitale"]}
   ],
   "genitive": [
-    "genitivo"
+    {"id": 6374,"text": ["genitivo"]}
   ],
   "genius": [
-    "genio"
+    {"id": 6375,"text": ["genio"]}
   ],
   "Genoa": [
-    "Genova"
+    {"id": 6376,"text": ["Genova"]}
   ],
   "genocide": [
-    "genocidio"
+    {"id": 6377,"text": ["genocidio"]}
   ],
   "genome": [
-    "genoma"
+    {"id": 6378,"text": ["genoma"]}
   ],
   "genotype": [
-    "genotipo"
+    {"id": 6379,"text": ["genotipo"]}
   ],
   "genre": [
-    "genere"
+    {"id": 6380,"text": ["genere"]}
   ],
   "gentian": [
-    "genziana"
+    {"id": 6381,"text": ["genziana"]}
   ],
   "gentle": [
-    "gentile",
-    "soave"
+    {"id": 6382,"text": ["gentile"]},
+    {"id": 6383,"text": ["soave"]}
   ],
   "gentleman": [
-    "signore"
+    {"id": 6384,"text": ["signore"]}
   ],
   "genuine": [
-    "genuino"
+    {"id": 6385,"text": ["genuino"]}
   ],
   "genuinely": [
-    "sinceramente"
+    {"id": 6386,"text": ["sinceramente"]}
   ],
   "geochronology": [
-    "geocronologia"
+    {"id": 6387,"text": ["geocronologia"]}
   ],
   "geodesic": [
-    "geodetico"
+    {"id": 6388,"text": ["geodetico"]}
   ],
   "geodesy": [
-    "geodesia"
+    {"id": 6389,"text": ["geodesia"]}
   ],
   "geographic": [
-    "geografico"
+    {"id": 6390,"text": ["geografico"]}
   ],
   "geographical": [
-    "geografico"
+    {"id": 6391,"text": ["geografico"]}
   ],
   "geographically": [
-    "geograficamente"
+    {"id": 6392,"text": ["geograficamente"]}
   ],
   "geography": [
-    "geografia"
+    {"id": 6393,"text": ["geografia"]}
   ],
   "geoid": [
-    "geoide"
+    {"id": 6394,"text": ["geoide"]}
   ],
   "geological": [
-    "geologico"
+    {"id": 6395,"text": ["geologico"]}
   ],
   "geologically": [
-    "geologicamente"
+    {"id": 6396,"text": ["geologicamente"]}
   ],
   "geology": [
-    "geologia"
+    {"id": 6397,"text": ["geologia"]}
   ],
   "geomagnetic": [
-    "geomagnetico"
+    {"id": 6398,"text": ["geomagnetico"]}
   ],
   "geometrical": [
-    "geometrico"
+    {"id": 6399,"text": ["geometrico"]}
   ],
   "geometrically": [
-    "geometricamente"
+    {"id": 6400,"text": ["geometricamente"]}
   ],
   "geometry": [
-    "geometria"
+    {"id": 6401,"text": ["geometria"]}
   ],
   "geomorphic": [
-    "geomorfico"
+    {"id": 6402,"text": ["geomorfico"]}
   ],
   "geomorphological": [
-    "geomorfologico"
+    {"id": 6403,"text": ["geomorfologico"]}
   ],
   "geopolitical": [
-    "geopolitico"
+    {"id": 6404,"text": ["geopolitico"]}
   ],
   "geothermal": [
-    "geotermico"
+    {"id": 6405,"text": ["geotermico"]}
   ],
   "geranium": [
-    "geranio"
+    {"id": 6406,"text": ["geranio"]}
   ],
   "geriatrics": [
-    "geriatria"
+    {"id": 6407,"text": ["geriatria"]}
   ],
   "germ": [
-    "germe"
+    {"id": 6408,"text": ["germe"]}
   ],
   "german": [
-    "tedesco"
+    {"id": 6409,"text": ["tedesco"]}
   ],
   "germanic": [
-    "germanico"
+    {"id": 6410,"text": ["germanico"]}
   ],
   "germanisation": [
-    "germanizzazione"
+    {"id": 6411,"text": ["germanizzazione"]}
   ],
   "germanism": [
-    "germanesimo"
+    {"id": 6412,"text": ["germanesimo"]}
   ],
   "germanium": [
-    "germanio"
+    {"id": 6413,"text": ["germanio"]}
   ],
   "germanization": [
-    "germanizzazione"
+    {"id": 6414,"text": ["germanizzazione"]}
   ],
   "Germany": [
-    "Germania"
+    {"id": 6415,"text": ["Germania"]}
   ],
   "germinal": [
-    "germinale"
+    {"id": 6416,"text": ["germinale"]}
   ],
   "germinate": [
-    "germinare"
+    {"id": 6417,"text": ["germinare"]}
   ],
   "germination": [
-    "germinazione"
+    {"id": 6418,"text": ["germinazione"]}
   ],
   "gerontology": [
-    "gerontologia"
+    {"id": 6419,"text": ["gerontologia"]}
   ],
   "gerund": [
-    "gerundio"
+    {"id": 6420,"text": ["gerundio"]}
   ],
   "gestation": [
-    "gestazione"
+    {"id": 6421,"text": ["gestazione"]}
   ],
   "gestural": [
-    "gestuale"
+    {"id": 6422,"text": ["gestuale"]}
   ],
   "gesture": [
-    "gesto"
+    {"id": 6423,"text": ["gesto"]}
   ],
   "get": [
-    "avere",
-    "ottenere",
-    "raggiungere",
-    "ricevere"
+    {"id": 6424,"text": ["avere"]},
+    {"id": 6425,"text": ["ottenere"]},
+    {"id": 6426,"text": ["raggiungere"]},
+    {"id": 6427,"text": ["ricevere"]}
   ],
   "get better": [
-    "migliorare"
+    {"id": 6428,"text": ["migliorare"]}
   ],
   "get close": [
-    "avvicinarsi"
+    {"id": 6429,"text": ["avvicinarsi"]}
   ],
   "get dressed": [
-    "vestirsi"
+    {"id": 6430,"text": ["vestirsi"]}
   ],
   "get in": [
-    "entrare"
+    {"id": 6431,"text": ["entrare"]}
   ],
   "get married": [
-    "sposarsi"
+    {"id": 6432,"text": ["sposarsi"]}
   ],
   "get off": [
-    "scendere"
+    {"id": 6433,"text": ["scendere"]}
   ],
   "get on": [
-    "salire"
+    {"id": 6434,"text": ["salire"]}
   ],
   "get out": [
-    "uscire"
+    {"id": 6435,"text": ["uscire"]}
   ],
   "get sick": [
-    "ammalarsi"
+    {"id": 6436,"text": ["ammalarsi"]}
   ],
   "get up": [
-    "alzarsi"
+    {"id": 6437,"text": ["alzarsi"]}
   ],
   "get worse": [
-    "peggiorare"
+    {"id": 6438,"text": ["peggiorare"]}
   ],
   "getaway": [
-    "scappare"
+    {"id": 6439,"text": ["scappare"]}
   ],
   "geyser": [
-    "geyser"
+    {"id": 6440,"text": ["geyser"]}
   ],
   "ghetto": [
-    "ghetto"
+    {"id": 6441,"text": ["ghetto"]}
   ],
   "ghost": [
-    "fantasma",
-    "spettro"
+    {"id": 6442,"text": ["fantasma"]},
+    {"id": 6443,"text": ["spettro"]}
   ],
   "giant": [
-    "gigante"
+    {"id": 6444,"text": ["gigante"]}
   ],
   "Gibraltar": [
-    "Gibilterra"
+    {"id": 6445,"text": ["Gibilterra"]}
   ],
   "gibraltarian": [
-    "gibilterrino"
+    {"id": 6446,"text": ["gibilterrino"]}
   ],
   "giddiness": [
-    "vertigine"
+    {"id": 6447,"text": ["vertigine"]}
   ],
   "gift": [
-    "donare",
-    "dono",
-    "regalare",
-    "regalo"
+    {"id": 6448,"text": ["donare"]},
+    {"id": 6449,"text": ["dono"]},
+    {"id": 6450,"text": ["regalare"]},
+    {"id": 6451,"text": ["regalo"]}
   ],
   "gig": [
-    "calesse",
-    "spettacolo"
+    {"id": 6452,"text": ["calesse"]},
+    {"id": 6453,"text": ["spettacolo"]}
   ],
   "gigantic": [
-    "gigantesco"
+    {"id": 6454,"text": ["gigantesco"]}
   ],
   "gigantism": [
-    "gigantismo"
+    {"id": 6455,"text": ["gigantismo"]}
   ],
   "gild": [
-    "dorare"
+    {"id": 6456,"text": ["dorare"]}
   ],
   "gilding": [
-    "doratura"
+    {"id": 6457,"text": ["doratura"]}
   ],
   "ginger": [
-    "rosso",
-    "zenzero"
+    {"id": 6458,"text": ["rosso"]},
+    {"id": 6459,"text": ["zenzero"]}
   ],
   "gingival": [
-    "gengivale"
+    {"id": 6460,"text": ["gengivale"]}
   ],
   "giraffe": [
-    "giraffa"
+    {"id": 6461,"text": ["giraffa"]}
   ],
   "girl": [
-    "bambina",
-    "ragazza"
+    {"id": 6462,"text": ["bambina"]},
+    {"id": 6463,"text": ["ragazza"]}
   ],
   "girlfriend": [
-    "fidanzata",
-    "ragazza"
+    {"id": 6464,"text": ["fidanzata"]},
+    {"id": 6465,"text": ["ragazza"]}
   ],
   "give": [
-    "dare",
-    "regalare"
+    {"id": 6466,"text": ["dare"]},
+    {"id": 6467,"text": ["regalare"]}
   ],
   "give birth": [
-    "partorire"
+    {"id": 6468,"text": ["partorire"]}
   ],
   "giveback": [
-    "ridare"
+    {"id": 6469,"text": ["ridare"]}
   ],
   "giveup": [
-    "lasciare"
+    {"id": 6470,"text": ["lasciare"]}
   ],
   "gizzard": [
-    "ventriglio"
+    {"id": 6471,"text": ["ventriglio"]}
   ],
   "glacial": [
-    "glaciale"
+    {"id": 6472,"text": ["glaciale"]}
   ],
   "glaciation": [
-    "glaciazione"
+    {"id": 6473,"text": ["glaciazione"]}
   ],
   "glacier": [
-    "ghiacciaio"
+    {"id": 6474,"text": ["ghiacciaio"]}
   ],
   "glaciology": [
-    "glaciologia"
+    {"id": 6475,"text": ["glaciologia"]}
   ],
   "glad": [
-    "felice"
+    {"id": 6476,"text": ["felice"]}
   ],
   "gladden": [
-    "allietare"
+    {"id": 6477,"text": ["allietare"]}
   ],
   "glance": [
-    "guardare",
-    "occhiata",
-    "sguardo"
+    {"id": 6478,"text": ["guardare"]},
+    {"id": 6479,"text": ["occhiata"]},
+    {"id": 6480,"text": ["sguardo"]}
   ],
   "gland": [
-    "ghiandola"
+    {"id": 6481,"text": ["ghiandola"]}
   ],
   "glass": [
-    "bicchiere",
-    "vetro"
+    {"id": 6482,"text": ["bicchiere"]},
+    {"id": 6483,"text": ["vetro"]}
   ],
   "glasses": [
-    "occhiale"
+    {"id": 6484,"text": ["occhiale"]}
   ],
   "glassmaker": [
-    "vetraio"
+    {"id": 6485,"text": ["vetraio"]}
   ],
   "glassware": [
-    "cristalleria",
-    "vetreria"
+    {"id": 6486,"text": ["cristalleria"]},
+    {"id": 6487,"text": ["vetreria"]}
   ],
   "glassworks": [
-    "vetreria"
+    {"id": 6488,"text": ["vetreria"]}
   ],
   "glide": [
-    "planare",
-    "planata",
-    "scivolare"
+    {"id": 6489,"text": ["planare"]},
+    {"id": 6490,"text": ["planata"]},
+    {"id": 6491,"text": ["scivolare"]}
   ],
   "glider": [
-    "aliante"
+    {"id": 6492,"text": ["aliante"]}
   ],
   "glimpse": [
-    "intravedere"
+    {"id": 6493,"text": ["intravedere"]}
   ],
   "glitter": [
-    "luccichio"
+    {"id": 6494,"text": ["luccichio"]}
   ],
   "global": [
-    "globale"
+    {"id": 6495,"text": ["globale"]}
   ],
   "globalisation": [
-    "globalizzazione"
+    {"id": 6496,"text": ["globalizzazione"]}
   ],
   "globalization": [
-    "globalizzazione"
+    {"id": 6497,"text": ["globalizzazione"]}
   ],
   "globally": [
-    "globalmente"
+    {"id": 6498,"text": ["globalmente"]}
   ],
   "globe": [
-    "globo"
+    {"id": 6499,"text": ["globo"]}
   ],
   "globin": [
-    "globina"
+    {"id": 6500,"text": ["globina"]}
   ],
   "globular": [
-    "globulare"
+    {"id": 6501,"text": ["globulare"]}
   ],
   "glorification": [
-    "glorificazione"
+    {"id": 6502,"text": ["glorificazione"]}
   ],
   "glorify": [
-    "glorificare"
+    {"id": 6503,"text": ["glorificare"]}
   ],
   "glorious": [
-    "magnifico"
+    {"id": 6504,"text": ["magnifico"]}
   ],
   "gloriously": [
-    "gloriosamente"
+    {"id": 6505,"text": ["gloriosamente"]}
   ],
   "glory": [
-    "gloria"
+    {"id": 6506,"text": ["gloria"]}
   ],
   "gloss": [
-    "lucidare"
+    {"id": 6507,"text": ["lucidare"]}
   ],
   "glossary": [
-    "glossario"
+    {"id": 6508,"text": ["glossario"]}
   ],
   "glottochronology": [
-    "glottocronologia"
+    {"id": 6509,"text": ["glottocronologia"]}
   ],
   "glove": [
-    "guanto"
+    {"id": 6510,"text": ["guanto"]}
   ],
   "glow": [
-    "bagliore",
-    "brillare"
+    {"id": 6511,"text": ["bagliore"]},
+    {"id": 6512,"text": ["brillare"]}
   ],
   "glucose": [
-    "glucosio"
+    {"id": 6513,"text": ["glucosio"]}
   ],
   "glue": [
-    "colla",
-    "incollare"
+    {"id": 6514,"text": ["colla"]},
+    {"id": 6515,"text": ["incollare"]}
   ],
   "gluon": [
-    "gluone"
+    {"id": 6516,"text": ["gluone"]}
   ],
   "glutamine": [
-    "glutammina"
+    {"id": 6517,"text": ["glutammina"]}
   ],
   "gluten": [
-    "glutine"
+    {"id": 6518,"text": ["glutine"]}
   ],
   "glycine": [
-    "glicina"
+    {"id": 6519,"text": ["glicina"]}
   ],
   "glycoprotein": [
-    "glicoproteina"
+    {"id": 6520,"text": ["glicoproteina"]}
   ],
   "gnome": [
-    "gnomo"
+    {"id": 6521,"text": ["gnomo"]}
   ],
   "gnomon": [
-    "gnomone"
+    {"id": 6522,"text": ["gnomone"]}
   ],
   "go": [
-    "andare"
+    {"id": 6523,"text": ["andare"]}
   ],
   "go down": [
-    "scendere"
+    {"id": 6524,"text": ["scendere"]}
   ],
   "go on": [
-    "proseguire"
+    {"id": 6525,"text": ["proseguire"]}
   ],
   "goal": [
-    "goal",
-    "obiettivo"
+    {"id": 6526,"text": ["goal"]},
+    {"id": 6527,"text": ["obiettivo"]}
   ],
   "goat": [
-    "capra"
+    {"id": 6528,"text": ["capra"]}
   ],
   "goblin": [
-    "folletto"
+    {"id": 6529,"text": ["folletto"]}
   ],
   "God": [
-    "Dio"
+    {"id": 6530,"text": ["Dio"]}
   ],
   "godchild": [
-    "figlioccio"
+    {"id": 6531,"text": ["figlioccio"]}
   ],
   "goddaughter": [
-    "figlioccia"
+    {"id": 6532,"text": ["figlioccia"]}
   ],
   "goddess": [
-    "dea"
+    {"id": 6533,"text": ["dea"]}
   ],
   "godfather": [
-    "padrino"
+    {"id": 6534,"text": ["padrino"]}
   ],
   "godmother": [
-    "madrina"
+    {"id": 6535,"text": ["madrina"]}
   ],
   "godson": [
-    "figlioccio"
+    {"id": 6536,"text": ["figlioccio"]}
   ],
   "gold": [
-    "oro"
+    {"id": 6537,"text": ["oro"]}
   ],
   "golden": [
-    "aureo",
-    "dorato"
+    {"id": 6538,"text": ["aureo"]},
+    {"id": 6539,"text": ["dorato"]}
   ],
   "goldsmith": [
-    "orafo"
+    {"id": 6540,"text": ["orafo"]}
   ],
   "goldsmithing": [
-    "oreficeria"
+    {"id": 6541,"text": ["oreficeria"]}
   ],
   "gondola": [
-    "gondola"
+    {"id": 6542,"text": ["gondola"]}
   ],
   "gong": [
-    "gong"
+    {"id": 6543,"text": ["gong"]}
   ],
   "goniometer": [
-    "goniometro"
+    {"id": 6544,"text": ["goniometro"]}
   ],
   "good": [
-    "bene",
-    "buono",
-    "migliore"
+    {"id": 6545,"text": ["bene"]},
+    {"id": 6546,"text": ["buono"]},
+    {"id": 6547,"text": ["migliore"]}
   ],
   "good morning": [
-    "buongiorno"
+    {"id": 6548,"text": ["buongiorno"]}
   ],
   "good-looking": [
-    "bello"
+    {"id": 6549,"text": ["bello"]}
   ],
   "goodbye": [
-    "arrivederci"
+    {"id": 6550,"text": ["arrivederci"]}
   ],
   "goose": [
-    "oca"
+    {"id": 6551,"text": ["oca"]}
   ],
   "goosebumps": [
-    "pelle d'oca"
+    {"id": 6552,"text": ["pelle d'oca"]}
   ],
   "gorilla": [
-    "gorilla"
+    {"id": 6553,"text": ["gorilla"]}
   ],
   "goth": [
-    "goto"
+    {"id": 6554,"text": ["goto"]}
   ],
   "gothic": [
-    "gotico"
+    {"id": 6555,"text": ["gotico"]}
   ],
   "gouge": [
-    "sgorbia"
+    {"id": 6556,"text": ["sgorbia"]}
   ],
   "goup": [
-    "risalire"
+    {"id": 6557,"text": ["risalire"]}
   ],
   "govern": [
-    "governare"
+    {"id": 6558,"text": ["governare"]}
   ],
   "governess": [
-    "governante"
+    {"id": 6559,"text": ["governante"]}
   ],
   "government": [
-    "governo"
+    {"id": 6560,"text": ["governo"]}
   ],
   "governmental": [
-    "governativo"
+    {"id": 6561,"text": ["governativo"]}
   ],
   "governor": [
-    "governatore"
+    {"id": 6562,"text": ["governatore"]}
   ],
   "grace": [
-    "grazia"
+    {"id": 6563,"text": ["grazia"]}
   ],
   "gradation": [
-    "gradazione"
+    {"id": 6564,"text": ["gradazione"]}
   ],
   "grade": [
-    "grado",
-    "nota"
+    {"id": 6565,"text": ["grado"]},
+    {"id": 6566,"text": ["nota"]}
   ],
   "gradient": [
-    "gradiente"
+    {"id": 6567,"text": ["gradiente"]}
   ],
   "gradual": [
-    "graduale"
+    {"id": 6568,"text": ["graduale"]}
   ],
   "gradually": [
-    "gradualmente"
+    {"id": 6569,"text": ["gradualmente"]}
   ],
   "graduate": [
-    "laureare",
-    "laureato"
+    {"id": 6570,"text": ["laureare"]},
+    {"id": 6571,"text": ["laureato"]}
   ],
   "graft": [
-    "innestare",
-    "innesto"
+    {"id": 6572,"text": ["innestare"]},
+    {"id": 6573,"text": ["innesto"]}
   ],
   "grain": [
-    "grano"
+    {"id": 6574,"text": ["grano"]}
   ],
   "gram": [
-    "grammo"
+    {"id": 6575,"text": ["grammo"]}
   ],
   "grammage": [
-    "grammatura"
+    {"id": 6576,"text": ["grammatura"]}
   ],
   "grammar": [
-    "grammatica"
+    {"id": 6577,"text": ["grammatica"]}
   ],
   "grammarian": [
-    "grammatico"
+    {"id": 6578,"text": ["grammatico"]}
   ],
   "grammatical": [
-    "grammaticale"
+    {"id": 6579,"text": ["grammaticale"]}
   ],
   "grammaticalisation": [
-    "grammaticalizzazione"
+    {"id": 6580,"text": ["grammaticalizzazione"]}
   ],
   "gramme": [
-    "grammo"
+    {"id": 6581,"text": ["grammo"]}
   ],
   "gramophone": [
-    "grammofono"
+    {"id": 6582,"text": ["grammofono"]}
   ],
   "granary": [
-    "granaio"
+    {"id": 6583,"text": ["granaio"]}
   ],
   "grand": [
-    "grandioso"
+    {"id": 6584,"text": ["grandioso"]}
   ],
   "grand prix": [
-    "gran premio"
+    {"id": 6585,"text": ["gran premio"]}
   ],
   "grandchild": [
-    "nipote"
+    {"id": 6586,"text": ["nipote"]}
   ],
   "granddaughter": [
-    "nipote"
+    {"id": 6587,"text": ["nipote"]}
   ],
   "grandfather": [
-    "nonno"
+    {"id": 6588,"text": ["nonno"]}
   ],
   "grandmother": [
-    "nonna"
+    {"id": 6589,"text": ["nonna"]}
   ],
   "grandparent": [
-    "nonno"
+    {"id": 6590,"text": ["nonno"]}
   ],
   "grandson": [
-    "nipote"
+    {"id": 6591,"text": ["nipote"]}
   ],
   "grandstand": [
-    "tribuna"
+    {"id": 6592,"text": ["tribuna"]}
   ],
   "granite": [
-    "granito"
+    {"id": 6593,"text": ["granito"]}
   ],
   "grant": [
-    "concedere",
-    "esaudire",
-    "sovvenzione"
+    {"id": 6594,"text": ["concedere"]},
+    {"id": 6595,"text": ["esaudire"]},
+    {"id": 6596,"text": ["sovvenzione"]}
   ],
   "granular": [
-    "granulare"
+    {"id": 6597,"text": ["granulare"]}
   ],
   "granulation": [
-    "granulazione"
+    {"id": 6598,"text": ["granulazione"]}
   ],
   "granulometry": [
-    "granulometria"
+    {"id": 6599,"text": ["granulometria"]}
   ],
   "grape": [
-    "uva"
+    {"id": 6600,"text": ["uva"]}
   ],
   "grapefruit": [
-    "pompelmo"
+    {"id": 6601,"text": ["pompelmo"]}
   ],
   "graph": [
-    "grafico"
+    {"id": 6602,"text": ["grafico"]}
   ],
   "graphical": [
-    "grafico"
+    {"id": 6603,"text": ["grafico"]}
   ],
   "graphite": [
-    "grafite"
+    {"id": 6604,"text": ["grafite"]}
   ],
   "graphology": [
-    "grafologia"
+    {"id": 6605,"text": ["grafologia"]}
   ],
   "grasp": [
-    "afferrare"
+    {"id": 6606,"text": ["afferrare"]}
   ],
   "grass": [
-    "erba"
+    {"id": 6607,"text": ["erba"]}
   ],
   "grassland": [
-    "prateria"
+    {"id": 6608,"text": ["prateria"]}
   ],
   "grated": [
-    "grattugiato"
+    {"id": 6609,"text": ["grattugiato"]}
   ],
   "gratefully": [
-    "gratamente"
+    {"id": 6610,"text": ["gratamente"]}
   ],
   "grater": [
-    "grattugia"
+    {"id": 6611,"text": ["grattugia"]}
   ],
   "gratify": [
-    "gratificare"
+    {"id": 6612,"text": ["gratificare"]}
   ],
   "grave": [
-    "grave",
-    "tomba"
+    {"id": 6613,"text": ["grave"]},
+    {"id": 6614,"text": ["tomba"]}
   ],
   "gravel": [
-    "ghiaia"
+    {"id": 6615,"text": ["ghiaia"]}
   ],
   "gravely": [
-    "gravemente"
+    {"id": 6616,"text": ["gravemente"]}
   ],
   "gravestone": [
-    "lapide"
+    {"id": 6617,"text": ["lapide"]}
   ],
   "gravimetry": [
-    "gravimetria"
+    {"id": 6618,"text": ["gravimetria"]}
   ],
   "gravitation": [
-    "gravitazione"
+    {"id": 6619,"text": ["gravitazione"]}
   ],
   "gravitational": [
-    "gravitazionale"
+    {"id": 6620,"text": ["gravitazionale"]}
   ],
   "gravitationally": [
-    "gravitazionalmente"
+    {"id": 6621,"text": ["gravitazionalmente"]}
   ],
   "graze": [
-    "pascolare"
+    {"id": 6622,"text": ["pascolare"]}
   ],
   "grazier": [
-    "allevamento"
+    {"id": 6623,"text": ["allevamento"]}
   ],
   "grease": [
-    "brillantina",
-    "grasso",
-    "ungere"
+    {"id": 6624,"text": ["brillantina"]},
+    {"id": 6625,"text": ["grasso"]},
+    {"id": 6626,"text": ["ungere"]}
   ],
   "greasy": [
-    "grasso",
-    "unto"
+    {"id": 6627,"text": ["grasso"]},
+    {"id": 6628,"text": ["unto"]}
   ],
   "great": [
-    "grande",
-    "maggiore"
+    {"id": 6629,"text": ["grande"]},
+    {"id": 6630,"text": ["maggiore"]}
   ],
   "Great Britain": [
-    "Gran Bretagna"
+    {"id": 6631,"text": ["Gran Bretagna"]}
   ],
   "Great War": [
-    "Grande Guerra"
+    {"id": 6632,"text": ["Grande Guerra"]}
   ],
   "greater": [
-    "maggiore"
+    {"id": 6633,"text": ["maggiore"]}
   ],
   "greatly": [
-    "grandemente",
-    "molto"
+    {"id": 6634,"text": ["grandemente"]},
+    {"id": 6635,"text": ["molto"]}
   ],
   "greatness": [
-    "grandezza"
+    {"id": 6636,"text": ["grandezza"]}
   ],
   "Greece": [
-    "Grecia"
+    {"id": 6637,"text": ["Grecia"]}
   ],
   "greedily": [
-    "avidamente"
+    {"id": 6638,"text": ["avidamente"]}
   ],
   "greedy": [
-    "avido"
+    {"id": 6639,"text": ["avido"]}
   ],
   "Greek": [
-    "greco"
+    {"id": 6640,"text": ["greco"]}
   ],
   "green": [
-    "verde"
+    {"id": 6641,"text": ["verde"]}
   ],
   "greenhouse": [
-    "serra"
+    {"id": 6642,"text": ["serra"]}
   ],
   "Greenland": [
-    "Groenlandia"
+    {"id": 6643,"text": ["Groenlandia"]}
   ],
   "greet": [
-    "salutare"
+    {"id": 6644,"text": ["salutare"]}
   ],
   "greeting": [
-    "saluto"
+    {"id": 6645,"text": ["saluto"]}
   ],
   "grenadier": [
-    "granatiere"
+    {"id": 6646,"text": ["granatiere"]}
   ],
   "grey": [
-    "grigio"
+    {"id": 6647,"text": ["grigio"]}
   ],
   "greyhound": [
-    "levriero"
+    {"id": 6648,"text": ["levriero"]}
   ],
   "grid": [
-    "griglia"
+    {"id": 6649,"text": ["griglia"]}
   ],
   "grievance": [
-    "lamentela"
+    {"id": 6650,"text": ["lamentela"]}
   ],
   "griffin": [
-    "grifone"
+    {"id": 6651,"text": ["grifone"]}
   ],
   "grille": [
-    "griglia"
+    {"id": 6652,"text": ["griglia"]}
   ],
   "grim": [
-    "cupo",
-    "sinistro",
-    "triste"
+    {"id": 6653,"text": ["cupo"]},
+    {"id": 6654,"text": ["sinistro"]},
+    {"id": 6655,"text": ["triste"]}
   ],
   "grimace": [
-    "smorfia"
+    {"id": 6656,"text": ["smorfia"]}
   ],
   "grind": [
-    "macinare",
-    "triturare"
+    {"id": 6657,"text": ["macinare"]},
+    {"id": 6658,"text": ["triturare"]}
   ],
   "grinder": [
-    "mulinello"
+    {"id": 6659,"text": ["mulinello"]}
   ],
   "grip": [
-    "stretta",
-    "stringere"
+    {"id": 6660,"text": ["stretta"]},
+    {"id": 6661,"text": ["stringere"]}
   ],
   "grisaille": [
-    "grisaille"
+    {"id": 6662,"text": ["grisaille"]}
   ],
   "groan": [
-    "gemere"
+    {"id": 6663,"text": ["gemere"]}
   ],
   "groom": [
-    "fidanzato",
-    "spazzolare"
+    {"id": 6664,"text": ["fidanzato"]},
+    {"id": 6665,"text": ["spazzolare"]}
   ],
   "groove": [
-    "scanalatura"
+    {"id": 6666,"text": ["scanalatura"]}
   ],
   "gropingly": [
-    "a tentoni"
+    {"id": 6667,"text": ["a tentoni"]}
   ],
   "gross": [
-    "disgustoso",
-    "lordo"
+    {"id": 6668,"text": ["disgustoso"]},
+    {"id": 6669,"text": ["lordo"]}
   ],
   "grotto": [
-    "grotta"
+    {"id": 6670,"text": ["grotta"]}
   ],
   "ground": [
-    "punire",
-    "terra"
+    {"id": 6671,"text": ["punire"]},
+    {"id": 6672,"text": ["terra"]}
   ],
   "groundhog": [
-    "marmotta"
+    {"id": 6673,"text": ["marmotta"]}
   ],
   "groundless": [
-    "infondato"
+    {"id": 6674,"text": ["infondato"]}
   ],
   "group": [
-    "gruppo",
-    "insieme",
-    "raggruppare"
+    {"id": 6675,"text": ["gruppo"]},
+    {"id": 6676,"text": ["insieme"]},
+    {"id": 6677,"text": ["raggruppare"]}
   ],
   "grouping": [
-    "raggruppazione"
+    {"id": 6678,"text": ["raggruppazione"]}
   ],
   "grow": [
-    "coltivare",
-    "crescere"
+    {"id": 6679,"text": ["coltivare"]},
+    {"id": 6680,"text": ["crescere"]}
   ],
   "growth": [
-    "crescita"
+    {"id": 6681,"text": ["crescita"]}
   ],
   "grumpy": [
-    "scontroso"
+    {"id": 6682,"text": ["scontroso"]}
   ],
   "guanine": [
-    "guanina"
+    {"id": 6683,"text": ["guanina"]}
   ],
   "guarantee": [
-    "avallo",
-    "garantire"
+    {"id": 6684,"text": ["avallo"]},
+    {"id": 6685,"text": ["garantire"]}
   ],
   "guard": [
-    "guardia"
+    {"id": 6686,"text": ["guardia"]}
   ],
   "guerrilla": [
-    "guerriglia",
-    "guerrigliero"
+    {"id": 6687,"text": ["guerriglia"]},
+    {"id": 6688,"text": ["guerrigliero"]}
   ],
   "guess": [
-    "indovinare",
-    "supposizione"
+    {"id": 6689,"text": ["indovinare"]},
+    {"id": 6690,"text": ["supposizione"]}
   ],
   "guest": [
-    "ospite"
+    {"id": 6691,"text": ["ospite"]}
   ],
   "guesthouse": [
-    "pensione"
+    {"id": 6692,"text": ["pensione"]}
   ],
   "guffaw": [
-    "risata"
+    {"id": 6693,"text": ["risata"]}
   ],
   "guidance": [
-    "orientamento"
+    {"id": 6694,"text": ["orientamento"]}
   ],
   "guide": [
-    "guida",
-    "guidare"
+    {"id": 6695,"text": ["guida"]},
+    {"id": 6696,"text": ["guidare"]}
   ],
   "guideline": [
-    "direttrice"
+    {"id": 6697,"text": ["direttrice"]}
   ],
   "guild": [
-    "corporazione",
-    "gilda"
+    {"id": 6698,"text": ["corporazione"]},
+    {"id": 6699,"text": ["gilda"]}
   ],
   "guillotine": [
-    "ghigliottina"
+    {"id": 6700,"text": ["ghigliottina"]}
   ],
   "guilty": [
-    "colpevole"
+    {"id": 6701,"text": ["colpevole"]}
   ],
   "guitar": [
-    "chitarra"
+    {"id": 6702,"text": ["chitarra"]}
   ],
   "guitarist": [
-    "chitarrista"
+    {"id": 6703,"text": ["chitarrista"]}
   ],
   "gulf": [
-    "golfo"
+    {"id": 6704,"text": ["golfo"]}
   ],
   "gully": [
-    "burrone",
-    "gola",
-    "canale"
+    {"id": 6705,"text": ["burrone"]},
+    {"id": 6706,"text": ["gola"]},
+    {"id": 6707,"text": ["canale"]}
   ],
   "gum": [
-    "gengiva"
+    {"id": 6708,"text": ["gengiva"]}
   ],
   "gun": [
-    "pistola"
+    {"id": 6709,"text": ["pistola"]}
   ],
   "gunboat": [
-    "cannoniera"
+    {"id": 6710,"text": ["cannoniera"]}
   ],
   "gunpowder": [
-    "polveredasparo"
+    {"id": 6711,"text": ["polveredasparo"]}
   ],
   "guttural": [
-    "gutturale"
+    {"id": 6712,"text": ["gutturale"]}
   ],
   "guy": [
-    "tipo"
+    {"id": 6713,"text": ["tipo"]}
   ],
   "gym": [
-    "palestra"
+    {"id": 6714,"text": ["palestra"]}
   ],
   "gymnasium": [
-    "ginnasio",
-    "palestra"
+    {"id": 6715,"text": ["ginnasio"]},
+    {"id": 6716,"text": ["palestra"]}
   ],
   "gymnast": [
-    "ginnasta"
+    {"id": 6717,"text": ["ginnasta"]}
   ],
   "gymnastic": [
-    "ginnastico"
+    {"id": 6718,"text": ["ginnastico"]}
   ],
   "gymnastics": [
-    "ginnastica"
+    {"id": 6719,"text": ["ginnastica"]}
   ],
   "gynaecologist": [
-    "ginecologo"
+    {"id": 6720,"text": ["ginecologo"]}
   ],
   "gynaecology": [
-    "ginecologia"
+    {"id": 6721,"text": ["ginecologia"]}
   ],
   "gynecomastia": [
-    "ginecomastia"
+    {"id": 6722,"text": ["ginecomastia"]}
   ],
   "gypsum": [
-    "gesso"
+    {"id": 6723,"text": ["gesso"]}
   ],
   "gyroscope": [
-    "giroscopio"
+    {"id": 6724,"text": ["giroscopio"]}
   ],
   "gyroscopic": [
-    "giroscopico"
+    {"id": 6725,"text": ["giroscopico"]}
   ]
 }

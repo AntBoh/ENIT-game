@@ -1,1826 +1,1826 @@
 {
   "fabric": [
-    "tessuto"
+    {"id": 5581,"text": ["tessuto"]}
   ],
   "fabricate": [
-    "fabbricare"
+    {"id": 5582,"text": ["fabbricare"]}
   ],
   "fabulation": [
-    "affabulazione"
+    {"id": 5583,"text": ["affabulazione"]}
   ],
   "face": [
-    "affrontare",
-    "faccia",
-    "viso",
-    "volto"
+    {"id": 5584,"text": ["affrontare"]},
+    {"id": 5585,"text": ["faccia"]},
+    {"id": 5586,"text": ["viso"]},
+    {"id": 5587,"text": ["volto"]}
   ],
   "facet": [
-    "sfaccettatura"
+    {"id": 5588,"text": ["sfaccettatura"]}
   ],
   "facial": [
-    "facciale"
+    {"id": 5589,"text": ["facciale"]}
   ],
   "facile": [
-    "semplice"
+    {"id": 5590,"text": ["semplice"]}
   ],
   "facilitate": [
-    "facilitare"
+    {"id": 5591,"text": ["facilitare"]}
   ],
   "facilitation": [
-    "agevolazione",
-    "facilitazione"
+    {"id": 5592,"text": ["agevolazione"]},
+    {"id": 5593,"text": ["facilitazione"]}
   ],
   "facility": [
-    "impianto"
+    {"id": 5594,"text": ["impianto"]}
   ],
   "fact": [
-    "fatto"
+    {"id": 5595,"text": ["fatto"]}
   ],
   "faction": [
-    "fazione"
+    {"id": 5596,"text": ["fazione"]}
   ],
   "factor": [
-    "fattore",
-    "sostanza"
+    {"id": 5597,"text": ["fattore"]},
+    {"id": 5598,"text": ["sostanza"]}
   ],
   "factorial": [
-    "fattoriale"
+    {"id": 5599,"text": ["fattoriale"]}
   ],
   "factorisation": [
-    "fattorizzazione"
+    {"id": 5600,"text": ["fattorizzazione"]}
   ],
   "factory": [
-    "fabbrica"
+    {"id": 5601,"text": ["fabbrica"]}
   ],
   "faecal": [
-    "fecale"
+    {"id": 5602,"text": ["fecale"]}
   ],
   "faeces": [
-    "feci"
+    {"id": 5603,"text": ["feci"]}
   ],
   "fail": [
-    "fallire"
+    {"id": 5604,"text": ["fallire"]}
   ],
   "failure": [
-    "fallimento",
-    "fallo"
+    {"id": 5605,"text": ["fallimento"]},
+    {"id": 5606,"text": ["fallo"]}
   ],
   "fair": [
-    "chiaro",
-    "fiera",
-    "giusto"
+    {"id": 5607,"text": ["chiaro"]},
+    {"id": 5608,"text": ["fiera"]},
+    {"id": 5609,"text": ["giusto"]}
   ],
   "fairly": [
-    "abbastanza"
+    {"id": 5610,"text": ["abbastanza"]}
   ],
   "fairy": [
-    "fata"
+    {"id": 5611,"text": ["fata"]}
   ],
   "faith": [
-    "fede"
+    {"id": 5612,"text": ["fede"]}
   ],
   "faithful": [
-    "fedele"
+    {"id": 5613,"text": ["fedele"]}
   ],
   "faithfully": [
-    "fedelmente"
+    {"id": 5614,"text": ["fedelmente"]}
   ],
   "fake": [
-    "contraffazione",
-    "falsificare",
-    "falso",
-    "finto"
+    {"id": 5615,"text": ["contraffazione"]},
+    {"id": 5616,"text": ["falsificare"]},
+    {"id": 5617,"text": ["falso"]},
+    {"id": 5618,"text": ["finto"]}
   ],
   "falangist": [
-    "falangista"
+    {"id": 5619,"text": ["falangista"]}
   ],
   "falconry": [
-    "falconeria"
+    {"id": 5620,"text": ["falconeria"]}
   ],
   "fall": [
-    "autunno",
-    "cadere",
-    "caduta",
-    "cascare"
+    {"id": 5621,"text": ["autunno"]},
+    {"id": 5622,"text": ["cadere"]},
+    {"id": 5623,"text": ["caduta"]},
+    {"id": 5624,"text": ["cascare"]}
   ],
   "fallacy": [
-    "fallacia"
+    {"id": 5625,"text": ["fallacia"]}
   ],
   "fallible": [
-    "fallibile"
+    {"id": 5626,"text": ["fallibile"]}
   ],
   "false": [
-    "falso"
+    {"id": 5627,"text": ["falso"]}
   ],
   "falsely": [
-    "falsamente"
+    {"id": 5628,"text": ["falsamente"]}
   ],
   "falsify": [
-    "falsificare"
+    {"id": 5629,"text": ["falsificare"]}
   ],
   "fame": [
-    "fama"
+    {"id": 5630,"text": ["fama"]}
   ],
   "familiar": [
-    "familiare"
+    {"id": 5631,"text": ["familiare"]}
   ],
   "family": [
-    "famiglia",
-    "familiare"
+    {"id": 5632,"text": ["famiglia"]},
+    {"id": 5633,"text": ["familiare"]}
   ],
   "famine": [
-    "carestia"
+    {"id": 5634,"text": ["carestia"]}
   ],
   "famous": [
-    "celebre",
-    "famoso"
+    {"id": 5635,"text": ["celebre"]},
+    {"id": 5636,"text": ["famoso"]}
   ],
   "fan": [
-    "sventolare",
-    "ventaglio",
-    "ventilatore"
+    {"id": 5637,"text": ["sventolare"]},
+    {"id": 5638,"text": ["ventaglio"]},
+    {"id": 5639,"text": ["ventilatore"]}
   ],
   "fanatical": [
-    "fanatico"
+    {"id": 5640,"text": ["fanatico"]}
   ],
   "fanatically": [
-    "fanaticamente"
+    {"id": 5641,"text": ["fanaticamente"]}
   ],
   "fanaticism": [
-    "fanatismo"
+    {"id": 5642,"text": ["fanatismo"]}
   ],
   "fancy": [
-    "desiderare",
-    "fantasia",
-    "stravagante"
+    {"id": 5643,"text": ["desiderare"]},
+    {"id": 5644,"text": ["fantasia"]},
+    {"id": 5645,"text": ["stravagante"]}
   ],
   "fanfare": [
-    "fanfara"
+    {"id": 5646,"text": ["fanfara"]}
   ],
   "fang": [
-    "zanna"
+    {"id": 5647,"text": ["zanna"]}
   ],
   "fantastic": [
-    "fantastico"
+    {"id": 5648,"text": ["fantastico"]}
   ],
   "fantastically": [
-    "fantasticamente"
+    {"id": 5649,"text": ["fantasticamente"]}
   ],
   "fantasy": [
-    "fantasia"
+    {"id": 5650,"text": ["fantasia"]}
   ],
   "far": [
-    "lontano"
+    {"id": 5651,"text": ["lontano"]}
   ],
   "far-right": [
-    "ultradestra"
+    {"id": 5652,"text": ["ultradestra"]}
   ],
   "farce": [
-    "farsa"
+    {"id": 5653,"text": ["farsa"]}
   ],
   "farm": [
-    "coltivare",
-    "fattoria"
+    {"id": 5654,"text": ["coltivare"]},
+    {"id": 5655,"text": ["fattoria"]}
   ],
   "farmer": [
-    "contadino"
+    {"id": 5656,"text": ["contadino"]}
   ],
   "farming": [
-    "agricoltura"
+    {"id": 5657,"text": ["agricoltura"]}
   ],
   "farmyard": [
-    "aia"
+    {"id": 5658,"text": ["aia"]}
   ],
   "fart": [
-    "flatulenza"
+    {"id": 5659,"text": ["flatulenza"]}
   ],
   "fascinating": [
-    "affascinante"
+    {"id": 5660,"text": ["affascinante"]}
   ],
   "fascination": [
-    "fascino"
+    {"id": 5661,"text": ["fascino"]}
   ],
   "fascism": [
-    "fascismo"
+    {"id": 5662,"text": ["fascismo"]}
   ],
   "fascist": [
-    "fascista"
+    {"id": 5663,"text": ["fascista"]}
   ],
   "fashion": [
-    "moda"
+    {"id": 5664,"text": ["moda"]}
   ],
   "fast": [
-    "rapidamente",
-    "rapido",
-    "veloce"
+    {"id": 5665,"text": ["rapidamente"]},
+    {"id": 5666,"text": ["rapido"]},
+    {"id": 5667,"text": ["veloce"]}
   ],
   "fat": [
-    "grasso"
+    {"id": 5668,"text": ["grasso"]}
   ],
   "fatal": [
-    "fatale"
+    {"id": 5669,"text": ["fatale"]}
   ],
   "fatalism": [
-    "fatalismo"
+    {"id": 5670,"text": ["fatalismo"]}
   ],
   "fatalist": [
-    "fatalista"
+    {"id": 5671,"text": ["fatalista"]}
   ],
   "fatalistic": [
-    "fatalista"
+    {"id": 5672,"text": ["fatalista"]}
   ],
   "fate": [
-    "destino",
-    "fato"
+    {"id": 5673,"text": ["destino"]},
+    {"id": 5674,"text": ["fato"]}
   ],
   "fateful": [
-    "fatidico"
+    {"id": 5675,"text": ["fatidico"]}
   ],
   "father": [
-    "padre"
+    {"id": 5676,"text": ["padre"]}
   ],
   "fathomless": [
-    "insondabile"
+    {"id": 5677,"text": ["insondabile"]}
   ],
   "fatigue": [
-    "fatica"
+    {"id": 5678,"text": ["fatica"]}
   ],
   "fatten": [
-    "ingrassare"
+    {"id": 5679,"text": ["ingrassare"]}
   ],
   "faucet": [
-    "rubinetto"
+    {"id": 5680,"text": ["rubinetto"]}
   ],
   "fault": [
-    "colpa",
-    "mancanza"
+    {"id": 5681,"text": ["colpa"]},
+    {"id": 5682,"text": ["mancanza"]}
   ],
   "fauna": [
-    "fauna"
+    {"id": 5683,"text": ["fauna"]}
   ],
   "favor": [
-    "favore",
-    "favorire",
-    "privilegiare"
+    {"id": 5684,"text": ["favore"]},
+    {"id": 5685,"text": ["favorire"]},
+    {"id": 5686,"text": ["privilegiare"]}
   ],
   "favorably": [
-    "favorevolmente"
+    {"id": 5687,"text": ["favorevolmente"]}
   ],
   "favorite": [
-    "favorito",
-    "preferito"
+    {"id": 5688,"text": ["favorito"]},
+    {"id": 5689,"text": ["preferito"]}
   ],
   "favoritism": [
-    "favoritismo"
+    {"id": 5690,"text": ["favoritismo"]}
   ],
   "favour": [
-    "favore",
-    "favorire",
-    "privilegiare"
+    {"id": 5691,"text": ["favore"]},
+    {"id": 5692,"text": ["favorire"]},
+    {"id": 5693,"text": ["privilegiare"]}
   ],
   "favourably": [
-    "favorevolmente"
+    {"id": 5694,"text": ["favorevolmente"]}
   ],
   "favourite": [
-    "favorito",
-    "preferito"
+    {"id": 5695,"text": ["favorito"]},
+    {"id": 5696,"text": ["preferito"]}
   ],
   "favouritism": [
-    "favoritismo"
+    {"id": 5697,"text": ["favoritismo"]}
   ],
   "fawn": [
-    "cerbiatto"
+    {"id": 5698,"text": ["cerbiatto"]}
   ],
   "fear": [
-    "paura",
-    "temere"
+    {"id": 5699,"text": ["paura"]},
+    {"id": 5700,"text": ["temere"]}
   ],
   "fearless": [
-    "osato"
+    {"id": 5701,"text": ["osato"]}
   ],
   "fearsome": [
-    "temibile"
+    {"id": 5702,"text": ["temibile"]}
   ],
   "feasible": [
-    "fattibile"
+    {"id": 5703,"text": ["fattibile"]}
   ],
   "feather": [
-    "piuma"
+    {"id": 5704,"text": ["piuma"]}
   ],
   "feather duster": [
-    "piumino"
+    {"id": 5705,"text": ["piumino"]}
   ],
   "feature": [
-    "caratteristica",
-    "constare"
+    {"id": 5706,"text": ["caratteristica"]},
+    {"id": 5707,"text": ["constare"]}
   ],
   "February": [
-    "febbraio"
+    {"id": 5708,"text": ["febbraio"]}
   ],
   "federal": [
-    "federale"
+    {"id": 5709,"text": ["federale"]}
   ],
   "federalism": [
-    "federalismo"
+    {"id": 5710,"text": ["federalismo"]}
   ],
   "federalist": [
-    "federalista"
+    {"id": 5711,"text": ["federalista"]}
   ],
   "federalistic": [
-    "federalista"
+    {"id": 5712,"text": ["federalista"]}
   ],
   "federation": [
-    "federazione"
+    {"id": 5713,"text": ["federazione"]}
   ],
   "fee": [
-    "costo"
+    {"id": 5714,"text": ["costo"]}
   ],
   "feeble": [
-    "debole"
+    {"id": 5715,"text": ["debole"]}
   ],
   "feed": [
-    "alimentare",
-    "mangime",
-    "nutrire"
+    {"id": 5716,"text": ["alimentare"]},
+    {"id": 5717,"text": ["mangime"]},
+    {"id": 5718,"text": ["nutrire"]}
   ],
   "feedback": [
-    "retroazione"
+    {"id": 5719,"text": ["retroazione"]}
   ],
   "feeder": [
-    "alimentatore"
+    {"id": 5720,"text": ["alimentatore"]}
   ],
   "feel": [
-    "sentire"
+    {"id": 5721,"text": ["sentire"]}
   ],
   "feeling": [
-    "sentimento"
+    {"id": 5722,"text": ["sentimento"]}
   ],
   "felicitous": [
-    "adeguato"
+    {"id": 5723,"text": ["adeguato"]}
   ],
   "fellow": [
-    "amico",
-    "individuo"
+    {"id": 5724,"text": ["amico"]},
+    {"id": 5725,"text": ["individuo"]}
   ],
   "felt": [
-    "feltro"
+    {"id": 5726,"text": ["feltro"]}
   ],
   "female": [
-    "femmina",
-    "femminile"
+    {"id": 5727,"text": ["femmina"]},
+    {"id": 5728,"text": ["femminile"]}
   ],
   "feminine": [
-    "femminile"
+    {"id": 5729,"text": ["femminile"]}
   ],
   "feminism": [
-    "femminismo"
+    {"id": 5730,"text": ["femminismo"]}
   ],
   "feminist": [
-    "femminista"
+    {"id": 5731,"text": ["femminista"]}
   ],
   "femur": [
-    "femore"
+    {"id": 5732,"text": ["femore"]}
   ],
   "fence": [
-    "palizzata",
-    "recinto",
-    "recinzione"
+    {"id": 5733,"text": ["palizzata"]},
+    {"id": 5734,"text": ["recinto"]},
+    {"id": 5735,"text": ["recinzione"]}
   ],
   "fencing": [
-    "scherma"
+    {"id": 5736,"text": ["scherma"]}
   ],
   "fennel": [
-    "finocchio"
+    {"id": 5737,"text": ["finocchio"]}
   ],
   "ferment": [
-    "fermentare"
+    {"id": 5738,"text": ["fermentare"]}
   ],
   "fermentation": [
-    "fermentazione"
+    {"id": 5739,"text": ["fermentazione"]}
   ],
   "fermium": [
-    "fermio"
+    {"id": 5740,"text": ["fermio"]}
   ],
   "ferocious": [
-    "feroce"
+    {"id": 5741,"text": ["feroce"]}
   ],
   "ferociously": [
-    "ferocemente"
+    {"id": 5742,"text": ["ferocemente"]}
   ],
   "ferric": [
-    "ferrico"
+    {"id": 5743,"text": ["ferrico"]}
   ],
   "ferritin": [
-    "ferritina"
+    {"id": 5744,"text": ["ferritina"]}
   ],
   "ferromagnetism": [
-    "ferromagnetismo"
+    {"id": 5745,"text": ["ferromagnetismo"]}
   ],
   "ferry": [
-    "traghetto"
+    {"id": 5746,"text": ["traghetto"]}
   ],
   "fertile": [
-    "fecondo",
-    "fertile"
+    {"id": 5747,"text": ["fecondo"]},
+    {"id": 5748,"text": ["fertile"]}
   ],
   "fertilisation": [
-    "concimazione",
-    "fecondazione",
-    "fertilizzazione"
+    {"id": 5749,"text": ["concimazione"]},
+    {"id": 5750,"text": ["fecondazione"]},
+    {"id": 5751,"text": ["fertilizzazione"]}
   ],
   "fertiliser": [
-    "concime",
-    "fertilizzante"
+    {"id": 5752,"text": ["concime"]},
+    {"id": 5753,"text": ["fertilizzante"]}
   ],
-    "fertilizer": [
-    "concime",
-    "fertilizzante"
+  "fertilizer": [
+    {"id": 5754,"text": ["concime"]},
+    {"id": 5755,"text": ["fertilizzante"]}
   ],
   "fertilization": [
-    "concimazione",
-    "fecondazione",
-    "fertilizzazione"
+    {"id": 5756,"text": ["concimazione"]},
+    {"id": 5757,"text": ["fecondazione"]},
+    {"id": 5758,"text": ["fertilizzazione"]}
   ],
   "fervent": [
-    "fervente"
+    {"id": 5759,"text": ["fervente"]}
   ],
   "festival": [
-    "festival"
+    {"id": 5760,"text": ["festival"]}
   ],
   "festive": [
-    "festivo"
+    {"id": 5761,"text": ["festivo"]}
   ],
   "fetal": [
-    "fetale"
+    {"id": 5762,"text": ["fetale"]}
   ],
   "fetish": [
-    "feticcio"
+    {"id": 5763,"text": ["feticcio"]}
   ],
   "fetishism": [
-    "feticismo"
+    {"id": 5764,"text": ["feticismo"]}
   ],
   "fetishist": [
-    "feticista"
+    {"id": 5765,"text": ["feticista"]}
   ],
   "fetishistic": [
-    "feticista"
+    {"id": 5766,"text": ["feticista"]}
   ],
   "feudal": [
-    "feudale"
+    {"id": 5767,"text": ["feudale"]}
   ],
   "feudalism": [
-    "feudalesimo"
+    {"id": 5768,"text": ["feudalesimo"]}
   ],
   "fever": [
-    "febbre"
+    {"id": 5769,"text": ["febbre"]}
   ],
   "feverish": [
-    "febbrile"
+    {"id": 5770,"text": ["febbrile"]}
   ],
   "feverishly": [
-    "febbrilmente"
+    {"id": 5771,"text": ["febbrilmente"]}
   ],
   "few": [
-    "poco",
-    "pocos"
+    {"id": 5772,"text": ["poco"]},
+    {"id": 5773,"text": ["pocos"]}
   ],
   "fewer": [
-    "meno"
+    {"id": 5774,"text": ["meno"]}
   ],
   "fiasco": [
-    "fiasco"
+    {"id": 5775,"text": ["fiasco"]}
   ],
   "fiber": [
-    "fibra"
+    {"id": 5776,"text": ["fibra"]}
   ],
   "fibre": [
-    "fibra"
+    {"id": 5777,"text": ["fibra"]}
   ],
   "fibrillation": [
-    "fibrillazione"
+    {"id": 5778,"text": ["fibrillazione"]}
   ],
   "fibrin": [
-    "fibrina"
+    {"id": 5779,"text": ["fibrina"]}
   ],
   "fibula": [
-    "perone"
+    {"id": 5780,"text": ["perone"]}
   ],
   "fiction": [
-    "finzione"
+    {"id": 5781,"text": ["finzione"]}
   ],
   "fiefdom": [
-    "infeudazione"
+    {"id": 5782,"text": ["infeudazione"]}
   ],
   "field": [
-    "campo"
+    {"id": 5783,"text": ["campo"]}
   ],
   "fierce": [
-    "feroce"
+    {"id": 5784,"text": ["feroce"]}
   ],
   "fiercely": [
-    "ferocemente"
+    {"id": 5785,"text": ["ferocemente"]}
   ],
   "fifteen": [
-    "quindici"
+    {"id": 5786,"text": ["quindici"]}
   ],
   "fifteenth": [
-    "quindicesimo"
+    {"id": 5787,"text": ["quindicesimo"]}
   ],
   "fifteenthousand": [
-    "quindicimila"
+    {"id": 5788,"text": ["quindicimila"]}
   ],
   "fifth": [
-    "quinto"
+    {"id": 5789,"text": ["quinto"]}
   ],
   "fiftieth": [
-    "cinquantesimo"
+    {"id": 5790,"text": ["cinquantesimo"]}
   ],
   "fifty": [
-    "cinquanta"
+    {"id": 5791,"text": ["cinquanta"]}
   ],
   "fiftyeight": [
-    "cinquantotto"
+    {"id": 5792,"text": ["cinquantotto"]}
   ],
   "fiftyeightthousand": [
-    "cinquantottomila"
+    {"id": 5793,"text": ["cinquantottomila"]}
   ],
   "fiftyfive": [
-    "cinquantacinque"
+    {"id": 5794,"text": ["cinquantacinque"]}
   ],
   "fiftyfivethousand": [
-    "cinquantacinquemila"
+    {"id": 5795,"text": ["cinquantacinquemila"]}
   ],
   "fiftyfour": [
-    "cinquantaquattro"
+    {"id": 5796,"text": ["cinquantaquattro"]}
   ],
   "fiftyfourthousand": [
-    "cinquantaquattromila"
+    {"id": 5797,"text": ["cinquantaquattromila"]}
   ],
   "fiftynine": [
-    "cinquantanove"
+    {"id": 5798,"text": ["cinquantanove"]}
   ],
   "fiftyninethousand": [
-    "cinquantanovemila"
+    {"id": 5799,"text": ["cinquantanovemila"]}
   ],
   "fiftyone": [
-    "cinquantuno"
+    {"id": 5800,"text": ["cinquantuno"]}
   ],
   "fiftyonethousand": [
-    "cinquantunomila"
+    {"id": 5801,"text": ["cinquantunomila"]}
   ],
   "fiftyseven": [
-    "cinquantasette"
+    {"id": 5802,"text": ["cinquantasette"]}
   ],
   "fiftyseventhousand": [
-    "cinquantasettemila"
+    {"id": 5803,"text": ["cinquantasettemila"]}
   ],
   "fiftysix": [
-    "cinquantasei"
+    {"id": 5804,"text": ["cinquantasei"]}
   ],
   "fiftysixthousand": [
-    "cinquantaseimila"
+    {"id": 5805,"text": ["cinquantaseimila"]}
   ],
   "fiftythousand": [
-    "cinquantamila"
+    {"id": 5806,"text": ["cinquantamila"]}
   ],
   "fiftythreethousand": [
-    "cinquantatremila"
+    {"id": 5807,"text": ["cinquantatremila"]}
   ],
   "fiftytwo": [
-    "cinquantadue"
+    {"id": 5808,"text": ["cinquantadue"]}
   ],
   "fiftytwothousand": [
-    "cinquantaduemila"
+    {"id": 5809,"text": ["cinquantaduemila"]}
   ],
   "fig": [
-    "fico"
+    {"id": 5810,"text": ["fico"]}
   ],
   "fight": [
-    "combattere",
-    "combattimento",
-    "lotta",
-    "lottare"
+    {"id": 5811,"text": ["combattere"]},
+    {"id": 5812,"text": ["combattimento"]},
+    {"id": 5813,"text": ["lotta"]},
+    {"id": 5814,"text": ["lottare"]}
   ],
   "fighter": [
-    "caccia",
-    "combattente"
+    {"id": 5815,"text": ["caccia"]},
+    {"id": 5816,"text": ["combattente"]}
   ],
   "figurative": [
-    "figurativo"
+    {"id": 5817,"text": ["figurativo"]}
   ],
   "figure": [
-    "figura",
-    "rappresentare"
+    {"id": 5818,"text": ["figura"]},
+    {"id": 5819,"text": ["rappresentare"]}
   ],
   "filament": [
-    "filamento"
+    {"id": 5820,"text": ["filamento"]}
   ],
   "file": [
-    "archiviare",
-    "archivio",
-    "file",
-    "lima"
+    {"id": 5821,"text": ["archiviare"]},
+    {"id": 5822,"text": ["archivio"]},
+    {"id": 5823,"text": ["file"]},
+    {"id": 5824,"text": ["lima"]}
   ],
   "filial": [
-    "filiale"
+    {"id": 5825,"text": ["filiale"]}
   ],
   "filigree": [
-    "filigrana"
+    {"id": 5826,"text": ["filigrana"]}
   ],
   "fill": [
-    "colmare",
-    "riempire"
+    {"id": 5827,"text": ["colmare"]},
+    {"id": 5828,"text": ["riempire"]}
   ],
   "fillup": [
-    "riempire"
+    {"id": 5829,"text": ["riempire"]}
   ],
   "film": [
-    "film",
-    "filmare",
-    "pellicola"
+    {"id": 5830,"text": ["film"]},
+    {"id": 5831,"text": ["filmare"]},
+    {"id": 5832,"text": ["pellicola"]}
   ],
   "filmframe": [
-    "fotogramma"
+    {"id": 5833,"text": ["fotogramma"]}
   ],
   "filter": [
-    "filtrare",
-    "filtro"
+    {"id": 5834,"text": ["filtrare"]},
+    {"id": 5835,"text": ["filtro"]}
   ],
   "final": [
-    "finale"
+    {"id": 5836,"text": ["finale"]}
   ],
   "finalisation": [
-    "ultimazione"
+    {"id": 5837,"text": ["ultimazione"]}
   ],
   "finalism": [
-    "finalismo"
+    {"id": 5838,"text": ["finalismo"]}
   ],
   "finalist": [
-    "finalista"
+    {"id": 5839,"text": ["finalista"]}
   ],
   "finally": [
-    "finalmente",
-    "infine"
+    {"id": 5840,"text": ["finalmente"]},
+    {"id": 5841,"text": ["infine"]}
   ],
   "finance": [
-    "finanza",
-    "finanziare"
+    {"id": 5842,"text": ["finanza"]},
+    {"id": 5843,"text": ["finanziare"]}
   ],
   "financial": [
-    "finanziario"
+    {"id": 5844,"text": ["finanziario"]}
   ],
   "financially": [
-    "finanziariamente"
+    {"id": 5845,"text": ["finanziariamente"]}
   ],
   "find": [
-    "incontrare",
-    "trovare"
+    {"id": 5846,"text": ["incontrare"]},
+    {"id": 5847,"text": ["trovare"]}
   ],
   "finding": [
-    "constatazione"
+    {"id": 5848,"text": ["constatazione"]}
   ],
   "findout": [
-    "scoprire"
+    {"id": 5849,"text": ["scoprire"]}
   ],
   "fine": [
-    "bene",
-    "fino",
-    "multa",
-    "multare"
+    {"id": 5850,"text": ["bene"]},
+    {"id": 5851,"text": ["fino"]},
+    {"id": 5852,"text": ["multa"]},
+    {"id": 5853,"text": ["multare"]}
   ],
   "finger": [
-    "dito"
+    {"id": 5854,"text": ["dito"]}
   ],
   "finish": [
-    "arrivo",
-    "finire"
+    {"id": 5855,"text": ["arrivo"]},
+    {"id": 5856,"text": ["finire"]}
   ],
   "finishing": [
-    "rifinitura"
+    {"id": 5857,"text": ["rifinitura"]}
   ],
   "finite": [
-    "finito"
+    {"id": 5858,"text": ["finito"]}
   ],
   "Finland": [
-    "Finlandia"
+    {"id": 5859,"text": ["Finlandia"]}
   ],
   "finnish": [
-    "finlandese"
+    {"id": 5860,"text": ["finlandese"]}
   ],
   "fiord": [
-    "fiordo"
+    {"id": 5861,"text": ["fiordo"]}
   ],
   "fir": [
-    "abete"
+    {"id": 5862,"text": ["abete"]}
   ],
   "fire": [
-    "fuoco",
-    "incendio",
-    "licenziare",
-    "sparare"
+    {"id": 5863,"text": ["fuoco"]},
+    {"id": 5864,"text": ["incendio"]},
+    {"id": 5865,"text": ["licenziare"]},
+    {"id": 5866,"text": ["sparare"]}
   ],
   "fire extinguisher": [
-    "estintore"
+    {"id": 5867,"text": ["estintore"]}
   ],
   "firefighter": [
-    "pompiere"
+    {"id": 5868,"text": ["pompiere"]}
   ],
   "fireman": [
-    "pompiere"
+    {"id": 5869,"text": ["pompiere"]}
   ],
   "fireplace": [
-    "camino"
+    {"id": 5870,"text": ["camino"]}
   ],
   "firewood": [
-    "legna"
+    {"id": 5871,"text": ["legna"]}
   ],
   "firm": [
-    "ditta",
-    "fermo",
-    "impresa"
+    {"id": 5872,"text": ["ditta"]},
+    {"id": 5873,"text": ["fermo"]},
+    {"id": 5874,"text": ["impresa"]}
   ],
   "firmament": [
-    "firmamento"
+    {"id": 5875,"text": ["firmamento"]}
   ],
   "firmly": [
-    "fermamente",
-    "saldamente"
+    {"id": 5876,"text": ["fermamente"]},
+    {"id": 5877,"text": ["saldamente"]}
   ],
   "firmness": [
-    "fermezza"
+    {"id": 5878,"text": ["fermezza"]}
   ],
   "first": [
-    "prima",
-    "primo"
+    {"id": 5879,"text": ["prima"]},
+    {"id": 5880,"text": ["primo"]}
   ],
   "first and foremost": [
-    "innanzitutto"
+    {"id": 5881,"text": ["innanzitutto"]}
   ],
   "firstly": [
-    "innanzitutto",
-    "prima"
+    {"id": 5882,"text": ["innanzitutto"]},
+    {"id": 5883,"text": ["prima"]}
   ],
   "fiscal": [
-    "fiscale"
+    {"id": 5884,"text": ["fiscale"]}
   ],
   "fish": [
-    "pescare",
-    "pesce"
+    {"id": 5885,"text": ["pescare"]},
+    {"id": 5886,"text": ["pesce"]}
   ],
   "fisherman": [
-    "pescatore"
+    {"id": 5887,"text": ["pescatore"]}
   ],
   "fisherwoman": [
-    "pescatore"
+    {"id": 5888,"text": ["pescatore"]}
   ],
   "fishing": [
-    "pesca"
+    {"id": 5889,"text": ["pesca"]}
   ],
   "fishmonger": [
-    "pescivendolo"
+    {"id": 5890,"text": ["pescivendolo"]}
   ],
   "fishtank": [
-    "acquario"
+    {"id": 5891,"text": ["acquario"]}
   ],
   "fission": [
-    "fissione"
+    {"id": 5892,"text": ["fissione"]}
   ],
   "fist": [
-    "pugno"
+    {"id": 5893,"text": ["pugno"]}
   ],
   "fistula": [
-    "fistola"
+    {"id": 5894,"text": ["fistola"]}
   ],
   "fit": [
-    "adattare",
-    "atto"
+    {"id": 5895,"text": ["adattare"]},
+    {"id": 5896,"text": ["atto"]}
   ],
   "five": [
-    "cinque"
+    {"id": 5897,"text": ["cinque"]}
   ],
   "fivehundredand": [
-    "cinquecento"
+    {"id": 5898,"text": ["cinquecento"]}
   ],
   "fivehundredth": [
-    "cinquecentesimo"
+    {"id": 5899,"text": ["cinquecentesimo"]}
   ],
   "fivethousand": [
-    "cinquemila"
+    {"id": 5900,"text": ["cinquemila"]}
   ],
   "fix": [
-    "riparare"
+    {"id": 5901,"text": ["riparare"]}
   ],
   "fixation": [
-    "fissazione"
+    {"id": 5902,"text": ["fissazione"]}
   ],
   "flag": [
-    "bandiera",
-    "segnalare"
+    {"id": 5903,"text": ["bandiera"]},
+    {"id": 5904,"text": ["segnalare"]}
   ],
   "flageolet": [
-    "flagioletto"
+    {"id": 5905,"text": ["flagioletto"]}
   ],
   "flagrant": [
-    "flagrante"
+    {"id": 5906,"text": ["flagrante"]}
   ],
   "flail": [
-    "flagello"
+    {"id": 5907,"text": ["flagello"]}
   ],
   "flake": [
-    "fiocco",
-    "squama"
+    {"id": 5908,"text": ["fiocco"]},
+    {"id": 5909,"text": ["squama"]}
   ],
   "flame": [
-    "fiamma"
+    {"id": 5910,"text": ["fiamma"]}
   ],
   "flamenco": [
-    "flamenco"
+    {"id": 5911,"text": ["flamenco"]}
   ],
   "flamingo": [
-    "fenicottero"
+    {"id": 5912,"text": ["fenicottero"]}
   ],
   "flange": [
-    "flangia"
+    {"id": 5913,"text": ["flangia"]}
   ],
   "flank": [
-    "fianco"
+    {"id": 5914,"text": ["fianco"]}
   ],
   "flannel": [
-    "flanella"
+    {"id": 5915,"text": ["flanella"]}
   ],
   "flare": [
-    "bagliore",
-    "fiammata"
+    {"id": 5916,"text": ["bagliore"]},
+    {"id": 5917,"text": ["fiammata"]}
   ],
   "flash": [
-    "lampeggiare"
+    {"id": 5918,"text": ["lampeggiare"]}
   ],
   "flashing": [
-    "lampeggiante"
+    {"id": 5919,"text": ["lampeggiante"]}
   ],
   "flat": [
-    "pavimento",
-    "piatto"
+    {"id": 5920,"text": ["pavimento"]},
+    {"id": 5921,"text": ["piatto"]}
   ],
   "flatly": [
-    "completamente"
+    {"id": 5922,"text": ["completamente"]}
   ],
   "flatter": [
-    "lusingare"
+    {"id": 5923,"text": ["lusingare"]}
   ],
   "flatterer": [
-    "adulatore"
+    {"id": 5924,"text": ["adulatore"]}
   ],
   "flatulence": [
-    "flatulenza"
+    {"id": 5925,"text": ["flatulenza"]}
   ],
   "flautist": [
-    "flautista"
+    {"id": 5926,"text": ["flautista"]}
   ],
   "flavor": [
-    "gusto"
+    {"id": 5927,"text": ["gusto"]}
   ],
   "flavour": [
-    "gusto"
+    {"id": 5928,"text": ["gusto"]}
   ],
   "flaw": [
-    "difetto",
-    "imperfezione",
-    "pecca"
+    {"id": 5929,"text": ["difetto"]},
+    {"id": 5930,"text": ["imperfezione"]},
+    {"id": 5931,"text": ["pecca"]}
   ],
   "flawless": [
-    "impeccabile"
+    {"id": 5932,"text": ["impeccabile"]}
   ],
   "flawlessly": [
-    "impeccabilmente"
+    {"id": 5933,"text": ["impeccabilmente"]}
   ],
   "flea": [
-    "pulce"
+    {"id": 5934,"text": ["pulce"]}
   ],
   "flee": [
-    "fuggire"
+    {"id": 5935,"text": ["fuggire"]}
   ],
   "fleece": [
-    "vello"
+    {"id": 5936,"text": ["vello"]}
   ],
   "fleet": [
-    "flotta"
+    {"id": 5937,"text": ["flotta"]}
   ],
   "flemish": [
-    "fiammingo"
+    {"id": 5938,"text": ["fiammingo"]}
   ],
   "flesh": [
-    "carne"
+    {"id": 5939,"text": ["carne"]}
   ],
   "flexible": [
-    "flessibile"
+    {"id": 5940,"text": ["flessibile"]}
   ],
   "flicker": [
-    "lampeggiare"
+    {"id": 5941,"text": ["lampeggiare"]}
   ],
   "flickering": [
-    "intermittente",
-    "lampeggiante"
+    {"id": 5942,"text": ["intermittente"]},
+    {"id": 5943,"text": ["lampeggiante"]}
   ],
   "flier": [
-    "aviatore"
+    {"id": 5944,"text": ["aviatore"]}
   ],
   "flight": [
-    "volo"
+    {"id": 5945,"text": ["volo"]}
   ],
   "flint": [
-    "selce"
+    {"id": 5946,"text": ["selce"]}
   ],
   "flip": [
-    "capriola"
+    {"id": 5947,"text": ["capriola"]}
   ],
   "float": [
-    "fluttuare",
-    "galleggiante",
-    "galleggiare"
+    {"id": 5948,"text": ["fluttuare"]},
+    {"id": 5949,"text": ["galleggiante"]},
+    {"id": 5950,"text": ["galleggiare"]}
   ],
   "floating": [
-    "galleggiante"
+    {"id": 5951,"text": ["galleggiante"]}
   ],
   "flocculation": [
-    "flocculazione"
+    {"id": 5952,"text": ["flocculazione"]}
   ],
   "flocculus": [
-    "floculo"
+    {"id": 5953,"text": ["floculo"]}
   ],
   "flock": [
-    "gregge"
+    {"id": 5954,"text": ["gregge"]}
   ],
   "flood": [
-    "diluvio",
-    "inondare",
-    "inondazione"
+    {"id": 5955,"text": ["diluvio"]},
+    {"id": 5956,"text": ["inondare"]},
+    {"id": 5957,"text": ["inondazione"]}
   ],
   "floor": [
-    "pavimento",
-    "suolo"
+    {"id": 5958,"text": ["pavimento"]},
+    {"id": 5959,"text": ["suolo"]}
   ],
   "floppy": [
-    "flessibile"
+    {"id": 5960,"text": ["flessibile"]}
   ],
   "flora": [
-    "flora"
+    {"id": 5961,"text": ["flora"]}
   ],
   "floral": [
-    "floreale"
+    {"id": 5962,"text": ["floreale"]}
   ],
   "floriculture": [
-    "floricoltura"
+    {"id": 5963,"text": ["floricoltura"]}
   ],
   "florist": [
-    "fioreria",
-    "fiorista"
+    {"id": 5964,"text": ["fioreria"]},
+    {"id": 5965,"text": ["fiorista"]}
   ],
   "flotation": [
-    "flottazione"
+    {"id": 5966,"text": ["flottazione"]}
   ],
   "flotilla": [
-    "flottiglia"
+    {"id": 5967,"text": ["flottiglia"]}
   ],
   "flour": [
-    "farina"
+    {"id": 5968,"text": ["farina"]}
   ],
   "flourishing": [
-    "florido"
+    {"id": 5969,"text": ["florido"]}
   ],
   "flow": [
-    "fluire",
-    "flusso"
+    {"id": 5970,"text": ["fluire"]},
+    {"id": 5971,"text": ["flusso"]}
   ],
   "flower": [
-    "fiore",
-    "fiorire"
+    {"id": 5972,"text": ["fiore"]},
+    {"id": 5973,"text": ["fiorire"]}
   ],
   "flowerbed": [
-    "aiuola"
+    {"id": 5974,"text": ["aiuola"]}
   ],
   "flowering": [
-    "fioritura"
+    {"id": 5975,"text": ["fioritura"]}
   ],
   "flu": [
-    "influenza"
+    {"id": 5976,"text": ["influenza"]}
   ],
   "fluctuate": [
-    "fluttuare"
+    {"id": 5977,"text": ["fluttuare"]}
   ],
   "fluctuation": [
-    "fluttuazione"
+    {"id": 5978,"text": ["fluttuazione"]}
   ],
   "fluent": [
-    "fluido"
+    {"id": 5979,"text": ["fluido"]}
   ],
   "fluently": [
-    "fluentemente"
+    {"id": 5980,"text": ["fluentemente"]}
   ],
   "fluid": [
-    "fluido"
+    {"id": 5981,"text": ["fluido"]}
   ],
   "fluorescein": [
-    "fluoresceina"
+    {"id": 5982,"text": ["fluoresceina"]}
   ],
   "fluorescence": [
-    "fluorescenza"
+    {"id": 5983,"text": ["fluorescenza"]}
   ],
   "fluorescent": [
-    "fluorescente"
+    {"id": 5984,"text": ["fluorescente"]}
   ],
   "fluoridation": [
-    "fluorizzazione"
+    {"id": 5985,"text": ["fluorizzazione"]}
   ],
   "fluoride": [
-    "fluoruro"
+    {"id": 5986,"text": ["fluoruro"]}
   ],
   "fluorine": [
-    "fluoro"
+    {"id": 5987,"text": ["fluoro"]}
   ],
   "fluorite": [
-    "fluorite"
+    {"id": 5988,"text": ["fluorite"]}
   ],
   "flute": [
-    "flauto"
+    {"id": 5989,"text": ["flauto"]}
   ],
   "fluvial": [
-    "fluviale"
+    {"id": 5990,"text": ["fluviale"]}
   ],
   "fluvirus": [
-    "virusdell'influenza"
+    {"id": 5991,"text": ["virusdell'influenza"]}
   ],
   "fly": [
-    "mosca",
-    "volare"
+    {"id": 5992,"text": ["mosca"]},
+    {"id": 5993,"text": ["volare"]}
   ],
   "flyer": [
-    "aviatore"
+    {"id": 5994,"text": ["aviatore"]}
   ],
   "foal": [
-    "puledro"
+    {"id": 5995,"text": ["puledro"]}
   ],
   "foam": [
-    "schiuma",
-    "spuma",
-    "spumare"
+    {"id": 5996,"text": ["schiuma"]},
+    {"id": 5997,"text": ["spuma"]},
+    {"id": 5998,"text": ["spumare"]}
   ],
   "focal": [
-    "focale"
+    {"id": 5999,"text": ["focale"]}
   ],
   "focus": [
-    "centrare",
-    "fuoco"
+    {"id": 6000,"text": ["centrare"]},
+    {"id": 6001,"text": ["fuoco"]}
   ],
   "foetus": [
-    "feto"
+    {"id": 6002,"text": ["feto"]}
   ],
   "fog": [
-    "nebbia"
+    {"id": 6003,"text": ["nebbia"]}
   ],
   "foggy": [
-    "nebbioso"
+    {"id": 6004,"text": ["nebbioso"]}
   ],
   "foil": [
-    "lamina"
+    {"id": 6005,"text": ["lamina"]}
   ],
   "fold": [
-    "piega",
-    "piegare"
+    {"id": 6006,"text": ["piega"]},
+    {"id": 6007,"text": ["piegare"]}
   ],
   "folder": [
-    "cartella"
+    {"id": 6008,"text": ["cartella"]}
   ],
   "folding": [
-    "piegatura"
+    {"id": 6009,"text": ["piegatura"]}
   ],
   "foliage": [
-    "fogliame"
+    {"id": 6010,"text": ["fogliame"]}
   ],
   "follicular": [
-    "follicolare"
+    {"id": 6011,"text": ["follicolare"]}
   ],
   "follow": [
-    "seguire"
+    {"id": 6012,"text": ["seguire"]}
   ],
   "follower": [
-    "seguace"
+    {"id": 6013,"text": ["seguace"]}
   ],
   "following": [
-    "seguente"
+    {"id": 6014,"text": ["seguente"]}
   ],
   "folly": [
-    "follia",
-    "pazzia"
+    {"id": 6015,"text": ["follia"]},
+    {"id": 6016,"text": ["pazzia"]}
   ],
   "fond": [
-    "affettuoso",
-    "affezionato",
-    "appassionato"
+    {"id": 6017,"text": ["affettuoso"]},
+    {"id": 6018,"text": ["affezionato"]},
+    {"id": 6019,"text": ["appassionato"]}
   ],
   "fondly": [
-    "affettuosamente"
+    {"id": 6020,"text": ["affettuosamente"]}
   ],
   "fondue": [
-    "fonduta"
+    {"id": 6021,"text": ["fonduta"]}
   ],
   "font": [
-    "font",
-    "fonte"
+    {"id": 6022,"text": ["font"]},
+    {"id": 6023,"text": ["fonte"]}
   ],
   "food": [
-    "alimento",
-    "cibo"
+    {"id": 6024,"text": ["alimento"]},
+    {"id": 6025,"text": ["cibo"]}
   ],
   "foolish": [
-    "ingenuo",
-    "tonto"
+    {"id": 6026,"text": ["ingenuo"]},
+    {"id": 6027,"text": ["tonto"]}
   ],
   "foolishness": [
-    "sciocchezza"
+    {"id": 6028,"text": ["sciocchezza"]}
   ],
   "foot": [
-    "piede"
+    {"id": 6029,"text": ["piede"]}
   ],
   "football": [
-    "calcio"
+    {"id": 6030,"text": ["calcio"]}
   ],
   "footballer": [
-    "calciatore"
+    {"id": 6031,"text": ["calciatore"]}
   ],
   "foothold": [
-    "appiglio"
+    {"id": 6032,"text": ["appiglio"]}
   ],
   "footpath": [
-    "sentiero"
+    {"id": 6033,"text": ["sentiero"]}
   ],
   "footprint": [
-    "impronta",
-    "orma"
+    {"id": 6034,"text": ["impronta"]},
+    {"id": 6035,"text": ["orma"]}
   ],
   "for": [
-    "per"
+    {"id": 6036,"text": ["per"]}
   ],
   "for example": [
-    "per esempio"
+    {"id": 6037,"text": ["per esempio"]}
   ],
   "forage": [
-    "foraggio"
+    {"id": 6038,"text": ["foraggio"]}
   ],
   "forbid": [
-    "proibire"
+    {"id": 6039,"text": ["proibire"]}
   ],
   "forbidden": [
-    "proibito"
+    {"id": 6040,"text": ["proibito"]}
   ],
   "force": [
-    "forza",
-    "forzare"
+    {"id": 6041,"text": ["forza"]},
+    {"id": 6042,"text": ["forzare"]}
   ],
   "forcedly": [
-    "forzatamente"
+    {"id": 6043,"text": ["forzatamente"]}
   ],
   "forceful": [
-    "forte"
+    {"id": 6044,"text": ["forte"]}
   ],
   "forearm": [
-    "avambraccio"
+    {"id": 6045,"text": ["avambraccio"]}
   ],
   "forecast": [
-    "previsione"
+    {"id": 6046,"text": ["previsione"]}
   ],
   "forehead": [
-    "fronte"
+    {"id": 6047,"text": ["fronte"]}
   ],
   "foreign": [
-    "estero",
-    "straniero"
+    {"id": 6048,"text": ["estero"]},
+    {"id": 6049,"text": ["straniero"]}
   ],
   "foreigner": [
-    "straniero"
+    {"id": 6050,"text": ["straniero"]}
   ],
   "foresee": [
-    "prevedere"
+    {"id": 6051,"text": ["prevedere"]}
   ],
   "forest": [
-    "foresta"
+    {"id": 6052,"text": ["foresta"]}
   ],
   "forestry": [
-    "forestale"
+    {"id": 6053,"text": ["forestale"]}
   ],
   "forever": [
-    "per sempre"
+    {"id": 6054,"text": ["per sempre"]}
   ],
   "forge": [
-    "forgia",
-    "fucina"
+    {"id": 6055,"text": ["forgia"]},
+    {"id": 6056,"text": ["fucina"]}
   ],
   "forget": [
-    "dimenticare",
-    "scordare"
+    {"id": 6057,"text": ["dimenticare"]},
+    {"id": 6058,"text": ["scordare"]}
   ],
   "forging": [
-    "forgiatura"
+    {"id": 6059,"text": ["forgiatura"]}
   ],
   "forgive": [
-    "perdonare"
+    {"id": 6060,"text": ["perdonare"]}
   ],
   "fork": [
-    "biforcarsi",
-    "forchetta",
-    "inforcare"
+    {"id": 6061,"text": ["biforcarsi"]},
+    {"id": 6062,"text": ["forchetta"]},
+    {"id": 6063,"text": ["inforcare"]}
   ],
   "form": [
-    "forma",
-    "formare",
-    "metodo",
-    "modulo",
-    "veste"
+    {"id": 6064,"text": ["forma"]},
+    {"id": 6065,"text": ["formare"]},
+    {"id": 6066,"text": ["metodo"]},
+    {"id": 6067,"text": ["modulo"]},
+    {"id": 6068,"text": ["veste"]}
   ],
   "formal": [
-    "formale"
+    {"id": 6069,"text": ["formale"]}
   ],
   "formalisation": [
-    "formalizzazione"
+    {"id": 6070,"text": ["formalizzazione"]}
   ],
   "formalise": [
-    "formalizzare"
+    {"id": 6071,"text": ["formalizzare"]}
   ],
   "formally": [
-    "formalmente"
+    {"id": 6072,"text": ["formalmente"]}
   ],
   "format": [
-    "formato"
+    {"id": 6073,"text": ["formato"]}
   ],
   "formation": [
-    "educazione"
+    {"id": 6074,"text": ["educazione"]}
   ],
   "formative": [
-    "formativo"
+    {"id": 6075,"text": ["formativo"]}
   ],
   "former": [
-    "anteriore"
+    {"id": 6076,"text": ["anteriore"]}
   ],
   "formerly": [
-    "anteriormente"
+    {"id": 6077,"text": ["anteriormente"]}
   ],
   "formidable": [
-    "formidabile"
+    {"id": 6078,"text": ["formidabile"]}
   ],
   "forming": [
-    "conformazione"
+    {"id": 6079,"text": ["conformazione"]}
   ],
   "formula": [
-    "formula"
+    {"id": 6080,"text": ["formula"]}
   ],
   "formulate": [
-    "formulare"
+    {"id": 6081,"text": ["formulare"]}
   ],
   "formulation": [
-    "formulazione"
+    {"id": 6082,"text": ["formulazione"]}
   ],
   "formwork": [
-    "cassaforma"
+    {"id": 6083,"text": ["cassaforma"]}
   ],
   "forsake": [
-    "abbandonare"
+    {"id": 6084,"text": ["abbandonare"]}
   ],
   "forte": [
-    "forte"
+    {"id": 6085,"text": ["forte"]}
   ],
   "forth": [
-    "avanti"
+    {"id": 6086,"text": ["avanti"]}
   ],
   "forthcoming": [
-    "prossimo"
+    {"id": 6087,"text": ["prossimo"]}
   ],
   "forthwith": [
-    "immediatamente"
+    {"id": 6088,"text": ["immediatamente"]}
   ],
   "fortieth": [
-    "quarantesimo"
+    {"id": 6089,"text": ["quarantesimo"]}
   ],
   "fortification": [
-    "fortificazione"
+    {"id": 6090,"text": ["fortificazione"]}
   ],
   "fortify": [
-    "fortificare"
+    {"id": 6091,"text": ["fortificare"]}
   ],
   "fortnightly": [
-    "bimensile"
+    {"id": 6092,"text": ["bimensile"]}
   ],
   "fortress": [
-    "fortezza",
-    "potere"
+    {"id": 6093,"text": ["fortezza"]},
+    {"id": 6094,"text": ["potere"]}
   ],
   "fortunate": [
-    "fortunato"
+    {"id": 6095,"text": ["fortunato"]}
   ],
   "fortunately": [
-    "fortunatamente"
+    {"id": 6096,"text": ["fortunatamente"]}
   ],
   "fortune": [
-    "fortuna"
+    {"id": 6097,"text": ["fortuna"]}
   ],
   "fortuneteller": [
-    "indovino"
+    {"id": 6098,"text": ["indovino"]}
   ],
   "forty": [
-    "quaranta"
+    {"id": 6099,"text": ["quaranta"]}
   ],
   "fortyeight": [
-    "quarantotto"
+    {"id": 6100,"text": ["quarantotto"]}
   ],
   "fortyeightthousand": [
-    "quarantottomila"
+    {"id": 6101,"text": ["quarantottomila"]}
   ],
   "fortyfive": [
-    "quarantacinque"
+    {"id": 6102,"text": ["quarantacinque"]}
   ],
   "fortyfivethousand": [
-    "quarantacinquemila"
+    {"id": 6103,"text": ["quarantacinquemila"]}
   ],
   "fortyfour": [
-    "quarantaquattro"
+    {"id": 6104,"text": ["quarantaquattro"]}
   ],
   "fortyfourthousand": [
-    "quarantaquattromila"
+    {"id": 6105,"text": ["quarantaquattromila"]}
   ],
   "fortynine": [
-    "quarantanove"
+    {"id": 6106,"text": ["quarantanove"]}
   ],
   "fortyninethousand": [
-    "quarantanovemila"
+    {"id": 6107,"text": ["quarantanovemila"]}
   ],
   "fortyone": [
-    "quarantuno"
+    {"id": 6108,"text": ["quarantuno"]}
   ],
   "fortyonethousand": [
-    "quarantunomila"
+    {"id": 6109,"text": ["quarantunomila"]}
   ],
   "fortyseven": [
-    "quarantasette"
+    {"id": 6110,"text": ["quarantasette"]}
   ],
   "fortyseventhousand": [
-    "quarantasettemila"
+    {"id": 6111,"text": ["quarantasettemila"]}
   ],
   "fortysix": [
-    "quarantasei"
+    {"id": 6112,"text": ["quarantasei"]}
   ],
   "fortysixthousand": [
-    "quarantaseimila"
+    {"id": 6113,"text": ["quarantaseimila"]}
   ],
   "fortythousand": [
-    "quarantamila"
+    {"id": 6114,"text": ["quarantamila"]}
   ],
   "fortythreethousand": [
-    "quarantatremila"
+    {"id": 6115,"text": ["quarantatremila"]}
   ],
   "fortytwo": [
-    "quarantadue"
+    {"id": 6116,"text": ["quarantadue"]}
   ],
   "fortytwothousand": [
-    "quarantaduemila"
+    {"id": 6117,"text": ["quarantaduemila"]}
   ],
   "forum": [
-    "foro"
+    {"id": 6118,"text": ["foro"]}
   ],
   "forward": [
-    "avanti",
-    "inviare"
+    {"id": 6119,"text": ["avanti"]},
+    {"id": 6120,"text": ["inviare"]}
   ],
   "fossil": [
-    "fossile"
+    {"id": 6121,"text": ["fossile"]}
   ],
   "fossilisation": [
-    "fossilizzazione"
+    {"id": 6122,"text": ["fossilizzazione"]}
   ],
   "foster": [
-    "adottivo"
+    {"id": 6123,"text": ["adottivo"]}
   ],
   "foul": [
-    "fallo",
-    "ripugnante"
+    {"id": 6124,"text": ["fallo"]},
+    {"id": 6125,"text": ["ripugnante"]}
   ],
   "found": [
-    "fondare"
+    {"id": 6126,"text": ["fondare"]}
   ],
   "foundation": [
-    "fondazione"
+    {"id": 6127,"text": ["fondazione"]}
   ],
   "founder": [
-    "fondatore"
+    {"id": 6128,"text": ["fondatore"]}
   ],
   "foundry": [
-    "fusione"
+    {"id": 6129,"text": ["fusione"]}
   ],
   "fountain": [
-    "fonte"
+    {"id": 6130,"text": ["fonte"]}
   ],
   "four": [
-    "quattro"
+    {"id": 6131,"text": ["quattro"]}
   ],
   "four-leafclover": [
-    "quadrifoglio"
+    {"id": 6132,"text": ["quadrifoglio"]}
   ],
   "fourhundred": [
-    "quattrocento"
+    {"id": 6133,"text": ["quattrocento"]}
   ],
   "fourhundredth": [
-    "quattrocentesimo"
+    {"id": 6134,"text": ["quattrocentesimo"]}
   ],
   "fourteen": [
-    "quattordici"
+    {"id": 6135,"text": ["quattordici"]}
   ],
   "fourteenth": [
-    "quattordicesimo"
+    {"id": 6136,"text": ["quattordicesimo"]}
   ],
   "fourteenthousand": [
-    "quattordicimila"
+    {"id": 6137,"text": ["quattordicimila"]}
   ],
   "fourth": [
-    "quarto"
+    {"id": 6138,"text": ["quarto"]}
   ],
   "fourthousand": [
-    "quattromila"
+    {"id": 6139,"text": ["quattromila"]}
   ],
   "fox": [
-    "volpe"
+    {"id": 6140,"text": ["volpe"]}
   ],
   "fraction": [
-    "frazione"
+    {"id": 6141,"text": ["frazione"]}
   ],
   "fractionate": [
-    "frazionare"
+    {"id": 6142,"text": ["frazionare"]}
   ],
   "fracture": [
-    "frattura"
+    {"id": 6143,"text": ["frattura"]}
   ],
   "fragile": [
-    "fragile"
+    {"id": 6144,"text": ["fragile"]}
   ],
   "fragment": [
-    "frammento"
+    {"id": 6145,"text": ["frammento"]}
   ],
   "fragmentation": [
-    "frammentazione"
+    {"id": 6146,"text": ["frammentazione"]}
   ],
   "frame": [
-    "cornice",
-    "incastrare",
-    "incorniciare",
-    "struttura"
+    {"id": 6147,"text": ["cornice"]},
+    {"id": 6148,"text": ["incastrare"]},
+    {"id": 6149,"text": ["incorniciare"]},
+    {"id": 6150,"text": ["struttura"]}
   ],
   "framework": [
-    "struttura"
+    {"id": 6151,"text": ["struttura"]}
   ],
   "France": [
-    "Francia"
+    {"id": 6152,"text": ["Francia"]}
   ],
   "francoist": [
-    "franchista"
+    {"id": 6153,"text": ["franchista"]}
   ],
   "frank": [
-    "franco"
+    {"id": 6154,"text": ["franco"]}
   ],
   "frankly": [
-    "francamente"
+    {"id": 6155,"text": ["francamente"]}
   ],
   "frankness": [
-    "franchezza"
+    {"id": 6156,"text": ["franchezza"]}
   ],
   "frantic": [
-    "frenetico"
+    {"id": 6157,"text": ["frenetico"]}
   ],
   "frantically": [
-    "freneticamente"
+    {"id": 6158,"text": ["freneticamente"]}
   ],
   "fraternal": [
-    "fraterno"
+    {"id": 6159,"text": ["fraterno"]}
   ],
   "fraternity": [
-    "fratellanza"
+    {"id": 6160,"text": ["fratellanza"]}
   ],
   "fratricide": [
-    "fratricidio"
+    {"id": 6161,"text": ["fratricidio"]}
   ],
   "fraud": [
-    "frode"
+    {"id": 6162,"text": ["frode"]}
   ],
   "fraudulent": [
-    "fraudolento"
+    {"id": 6163,"text": ["fraudolento"]}
   ],
   "fraudulently": [
-    "fraudolentemente"
+    {"id": 6164,"text": ["fraudolentemente"]}
   ],
   "Frechman": [
-    "francese"
+    {"id": 6165,"text": ["francese"]}
   ],
   "freckle": [
-    "lentiggine"
+    {"id": 6166,"text": ["lentiggine"]}
   ],
   "free": [
-    "gratis",
-    "gratuito",
-    "liberare",
-    "libero"
+    {"id": 6167,"text": ["gratis"]},
+    {"id": 6168,"text": ["gratuito"]},
+    {"id": 6169,"text": ["liberare"]},
+    {"id": 6170,"text": ["libero"]}
   ],
   "free will": [
-    "libero arbitrio"
+    {"id": 6171,"text": ["libero arbitrio"]}
   ],
   "freely": [
-    "gratuitamente",
-    "liberamente"
+    {"id": 6172,"text": ["gratuitamente"]},
+    {"id": 6173,"text": ["liberamente"]}
   ],
   "freemasonry": [
-    "massoneria"
+    {"id": 6174,"text": ["massoneria"]}
   ],
   "freeze": [
-    "congelamento",
-    "congelare",
-    "gelare",
-    "gelo"
+    {"id": 6175,"text": ["congelamento"]},
+    {"id": 6176,"text": ["congelare"]},
+    {"id": 6177,"text": ["gelare"]},
+    {"id": 6178,"text": ["gelo"]}
   ],
   "freezing": [
-    "congelamento",
-    "gelido"
+    {"id": 6179,"text": ["congelamento"]},
+    {"id": 6180,"text": ["gelido"]}
   ],
   "freight": [
-    "fregata",
-    "nolo",
-    "merce",
-    "carico"
+    {"id": 6181,"text": ["fregata"]},
+    {"id": 6182,"text": ["nolo"]},
+    {"id": 6183,"text": ["merce"]},
+    {"id": 6184,"text": ["carico"]}
   ],
   "French": [
-    "francese"
+    {"id": 6185,"text": ["francese"]}
   ],
   "frenetically": [
-    "freneticamente"
+    {"id": 6186,"text": ["freneticamente"]}
   ],
   "frequency": [
-    "frequenza"
+    {"id": 6187,"text": ["frequenza"]}
   ],
   "frequent": [
-    "frequente"
+    {"id": 6188,"text": ["frequente"]}
   ],
   "frequently": [
-    "frequentemente"
+    {"id": 6189,"text": ["frequentemente"]}
   ],
   "fresco": [
-    "affresco"
+    {"id": 6190,"text": ["affresco"]}
   ],
   "fresh": [
-    "fresco"
+    {"id": 6191,"text": ["fresco"]}
   ],
   "freshen": [
-    "rinfrescare"
+    {"id": 6192,"text": ["rinfrescare"]}
   ],
   "freshly": [
-    "recentemente"
+    {"id": 6193,"text": ["recentemente"]}
   ],
   "freshness": [
-    "freschezza"
+    {"id": 6194,"text": ["freschezza"]}
   ],
   "friable": [
-    "friabile"
+    {"id": 6195,"text": ["friabile"]}
   ],
   "friar": [
-    "frate"
+    {"id": 6196,"text": ["frate"]}
   ],
   "friction": [
-    "attrito"
+    {"id": 6197,"text": ["attrito"]}
   ],
   "fridge": [
-    "frigo",
-    "frigorifero"
+    {"id": 6198,"text": ["frigo"]},
+    {"id": 6199,"text": ["frigorifero"]}
   ],
   "friend": [
-    "amico"
+    {"id": 6200,"text": ["amico"]}
   ],
   "friendly": [
-    "amichevole"
+    {"id": 6201,"text": ["amichevole"]}
   ],
   "friendship": [
-    "amicizia"
+    {"id": 6202,"text": ["amicizia"]}
   ],
   "frigate": [
-    "fregata"
+    {"id": 6203,"text": ["fregata"]}
   ],
   "frighten": [
-    "impaurire",
-    "spaventare"
+    {"id": 6204,"text": ["impaurire"]},
+    {"id": 6205,"text": ["spaventare"]}
   ],
   "fringe": [
-    "frangia"
+    {"id": 6206,"text": ["frangia"]}
   ],
   "frivolous": [
-    "frivolo"
+    {"id": 6207,"text": ["frivolo"]}
   ],
   "frog": [
-    "rana"
+    {"id": 6208,"text": ["rana"]}
   ],
   "from": [
-    "da",
-    "di"
+    {"id": 6209,"text": ["da"]},
+    {"id": 6210,"text": ["di"]}
   ],
   "from now on": [
-    "d'ora in avanti"
+    {"id": 6211,"text": ["d'ora in avanti"]}
   ],
   "fromtimetotime": [
-    "ditantoinquando"
+    {"id": 6212,"text": ["ditantoinquando"]}
   ],
   "front": [
-    "fronte"
+    {"id": 6213,"text": ["fronte"]}
   ],
   "frontal": [
-    "frontale"
+    {"id": 6214,"text": ["frontale"]}
   ],
   "frontier": [
-    "frontiera"
+    {"id": 6215,"text": ["frontiera"]}
   ],
   "frontispiece": [
-    "frontespizio"
+    {"id": 6216,"text": ["frontespizio"]}
   ],
   "frostbite": [
-    "assideramento"
+    {"id": 6217,"text": ["assideramento"]}
   ],
   "frostbitten": [
-    "assiderato"
+    {"id": 6218,"text": ["assiderato"]}
   ],
   "fruit": [
-    "frutto"
+    {"id": 6219,"text": ["frutto"]}
   ],
   "fruitful": [
-    "fecondo",
-    "fertile",
-    "fruttifero",
-    "fruttuoso"
+    {"id": 6220,"text": ["fecondo"]},
+    {"id": 6221,"text": ["fertile"]},
+    {"id": 6222,"text": ["fruttifero"]},
+    {"id": 6223,"text": ["fruttuoso"]}
   ],
   "fruition": [
-    "fruizione"
+    {"id": 6224,"text": ["fruizione"]}
   ],
   "fruitless": [
-    "infruttuoso"
+    {"id": 6225,"text": ["infruttuoso"]}
   ],
   "frustrate": [
-    "frustrare"
+    {"id": 6226,"text": ["frustrare"]}
   ],
   "frustration": [
-    "frustrazione"
+    {"id": 6227,"text": ["frustrazione"]}
   ],
   "fry": [
-    "friggere",
-    "patatina"
+    {"id": 6228,"text": ["friggere"]},
+    {"id": 6229,"text": ["patatina"]}
   ],
   "fuel": [
-    "combustibile"
+    {"id": 6230,"text": ["combustibile"]}
   ],
   "fugitive": [
-    "fuggitivo"
+    {"id": 6231,"text": ["fuggitivo"]}
   ],
   "fulcrum": [
-    "fulcro"
+    {"id": 6232,"text": ["fulcro"]}
   ],
   "fulfil": [
-    "adempiere",
-    "compiere",
-    "esaudire"
+    {"id": 6233,"text": ["adempiere"]},
+    {"id": 6234,"text": ["compiere"]},
+    {"id": 6235,"text": ["esaudire"]}
   ],
   "fulfill": [
-    "esaudire"
+    {"id": 6236,"text": ["esaudire"]}
   ],
   "fulfillment": [
-    "compimento"
+    {"id": 6237,"text": ["compimento"]}
   ],
   "full": [
-    "pieno"
+    {"id": 6238,"text": ["pieno"]}
   ],
   "fullblast": [
-    "rapidamente"
+    {"id": 6239,"text": ["rapidamente"]}
   ],
   "fully": [
-    "pienamente"
+    {"id": 6240,"text": ["pienamente"]}
   ],
   "fulminate": [
-    "fulminare"
+    {"id": 6241,"text": ["fulminare"]}
   ],
   "fumigation": [
-    "fumigazione"
+    {"id": 6242,"text": ["fumigazione"]}
   ],
   "fun": [
-    "divertimento"
+    {"id": 6243,"text": ["divertimento"]}
   ],
   "function": [
-    "funzionare",
-    "funzione"
+    {"id": 6244,"text": ["funzionare"]},
+    {"id": 6245,"text": ["funzione"]}
   ],
   "functional": [
-    "funzionale"
+    {"id": 6246,"text": ["funzionale"]}
   ],
   "functionalism": [
-    "funzionalismo"
+    {"id": 6247,"text": ["funzionalismo"]}
   ],
   "functioning": [
-    "funzionamento",
-    "funzionante"
+    {"id": 6248,"text": ["funzionamento"]},
+    {"id": 6249,"text": ["funzionante"]}
   ],
   "fund": [
-    "finanziare",
-    "fondo"
+    {"id": 6250,"text": ["finanziare"]},
+    {"id": 6251,"text": ["fondo"]}
   ],
   "fundamental": [
-    "fondamentale"
+    {"id": 6252,"text": ["fondamentale"]}
   ],
   "fundamentalism": [
-    "fondamentalismo"
+    {"id": 6253,"text": ["fondamentalismo"]}
   ],
   "fundamentalist": [
-    "fondamentalista"
+    {"id": 6254,"text": ["fondamentalista"]}
   ],
   "fundamentally": [
-    "fondamentalmente"
+    {"id": 6255,"text": ["fondamentalmente"]}
   ],
   "funding": [
-    "finanziamento"
+    {"id": 6256,"text": ["finanziamento"]}
   ],
   "funeral": [
-    "funerale"
+    {"id": 6257,"text": ["funerale"]}
   ],
   "fungible": [
-    "fungibile"
+    {"id": 6258,"text": ["fungibile"]}
   ],
   "fungus": [
-    "fungo"
+    {"id": 6259,"text": ["fungo"]}
   ],
   "funicular": [
-    "funicolare"
+    {"id": 6260,"text": ["funicolare"]}
   ],
   "funiculus": [
-    "funicolo"
+    {"id": 6261,"text": ["funicolo"]}
   ],
   "funnel": [
-    "imbuto"
+    {"id": 6262,"text": ["imbuto"]}
   ],
   "funny": [
-    "buffo"
+    {"id": 6263,"text": ["buffo"]}
   ],
   "fur": [
-    "pelo"
+    {"id": 6264,"text": ["pelo"]}
   ],
   "furious": [
-    "furibondo"
+    {"id": 6265,"text": ["furibondo"]}
   ],
   "furiously": [
-    "furiosamente"
+    {"id": 6266,"text": ["furiosamente"]}
   ],
   "furnish": [
-    "arredare"
+    {"id": 6267,"text": ["arredare"]}
   ],
   "furniture": [
-    "arredamento",
-    "arredo",
-    "mobilio"
+    {"id": 6268,"text": ["arredamento"]},
+    {"id": 6269,"text": ["arredo"]},
+    {"id": 6270,"text": ["mobilio"]}
   ],
   "furrier": [
-    "pellicceria",
-    "pellicciaio"
+    {"id": 6271,"text": ["pellicceria"]},
+    {"id": 6272,"text": ["pellicciaio"]}
   ],
   "furrow": [
-    "solco"
+    {"id": 6273,"text": ["solco"]}
   ],
   "furthermore": [
-    "oltretutto",
-    "inoltre"
+    {"id": 6274,"text": ["oltretutto"]},
+    {"id": 6275,"text": ["inoltre"]}
   ],
   "fury": [
-    "furia"
+    {"id": 6276,"text": ["furia"]}
   ],
   "fuse": [
-    "fondere",
-    "stoppino"
+    {"id": 6277,"text": ["fondere"]},
+    {"id": 6278,"text": ["stoppino"]}
   ],
   "fuselage": [
-    "fusoliera"
+    {"id": 6279,"text": ["fusoliera"]}
   ],
   "fusible": [
-    "fusibile"
+    {"id": 6280,"text": ["fusibile"]}
   ],
   "fusion": [
-    "fusione"
+    {"id": 6281,"text": ["fusione"]}
   ],
   "futile": [
-    "futile"
+    {"id": 6282,"text": ["futile"]}
   ],
   "future": [
-    "futuro"
+    {"id": 6283,"text": ["futuro"]}
   ],
   "futurism": [
-    "futurismo"
+    {"id": 6284,"text": ["futurismo"]}
   ],
   "futurist": [
-    "futurista"
+    {"id": 6285,"text": ["futurista"]}
   ],
   "futuristic": [
-    "futurista"
+    {"id": 6286,"text": ["futurista"]}
   ]
 }

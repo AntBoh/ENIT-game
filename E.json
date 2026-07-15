@@ -1,2246 +1,2246 @@
 {
   "each": [
-    "ciascuno",
-    "ogni",
-    "ognuno"
+    {"id": 4761,"text": ["ciascuno"]},
+    {"id": 4762,"text": ["ogni"]},
+    {"id": 4763,"text": ["ognuno"]}
   ],
   "eachtime": [
-    "ognivolta"
+    {"id": 4764,"text": ["ognivolta"]}
   ],
   "eagerness": [
-    "ansia"
+    {"id": 4765,"text": ["ansia"]}
   ],
   "eagle": [
-    "aquila"
+    {"id": 4766,"text": ["aquila"]}
   ],
   "ear": [
-    "orecchio",
-    "pannocchia",
-    "spiga"
+    {"id": 4767,"text": ["orecchio"]},
+    {"id": 4768,"text": ["pannocchia"]},
+    {"id": 4769,"text": ["spiga"]}
   ],
   "eardrum": [
-    "timpano"
+    {"id": 4770,"text": ["timpano"]}
   ],
   "earl": [
-    "conte"
+    {"id": 4771,"text": ["conte"]}
   ],
   "earlier": [
-    "prima"
+    {"id": 4772,"text": ["prima"]}
   ],
   "early": [
-    "presto"
+    {"id": 4773,"text": ["presto"]}
   ],
   "earn": [
-    "guadagnare",
-    "ottenere"
+    {"id": 4774,"text": ["guadagnare"]},
+    {"id": 4775,"text": ["ottenere"]}
   ],
   "earnestly": [
-    "sinceramente"
+    {"id": 4776,"text": ["sinceramente"]}
   ],
   "earnings": [
-    "entrata"
+    {"id": 4777,"text": ["entrata"]}
   ],
   "earring": [
-    "orecchino"
+    {"id": 4778,"text": ["orecchino"]}
   ],
   "Earth": [
-    "Terra"
+    {"id": 4779,"text": ["Terra"]}
   ],
   "earthenware": [
-    "terracotta"
+    {"id": 4780,"text": ["terracotta"]}
   ],
   "earthly": [
-    "terrenale"
+    {"id": 4781,"text": ["terrenale"]}
   ],
   "earthquake": [
-    "sisma",
-    "terremoto"
+    {"id": 4782,"text": ["sisma"]},
+    {"id": 4783,"text": ["terremoto"]}
   ],
   "earthy": [
-    "grossolano"
+    {"id": 4784,"text": ["grossolano"]}
   ],
   "ease": [
-    "agio",
-    "alleviare"
+    {"id": 4785,"text": ["agio"]},
+    {"id": 4786,"text": ["alleviare"]}
   ],
   "easily": [
-    "agevolmente",
-    "facilmente"
+    {"id": 4787,"text": ["agevolmente"]},
+    {"id": 4788,"text": ["facilmente"]}
   ],
   "east": [
-    "delest",
-    "est"
+    {"id": 4789,"text": ["delest"]},
+    {"id": 4790,"text": ["est"]}
   ],
   "Easter": [
-    "Pasqua"
+    {"id": 4791,"text": ["Pasqua"]}
   ],
   "eastern": [
-    "orientale"
+    {"id": 4792,"text": ["orientale"]}
   ],
   "easy": [
-    "facile"
+    {"id": 4793,"text": ["facile"]}
   ],
   "eat": [
-    "mangiare"
+    {"id": 4794,"text": ["mangiare"]}
   ],
   "ebony": [
-    "ebano"
+    {"id": 4795,"text": ["ebano"]}
   ],
   "eccentric": [
-    "eccentrico"
+    {"id": 4796,"text": ["eccentrico"]}
   ],
   "ecclesiastical": [
-    "ecclesiastico"
+    {"id": 4797,"text": ["ecclesiastico"]}
   ],
   "echelon": [
-    "scaglione"
+    {"id": 4798,"text": ["scaglione"]}
   ],
   "echo": [
-    "eco",
-    "ripetere"
+    {"id": 4799,"text": ["eco"]},
+    {"id": 4800,"text": ["ripetere"]}
   ],
   "echography": [
-    "ecografia"
+    {"id": 4801,"text": ["ecografia"]}
   ],
   "eclectic": [
-    "eclettico"
+    {"id": 4802,"text": ["eclettico"]}
   ],
   "eclecticism": [
-    "eclettismo"
+    {"id": 4803,"text": ["eclettismo"]}
   ],
   "ecological": [
-    "ecologico"
+    {"id": 4804,"text": ["ecologico"]}
   ],
   "ecologically": [
-    "ecologicamente"
+    {"id": 4805,"text": ["ecologicamente"]}
   ],
   "ecology": [
-    "ecologia"
+    {"id": 4806,"text": ["ecologia"]}
   ],
   "economic": [
-    "economico"
+    {"id": 4807,"text": ["economico"]}
   ],
   "economical": [
-    "economico"
+    {"id": 4808,"text": ["economico"]}
   ],
   "economically": [
-    "economicamente"
+    {"id": 4809,"text": ["economicamente"]}
   ],
   "economics": [
-    "economia"
+    {"id": 4810,"text": ["economia"]}
   ],
   "economist": [
-    "economista"
+    {"id": 4811,"text": ["economista"]}
   ],
   "economy": [
-    "economia"
+    {"id": 4812,"text": ["economia"]}
   ],
   "ecosystem": [
-    "ecosistema"
+    {"id": 4813,"text": ["ecosistema"]}
   ],
   "ectoderm": [
-    "ectoderma"
+    {"id": 4814,"text": ["ectoderma"]}
   ],
   "ectodermal": [
-    "ectodermico"
+    {"id": 4815,"text": ["ectodermico"]}
   ],
   "ectoplasm": [
-    "ectoplasma"
+    {"id": 4816,"text": ["ectoplasma"]}
   ],
   "ecuadorian": [
-    "ecuadoriano"
+    {"id": 4817,"text": ["ecuadoriano"]}
   ],
   "eczema": [
-    "eczema"
+    {"id": 4818,"text": ["eczema"]}
   ],
   "edaphic": [
-    "edafico"
+    {"id": 4819,"text": ["edafico"]}
   ],
   "edaphology": [
-    "edafologia"
+    {"id": 4820,"text": ["edafologia"]}
   ],
   "edge": [
-    "canto",
-    "filo",
-    "margine",
-    "spigolo"
+    {"id": 4821,"text": ["canto"]},
+    {"id": 4822,"text": ["filo"]},
+    {"id": 4823,"text": ["margine"]},
+    {"id": 4824,"text": ["spigolo"]}
   ],
   "edible": [
-    "commestibile"
+    {"id": 4825,"text": ["commestibile"]}
   ],
   "edict": [
-    "bando",
-    "editto"
+    {"id": 4826,"text": ["bando"]},
+    {"id": 4827,"text": ["editto"]}
   ],
   "Edinburgh": [
-    "Edimburgo"
+    {"id": 4828,"text": ["Edimburgo"]}
   ],
   "edit": [
-    "editare",
-    "redigere"
+    {"id": 4829,"text": ["editare"]},
+    {"id": 4830,"text": ["redigere"]}
   ],
   "editable": [
-    "editabile",
-    "modificabile"
+    {"id": 4831,"text": ["editabile"]},
+    {"id": 4832,"text": ["modificabile"]}
   ],
   "edition": [
-    "edizione"
+    {"id": 4833,"text": ["edizione"]}
   ],
   "editorial": [
-    "editoriale",
-    "redazione"
+    {"id": 4834,"text": ["editoriale"]},
+    {"id": 4835,"text": ["redazione"]}
   ],
   "editorialist": [
-    "editorialista"
+    {"id": 4836,"text": ["editorialista"]}
   ],
   "editorialstaff": [
-    "redazione"
+    {"id": 4837,"text": ["redazione"]}
   ],
   "educate": [
-    "educare"
+    {"id": 4838,"text": ["educare"]}
   ],
   "educating": [
-    "educatore"
+    {"id": 4839,"text": ["educatore"]}
   ],
   "education": [
-    "educazione"
+    {"id": 4840,"text": ["educazione"]}
   ],
   "educationally": [
-    "educativamente"
+    {"id": 4841,"text": ["educativamente"]}
   ],
   "educative": [
-    "educativo"
+    {"id": 4842,"text": ["educativo"]}
   ],
   "educator": [
-    "educatore"
+    {"id": 4843,"text": ["educatore"]}
   ],
   "eel": [
-    "anguilla"
+    {"id": 4844,"text": ["anguilla"]}
   ],
   "effect": [
-    "effetto",
-    "effettuare"
+    {"id": 4845,"text": ["effetto"]},
+    {"id": 4846,"text": ["effettuare"]}
   ],
   "effective": [
-    "effettivo",
-    "efficace"
+    {"id": 4847,"text": ["effettivo"]},
+    {"id": 4848,"text": ["efficace"]}
   ],
   "effectively": [
-    "efficacemente"
+    {"id": 4849,"text": ["efficacemente"]}
   ],
   "effectiveness": [
-    "efficacia"
+    {"id": 4850,"text": ["efficacia"]}
   ],
   "effervescence": [
-    "effervescenza"
+    {"id": 4851,"text": ["effervescenza"]}
   ],
   "efficacy": [
-    "efficacia"
+    {"id": 4852,"text": ["efficacia"]}
   ],
   "efficiency": [
-    "efficienza"
+    {"id": 4853,"text": ["efficienza"]}
   ],
   "efficient": [
-    "efficace",
-    "efficiente"
+    {"id": 4854,"text": ["efficace"]},
+    {"id": 4855,"text": ["efficiente"]}
   ],
   "efflorescence": [
-    "efflorescenza"
+    {"id": 4856,"text": ["efflorescenza"]}
   ],
   "effluent": [
-    "effluente"
+    {"id": 4857,"text": ["effluente"]}
   ],
   "effort": [
-    "fatica",
-    "impegno",
-    "sforzo"
+    {"id": 4858,"text": ["fatica"]},
+    {"id": 4859,"text": ["impegno"]},
+    {"id": 4860,"text": ["sforzo"]}
   ],
   "effortlessly": [
-    "facilmente",
-    "senza sforzo"
+    {"id": 4861,"text": ["facilmente"]},
+    {"id": 4862,"text": ["senza sforzo"]}
   ],
   "egalitarianism": [
-    "egualitarismo"
+    {"id": 4863,"text": ["egualitarismo"]}
   ],
   "egg": [
-    "uovo"
+    {"id": 4864,"text": ["uovo"]}
   ],
   "eggplant": [
-    "melanzana"
+    {"id": 4865,"text": ["melanzana"]}
   ],
   "ego": [
-    "ego"
+    {"id": 4866,"text": ["ego"]}
   ],
   "egocentric": [
-    "egocentrico"
+    {"id": 4867,"text": ["egocentrico"]}
   ],
   "egocentrism": [
-    "egocentrismo"
+    {"id": 4868,"text": ["egocentrismo"]}
   ],
   "egoist": [
-    "egoista"
+    {"id": 4869,"text": ["egoista"]}
   ],
   "egoistic": [
-    "egoista"
+    {"id": 4870,"text": ["egoista"]}
   ],
   "Egypt": [
-    "Egitto"
+    {"id": 4871,"text": ["Egitto"]}
   ],
   "egyptian": [
-    "egiziano",
-    "egizio"
+    {"id": 4872,"text": ["egiziano"]},
+    {"id": 4873,"text": ["egizio"]}
   ],
   "egyptologist": [
-    "egittologo"
+    {"id": 4874,"text": ["egittologo"]}
   ],
   "eight": [
-    "otto"
+    {"id": 4875,"text": ["otto"]}
   ],
   "eighteen": [
-    "diciotto"
+    {"id": 4876,"text": ["diciotto"]}
   ],
   "eighteenth": [
-    "diciottesimo"
+    {"id": 4877,"text": ["diciottesimo"]}
   ],
   "eighteenthousand": [
-    "diciottomila"
+    {"id": 4878,"text": ["diciottomila"]}
   ],
   "eighth": [
-    "ottavo"
+    {"id": 4879,"text": ["ottavo"]}
   ],
   "eighthundredand": [
-    "ottocento"
+    {"id": 4880,"text": ["ottocento"]}
   ],
   "eighthundredth": [
-    "ottocentesimo"
+    {"id": 4881,"text": ["ottocentesimo"]}
   ],
   "eightieth": [
-    "ottantesimo"
+    {"id": 4882,"text": ["ottantesimo"]}
   ],
   "eightthousand": [
-    "ottomila"
+    {"id": 4883,"text": ["ottomila"]}
   ],
   "eighty": [
-    "ottanta"
+    {"id": 4884,"text": ["ottanta"]}
   ],
   "eightyeight": [
-    "ottantotto"
+    {"id": 4885,"text": ["ottantotto"]}
   ],
   "eightyeightthousand": [
-    "ottantottomila"
+    {"id": 4886,"text": ["ottantottomila"]}
   ],
   "eightyfive": [
-    "ottantacinque"
+    {"id": 4887,"text": ["ottantacinque"]}
   ],
   "eightyfivethousand": [
-    "ottantacinquemila"
+    {"id": 4888,"text": ["ottantacinquemila"]}
   ],
   "eightyfour": [
-    "ottantaquattro"
+    {"id": 4889,"text": ["ottantaquattro"]}
   ],
   "eightyfourthousand": [
-    "ottantaquattromila"
+    {"id": 4890,"text": ["ottantaquattromila"]}
   ],
   "eightynine": [
-    "ottantanove"
+    {"id": 4891,"text": ["ottantanove"]}
   ],
   "eightyninethousand": [
-    "ottantanovemila"
+    {"id": 4892,"text": ["ottantanovemila"]}
   ],
   "eightyone": [
-    "ottantuno"
+    {"id": 4893,"text": ["ottantuno"]}
   ],
   "eightyonethousand": [
-    "ottantunomila"
+    {"id": 4894,"text": ["ottantunomila"]}
   ],
   "eightyseven": [
-    "ottantasette"
+    {"id": 4895,"text": ["ottantasette"]}
   ],
   "eightyseventhousand": [
-    "ottantasettemila"
+    {"id": 4896,"text": ["ottantasettemila"]}
   ],
   "eightysix": [
-    "ottantasei"
+    {"id": 4897,"text": ["ottantasei"]}
   ],
   "eightysixthousand": [
-    "ottantaseimila"
+    {"id": 4898,"text": ["ottantaseimila"]}
   ],
   "eightythousand": [
-    "ottantamila"
+    {"id": 4899,"text": ["ottantamila"]}
   ],
   "eightythreethousand": [
-    "ottantatremila"
+    {"id": 4900,"text": ["ottantatremila"]}
   ],
   "eightytwo": [
-    "ottantadue"
+    {"id": 4901,"text": ["ottantadue"]}
   ],
   "eightytwothousand": [
-    "ottantaduemila"
+    {"id": 4902,"text": ["ottantaduemila"]}
   ],
   "einsteinium": [
-    "einsteinio"
+    {"id": 4903,"text": ["einsteinio"]}
   ],
   "either": [
-    "neanche",
-    "qualsiasi",
-    "qualunque"
+    {"id": 4904,"text": ["neanche"]},
+    {"id": 4905,"text": ["qualsiasi"]},
+    {"id": 4906,"text": ["qualunque"]}
   ],
   "ejaculation": [
-    "eiaculazione"
+    {"id": 4907,"text": ["eiaculazione"]}
   ],
   "elaborate": [
-    "elaborare"
+    {"id": 4908,"text": ["elaborare"]}
   ],
   "elastic": [
-    "elastico"
+    {"id": 4909,"text": ["elastico"]}
   ],
   "elastin": [
-    "elastina"
+    {"id": 4910,"text": ["elastina"]}
   ],
   "elastomer": [
-    "elastomero"
+    {"id": 4911,"text": ["elastomero"]}
   ],
   "elbow": [
-    "gomito"
+    {"id": 4912,"text": ["gomito"]}
   ],
   "elder": [
-    "grande"
+    {"id": 4913,"text": ["grande"]}
   ],
   "elderly": [
-    "anziano"
+    {"id": 4914,"text": ["anziano"]}
   ],
   "elect": [
-    "eleggere",
-    "eletto",
-    "scegliere"
+    {"id": 4915,"text": ["eleggere"]},
+    {"id": 4916,"text": ["eletto"]},
+    {"id": 4917,"text": ["scegliere"]}
   ],
   "elected": [
-    "eletto"
+    {"id": 4918,"text": ["eletto"]}
   ],
   "election": [
-    "elezione"
+    {"id": 4919,"text": ["elezione"]}
   ],
   "electoral": [
-    "elettorale"
+    {"id": 4920,"text": ["elettorale"]}
   ],
   "electoralprince": [
-    "principeelettore"
+    {"id": 4921,"text": ["principeelettore"]}
   ],
   "electoralprincess": [
-    "principeelettore"
+    {"id": 4922,"text": ["principeelettore"]}
   ],
   "electorate": [
-    "elettorato"
+    {"id": 4923,"text": ["elettorato"]}
   ],
   "electrical": [
-    "elettrico"
+    {"id": 4924,"text": ["elettrico"]}
   ],
   "electriccurrent": [
-    "correnteelettrica"
+    {"id": 4925,"text": ["correnteelettrica"]}
   ],
   "electrocardiogram": [
-    "elettrocardiogramma"
+    {"id": 4926,"text": ["elettrocardiogramma"]}
   ],
   "electrochemical": [
-    "elettrochimico"
+    {"id": 4927,"text": ["elettrochimico"]}
   ],
   "electrocution": [
-    "elettrocuzione"
+    {"id": 4928,"text": ["elettrocuzione"]}
   ],
   "electrode": [
-    "elettrodo"
+    {"id": 4929,"text": ["elettrodo"]}
   ],
   "electrodynamic": [
-    "elettrodinamico"
+    {"id": 4930,"text": ["elettrodinamico"]}
   ],
   "electroencephalography": [
-    "elettroencefalografia"
+    {"id": 4931,"text": ["elettroencefalografia"]}
   ],
   "electroluminescence": [
-    "elettroluminescenza"
+    {"id": 4932,"text": ["elettroluminescenza"]}
   ],
   "electrolyte": [
-    "elettrolita"
+    {"id": 4933,"text": ["elettrolita"]}
   ],
   "electrolytic": [
-    "elettrolitico"
+    {"id": 4934,"text": ["elettrolitico"]}
   ],
   "electromagnet": [
-    "elettromagnete"
+    {"id": 4935,"text": ["elettromagnete"]}
   ],
   "electromagnetic": [
-    "elettromagnetico"
+    {"id": 4936,"text": ["elettromagnetico"]}
   ],
   "electromagnetism": [
-    "elettromagnetismo"
+    {"id": 4937,"text": ["elettromagnetismo"]}
   ],
   "electromechanical": [
-    "elettromeccanico"
+    {"id": 4938,"text": ["elettromeccanico"]}
   ],
   "electron": [
-    "elettrone"
+    {"id": 4939,"text": ["elettrone"]}
   ],
   "electronic": [
-    "elettronico"
+    {"id": 4940,"text": ["elettronico"]}
   ],
   "electronics": [
-    "elettronica"
+    {"id": 4941,"text": ["elettronica"]}
   ],
   "electroscope": [
-    "elettroscopio"
+    {"id": 4942,"text": ["elettroscopio"]}
   ],
   "electrostatic": [
-    "elettrostatico"
+    {"id": 4943,"text": ["elettrostatico"]}
   ],
   "electrotechnics": [
-    "elettrotecnica"
+    {"id": 4944,"text": ["elettrotecnica"]}
   ],
   "elegance": [
-    "eleganza"
+    {"id": 4945,"text": ["eleganza"]}
   ],
   "elegant": [
-    "elegante"
+    {"id": 4946,"text": ["elegante"]}
   ],
   "elegantly": [
-    "elegantemente"
+    {"id": 4947,"text": ["elegantemente"]}
   ],
   "element": [
-    "elemento"
+    {"id": 4948,"text": ["elemento"]}
   ],
   "elementary": [
-    "elementare"
+    {"id": 4949,"text": ["elementare"]}
   ],
   "elephant": [
-    "elefante"
+    {"id": 4950,"text": ["elefante"]}
   ],
   "elevate": [
-    "elevare"
+    {"id": 4951,"text": ["elevare"]}
   ],
   "elevation": [
-    "elevazione"
+    {"id": 4952,"text": ["elevazione"]}
   ],
   "elevator": [
-    "ascensore",
-    "elevatore"
+    {"id": 4953,"text": ["ascensore"]},
+    {"id": 4954,"text": ["elevatore"]}
   ],
   "eleven": [
-    "undici"
+    {"id": 4955,"text": ["undici"]}
   ],
   "eleventh": [
-    "undicesimo"
+    {"id": 4956,"text": ["undicesimo"]}
   ],
   "eleventhousand": [
-    "undicimila"
+    {"id": 4957,"text": ["undicimila"]}
   ],
   "eligible": [
-    "eleggibile"
+    {"id": 4958,"text": ["eleggibile"]}
   ],
   "eliminate": [
-    "eliminare"
+    {"id": 4959,"text": ["eliminare"]}
   ],
   "elimination": [
-    "eliminazione"
+    {"id": 4960,"text": ["eliminazione"]}
   ],
   "eliminatory": [
-    "eliminatorio"
+    {"id": 4961,"text": ["eliminatorio"]}
   ],
   "elitism": [
-    "elitarismo"
+    {"id": 4962,"text": ["elitarismo"]}
   ],
   "elitist": [
-    "elitista"
+    {"id": 4963,"text": ["elitista"]}
   ],
   "ellipsoid": [
-    "ellissoide"
+    {"id": 4964,"text": ["ellissoide"]}
   ],
   "elliptical": [
-    "ellittico"
+    {"id": 4965,"text": ["ellittico"]}
   ],
   "elm": [
-    "olmo"
+    {"id": 4966,"text": ["olmo"]}
   ],
   "elongation": [
-    "allungamento"
+    {"id": 4967,"text": ["allungamento"]}
   ],
   "elucidate": [
-    "delucidare"
+    {"id": 4968,"text": ["delucidare"]}
   ],
   "emanate": [
-    "emanare"
+    {"id": 4969,"text": ["emanare"]}
   ],
   "emanation": [
-    "emanazione"
+    {"id": 4970,"text": ["emanazione"]}
   ],
   "emancipation": [
-    "emancipazione"
+    {"id": 4971,"text": ["emancipazione"]}
   ],
   "embalming": [
-    "imbalsamazione"
+    {"id": 4972,"text": ["imbalsamazione"]}
   ],
   "embark": [
-    "imbarcare"
+    {"id": 4973,"text": ["imbarcare"]}
   ],
   "embarrass": [
-    "imbarazzare"
+    {"id": 4974,"text": ["imbarazzare"]}
   ],
   "embarrassing": [
-    "imbarazzante"
+    {"id": 4975,"text": ["imbarazzante"]}
   ],
   "embarrassment": [
-    "imbarazzo",
-    "vergogna"
+    {"id": 4976,"text": ["imbarazzo"]},
+    {"id": 4977,"text": ["vergogna"]}
   ],
   "embassy": [
-    "ambasciata"
+    {"id": 4978,"text": ["ambasciata"]}
   ],
   "embellishment": [
-    "adorno"
+    {"id": 4979,"text": ["adorno"]}
   ],
   "ember": [
-    "brace"
+    {"id": 4980,"text": ["brace"]}
   ],
   "embezzle": [
-    "malversare",
-    "sottrarre"
+    {"id": 4981,"text": ["malversare"]},
+    {"id": 4982,"text": ["sottrarre"]}
   ],
   "embezzlement": [
-    "appropriazioneindebita"
+    {"id": 4983,"text": ["appropriazioneindebita"]}
   ],
   "emblem": [
-    "emblema"
+    {"id": 4984,"text": ["emblema"]}
   ],
   "emblematic": [
-    "emblematico"
+    {"id": 4985,"text": ["emblematico"]}
   ],
   "embody": [
-    "incarnare"
+    {"id": 4986,"text": ["incarnare"]}
   ],
   "embolism": [
-    "embolia"
+    {"id": 4987,"text": ["embolia"]}
   ],
   "embrace": [
-    "abbracciare",
-    "abbraccio"
+    {"id": 4988,"text": ["abbracciare"]},
+    {"id": 4989,"text": ["abbraccio"]}
   ],
   "embrasure": [
-    "feritoia"
+    {"id": 4990,"text": ["feritoia"]}
   ],
   "embroider": [
-    "bordare"
+    {"id": 4991,"text": ["bordare"]}
   ],
   "embroidery": [
-    "ricamo"
+    {"id": 4992,"text": ["ricamo"]}
   ],
   "embryo": [
-    "embrione"
+    {"id": 4993,"text": ["embrione"]}
   ],
   "embryology": [
-    "embriologia"
+    {"id": 4994,"text": ["embriologia"]}
   ],
   "embryonic": [
-    "embrionario"
+    {"id": 4995,"text": ["embrionario"]}
   ],
   "emerald": [
-    "smeraldo"
+    {"id": 4996,"text": ["smeraldo"]}
   ],
   "emerge": [
-    "emergere"
+    {"id": 4997,"text": ["emergere"]}
   ],
   "emergency": [
-    "emergenza"
+    {"id": 4998,"text": ["emergenza"]}
   ],
   "emergent": [
-    "emergente"
+    {"id": 4999,"text": ["emergente"]}
   ],
   "emigrant": [
-    "emigrante"
+    {"id": 5000,"text": ["emigrante"]}
   ],
   "emigrate": [
-    "emigrare"
+    {"id": 5001,"text": ["emigrare"]}
   ],
   "emigration": [
-    "emigrazione"
+    {"id": 5002,"text": ["emigrazione"]}
   ],
   "eminence": [
-    "eminenza"
+    {"id": 5003,"text": ["eminenza"]}
   ],
   "eminent": [
-    "eminente"
+    {"id": 5004,"text": ["eminente"]}
   ],
   "emir": [
-    "emiro"
+    {"id": 5005,"text": ["emiro"]}
   ],
   "emirate": [
-    "emirato"
+    {"id": 5006,"text": ["emirato"]}
   ],
   "emission": [
-    "emissione",
-    "esalazione"
+    {"id": 5007,"text": ["emissione"]},
+    {"id": 5008,"text": ["esalazione"]}
   ],
   "emmental": [
-    "emmental"
+    {"id": 5009,"text": ["emmental"]}
   ],
   "emotion": [
-    "commozione",
-    "emozione"
+    {"id": 5010,"text": ["commozione"]},
+    {"id": 5011,"text": ["emozione"]}
   ],
   "emotional": [
-    "impressionabile"
+    {"id": 5012,"text": ["impressionabile"]}
   ],
   "emotionally": [
-    "emotivamente"
+    {"id": 5013,"text": ["emotivamente"]}
   ],
   "empathic": [
-    "empatico"
+    {"id": 5014,"text": ["empatico"]}
   ],
   "empathy": [
-    "empatia"
+    {"id": 5015,"text": ["empatia"]}
   ],
   "emperor": [
-    "imperatore"
+    {"id": 5016,"text": ["imperatore"]}
   ],
   "emphasis": [
-    "enfasi"
+    {"id": 5017,"text": ["enfasi"]}
   ],
   "emphatic": [
-    "enfatico"
+    {"id": 5018,"text": ["enfatico"]}
   ],
   "emphatically": [
-    "enfaticamente"
+    {"id": 5019,"text": ["enfaticamente"]}
   ],
   "emphysema": [
-    "enfisema"
+    {"id": 5020,"text": ["enfisema"]}
   ],
   "empire": [
-    "impero"
+    {"id": 5021,"text": ["impero"]}
   ],
   "empirical": [
-    "empirico"
+    {"id": 5022,"text": ["empirico"]}
   ],
   "empiricism": [
-    "empirismo"
+    {"id": 5023,"text": ["empirismo"]}
   ],
   "empiricist": [
-    "empirista"
+    {"id": 5024,"text": ["empirista"]}
   ],
   "employ": [
-    "impiegare"
+    {"id": 5025,"text": ["impiegare"]}
   ],
   "employee": [
-    "dipendente",
-    "impiegato"
+    {"id": 5026,"text": ["dipendente"]},
+    {"id": 5027,"text": ["impiegato"]}
   ],
   "employer": [
-    "datore di lavoro"
+    {"id": 5028,"text": ["datore di lavoro"]}
   ],
   "employment": [
-    "impiego",
-    "occupazione"
+    {"id": 5029,"text": ["impiego"]},
+    {"id": 5030,"text": ["occupazione"]}
   ],
   "empower": [
-    "autorizzare",
-    "consentire",
-    "potenziare"
+    {"id": 5031,"text": ["autorizzare"]},
+    {"id": 5032,"text": ["consentire"]},
+    {"id": 5033,"text": ["potenziare"]}
   ],
   "empress": [
-    "imperatrice"
+    {"id": 5034,"text": ["imperatrice"]}
   ],
   "empty": [
-    "deserto",
-    "svuotare",
-    "vuoto"
+    {"id": 5035,"text": ["deserto"]},
+    {"id": 5036,"text": ["svuotare"]},
+    {"id": 5037,"text": ["vuoto"]}
   ],
   "empyema": [
-    "empiema"
+    {"id": 5038,"text": ["empiema"]}
   ],
   "emulate": [
-    "emulare"
+    {"id": 5039,"text": ["emulare"]}
   ],
   "emulation": [
-    "emulazione"
+    {"id": 5040,"text": ["emulazione"]}
   ],
   "emulator": [
-    "emulatore"
+    {"id": 5041,"text": ["emulatore"]}
   ],
   "emulsion": [
-    "emulsione"
+    {"id": 5042,"text": ["emulsione"]}
   ],
   "enable": [
-    "autorizzare"
+    {"id": 5043,"text": ["autorizzare"]}
   ],
   "enamel": [
-    "smalto"
+    {"id": 5044,"text": ["smalto"]}
   ],
   "enamoured": [
-    "innamorato"
+    {"id": 5045,"text": ["innamorato"]}
   ],
   "encapsulation": [
-    "incapsulamento"
+    {"id": 5046,"text": ["incapsulamento"]}
   ],
   "encephalitis": [
-    "encefalite"
+    {"id": 5047,"text": ["encefalite"]}
   ],
   "encephalon": [
-    "encefalo"
+    {"id": 5048,"text": ["encefalo"]}
   ],
   "encephalopathy": [
-    "encefalopatia"
+    {"id": 5049,"text": ["encefalopatia"]}
   ],
   "enchant": [
-    "incantare"
+    {"id": 5050,"text": ["incantare"]}
   ],
   "enchanter": [
-    "incantatore"
+    {"id": 5051,"text": ["incantatore"]}
   ],
   "enchantment": [
-    "incantesimo"
+    {"id": 5052,"text": ["incantesimo"]}
   ],
   "encipher": [
-    "cifrare"
+    {"id": 5053,"text": ["cifrare"]}
   ],
   "encircle": [
-    "cingere"
+    {"id": 5054,"text": ["cingere"]}
   ],
   "enclave": [
-    "enclave"
+    {"id": 5055,"text": ["enclave"]}
   ],
   "enclitic": [
-    "enclitico"
+    {"id": 5056,"text": ["enclitico"]}
   ],
   "enclose": [
-    "chiudere",
-    "ingabbiare",
-    "rinchiudere"
+    {"id": 5057,"text": ["chiudere"]},
+    {"id": 5058,"text": ["ingabbiare"]},
+    {"id": 5059,"text": ["rinchiudere"]}
   ],
   "enclosure": [
-    "recinto"
+    {"id": 5060,"text": ["recinto"]}
   ],
   "encode": [
-    "codificare"
+    {"id": 5061,"text": ["codificare"]}
   ],
   "encoding": [
-    "codificazione"
+    {"id": 5062,"text": ["codificazione"]}
   ],
   "encounter": [
-    "incontrare",
-    "incontro"
+    {"id": 5063,"text": ["incontrare"]},
+    {"id": 5064,"text": ["incontro"]}
   ],
   "encourage": [
-    "incoraggiare"
+    {"id": 5065,"text": ["incoraggiare"]}
   ],
   "encouragement": [
-    "incoraggiamento"
+    {"id": 5066,"text": ["incoraggiamento"]}
   ],
   "encrypt": [
-    "cifrare"
+    {"id": 5067,"text": ["cifrare"]}
   ],
   "encryption": [
-    "crittografia"
+    {"id": 5068,"text": ["crittografia"]}
   ],
   "encyclopaedia": [
-    "enciclopedia"
+    {"id": 5069,"text": ["enciclopedia"]}
   ],
   "encyclopaedic": [
-    "enciclopedico"
+    {"id": 5070,"text": ["enciclopedico"]}
   ],
   "encyclopedia": [
-    "enciclopedia"
+    {"id": 5071,"text": ["enciclopedia"]}
   ],
   "encyclopedic": [
-    "enciclopedico"
+    {"id": 5072,"text": ["enciclopedico"]}
   ],
   "end": [
-    "fine",
-    "finire",
-    "terminare"
+    {"id": 5073,"text": ["fine"]},
+    {"id": 5074,"text": ["finire"]},
+    {"id": 5075,"text": ["terminare"]}
   ],
   "endemical": [
-    "endemico"
+    {"id": 5076,"text": ["endemico"]}
   ],
   "endemism": [
-    "endemismo"
+    {"id": 5077,"text": ["endemismo"]}
   ],
   "ending": [
-    "desinenza",
-    "finale"
+    {"id": 5078,"text": ["desinenza"]},
+    {"id": 5079,"text": ["finale"]}
   ],
   "endocarp": [
-    "endocarpo"
+    {"id": 5080,"text": ["endocarpo"]}
   ],
   "endocrinology": [
-    "endocrinologia"
+    {"id": 5081,"text": ["endocrinologia"]}
   ],
   "endoderm": [
-    "endoderma"
+    {"id": 5082,"text": ["endoderma"]}
   ],
   "endodontics": [
-    "endodonzia"
+    {"id": 5083,"text": ["endodonzia"]}
   ],
   "endogamy": [
-    "endogamia"
+    {"id": 5084,"text": ["endogamia"]}
   ],
   "endometrium": [
-    "endometrio"
+    {"id": 5085,"text": ["endometrio"]}
   ],
   "endomorphism": [
-    "endomorfismo"
+    {"id": 5086,"text": ["endomorfismo"]}
   ],
   "endorse": [
-    "approvare",
-    "confermare",
-    "firmare"
+    {"id": 5087,"text": ["approvare"]},
+    {"id": 5088,"text": ["confermare"]},
+    {"id": 5089,"text": ["firmare"]}
   ],
   "endorsement": [
-    "approvazione"
+    {"id": 5090,"text": ["approvazione"]}
   ],
   "endoscopy": [
-    "endoscopia"
+    {"id": 5091,"text": ["endoscopia"]}
   ],
   "endosperm": [
-    "endosperma"
+    {"id": 5092,"text": ["endosperma"]}
   ],
   "endothelium": [
-    "endotelio"
+    {"id": 5093,"text": ["endotelio"]}
   ],
   "endothermic": [
-    "endotermico"
+    {"id": 5094,"text": ["endotermico"]}
   ],
   "endotoxin": [
-    "endotossina"
+    {"id": 5095,"text": ["endotossina"]}
   ],
   "endow": [
-    "dotare"
+    {"id": 5096,"text": ["dotare"]}
   ],
   "enemy": [
-    "nemico"
+    {"id": 5097,"text": ["nemico"]}
   ],
   "energetic": [
-    "energetico"
+    {"id": 5098,"text": ["energetico"]}
   ],
   "energetically": [
-    "energicamente"
+    {"id": 5099,"text": ["energicamente"]}
   ],
   "energy": [
-    "energia"
+    {"id": 5100,"text": ["energia"]}
   ],
   "enforce": [
-    "imporre"
+    {"id": 5101,"text": ["imporre"]}
   ],
   "engage": [
-    "ingaggiare"
+    {"id": 5102,"text": ["ingaggiare"]}
   ],
   "engagement": [
-    "fidanzamento",
-    "impegno",
-    "reclutamento"
+    {"id": 5103,"text": ["fidanzamento"]},
+    {"id": 5104,"text": ["impegno"]},
+    {"id": 5105,"text": ["reclutamento"]}
   ],
   "engine": [
-    "motore"
+    {"id": 5106,"text": ["motore"]}
   ],
   "engineer": [
-    "ingegnere"
+    {"id": 5107,"text": ["ingegnere"]}
   ],
   "engineering": [
-    "ingegneria"
+    {"id": 5108,"text": ["ingegneria"]}
   ],
   "England": [
-    "Inghilterra"
+    {"id": 5109,"text": ["Inghilterra"]}
   ],
   "english": [
-    "inglese"
+    {"id": 5110,"text": ["inglese"]}
   ],
   "enhance": [
-    "migliorare"
+    {"id": 5111,"text": ["migliorare"]}
   ],
   "enhancement": [
-    "miglioramento",
-    "miglioria"
+    {"id": 5112,"text": ["miglioramento"]},
+    {"id": 5113,"text": ["miglioria"]}
   ],
   "enharmonic": [
-    "enarmonico"
+    {"id": 5114,"text": ["enarmonico"]}
   ],
   "enigma": [
-    "enigma"
+    {"id": 5115,"text": ["enigma"]}
   ],
   "enjoy": [
-    "piacere",
-    "usufruire"
+    {"id": 5116,"text": ["piacere"]},
+    {"id": 5117,"text": ["usufruire"]}
   ],
   "enjoyment": [
-    "divertimento",
-    "godimento"
+    {"id": 5118,"text": ["divertimento"]},
+    {"id": 5119,"text": ["godimento"]}
   ],
   "enlarge": [
-    "ampliare",
-    "allargare"
+    {"id": 5120,"text": ["ampliare"]},
+    {"id": 5121,"text": ["allargare"]}
   ],
   "enlistment": [
-    "arruolamento"
+    {"id": 5122,"text": ["arruolamento"]}
   ],
   "enmity": [
-    "inimicizia"
+    {"id": 5123,"text": ["inimicizia"]}
   ],
   "ennoble": [
-    "nobilitare"
+    {"id": 5124,"text": ["nobilitare"]}
   ],
   "enormous": [
-    "enorme"
+    {"id": 5125,"text": ["enorme"]}
   ],
   "enormously": [
-    "enormemente"
+    {"id": 5126,"text": ["enormemente"]}
   ],
   "enough": [
-    "abbastanza",
-    "piuttosto"
+    {"id": 5127,"text": ["abbastanza"]},
+    {"id": 5128,"text": ["piuttosto"]}
   ],
   "enquiry": [
-    "inchiesta",
-    "indagine",
-    "ricerca"
+    {"id": 5129,"text": ["inchiesta"]},
+    {"id": 5130,"text": ["indagine"]},
+    {"id": 5131,"text": ["ricerca"]}
   ],
   "enrich": [
-    "arricchire"
+    {"id": 5132,"text": ["arricchire"]}
   ],
   "enrichment": [
-    "arricchimento"
+    {"id": 5133,"text": ["arricchimento"]}
   ],
   "enrol": [
-    "arruolare",
-    "arruolarsi",
-    "iscrivere",
-    "iscriversi"
+    {"id": 5134,"text": ["arruolare"]},
+    {"id": 5135,"text": ["arruolarsi"]},
+    {"id": 5136,"text": ["iscrivere"]},
+    {"id": 5137,"text": ["iscriversi"]}
   ],
   "ensure": [
-    "assicurare"
+    {"id": 5138,"text": ["assicurare"]}
   ],
   "entelechy": [
-    "entelechia"
+    {"id": 5139,"text": ["entelechia"]}
   ],
   "enter": [
-    "introdurre"
+    {"id": 5140,"text": ["introdurre"]}
   ],
   "enterocyte": [
-    "enterocito"
+    {"id": 5141,"text": ["enterocito"]}
   ],
   "enterprise": [
-    "impresa"
+    {"id": 5142,"text": ["impresa"]}
   ],
   "entertain": [
-    "intrattenere"
+    {"id": 5143,"text": ["intrattenere"]}
   ],
   "entertainer": [
-    "artista"
+    {"id": 5144,"text": ["artista"]}
   ],
   "entertainment": [
-    "divertimento",
-    "intrattenimento"
+    {"id": 5145,"text": ["divertimento"]},
+    {"id": 5146,"text": ["intrattenimento"]}
   ],
   "enthalpy": [
-    "entalpia"
+    {"id": 5147,"text": ["entalpia"]}
   ],
   "enthronement": [
-    "intronizzazione"
+    {"id": 5148,"text": ["intronizzazione"]}
   ],
   "enthusiasm": [
-    "entusiasmo"
+    {"id": 5149,"text": ["entusiasmo"]}
   ],
   "enthusiast": [
-    "appassionato"
+    {"id": 5150,"text": ["appassionato"]}
   ],
   "enthusiastic": [
-    "entusiasta"
+    {"id": 5151,"text": ["entusiasta"]}
   ],
   "entire": [
-    "intero"
+    {"id": 5152,"text": ["intero"]}
   ],
   "entirely": [
-    "interamente"
+    {"id": 5153,"text": ["interamente"]}
   ],
   "entitle": [
-    "autorizzare"
+    {"id": 5154,"text": ["autorizzare"]}
   ],
   "entity": [
-    "entità"
+    {"id": 5155,"text": ["entità"]}
   ],
   "entomology": [
-    "entomologia"
+    {"id": 5156,"text": ["entomologia"]}
   ],
   "entrance": [
-    "entrata"
+    {"id": 5157,"text": ["entrata"]}
   ],
   "entrapment": [
-    "intrappolare"
+    {"id": 5158,"text": ["intrappolare"]}
   ],
   "entropy": [
-    "entropia"
+    {"id": 5159,"text": ["entropia"]}
   ],
   "entrust": [
-    "affidare"
+    {"id": 5160,"text": ["affidare"]}
   ],
   "entry": [
-    "entrata"
+    {"id": 5161,"text": ["entrata"]}
   ],
   "enumerable": [
-    "enumerabile"
+    {"id": 5162,"text": ["enumerabile"]}
   ],
   "enumerate": [
-    "elencare"
+    {"id": 5163,"text": ["elencare"]}
   ],
   "enumeration": [
-    "elencazione"
+    {"id": 5164,"text": ["elencazione"]}
   ],
   "envelope": [
-    "busta"
+    {"id": 5165,"text": ["busta"]}
   ],
   "environment": [
-    "ambiente"
+    {"id": 5166,"text": ["ambiente"]}
   ],
   "environmental": [
-    "ambientale"
+    {"id": 5167,"text": ["ambientale"]}
   ],
   "environmentalist": [
-    "ambientalista"
+    {"id": 5168,"text": ["ambientalista"]}
   ],
   "envoy": [
-    "inviato"
+    {"id": 5169,"text": ["inviato"]}
   ],
   "envy": [
-    "invidia",
-    "invidiare"
+    {"id": 5170,"text": ["invidia"]},
+    {"id": 5171,"text": ["invidiare"]}
   ],
   "enzymatic": [
-    "enzimatico"
+    {"id": 5172,"text": ["enzimatico"]}
   ],
   "enzyme": [
-    "enzima"
+    {"id": 5173,"text": ["enzima"]}
   ],
   "eosinophile": [
-    "eosinofilo"
+    {"id": 5174,"text": ["eosinofilo"]}
   ],
   "ephemeral": [
-    "effimero"
+    {"id": 5175,"text": ["effimero"]}
   ],
   "epic": [
-    "epica",
-    "epico",
-    "epopea"
+    {"id": 5176,"text": ["epica"]},
+    {"id": 5177,"text": ["epico"]},
+    {"id": 5178,"text": ["epopea"]}
   ],
   "epicarp": [
-    "epicarpo"
+    {"id": 5179,"text": ["epicarpo"]}
   ],
   "epicentre": [
-    "epicentro"
+    {"id": 5180,"text": ["epicentro"]}
   ],
   "epicycloid": [
-    "epicicloide"
+    {"id": 5181,"text": ["epicicloide"]}
   ],
   "epicycloidal": [
-    "epicicloidale"
+    {"id": 5182,"text": ["epicicloidale"]}
   ],
   "epidemic": [
-    "epidemia"
+    {"id": 5183,"text": ["epidemia"]}
   ],
   "epidemiology": [
-    "epidemiologia"
+    {"id": 5184,"text": ["epidemiologia"]}
   ],
   "epigastric": [
-    "epigastrico"
+    {"id": 5185,"text": ["epigastrico"]}
   ],
   "epigone": [
-    "epigono"
+    {"id": 5186,"text": ["epigono"]}
   ],
   "epigram": [
-    "epigramma"
+    {"id": 5187,"text": ["epigramma"]}
   ],
   "epigraphical": [
-    "epigrafico"
+    {"id": 5188,"text": ["epigrafico"]}
   ],
   "epigraphy": [
-    "epigrafia"
+    {"id": 5189,"text": ["epigrafia"]}
   ],
   "epilepsy": [
-    "epilessia"
+    {"id": 5190,"text": ["epilessia"]}
   ],
   "epileptic": [
-    "epilettico"
+    {"id": 5191,"text": ["epilettico"]}
   ],
   "epilogue": [
-    "epilogo"
+    {"id": 5192,"text": ["epilogo"]}
   ],
   "epinephrine": [
-    "adrenalina"
+    {"id": 5193,"text": ["adrenalina"]}
   ],
   "episcopalian": [
-    "episcopale"
+    {"id": 5194,"text": ["episcopale"]}
   ],
   "episode": [
-    "episodio"
+    {"id": 5195,"text": ["episodio"]}
   ],
   "epistemological": [
-    "epistemologico"
+    {"id": 5196,"text": ["epistemologico"]}
   ],
   "epistemology": [
-    "epistemologia"
+    {"id": 5197,"text": ["epistemologia"]}
   ],
   "epistle": [
-    "epistola"
+    {"id": 5198,"text": ["epistola"]}
   ],
   "epitaph": [
-    "epitaffio"
+    {"id": 5199,"text": ["epitaffio"]}
   ],
   "epithalamium": [
-    "epitalamio"
+    {"id": 5200,"text": ["epitalamio"]}
   ],
   "epithelium": [
-    "epitelio"
+    {"id": 5201,"text": ["epitelio"]}
   ],
   "epithet": [
-    "epiteto"
+    {"id": 5202,"text": ["epiteto"]}
   ],
   "equal": [
-    "uguale"
+    {"id": 5203,"text": ["uguale"]}
   ],
   "equalisation": [
-    "equiparazione"
+    {"id": 5204,"text": ["equiparazione"]}
   ],
   "equalise": [
-    "equalizzare"
+    {"id": 5205,"text": ["equalizzare"]}
   ],
   "equality": [
-    "eguaglianza"
+    {"id": 5206,"text": ["eguaglianza"]}
   ],
   "equally": [
-    "ugualmente"
+    {"id": 5207,"text": ["ugualmente"]}
   ],
   "equate": [
-    "equiparare",
-    "uguagliare"
+    {"id": 5208,"text": ["equiparare"]},
+    {"id": 5209,"text": ["uguagliare"]}
   ],
   "equation": [
-    "equazione"
+    {"id": 5210,"text": ["equazione"]}
   ],
   "equator": [
-    "equatore"
+    {"id": 5211,"text": ["equatore"]}
   ],
   "equatorial": [
-    "equatoriale"
+    {"id": 5212,"text": ["equatoriale"]}
   ],
   "equidistance": [
-    "equidistanza"
+    {"id": 5213,"text": ["equidistanza"]}
   ],
   "equidistant": [
-    "equidistante"
+    {"id": 5214,"text": ["equidistante"]}
   ],
   "equilibrist": [
-    "equilibrista"
+    {"id": 5215,"text": ["equilibrista"]}
   ],
   "equilibrium": [
-    "equilibrio"
+    {"id": 5216,"text": ["equilibrio"]}
   ],
   "equinoctial": [
-    "equinoziale"
+    {"id": 5217,"text": ["equinoziale"]}
   ],
   "equinox": [
-    "equinozio"
+    {"id": 5218,"text": ["equinozio"]}
   ],
   "equip": [
-    "equipaggiare"
+    {"id": 5219,"text": ["equipaggiare"]}
   ],
   "equipment": [
-    "apparecchiatura",
-    "attrezzatura",
-    "equipaggiamento"
+    {"id": 5220,"text": ["apparecchiatura"]},
+    {"id": 5221,"text": ["attrezzatura"]},
+    {"id": 5222,"text": ["equipaggiamento"]}
   ],
   "equitation": [
-    "equitazione"
+    {"id": 5223,"text": ["equitazione"]}
   ],
   "equivalence": [
-    "equivalenza"
+    {"id": 5224,"text": ["equivalenza"]}
   ],
   "equivalent": [
-    "equivalente"
+    {"id": 5225,"text": ["equivalente"]}
   ],
   "equivocal": [
-    "equivoco"
+    {"id": 5226,"text": ["equivoco"]}
   ],
   "era": [
-    "era"
+    {"id": 5227,"text": ["era"]}
   ],
   "eradicate": [
-    "eradicare"
+    {"id": 5228,"text": ["eradicare"]}
   ],
   "eradication": [
-    "eradicazione"
+    {"id": 5229,"text": ["eradicazione"]}
   ],
   "erasable": [
-    "cancellabile"
+    {"id": 5230,"text": ["cancellabile"]}
   ],
   "erase": [
-    "cancellare"
+    {"id": 5231,"text": ["cancellare"]}
   ],
   "erbium": [
-    "erbio"
+    {"id": 5232,"text": ["erbio"]}
   ],
   "erect": [
-    "alzare",
-    "eretto",
-    "erigere"
+    {"id": 5233,"text": ["alzare"]},
+    {"id": 5234,"text": ["eretto"]},
+    {"id": 5235,"text": ["erigere"]}
   ],
   "erection": [
-    "erezione"
+    {"id": 5236,"text": ["erezione"]}
   ],
   "ergodic": [
-    "ergodico"
+    {"id": 5237,"text": ["ergodico"]}
   ],
   "ergonomical": [
-    "ergonomico"
+    {"id": 5238,"text": ["ergonomico"]}
   ],
   "ergonomics": [
-    "ergonomia"
+    {"id": 5239,"text": ["ergonomia"]}
   ],
   "ermine": [
-    "ermellino"
+    {"id": 5240,"text": ["ermellino"]}
   ],
   "erode": [
-    "erodere"
+    {"id": 5241,"text": ["erodere"]}
   ],
   "erosion": [
-    "erosione"
+    {"id": 5242,"text": ["erosione"]}
   ],
   "erotism": [
-    "erotismo"
+    {"id": 5243,"text": ["erotismo"]}
   ],
   "err": [
-    "errare"
+    {"id": 5244,"text": ["errare"]}
   ],
   "erroneous": [
-    "erroneo"
+    {"id": 5245,"text": ["erroneo"]}
   ],
   "error": [
-    "errore"
+    {"id": 5246,"text": ["errore"]}
   ],
   "eructation": [
-    "eruttazione"
+    {"id": 5247,"text": ["eruttazione"]}
   ],
   "erudition": [
-    "erudizione"
+    {"id": 5248,"text": ["erudizione"]}
   ],
   "eruption": [
-    "eruzione"
+    {"id": 5249,"text": ["eruzione"]}
   ],
   "erythrocyte": [
-    "eritrocito"
+    {"id": 5250,"text": ["eritrocito"]}
   ],
   "escalope": [
-    "scaloppa"
+    {"id": 5251,"text": ["scaloppa"]}
   ],
   "escape": [
-    "fuga",
-    "fuggire",
-    "scappare"
+    {"id": 5252,"text": ["fuga"]},
+    {"id": 5253,"text": ["fuggire"]},
+    {"id": 5254,"text": ["scappare"]}
   ],
   "escarole": [
-    "scarola"
+    {"id": 5255,"text": ["scarola"]}
   ],
   "escarpment": [
-    "scarpata"
+    {"id": 5256,"text": ["scarpata"]}
   ],
   "eschatology": [
-    "escatologia"
+    {"id": 5257,"text": ["escatologia"]}
   ],
   "esophagoscopy": [
-    "esofagoscopia"
+    {"id": 5258,"text": ["esofagoscopia"]}
   ],
   "esoteric": [
-    "esoterico"
+    {"id": 5259,"text": ["esoterico"]}
   ],
   "esoterism": [
-    "esoterismo"
+    {"id": 5260,"text": ["esoterismo"]}
   ],
   "especially": [
-    "specialmente"
+    {"id": 5261,"text": ["specialmente"]}
   ],
   "esperanto": [
-    "esperanto"
+    {"id": 5262,"text": ["esperanto"]}
   ],
   "espionage": [
-    "spia",
-    "spionaggio"
+    {"id": 5263,"text": ["spia"]},
+    {"id": 5264,"text": ["spionaggio"]}
   ],
   "essay": [
-    "saggio"
+    {"id": 5265,"text": ["saggio"]}
   ],
   "essayist": [
-    "saggista"
+    {"id": 5266,"text": ["saggista"]}
   ],
   "essence": [
-    "essenza"
+    {"id": 5267,"text": ["essenza"]}
   ],
   "essential": [
-    "essenziale"
+    {"id": 5268,"text": ["essenziale"]}
   ],
   "essentially": [
-    "essenzialmente"
+    {"id": 5269,"text": ["essenzialmente"]}
   ],
   "establish": [
-    "instaurare",
-    "stabilire"
+    {"id": 5270,"text": ["instaurare"]},
+    {"id": 5271,"text": ["stabilire"]}
   ],
   "establishment": [
-    "instaurazione",
-    "stabilimento"
+    {"id": 5272,"text": ["instaurazione"]},
+    {"id": 5273,"text": ["stabilimento"]}
   ],
   "esteem": [
-    "stima",
-    "stimare"
+    {"id": 5274,"text": ["stima"]},
+    {"id": 5275,"text": ["stimare"]}
   ],
   "esterification": [
-    "esterificazione"
+    {"id": 5276,"text": ["esterificazione"]}
   ],
   "estimate": [
-    "budget",
-    "stima",
-    "stimare"
+    {"id": 5277,"text": ["budget"]},
+    {"id": 5278,"text": ["stima"]},
+    {"id": 5279,"text": ["stimare"]}
   ],
   "estimator": [
-    "stimatore"
+    {"id": 5280,"text": ["stimatore"]}
   ],
   "estrus": [
-    "estro"
+    {"id": 5281,"text": ["estro"]}
   ],
   "estuary": [
-    "estuario"
+    {"id": 5282,"text": ["estuario"]}
   ],
   "etcetera": [
-    "eccetera"
+    {"id": 5283,"text": ["eccetera"]}
   ],
   "eternal": [
-    "eterno"
+    {"id": 5284,"text": ["eterno"]}
   ],
   "ethanol": [
-    "etanolo"
+    {"id": 5285,"text": ["etanolo"]}
   ],
   "ether": [
-    "etere"
+    {"id": 5286,"text": ["etere"]}
   ],
   "ethical": [
-    "etico"
+    {"id": 5287,"text": ["etico"]}
   ],
   "ethically": [
-    "eticamente"
+    {"id": 5288,"text": ["eticamente"]}
   ],
   "Ethiopia": [
-    "Etiopia"
+    {"id": 5289,"text": ["Etiopia"]}
   ],
   "ethiopian": [
-    "etiope",
-    "etiopico"
+    {"id": 5290,"text": ["etiope"]},
+    {"id": 5291,"text": ["etiopico"]}
   ],
   "ethmoidal": [
-    "etmoidale"
+    {"id": 5292,"text": ["etmoidale"]}
   ],
   "ethnic": [
-    "etnico"
+    {"id": 5293,"text": ["etnico"]}
   ],
   "ethnically": [
-    "etnicamente"
+    {"id": 5294,"text": ["etnicamente"]}
   ],
   "ethnicity": [
-    "etnia"
+    {"id": 5295,"text": ["etnia"]}
   ],
   "ethnocentrism": [
-    "etnocentrismo"
+    {"id": 5296,"text": ["etnocentrismo"]}
   ],
   "ethnographic": [
-    "etnografico"
+    {"id": 5297,"text": ["etnografico"]}
   ],
   "ethnography": [
-    "etnografia"
+    {"id": 5298,"text": ["etnografia"]}
   ],
   "ethnohistory": [
-    "etnostoria"
+    {"id": 5299,"text": ["etnostoria"]}
   ],
   "ethnological": [
-    "etnologico"
+    {"id": 5300,"text": ["etnologico"]}
   ],
   "ethnology": [
-    "etnologia"
+    {"id": 5301,"text": ["etnologia"]}
   ],
   "ethology": [
-    "etologia"
+    {"id": 5302,"text": ["etologia"]}
   ],
   "ethyl": [
-    "etile"
+    {"id": 5303,"text": ["etile"]}
   ],
   "ethylamine": [
-    "etilammina"
+    {"id": 5304,"text": ["etilammina"]}
   ],
   "etiology": [
-    "eziologia"
+    {"id": 5305,"text": ["eziologia"]}
   ],
   "etymological": [
-    "etimologico"
+    {"id": 5306,"text": ["etimologico"]}
   ],
   "etymologically": [
-    "etimologicamente"
+    {"id": 5307,"text": ["etimologicamente"]}
   ],
   "etymology": [
-    "etimologia"
+    {"id": 5308,"text": ["etimologia"]}
   ],
   "etymon": [
-    "etimo"
+    {"id": 5309,"text": ["etimo"]}
   ],
   "eucharist": [
-    "eucarestia"
+    {"id": 5310,"text": ["eucarestia"]}
   ],
   "Euclid": [
-    "Euclide"
+    {"id": 5311,"text": ["Euclide"]}
   ],
   "eugenics": [
-    "eugenetica"
+    {"id": 5312,"text": ["eugenetica"]}
   ],
   "Euler": [
-    "Eulero"
+    {"id": 5313,"text": ["Eulero"]}
   ],
   "eunuch": [
-    "eunuco"
+    {"id": 5314,"text": ["eunuco"]}
   ],
   "euphemism": [
-    "eufemismo"
+    {"id": 5315,"text": ["eufemismo"]}
   ],
   "euphemistic": [
-    "eufemistico"
+    {"id": 5316,"text": ["eufemistico"]}
   ],
   "euphoretic": [
-    "euforizzante"
+    {"id": 5317,"text": ["euforizzante"]}
   ],
   "euphoria": [
-    "euforia"
+    {"id": 5318,"text": ["euforia"]}
   ],
   "euphoric": [
-    "euforico"
+    {"id": 5319,"text": ["euforico"]}
   ],
   "euro": [
-    "euro"
+    {"id": 5320,"text": ["euro"]}
   ],
   "euro-deputy": [
-    "eurodeputato"
+    {"id": 5321,"text": ["eurodeputato"]}
   ],
   "Europe": [
-    "Europa"
+    {"id": 5322,"text": ["Europa"]}
   ],
   "european": [
-    "europeo"
+    {"id": 5323,"text": ["europeo"]}
   ],
   "europium": [
-    "europio"
+    {"id": 5324,"text": ["europio"]}
   ],
   "euthanasia": [
-    "eutanasia"
+    {"id": 5325,"text": ["eutanasia"]}
   ],
   "eutrophic": [
-    "eutrofico"
+    {"id": 5326,"text": ["eutrofico"]}
   ],
   "eutrophication": [
-    "eutrofizzazione"
+    {"id": 5327,"text": ["eutrofizzazione"]}
   ],
   "evacuate": [
-    "evacuare"
+    {"id": 5328,"text": ["evacuare"]}
   ],
   "evacuation": [
-    "evacuazione"
+    {"id": 5329,"text": ["evacuazione"]}
   ],
   "evade": [
-    "evitare"
+    {"id": 5330,"text": ["evitare"]}
   ],
   "evaluate": [
-    "valutare"
+    {"id": 5331,"text": ["valutare"]}
   ],
   "evaluation": [
-    "valutazione"
+    {"id": 5332,"text": ["valutazione"]}
   ],
   "evangelic": [
-    "evangelico"
+    {"id": 5333,"text": ["evangelico"]}
   ],
   "evangelisation": [
-    "evangelizzazione"
+    {"id": 5334,"text": ["evangelizzazione"]}
   ],
   "evangelist": [
-    "evangelista"
+    {"id": 5335,"text": ["evangelista"]}
   ],
   "evaporate": [
-    "evaporare"
+    {"id": 5336,"text": ["evaporare"]}
   ],
   "evaporation": [
-    "evaporazione"
+    {"id": 5337,"text": ["evaporazione"]}
   ],
   "evasion": [
-    "evasione"
+    {"id": 5338,"text": ["evasione"]}
   ],
   "even": [
-    "anche",
-    "ancora",
-    "pari",
-    "pure"
+    {"id": 5339,"text": ["anche"]},
+    {"id": 5340,"text": ["ancora"]},
+    {"id": 5341,"text": ["pari"]},
+    {"id": 5342,"text": ["pure"]}
   ],
   "evening": [
-    "sera"
+    {"id": 5343,"text": ["sera"]}
   ],
   "event": [
-    "evento"
+    {"id": 5344,"text": ["evento"]}
   ],
   "eventual": [
-    "eventuale"
+    {"id": 5345,"text": ["eventuale"]}
   ],
   "eventually": [
-    "infine"
+    {"id": 5346,"text": ["infine"]}
   ],
   "ever": [
-    "mai"
+    {"id": 5347,"text": ["mai"]}
   ],
   "evermore": [
-    "eternamente"
+    {"id": 5348,"text": ["eternamente"]}
   ],
   "eversion": [
-    "eversione"
+    {"id": 5349,"text": ["eversione"]}
   ],
   "every": [
-    "ogni"
+    {"id": 5350,"text": ["ogni"]}
   ],
   "every month": [
-    "ogni mese"
+    {"id": 5351,"text": ["ogni mese"]}
   ],
   "every morning": [
-    "ogni mattina"
+    {"id": 5352,"text": ["ogni mattina"]}
   ],
   "every night": [
-    "ogni notte"
+    {"id": 5353,"text": ["ogni notte"]}
   ],
   "every now and then": [
-    "ognitanto"
+    {"id": 5354,"text": ["ognitanto"]}
   ],
   "every so often": [
-    "ogni tanto"
+    {"id": 5355,"text": ["ogni tanto"]}
   ],
   "every year": [
-    "ogni anno"
+    {"id": 5356,"text": ["ogni anno"]}
   ],
   "everybody": [
-    "tutti"
+    {"id": 5357,"text": ["tutti"]}
   ],
   "everyday": [
-    "ognigiorno",
-    "quotidiano"
+    {"id": 5358,"text": ["ognigiorno"]},
+    {"id": 5359,"text": ["quotidiano"]}
   ],
   "everyone": [
-    "tuttiquanti"
+    {"id": 5360,"text": ["tuttiquanti"]}
   ],
   "everything": [
-    "tutto"
+    {"id": 5361,"text": ["tutto"]}
   ],
   "everytime": [
-    "ogni volta"
+    {"id": 5362,"text": ["ogni volta"]}
   ],
   "everywhere": [
-    "dappertutto"
+    {"id": 5363,"text": ["dappertutto"]}
   ],
   "eviction": [
-    "sfratto"
+    {"id": 5364,"text": ["sfratto"]}
   ],
   "evidence": [
-    "evidenza",
-    "prova"
+    {"id": 5365,"text": ["evidenza"]},
+    {"id": 5366,"text": ["prova"]}
   ],
   "evident": [
-    "evidente"
+    {"id": 5367,"text": ["evidente"]}
   ],
   "evidential": [
-    "probatorio"
+    {"id": 5368,"text": ["probatorio"]}
   ],
   "evidently": [
-    "evidentemente"
+    {"id": 5369,"text": ["evidentemente"]}
   ],
   "evil": [
-    "male",
-    "maligno"
+    {"id": 5370,"text": ["male"]},
+    {"id": 5371,"text": ["maligno"]}
   ],
   "evil doer": [
-    "malfattore"
+    {"id": 5372,"text": ["malfattore"]}
   ],
   "evocation": [
-    "evocazione",
-    "rievocazione"
+    {"id": 5373,"text": ["evocazione"]},
+    {"id": 5374,"text": ["rievocazione"]}
   ],
   "evoke": [
-    "evocare"
+    {"id": 5375,"text": ["evocare"]}
   ],
   "evolution": [
-    "evoluzione"
+    {"id": 5376,"text": ["evoluzione"]}
   ],
   "evolutionary": [
-    "evolutivo"
+    {"id": 5377,"text": ["evolutivo"]}
   ],
   "evolutionism": [
-    "evoluzionismo"
+    {"id": 5378,"text": ["evoluzionismo"]}
   ],
   "evolve": [
-    "evolvere"
+    {"id": 5379,"text": ["evolvere"]}
   ],
   "exacerbated": [
-    "esacerbato"
+    {"id": 5380,"text": ["esacerbato"]}
   ],
   "exact": [
-    "esatto"
+    {"id": 5381,"text": ["esatto"]}
   ],
   "exaction": [
-    "esazione"
+    {"id": 5382,"text": ["esazione"]}
   ],
   "exactly": [
-    "esattamente"
+    {"id": 5383,"text": ["esattamente"]}
   ],
   "exactness": [
-    "esattezza"
+    {"id": 5384,"text": ["esattezza"]}
   ],
   "exaggerate": [
-    "esagerare"
+    {"id": 5385,"text": ["esagerare"]}
   ],
   "exaggeration": [
-    "esagerazione"
+    {"id": 5386,"text": ["esagerazione"]}
   ],
   "exaltation": [
-    "esaltazione"
+    {"id": 5387,"text": ["esaltazione"]}
   ],
   "exam": [
-    "esame"
+    {"id": 5388,"text": ["esame"]}
   ],
   "examination": [
-    "esame"
+    {"id": 5389,"text": ["esame"]}
   ],
   "examine": [
-    "esaminare",
-    "visionare"
+    {"id": 5390,"text": ["esaminare"]},
+    {"id": 5391,"text": ["visionare"]}
   ],
   "examinee": [
-    "candidato"
+    {"id": 5392,"text": ["candidato"]}
   ],
   "examiner": [
-    "esaminatore"
+    {"id": 5393,"text": ["esaminatore"]}
   ],
   "example": [
-    "esempio"
+    {"id": 5394,"text": ["esempio"]}
   ],
   "exasperate": [
-    "esasperare"
+    {"id": 5395,"text": ["esasperare"]}
   ],
   "exasperation": [
-    "esasperazione"
+    {"id": 5396,"text": ["esasperazione"]}
   ],
   "excavate": [
-    "scavare"
+    {"id": 5397,"text": ["scavare"]}
   ],
   "excavation": [
-    "escavazione",
-    "scavo"
+    {"id": 5398,"text": ["escavazione"]},
+    {"id": 5399,"text": ["scavo"]}
   ],
   "exceed": [
-    "superare"
+    {"id": 5400,"text": ["superare"]}
   ],
   "exceedingly": [
-    "estremamente"
+    {"id": 5401,"text": ["estremamente"]}
   ],
   "excellence": [
-    "eccellenza"
+    {"id": 5402,"text": ["eccellenza"]}
   ],
   "excellent": [
-    "eccellente"
+    {"id": 5403,"text": ["eccellente"]}
   ],
   "except": [
-    "eccetto",
-    "eccettuare"
+    {"id": 5404,"text": ["eccetto"]},
+    {"id": 5405,"text": ["eccettuare"]}
   ],
   "except for": [
-    "tranne"
+    {"id": 5406,"text": ["tranne"]}
   ],
   "exception": [
-    "eccezione"
+    {"id": 5407,"text": ["eccezione"]}
   ],
   "exceptional": [
-    "eccezionale"
+    {"id": 5408,"text": ["eccezionale"]}
   ],
   "exceptionally": [
-    "eccezionalmente"
+    {"id": 5409,"text": ["eccezionalmente"]}
   ],
   "excess": [
-    "eccesso"
+    {"id": 5410,"text": ["eccesso"]}
   ],
   "excessive": [
-    "eccessivo"
+    {"id": 5411,"text": ["eccessivo"]}
   ],
   "excessively": [
-    "eccessivamente"
+    {"id": 5412,"text": ["eccessivamente"]}
   ],
   "exchange": [
-    "cambio",
-    "scambiare",
-    "scambio"
+    {"id": 5413,"text": ["cambio"]},
+    {"id": 5414,"text": ["scambiare"]},
+    {"id": 5415,"text": ["scambio"]}
   ],
   "exchangeable": [
-    "intercambiabile"
+    {"id": 5416,"text": ["intercambiabile"]}
   ],
   "excitation": [
-    "eccitazione"
+    {"id": 5417,"text": ["eccitazione"]}
   ],
   "excite": [
-    "entusiasmare"
+    {"id": 5418,"text": ["entusiasmare"]}
   ],
   "excitement": [
-    "eccitazione",
-    "emozione"
+    {"id": 5419,"text": ["eccitazione"]},
+    {"id": 5420,"text": ["emozione"]}
   ],
   "exclaim": [
-    "esclamare"
+    {"id": 5421,"text": ["esclamare"]}
   ],
   "exclamation": [
-    "esclamazione"
+    {"id": 5422,"text": ["esclamazione"]}
   ],
   "exclave": [
-    "exclave"
+    {"id": 5423,"text": ["exclave"]}
   ],
   "exclude": [
-    "escludere"
+    {"id": 5424,"text": ["escludere"]}
   ],
   "exclusion": [
-    "esclusione"
+    {"id": 5425,"text": ["esclusione"]}
   ],
   "exclusive": [
-    "esclusivo"
+    {"id": 5426,"text": ["esclusivo"]}
   ],
   "exclusively": [
-    "esclusivamente"
+    {"id": 5427,"text": ["esclusivamente"]}
   ],
   "excommunication": [
-    "scomunica"
+    {"id": 5428,"text": ["scomunica"]}
   ],
   "excrement": [
-    "escremento"
+    {"id": 5429,"text": ["escremento"]}
   ],
   "excretion": [
-    "escrezione"
+    {"id": 5430,"text": ["escrezione"]}
   ],
   "excursion": [
-    "escursione"
+    {"id": 5431,"text": ["escursione"]}
   ],
   "excuse": [
-    "scusa",
-    "scusare"
+    {"id": 5432,"text": ["scusa"]},
+    {"id": 5433,"text": ["scusare"]}
   ],
   "execute": [
-    "eseguire",
-    "giustiziare"
+    {"id": 5434,"text": ["eseguire"]},
+    {"id": 5435,"text": ["giustiziare"]}
   ],
   "execution": [
-    "esecuzione"
+    {"id": 5436,"text": ["esecuzione"]}
   ],
   "executive": [
-    "esecutivo"
+    {"id": 5437,"text": ["esecutivo"]}
   ],
   "exemplary": [
-    "esemplare"
+    {"id": 5438,"text": ["esemplare"]}
   ],
   "exemplification": [
-    "esemplificazione"
+    {"id": 5439,"text": ["esemplificazione"]}
   ],
   "exemption": [
-    "esenzione"
+    {"id": 5440,"text": ["esenzione"]}
   ],
   "exercise": [
-    "allenarsi",
-    "esercitare",
-    "esercitarsi",
-    "esercizio"
+    {"id": 5441,"text": ["allenarsi"]},
+    {"id": 5442,"text": ["esercitare"]},
+    {"id": 5443,"text": ["esercitarsi"]},
+    {"id": 5444,"text": ["esercizio"]}
   ],
   "exert": [
-    "esercitare"
+    {"id": 5445,"text": ["esercitare"]}
   ],
   "exfoliation": [
-    "esfoliazione"
+    {"id": 5446,"text": ["esfoliazione"]}
   ],
   "exhalation": [
-    "esalazione"
+    {"id": 5447,"text": ["esalazione"]}
   ],
   "exhaust": [
-    "esaurire"
+    {"id": 5448,"text": ["esaurire"]}
   ],
   "exhaustive": [
-    "esaustivo"
+    {"id": 5449,"text": ["esaustivo"]}
   ],
   "exhibit": [
-    "esibire"
+    {"id": 5450,"text": ["esibire"]}
   ],
   "exhibited": [
-    "esposto"
+    {"id": 5451,"text": ["esposto"]}
   ],
   "exhibition": [
-    "esibizione",
-    "esposizione"
+    {"id": 5452,"text": ["esibizione"]},
+    {"id": 5453,"text": ["esposizione"]}
   ],
   "exhibitionism": [
-    "esibizionismo"
+    {"id": 5454,"text": ["esibizionismo"]}
   ],
   "exhort": [
-    "esortare"
+    {"id": 5455,"text": ["esortare"]}
   ],
   "exhortation": [
-    "esortazione"
+    {"id": 5456,"text": ["esortazione"]}
   ],
   "exhumation": [
-    "esumazione"
+    {"id": 5457,"text": ["esumazione"]}
   ],
   "exigible": [
-    "esigibile"
+    {"id": 5458,"text": ["esigibile"]}
   ],
   "exile": [
-    "esiliare",
-    "esiliato",
-    "esilio"
+    {"id": 5459,"text": ["esiliare"]},
+    {"id": 5460,"text": ["esiliato"]},
+    {"id": 5461,"text": ["esilio"]}
   ],
   "exiled": [
-    "esiliato"
+    {"id": 5462,"text": ["esiliato"]}
   ],
   "exist": [
-    "esistere"
+    {"id": 5463,"text": ["esistere"]}
   ],
   "existence": [
-    "esistenza"
+    {"id": 5464,"text": ["esistenza"]}
   ],
   "existent": [
-    "esistente"
+    {"id": 5465,"text": ["esistente"]}
   ],
   "existential": [
-    "esistenziale"
+    {"id": 5466,"text": ["esistenziale"]}
   ],
   "existentialism": [
-    "esistenzialismo"
+    {"id": 5467,"text": ["esistenzialismo"]}
   ],
   "exit": [
-    "uscire",
-    "uscita"
+    {"id": 5468,"text": ["uscire"]},
+    {"id": 5469,"text": ["uscita"]}
   ],
   "exocentric": [
-    "esocentrico"
+    {"id": 5470,"text": ["esocentrico"]}
   ],
   "exodus": [
-    "esodo"
+    {"id": 5471,"text": ["esodo"]}
   ],
   "exogamy": [
-    "esogamia"
+    {"id": 5472,"text": ["esogamia"]}
   ],
   "exoskeleton": [
-    "esoscheletro"
+    {"id": 5473,"text": ["esoscheletro"]}
   ],
   "exosphere": [
-    "esosfera"
+    {"id": 5474,"text": ["esosfera"]}
   ],
   "exothermic": [
-    "esotermico"
+    {"id": 5475,"text": ["esotermico"]}
   ],
   "exotic": [
-    "esotico"
+    {"id": 5476,"text": ["esotico"]}
   ],
   "exotoxin": [
-    "esotossina"
+    {"id": 5477,"text": ["esotossina"]}
   ],
   "expand": [
-    "ampliare"
+    {"id": 5478,"text": ["ampliare"]}
   ],
   "expansion": [
-    "ampliamento",
-    "espansione"
+    {"id": 5479,"text": ["ampliamento"]},
+    {"id": 5480,"text": ["espansione"]}
   ],
   "expansionism": [
-    "espansionismo"
+    {"id": 5481,"text": ["espansionismo"]}
   ],
   "expansionist": [
-    "espansionista"
+    {"id": 5482,"text": ["espansionista"]}
   ],
   "expansive": [
-    "espansivo"
+    {"id": 5483,"text": ["espansivo"]}
   ],
   "expatriation": [
-    "espatrio"
+    {"id": 5484,"text": ["espatrio"]}
   ],
   "expect": [
-    "aspettare"
+    {"id": 5485,"text": ["aspettare"]}
   ],
   "expectancy": [
-    "aspettativa"
+    {"id": 5486,"text": ["aspettativa"]}
   ],
   "expectation": [
-    "aspettativa"
+    {"id": 5487,"text": ["aspettativa"]}
   ],
   "expectoration": [
-    "espettorazione"
+    {"id": 5488,"text": ["espettorazione"]}
   ],
   "expedition": [
-    "spedizione"
+    {"id": 5489,"text": ["spedizione"]}
   ],
   "expel": [
-    "espellere"
+    {"id": 5490,"text": ["espellere"]}
   ],
   "expenditure": [
-    "spesa"
+    {"id": 5491,"text": ["spesa"]}
   ],
   "expense": [
-    "spesa"
+    {"id": 5492,"text": ["spesa"]}
   ],
   "expensive": [
-    "caro"
+    {"id": 5493,"text": ["caro"]}
   ],
   "experience": [
-    "esperienza",
-    "sperimentare"
+    {"id": 5494,"text": ["esperienza"]},
+    {"id": 5495,"text": ["sperimentare"]}
   ],
   "experiment": [
-    "esperimento"
+    {"id": 5496,"text": ["esperimento"]}
   ],
   "experimental": [
-    "sperimentale"
+    {"id": 5497,"text": ["sperimentale"]}
   ],
   "experimentally": [
-    "sperimentalmente"
+    {"id": 5498,"text": ["sperimentalmente"]}
   ],
   "experimentation": [
-    "sperimentazione"
+    {"id": 5499,"text": ["sperimentazione"]}
   ],
   "expert": [
-    "esperto",
-    "peritale"
+    {"id": 5500,"text": ["esperto"]},
+    {"id": 5501,"text": ["peritale"]}
   ],
   "expiation": [
-    "espiazione"
+    {"id": 5502,"text": ["espiazione"]}
   ],
   "expiration": [
-    "scadenza"
+    {"id": 5503,"text": ["scadenza"]}
   ],
   "explain": [
-    "raccontare",
-    "spiegare"
+    {"id": 5504,"text": ["raccontare"]},
+    {"id": 5505,"text": ["spiegare"]}
   ],
   "explainable": [
-    "esplicabile"
+    {"id": 5506,"text": ["esplicabile"]}
   ],
   "explanation": [
-    "spiegazione"
+    {"id": 5507,"text": ["spiegazione"]}
   ],
   "explanatory": [
-    "esplicativo"
+    {"id": 5508,"text": ["esplicativo"]}
   ],
   "explicit": [
-    "esplicito"
+    {"id": 5509,"text": ["esplicito"]}
   ],
   "explicitly": [
-    "esplicitamente"
+    {"id": 5510,"text": ["esplicitamente"]}
   ],
   "explode": [
-    "sfruttare"
+    {"id": 5511,"text": ["sfruttare"]}
   ],
   "exploit": [
-    "sfruttare"
+    {"id": 5512,"text": ["sfruttare"]}
   ],
   "exploitation": [
-    "sfruttamento"
+    {"id": 5513,"text": ["sfruttamento"]}
   ],
   "exploration": [
-    "esplorazione"
+    {"id": 5514,"text": ["esplorazione"]}
   ],
   "explore": [
-    "esplorare"
+    {"id": 5515,"text": ["esplorare"]}
   ],
   "explosion": [
-    "esplosione"
+    {"id": 5516,"text": ["esplosione"]}
   ],
   "explosive": [
-    "esplosivo"
+    {"id": 5517,"text": ["esplosivo"]}
   ],
   "exponent": [
-    "esponente"
+    {"id": 5518,"text": ["esponente"]}
   ],
   "exponential": [
-    "esponenziale"
+    {"id": 5519,"text": ["esponenziale"]}
   ],
   "export": [
-    "esportare",
-    "esportazione"
+    {"id": 5520,"text": ["esportare"]},
+    {"id": 5521,"text": ["esportazione"]}
   ],
   "expose": [
-    "esporre"
+    {"id": 5522,"text": ["esporre"]}
   ],
   "exposed": [
-    "esposto"
+    {"id": 5523,"text": ["esposto"]}
   ],
   "exposition": [
-    "esposizione"
+    {"id": 5524,"text": ["esposizione"]}
   ],
   "exposure": [
-    "esposizione"
+    {"id": 5525,"text": ["esposizione"]}
   ],
   "express": [
-    "esprimere"
+    {"id": 5526,"text": ["esprimere"]}
   ],
   "expression": [
-    "espressione",
-    "locuzione"
+    {"id": 5527,"text": ["espressione"]},
+    {"id": 5528,"text": ["locuzione"]}
   ],
   "expressionism": [
-    "espressionismo"
+    {"id": 5529,"text": ["espressionismo"]}
   ],
   "expressive": [
-    "espressivo"
+    {"id": 5530,"text": ["espressivo"]}
   ],
   "expropriation": [
-    "espropriazione",
-    "esproprio"
+    {"id": 5531,"text": ["espropriazione"]},
+    {"id": 5532,"text": ["esproprio"]}
   ],
   "expulsion": [
-    "espulsione"
+    {"id": 5533,"text": ["espulsione"]}
   ],
   "exquisitely": [
-    "squisitamente"
+    {"id": 5534,"text": ["squisitamente"]}
   ],
   "extend": [
-    "estendere"
+    {"id": 5535,"text": ["estendere"]}
   ],
   "extensible": [
-    "estensibile"
+    {"id": 5536,"text": ["estensibile"]}
   ],
   "extension": [
-    "estensione"
+    {"id": 5537,"text": ["estensione"]}
   ],
   "extensive": [
-    "estenso"
+    {"id": 5538,"text": ["estenso"]}
   ],
   "extensively": [
-    "largamente"
+    {"id": 5539,"text": ["largamente"]}
   ],
   "extent": [
-    "portata"
+    {"id": 5540,"text": ["portata"]}
   ],
   "extenuating": [
-    "attenuante"
+    {"id": 5541,"text": ["attenuante"]}
   ],
   "exterior": [
-    "esteriore"
+    {"id": 5542,"text": ["esteriore"]}
   ],
   "exterminate": [
-    "sterminare"
+    {"id": 5543,"text": ["sterminare"]}
   ],
   "extermination": [
-    "sterminio"
+    {"id": 5544,"text": ["sterminio"]}
   ],
   "external": [
-    "esterno"
+    {"id": 5545,"text": ["esterno"]}
   ],
   "externalisation": [
-    "esternalizzazione"
+    {"id": 5546,"text": ["esternalizzazione"]}
   ],
   "externally": [
-    "esternamente"
+    {"id": 5547,"text": ["esternamente"]}
   ],
   "extinct": [
-    "estinto"
+    {"id": 5548,"text": ["estinto"]}
   ],
   "extinction": [
-    "estinzione"
+    {"id": 5549,"text": ["estinzione"]}
   ],
   "extinguish": [
-    "estinguere"
+    {"id": 5550,"text": ["estinguere"]}
   ],
   "extinguished": [
-    "estinto"
+    {"id": 5551,"text": ["estinto"]}
   ],
   "extinguisher": [
-    "estintore"
+    {"id": 5552,"text": ["estintore"]}
   ],
   "extirpation": [
-    "estirpazione"
+    {"id": 5553,"text": ["estirpazione"]}
   ],
   "extort": [
-    "estorcere"
+    {"id": 5554,"text": ["estorcere"]}
   ],
   "extortion": [
-    "estorsione"
+    {"id": 5555,"text": ["estorsione"]}
   ],
   "extra": [
-    "extra"
+    {"id": 5556,"text": ["extra"]}
   ],
   "extract": [
-    "estrarre",
-    "estratto"
+    {"id": 5557,"text": ["estrarre"]},
+    {"id": 5558,"text": ["estratto"]}
   ],
   "extraction": [
-    "estrazione"
+    {"id": 5559,"text": ["estrazione"]}
   ],
   "extractor": [
-    "estrattore"
+    {"id": 5560,"text": ["estrattore"]}
   ],
   "extracurricular": [
-    "extracurriculare"
+    {"id": 5561,"text": ["extracurriculare"]}
   ],
   "extradition": [
-    "estradizione"
+    {"id": 5562,"text": ["estradizione"]}
   ],
   "extraordinarily": [
-    "straordinariamente"
+    {"id": 5563,"text": ["straordinariamente"]}
   ],
   "extraordinary": [
-    "straordinario"
+    {"id": 5564,"text": ["straordinario"]}
   ],
   "extrapolation": [
-    "estrapolazione"
+    {"id": 5565,"text": ["estrapolazione"]}
   ],
   "extraterrestrial": [
-    "extraterrestre"
+    {"id": 5566,"text": ["extraterrestre"]}
   ],
   "extravagant": [
-    "stravagante"
+    {"id": 5567,"text": ["stravagante"]}
   ],
   "extreme": [
-    "estremo"
+    {"id": 5568,"text": ["estremo"]}
   ],
   "extremely": [
-    "estremamente"
+    {"id": 5569,"text": ["estremamente"]}
   ],
   "extremism": [
-    "estremismo"
+    {"id": 5570,"text": ["estremismo"]}
   ],
   "extremist": [
-    "estremista"
+    {"id": 5571,"text": ["estremista"]}
   ],
   "extroverted": [
-    "estroverso"
+    {"id": 5572,"text": ["estroverso"]}
   ],
   "extrusion": [
-    "estrusione"
+    {"id": 5573,"text": ["estrusione"]}
   ],
   "exuberance": [
-    "esuberanza"
+    {"id": 5574,"text": ["esuberanza"]}
   ],
   "exudate": [
-    "essudato"
+    {"id": 5575,"text": ["essudato"]}
   ],
   "exudation": [
-    "essudazione"
+    {"id": 5576,"text": ["essudazione"]}
   ],
   "eye": [
-    "occhio"
+    {"id": 5577,"text": ["occhio"]}
   ],
   "eyebrow": [
-    "sopracciglio"
+    {"id": 5578,"text": ["sopracciglio"]}
   ],
   "eyedrop": [
-    "collirio"
+    {"id": 5579,"text": ["collirio"]}
   ],
   "eyelash": [
-    "ciglio"
+    {"id": 5580,"text": ["ciglio"]}
   ]
 }

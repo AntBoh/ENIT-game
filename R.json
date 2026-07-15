@@ -1,2219 +1,2219 @@
 {
   "rabbi": [
-    "rabbino"
+    {"id": 11787,"text": ["rabbino"]}
   ],
   "rabbit": [
-    "coniglio"
+    {"id": 11788,"text": ["coniglio"]}
   ],
   "rabies": [
-    "rabbia"
+    {"id": 11789,"text": ["rabbia"]}
   ],
   "race": [
-    "correre",
-    "corsa",
-    "gara",
-    "gareggiare",
-    "razza"
+    {"id": 11790,"text": ["correre"]},
+    {"id": 11791,"text": ["corsa"]},
+    {"id": 11792,"text": ["gara"]},
+    {"id": 11793,"text": ["gareggiare"]},
+    {"id": 11794,"text": ["razza"]}
   ],
   "racial": [
-    "razziale"
+    {"id": 11795,"text": ["razziale"]}
   ],
   "racism": [
-    "razzismo"
+    {"id": 11796,"text": ["razzismo"]}
   ],
   "racist": [
-    "razzista"
+    {"id": 11797,"text": ["razzista"]}
   ],
   "radar": [
-    "radar"
+    {"id": 11798,"text": ["radar"]}
   ],
   "radial": [
-    "radiale"
+    {"id": 11799,"text": ["radiale"]}
   ],
   "radiance": [
-    "radianza"
+    {"id": 11800,"text": ["radianza"]}
   ],
   "radiant": [
-    "radiante"
+    {"id": 11801,"text": ["radiante"]}
   ],
   "radiation": [
-    "radiazione"
+    {"id": 11802,"text": ["radiazione"]}
   ],
   "radical": [
-    "radicale"
+    {"id": 11803,"text": ["radicale"]}
   ],
   "radicalism": [
-    "radicalismo"
+    {"id": 11804,"text": ["radicalismo"]}
   ],
   "radically": [
-    "radicalmente"
+    {"id": 11805,"text": ["radicalmente"]}
   ],
   "radication": [
-    "radicazione"
+    {"id": 11806,"text": ["radicazione"]}
   ],
   "radio": [
-    "radio"
+    {"id": 11807,"text": ["radio"]}
   ],
   "radiocommunication": [
-    "radiocomunicazione"
+    {"id": 11808,"text": ["radiocomunicazione"]}
   ],
   "radiographic": [
-    "radiografico"
+    {"id": 11809,"text": ["radiografico"]}
   ],
   "radiography": [
-    "radiografia"
+    {"id": 11810,"text": ["radiografia"]}
   ],
   "radioisotope": [
-    "radioisotopo"
+    {"id": 11811,"text": ["radioisotopo"]}
   ],
   "radiology": [
-    "radiologia"
+    {"id": 11812,"text": ["radiologia"]}
   ],
   "radiometer": [
-    "radiometro"
+    {"id": 11813,"text": ["radiometro"]}
   ],
   "radiometry": [
-    "radiometria"
+    {"id": 11814,"text": ["radiometria"]}
   ],
   "radionavigation": [
-    "radionavigazione"
+    {"id": 11815,"text": ["radionavigazione"]}
   ],
   "radionuclide": [
-    "radionuclide"
+    {"id": 11816,"text": ["radionuclide"]}
   ],
   "radiotelegraphy": [
-    "radiotelegrafia"
+    {"id": 11817,"text": ["radiotelegrafia"]}
   ],
   "radiotelephony": [
-    "radiotelefonia"
+    {"id": 11818,"text": ["radiotelefonia"]}
   ],
   "radiotherapy": [
-    "radioterapia"
+    {"id": 11819,"text": ["radioterapia"]}
   ],
   "radium": [
-    "radio"
+    {"id": 11820,"text": ["radio"]}
   ],
   "radius": [
-    "raggio"
+    {"id": 11821,"text": ["raggio"]}
   ],
   "radon": [
-    "radon"
+    {"id": 11822,"text": ["radon"]}
   ],
   "raffia": [
-    "rafia"
+    {"id": 11823,"text": ["rafia"]}
   ],
   "raft": [
-    "zattera"
+    {"id": 11824,"text": ["zattera"]}
   ],
   "rage": [
-    "collera"
+    {"id": 11825,"text": ["collera"]}
   ],
   "raging": [
-    "furioso"
+    {"id": 11826,"text": ["furioso"]}
   ],
   "rail": [
-    "rotaia"
+    {"id": 11827,"text": ["rotaia"]}
   ],
   "railcar": [
-    "automotrice"
+    {"id": 11828,"text": ["automotrice"]}
   ],
   "railroad": [
-    "ferrovia"
+    {"id": 11829,"text": ["ferrovia"]}
   ],
   "railway": [
-    "ferrovia"
+    {"id": 11830,"text": ["ferrovia"]}
   ],
   "rain": [
-    "pioggia",
-    "piovere"
+    {"id": 11831,"text": ["pioggia"]},
+    {"id": 11832,"text": ["piovere"]}
   ],
   "rainbow": [
-    "arcobaleno"
+    {"id": 11833,"text": ["arcobaleno"]}
   ],
   "raincoat": [
-    "impermeabile"
+    {"id": 11834,"text": ["impermeabile"]}
   ],
   "raingauge": [
-    "pluviometro"
+    {"id": 11835,"text": ["pluviometro"]}
   ],
   "raise": [
-    "alzare"
+    {"id": 11836,"text": ["alzare"]}
   ],
   "raisin": [
-    "uva passa"
+    {"id": 11837,"text": ["uva passa"]}
   ],
   "rake": [
-    "rastrellare",
-    "rastrello"
+    {"id": 11838,"text": ["rastrellare"]},
+    {"id": 11839,"text": ["rastrello"]}
   ],
   "rally": [
-    "rally"
+    {"id": 11840,"text": ["rally"]}
   ],
   "ramen": [
-    "ramen"
+    {"id": 11841,"text": ["ramen"]}
   ],
   "ramification": [
-    "ramificazione"
+    {"id": 11842,"text": ["ramificazione"]}
   ],
   "rampart": [
-    "bastione"
+    {"id": 11843,"text": ["bastione"]}
   ],
   "rancid": [
-    "rancido"
+    {"id": 11844,"text": ["rancido"]}
   ],
   "random": [
-    "aleatorio",
-    "casuale"
+    {"id": 11845,"text": ["aleatorio"]},
+    {"id": 11846,"text": ["casuale"]}
   ],
   "randomisation": [
-    "randomizzazione"
+    {"id": 11847,"text": ["randomizzazione"]}
   ],
   "randomly": [
-    "a caso"
+    {"id": 11848,"text": ["a caso"]}
   ],
   "range": [
-    "allineare",
-    "gamma",
-    "portata",
-    "raggio",
-    "variare"
+    {"id": 11849,"text": ["allineare"]},
+    {"id": 11850,"text": ["gamma"]},
+    {"id": 11851,"text": ["portata"]},
+    {"id": 11852,"text": ["raggio"]},
+    {"id": 11853,"text": ["variare"]}
   ],
   "rank": [
-    "grado",
-    "rango",
-    "riga"
+    {"id": 11854,"text": ["grado"]},
+    {"id": 11855,"text": ["rango"]},
+    {"id": 11856,"text": ["riga"]}
   ],
   "rapeseed": [
-    "colza"
+    {"id": 11857,"text": ["colza"]}
   ],
   "rapid": [
-    "rapido"
+    {"id": 11858,"text": ["rapido"]}
   ],
   "rapidly": [
-    "rapidamente"
+    {"id": 11859,"text": ["rapidamente"]}
   ],
   "rare": [
-    "raro"
+    {"id": 11860,"text": ["raro"]}
   ],
   "rarely": [
-    "raramente"
+    {"id": 11861,"text": ["raramente"]}
   ],
   "raspberry": [
-    "lampone"
+    {"id": 11862,"text": ["lampone"]}
   ],
   "rat": [
-    "ratto",
-    "topo"
+    {"id": 11863,"text": ["ratto"]},
+    {"id": 11864,"text": ["topo"]}
   ],
   "rate": [
-    "aliquota",
-    "indice",
-    "ritmo",
-    "stimare",
-    "tasso"
+    {"id": 11865,"text": ["aliquota"]},
+    {"id": 11866,"text": ["indice"]},
+    {"id": 11867,"text": ["ritmo"]},
+    {"id": 11868,"text": ["stimare"]},
+    {"id": 11869,"text": ["tasso"]}
   ],
   "rather": [
-    "abbastanza",
-    "piuttosto",
-    "preferire"
+    {"id": 11870,"text": ["abbastanza"]},
+    {"id": 11871,"text": ["piuttosto"]},
+    {"id": 11872,"text": ["preferire"]}
   ],
   "ratify": [
-    "ratificare"
+    {"id": 11873,"text": ["ratificare"]}
   ],
   "rating": [
-    "valutazione",
-    "voto"
+    {"id": 11874,"text": ["valutazione"]},
+    {"id": 11875,"text": ["voto"]}
   ],
   "ratio": [
-    "proporzione"
+    {"id": 11876,"text": ["proporzione"]}
   ],
   "ration": [
-    "razione"
+    {"id": 11877,"text": ["razione"]}
   ],
   "rational": [
-    "razionale"
+    {"id": 11878,"text": ["razionale"]}
   ],
   "rationalisation": [
-    "razionalizzazione"
+    {"id": 11879,"text": ["razionalizzazione"]}
   ],
   "rationalism": [
-    "razionalismo"
+    {"id": 11880,"text": ["razionalismo"]}
   ],
   "raven": [
-    "corvo"
+    {"id": 11881,"text": ["corvo"]}
   ],
   "raw": [
-    "crudo"
+    {"id": 11882,"text": ["crudo"]}
   ],
   "ray": [
-    "fulmine",
-    "raggio"
+    {"id": 11883,"text": ["fulmine"]},
+    {"id": 11884,"text": ["raggio"]}
   ],
   "razor": [
-    "rasoio"
+    {"id": 11885,"text": ["rasoio"]}
   ],
   "reach": [
-    "portata",
-    "raggiungere",
-    "riuscire"
+    {"id": 11886,"text": ["portata"]},
+    {"id": 11887,"text": ["raggiungere"]},
+    {"id": 11888,"text": ["riuscire"]}
   ],
   "reachfor": [
-    "prendere"
+    {"id": 11889,"text": ["prendere"]}
   ],
   "react": [
-    "reagire"
+    {"id": 11890,"text": ["reagire"]}
   ],
   "reactance": [
-    "reattanza"
+    {"id": 11891,"text": ["reattanza"]}
   ],
   "reactant": [
-    "reagente"
+    {"id": 11892,"text": ["reagente"]}
   ],
   "reaction": [
-    "reazione"
+    {"id": 11893,"text": ["reazione"]}
   ],
   "reactionary": [
-    "reazionario"
+    {"id": 11894,"text": ["reazionario"]}
   ],
   "reactivate": [
-    "riattivare"
+    {"id": 11895,"text": ["riattivare"]}
   ],
   "reactivation": [
-    "riattivazione"
+    {"id": 11896,"text": ["riattivazione"]}
   ],
   "reactor": [
-    "reattore"
+    {"id": 11897,"text": ["reattore"]}
   ],
   "read": [
-    "leggere"
+    {"id": 11898,"text": ["leggere"]}
   ],
   "readable": [
-    "leggibile"
+    {"id": 11899,"text": ["leggibile"]}
   ],
   "reader": [
-    "lettore"
+    {"id": 11900,"text": ["lettore"]}
   ],
   "readily": [
-    "facilmente",
-    "prontamente"
+    {"id": 11901,"text": ["facilmente"]},
+    {"id": 11902,"text": ["prontamente"]}
   ],
   "reading": [
-    "lettura"
+    {"id": 11903,"text": ["lettura"]}
   ],
   "readjust": [
-    "riadattare"
+    {"id": 11904,"text": ["riadattare"]}
   ],
   "reafforestation": [
-    "riforestazione"
+    {"id": 11905,"text": ["riforestazione"]}
   ],
   "reagent": [
-    "reagente"
+    {"id": 11906,"text": ["reagente"]}
   ],
   "real": [
-    "reale"
+    {"id": 11907,"text": ["reale"]}
   ],
   "real estate": [
-    "immobile"
+    {"id": 11908,"text": ["immobile"]}
   ],
   "realisation": [
-    "realizzazione"
+    {"id": 11909,"text": ["realizzazione"]}
   ],
   "realise": [
-    "realizzare"
+    {"id": 11910,"text": ["realizzare"]}
   ],
   "realism": [
-    "realismo"
+    {"id": 11911,"text": ["realismo"]}
   ],
   "realistic": [
-    "realista",
-    "realistico"
+    {"id": 11912,"text": ["realista"]},
+    {"id": 11913,"text": ["realistico"]}
   ],
   "realization": [
-    "realizzazione"
+    {"id": 11914,"text": ["realizzazione"]}
   ],
   "realize": [
-    "realizzare"
+    {"id": 11915,"text": ["realizzare"]}
   ],
   "reallocation": [
-    "riassegnazione"
+    {"id": 11916,"text": ["riassegnazione"]}
   ],
   "really": [
-    "davvero",
-    "molto",
-    "realmente"
+    {"id": 11917,"text": ["davvero"]},
+    {"id": 11918,"text": ["molto"]},
+    {"id": 11919,"text": ["realmente"]}
   ],
   "reanimate": [
-    "rianimare"
+    {"id": 11920,"text": ["rianimare"]}
   ],
   "reanimation": [
-    "rianimazione"
+    {"id": 11921,"text": ["rianimazione"]}
   ],
   "reappear": [
-    "riapparire"
+    {"id": 11922,"text": ["riapparire"]}
   ],
   "rearm": [
-    "riarmare"
+    {"id": 11923,"text": ["riarmare"]}
   ],
   "reason": [
-    "motivo",
-    "ragionare",
-    "ragione"
+    {"id": 11924,"text": ["motivo"]},
+    {"id": 11925,"text": ["ragionare"]},
+    {"id": 11926,"text": ["ragione"]}
   ],
   "reasonable": [
-    "ragionevole"
+    {"id": 11927,"text": ["ragionevole"]}
   ],
   "reasonably": [
-    "ragionevolmente"
+    {"id": 11928,"text": ["ragionevolmente"]}
   ],
   "reasoning": [
-    "ragionamento"
+    {"id": 11929,"text": ["ragionamento"]}
   ],
   "reassurance": [
-    "rassicurazione"
+    {"id": 11930,"text": ["rassicurazione"]}
   ],
   "reassure": [
-    "rassicurare"
+    {"id": 11931,"text": ["rassicurare"]}
   ],
   "rebellion": [
-    "ribellione"
+    {"id": 11932,"text": ["ribellione"]}
   ],
   "rebellious": [
-    "ribelle"
+    {"id": 11933,"text": ["ribelle"]}
   ],
   "rebound": [
-    "rimbalzare"
+    {"id": 11934,"text": ["rimbalzare"]}
   ],
   "rebuild": [
-    "ricostruire"
+    {"id": 11935,"text": ["ricostruire"]}
   ],
   "recall": [
-    "richiamare",
-    "ricordare"
+    {"id": 11936,"text": ["richiamare"]},
+    {"id": 11937,"text": ["ricordare"]}
   ],
   "receipt": [
-    "ricevuta",
-    "scontrino"
+    {"id": 11938,"text": ["ricevuta"]},
+    {"id": 11939,"text": ["scontrino"]}
   ],
   "receive": [
-    "ricevere"
+    {"id": 11940,"text": ["ricevere"]}
   ],
   "recent": [
-    "recente"
+    {"id": 11941,"text": ["recente"]}
   ],
   "recently": [
-    "recentemente"
+    {"id": 11942,"text": ["recentemente"]}
   ],
   "receptacle": [
-    "ricettacolo"
+    {"id": 11943,"text": ["ricettacolo"]}
   ],
   "reception": [
-    "accoglienza",
-    "ricezione"
+    {"id": 11944,"text": ["accoglienza"]},
+    {"id": 11945,"text": ["ricezione"]}
   ],
   "receptor": [
-    "recettore"
+    {"id": 11946,"text": ["recettore"]}
   ],
   "recess": [
-    "intervallo",
-    "recesso",
-    "ricreazione",
-    "sospendere"
+    {"id": 11947,"text": ["intervallo"]},
+    {"id": 11948,"text": ["recesso"]},
+    {"id": 11949,"text": ["ricreazione"]},
+    {"id": 11950,"text": ["sospendere"]}
   ],
   "recession": [
-    "recessione"
+    {"id": 11951,"text": ["recessione"]}
   ],
   "recipe": [
-    "ricetta"
+    {"id": 11952,"text": ["ricetta"]}
   ],
   "reciprocal": [
-    "reciproco"
+    {"id": 11953,"text": ["reciproco"]}
   ],
   "reciprocally": [
-    "reciprocamente"
+    {"id": 11954,"text": ["reciprocamente"]}
   ],
   "recirculation": [
-    "circolazione"
+    {"id": 11955,"text": ["circolazione"]}
   ],
   "recital": [
-    "recita"
+    {"id": 11956,"text": ["recita"]}
   ],
   "recitation": [
-    "recitazione"
+    {"id": 11957,"text": ["recitazione"]}
   ],
   "recite": [
-    "recitare"
+    {"id": 11958,"text": ["recitare"]}
   ],
   "reckless": [
-    "temerario"
+    {"id": 11959,"text": ["temerario"]}
   ],
   "reckon": [
-    "considerare"
+    {"id": 11960,"text": ["considerare"]}
   ],
   "recognise": [
-    "riconoscere"
+    {"id": 11961,"text": ["riconoscere"]}
   ],
   "recognition": [
-    "ricognizione",
-    "visita"
+    {"id": 11962,"text": ["ricognizione"]},
+    {"id": 11963,"text": ["visita"]}
   ],
   "recombination": [
-    "ricombinazione"
+    {"id": 11964,"text": ["ricombinazione"]}
   ],
   "recommend": [
-    "consigliare",
-    "raccomandare"
+    {"id": 11965,"text": ["consigliare"]},
+    {"id": 11966,"text": ["raccomandare"]}
   ],
   "recommendable": [
-    "consigliabile"
+    {"id": 11967,"text": ["consigliabile"]}
   ],
   "recommendation": [
-    "consiglio",
-    "raccomandazione"
+    {"id": 11968,"text": ["consiglio"]},
+    {"id": 11969,"text": ["raccomandazione"]}
   ],
   "recommended": [
-    "raccomandabile"
+    {"id": 11970,"text": ["raccomandabile"]}
   ],
   "recompensate": [
-    "ricompensare"
+    {"id": 11971,"text": ["ricompensare"]}
   ],
   "reconcile": [
-    "riconciliare"
+    {"id": 11972,"text": ["riconciliare"]}
   ],
   "reconciliate": [
-    "riconciliare"
+    {"id": 11973,"text": ["riconciliare"]}
   ],
   "reconciliation": [
-    "riconciliazione"
+    {"id": 11974,"text": ["riconciliazione"]}
   ],
   "reconfiguration": [
-    "riconfigurazione"
+    {"id": 11975,"text": ["riconfigurazione"]}
   ],
   "reconsider": [
-    "riconsiderare"
+    {"id": 11976,"text": ["riconsiderare"]}
   ],
   "reconsideration": [
-    "riconsiderazione"
+    {"id": 11977,"text": ["riconsiderazione"]}
   ],
   "reconstitute": [
-    "ricostituire"
+    {"id": 11978,"text": ["ricostituire"]}
   ],
   "reconstruct": [
-    "ricostruire"
+    {"id": 11979,"text": ["ricostruire"]}
   ],
   "reconstruction": [
-    "ricostruzione"
+    {"id": 11980,"text": ["ricostruzione"]}
   ],
   "reconversion": [
-    "riconversione"
+    {"id": 11981,"text": ["riconversione"]}
   ],
   "reconvert": [
-    "riconvertire"
+    {"id": 11982,"text": ["riconvertire"]}
   ],
   "record": [
-    "disco",
-    "record",
-    "registrare",
-    "registro"
+    {"id": 11983,"text": ["disco"]},
+    {"id": 11984,"text": ["record"]},
+    {"id": 11985,"text": ["registrare"]},
+    {"id": 11986,"text": ["registro"]}
   ],
   "recording": [
-    "registrazione"
+    {"id": 11987,"text": ["registrazione"]}
   ],
   "recourse": [
-    "ricorso"
+    {"id": 11988,"text": ["ricorso"]}
   ],
   "recover": [
-    "recuperare"
+    {"id": 11989,"text": ["recuperare"]}
   ],
   "recoverable": [
-    "recuperabile"
+    {"id": 11990,"text": ["recuperabile"]}
   ],
   "recovery": [
-    "recupero",
-    "ripristino"
+    {"id": 11991,"text": ["recupero"]},
+    {"id": 11992,"text": ["ripristino"]}
   ],
   "recreate": [
-    "ricreare"
+    {"id": 11993,"text": ["ricreare"]}
   ],
   "recreation": [
-    "ricreazione"
+    {"id": 11994,"text": ["ricreazione"]}
   ],
   "recreational": [
-    "ricreativo"
+    {"id": 11995,"text": ["ricreativo"]}
   ],
   "recrimination": [
-    "recriminazione"
+    {"id": 11996,"text": ["recriminazione"]}
   ],
   "recruitment": [
-    "coscrizione"
+    {"id": 11997,"text": ["coscrizione"]}
   ],
   "rectal": [
-    "rettale"
+    {"id": 11998,"text": ["rettale"]}
   ],
   "rectangle": [
-    "rettangolo"
+    {"id": 11999,"text": ["rettangolo"]}
   ],
   "rectangular": [
-    "rettangolare"
+    {"id": 12000,"text": ["rettangolare"]}
   ],
   "rectification": [
-    "rettificazione"
+    {"id": 12001,"text": ["rettificazione"]}
   ],
   "rector": [
-    "rettore"
+    {"id": 12002,"text": ["rettore"]}
   ],
   "rectum": [
-    "retto"
+    {"id": 12003,"text": ["retto"]}
   ],
   "recuperate": [
-    "recuperare"
+    {"id": 12004,"text": ["recuperare"]}
   ],
   "recurrence": [
-    "ricorrenza"
+    {"id": 12005,"text": ["ricorrenza"]}
   ],
   "recurrent": [
-    "ricorrente"
+    {"id": 12006,"text": ["ricorrente"]}
   ],
   "recursively": [
-    "ricorsivamente"
+    {"id": 12007,"text": ["ricorsivamente"]}
   ],
   "recyclable": [
-    "riciclabile"
+    {"id": 12008,"text": ["riciclabile"]}
   ],
   "recycle": [
-    "riciclare"
+    {"id": 12009,"text": ["riciclare"]}
   ],
   "recycleable": [
-    "riciclabile"
+    {"id": 12010,"text": ["riciclabile"]}
   ],
   "recycling": [
-    "riciclaggio"
+    {"id": 12011,"text": ["riciclaggio"]}
   ],
   "red": [
-    "rosso"
+    {"id": 12012,"text": ["rosso"]}
   ],
   "reddish": [
-    "rossastro"
+    {"id": 12013,"text": ["rossastro"]}
   ],
   "redefine": [
-    "ridefinire"
+    {"id": 12014,"text": ["ridefinire"]}
   ],
   "redefinition": [
-    "ridefinizione"
+    {"id": 12015,"text": ["ridefinizione"]}
   ],
   "redesign": [
-    "ridefinizione"
+    {"id": 12016,"text": ["ridefinizione"]}
   ],
   "redimension": [
-    "ridimensionare"
+    {"id": 12017,"text": ["ridimensionare"]}
   ],
   "redirect": [
-    "reindirizzare"
+    {"id": 12018,"text": ["reindirizzare"]}
   ],
   "redistribute": [
-    "redistribuire",
-    "ridistribuire"
+    {"id": 12019,"text": ["redistribuire"]},
+    {"id": 12020,"text": ["ridistribuire"]}
   ],
   "redistribution": [
-    "redistribuzione",
-    "ridistribuzione"
+    {"id": 12021,"text": ["redistribuzione"]},
+    {"id": 12022,"text": ["ridistribuzione"]}
   ],
   "redo": [
-    "rifare"
+    {"id": 12023,"text": ["rifare"]}
   ],
   "reduce": [
-    "ridurre"
+    {"id": 12024,"text": ["ridurre"]}
   ],
   "reducible": [
-    "riducibile"
+    {"id": 12025,"text": ["riducibile"]}
   ],
   "reduction": [
-    "abbuono",
-    "riduzione"
+    {"id": 12026,"text": ["abbuono"]},
+    {"id": 12027,"text": ["riduzione"]}
   ],
   "redundance": [
-    "licenziamento",
-    "ridondanza"
+    {"id": 12028,"text": ["licenziamento"]},
+    {"id": 12029,"text": ["ridondanza"]}
   ],
   "redundancy": [
-    "licenziamento",
-    "ridondanza"
+    {"id": 12030,"text": ["licenziamento"]},
+    {"id": 12031,"text": ["ridondanza"]}
   ],
   "reed": [
-    "ancia"
+    {"id": 12032,"text": ["ancia"]}
   ],
   "reedit": [
-    "rieditare"
+    {"id": 12033,"text": ["rieditare"]}
   ],
   "reeducation": [
-    "rieducazione"
+    {"id": 12034,"text": ["rieducazione"]}
   ],
   "reef": [
-    "barriera",
-    "scogliera"
+    {"id": 12035,"text": ["barriera"]},
+    {"id": 12036,"text": ["scogliera"]}
   ],
   "reelect": [
-    "rieleggere"
+    {"id": 12037,"text": ["rieleggere"]}
   ],
   "reelection": [
-    "rielezione"
+    {"id": 12038,"text": ["rielezione"]}
   ],
   "reestablish": [
-    "ristabilire"
+    {"id": 12039,"text": ["ristabilire"]}
   ],
   "reexamine": [
-    "riesaminare"
+    {"id": 12040,"text": ["riesaminare"]}
   ],
   "refer": [
-    "riferire"
+    {"id": 12041,"text": ["riferire"]}
   ],
   "referee": [
-    "arbitro"
+    {"id": 12042,"text": ["arbitro"]}
   ],
   "reference": [
-    "riferimento"
+    {"id": 12043,"text": ["riferimento"]}
   ],
   "referendum": [
-    "referendum"
+    {"id": 12044,"text": ["referendum"]}
   ],
   "referent": [
-    "referente"
+    {"id": 12045,"text": ["referente"]}
   ],
   "referential": [
-    "referenziale"
+    {"id": 12046,"text": ["referenziale"]}
   ],
   "refinery": [
-    "raffineria"
+    {"id": 12047,"text": ["raffineria"]}
   ],
   "refining": [
-    "raffinazione"
+    {"id": 12048,"text": ["raffinazione"]}
   ],
   "reflation": [
-    "riattivazione"
+    {"id": 12049,"text": ["riattivazione"]}
   ],
   "reflect": [
-    "riflettere"
+    {"id": 12050,"text": ["riflettere"]}
   ],
   "reflectance": [
-    "riflettanza"
+    {"id": 12051,"text": ["riflettanza"]}
   ],
   "reflection": [
-    "riflessione"
+    {"id": 12052,"text": ["riflessione"]}
   ],
   "reflexology": [
-    "riflessologia"
+    {"id": 12053,"text": ["riflessologia"]}
   ],
   "reforest": [
-    "rimboscare"
+    {"id": 12054,"text": ["rimboscare"]}
   ],
   "reform": [
-    "riforma",
-    "riformare"
+    {"id": 12055,"text": ["riforma"]},
+    {"id": 12056,"text": ["riformare"]}
   ],
   "reformatory": [
-    "riformatorio"
+    {"id": 12057,"text": ["riformatorio"]}
   ],
   "reformer": [
-    "riformatore"
+    {"id": 12058,"text": ["riformatore"]}
   ],
   "reformism": [
-    "riformismo"
+    {"id": 12059,"text": ["riformismo"]}
   ],
   "reformulation": [
-    "riformulazione"
+    {"id": 12060,"text": ["riformulazione"]}
   ],
   "refoundation": [
-    "rifondazione"
+    {"id": 12061,"text": ["rifondazione"]}
   ],
   "refraction": [
-    "rifrazione"
+    {"id": 12062,"text": ["rifrazione"]}
   ],
   "refractor": [
-    "rifrattore"
+    {"id": 12063,"text": ["rifrattore"]}
   ],
   "refrain": [
-    "astenersi",
-    "ritornello"
+    {"id": 12064,"text": ["astenersi"]},
+    {"id": 12065,"text": ["ritornello"]}
   ],
   "refrigeration": [
-    "refrigerazione"
+    {"id": 12066,"text": ["refrigerazione"]}
   ],
   "refrigerator": [
-    "refrigeratore"
+    {"id": 12067,"text": ["refrigeratore"]}
   ],
   "refuge": [
-    "rifugio"
+    {"id": 12068,"text": ["rifugio"]}
   ],
   "refugee": [
-    "rifugiato"
+    {"id": 12069,"text": ["rifugiato"]}
   ],
   "refugeecamp": [
-    "campoperrifugiati"
+    {"id": 12070,"text": ["campoperrifugiati"]}
   ],
   "refund": [
-    "rimborso"
+    {"id": 12071,"text": ["rimborso"]}
   ],
   "refundable": [
-    "rimborsabile"
+    {"id": 12072,"text": ["rimborsabile"]}
   ],
   "refusal": [
-    "negazione"
+    {"id": 12073,"text": ["negazione"]}
   ],
   "refuse": [
-    "residuo",
-    "rifiutare"
+    {"id": 12074,"text": ["residuo"]},
+    {"id": 12075,"text": ["rifiutare"]}
   ],
   "refutation": [
-    "confutazione"
+    {"id": 12076,"text": ["confutazione"]}
   ],
   "regal": [
-    "regale",
-    "regio"
+    {"id": 12077,"text": ["regale"]},
+    {"id": 12078,"text": ["regio"]}
   ],
   "regalism": [
-    "regalismo"
+    {"id": 12079,"text": ["regalismo"]}
   ],
   "regard": [
-    "riguardare",
-    "riguardo"
+    {"id": 12080,"text": ["riguardare"]},
+    {"id": 12081,"text": ["riguardo"]}
   ],
   "regency": [
-    "reggenza"
+    {"id": 12082,"text": ["reggenza"]}
   ],
   "regenerate": [
-    "rigenerare"
+    {"id": 12083,"text": ["rigenerare"]}
   ],
   "regeneration": [
-    "rigenerazione"
+    {"id": 12084,"text": ["rigenerazione"]}
   ],
   "regicide": [
-    "regicidio"
+    {"id": 12085,"text": ["regicidio"]}
   ],
   "regime": [
-    "regime"
+    {"id": 12086,"text": ["regime"]}
   ],
   "regiment": [
-    "reggimento"
+    {"id": 12087,"text": ["reggimento"]}
   ],
   "region": [
-    "regione"
+    {"id": 12088,"text": ["regione"]}
   ],
   "regional": [
-    "regionale"
+    {"id": 12089,"text": ["regionale"]}
   ],
   "regionalisation": [
-    "regionalizzazione"
+    {"id": 12090,"text": ["regionalizzazione"]}
   ],
   "regionalism": [
-    "regionalismo"
+    {"id": 12091,"text": ["regionalismo"]}
   ],
   "register": [
-    "registrare",
-    "registro"
+    {"id": 12092,"text": ["registrare"]},
+    {"id": 12093,"text": ["registro"]}
   ],
   "registration": [
-    "immatricolazione",
-    "iscrizione"
+    {"id": 12094,"text": ["immatricolazione"]},
+    {"id": 12095,"text": ["iscrizione"]}
   ],
   "regret": [
-    "pentimento",
-    "pentirsi"
+    {"id": 12096,"text": ["pentimento"]},
+    {"id": 12097,"text": ["pentirsi"]}
   ],
   "regrettable": [
-    "spiacevole"
+    {"id": 12098,"text": ["spiacevole"]}
   ],
   "regrettably": [
-    "lamentevolmente",
-    "purtroppo"
+    {"id": 12099,"text": ["lamentevolmente"]},
+    {"id": 12100,"text": ["purtroppo"]}
   ],
   "regular": [
-    "regolare"
+    {"id": 12101,"text": ["regolare"]}
   ],
   "regularisation": [
-    "regolarizzazione"
+    {"id": 12102,"text": ["regolarizzazione"]}
   ],
   "regularization": [
-    "regolarizzazione"
+    {"id": 12103,"text": ["regolarizzazione"]}
   ],
   "regularly": [
-    "regolarmente"
+    {"id": 12104,"text": ["regolarmente"]}
   ],
   "regulate": [
-    "regolamentare",
-    "regolare"
+    {"id": 12105,"text": ["regolamentare"]},
+    {"id": 12106,"text": ["regolare"]}
   ],
   "regulation": [
-    "disposizione",
-    "regolamento"
+    {"id": 12107,"text": ["disposizione"]},
+    {"id": 12108,"text": ["regolamento"]}
   ],
   "regulatory": [
-    "regolamentare",
-    "regolatore"
+    {"id": 12109,"text": ["regolamentare"]},
+    {"id": 12110,"text": ["regolatore"]}
   ],
   "rehabilitation": [
-    "riabilitazione"
+    {"id": 12111,"text": ["riabilitazione"]}
   ],
   "rehearsal": [
-    "prova"
+    {"id": 12112,"text": ["prova"]}
   ],
   "reification": [
-    "reificazione"
+    {"id": 12113,"text": ["reificazione"]}
   ],
   "reign": [
-    "regnare"
+    {"id": 12114,"text": ["regnare"]}
   ],
   "reigning": [
-    "regnante"
+    {"id": 12115,"text": ["regnante"]}
   ],
   "reincarnation": [
-    "reincarnazione"
+    {"id": 12116,"text": ["reincarnazione"]}
   ],
   "reinforce": [
-    "rafforzare",
-    "rinforzare"
+    {"id": 12117,"text": ["rafforzare"]},
+    {"id": 12118,"text": ["rinforzare"]}
   ],
   "reinforcement": [
-    "rinforzamento"
+    {"id": 12119,"text": ["rinforzamento"]}
   ],
   "reinstate": [
-    "ristabilire"
+    {"id": 12120,"text": ["ristabilire"]}
   ],
   "reinsurance": [
-    "riassicurazione"
+    {"id": 12121,"text": ["riassicurazione"]}
   ],
   "reintegration": [
-    "reintegrazione"
+    {"id": 12122,"text": ["reintegrazione"]}
   ],
   "reintroduction": [
-    "reintroduzione"
+    {"id": 12123,"text": ["reintroduzione"]}
   ],
   "reinvest": [
-    "reinvestire"
+    {"id": 12124,"text": ["reinvestire"]}
   ],
   "reissue": [
-    "riedizione",
-    "ristampare"
+    {"id": 12125,"text": ["riedizione"]},
+    {"id": 12126,"text": ["ristampare"]}
   ],
   "reiterate": [
-    "reiterare"
+    {"id": 12127,"text": ["reiterare"]}
   ],
   "reiterated": [
-    "reiterato"
+    {"id": 12128,"text": ["reiterato"]}
   ],
   "reiteration": [
-    "reiterazione"
+    {"id": 12129,"text": ["reiterazione"]}
   ],
   "reject": [
-    "rifiutare"
+    {"id": 12130,"text": ["rifiutare"]}
   ],
   "rejection": [
-    "rifiuto"
+    {"id": 12131,"text": ["rifiuto"]}
   ],
   "rejuvenate": [
-    "ringiovanire"
+    {"id": 12132,"text": ["ringiovanire"]}
   ],
   "relate": [
-    "relazionare"
+    {"id": 12133,"text": ["relazionare"]}
   ],
   "relation": [
-    "relazione"
+    {"id": 12134,"text": ["relazione"]}
   ],
   "relational": [
-    "relazionale"
+    {"id": 12135,"text": ["relazionale"]}
   ],
   "relationship": [
-    "relazione"
+    {"id": 12136,"text": ["relazione"]}
   ],
   "relative": [
-    "parente",
-    "relativo"
+    {"id": 12137,"text": ["parente"]},
+    {"id": 12138,"text": ["relativo"]}
   ],
   "relatively": [
-    "relativamente"
+    {"id": 12139,"text": ["relativamente"]}
   ],
   "relativism": [
-    "relativismo"
+    {"id": 12140,"text": ["relativismo"]}
   ],
   "relativistic": [
-    "relativista"
+    {"id": 12141,"text": ["relativista"]}
   ],
   "relaunching": [
-    "rilancio"
+    {"id": 12142,"text": ["rilancio"]}
   ],
   "relax": [
-    "relax",
-    "rilassarsi"
+    {"id": 12143,"text": ["relax"]},
+    {"id": 12144,"text": ["rilassarsi"]}
   ],
   "relaxed": [
-    "rilassato"
+    {"id": 12145,"text": ["rilassato"]}
   ],
   "release": [
-    "emissione",
-    "liberare",
-    "liberazione",
-    "rilascio",
-    "versione"
+    {"id": 12146,"text": ["emissione"]},
+    {"id": 12147,"text": ["liberare"]},
+    {"id": 12148,"text": ["liberazione"]},
+    {"id": 12149,"text": ["rilascio"]},
+    {"id": 12150,"text": ["versione"]}
   ],
   "relentless": [
-    "implacabile"
+    {"id": 12151,"text": ["implacabile"]}
   ],
   "relevant": [
-    "pertinente",
-    "rilevante"
+    {"id": 12152,"text": ["pertinente"]},
+    {"id": 12153,"text": ["rilevante"]}
   ],
   "reliable": [
-    "affidabile"
+    {"id": 12154,"text": ["affidabile"]}
   ],
   "relic": [
-    "reliquia"
+    {"id": 12155,"text": ["reliquia"]}
   ],
   "relief": [
-    "attenuazione",
-    "rilievo"
+    {"id": 12156,"text": ["attenuazione"]},
+    {"id": 12157,"text": ["rilievo"]}
   ],
   "relieve": [
-    "rilevare"
+    {"id": 12158,"text": ["rilevare"]}
   ],
   "religion": [
-    "religione"
+    {"id": 12159,"text": ["religione"]}
   ],
   "religious": [
-    "religioso"
+    {"id": 12160,"text": ["religioso"]}
   ],
   "religiously": [
-    "religiosamente"
+    {"id": 12161,"text": ["religiosamente"]}
   ],
   "relocatable": [
-    "rilocabile"
+    {"id": 12162,"text": ["rilocabile"]}
   ],
   "relocation": [
-    "delocalizzazione"
+    {"id": 12163,"text": ["delocalizzazione"]}
   ],
   "reluctant": [
-    "reticente"
+    {"id": 12164,"text": ["reticente"]}
   ],
   "rely": [
-    "affidare"
+    {"id": 12165,"text": ["affidare"]}
   ],
   "remain": [
-    "permanere",
-    "rimanere"
+    {"id": 12166,"text": ["permanere"]},
+    {"id": 12167,"text": ["rimanere"]}
   ],
   "remainder": [
-    "resto"
+    {"id": 12168,"text": ["resto"]}
   ],
   "remains": [
-    "resto"
+    {"id": 12169,"text": ["resto"]}
   ],
   "remake": [
-    "ricreare",
-    "rifare"
+    {"id": 12170,"text": ["ricreare"]},
+    {"id": 12171,"text": ["rifare"]}
   ],
   "remark": [
-    "osservare",
-    "osservazione"
+    {"id": 12172,"text": ["osservare"]},
+    {"id": 12173,"text": ["osservazione"]}
   ],
   "remarkable": [
-    "notevole"
+    {"id": 12174,"text": ["notevole"]}
   ],
   "remarkably": [
-    "straordinariamente"
+    {"id": 12175,"text": ["straordinariamente"]}
   ],
   "remedial": [
-    "terapeutico"
+    {"id": 12176,"text": ["terapeutico"]}
   ],
   "remedy": [
-    "farmaco",
-    "rimediare",
-    "rimedio"
+    {"id": 12177,"text": ["farmaco"]},
+    {"id": 12178,"text": ["rimediare"]},
+    {"id": 12179,"text": ["rimedio"]}
   ],
   "remember": [
-    "ricordare"
+    {"id": 12180,"text": ["ricordare"]}
   ],
   "remind": [
-    "ricordare"
+    {"id": 12181,"text": ["ricordare"]}
   ],
   "reminder": [
-    "promemoria"
+    {"id": 12182,"text": ["promemoria"]}
   ],
   "reminiscence": [
-    "reminiscenza"
+    {"id": 12183,"text": ["reminiscenza"]}
   ],
   "remit": [
-    "rimettere"
+    {"id": 12184,"text": ["rimettere"]}
   ],
   "remodel": [
-    "rimodellare",
-    "ristrutturare"
+    {"id": 12185,"text": ["rimodellare"]},
+    {"id": 12186,"text": ["ristrutturare"]}
   ],
   "remorse": [
-    "rimorso"
+    {"id": 12187,"text": ["rimorso"]}
   ],
   "remorseless": [
-    "implacabile"
+    {"id": 12188,"text": ["implacabile"]}
   ],
   "remote": [
-    "remoto",
-    "telecomando"
+    {"id": 12189,"text": ["remoto"]},
+    {"id": 12190,"text": ["telecomando"]}
   ],
   "removable": [
-    "removibile",
-    "rimovibile",
-    "smontabile"
+    {"id": 12191,"text": ["removibile"]},
+    {"id": 12192,"text": ["rimovibile"]},
+    {"id": 12193,"text": ["smontabile"]}
   ],
   "removal": [
-    "asportazione",
-    "rimozione"
+    {"id": 12194,"text": ["asportazione"]},
+    {"id": 12195,"text": ["rimozione"]}
   ],
   "remove": [
-    "rimuovere",
-    "togliere"
+    {"id": 12196,"text": ["rimuovere"]},
+    {"id": 12197,"text": ["togliere"]}
   ],
   "remuneration": [
-    "remunerazione"
+    {"id": 12198,"text": ["remunerazione"]}
   ],
   "renaissance": [
-    "rinascimento"
+    {"id": 12199,"text": ["rinascimento"]}
   ],
   "renal": [
-    "renale"
+    {"id": 12200,"text": ["renale"]}
   ],
   "rename": [
-    "rinominare"
+    {"id": 12201,"text": ["rinominare"]}
   ],
   "renegotiate": [
-    "rinegoziare"
+    {"id": 12202,"text": ["rinegoziare"]}
   ],
   "renew": [
-    "rinnovare"
+    {"id": 12203,"text": ["rinnovare"]}
   ],
   "renewable": [
-    "rinnovabile"
+    {"id": 12204,"text": ["rinnovabile"]}
   ],
   "renewal": [
-    "rinnovo"
+    {"id": 12205,"text": ["rinnovo"]}
   ],
   "rennet": [
-    "caglio"
+    {"id": 12206,"text": ["caglio"]}
   ],
   "renovate": [
-    "restaurare",
-    "rinnovare",
-    "ristrutturare"
+    {"id": 12207,"text": ["restaurare"]},
+    {"id": 12208,"text": ["rinnovare"]},
+    {"id": 12209,"text": ["ristrutturare"]}
   ],
   "renovation": [
-    "restauro",
-    "rinnovamento",
-    "rinnovo",
-    "ristrutturazione"
+    {"id": 12210,"text": ["restauro"]},
+    {"id": 12211,"text": ["rinnovamento"]},
+    {"id": 12212,"text": ["rinnovo"]},
+    {"id": 12213,"text": ["ristrutturazione"]}
   ],
   "rent": [
-    "affittare",
-    "affitto"
+    {"id": 12214,"text": ["affittare"]},
+    {"id": 12215,"text": ["affitto"]}
   ],
   "rental": [
-    "affitto"
+    {"id": 12216,"text": ["affitto"]}
   ],
   "reopen": [
-    "riaprire"
+    {"id": 12217,"text": ["riaprire"]}
   ],
   "reopening": [
-    "riapertura"
+    {"id": 12218,"text": ["riapertura"]}
   ],
   "reorganisation": [
-    "riorganizzazione"
+    {"id": 12219,"text": ["riorganizzazione"]}
   ],
   "reorganise": [
-    "ridimensionare",
-    "riorganizzare"
+    {"id": 12220,"text": ["ridimensionare"]},
+    {"id": 12221,"text": ["riorganizzare"]}
   ],
   "reorganization": [
-    "riorganizzazione"
+    {"id": 12222,"text": ["riorganizzazione"]}
   ],
   "reorganize": [
-    "riorganizzare"
+    {"id": 12223,"text": ["riorganizzare"]}
   ],
   "reorient": [
-    "riorientare"
+    {"id": 12224,"text": ["riorientare"]}
   ],
   "repair": [
-    "riparare",
-    "riparazione"
+    {"id": 12225,"text": ["riparare"]},
+    {"id": 12226,"text": ["riparazione"]}
   ],
   "repairable": [
-    "riparabile"
+    {"id": 12227,"text": ["riparabile"]}
   ],
   "repatriate": [
-    "rimpatriare"
+    {"id": 12228,"text": ["rimpatriare"]}
   ],
   "repatriation": [
-    "rimpatrio"
+    {"id": 12229,"text": ["rimpatrio"]}
   ],
   "repayment": [
-    "rimborso"
+    {"id": 12230,"text": ["rimborso"]}
   ],
   "repeal": [
-    "abrogazione"
+    {"id": 12231,"text": ["abrogazione"]}
   ],
   "repeat": [
-    "ripetere"
+    {"id": 12232,"text": ["ripetere"]}
   ],
   "repeatedly": [
-    "ripetutamente"
+    {"id": 12233,"text": ["ripetutamente"]}
   ],
   "repeater": [
-    "ripetitore"
+    {"id": 12234,"text": ["ripetitore"]}
   ],
   "repel": [
-    "repellere"
+    {"id": 12235,"text": ["repellere"]}
   ],
   "repercussion": [
-    "ripercussione"
+    {"id": 12236,"text": ["ripercussione"]}
   ],
   "repertoire": [
-    "repertorio"
+    {"id": 12237,"text": ["repertorio"]}
   ],
   "repetition": [
-    "ripetizione"
+    {"id": 12238,"text": ["ripetizione"]}
   ],
   "repetitive": [
-    "ripetitivo"
+    {"id": 12239,"text": ["ripetitivo"]}
   ],
   "replace": [
-    "rimpiazzare"
+    {"id": 12240,"text": ["rimpiazzare"]}
   ],
   "replacement": [
-    "sostituzione"
+    {"id": 12241,"text": ["sostituzione"]}
   ],
   "replicate": [
-    "replicare"
+    {"id": 12242,"text": ["replicare"]}
   ],
   "replication": [
-    "replicazione"
+    {"id": 12243,"text": ["replicazione"]}
   ],
   "reply": [
-    "rispondere",
-    "risposta"
+    {"id": 12244,"text": ["rispondere"]},
+    {"id": 12245,"text": ["risposta"]}
   ],
   "report": [
-    "denunciare",
-    "relazione",
-    "riportare"
+    {"id": 12246,"text": ["denunciare"]},
+    {"id": 12247,"text": ["relazione"]},
+    {"id": 12248,"text": ["riportare"]}
   ],
   "represent": [
-    "rappresentare"
+    {"id": 12249,"text": ["rappresentare"]}
   ],
   "representable": [
-    "rappresentabile"
+    {"id": 12250,"text": ["rappresentabile"]}
   ],
   "representation": [
-    "raffigurazione",
-    "rappresentazione"
+    {"id": 12251,"text": ["raffigurazione"]},
+    {"id": 12252,"text": ["rappresentazione"]}
   ],
   "representative": [
-    "rappresentante",
-    "rappresentativo"
+    {"id": 12253,"text": ["rappresentante"]},
+    {"id": 12254,"text": ["rappresentativo"]}
   ],
   "repress": [
-    "reprimere"
+    {"id": 12255,"text": ["reprimere"]}
   ],
   "repression": [
-    "repressione"
+    {"id": 12256,"text": ["repressione"]}
   ],
   "reprieve": [
-    "indulto"
+    {"id": 12257,"text": ["indulto"]}
   ],
   "reprint": [
-    "ristampa",
-    "ristampare"
+    {"id": 12258,"text": ["ristampa"]},
+    {"id": 12259,"text": ["ristampare"]}
   ],
   "reprisal": [
-    "rappresaglia"
+    {"id": 12260,"text": ["rappresaglia"]}
   ],
   "reproach": [
-    "rimproverare"
+    {"id": 12261,"text": ["rimproverare"]}
   ],
   "reproduce": [
-    "riprodurre"
+    {"id": 12262,"text": ["riprodurre"]}
   ],
   "reproducible": [
-    "riproducibile"
+    {"id": 12263,"text": ["riproducibile"]}
   ],
   "reproduction": [
-    "riproduzione"
+    {"id": 12264,"text": ["riproduzione"]}
   ],
   "reprogramming": [
-    "riprogrammazione"
+    {"id": 12265,"text": ["riprogrammazione"]}
   ],
   "reprography": [
-    "reprografia"
+    {"id": 12266,"text": ["reprografia"]}
   ],
   "reptile": [
-    "rettile"
+    {"id": 12267,"text": ["rettile"]}
   ],
   "republic": [
-    "repubblica"
+    {"id": 12268,"text": ["repubblica"]}
   ],
   "republican": [
-    "repubblicano"
+    {"id": 12269,"text": ["repubblicano"]}
   ],
   "republicanism": [
-    "repubblicanesimo"
+    {"id": 12270,"text": ["repubblicanesimo"]}
   ],
   "republication": [
-    "ripubblicazione"
+    {"id": 12271,"text": ["ripubblicazione"]}
   ],
   "republising": [
-    "riedizione"
+    {"id": 12272,"text": ["riedizione"]}
   ],
   "repudiation": [
-    "ripudio"
+    {"id": 12273,"text": ["ripudio"]}
   ],
   "repugnance": [
-    "ripugnanza"
+    {"id": 12274,"text": ["ripugnanza"]}
   ],
   "repugnant": [
-    "ripugnante"
+    {"id": 12275,"text": ["ripugnante"]}
   ],
   "repulsion": [
-    "repulsione"
+    {"id": 12276,"text": ["repulsione"]}
   ],
   "repurchase": [
-    "riacquistare"
+    {"id": 12277,"text": ["riacquistare"]}
   ],
   "reputation": [
-    "reputazione"
+    {"id": 12278,"text": ["reputazione"]}
   ],
   "request": [
-    "petizione",
-    "richiedere",
-    "richiesta"
+    {"id": 12279,"text": ["petizione"]},
+    {"id": 12280,"text": ["richiedere"]},
+    {"id": 12281,"text": ["richiesta"]}
   ],
   "requiem": [
-    "requiem"
+    {"id": 12282,"text": ["requiem"]}
   ],
   "require": [
-    "richiedere"
+    {"id": 12283,"text": ["richiedere"]}
   ],
   "requirement": [
-    "esigenza",
-    "requisito"
+    {"id": 12284,"text": ["esigenza"]},
+    {"id": 12285,"text": ["requisito"]}
   ],
   "requisition": [
-    "requisire",
-    "requisizione"
+    {"id": 12286,"text": ["requisire"]},
+    {"id": 12287,"text": ["requisizione"]}
   ],
   "reread": [
-    "rileggere"
+    {"id": 12288,"text": ["rileggere"]}
   ],
   "rerun": [
-    "rieseguire"
+    {"id": 12289,"text": ["rieseguire"]}
   ],
   "rescheduling": [
-    "riprogrammazione"
+    {"id": 12290,"text": ["riprogrammazione"]}
   ],
   "rescission": [
-    "rescissione"
+    {"id": 12291,"text": ["rescissione"]}
   ],
   "rescue": [
-    "salvare",
-    "salvataggio"
+    {"id": 12292,"text": ["salvare"]},
+    {"id": 12293,"text": ["salvataggio"]}
   ],
   "research": [
-    "ricerca",
-    "ricercare"
+    {"id": 12294,"text": ["ricerca"]},
+    {"id": 12295,"text": ["ricercare"]}
   ],
   "researcher": [
-    "ricercatore"
+    {"id": 12296,"text": ["ricercatore"]}
   ],
   "resemblance": [
-    "simile"
+    {"id": 12297,"text": ["simile"]}
   ],
   "resentment": [
-    "risentimento"
+    {"id": 12298,"text": ["risentimento"]}
   ],
   "reservation": [
-    "riservazione"
+    {"id": 12299,"text": ["riservazione"]}
   ],
   "reserve": [
-    "prenotare",
-    "riserva",
-    "riservare"
+    {"id": 12300,"text": ["prenotare"]},
+    {"id": 12301,"text": ["riserva"]},
+    {"id": 12302,"text": ["riservare"]}
   ],
   "residence": [
-    "residenza"
+    {"id": 12303,"text": ["residenza"]}
   ],
   "resident": [
-    "residente"
+    {"id": 12304,"text": ["residente"]}
   ],
   "residential": [
-    "residenziale"
+    {"id": 12305,"text": ["residenziale"]}
   ],
   "residual": [
-    "residuale"
+    {"id": 12306,"text": ["residuale"]}
   ],
   "residue": [
-    "residuo"
+    {"id": 12307,"text": ["residuo"]}
   ],
   "resign": [
-    "dimettire"
+    {"id": 12308,"text": ["dimettire"]}
   ],
   "resignation": [
-    "rassegnazione"
+    {"id": 12309,"text": ["rassegnazione"]}
   ],
   "resin": [
-    "resina"
+    {"id": 12310,"text": ["resina"]}
   ],
   "resist": [
-    "resistere"
+    {"id": 12311,"text": ["resistere"]}
   ],
   "resistance": [
-    "resistenza"
+    {"id": 12312,"text": ["resistenza"]}
   ],
   "resistant": [
-    "resistente"
+    {"id": 12313,"text": ["resistente"]}
   ],
   "resistor": [
-    "resistore"
+    {"id": 12314,"text": ["resistore"]}
   ],
   "resolution": [
-    "risoluzione"
+    {"id": 12315,"text": ["risoluzione"]}
   ],
   "resolve": [
-    "decisione",
-    "risolvere"
+    {"id": 12316,"text": ["decisione"]},
+    {"id": 12317,"text": ["risolvere"]}
   ],
   "resonance": [
-    "risonanza"
+    {"id": 12318,"text": ["risonanza"]}
   ],
   "resort": [
-    "ricorrere",
-    "risorsa"
+    {"id": 12319,"text": ["ricorrere"]},
+    {"id": 12320,"text": ["risorsa"]}
   ],
   "resorting": [
-    "ricorso"
+    {"id": 12321,"text": ["ricorso"]}
   ],
   "resource": [
-    "risorsa"
+    {"id": 12322,"text": ["risorsa"]}
   ],
   "respect": [
-    "rispettare",
-    "rispetto"
+    {"id": 12323,"text": ["rispettare"]},
+    {"id": 12324,"text": ["rispetto"]}
   ],
   "respectable": [
-    "rispettabile"
+    {"id": 12325,"text": ["rispettabile"]}
   ],
   "respectful": [
-    "rispettoso"
+    {"id": 12326,"text": ["rispettoso"]}
   ],
   "respectfully": [
-    "rispettosamente"
+    {"id": 12327,"text": ["rispettosamente"]}
   ],
   "respective": [
-    "rispettivo"
+    {"id": 12328,"text": ["rispettivo"]}
   ],
   "respectively": [
-    "rispettivamente"
+    {"id": 12329,"text": ["rispettivamente"]}
   ],
   "respiration": [
-    "respirazione"
+    {"id": 12330,"text": ["respirazione"]}
   ],
   "respirator": [
-    "respiratore"
+    {"id": 12331,"text": ["respiratore"]}
   ],
   "respiratory": [
-    "respiratorio"
+    {"id": 12332,"text": ["respiratorio"]}
   ],
   "respond": [
-    "rispondere"
+    {"id": 12333,"text": ["rispondere"]}
   ],
   "response": [
-    "risposta"
+    {"id": 12334,"text": ["risposta"]}
   ],
   "responsible": [
-    "responsabile"
+    {"id": 12335,"text": ["responsabile"]}
   ],
   "responsibly": [
-    "responsabilmente"
+    {"id": 12336,"text": ["responsabilmente"]}
   ],
   "responsory": [
-    "responsorio"
+    {"id": 12337,"text": ["responsorio"]}
   ],
   "rest": [
-    "quiete",
-    "resto",
-    "riposare",
-    "riposo"
+    {"id": 12338,"text": ["quiete"]},
+    {"id": 12339,"text": ["resto"]},
+    {"id": 12340,"text": ["riposare"]},
+    {"id": 12341,"text": ["riposo"]}
   ],
   "restart": [
-    "ricominciare",
-    "ripartire"
+    {"id": 12342,"text": ["ricominciare"]},
+    {"id": 12343,"text": ["ripartire"]}
   ],
   "restate": [
-    "riaffermare",
-    "ribadire"
+    {"id": 12344,"text": ["riaffermare"]},
+    {"id": 12345,"text": ["ribadire"]}
   ],
   "restaurant": [
-    "ristorante"
+    {"id": 12346,"text": ["ristorante"]}
   ],
   "restitution": [
-    "restituzione"
+    {"id": 12347,"text": ["restituzione"]}
   ],
   "restless": [
-    "inquieto"
+    {"id": 12348,"text": ["inquieto"]}
   ],
   "restoration": [
-    "restaurazione",
-    "ristorazione"
+    {"id": 12349,"text": ["restaurazione"]},
+    {"id": 12350,"text": ["ristorazione"]}
   ],
   "restore": [
-    "restaurare"
+    {"id": 12351,"text": ["restaurare"]}
   ],
   "restraint": [
-    "restrizione"
+    {"id": 12352,"text": ["restrizione"]}
   ],
   "restrict": [
-    "limitare",
-    "restringere"
+    {"id": 12353,"text": ["limitare"]},
+    {"id": 12354,"text": ["restringere"]}
   ],
   "restriction": [
-    "restrizione"
+    {"id": 12355,"text": ["restrizione"]}
   ],
   "restrictive": [
-    "restrittivo"
+    {"id": 12356,"text": ["restrittivo"]}
   ],
   "restructure": [
-    "ristrutturare"
+    {"id": 12357,"text": ["ristrutturare"]}
   ],
   "restructuring": [
-    "ristrutturazione"
+    {"id": 12358,"text": ["ristrutturazione"]}
   ],
   "result": [
-    "netto",
-    "risultare",
-    "risultato"
+    {"id": 12359,"text": ["netto"]},
+    {"id": 12360,"text": ["risultare"]},
+    {"id": 12361,"text": ["risultato"]}
   ],
   "resultant": [
-    "risultante"
+    {"id": 12362,"text": ["risultante"]}
   ],
   "resulting": [
-    "risultante"
+    {"id": 12363,"text": ["risultante"]}
   ],
   "resumption": [
-    "rielaborazione"
+    {"id": 12364,"text": ["rielaborazione"]}
   ],
   "resupply": [
-    "rifornire"
+    {"id": 12365,"text": ["rifornire"]}
   ],
   "resurgence": [
-    "rinascita"
+    {"id": 12366,"text": ["rinascita"]}
   ],
   "resurrect": [
-    "risorgere"
+    {"id": 12367,"text": ["risorgere"]}
   ],
   "resurrection": [
-    "resurrezione",
-    "risurrezione"
+    {"id": 12368,"text": ["resurrezione"]},
+    {"id": 12369,"text": ["risurrezione"]}
   ],
   "resuscitate": [
-    "resuscitare",
-    "rianimare",
-    "risuscitare"
+    {"id": 12370,"text": ["resuscitare"]},
+    {"id": 12371,"text": ["rianimare"]},
+    {"id": 12372,"text": ["risuscitare"]}
   ],
   "retain": [
-    "ritenere"
+    {"id": 12373,"text": ["ritenere"]}
   ],
   "reticle": [
-    "reticolo"
+    {"id": 12374,"text": ["reticolo"]}
   ],
   "reticular": [
-    "reticolare"
+    {"id": 12375,"text": ["reticolare"]}
   ],
   "retina": [
-    "retina"
+    {"id": 12376,"text": ["retina"]}
   ],
   "retinopathy": [
-    "retinopatia"
+    {"id": 12377,"text": ["retinopatia"]}
   ],
   "retired": [
-    "ritirato"
+    {"id": 12378,"text": ["ritirato"]}
   ],
   "retirement": [
-    "pensione"
+    {"id": 12379,"text": ["pensione"]}
   ],
   "retort": [
-    "replica",
-    "ribattere",
-    "storta"
+    {"id": 12380,"text": ["replica"]},
+    {"id": 12381,"text": ["ribattere"]},
+    {"id": 12382,"text": ["storta"]}
   ],
   "retouch": [
-    "ritoccare",
-    "ritocco"
+    {"id": 12383,"text": ["ritoccare"]},
+    {"id": 12384,"text": ["ritocco"]}
   ],
   "retouching": [
-    "ritocco"
+    {"id": 12385,"text": ["ritocco"]}
   ],
   "retract": [
-    "ritirare"
+    {"id": 12386,"text": ["ritirare"]}
   ],
   "retractable": [
-    "retrattile"
+    {"id": 12387,"text": ["retrattile"]}
   ],
   "retractation": [
-    "ritrattazione"
+    {"id": 12388,"text": ["ritrattazione"]}
   ],
   "retraining": [
-    "riqualificazione"
+    {"id": 12389,"text": ["riqualificazione"]}
   ],
   "retreat": [
-    "retrocedere"
+    {"id": 12390,"text": ["retrocedere"]}
   ],
   "retreated": [
-    "ritirato"
+    {"id": 12391,"text": ["ritirato"]}
   ],
   "retribution": [
-    "retribuzione"
+    {"id": 12392,"text": ["retribuzione"]}
   ],
   "retrieve": [
-    "recuperare",
-    "ritrovare"
+    {"id": 12393,"text": ["recuperare"]},
+    {"id": 12394,"text": ["ritrovare"]}
   ],
   "retroactive": [
-    "retroattivo"
+    {"id": 12395,"text": ["retroattivo"]}
   ],
   "retrograde": [
-    "retrogrado"
+    {"id": 12396,"text": ["retrogrado"]}
   ],
   "retrospective": [
-    "retrospettivo"
+    {"id": 12397,"text": ["retrospettivo"]}
   ],
   "return": [
-    "restituire",
-    "ritornare",
-    "ritorno"
+    {"id": 12398,"text": ["restituire"]},
+    {"id": 12399,"text": ["ritornare"]},
+    {"id": 12400,"text": ["ritorno"]}
   ],
   "retwist": [
-    "ritorcere"
+    {"id": 12401,"text": ["ritorcere"]}
   ],
   "reunification": [
-    "riunificazione"
+    {"id": 12402,"text": ["riunificazione"]}
   ],
   "reunion": [
-    "ricongiungimento",
-    "riunione"
+    {"id": 12403,"text": ["ricongiungimento"]},
+    {"id": 12404,"text": ["riunione"]}
   ],
   "reunite": [
-    "riunire"
+    {"id": 12405,"text": ["riunire"]}
   ],
   "reusable": [
-    "riutilizzabile"
+    {"id": 12406,"text": ["riutilizzabile"]}
   ],
   "revalidate": [
-    "rivalidare"
+    {"id": 12407,"text": ["rivalidare"]}
   ],
   "revaluation": [
-    "rivalutazione"
+    {"id": 12408,"text": ["rivalutazione"]}
   ],
   "reveal": [
-    "rivelare"
+    {"id": 12409,"text": ["rivelare"]}
   ],
   "revelation": [
-    "rivelazione"
+    {"id": 12410,"text": ["rivelazione"]}
   ],
   "revenge": [
-    "vendetta"
+    {"id": 12411,"text": ["vendetta"]}
   ],
   "revenue": [
-    "entrata",
-    "ricavo"
+    {"id": 12412,"text": ["entrata"]},
+    {"id": 12413,"text": ["ricavo"]}
   ],
   "reverberation": [
-    "riverbero"
+    {"id": 12414,"text": ["riverbero"]}
   ],
   "reverence": [
-    "riverenza"
+    {"id": 12415,"text": ["riverenza"]}
   ],
   "reverend": [
-    "reverendo"
+    {"id": 12416,"text": ["reverendo"]}
   ],
   "reverse": [
-    "inverso",
-    "invertire",
-    "rovescio"
+    {"id": 12417,"text": ["inverso"]},
+    {"id": 12418,"text": ["invertire"]},
+    {"id": 12419,"text": ["rovescio"]}
   ],
   "reversible": [
-    "reversibile"
+    {"id": 12420,"text": ["reversibile"]}
   ],
   "review": [
-    "revisionare",
-    "rivista"
+    {"id": 12421,"text": ["revisionare"]},
+    {"id": 12422,"text": ["rivista"]}
   ],
   "reviewing": [
-    "recensione"
+    {"id": 12423,"text": ["recensione"]}
   ],
   "revision": [
-    "revisione"
+    {"id": 12424,"text": ["revisione"]}
   ],
   "revisionism": [
-    "revisionismo"
+    {"id": 12425,"text": ["revisionismo"]}
   ],
   "revisionist": [
-    "revisionista"
+    {"id": 12426,"text": ["revisionista"]}
   ],
   "revisitation": [
-    "rivisitazione"
+    {"id": 12427,"text": ["rivisitazione"]}
   ],
   "revisor": [
-    "revisore"
+    {"id": 12428,"text": ["revisore"]}
   ],
   "revitalisation": [
-    "rilancio",
-    "rivitalizzazione"
+    {"id": 12429,"text": ["rilancio"]},
+    {"id": 12430,"text": ["rivitalizzazione"]}
   ],
   "revitalise": [
-    "rivitalizzare"
+    {"id": 12431,"text": ["rivitalizzare"]}
   ],
   "revive": [
-    "resuscitare",
-    "rianimare",
-    "risuscitare"
+    {"id": 12432,"text": ["resuscitare"]},
+    {"id": 12433,"text": ["rianimare"]},
+    {"id": 12434,"text": ["risuscitare"]}
   ],
   "revocable": [
-    "revocabile"
+    {"id": 12435,"text": ["revocabile"]}
   ],
   "revocatory": [
-    "revocatorio"
+    {"id": 12436,"text": ["revocatorio"]}
   ],
   "revoke": [
-    "revocare"
+    {"id": 12437,"text": ["revocare"]}
   ],
   "revolt": [
-    "ribellarsi",
-    "rivolta"
+    {"id": 12438,"text": ["ribellarsi"]},
+    {"id": 12439,"text": ["rivolta"]}
   ],
   "revolution": [
-    "rivoluzione"
+    {"id": 12440,"text": ["rivoluzione"]}
   ],
   "revolutionary": [
-    "rivoluzionario"
+    {"id": 12441,"text": ["rivoluzionario"]}
   ],
   "revolutionise": [
-    "rivoluzionare"
+    {"id": 12442,"text": ["rivoluzionare"]}
   ],
   "revolutionize": [
-    "rivoluzionare"
+    {"id": 12443,"text": ["rivoluzionare"]}
   ],
   "revolver": [
-    "rivoltella"
+    {"id": 12444,"text": ["rivoltella"]}
   ],
   "revolving": [
-    "rotativo"
+    {"id": 12445,"text": ["rotativo"]}
   ],
   "reward": [
-    "premiare",
-    "ricompensa",
-    "ricompensare"
+    {"id": 12446,"text": ["premiare"]},
+    {"id": 12447,"text": ["ricompensa"]},
+    {"id": 12448,"text": ["ricompensare"]}
   ],
   "rewind": [
-    "riavvolgere",
-    "riavvolgimento"
+    {"id": 12449,"text": ["riavvolgere"]},
+    {"id": 12450,"text": ["riavvolgimento"]}
   ],
   "reworking": [
-    "rielaborazione"
+    {"id": 12451,"text": ["rielaborazione"]}
   ],
   "rewrite": [
-    "riscrivere"
+    {"id": 12452,"text": ["riscrivere"]}
   ],
   "rewriting": [
-    "riscrittura"
+    {"id": 12453,"text": ["riscrittura"]}
   ],
   "rhapsodist": [
-    "rapsodo"
+    {"id": 12454,"text": ["rapsodo"]}
   ],
   "rhapsody": [
-    "rapsodia"
+    {"id": 12455,"text": ["rapsodia"]}
   ],
   "rhenium": [
-    "renio"
+    {"id": 12456,"text": ["renio"]}
   ],
   "rheology": [
-    "reologia"
+    {"id": 12457,"text": ["reologia"]}
   ],
   "rhetoric": [
-    "retorica"
+    {"id": 12458,"text": ["retorica"]}
   ],
   "rhetorical": [
-    "retorico"
+    {"id": 12459,"text": ["retorico"]}
   ],
   "rheumatism": [
-    "reumatismo"
+    {"id": 12460,"text": ["reumatismo"]}
   ],
   "rhinoplasty": [
-    "rinoplastica"
+    {"id": 12461,"text": ["rinoplastica"]}
   ],
   "rhizome": [
-    "rizoma"
+    {"id": 12462,"text": ["rizoma"]}
   ],
   "rhombic": [
-    "rombico"
+    {"id": 12463,"text": ["rombico"]}
   ],
   "rhombohedral": [
-    "romboedrico"
+    {"id": 12464,"text": ["romboedrico"]}
   ],
   "rhomboidal": [
-    "romboidale"
+    {"id": 12465,"text": ["romboidale"]}
   ],
   "rhombus": [
-    "rombo"
+    {"id": 12466,"text": ["rombo"]}
   ],
   "rhotacism": [
-    "rotacismo"
+    {"id": 12467,"text": ["rotacismo"]}
   ],
   "rhubarb": [
-    "rabarbaro"
+    {"id": 12468,"text": ["rabarbaro"]}
   ],
   "rhyme": [
-    "rima",
-    "rimare"
+    {"id": 12469,"text": ["rima"]},
+    {"id": 12470,"text": ["rimare"]}
   ],
   "rhythm": [
-    "ritmo"
+    {"id": 12471,"text": ["ritmo"]}
   ],
   "rhythmical": [
-    "ritmico"
+    {"id": 12472,"text": ["ritmico"]}
   ],
   "rib": [
-    "costola"
+    {"id": 12473,"text": ["costola"]}
   ],
   "ribosome": [
-    "ribosoma"
+    {"id": 12474,"text": ["ribosoma"]}
   ],
   "rice": [
-    "riso"
+    {"id": 12475,"text": ["riso"]}
   ],
   "rich": [
-    "ricco"
+    {"id": 12476,"text": ["ricco"]}
   ],
   "richly": [
-    "riccamente"
+    {"id": 12477,"text": ["riccamente"]}
   ],
   "riddle": [
-    "indovinello"
+    {"id": 12478,"text": ["indovinello"]}
   ],
   "ride": [
-    "cavalcare",
-    "giostra",
-    "montare",
-    "passaggio"
+    {"id": 12479,"text": ["cavalcare"]},
+    {"id": 12480,"text": ["giostra"]},
+    {"id": 12481,"text": ["montare"]},
+    {"id": 12482,"text": ["passaggio"]}
   ],
   "ridiculous": [
-    "ridicolo"
+    {"id": 12483,"text": ["ridicolo"]}
   ],
   "rifle": [
-    "fucile"
+    {"id": 12484,"text": ["fucile"]}
   ],
   "right": [
-    "bene",
-    "corretto",
-    "destra",
-    "destro",
-    "diritto"
+    {"id": 12485,"text": ["bene"]},
+    {"id": 12486,"text": ["corretto"]},
+    {"id": 12487,"text": ["destra"]},
+    {"id": 12488,"text": ["destro"]},
+    {"id": 12489,"text": ["diritto"]}
   ],
   "right angled triangle": [
-    "triangolo rettangolo"
+    {"id": 12490,"text": ["triangolo rettangolo"]}
   ],
   "right-handed": [
-    "destro"
+    {"id": 12491,"text": ["destro"]}
   ],
   "rightly": [
-    "correttamente"
+    {"id": 12492,"text": ["correttamente"]}
   ],
   "rigid": [
-    "rigido"
+    {"id": 12493,"text": ["rigido"]}
   ],
   "rigidly": [
-    "rigidamente"
+    {"id": 12494,"text": ["rigidamente"]}
   ],
   "rigorous": [
-    "rigoroso"
+    {"id": 12495,"text": ["rigoroso"]}
   ],
   "rigorously": [
-    "rigorosamente"
+    {"id": 12496,"text": ["rigorosamente"]}
   ],
   "rigour": [
-    "rigore"
+    {"id": 12497,"text": ["rigore"]}
   ],
   "rim": [
-    "orlo"
+    {"id": 12498,"text": ["orlo"]}
   ],
   "ring": [
-    "anello",
-    "anulare",
-    "cerchio",
-    "circolo",
-    "ring",
-    "squillare",
-    "tintinnare",
-    "tintinnio"
+    {"id": 12499,"text": ["anello"]},
+    {"id": 12500,"text": ["anulare"]},
+    {"id": 12501,"text": ["cerchio"]},
+    {"id": 12502,"text": ["circolo"]},
+    {"id": 12503,"text": ["ring"]},
+    {"id": 12504,"text": ["squillare"]},
+    {"id": 12505,"text": ["tintinnare"]},
+    {"id": 12506,"text": ["tintinnio"]}
   ],
   "ringtone": [
-    "suoneria"
+    {"id": 12507,"text": ["suoneria"]}
   ],
   "riot": [
-    "rivolta"
+    {"id": 12508,"text": ["rivolta"]}
   ],
   "rip": [
-    "strappare"
+    {"id": 12509,"text": ["strappare"]}
   ],
   "ripe": [
-    "maturo"
+    {"id": 12510,"text": ["maturo"]}
   ],
   "rise": [
-    "aumentare",
-    "aumento"
+    {"id": 12511,"text": ["aumentare"]},
+    {"id": 12512,"text": ["aumento"]}
   ],
   "risk": [
-    "rischiare",
-    "rischio"
+    {"id": 12513,"text": ["rischiare"]},
+    {"id": 12514,"text": ["rischio"]}
   ],
   "rite": [
-    "rito"
+    {"id": 12515,"text": ["rito"]}
   ],
   "ritual": [
-    "rituale"
+    {"id": 12516,"text": ["rituale"]}
   ],
   "ritualism": [
-    "ritualismo"
+    {"id": 12517,"text": ["ritualismo"]}
   ],
   "ritualistic": [
-    "ritualista"
+    {"id": 12518,"text": ["ritualista"]}
   ],
   "rival": [
-    "rivale"
+    {"id": 12519,"text": ["rivale"]}
   ],
   "rivalry": [
-    "rivalità"
+    {"id": 12520,"text": ["rivalità"]}
   ],
   "river": [
-    "fiume"
+    {"id": 12521,"text": ["fiume"]}
   ],
   "riverbasin": [
-    "bacinofluviale"
+    {"id": 12522,"text": ["bacinofluviale"]}
   ],
   "rivet": [
-    "rivetto"
+    {"id": 12523,"text": ["rivetto"]}
   ],
   "road": [
-    "strada",
-    "via",
-    "viario"
+    {"id": 12524,"text": ["strada"]},
+    {"id": 12525,"text": ["via"]},
+    {"id": 12526,"text": ["viario"]}
   ],
   "road sign": [
-    "segnale stradale"
+    {"id": 12527,"text": ["segnale stradale"]}
   ],
   "roar": [
-    "rombo",
-    "ruggire"
+    {"id": 12528,"text": ["rombo"]},
+    {"id": 12529,"text": ["ruggire"]}
   ],
   "robbery": [
-    "furto",
-    "rapina"
+    {"id": 12530,"text": ["furto"]},
+    {"id": 12531,"text": ["rapina"]}
   ],
   "robot": [
-    "robot"
+    {"id": 12532,"text": ["robot"]}
   ],
   "robotic": [
-    "robotico"
+    {"id": 12533,"text": ["robotico"]}
   ],
   "robust": [
-    "robusto"
+    {"id": 12534,"text": ["robusto"]}
   ],
   "robustness": [
-    "robustezza"
+    {"id": 12535,"text": ["robustezza"]}
   ],
   "rock": [
-    "roccia",
-    "rock"
+    {"id": 12536,"text": ["roccia"]},
+    {"id": 12537,"text": ["rock"]}
   ],
   "rocket": [
-    "razzo"
+    {"id": 12538,"text": ["razzo"]}
   ],
   "rocky": [
-    "roccioso"
+    {"id": 12539,"text": ["roccioso"]}
   ],
   "rod": [
-    "bastone",
-    "stecca"
+    {"id": 12540,"text": ["bastone"]},
+    {"id": 12541,"text": ["stecca"]}
   ],
   "roentgenium": [
-    "roentgenio"
+    {"id": 12542,"text": ["roentgenio"]}
   ],
   "role": [
-    "funzione",
-    "ruolo"
+    {"id": 12543,"text": ["funzione"]},
+    {"id": 12544,"text": ["ruolo"]}
   ],
   "roll": [
-    "lista",
-    "panino",
-    "rotolare"
+    {"id": 12545,"text": ["lista"]},
+    {"id": 12546,"text": ["panino"]},
+    {"id": 12547,"text": ["rotolare"]}
   ],
   "roller": [
-    "rullo"
+    {"id": 12548,"text": ["rullo"]}
   ],
   "rolling": [
-    "rotolamento"
+    {"id": 12549,"text": ["rotolamento"]}
   ],
   "Roman": [
-    "romano"
+    {"id": 12550,"text": ["romano"]}
   ],
   "romance": [
-    "romanico"
+    {"id": 12551,"text": ["romanico"]}
   ],
   "Romanian": [
-    "rumeno"
+    {"id": 12552,"text": ["rumeno"]}
   ],
   "romanisation": [
-    "romanizzazione"
+    {"id": 12553,"text": ["romanizzazione"]}
   ],
   "romanization": [
-    "romanizzazione"
+    {"id": 12554,"text": ["romanizzazione"]}
   ],
   "romantic": [
-    "romantico"
+    {"id": 12555,"text": ["romantico"]}
   ],
   "romanticism": [
-    "romanticismo"
+    {"id": 12556,"text": ["romanticismo"]}
   ],
   "Rome": [
-    "Roma"
+    {"id": 12557,"text": ["Roma"]}
   ],
   "roof": [
-    "tetto"
+    {"id": 12558,"text": ["tetto"]}
   ],
   "rook": [
-    "torre"
+    {"id": 12559,"text": ["torre"]}
   ],
   "room": [
-    "camera",
-    "spazio",
-    "stanza"
+    {"id": 12560,"text": ["camera"]},
+    {"id": 12561,"text": ["spazio"]},
+    {"id": 12562,"text": ["stanza"]}
   ],
   "roomy": [
-    "capiente",
-    "spazioso"
+    {"id": 12563,"text": ["capiente"]},
+    {"id": 12564,"text": ["spazioso"]}
   ],
   "roost": [
-    "pertica"
+    {"id": 12565,"text": ["pertica"]}
   ],
   "rooster": [
-    "gallo"
+    {"id": 12566,"text": ["gallo"]}
   ],
   "root": [
-    "radicare",
-    "radice"
+    {"id": 12567,"text": ["radicare"]},
+    {"id": 12568,"text": ["radice"]}
   ],
   "rooted": [
-    "radicato"
+    {"id": 12569,"text": ["radicato"]}
   ],
   "rooting": [
-    "base"
+    {"id": 12570,"text": ["base"]}
   ],
   "rope": [
-    "corda"
+    {"id": 12571,"text": ["corda"]}
   ],
   "ropeway": [
-    "funivia",
-    "teleferica"
+    {"id": 12572,"text": ["funivia"]},
+    {"id": 12573,"text": ["teleferica"]}
   ],
   "roquefort": [
-    "roquefort"
+    {"id": 12574,"text": ["roquefort"]}
   ],
   "rosary": [
-    "rosario"
+    {"id": 12575,"text": ["rosario"]}
   ],
   "rose": [
-    "rosa"
+    {"id": 12576,"text": ["rosa"]}
   ],
   "rosemary": [
-    "rosmarino"
+    {"id": 12577,"text": ["rosmarino"]}
   ],
   "rot": [
-    "marcescenza",
-    "marcire"
+    {"id": 12578,"text": ["marcescenza"]},
+    {"id": 12579,"text": ["marcire"]}
   ],
   "rotary": [
-    "rotante"
+    {"id": 12580,"text": ["rotante"]}
   ],
   "rotation": [
-    "rotazione"
+    {"id": 12581,"text": ["rotazione"]}
   ],
   "rotatory": [
-    "rotatorio"
+    {"id": 12582,"text": ["rotatorio"]}
   ],
   "rouble": [
-    "rublo"
+    {"id": 12583,"text": ["rublo"]}
   ],
   "rough": [
-    "ruvido"
+    {"id": 12584,"text": ["ruvido"]}
   ],
   "roughly": [
-    "approssimativamente"
+    {"id": 12585,"text": ["approssimativamente"]}
   ],
   "round": [
-    "arrotondare",
-    "rotondo"
+    {"id": 12586,"text": ["arrotondare"]},
+    {"id": 12587,"text": ["rotondo"]}
   ],
   "roundabout": [
-    "rotonda"
+    {"id": 12588,"text": ["rotonda"]}
   ],
   "rounding off": [
-    "arrotondamento"
+    {"id": 12589,"text": ["arrotondamento"]}
   ],
   "roundly": [
-    "completamente"
+    {"id": 12590,"text": ["completamente"]}
   ],
   "roundoff": [
-    "terminare"
+    {"id": 12591,"text": ["terminare"]}
   ],
   "route": [
-    "percorso",
-    "rotta"
+    {"id": 12592,"text": ["percorso"]},
+    {"id": 12593,"text": ["rotta"]}
   ],
   "routing": [
-    "instradamento"
+    {"id": 12594,"text": ["instradamento"]}
   ],
   "row": [
-    "fila",
-    "remare",
-    "riga"
+    {"id": 12595,"text": ["fila"]},
+    {"id": 12596,"text": ["remare"]},
+    {"id": 12597,"text": ["riga"]}
   ],
   "royal": [
-    "reale"
+    {"id": 12598,"text": ["reale"]}
   ],
   "rub": [
-    "strofinare"
+    {"id": 12599,"text": ["strofinare"]}
   ],
   "rubber": [
-    "gomma",
-    "pneumatico"
+    {"id": 12600,"text": ["gomma"]},
+    {"id": 12601,"text": ["pneumatico"]}
   ],
   "rubbish": [
-    "immondizia",
-    "rifiuto",
-    "spazzatura"
+    {"id": 12602,"text": ["immondizia"]},
+    {"id": 12603,"text": ["rifiuto"]},
+    {"id": 12604,"text": ["spazzatura"]}
   ],
   "rubella": [
-    "rosolia"
+    {"id": 12605,"text": ["rosolia"]}
   ],
   "rubidium": [
-    "rubidio"
+    {"id": 12606,"text": ["rubidio"]}
   ],
   "ruby": [
-    "rubino"
+    {"id": 12607,"text": ["rubino"]}
   ],
   "rucksack": [
-    "zaino"
+    {"id": 12608,"text": ["zaino"]}
   ],
   "rudder": [
-    "timone"
+    {"id": 12609,"text": ["timone"]}
   ],
   "rude": [
-    "maleducato",
-    "scortese"
+    {"id": 12610,"text": ["maleducato"]},
+    {"id": 12611,"text": ["scortese"]}
   ],
   "rudimentary": [
-    "rudimentario"
+    {"id": 12612,"text": ["rudimentario"]}
   ],
   "rug": [
-    "tappeto"
+    {"id": 12613,"text": ["tappeto"]}
   ],
   "ruin": [
-    "rovina",
-    "rovinare"
+    {"id": 12614,"text": ["rovina"]},
+    {"id": 12615,"text": ["rovinare"]}
   ],
   "rule": [
-    "comandare",
-    "imperare",
-    "principio",
-    "regola"
+    {"id": 12616,"text": ["comandare"]},
+    {"id": 12617,"text": ["imperare"]},
+    {"id": 12618,"text": ["principio"]},
+    {"id": 12619,"text": ["regola"]}
   ],
   "ruler": [
-    "governante",
-    "righello"
+    {"id": 12620,"text": ["governante"]},
+    {"id": 12621,"text": ["righello"]}
   ],
   "ruling": [
-    "governante"
+    {"id": 12622,"text": ["governante"]}
   ],
   "rum": [
-    "rum"
+    {"id": 12623,"text": ["rum"]}
   ],
   "rumble": [
-    "rumore",
-    "tremore"
+    {"id": 12624,"text": ["rumore"]},
+    {"id": 12625,"text": ["tremore"]}
   ],
   "ruminant": [
-    "ruminante"
+    {"id": 12626,"text": ["ruminante"]}
   ],
   "rumour": [
-    "diceria"
+    {"id": 12627,"text": ["diceria"]}
   ],
   "rump": [
-    "groppa"
+    {"id": 12628,"text": ["groppa"]}
   ],
   "run": [
-    "carriera",
-    "correre",
-    "funzionare",
-    "gestire"
+    {"id": 12629,"text": ["carriera"]},
+    {"id": 12630,"text": ["correre"]},
+    {"id": 12631,"text": ["funzionare"]},
+    {"id": 12632,"text": ["gestire"]}
   ],
   "runic": [
-    "runico"
+    {"id": 12633,"text": ["runico"]}
   ],
   "runner": [
-    "corridore"
+    {"id": 12634,"text": ["corridore"]}
   ],
   "running water": [
-    "acqua corrente"
+    {"id": 12635,"text": ["acqua corrente"]}
   ],
   "rupee": [
-    "rupia"
+    {"id": 12636,"text": ["rupia"]}
   ],
   "rupestrian": [
-    "rupestre"
+    {"id": 12637,"text": ["rupestre"]}
   ],
   "rupicolous": [
-    "rupicolo"
+    {"id": 12638,"text": ["rupicolo"]}
   ],
   "rupture": [
-    "rottura"
+    {"id": 12639,"text": ["rottura"]}
   ],
   "rural": [
-    "rurale"
+    {"id": 12640,"text": ["rurale"]}
   ],
   "ruralisation": [
-    "ruralizzazione"
+    {"id": 12641,"text": ["ruralizzazione"]}
   ],
   "ruralization": [
-    "ruralizzazione"
+    {"id": 12642,"text": ["ruralizzazione"]}
   ],
   "russian": [
-    "russo"
+    {"id": 12643,"text": ["russo"]}
   ],
   "russification": [
-    "russificazione"
+    {"id": 12644,"text": ["russificazione"]}
   ],
   "rut": [
-    "solco"
+    {"id": 12645,"text": ["solco"]}
   ],
   "ruthenium": [
-    "rutenio"
+    {"id": 12646,"text": ["rutenio"]}
   ],
   "ruthless": [
-    "spietato"
+    {"id": 12647,"text": ["spietato"]}
   ],
   "rutile": [
-    "rutilo"
+    {"id": 12648,"text": ["rutilo"]}
   ],
   "rye": [
-    "segale"
+    {"id": 12649,"text": ["segale"]}
   ]
 }

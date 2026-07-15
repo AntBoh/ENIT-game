@@ -1,3749 +1,3749 @@
 {
   "pace": [
-    "passo",
-    "andatura",
-    "ritmo"
+    {"id": 10327,"text": ["passo"]},
+    {"id": 10328,"text": ["andatura"]},
+    {"id": 10329,"text": ["ritmo"]}
   ],
   "pacific": [
-    "pacifico"
+    {"id": 10330,"text": ["pacifico"]}
   ],
   "Pacific Ocean": [
-    "Oceano Pacifico"
+    {"id": 10331,"text": ["Oceano Pacifico"]}
   ],
   "pacification": [
-    "pacificazione"
+    {"id": 10332,"text": ["pacificazione"]}
   ],
   "pacifism": [
-    "pacifismo"
+    {"id": 10333,"text": ["pacifismo"]}
   ],
   "pacifist": [
-    "pacifista"
+    {"id": 10334,"text": ["pacifista"]}
   ],
   "pack": [
-    "branco",
-    "impacchettare",
-    "pacco"
+    {"id": 10335,"text": ["branco"]},
+    {"id": 10336,"text": ["impacchettare"]},
+    {"id": 10337,"text": ["pacco"]}
   ],
   "package": [
-    "confezione",
-    "pacco"
+    {"id": 10338,"text": ["confezione"]},
+    {"id": 10339,"text": ["pacco"]}
   ],
   "packaging": [
-    "confezione",
-    "imballaggio"
+    {"id": 10340,"text": ["confezione"]},
+    {"id": 10341,"text": ["imballaggio"]}
   ],
   "packet": [
-    "pacchetto"
+    {"id": 10342,"text": ["pacchetto"]}
   ],
   "pact": [
-    "patto"
+    {"id": 10343,"text": ["patto"]}
   ],
   "pad": [
-    "blocco",
-    "cuscinetto"
+    {"id": 10344,"text": ["blocco"]},
+    {"id": 10345,"text": ["cuscinetto"]}
   ],
   "paddle": [
-    "paletta"
+    {"id": 10346,"text": ["paletta"]}
   ],
   "padlock": [
-    "lucchetto"
+    {"id": 10347,"text": ["lucchetto"]}
   ],
   "Padua": [
-    "Padova"
+    {"id": 10348,"text": ["Padova"]}
   ],
   "paella": [
-    "paella"
+    {"id": 10349,"text": ["paella"]}
   ],
   "pagan": [
-    "pagano"
+    {"id": 10350,"text": ["pagano"]}
   ],
   "page": [
-    "pagina"
+    {"id": 10351,"text": ["pagina"]}
   ],
   "paginate": [
-    "compaginare"
+    {"id": 10352,"text": ["compaginare"]}
   ],
   "pagination": [
-    "impaginazione"
+    {"id": 10353,"text": ["impaginazione"]}
   ],
   "pagoda": [
-    "pagoda"
+    {"id": 10354,"text": ["pagoda"]}
   ],
   "pail": [
-    "secchio"
+    {"id": 10355,"text": ["secchio"]}
   ],
   "pain": [
-    "dolore"
+    {"id": 10356,"text": ["dolore"]}
   ],
   "painful": [
-    "doloroso"
+    {"id": 10357,"text": ["doloroso"]}
   ],
   "painfully": [
-    "dolorosamente"
+    {"id": 10358,"text": ["dolorosamente"]}
   ],
   "painless": [
-    "indolore"
+    {"id": 10359,"text": ["indolore"]}
   ],
   "painstaking": [
-    "lavorioso"
+    {"id": 10360,"text": ["lavorioso"]}
   ],
   "painstakingly": [
-    "faticosamente"
+    {"id": 10361,"text": ["faticosamente"]}
   ],
   "paint": [
-    "dipingere",
-    "pittura",
-    "pitturare",
-    "vernice",
-    "verniciare"
+    {"id": 10362,"text": ["dipingere"]},
+    {"id": 10363,"text": ["pittura"]},
+    {"id": 10364,"text": ["pitturare"]},
+    {"id": 10365,"text": ["vernice"]},
+    {"id": 10366,"text": ["verniciare"]}
   ],
   "painter": [
-    "pittore"
+    {"id": 10367,"text": ["pittore"]}
   ],
   "painting": [
-    "dipinto",
-    "pittura",
-    "quadro"
+    {"id": 10368,"text": ["dipinto"]},
+    {"id": 10369,"text": ["pittura"]},
+    {"id": 10370,"text": ["quadro"]}
   ],
   "pair": [
-    "paio"
+    {"id": 10371,"text": ["paio"]}
   ],
   "pakistani": [
-    "pakistano"
+    {"id": 10372,"text": ["pakistano"]}
   ],
   "palace": [
-    "palazzo"
+    {"id": 10373,"text": ["palazzo"]}
   ],
   "palaeoclimatology": [
-    "paleoclimatologia"
+    {"id": 10374,"text": ["paleoclimatologia"]}
   ],
   "palaeoecology": [
-    "paleoecologia"
+    {"id": 10375,"text": ["paleoecologia"]}
   ],
   "palaeographical": [
-    "paleografico"
+    {"id": 10376,"text": ["paleografico"]}
   ],
   "palaeography": [
-    "paleografia"
+    {"id": 10377,"text": ["paleografia"]}
   ],
   "palaeomagnetism": [
-    "paleomagnetismo"
+    {"id": 10378,"text": ["paleomagnetismo"]}
   ],
   "palaeontologist": [
-    "paleontologo"
+    {"id": 10379,"text": ["paleontologo"]}
   ],
   "palaeontology": [
-    "paleontologia"
+    {"id": 10380,"text": ["paleontologia"]}
   ],
   "palaeotropical": [
-    "paleotropicale"
+    {"id": 10381,"text": ["paleotropicale"]}
   ],
   "palatal": [
-    "palatale"
+    {"id": 10382,"text": ["palatale"]}
   ],
   "palatalisation": [
-    "palatalizzazione"
+    {"id": 10383,"text": ["palatalizzazione"]}
   ],
   "palate": [
-    "palato"
+    {"id": 10384,"text": ["palato"]}
   ],
   "palatine": [
-    "palatino"
+    {"id": 10385,"text": ["palatino"]}
   ],
   "pale": [
-    "pallido"
+    {"id": 10386,"text": ["pallido"]}
   ],
   "paleogeography": [
-    "paleogeografia"
+    {"id": 10387,"text": ["paleogeografia"]}
   ],
   "paleolithic": [
-    "paleolitico"
+    {"id": 10388,"text": ["paleolitico"]}
   ],
   "Palestine": [
-    "palestinese"
+    {"id": 10389,"text": ["palestinese"]}
   ],
   "Palestinian": [
-    "palestinese"
+    {"id": 10390,"text": ["palestinese"]}
   ],
   "palimpsest": [
-    "palinsesto"
+    {"id": 10391,"text": ["palinsesto"]}
   ],
   "palindrome": [
-    "palindromo"
+    {"id": 10392,"text": ["palindromo"]}
   ],
   "palisade": [
-    "palizzata"
+    {"id": 10393,"text": ["palizzata"]}
   ],
   "palladium": [
-    "palladio"
+    {"id": 10394,"text": ["palladio"]}
   ],
   "palliative": [
-    "palliativo"
+    {"id": 10395,"text": ["palliativo"]}
   ],
   "pallium": [
-    "pallio"
+    {"id": 10396,"text": ["pallio"]}
   ],
   "palm": [
-    "palma",
-    "palmo"
+    {"id": 10397,"text": ["palma"]},
+    {"id": 10398,"text": ["palmo"]}
   ],
   "palpable": [
-    "palpabile"
+    {"id": 10399,"text": ["palpabile"]}
   ],
   "palpation": [
-    "palpazione"
+    {"id": 10400,"text": ["palpazione"]}
   ],
   "pamphlet": [
-    "opuscolo"
+    {"id": 10401,"text": ["opuscolo"]}
   ],
   "pan": [
-    "padella",
-    "panoramica"
+    {"id": 10402,"text": ["padella"]},
+    {"id": 10403,"text": ["panoramica"]}
   ],
   "pan-arabism": [
-    "panarabismo"
+    {"id": 10404,"text": ["panarabismo"]}
   ],
   "panamanian": [
-    "panamegno",
-    "panamense"
+    {"id": 10405,"text": ["panamegno"]},
+    {"id": 10406,"text": ["panamense"]}
   ],
   "panchromatic": [
-    "pancromatico"
+    {"id": 10407,"text": ["pancromatico"]}
   ],
   "pancreas": [
-    "pancreas"
+    {"id": 10408,"text": ["pancreas"]}
   ],
   "pancreatic": [
-    "pancreatico"
+    {"id": 10409,"text": ["pancreatico"]}
   ],
   "panda": [
-    "panda"
+    {"id": 10410,"text": ["panda"]}
   ],
   "panegyric": [
-    "panegirico"
+    {"id": 10411,"text": ["panegirico"]}
   ],
   "panel": [
-    "pannello"
+    {"id": 10412,"text": ["pannello"]}
   ],
   "pangermanism": [
-    "pangermanismo"
+    {"id": 10413,"text": ["pangermanismo"]}
   ],
   "panic": [
-    "agitarsi",
-    "andare in panico",
-    "panico"
+    {"id": 10414,"text": ["agitarsi"]},
+    {"id": 10415,"text": ["andare in panico"]},
+    {"id": 10416,"text": ["panico"]}
   ],
   "panicle": [
-    "pannocchia"
+    {"id": 10417,"text": ["pannocchia"]}
   ],
   "panorama": [
-    "panorama"
+    {"id": 10418,"text": ["panorama"]}
   ],
   "panoramic": [
-    "panoramico"
+    {"id": 10419,"text": ["panoramico"]}
   ],
   "pantheism": [
-    "panteismo"
+    {"id": 10420,"text": ["panteismo"]}
   ],
   "panther": [
-    "pantera"
+    {"id": 10421,"text": ["pantera"]}
   ],
   "pantograph": [
-    "pantografo"
+    {"id": 10422,"text": ["pantografo"]}
   ],
   "pantomime": [
-    "pantomima"
+    {"id": 10423,"text": ["pantomima"]}
   ],
   "pants": [
-    "pantaloni"
+    {"id": 10424,"text": ["pantaloni"]}
   ],
   "papal": [
-    "papale"
+    {"id": 10425,"text": ["papale"]}
   ],
   "paper": [
-    "articolo",
-    "carta"
+    {"id": 10426,"text": ["articolo"]},
+    {"id": 10427,"text": ["carta"]}
   ],
   "papillary": [
-    "papillare"
+    {"id": 10428,"text": ["papillare"]}
   ],
   "Papua New Guinea": [
-    "Papua Nuova Guinea"
+    {"id": 10429,"text": ["Papua Nuova Guinea"]}
   ],
   "papyrus": [
-    "papiro"
+    {"id": 10430,"text": ["papiro"]}
   ],
   "parabola": [
-    "parabola"
+    {"id": 10431,"text": ["parabola"]}
   ],
   "parabolic": [
-    "parabolico"
+    {"id": 10432,"text": ["parabolico"]}
   ],
   "paraboloid": [
-    "paraboloide"
+    {"id": 10433,"text": ["paraboloide"]}
   ],
   "paracetamol": [
-    "paracetamolo"
+    {"id": 10434,"text": ["paracetamolo"]}
   ],
   "parachute": [
-    "paracadute"
+    {"id": 10435,"text": ["paracadute"]}
   ],
   "parachuting": [
-    "paracadutismo"
+    {"id": 10436,"text": ["paracadutismo"]}
   ],
   "parachutist": [
-    "paracadutista"
+    {"id": 10437,"text": ["paracadutista"]}
   ],
   "parade": [
-    "sfoggiare"
+    {"id": 10438,"text": ["sfoggiare"]}
   ],
   "paradigm": [
-    "paradigma"
+    {"id": 10439,"text": ["paradigma"]}
   ],
   "paradigmatic": [
-    "paradigmatico"
+    {"id": 10440,"text": ["paradigmatico"]}
   ],
   "paradise": [
-    "paradiso"
+    {"id": 10441,"text": ["paradiso"]}
   ],
   "paradox": [
-    "paradosso"
+    {"id": 10442,"text": ["paradosso"]}
   ],
   "paradoxical": [
-    "paradossale"
+    {"id": 10443,"text": ["paradossale"]}
   ],
   "paradoxically": [
-    "paradossalmente"
+    {"id": 10444,"text": ["paradossalmente"]}
   ],
   "paraffin": [
-    "paraffina"
+    {"id": 10445,"text": ["paraffina"]}
   ],
   "paragraph": [
-    "paragrafo"
+    {"id": 10446,"text": ["paragrafo"]}
   ],
   "paraguayan": [
-    "paraguaiano"
+    {"id": 10447,"text": ["paraguaiano"]}
   ],
   "parakeet": [
-    "parrocchetto"
+    {"id": 10448,"text": ["parrocchetto"]}
   ],
   "parallel": [
-    "parallelo"
+    {"id": 10449,"text": ["parallelo"]}
   ],
   "parallelepiped": [
-    "parallelepipedo"
+    {"id": 10450,"text": ["parallelepipedo"]}
   ],
   "parallelism": [
-    "parallelismo"
+    {"id": 10451,"text": ["parallelismo"]}
   ],
   "parallelogram": [
-    "parallelogramma"
+    {"id": 10452,"text": ["parallelogramma"]}
   ],
   "paralyse": [
-    "paralizzare"
+    {"id": 10453,"text": ["paralizzare"]}
   ],
   "paralysis": [
-    "paralisi"
+    {"id": 10454,"text": ["paralisi"]}
   ],
   "paramagnetism": [
-    "paramagnetismo"
+    {"id": 10455,"text": ["paramagnetismo"]}
   ],
   "parameter": [
-    "parametro"
+    {"id": 10456,"text": ["parametro"]}
   ],
   "parametric": [
-    "parametrico"
+    {"id": 10457,"text": ["parametrico"]}
   ],
   "parametrisation": [
-    "parametrizzazione"
+    {"id": 10458,"text": ["parametrizzazione"]}
   ],
   "parametrization": [
-    "parametrizzazione"
+    {"id": 10459,"text": ["parametrizzazione"]}
   ],
   "paramount": [
-    "primario",
-    "sovrano"
+    {"id": 10460,"text": ["primario"]},
+    {"id": 10461,"text": ["sovrano"]}
   ],
   "paranoia": [
-    "paranoia"
+    {"id": 10462,"text": ["paranoia"]}
   ],
   "parapet": [
-    "parapetto"
+    {"id": 10463,"text": ["parapetto"]}
   ],
   "parapsychology": [
-    "parapsicologia"
+    {"id": 10464,"text": ["parapsicologia"]}
   ],
   "parasite": [
-    "parassita"
+    {"id": 10465,"text": ["parassita"]}
   ],
   "parasitism": [
-    "parassitismo"
+    {"id": 10466,"text": ["parassitismo"]}
   ],
   "paratactic": [
-    "paratattico"
+    {"id": 10467,"text": ["paratattico"]}
   ],
   "parathyroid": [
-    "paratiroide"
+    {"id": 10468,"text": ["paratiroide"]}
   ],
   "parcel": [
-    "pacchetto"
+    {"id": 10469,"text": ["pacchetto"]}
   ],
   "parcelling": [
-    "lottizzazione"
+    {"id": 10470,"text": ["lottizzazione"]}
   ],
   "parchment": [
-    "pergamena"
+    {"id": 10471,"text": ["pergamena"]}
   ],
   "pardon": [
-    "perdono"
+    {"id": 10472,"text": ["perdono"]}
   ],
   "parenchymatous": [
-    "parenchimatoso"
+    {"id": 10473,"text": ["parenchimatoso"]}
   ],
   "parent": [
-    "genitore"
+    {"id": 10474,"text": ["genitore"]}
   ],
   "parental": [
-    "genitoriale",
-    "parentale"
+    {"id": 10475,"text": ["genitoriale"]},
+    {"id": 10476,"text": ["parentale"]}
   ],
   "parenthesis": [
-    "parentesi"
+    {"id": 10477,"text": ["parentesi"]}
   ],
   "paresthesia": [
-    "parestesia"
+    {"id": 10478,"text": ["parestesia"]}
   ],
   "parietal": [
-    "parietale"
+    {"id": 10479,"text": ["parietale"]}
   ],
   "Paris": [
-    "Parigi"
+    {"id": 10480,"text": ["Parigi"]}
   ],
   "parish": [
-    "parrocchia"
+    {"id": 10481,"text": ["parrocchia"]}
   ],
   "park": [
-    "parcheggiare",
-    "parcheggio",
-    "parco"
+    {"id": 10482,"text": ["parcheggiare"]},
+    {"id": 10483,"text": ["parcheggio"]},
+    {"id": 10484,"text": ["parco"]}
   ],
   "parking": [
-    "parcheggio"
+    {"id": 10485,"text": ["parcheggio"]}
   ],
   "parliament": [
-    "parlamento"
+    {"id": 10486,"text": ["parlamento"]}
   ],
   "parliamentarism": [
-    "parlamentarismo"
+    {"id": 10487,"text": ["parlamentarismo"]}
   ],
   "parliamentary": [
-    "parlamentare"
+    {"id": 10488,"text": ["parlamentare"]}
   ],
   "parody": [
-    "parodia"
+    {"id": 10489,"text": ["parodia"]}
   ],
   "paroxysm": [
-    "parossismo"
+    {"id": 10490,"text": ["parossismo"]}
   ],
   "paroxytone": [
-    "parossitono"
+    {"id": 10491,"text": ["parossitono"]}
   ],
   "parricide": [
-    "parricidio"
+    {"id": 10492,"text": ["parricidio"]}
   ],
   "parrot": [
-    "pappagallo"
+    {"id": 10493,"text": ["pappagallo"]}
   ],
   "parsimony": [
-    "parsimonia"
+    {"id": 10494,"text": ["parsimonia"]}
   ],
   "parsley": [
-    "prezzemolo"
+    {"id": 10495,"text": ["prezzemolo"]}
   ],
   "part": [
-    "parte",
-    "separare"
+    {"id": 10496,"text": ["parte"]},
+    {"id": 10497,"text": ["separare"]}
   ],
   "partial": [
-    "parziale"
+    {"id": 10498,"text": ["parziale"]}
   ],
   "partially": [
-    "parzialmente"
+    {"id": 10499,"text": ["parzialmente"]}
   ],
   "participant": [
-    "partecipante"
+    {"id": 10500,"text": ["partecipante"]}
   ],
   "participate": [
-    "partecipare"
+    {"id": 10501,"text": ["partecipare"]}
   ],
   "participation": [
-    "partecipazione"
+    {"id": 10502,"text": ["partecipazione"]}
   ],
   "participatory": [
-    "partecipativo"
+    {"id": 10503,"text": ["partecipativo"]}
   ],
   "participle": [
-    "participio"
+    {"id": 10504,"text": ["participio"]}
   ],
   "particle": [
-    "particella"
+    {"id": 10505,"text": ["particella"]}
   ],
   "particular": [
-    "particolare"
+    {"id": 10506,"text": ["particolare"]}
   ],
   "particularism": [
-    "particolarismo"
+    {"id": 10507,"text": ["particolarismo"]}
   ],
   "particularly": [
-    "particolarmente"
+    {"id": 10508,"text": ["particolarmente"]}
   ],
   "partition": [
-    "partizione",
-    "spartizione"
+    {"id": 10509,"text": ["partizione"]},
+    {"id": 10510,"text": ["spartizione"]}
   ],
   "partly": [
-    "in parte"
+    {"id": 10511,"text": ["in parte"]}
   ],
   "partner": [
-    "compagno",
-    "socio"
+    {"id": 10512,"text": ["compagno"]},
+    {"id": 10513,"text": ["socio"]}
   ],
   "partridge": [
-    "pernice"
+    {"id": 10514,"text": ["pernice"]}
   ],
   "party": [
-    "festa",
-    "festeggiare",
-    "partito"
+    {"id": 10515,"text": ["festa"]},
+    {"id": 10516,"text": ["festeggiare"]},
+    {"id": 10517,"text": ["partito"]}
   ],
   "pass": [
-    "passare",
-    "transitare"
+    {"id": 10518,"text": ["passare"]},
+    {"id": 10519,"text": ["transitare"]}
   ],
   "passage": [
-    "passaggio"
+    {"id": 10520,"text": ["passaggio"]}
   ],
   "passenger": [
-    "passeggero"
+    {"id": 10521,"text": ["passeggero"]}
   ],
   "passion": [
-    "passione"
+    {"id": 10522,"text": ["passione"]}
   ],
   "passionate": [
-    "appassionato",
-    "passionale"
+    {"id": 10523,"text": ["appassionato"]},
+    {"id": 10524,"text": ["passionale"]}
   ],
   "passionately": [
-    "appassionatamente"
+    {"id": 10525,"text": ["appassionatamente"]}
   ],
   "passivation": [
-    "passivazione"
+    {"id": 10526,"text": ["passivazione"]}
   ],
   "passive": [
-    "passivo"
+    {"id": 10527,"text": ["passivo"]}
   ],
   "passively": [
-    "passivamente"
+    {"id": 10528,"text": ["passivamente"]}
   ],
   "passport": [
-    "passaporto"
+    {"id": 10529,"text": ["passaporto"]}
   ],
   "password": [
-    "password"
+    {"id": 10530,"text": ["password"]}
   ],
   "past": [
-    "dopo",
-    "passato"
+    {"id": 10531,"text": ["dopo"]},
+    {"id": 10532,"text": ["passato"]}
   ],
   "pasta": [
-    "pasta"
+    {"id": 10533,"text": ["pasta"]}
   ],
   "paste": [
-    "pasta"
+    {"id": 10534,"text": ["pasta"]}
   ],
   "pasteurisation": [
-    "pastorizzazione"
+    {"id": 10535,"text": ["pastorizzazione"]}
   ],
   "pastoral": [
-    "pastorale"
+    {"id": 10536,"text": ["pastorale"]}
   ],
   "pastoralism": [
-    "pastorizia"
+    {"id": 10537,"text": ["pastorizia"]}
   ],
   "pasture": [
-    "pascolo",
-    "pasto"
+    {"id": 10538,"text": ["pascolo"]},
+    {"id": 10539,"text": ["pasto"]}
   ],
   "patent": [
-    "brevettare",
-    "brevetto"
+    {"id": 10540,"text": ["brevettare"]},
+    {"id": 10541,"text": ["brevetto"]}
   ],
   "paternal": [
-    "paterno"
+    {"id": 10542,"text": ["paterno"]}
   ],
   "path": [
-    "cammino",
-    "percorso",
-    "traiettoria"
+    {"id": 10543,"text": ["cammino"]},
+    {"id": 10544,"text": ["percorso"]},
+    {"id": 10545,"text": ["traiettoria"]}
   ],
   "pathogen": [
-    "patogeno"
+    {"id": 10546,"text": ["patogeno"]}
   ],
   "pathogenic": [
-    "patogeno"
+    {"id": 10547,"text": ["patogeno"]}
   ],
   "pathological": [
-    "patologico"
+    {"id": 10548,"text": ["patologico"]}
   ],
   "pathology": [
-    "patologia"
+    {"id": 10549,"text": ["patologia"]}
   ],
   "pathophysiology": [
-    "fisiopatologia"
+    {"id": 10550,"text": ["fisiopatologia"]}
   ],
   "patience": [
-    "sopportazione"
+    {"id": 10551,"text": ["sopportazione"]}
   ],
   "patient": [
-    "ammalato",
-    "malato",
-    "paziente"
+    {"id": 10552,"text": ["ammalato"]},
+    {"id": 10553,"text": ["malato"]},
+    {"id": 10554,"text": ["paziente"]}
   ],
   "patiently": [
-    "pazientemente"
+    {"id": 10555,"text": ["pazientemente"]}
   ],
   "patriarch": [
-    "patriarca"
+    {"id": 10556,"text": ["patriarca"]}
   ],
   "patriarchy": [
-    "patriarcato"
+    {"id": 10557,"text": ["patriarcato"]}
   ],
   "patrilineal": [
-    "patrilineare"
+    {"id": 10558,"text": ["patrilineare"]}
   ],
   "patrimonial": [
-    "patrimoniale"
+    {"id": 10559,"text": ["patrimoniale"]}
   ],
   "patriot": [
-    "patriota"
+    {"id": 10560,"text": ["patriota"]}
   ],
   "patriotic": [
-    "patriottico"
+    {"id": 10561,"text": ["patriottico"]}
   ],
   "patriotism": [
-    "patriottismo"
+    {"id": 10562,"text": ["patriottismo"]}
   ],
   "patrol": [
-    "pattuglia",
-    "pattugliare",
-    "ronda"
+    {"id": 10563,"text": ["pattuglia"]},
+    {"id": 10564,"text": ["pattugliare"]},
+    {"id": 10565,"text": ["ronda"]}
   ],
   "patron": [
-    "mecenate",
-    "patronale",
-    "patrono"
+    {"id": 10566,"text": ["mecenate"]},
+    {"id": 10567,"text": ["patronale"]},
+    {"id": 10568,"text": ["patrono"]}
   ],
   "patron saint": [
-    "santo patrono"
+    {"id": 10569,"text": ["santo patrono"]}
   ],
   "patronage": [
-    "mecenatismo"
+    {"id": 10570,"text": ["mecenatismo"]}
   ],
   "pattern": [
-    "modello"
+    {"id": 10571,"text": ["modello"]}
   ],
   "pause": [
-    "fermarsi",
-    "mettere in pausa",
-    "pausa"
+    {"id": 10572,"text": ["fermarsi"]},
+    {"id": 10573,"text": ["mettere in pausa"]},
+    {"id": 10574,"text": ["pausa"]}
   ],
   "paving": [
-    "pavimentazione"
+    {"id": 10575,"text": ["pavimentazione"]}
   ],
   "pay": [
-    "paga",
-    "pagare"
+    {"id": 10576,"text": ["paga"]},
+    {"id": 10577,"text": ["pagare"]}
   ],
   "paycash": [
-    "pagareincontanti"
+    {"id": 10578,"text": ["pagareincontanti"]}
   ],
   "payday": [
-    "giorno di paga"
+    {"id": 10579,"text": ["giorno di paga"]}
   ],
   "payment": [
-    "pagamento"
+    {"id": 10580,"text": ["pagamento"]}
   ],
   "pea": [
-    "pisello"
+    {"id": 10581,"text": ["pisello"]}
   ],
   "peace": [
-    "pace"
+    {"id": 10582,"text": ["pace"]}
   ],
   "peaceful": [
-    "pacifico"
+    {"id": 10583,"text": ["pacifico"]}
   ],
   "peacefully": [
-    "pacificamente"
+    {"id": 10584,"text": ["pacificamente"]}
   ],
   "peach": [
-    "pesca"
+    {"id": 10585,"text": ["pesca"]}
   ],
   "peak": [
-    "apice",
-    "picco",
-    "sommità",
-    "vertice"
+    {"id": 10586,"text": ["apice"]},
+    {"id": 10587,"text": ["picco"]},
+    {"id": 10588,"text": ["sommità"]},
+    {"id": 10589,"text": ["vertice"]}
   ],
   "peanut": [
-    "arachide"
+    {"id": 10590,"text": ["arachide"]}
   ],
   "pear": [
-    "pera"
+    {"id": 10591,"text": ["pera"]}
   ],
   "pearl": [
-    "perla"
+    {"id": 10592,"text": ["perla"]}
   ],
   "peasant": [
-    "contadino"
+    {"id": 10593,"text": ["contadino"]}
   ],
   "peat": [
-    "torba"
+    {"id": 10594,"text": ["torba"]}
   ],
   "pebble": [
-    "ciottolo"
+    {"id": 10595,"text": ["ciottolo"]}
   ],
   "pectin": [
-    "pectina"
+    {"id": 10596,"text": ["pectina"]}
   ],
   "pectoral": [
-    "pettorale"
+    {"id": 10597,"text": ["pettorale"]}
   ],
   "peculiar": [
-    "peculiare"
+    {"id": 10598,"text": ["peculiare"]}
   ],
   "pedagogical": [
-    "pedagogico"
+    {"id": 10599,"text": ["pedagogico"]}
   ],
   "pedagogy": [
-    "pedagogia"
+    {"id": 10600,"text": ["pedagogia"]}
   ],
   "pedal": [
-    "pedale"
+    {"id": 10601,"text": ["pedale"]}
   ],
   "pedalling": [
-    "pedalata"
+    {"id": 10602,"text": ["pedalata"]}
   ],
   "pedantic": [
-    "pedante"
+    {"id": 10603,"text": ["pedante"]}
   ],
   "pederast": [
-    "pedofilo"
+    {"id": 10604,"text": ["pedofilo"]}
   ],
   "pederasty": [
-    "pederastia"
+    {"id": 10605,"text": ["pederastia"]}
   ],
   "pedestal": [
-    "piedistallo"
+    {"id": 10606,"text": ["piedistallo"]}
   ],
   "pedestrian": [
-    "pedone"
+    {"id": 10607,"text": ["pedone"]}
   ],
   "pediatrician": [
-    "pediatra"
+    {"id": 10608,"text": ["pediatra"]}
   ],
   "pediatrics": [
-    "pediatria"
+    {"id": 10609,"text": ["pediatria"]}
   ],
   "pedology": [
-    "pedologia"
+    {"id": 10610,"text": ["pedologia"]}
   ],
   "peduncle": [
-    "peduncolo"
+    {"id": 10611,"text": ["peduncolo"]}
   ],
   "peel": [
-    "guscio",
-    "mondare",
-    "pelare"
+    {"id": 10612,"text": ["guscio"]},
+    {"id": 10613,"text": ["mondare"]},
+    {"id": 10614,"text": ["pelare"]}
   ],
   "peephole": [
-    "spioncino"
+    {"id": 10615,"text": ["spioncino"]}
   ],
   "pejorative": [
-    "peggiorativo"
+    {"id": 10616,"text": ["peggiorativo"]}
   ],
   "pelvic": [
-    "pelvico"
+    {"id": 10617,"text": ["pelvico"]}
   ],
   "pen": [
-    "penna"
+    {"id": 10618,"text": ["penna"]}
   ],
   "penal": [
-    "penale"
+    {"id": 10619,"text": ["penale"]}
   ],
   "penalty": [
-    "pena",
-    "penalità"
+    {"id": 10620,"text": ["pena"]},
+    {"id": 10621,"text": ["penalità"]}
   ],
   "penance": [
-    "penitenza"
+    {"id": 10622,"text": ["penitenza"]}
   ],
   "pencil": [
-    "matita"
+    {"id": 10623,"text": ["matita"]}
   ],
   "pencil sharpener": [
-    "temperino"
+    {"id": 10624,"text": ["temperino"]}
   ],
   "pendant": [
-    "grappolo"
+    {"id": 10625,"text": ["grappolo"]}
   ],
   "pending": [
-    "in attesa"
+    {"id": 10626,"text": ["in attesa"]}
   ],
   "pendulum": [
-    "pendolo"
+    {"id": 10627,"text": ["pendolo"]}
   ],
   "penetrate": [
-    "penetrare"
+    {"id": 10628,"text": ["penetrare"]}
   ],
   "penetrating": [
-    "penetrante"
+    {"id": 10629,"text": ["penetrante"]}
   ],
   "penetration": [
-    "penetrazione"
+    {"id": 10630,"text": ["penetrazione"]}
   ],
   "penguin": [
-    "pinguino"
+    {"id": 10631,"text": ["pinguino"]}
   ],
   "penicillin": [
-    "penicillina"
+    {"id": 10632,"text": ["penicillina"]}
   ],
   "peninsula": [
-    "penisola"
+    {"id": 10633,"text": ["penisola"]}
   ],
   "peninsular": [
-    "peninsulare"
+    {"id": 10634,"text": ["peninsulare"]}
   ],
   "penis": [
-    "pene"
+    {"id": 10635,"text": ["pene"]}
   ],
   "penitential": [
-    "penitenziale"
+    {"id": 10636,"text": ["penitenziale"]}
   ],
   "penitentiary": [
-    "penitenziario"
+    {"id": 10637,"text": ["penitenziario"]}
   ],
   "penknife": [
-    "temperino"
+    {"id": 10638,"text": ["temperino"]}
   ],
   "penny": [
-    "centesimo",
-    "soldo"
+    {"id": 10639,"text": ["centesimo"]},
+    {"id": 10640,"text": ["soldo"]}
   ],
   "pension": [
-    "pensione"
+    {"id": 10641,"text": ["pensione"]}
   ],
   "pensioner": [
-    "pensionato"
+    {"id": 10642,"text": ["pensionato"]}
   ],
   "pentagon": [
-    "pentagono"
+    {"id": 10643,"text": ["pentagono"]}
   ],
   "pentagonal": [
-    "pentagonale"
+    {"id": 10644,"text": ["pentagonale"]}
   ],
   "pentagram": [
-    "pentagramma"
+    {"id": 10645,"text": ["pentagramma"]}
   ],
   "pentameter": [
-    "pentametro"
+    {"id": 10646,"text": ["pentametro"]}
   ],
   "penultimate": [
-    "penultimo"
+    {"id": 10647,"text": ["penultimo"]}
   ],
   "people": [
-    "gente",
-    "popolo"
+    {"id": 10648,"text": ["gente"]},
+    {"id": 10649,"text": ["popolo"]}
   ],
   "pepper": [
-    "pepe",
-    "peperone"
+    {"id": 10650,"text": ["pepe"]},
+    {"id": 10651,"text": ["peperone"]}
   ],
   "pepsin": [
-    "pepsina"
+    {"id": 10652,"text": ["pepsina"]}
   ],
   "perceivable": [
-    "percepibile",
-    "percettibile"
+    {"id": 10653,"text": ["percepibile"]},
+    {"id": 10654,"text": ["percettibile"]}
   ],
   "perceive": [
-    "percepire"
+    {"id": 10655,"text": ["percepire"]}
   ],
   "percent": [
-    "percento",
-    "percentuale"
+    {"id": 10656,"text": ["percento"]},
+    {"id": 10657,"text": ["percentuale"]}
   ],
   "percentage": [
-    "percentuale"
+    {"id": 10658,"text": ["percentuale"]}
   ],
   "perception": [
-    "percezione"
+    {"id": 10659,"text": ["percezione"]}
   ],
   "perch": [
-    "pertica"
+    {"id": 10660,"text": ["pertica"]}
   ],
   "percolation": [
-    "percolazione"
+    {"id": 10661,"text": ["percolazione"]}
   ],
   "percussion": [
-    "percussione"
+    {"id": 10662,"text": ["percussione"]}
   ],
   "peremptory": [
-    "perentorio"
+    {"id": 10663,"text": ["perentorio"]}
   ],
   "perennially": [
-    "perennemente"
+    {"id": 10664,"text": ["perennemente"]}
   ],
   "perfect": [
-    "perfetto",
-    "perfezionare"
+    {"id": 10665,"text": ["perfetto"]},
+    {"id": 10666,"text": ["perfezionare"]}
   ],
   "perfection": [
-    "perfezione"
+    {"id": 10667,"text": ["perfezione"]}
   ],
   "perfectionism": [
-    "perfezionismo"
+    {"id": 10668,"text": ["perfezionismo"]}
   ],
   "perfectionist": [
-    "perfezionista"
+    {"id": 10669,"text": ["perfezionista"]}
   ],
   "perfectly": [
-    "perfettamente"
+    {"id": 10670,"text": ["perfettamente"]}
   ],
   "perforation": [
-    "perforazione"
+    {"id": 10671,"text": ["perforazione"]}
   ],
   "perform": [
-    "svolgere"
+    {"id": 10672,"text": ["svolgere"]}
   ],
   "performance": [
-    "interpretazione",
-    "spettacolo"
+    {"id": 10673,"text": ["interpretazione"]},
+    {"id": 10674,"text": ["spettacolo"]}
   ],
   "performer": [
-    "interprete"
+    {"id": 10675,"text": ["interprete"]}
   ],
   "perfume": [
-    "profumare",
-    "profumo"
+    {"id": 10676,"text": ["profumare"]},
+    {"id": 10677,"text": ["profumo"]}
   ],
   "perfumery": [
-    "profumeria"
+    {"id": 10678,"text": ["profumeria"]}
   ],
   "perhaps": [
-    "forse"
+    {"id": 10679,"text": ["forse"]}
   ],
   "pericardium": [
-    "pericardio"
+    {"id": 10680,"text": ["pericardio"]}
   ],
   "pericarp": [
-    "pericarpo"
+    {"id": 10681,"text": ["pericarpo"]}
   ],
   "perichondrium": [
-    "pericondrio"
+    {"id": 10682,"text": ["pericondrio"]}
   ],
   "pericranium": [
-    "periostio"
+    {"id": 10683,"text": ["periostio"]}
   ],
   "perigee": [
-    "perigeo"
+    {"id": 10684,"text": ["perigeo"]}
   ],
   "periglacial": [
-    "periglaciale"
+    {"id": 10685,"text": ["periglaciale"]}
   ],
   "perimeter": [
-    "perimetro"
+    {"id": 10686,"text": ["perimetro"]}
   ],
   "perineal": [
-    "perineale"
+    {"id": 10687,"text": ["perineale"]}
   ],
   "perineum": [
-    "perineo"
+    {"id": 10688,"text": ["perineo"]}
   ],
   "period": [
-    "epoca",
-    "periodo"
+    {"id": 10689,"text": ["epoca"]},
+    {"id": 10690,"text": ["periodo"]}
   ],
   "periodic": [
-    "periodico"
+    {"id": 10691,"text": ["periodico"]}
   ],
   "periodically": [
-    "periodicamente"
+    {"id": 10692,"text": ["periodicamente"]}
   ],
   "peripheral": [
-    "periferica",
-    "periferico"
+    {"id": 10693,"text": ["periferica"]},
+    {"id": 10694,"text": ["periferico"]}
   ],
   "periphery": [
-    "periferia"
+    {"id": 10695,"text": ["periferia"]}
   ],
   "periphrastic": [
-    "perifrastico"
+    {"id": 10696,"text": ["perifrastico"]}
   ],
   "periscope": [
-    "periscopio"
+    {"id": 10697,"text": ["periscopio"]}
   ],
   "perishable": [
-    "deteriorabile"
+    {"id": 10698,"text": ["deteriorabile"]}
   ],
   "peritoneum": [
-    "peritoneo"
+    {"id": 10699,"text": ["peritoneo"]}
   ],
   "perjury": [
-    "spergiuro"
+    {"id": 10700,"text": ["spergiuro"]}
   ],
   "permanence": [
-    "permanenza"
+    {"id": 10701,"text": ["permanenza"]}
   ],
   "permanent": [
-    "permanente"
+    {"id": 10702,"text": ["permanente"]}
   ],
   "permanently": [
-    "permanentemente"
+    {"id": 10703,"text": ["permanentemente"]}
   ],
   "permeable": [
-    "permeabile"
+    {"id": 10704,"text": ["permeabile"]}
   ],
   "permeance": [
-    "permeanza"
+    {"id": 10705,"text": ["permeanza"]}
   ],
   "perminute": [
-    "perminuto"
+    {"id": 10706,"text": ["perminuto"]}
   ],
   "permissible": [
-    "permissibile"
+    {"id": 10707,"text": ["permissibile"]}
   ],
   "permission": [
-    "autorizzazione",
-    "permesso"
+    {"id": 10708,"text": ["autorizzazione"]},
+    {"id": 10709,"text": ["permesso"]}
   ],
   "permit": [
-    "autorizzazione",
-    "permesso",
-    "permettere"
+    {"id": 10710,"text": ["autorizzazione"]},
+    {"id": 10711,"text": ["permesso"]},
+    {"id": 10712,"text": ["permettere"]}
   ],
   "permonth": [
-    "almese"
+    {"id": 10713,"text": ["almese"]}
   ],
   "permutation": [
-    "permutazione"
+    {"id": 10714,"text": ["permutazione"]}
   ],
   "pernicious": [
-    "pernicioso"
+    {"id": 10715,"text": ["pernicioso"]}
   ],
   "pernight": [
-    "pernotte"
+    {"id": 10716,"text": ["pernotte"]}
   ],
   "peroxide": [
-    "perossido"
+    {"id": 10717,"text": ["perossido"]}
   ],
   "perpendicular": [
-    "perpendicolare"
+    {"id": 10718,"text": ["perpendicolare"]}
   ],
   "perpetrate": [
-    "perpetrare"
+    {"id": 10719,"text": ["perpetrare"]}
   ],
   "perpetual": [
-    "perpetuo"
+    {"id": 10720,"text": ["perpetuo"]}
   ],
   "perpetually": [
-    "perpetuamente"
+    {"id": 10721,"text": ["perpetuamente"]}
   ],
   "perpetuate": [
-    "perpetuare"
+    {"id": 10722,"text": ["perpetuare"]}
   ],
   "perpetuation": [
-    "perpetuazione"
+    {"id": 10723,"text": ["perpetuazione"]}
   ],
   "persecution": [
-    "persecuzione"
+    {"id": 10724,"text": ["persecuzione"]}
   ],
   "perseverance": [
-    "perseveranza"
+    {"id": 10725,"text": ["perseveranza"]}
   ],
   "persian": [
-    "persiano"
+    {"id": 10726,"text": ["persiano"]}
   ],
   "persist": [
-    "persistere"
+    {"id": 10727,"text": ["persistere"]}
   ],
   "persistence": [
-    "persistenza"
+    {"id": 10728,"text": ["persistenza"]}
   ],
   "persistent": [
-    "persistente"
+    {"id": 10729,"text": ["persistente"]}
   ],
   "person": [
-    "persona"
+    {"id": 10730,"text": ["persona"]}
   ],
   "personal": [
-    "personale"
+    {"id": 10731,"text": ["personale"]}
   ],
   "personalisation": [
-    "personalizzazione"
+    {"id": 10732,"text": ["personalizzazione"]}
   ],
   "personalised": [
-    "personalizzato"
+    {"id": 10733,"text": ["personalizzato"]}
   ],
   "personalism": [
-    "personalismo"
+    {"id": 10734,"text": ["personalismo"]}
   ],
   "personalization": [
-    "personalizzazione"
+    {"id": 10735,"text": ["personalizzazione"]}
   ],
   "personalized": [
-    "personalizzato"
+    {"id": 10736,"text": ["personalizzato"]}
   ],
   "personally": [
-    "personalmente"
+    {"id": 10737,"text": ["personalmente"]}
   ],
   "personification": [
-    "personificazione"
+    {"id": 10738,"text": ["personificazione"]}
   ],
   "personnel": [
-    "personale"
+    {"id": 10739,"text": ["personale"]}
   ],
   "perspective": [
-    "prospettiva"
+    {"id": 10740,"text": ["prospettiva"]}
   ],
   "perspectivism": [
-    "prospettivismo"
+    {"id": 10741,"text": ["prospettivismo"]}
   ],
   "perspicacity": [
-    "perspicacia"
+    {"id": 10742,"text": ["perspicacia"]}
   ],
   "persuade": [
-    "persuadere"
+    {"id": 10743,"text": ["persuadere"]}
   ],
   "persuasion": [
-    "persuasione"
+    {"id": 10744,"text": ["persuasione"]}
   ],
   "persuasively": [
-    "persuasivamente"
+    {"id": 10745,"text": ["persuasivamente"]}
   ],
   "pertaining": [
-    "appartenente"
+    {"id": 10746,"text": ["appartenente"]}
   ],
   "pertinent": [
-    "pertinente"
+    {"id": 10747,"text": ["pertinente"]}
   ],
   "perturb": [
-    "perturbare"
+    {"id": 10748,"text": ["perturbare"]}
   ],
   "peruvian": [
-    "peruviano"
+    {"id": 10749,"text": ["peruviano"]}
   ],
   "perverse": [
-    "perverso"
+    {"id": 10750,"text": ["perverso"]}
   ],
   "perversion": [
-    "perversione"
+    {"id": 10751,"text": ["perversione"]}
   ],
   "peseta": [
-    "peseta"
+    {"id": 10752,"text": ["peseta"]}
   ],
   "pessimism": [
-    "pessimismo"
+    {"id": 10753,"text": ["pessimismo"]}
   ],
   "pessimist": [
-    "pessimista"
+    {"id": 10754,"text": ["pessimista"]}
   ],
   "pessimistic": [
-    "pessimista"
+    {"id": 10755,"text": ["pessimista"]}
   ],
   "pest": [
-    "peste",
-    "piaga"
+    {"id": 10756,"text": ["peste"]},
+    {"id": 10757,"text": ["piaga"]}
   ],
   "pet": [
-    "animaledacompagnia"
+    {"id": 10758,"text": ["animaledacompagnia"]}
   ],
   "petal": [
-    "petalo"
+    {"id": 10759,"text": ["petalo"]}
   ],
   "petrochemical": [
-    "petrolchimico"
+    {"id": 10760,"text": ["petrolchimico"]}
   ],
   "petrography": [
-    "petrografia"
+    {"id": 10761,"text": ["petrografia"]}
   ],
   "petrol": [
-    "benzina"
+    {"id": 10762,"text": ["benzina"]}
   ],
   "petroleum": [
-    "petrolio"
+    {"id": 10763,"text": ["petrolio"]}
   ],
   "petrology": [
-    "petrologia"
+    {"id": 10764,"text": ["petrologia"]}
   ],
   "phagocyte": [
-    "fagocita"
+    {"id": 10765,"text": ["fagocita"]}
   ],
   "phallic": [
-    "fallico"
+    {"id": 10766,"text": ["fallico"]}
   ],
   "phantom": [
-    "fantasma"
+    {"id": 10767,"text": ["fantasma"]}
   ],
   "pharaoh": [
-    "faraone"
+    {"id": 10768,"text": ["faraone"]}
   ],
   "pharaonic": [
-    "faraonico"
+    {"id": 10769,"text": ["faraonico"]}
   ],
   "pharmaceutical": [
-    "farmaceutico"
+    {"id": 10770,"text": ["farmaceutico"]}
   ],
   "pharmacologically": [
-    "farmacologicamente"
+    {"id": 10771,"text": ["farmacologicamente"]}
   ],
   "pharmacology": [
-    "farmacologia"
+    {"id": 10772,"text": ["farmacologia"]}
   ],
   "pharmacopoeia": [
-    "farmacopea"
+    {"id": 10773,"text": ["farmacopea"]}
   ],
   "pharmacy": [
-    "farmacia"
+    {"id": 10774,"text": ["farmacia"]}
   ],
   "phase": [
-    "attraversare",
-    "fase"
+    {"id": 10775,"text": ["attraversare"]},
+    {"id": 10776,"text": ["fase"]}
   ],
   "phasor": [
-    "fasore"
+    {"id": 10777,"text": ["fasore"]}
   ],
   "pheasant": [
-    "fagiano"
+    {"id": 10778,"text": ["fagiano"]}
   ],
   "phenol": [
-    "fenolo"
+    {"id": 10779,"text": ["fenolo"]}
   ],
   "phenolic": [
-    "fenologico"
+    {"id": 10780,"text": ["fenologico"]}
   ],
   "phenology": [
-    "fenologia"
+    {"id": 10781,"text": ["fenologia"]}
   ],
   "phenomenal": [
-    "fenomenale"
+    {"id": 10782,"text": ["fenomenale"]}
   ],
   "phenomenology": [
-    "fenomenologia"
+    {"id": 10783,"text": ["fenomenologia"]}
   ],
   "phenomenon": [
-    "fenomeno"
+    {"id": 10784,"text": ["fenomeno"]}
   ],
   "phenotype": [
-    "fenotipo"
+    {"id": 10785,"text": ["fenotipo"]}
   ],
   "pheromone": [
-    "feromone"
+    {"id": 10786,"text": ["feromone"]}
   ],
   "philately": [
-    "filatelia"
+    {"id": 10787,"text": ["filatelia"]}
   ],
   "Philippines": [
-    "Filippine"
+    {"id": 10788,"text": ["Filippine"]}
   ],
   "philological": [
-    "filologico"
+    {"id": 10789,"text": ["filologico"]}
   ],
   "philologist": [
-    "filologo"
+    {"id": 10790,"text": ["filologo"]}
   ],
   "philology": [
-    "filologia"
+    {"id": 10791,"text": ["filologia"]}
   ],
   "philosopher": [
-    "filosofo"
+    {"id": 10792,"text": ["filosofo"]}
   ],
   "philosophical": [
-    "filosofico"
+    {"id": 10793,"text": ["filosofico"]}
   ],
   "philosophically": [
-    "filosoficamente"
+    {"id": 10794,"text": ["filosoficamente"]}
   ],
   "philosophy": [
-    "filosofia"
+    {"id": 10795,"text": ["filosofia"]}
   ],
   "phloem": [
-    "floema"
+    {"id": 10796,"text": ["floema"]}
   ],
   "phobia": [
-    "fobia"
+    {"id": 10797,"text": ["fobia"]}
   ],
   "Phoenician": [
-    "fenicio"
+    {"id": 10798,"text": ["fenicio"]}
   ],
   "phonation": [
-    "fonazione"
+    {"id": 10799,"text": ["fonazione"]}
   ],
   "phone": [
-    "telefonare",
-    "telefono"
+    {"id": 10800,"text": ["telefonare"]},
+    {"id": 10801,"text": ["telefono"]}
   ],
   "phoneme": [
-    "fonema"
+    {"id": 10802,"text": ["fonema"]}
   ],
   "phonemic": [
-    "fonemico"
+    {"id": 10803,"text": ["fonemico"]}
   ],
   "phonendoscope": [
-    "fonendoscopio"
+    {"id": 10804,"text": ["fonendoscopio"]}
   ],
   "phonetically": [
-    "foneticamente"
+    {"id": 10805,"text": ["foneticamente"]}
   ],
   "phonetics": [
-    "fonetica"
+    {"id": 10806,"text": ["fonetica"]}
   ],
   "phonic": [
-    "fonico"
+    {"id": 10807,"text": ["fonico"]}
   ],
   "phonogram": [
-    "fonogramma"
+    {"id": 10808,"text": ["fonogramma"]}
   ],
   "phonograph": [
-    "fonografo"
+    {"id": 10809,"text": ["fonografo"]}
   ],
   "phonological": [
-    "fonologico"
+    {"id": 10810,"text": ["fonologico"]}
   ],
   "phonology": [
-    "fonologia"
+    {"id": 10811,"text": ["fonologia"]}
   ],
   "phosphate": [
-    "fosfato"
+    {"id": 10812,"text": ["fosfato"]}
   ],
   "phosphine": [
-    "fosfina"
+    {"id": 10813,"text": ["fosfina"]}
   ],
   "phosphorescence": [
-    "fosforescenza"
+    {"id": 10814,"text": ["fosforescenza"]}
   ],
   "phosphorus": [
-    "fosforo"
+    {"id": 10815,"text": ["fosforo"]}
   ],
   "phosphorylation": [
-    "fosforilazione"
+    {"id": 10816,"text": ["fosforilazione"]}
   ],
   "photo": [
-    "foto"
+    {"id": 10817,"text": ["foto"]}
   ],
   "photochemical": [
-    "fotochimico"
+    {"id": 10818,"text": ["fotochimico"]}
   ],
   "photocomposition": [
-    "fotocomposizione"
+    {"id": 10819,"text": ["fotocomposizione"]}
   ],
   "photocopier": [
-    "fotocopiatrice"
+    {"id": 10820,"text": ["fotocopiatrice"]}
   ],
   "photocopy": [
-    "fotocopiare",
-    "fotocopiatrice"
+    {"id": 10821,"text": ["fotocopiare"]},
+    {"id": 10822,"text": ["fotocopiatrice"]}
   ],
   "photodiode": [
-    "fotodiodo"
+    {"id": 10823,"text": ["fotodiodo"]}
   ],
   "photoengraving": [
-    "fotoincisione"
+    {"id": 10824,"text": ["fotoincisione"]}
   ],
   "photofermentation": [
-    "fotofermentazione"
+    {"id": 10825,"text": ["fotofermentazione"]}
   ],
   "photogrammetry": [
-    "fotogrammetria"
+    {"id": 10826,"text": ["fotogrammetria"]}
   ],
   "photograph": [
-    "fotografare",
-    "fotografia"
+    {"id": 10827,"text": ["fotografare"]},
+    {"id": 10828,"text": ["fotografia"]}
   ],
   "photographer": [
-    "fotografo"
+    {"id": 10829,"text": ["fotografo"]}
   ],
   "photographic": [
-    "fotografico"
+    {"id": 10830,"text": ["fotografico"]}
   ],
   "photography": [
-    "fotografia"
+    {"id": 10831,"text": ["fotografia"]}
   ],
   "photolithographic": [
-    "fotolitografico"
+    {"id": 10832,"text": ["fotolitografico"]}
   ],
   "photometer": [
-    "luxmetro"
+    {"id": 10833,"text": ["luxmetro"]}
   ],
   "photometric": [
-    "fotometrico"
+    {"id": 10834,"text": ["fotometrico"]}
   ],
   "photometry": [
-    "fotometria"
+    {"id": 10835,"text": ["fotometria"]}
   ],
   "photon": [
-    "fotone"
+    {"id": 10836,"text": ["fotone"]}
   ],
   "photonic": [
-    "fotonico"
+    {"id": 10837,"text": ["fotonico"]}
   ],
   "phototype": [
-    "fototipo"
+    {"id": 10838,"text": ["fototipo"]}
   ],
   "photovoltaic": [
-    "fotovoltaico"
+    {"id": 10839,"text": ["fotovoltaico"]}
   ],
   "phrase": [
-    "frase"
+    {"id": 10840,"text": ["frase"]}
   ],
   "phraseology": [
-    "fraseologia"
+    {"id": 10841,"text": ["fraseologia"]}
   ],
   "phreatic": [
-    "freatico"
+    {"id": 10842,"text": ["freatico"]}
   ],
   "physical": [
-    "fisico"
+    {"id": 10843,"text": ["fisico"]}
   ],
   "physically": [
-    "fisicamente"
+    {"id": 10844,"text": ["fisicamente"]}
   ],
   "physicist": [
-    "fisico"
+    {"id": 10845,"text": ["fisico"]}
   ],
   "physics": [
-    "fisica"
+    {"id": 10846,"text": ["fisica"]}
   ],
   "physiocracy": [
-    "fisiocrazia"
+    {"id": 10847,"text": ["fisiocrazia"]}
   ],
   "physiological": [
-    "fisiologico"
+    {"id": 10848,"text": ["fisiologico"]}
   ],
   "physiologically": [
-    "fisiologicamente"
+    {"id": 10849,"text": ["fisiologicamente"]}
   ],
   "physiology": [
-    "fisiologia"
+    {"id": 10850,"text": ["fisiologia"]}
   ],
   "physiotherapy": [
-    "fisioterapia"
+    {"id": 10851,"text": ["fisioterapia"]}
   ],
   "physique": [
-    "corporatura",
-    "fisico"
+    {"id": 10852,"text": ["corporatura"]},
+    {"id": 10853,"text": ["fisico"]}
   ],
   "phytogeography": [
-    "fitogeografia"
+    {"id": 10854,"text": ["fitogeografia"]}
   ],
   "phytopathology": [
-    "fitopatologia"
+    {"id": 10855,"text": ["fitopatologia"]}
   ],
   "phytoplankton": [
-    "fitoplancton"
+    {"id": 10856,"text": ["fitoplancton"]}
   ],
   "phytosociology": [
-    "fitosociologia"
+    {"id": 10857,"text": ["fitosociologia"]}
   ],
   "piacular": [
-    "espiatorio"
+    {"id": 10858,"text": ["espiatorio"]}
   ],
   "pianist": [
-    "pianista"
+    {"id": 10859,"text": ["pianista"]}
   ],
   "piano": [
-    "piano",
-    "pianoforte"
+    {"id": 10860,"text": ["piano"]},
+    {"id": 10861,"text": ["pianoforte"]}
   ],
   "picaresque": [
-    "picaresco"
+    {"id": 10862,"text": ["picaresco"]}
   ],
   "pick": [
-    "plettro",
-    "scegliere"
+    {"id": 10863,"text": ["plettro"]},
+    {"id": 10864,"text": ["scegliere"]}
   ],
   "pick up": [
-    "captare",
-    "prendere"
+    {"id": 10865,"text": ["captare"]},
+    {"id": 10866,"text": ["prendere"]}
   ],
   "pickaxe": [
-    "piccone"
+    {"id": 10867,"text": ["piccone"]}
   ],
   "picket": [
-    "picchetto"
+    {"id": 10868,"text": ["picchetto"]}
   ],
   "pickle": [
-    "salamoia"
+    {"id": 10869,"text": ["salamoia"]}
   ],
   "pictogram": [
-    "pittogramma"
+    {"id": 10870,"text": ["pittogramma"]}
   ],
   "pictographic": [
-    "pittografico"
+    {"id": 10871,"text": ["pittografico"]}
   ],
   "pictorial": [
-    "pittorico"
+    {"id": 10872,"text": ["pittorico"]}
   ],
   "picture": [
-    "fotografia",
-    "quadro"
+    {"id": 10873,"text": ["fotografia"]},
+    {"id": 10874,"text": ["quadro"]}
   ],
   "pie": [
-    "pasticcio",
-    "torta"
+    {"id": 10875,"text": ["pasticcio"]},
+    {"id": 10876,"text": ["torta"]}
   ],
   "piece": [
-    "pezzo"
+    {"id": 10877,"text": ["pezzo"]}
   ],
   "pierce": [
-    "bucare",
-    "forare"
+    {"id": 10878,"text": ["bucare"]},
+    {"id": 10879,"text": ["forare"]}
   ],
   "piercing": [
-    "penetrante",
-    "piercing"
+    {"id": 10880,"text": ["penetrante"]},
+    {"id": 10881,"text": ["piercing"]}
   ],
   "piezoelectric": [
-    "piezoelettrico"
+    {"id": 10882,"text": ["piezoelettrico"]}
   ],
   "pig": [
-    "maiale",
-    "porco"
+    {"id": 10883,"text": ["maiale"]},
+    {"id": 10884,"text": ["porco"]}
   ],
   "pigeon": [
-    "piccione"
+    {"id": 10885,"text": ["piccione"]}
   ],
   "piggybank": [
-    "salvadanaio"
+    {"id": 10886,"text": ["salvadanaio"]}
   ],
   "pigment": [
-    "pigmento"
+    {"id": 10887,"text": ["pigmento"]}
   ],
   "pigmentation": [
-    "pigmentazione"
+    {"id": 10888,"text": ["pigmentazione"]}
   ],
   "pigpen": [
-    "porcile"
+    {"id": 10889,"text": ["porcile"]}
   ],
   "pigsty": [
-    "porcile"
+    {"id": 10890,"text": ["porcile"]}
   ],
   "pike": [
-    "luccio"
+    {"id": 10891,"text": ["luccio"]}
   ],
   "pile": [
-    "accatastare",
-    "mucchio",
-    "pila"
+    {"id": 10892,"text": ["accatastare"]},
+    {"id": 10893,"text": ["mucchio"]},
+    {"id": 10894,"text": ["pila"]}
   ],
   "pilgrim": [
-    "pellegrino"
+    {"id": 10895,"text": ["pellegrino"]}
   ],
   "pilgrimage": [
-    "pellegrinaggio"
+    {"id": 10896,"text": ["pellegrinaggio"]}
   ],
   "pill": [
-    "pillola"
+    {"id": 10897,"text": ["pillola"]}
   ],
   "pillage": [
-    "saccheggio"
+    {"id": 10898,"text": ["saccheggio"]}
   ],
   "pillar": [
-    "pilastro"
+    {"id": 10899,"text": ["pilastro"]}
   ],
   "pilot": [
-    "pilota",
-    "pilotare"
+    {"id": 10900,"text": ["pilota"]},
+    {"id": 10901,"text": ["pilotare"]}
   ],
   "pilotage": [
-    "pilotaggio"
+    {"id": 10902,"text": ["pilotaggio"]}
   ],
   "pin": [
-    "birillo",
-    "spilla"
+    {"id": 10903,"text": ["birillo"]},
+    {"id": 10904,"text": ["spilla"]}
   ],
   "pinch": [
-    "pizzico"
+    {"id": 10905,"text": ["pizzico"]}
   ],
   "pincushion": [
-    "cuscinetto"
+    {"id": 10906,"text": ["cuscinetto"]}
   ],
   "pine": [
-    "pino"
+    {"id": 10907,"text": ["pino"]}
   ],
   "pine forest": [
-    "pineta"
+    {"id": 10908,"text": ["pineta"]}
   ],
   "pineapple": [
-    "ananas",
-    "ananasso"
+    {"id": 10909,"text": ["ananas"]},
+    {"id": 10910,"text": ["ananasso"]}
   ],
   "pinewood": [
-    "pineta"
+    {"id": 10911,"text": ["pineta"]}
   ],
   "pink": [
-    "rosa",
-    "rosato"
+    {"id": 10912,"text": ["rosa"]},
+    {"id": 10913,"text": ["rosato"]}
   ],
   "pioneer": [
-    "pioniere"
+    {"id": 10914,"text": ["pioniere"]}
   ],
   "pioneering": [
-    "pionieristico"
+    {"id": 10915,"text": ["pionieristico"]}
   ],
   "pipe": [
-    "condotto",
-    "pipa",
-    "trasmettere"
+    {"id": 10916,"text": ["condotto"]},
+    {"id": 10917,"text": ["pipa"]},
+    {"id": 10918,"text": ["trasmettere"]}
   ],
   "pipette": [
-    "pipetta"
+    {"id": 10919,"text": ["pipetta"]}
   ],
   "piracy": [
-    "pirateria"
+    {"id": 10920,"text": ["pirateria"]}
   ],
   "pirate": [
-    "pirata",
-    "piratare",
-    "predare"
+    {"id": 10921,"text": ["pirata"]},
+    {"id": 10922,"text": ["piratare"]},
+    {"id": 10923,"text": ["predare"]}
   ],
   "piriform": [
-    "piriforme"
+    {"id": 10924,"text": ["piriforme"]}
   ],
   "pirogue": [
-    "piroga"
+    {"id": 10925,"text": ["piroga"]}
   ],
   "pirouette": [
-    "piroetta"
+    {"id": 10926,"text": ["piroetta"]}
   ],
   "pistil": [
-    "pistillo"
+    {"id": 10927,"text": ["pistillo"]}
   ],
   "pit": [
-    "fossa"
+    {"id": 10928,"text": ["fossa"]}
   ],
   "pitch": [
-    "tono"
+    {"id": 10929,"text": ["tono"]}
   ],
   "pittance": [
-    "miseria"
+    {"id": 10930,"text": ["miseria"]}
   ],
   "pity": [
-    "compassione",
-    "compatire",
-    "peccato",
-    "pietà"
+    {"id": 10931,"text": ["compassione"]},
+    {"id": 10932,"text": ["compatire"]},
+    {"id": 10933,"text": ["peccato"]},
+    {"id": 10934,"text": ["pietà"]}
   ],
   "pizza": [
-    "pizza"
+    {"id": 10935,"text": ["pizza"]}
   ],
   "place": [
-    "disporre",
-    "luogo",
-    "piazzare",
-    "posizionare",
-    "posto"
+    {"id": 10936,"text": ["disporre"]},
+    {"id": 10937,"text": ["luogo"]},
+    {"id": 10938,"text": ["piazzare"]},
+    {"id": 10939,"text": ["posizionare"]},
+    {"id": 10940,"text": ["posto"]}
   ],
   "placebo": [
-    "placebo"
+    {"id": 10941,"text": ["placebo"]}
   ],
   "placement": [
-    "collocazione"
+    {"id": 10942,"text": ["collocazione"]}
   ],
   "placing": [
-    "piazzamento",
-    "posizionamento"
+    {"id": 10943,"text": ["piazzamento"]},
+    {"id": 10944,"text": ["posizionamento"]}
   ],
   "plagiarise": [
-    "plagiare"
+    {"id": 10945,"text": ["plagiare"]}
   ],
   "plagiarism": [
-    "plagio"
+    {"id": 10946,"text": ["plagio"]}
   ],
   "plague": [
-    "peste",
-    "piaga"
+    {"id": 10947,"text": ["peste"]},
+    {"id": 10948,"text": ["piaga"]}
   ],
   "plain": [
-    "pianura",
-    "semplice"
+    {"id": 10949,"text": ["pianura"]},
+    {"id": 10950,"text": ["semplice"]}
   ],
   "plan": [
-    "pianificare",
-    "piano"
+    {"id": 10951,"text": ["pianificare"]},
+    {"id": 10952,"text": ["piano"]}
   ],
   "planar": [
-    "planare"
+    {"id": 10953,"text": ["planare"]}
   ],
   "plane": [
-    "aereo",
-    "piano"
+    {"id": 10954,"text": ["aereo"]},
+    {"id": 10955,"text": ["piano"]}
   ],
   "planet": [
-    "pianeta"
+    {"id": 10956,"text": ["pianeta"]}
   ],
   "planetarium": [
-    "planetario"
+    {"id": 10957,"text": ["planetario"]}
   ],
   "planetary": [
-    "planetario"
+    {"id": 10958,"text": ["planetario"]}
   ],
   "planetology": [
-    "planetologia"
+    {"id": 10959,"text": ["planetologia"]}
   ],
   "planimetric": [
-    "planimetrico"
+    {"id": 10960,"text": ["planimetrico"]}
   ],
   "planimetry": [
-    "planimetria"
+    {"id": 10961,"text": ["planimetria"]}
   ],
   "planing": [
-    "progettazione"
+    {"id": 10962,"text": ["progettazione"]}
   ],
   "plank": [
-    "asse"
+    {"id": 10963,"text": ["asse"]}
   ],
   "plankton": [
-    "plancton"
+    {"id": 10964,"text": ["plancton"]}
   ],
   "planning": [
-    "pianificazione",
-    "planning"
+    {"id": 10965,"text": ["pianificazione"]},
+    {"id": 10966,"text": ["planning"]}
   ],
   "plant": [
-    "pianta",
-    "piantare"
+    {"id": 10967,"text": ["pianta"]},
+    {"id": 10968,"text": ["piantare"]}
   ],
   "plantation": [
-    "impianto"
+    {"id": 10969,"text": ["impianto"]}
   ],
   "plaque": [
-    "placca"
+    {"id": 10970,"text": ["placca"]}
   ],
   "plasma": [
-    "plasma"
+    {"id": 10971,"text": ["plasma"]}
   ],
   "plasmid": [
-    "plasmide"
+    {"id": 10972,"text": ["plasmide"]}
   ],
   "plaster": [
-    "intonacare",
-    "intonaco"
+    {"id": 10973,"text": ["intonacare"]},
+    {"id": 10974,"text": ["intonaco"]}
   ],
   "plastic": [
-    "plastica",
-    "plastico"
+    {"id": 10975,"text": ["plastica"]},
+    {"id": 10976,"text": ["plastico"]}
   ],
   "plastification": [
-    "plastificazione"
+    {"id": 10977,"text": ["plastificazione"]}
   ],
   "plate": [
-    "piatto",
-    "placca"
+    {"id": 10978,"text": ["piatto"]},
+    {"id": 10979,"text": ["placca"]}
   ],
   "plateau": [
-    "altopiano"
+    {"id": 10980,"text": ["altopiano"]}
   ],
   "platelet": [
-    "piastrina"
+    {"id": 10981,"text": ["piastrina"]}
   ],
   "platform": [
-    "piattaforma"
+    {"id": 10982,"text": ["piattaforma"]}
   ],
   "platinum": [
-    "platino"
+    {"id": 10983,"text": ["platino"]}
   ],
   "platitudinous": [
-    "banale"
+    {"id": 10984,"text": ["banale"]}
   ],
   "Plato": [
-    "Platone"
+    {"id": 10985,"text": ["Platone"]}
   ],
   "platonic": [
-    "platonico"
+    {"id": 10986,"text": ["platonico"]}
   ],
   "platonism": [
-    "platonismo"
+    {"id": 10987,"text": ["platonismo"]}
   ],
   "play": [
-    "giocare",
-    "gioco",
-    "suonare",
-    "toccare"
+    {"id": 10988,"text": ["giocare"]},
+    {"id": 10989,"text": ["gioco"]},
+    {"id": 10990,"text": ["suonare"]},
+    {"id": 10991,"text": ["toccare"]}
   ],
   "player": [
-    "giocatore",
-    "interprete"
+    {"id": 10992,"text": ["giocatore"]},
+    {"id": 10993,"text": ["interprete"]}
   ],
   "playground": [
-    "cortile",
-    "parco giochi"
+    {"id": 10994,"text": ["cortile"]},
+    {"id": 10995,"text": ["parco giochi"]}
   ],
   "pleasant": [
-    "gradevole"
+    {"id": 10996,"text": ["gradevole"]}
   ],
   "pleasantly": [
-    "gradevolmente"
+    {"id": 10997,"text": ["gradevolmente"]}
   ],
   "please": [
-    "compiacere",
-    "per favore",
-    "piacere"
+    {"id": 10998,"text": ["compiacere"]},
+    {"id": 10999,"text": ["per favore"]},
+    {"id": 11000,"text": ["piacere"]}
   ],
   "pleasure": [
-    "piacere"
+    {"id": 11001,"text": ["piacere"]}
   ],
   "plebeian": [
-    "plebeo"
+    {"id": 11002,"text": ["plebeo"]}
   ],
   "plebian": [
-    "plebe"
+    {"id": 11003,"text": ["plebe"]}
   ],
   "plebiscite": [
-    "plebiscito"
+    {"id": 11004,"text": ["plebiscito"]}
   ],
   "plectrum": [
-    "plettro"
+    {"id": 11005,"text": ["plettro"]}
   ],
   "pledge": [
-    "impegnare",
-    "promessa"
+    {"id": 11006,"text": ["impegnare"]},
+    {"id": 11007,"text": ["promessa"]}
   ],
   "pledging": [
-    "promessa"
+    {"id": 11008,"text": ["promessa"]}
   ],
   "plenary": [
-    "plenario"
+    {"id": 11009,"text": ["plenario"]}
   ],
   "plenty": [
-    "abbondanza"
+    {"id": 11010,"text": ["abbondanza"]}
   ],
   "pleonasm": [
-    "pleonasmo"
+    {"id": 11011,"text": ["pleonasmo"]}
   ],
   "plethora": [
-    "miriade"
+    {"id": 11012,"text": ["miriade"]}
   ],
   "pleural": [
-    "pleurale"
+    {"id": 11013,"text": ["pleurale"]}
   ],
   "plier": [
-    "pinza"
+    {"id": 11014,"text": ["pinza"]}
   ],
   "Pliny": [
-    "Plinio"
+    {"id": 11015,"text": ["Plinio"]}
   ],
   "plot": [
-    "congiura",
-    "trama",
-    "tramare"
+    {"id": 11016,"text": ["congiura"]},
+    {"id": 11017,"text": ["trama"]},
+    {"id": 11018,"text": ["tramare"]}
   ],
   "plough": [
-    "arare",
-    "traduzione"
+    {"id": 11019,"text": ["arare"]},
+    {"id": 11020,"text": ["traduzione"]}
   ],
   "plug": [
-    "infilare",
-    "inserire",
-    "spina"
+    {"id": 11021,"text": ["infilare"]},
+    {"id": 11022,"text": ["inserire"]},
+    {"id": 11023,"text": ["spina"]}
   ],
   "plum": [
-    "prugna"
+    {"id": 11024,"text": ["prugna"]}
   ],
   "plumage": [
-    "piumaggio"
+    {"id": 11025,"text": ["piumaggio"]}
   ],
   "plumb": [
-    "piombare"
+    {"id": 11026,"text": ["piombare"]}
   ],
   "plumber": [
-    "idraulico"
+    {"id": 11027,"text": ["idraulico"]}
   ],
   "plunder": [
-    "saccheggiare"
+    {"id": 11028,"text": ["saccheggiare"]}
   ],
   "plural": [
-    "plurale"
+    {"id": 11029,"text": ["plurale"]}
   ],
   "pluralism": [
-    "pluralismo"
+    {"id": 11030,"text": ["pluralismo"]}
   ],
   "pluralist": [
-    "pluralista"
+    {"id": 11031,"text": ["pluralista"]}
   ],
   "pluriennial": [
-    "pluriennale"
+    {"id": 11032,"text": ["pluriennale"]}
   ],
   "plurilingualism": [
-    "plurilinguismo"
+    {"id": 11033,"text": ["plurilinguismo"]}
   ],
   "plus": [
-    "più"
+    {"id": 11034,"text": ["più"]}
   ],
   "plutonium": [
-    "plutonio"
+    {"id": 11035,"text": ["plutonio"]}
   ],
   "pluvial": [
-    "pluviale"
+    {"id": 11036,"text": ["pluviale"]}
   ],
   "pluviometry": [
-    "pluviometria"
+    {"id": 11037,"text": ["pluviometria"]}
   ],
   "ply": [
-    "piega"
+    {"id": 11038,"text": ["piega"]}
   ],
   "plywood": [
-    "compensato"
+    {"id": 11039,"text": ["compensato"]}
   ],
   "pneumatic": [
-    "neumatico"
+    {"id": 11040,"text": ["neumatico"]}
   ],
   "pneumology": [
-    "pneumologia"
+    {"id": 11041,"text": ["pneumologia"]}
   ],
   "pneumonia": [
-    "polmonite"
+    {"id": 11042,"text": ["polmonite"]}
   ],
   "pocket": [
-    "tasca",
-    "tascabile"
+    {"id": 11043,"text": ["tasca"]},
+    {"id": 11044,"text": ["tascabile"]}
   ],
   "pod": [
-    "baccello"
+    {"id": 11045,"text": ["baccello"]}
   ],
   "podiatry": [
-    "podologia"
+    {"id": 11046,"text": ["podologia"]}
   ],
   "podium": [
-    "podio"
+    {"id": 11047,"text": ["podio"]}
   ],
   "poem": [
-    "poema",
-    "poesia"
+    {"id": 11048,"text": ["poema"]},
+    {"id": 11049,"text": ["poesia"]}
   ],
   "poet": [
-    "poeta"
+    {"id": 11050,"text": ["poeta"]}
   ],
   "poetic": [
-    "poetico"
+    {"id": 11051,"text": ["poetico"]}
   ],
   "poetry": [
-    "poesia"
+    {"id": 11052,"text": ["poesia"]}
   ],
   "poignant": [
-    "commovente",
-    "pungente"
+    {"id": 11053,"text": ["commovente"]},
+    {"id": 11054,"text": ["pungente"]}
   ],
   "poikilothermal": [
-    "poichilotermo"
+    {"id": 11055,"text": ["poichilotermo"]}
   ],
   "point": [
-    "puntare",
-    "punto",
-    "segnalare"
+    {"id": 11056,"text": ["puntare"]},
+    {"id": 11057,"text": ["punto"]},
+    {"id": 11058,"text": ["segnalare"]}
   ],
   "point of view": [
-    "punto di vista"
+    {"id": 11059,"text": ["punto di vista"]}
   ],
   "pointed": [
-    "appuntito"
+    {"id": 11060,"text": ["appuntito"]}
   ],
   "pointlessly": [
-    "inutilmente"
+    {"id": 11061,"text": ["inutilmente"]}
   ],
   "poison": [
-    "avvelenare",
-    "veleno"
+    {"id": 11062,"text": ["avvelenare"]},
+    {"id": 11063,"text": ["veleno"]}
   ],
   "poisoning": [
-    "avvelenamento"
+    {"id": 11064,"text": ["avvelenamento"]}
   ],
   "poisonous": [
-    "velenoso"
+    {"id": 11065,"text": ["velenoso"]}
   ],
   "poker": [
-    "poker"
+    {"id": 11066,"text": ["poker"]}
   ],
   "Poland": [
-    "Polonia"
+    {"id": 11067,"text": ["Polonia"]}
   ],
   "polar": [
-    "polare"
+    {"id": 11068,"text": ["polare"]}
   ],
   "polarimeter": [
-    "polarimetro"
+    {"id": 11069,"text": ["polarimetro"]}
   ],
   "polarisation": [
-    "polarizzazione"
+    {"id": 11070,"text": ["polarizzazione"]}
   ],
   "polarise": [
-    "polarizzare"
+    {"id": 11071,"text": ["polarizzare"]}
   ],
   "polarography": [
-    "polarografia"
+    {"id": 11072,"text": ["polarografia"]}
   ],
   "pole": [
-    "palo",
-    "pertica",
-    "polo"
+    {"id": 11073,"text": ["palo"]},
+    {"id": 11074,"text": ["pertica"]},
+    {"id": 11075,"text": ["polo"]}
   ],
   "polemic": [
-    "polemico"
+    {"id": 11076,"text": ["polemico"]}
   ],
   "police": [
-    "polizia",
-    "poliziesco"
+    {"id": 11077,"text": ["polizia"]},
+    {"id": 11078,"text": ["poliziesco"]}
   ],
   "policeman": [
-    "poliziotto"
+    {"id": 11079,"text": ["poliziotto"]}
   ],
   "policewoman": [
-    "poliziotta"
+    {"id": 11080,"text": ["poliziotta"]}
   ],
   "policy": [
-    "politica",
-    "polizza"
+    {"id": 11081,"text": ["politica"]},
+    {"id": 11082,"text": ["polizza"]}
   ],
   "polish": [
-    "lustrare"
+    {"id": 11083,"text": ["lustrare"]}
   ],
   "Polish": [
-    "polacco"
+    {"id": 11084,"text": ["polacco"]}
   ],
   "polishing": [
-    "lucidatura"
+    {"id": 11085,"text": ["lucidatura"]}
   ],
   "political": [
-    "politico"
+    {"id": 11086,"text": ["politico"]}
   ],
   "politically": [
-    "politicamente"
+    {"id": 11087,"text": ["politicamente"]}
   ],
   "politician": [
-    "politico"
+    {"id": 11088,"text": ["politico"]}
   ],
   "politics": [
-    "politica"
+    {"id": 11089,"text": ["politica"]}
   ],
   "politisation": [
-    "politicizzazione"
+    {"id": 11090,"text": ["politicizzazione"]}
   ],
   "poll": [
-    "inchiesta",
-    "ottenere"
+    {"id": 11091,"text": ["inchiesta"]},
+    {"id": 11092,"text": ["ottenere"]}
   ],
   "pollen": [
-    "polline"
+    {"id": 11093,"text": ["polline"]}
   ],
   "pollination": [
-    "impollinazione"
+    {"id": 11094,"text": ["impollinazione"]}
   ],
   "pollute": [
-    "contaminare",
-    "inquinare"
+    {"id": 11095,"text": ["contaminare"]},
+    {"id": 11096,"text": ["inquinare"]}
   ],
   "pollution": [
-    "contaminazione",
-    "inquinamento"
+    {"id": 11097,"text": ["contaminazione"]},
+    {"id": 11098,"text": ["inquinamento"]}
   ],
   "polonium": [
-    "polonio"
+    {"id": 11099,"text": ["polonio"]}
   ],
   "polyamide": [
-    "poliammide"
+    {"id": 11100,"text": ["poliammide"]}
   ],
   "polyandry": [
-    "poliandria"
+    {"id": 11101,"text": ["poliandria"]}
   ],
   "polycarbonate": [
-    "policarbonato"
+    {"id": 11102,"text": ["policarbonato"]}
   ],
   "polycyclic": [
-    "policiclico"
+    {"id": 11103,"text": ["policiclico"]}
   ],
   "polycythemia": [
-    "policitemia"
+    {"id": 11104,"text": ["policitemia"]}
   ],
   "polydimensional": [
-    "polidimensionale"
+    {"id": 11105,"text": ["polidimensionale"]}
   ],
   "polygamist": [
-    "poligamo"
+    {"id": 11106,"text": ["poligamo"]}
   ],
   "polygamy": [
-    "poligamia"
+    {"id": 11107,"text": ["poligamia"]}
   ],
   "polygenic": [
-    "poligenico"
+    {"id": 11108,"text": ["poligenico"]}
   ],
   "polygon": [
-    "poligono"
+    {"id": 11109,"text": ["poligono"]}
   ],
   "polygyny": [
-    "poligamia"
+    {"id": 11110,"text": ["poligamia"]}
   ],
   "polyhedral": [
-    "poliedrico"
+    {"id": 11111,"text": ["poliedrico"]}
   ],
   "polyhedron": [
-    "poliedro"
+    {"id": 11112,"text": ["poliedro"]}
   ],
   "polymer": [
-    "polimero"
+    {"id": 11113,"text": ["polimero"]}
   ],
   "polymerase": [
-    "polimerasi"
+    {"id": 11114,"text": ["polimerasi"]}
   ],
   "polymeric": [
-    "polimerico"
+    {"id": 11115,"text": ["polimerico"]}
   ],
   "polymerisation": [
-    "polimerizzazione"
+    {"id": 11116,"text": ["polimerizzazione"]}
   ],
   "polymorphic": [
-    "polimorfico"
+    {"id": 11117,"text": ["polimorfico"]}
   ],
   "polymorphism": [
-    "polimorfismo"
+    {"id": 11118,"text": ["polimorfismo"]}
   ],
   "polynomial": [
-    "polinomiale",
-    "polinomio"
+    {"id": 11119,"text": ["polinomiale"]},
+    {"id": 11120,"text": ["polinomio"]}
   ],
   "polyp": [
-    "polipo"
+    {"id": 11121,"text": ["polipo"]}
   ],
   "polypeptide": [
-    "polipeptide"
+    {"id": 11122,"text": ["polipeptide"]}
   ],
   "polyphase": [
-    "polifasico"
+    {"id": 11123,"text": ["polifasico"]}
   ],
   "polyphonic": [
-    "polifonico"
+    {"id": 11124,"text": ["polifonico"]}
   ],
   "polyphony": [
-    "polifonia"
+    {"id": 11125,"text": ["polifonia"]}
   ],
   "polyploid": [
-    "poliploide"
+    {"id": 11126,"text": ["poliploide"]}
   ],
   "polysaccharide": [
-    "polisaccaride"
+    {"id": 11127,"text": ["polisaccaride"]}
   ],
   "polysemic": [
-    "polisemico"
+    {"id": 11128,"text": ["polisemico"]}
   ],
   "polysemy": [
-    "polisemia"
+    {"id": 11129,"text": ["polisemia"]}
   ],
   "polyspermy": [
-    "polispermia"
+    {"id": 11130,"text": ["polispermia"]}
   ],
   "polysyllabic": [
-    "polisillabico"
+    {"id": 11131,"text": ["polisillabico"]}
   ],
   "polytechnical": [
-    "politecnico"
+    {"id": 11132,"text": ["politecnico"]}
   ],
   "polytheism": [
-    "politeismo"
+    {"id": 11133,"text": ["politeismo"]}
   ],
   "polytheistic": [
-    "politeista"
+    {"id": 11134,"text": ["politeista"]}
   ],
   "polyvalent": [
-    "polivalente"
+    {"id": 11135,"text": ["polivalente"]}
   ],
   "pomegranate": [
-    "melograno"
+    {"id": 11136,"text": ["melograno"]}
   ],
   "pond": [
-    "stagno"
+    {"id": 11137,"text": ["stagno"]}
   ],
   "ponder": [
-    "ponderare"
+    {"id": 11138,"text": ["ponderare"]}
   ],
   "pons": [
-    "ponte"
+    {"id": 11139,"text": ["ponte"]}
   ],
   "pontifex": [
-    "pontefice"
+    {"id": 11140,"text": ["pontefice"]}
   ],
   "pool": [
-    "biliardo",
-    "piscina"
+    {"id": 11141,"text": ["biliardo"]},
+    {"id": 11142,"text": ["piscina"]}
   ],
   "poor": [
-    "povero"
+    {"id": 11143,"text": ["povero"]}
   ],
   "poorly": [
-    "poveramente"
+    {"id": 11144,"text": ["poveramente"]}
   ],
   "pop": [
-    "pop",
-    "scoppiare"
+    {"id": 11145,"text": ["pop"]},
+    {"id": 11146,"text": ["scoppiare"]}
   ],
   "pope": [
-    "papa"
+    {"id": 11147,"text": ["papa"]}
   ],
   "popular": [
-    "divulgativo",
-    "popolare"
+    {"id": 11148,"text": ["divulgativo"]},
+    {"id": 11149,"text": ["popolare"]}
   ],
   "popularise": [
-    "diffondere"
+    {"id": 11150,"text": ["diffondere"]}
   ],
   "popularly": [
-    "popolarmente"
+    {"id": 11151,"text": ["popolarmente"]}
   ],
   "populate": [
-    "popolare"
+    {"id": 11152,"text": ["popolare"]}
   ],
   "population": [
-    "popolazione"
+    {"id": 11153,"text": ["popolazione"]}
   ],
   "populational": [
-    "popolare"
+    {"id": 11154,"text": ["popolare"]}
   ],
   "populism": [
-    "populismo"
+    {"id": 11155,"text": ["populismo"]}
   ],
   "populist": [
-    "populista"
+    {"id": 11156,"text": ["populista"]}
   ],
   "porcelain": [
-    "porcellana"
+    {"id": 11157,"text": ["porcellana"]}
   ],
   "porch": [
-    "portico"
+    {"id": 11158,"text": ["portico"]}
   ],
   "pork": [
-    "porco"
+    {"id": 11159,"text": ["porco"]}
   ],
   "port": [
-    "porta",
-    "porto"
+    {"id": 11160,"text": ["porta"]},
+    {"id": 11161,"text": ["porto"]}
   ],
   "portable": [
-    "portatile"
+    {"id": 11162,"text": ["portatile"]}
   ],
   "portal": [
-    "portale"
+    {"id": 11163,"text": ["portale"]}
   ],
   "porter": [
-    "portiere"
+    {"id": 11164,"text": ["portiere"]}
   ],
   "portfolio": [
-    "portafoglio"
+    {"id": 11165,"text": ["portafoglio"]}
   ],
   "portion": [
-    "porzione"
+    {"id": 11166,"text": ["porzione"]}
   ],
   "portrait": [
-    "ritratto"
+    {"id": 11167,"text": ["ritratto"]}
   ],
   "portray": [
-    "ritrarre"
+    {"id": 11168,"text": ["ritrarre"]}
   ],
   "Portugal": [
-    "Portogallo"
+    {"id": 11169,"text": ["Portogallo"]}
   ],
   "Portuguese": [
-    "portoghese"
+    {"id": 11170,"text": ["portoghese"]}
   ],
   "pose": [
-    "porre",
-    "posare",
-    "sollevare"
+    {"id": 11171,"text": ["porre"]},
+    {"id": 11172,"text": ["posare"]},
+    {"id": 11173,"text": ["sollevare"]}
   ],
   "posit": [
-    "presupporre"
+    {"id": 11174,"text": ["presupporre"]}
   ],
   "position": [
-    "carica",
-    "collocare",
-    "posizione"
+    {"id": 11175,"text": ["carica"]},
+    {"id": 11176,"text": ["collocare"]},
+    {"id": 11177,"text": ["posizione"]}
   ],
   "positional": [
-    "posizionale"
+    {"id": 11178,"text": ["posizionale"]}
   ],
   "positioning": [
-    "navigazione",
-    "posizionamento"
+    {"id": 11179,"text": ["navigazione"]},
+    {"id": 11180,"text": ["posizionamento"]}
   ],
   "positive": [
-    "positivo"
+    {"id": 11181,"text": ["positivo"]}
   ],
   "positively": [
-    "positivamente"
+    {"id": 11182,"text": ["positivamente"]}
   ],
   "positivism": [
-    "positivismo"
+    {"id": 11183,"text": ["positivismo"]}
   ],
   "positivist": [
-    "positivista"
+    {"id": 11184,"text": ["positivista"]}
   ],
   "possess": [
-    "possedere"
+    {"id": 11185,"text": ["possedere"]}
   ],
   "possession": [
-    "possesso"
+    {"id": 11186,"text": ["possesso"]}
   ],
   "possessive": [
-    "possessivo"
+    {"id": 11187,"text": ["possessivo"]}
   ],
   "possibilism": [
-    "possibilismo"
+    {"id": 11188,"text": ["possibilismo"]}
   ],
   "possible": [
-    "possibile"
+    {"id": 11189,"text": ["possibile"]}
   ],
   "possibly": [
-    "possibilmente",
-    "sepossibile"
+    {"id": 11190,"text": ["possibilmente"]},
+    {"id": 11191,"text": ["sepossibile"]}
   ],
   "post": [
-    "carico",
-    "posta"
+    {"id": 11192,"text": ["carico"]},
+    {"id": 11193,"text": ["posta"]}
   ],
   "post-war": [
-    "dopoguerra"
+    {"id": 11194,"text": ["dopoguerra"]}
   ],
   "postage": [
-    "affrancatura"
+    {"id": 11195,"text": ["affrancatura"]}
   ],
   "postageandpackaging": [
-    "spesedispedizione"
+    {"id": 11196,"text": ["spesedispedizione"]}
   ],
   "postal": [
-    "postale"
+    {"id": 11197,"text": ["postale"]}
   ],
   "postal address": [
-    "indirizzo postale"
+    {"id": 11198,"text": ["indirizzo postale"]}
   ],
   "postcard": [
-    "cartolina"
+    {"id": 11199,"text": ["cartolina"]}
   ],
   "poster": [
-    "poster"
+    {"id": 11200,"text": ["poster"]}
   ],
   "posterior": [
-    "posteriore"
+    {"id": 11201,"text": ["posteriore"]}
   ],
   "posthumous": [
-    "postumo"
+    {"id": 11202,"text": ["postumo"]}
   ],
   "postman": [
-    "postino"
+    {"id": 11203,"text": ["postino"]}
   ],
   "postponable": [
-    "prorogabile"
+    {"id": 11204,"text": ["prorogabile"]}
   ],
   "postpone": [
-    "posticipare"
+    {"id": 11205,"text": ["posticipare"]}
   ],
   "postproduction": [
-    "postproduzione"
+    {"id": 11206,"text": ["postproduzione"]}
   ],
   "postulate": [
-    "postulato"
+    {"id": 11207,"text": ["postulato"]}
   ],
   "posture": [
-    "postura"
+    {"id": 11208,"text": ["postura"]}
   ],
   "pot": [
-    "pentola"
+    {"id": 11209,"text": ["pentola"]}
   ],
   "potamology": [
-    "potamologia"
+    {"id": 11210,"text": ["potamologia"]}
   ],
   "potassium": [
-    "potassio"
+    {"id": 11211,"text": ["potassio"]}
   ],
   "potato": [
-    "patata"
+    {"id": 11212,"text": ["patata"]}
   ],
   "potential": [
-    "potenziale"
+    {"id": 11213,"text": ["potenziale"]}
   ],
   "potentially": [
-    "potenzialmente"
+    {"id": 11214,"text": ["potenzialmente"]}
   ],
   "potentiometer": [
-    "potenziometro"
+    {"id": 11215,"text": ["potenziometro"]}
   ],
   "potentiometry": [
-    "potenziometria"
+    {"id": 11216,"text": ["potenziometria"]}
   ],
   "potion": [
-    "pozione"
+    {"id": 11217,"text": ["pozione"]}
   ],
   "pouch": [
-    "borsa"
+    {"id": 11218,"text": ["borsa"]}
   ],
   "poultice": [
-    "cataplasma"
+    {"id": 11219,"text": ["cataplasma"]}
   ],
   "pound": [
-    "battere",
-    "colpire",
-    "libbra",
-    "sbattere",
-    "sterlina"
+    {"id": 11220,"text": ["battere"]},
+    {"id": 11221,"text": ["colpire"]},
+    {"id": 11222,"text": ["libbra"]},
+    {"id": 11223,"text": ["sbattere"]},
+    {"id": 11224,"text": ["sterlina"]}
   ],
   "pour": [
-    "versare"
+    {"id": 11225,"text": ["versare"]}
   ],
   "powder": [
-    "cipria",
-    "incipriare",
-    "polvere",
-    "polverizzare"
+    {"id": 11226,"text": ["cipria"]},
+    {"id": 11227,"text": ["incipriare"]},
+    {"id": 11228,"text": ["polvere"]},
+    {"id": 11229,"text": ["polverizzare"]}
   ],
   "power": [
-    "energia",
-    "potenza",
-    "potere"
+    {"id": 11230,"text": ["energia"]},
+    {"id": 11231,"text": ["potenza"]},
+    {"id": 11232,"text": ["potere"]}
   ],
   "powerful": [
-    "poderoso"
+    {"id": 11233,"text": ["poderoso"]}
   ],
   "powerfully": [
-    "poderosamente"
+    {"id": 11234,"text": ["poderosamente"]}
   ],
   "powerless": [
-    "impotente"
+    {"id": 11235,"text": ["impotente"]}
   ],
   "practicable": [
-    "praticabile"
+    {"id": 11236,"text": ["praticabile"]}
   ],
   "practical": [
-    "pratico"
+    {"id": 11237,"text": ["pratico"]}
   ],
   "practically": [
-    "praticamente"
+    {"id": 11238,"text": ["praticamente"]}
   ],
   "practice": [
-    "pratica",
-    "praticare"
+    {"id": 11239,"text": ["pratica"]},
+    {"id": 11240,"text": ["praticare"]}
   ],
   "practise": [
-    "praticare"
+    {"id": 11241,"text": ["praticare"]}
   ],
   "pragmatic": [
-    "pragmatico"
+    {"id": 11242,"text": ["pragmatico"]}
   ],
   "pragmatically": [
-    "pragmaticamente"
+    {"id": 11243,"text": ["pragmaticamente"]}
   ],
   "pragmatics": [
-    "pragmatica"
+    {"id": 11244,"text": ["pragmatica"]}
   ],
   "pragmatism": [
-    "pragmatismo"
+    {"id": 11245,"text": ["pragmatismo"]}
   ],
   "Prague": [
-    "Praga"
+    {"id": 11246,"text": ["Praga"]}
   ],
   "prairie": [
-    "prateria"
+    {"id": 11247,"text": ["prateria"]}
   ],
   "praise": [
-    "lodare",
-    "venerare"
+    {"id": 11248,"text": ["lodare"]},
+    {"id": 11249,"text": ["venerare"]}
   ],
   "pram": [
-    "carrozzina",
-    "passeggino"
+    {"id": 11250,"text": ["carrozzina"]},
+    {"id": 11251,"text": ["passeggino"]}
   ],
   "prank": [
-    "scherzo"
+    {"id": 11252,"text": ["scherzo"]}
   ],
   "praseodymium": [
-    "praseodimio"
+    {"id": 11253,"text": ["praseodimio"]}
   ],
   "pray": [
-    "pregare"
+    {"id": 11254,"text": ["pregare"]}
   ],
   "prayer": [
-    "preghiera"
+    {"id": 11255,"text": ["preghiera"]}
   ],
   "pre-ejaculate": [
-    "pre-eiaculazione"
+    {"id": 11256,"text": ["pre-eiaculazione"]}
   ],
   "pre-existing": [
-    "preesistente"
+    {"id": 11257,"text": ["preesistente"]}
   ],
   "preach": [
-    "predicare"
+    {"id": 11258,"text": ["predicare"]}
   ],
   "preaching": [
-    "predica",
-    "predicazione"
+    {"id": 11259,"text": ["predica"]},
+    {"id": 11260,"text": ["predicazione"]}
   ],
   "precarious": [
-    "precario"
+    {"id": 11261,"text": ["precario"]}
   ],
   "precariously": [
-    "precariamente"
+    {"id": 11262,"text": ["precariamente"]}
   ],
   "precautionary": [
-    "cautelare"
+    {"id": 11263,"text": ["cautelare"]}
   ],
   "precede": [
-    "precedere"
+    {"id": 11264,"text": ["precedere"]}
   ],
   "precedence": [
-    "precedenza"
+    {"id": 11265,"text": ["precedenza"]}
   ],
   "precedent": [
-    "precedente"
+    {"id": 11266,"text": ["precedente"]}
   ],
   "precious": [
-    "prezioso"
+    {"id": 11267,"text": ["prezioso"]}
   ],
   "precipice": [
-    "precipizio"
+    {"id": 11268,"text": ["precipizio"]}
   ],
   "precipitate": [
-    "precipitare"
+    {"id": 11269,"text": ["precipitare"]}
   ],
   "precipitation": [
-    "precipitazione"
+    {"id": 11270,"text": ["precipitazione"]}
   ],
   "precise": [
-    "preciso"
+    {"id": 11271,"text": ["preciso"]}
   ],
   "precisely": [
-    "giustamente",
-    "precisamente"
+    {"id": 11272,"text": ["giustamente"]},
+    {"id": 11273,"text": ["precisamente"]}
   ],
   "preclude": [
-    "precludere"
+    {"id": 11274,"text": ["precludere"]}
   ],
   "precocious": [
-    "precoce"
+    {"id": 11275,"text": ["precoce"]}
   ],
   "predator": [
-    "predatore"
+    {"id": 11276,"text": ["predatore"]}
   ],
   "predestination": [
-    "predestinazione"
+    {"id": 11277,"text": ["predestinazione"]}
   ],
   "predetermine": [
-    "predeterminare"
+    {"id": 11278,"text": ["predeterminare"]}
   ],
   "predicable": [
-    "predicabile"
+    {"id": 11279,"text": ["predicabile"]}
   ],
   "predication": [
-    "predicazione"
+    {"id": 11280,"text": ["predicazione"]}
   ],
   "predict": [
-    "predire"
+    {"id": 11281,"text": ["predire"]}
   ],
   "predictable": [
-    "prevedibile"
+    {"id": 11282,"text": ["prevedibile"]}
   ],
   "predictably": [
-    "prevedibilmente"
+    {"id": 11283,"text": ["prevedibilmente"]}
   ],
   "prediction": [
-    "predizione",
-    "previsione"
+    {"id": 11284,"text": ["predizione"]},
+    {"id": 11285,"text": ["previsione"]}
   ],
   "predictive": [
-    "predittivo"
+    {"id": 11286,"text": ["predittivo"]}
   ],
   "predilection": [
-    "predilezione"
+    {"id": 11287,"text": ["predilezione"]}
   ],
   "predisposition": [
-    "predisposizione"
+    {"id": 11288,"text": ["predisposizione"]}
   ],
   "predominant": [
-    "predominante"
+    {"id": 11289,"text": ["predominante"]}
   ],
   "predominate": [
-    "predominare"
+    {"id": 11290,"text": ["predominare"]}
   ],
   "preeminence": [
-    "preminenza"
+    {"id": 11291,"text": ["preminenza"]}
   ],
   "preeminent": [
-    "preminente"
+    {"id": 11292,"text": ["preminente"]}
   ],
   "prefabricate": [
-    "prefabbricare"
+    {"id": 11293,"text": ["prefabbricare"]}
   ],
   "preface": [
-    "prefazione"
+    {"id": 11294,"text": ["prefazione"]}
   ],
   "prefer": [
-    "preferire"
+    {"id": 11295,"text": ["preferire"]}
   ],
   "preferable": [
-    "preferibile"
+    {"id": 11296,"text": ["preferibile"]}
   ],
   "preferably": [
-    "preferibilmente"
+    {"id": 11297,"text": ["preferibilmente"]}
   ],
   "preference": [
-    "preferenza"
+    {"id": 11298,"text": ["preferenza"]}
   ],
   "preferential": [
-    "preferenziale"
+    {"id": 11299,"text": ["preferenziale"]}
   ],
   "preferentially": [
-    "preferenzialmente"
+    {"id": 11300,"text": ["preferenzialmente"]}
   ],
   "preferred": [
-    "prediletto",
-    "preferito"
+    {"id": 11301,"text": ["prediletto"]},
+    {"id": 11302,"text": ["preferito"]}
   ],
   "prefix": [
-    "prefisso",
-    "premettere"
+    {"id": 11303,"text": ["prefisso"]},
+    {"id": 11304,"text": ["premettere"]}
   ],
   "prefixation": [
-    "prefissazione"
+    {"id": 11305,"text": ["prefissazione"]}
   ],
   "pregnancy": [
-    "gravidanza"
+    {"id": 11306,"text": ["gravidanza"]}
   ],
   "pregnant": [
-    "pregnante"
+    {"id": 11307,"text": ["pregnante"]}
   ],
   "prehensile": [
-    "prensile"
+    {"id": 11308,"text": ["prensile"]}
   ],
   "prehistoric": [
-    "preistorico"
+    {"id": 11309,"text": ["preistorico"]}
   ],
   "prehistory": [
-    "preistoria"
+    {"id": 11310,"text": ["preistoria"]}
   ],
   "prejudice": [
-    "pregiudicare",
-    "pregiudizio"
+    {"id": 11311,"text": ["pregiudicare"]},
+    {"id": 11312,"text": ["pregiudizio"]}
   ],
   "prelate": [
-    "prelato"
+    {"id": 11313,"text": ["prelato"]}
   ],
   "preliminary": [
-    "preliminare"
+    {"id": 11314,"text": ["preliminare"]}
   ],
   "prelude": [
-    "preludio"
+    {"id": 11315,"text": ["preludio"]}
   ],
   "premarital": [
-    "prematrimoniale"
+    {"id": 11316,"text": ["prematrimoniale"]}
   ],
   "premature": [
-    "prematuro"
+    {"id": 11317,"text": ["prematuro"]}
   ],
   "prematurely": [
-    "prematuramente"
+    {"id": 11318,"text": ["prematuramente"]}
   ],
   "premeditation": [
-    "premeditazione"
+    {"id": 11319,"text": ["premeditazione"]}
   ],
   "premise": [
-    "premessa"
+    {"id": 11320,"text": ["premessa"]}
   ],
   "premium": [
-    "premio",
-    "premium"
+    {"id": 11321,"text": ["premio"]},
+    {"id": 11322,"text": ["premium"]}
   ],
   "premolar": [
-    "premolare",
-    "premorale"
+    {"id": 11323,"text": ["premolare"]},
+    {"id": 11324,"text": ["premorale"]}
   ],
   "premonition": [
-    "premonizione"
+    {"id": 11325,"text": ["premonizione"]}
   ],
   "preordering": [
-    "preordinazione"
+    {"id": 11326,"text": ["preordinazione"]}
   ],
   "preparation": [
-    "preparazione"
+    {"id": 11327,"text": ["preparazione"]}
   ],
   "preparatory": [
-    "preparatorio"
+    {"id": 11328,"text": ["preparatorio"]}
   ],
   "prepare": [
-    "preparare"
+    {"id": 11329,"text": ["preparare"]}
   ],
   "preposition": [
-    "preposizione"
+    {"id": 11330,"text": ["preposizione"]}
   ],
   "prepositional": [
-    "preposizionale"
+    {"id": 11331,"text": ["preposizionale"]}
   ],
   "presbytery": [
-    "presbiterio"
+    {"id": 11332,"text": ["presbiterio"]}
   ],
   "preschool": [
-    "prescolare"
+    {"id": 11333,"text": ["prescolare"]}
   ],
   "prescribe": [
-    "prescrivere"
+    {"id": 11334,"text": ["prescrivere"]}
   ],
   "prescription": [
-    "prescrizione"
+    {"id": 11335,"text": ["prescrizione"]}
   ],
   "preselection": [
-    "preselezione"
+    {"id": 11336,"text": ["preselezione"]}
   ],
   "presence": [
-    "presenza"
+    {"id": 11337,"text": ["presenza"]}
   ],
   "present": [
-    "presentare",
-    "presente",
-    "regalo"
+    {"id": 11338,"text": ["presentare"]},
+    {"id": 11339,"text": ["presente"]},
+    {"id": 11340,"text": ["regalo"]}
   ],
   "presentable": [
-    "presentabile"
+    {"id": 11341,"text": ["presentabile"]}
   ],
   "presentation": [
-    "presentazione"
+    {"id": 11342,"text": ["presentazione"]}
   ],
   "presential": [
-    "presenziale"
+    {"id": 11343,"text": ["presenziale"]}
   ],
   "presentiment": [
-    "presentimento"
+    {"id": 11344,"text": ["presentimento"]}
   ],
   "preservation": [
-    "preservazione"
+    {"id": 11345,"text": ["preservazione"]}
   ],
   "preservative": [
-    "conservante"
+    {"id": 11346,"text": ["conservante"]}
   ],
   "preserve": [
-    "preservare"
+    {"id": 11347,"text": ["preservare"]}
   ],
   "presidency": [
-    "presidenza"
+    {"id": 11348,"text": ["presidenza"]}
   ],
   "president": [
-    "presidente"
+    {"id": 11349,"text": ["presidente"]}
   ],
   "presidential": [
-    "presidenziale"
+    {"id": 11350,"text": ["presidenziale"]}
   ],
   "press": [
-    "pulsare",
-    "stampa"
+    {"id": 11351,"text": ["pulsare"]},
+    {"id": 11352,"text": ["stampa"]}
   ],
   "pressconference": [
-    "conferenzastampa"
+    {"id": 11353,"text": ["conferenzastampa"]}
   ],
   "pressure": [
-    "pressione"
+    {"id": 11354,"text": ["pressione"]}
   ],
   "prestige": [
-    "prestigio"
+    {"id": 11355,"text": ["prestigio"]}
   ],
   "prestigious": [
-    "prestigioso"
+    {"id": 11356,"text": ["prestigioso"]}
   ],
   "presumable": [
-    "presumibile"
+    {"id": 11357,"text": ["presumibile"]}
   ],
   "presumably": [
-    "presumibilmente"
+    {"id": 11358,"text": ["presumibilmente"]}
   ],
   "presumption": [
-    "presunzione"
+    {"id": 11359,"text": ["presunzione"]}
   ],
   "presumptive": [
-    "presunto"
+    {"id": 11360,"text": ["presunto"]}
   ],
   "presuppose": [
-    "presupporre"
+    {"id": 11361,"text": ["presupporre"]}
   ],
   "presupposition": [
-    "budget"
+    {"id": 11362,"text": ["budget"]}
   ],
   "pretence": [
-    "finta",
-    "pretesa"
+    {"id": 11363,"text": ["finta"]},
+    {"id": 11364,"text": ["pretesa"]}
   ],
   "pretend": [
-    "fingere",
-    "pretendere"
+    {"id": 11365,"text": ["fingere"]},
+    {"id": 11366,"text": ["pretendere"]}
   ],
   "pretty": [
-    "abbastanza",
-    "bello"
+    {"id": 11367,"text": ["abbastanza"]},
+    {"id": 11368,"text": ["bello"]}
   ],
   "prevail": [
-    "prevalere"
+    {"id": 11369,"text": ["prevalere"]}
   ],
   "prevalence": [
-    "prevalenza"
+    {"id": 11370,"text": ["prevalenza"]}
   ],
   "prevarication": [
-    "prevaricazione"
+    {"id": 11371,"text": ["prevaricazione"]}
   ],
   "prevent": [
-    "prevenire"
+    {"id": 11372,"text": ["prevenire"]}
   ],
   "preventable": [
-    "evitabile"
+    {"id": 11373,"text": ["evitabile"]}
   ],
   "prevention": [
-    "prevenzione"
+    {"id": 11374,"text": ["prevenzione"]}
   ],
   "preventive": [
-    "preventivo"
+    {"id": 11375,"text": ["preventivo"]}
   ],
   "previous": [
-    "anteriore",
-    "previo"
+    {"id": 11376,"text": ["anteriore"]},
+    {"id": 11377,"text": ["previo"]}
   ],
   "previously": [
-    "anteriormente",
-    "precedentemente",
-    "previamente"
+    {"id": 11378,"text": ["anteriormente"]},
+    {"id": 11379,"text": ["precedentemente"]},
+    {"id": 11380,"text": ["previamente"]}
   ],
   "price": [
-    "prezzare",
-    "prezzo"
+    {"id": 11381,"text": ["prezzare"]},
+    {"id": 11382,"text": ["prezzo"]}
   ],
   "prickly": [
-    "spinoso"
+    {"id": 11383,"text": ["spinoso"]}
   ],
   "pride": [
-    "orgoglio",
-    "superbia"
+    {"id": 11384,"text": ["orgoglio"]},
+    {"id": 11385,"text": ["superbia"]}
   ],
   "priest": [
-    "cura",
-    "prete",
-    "sacerdote"
+    {"id": 11386,"text": ["cura"]},
+    {"id": 11387,"text": ["prete"]},
+    {"id": 11388,"text": ["sacerdote"]}
   ],
   "priesthood": [
-    "sacerdozio"
+    {"id": 11389,"text": ["sacerdozio"]}
   ],
   "primarily": [
-    "primariamente"
+    {"id": 11390,"text": ["primariamente"]}
   ],
   "primary": [
-    "primario"
+    {"id": 11391,"text": ["primario"]}
   ],
   "primate": [
-    "primato"
+    {"id": 11392,"text": ["primato"]}
   ],
   "prime": [
-    "preparare",
-    "primo"
+    {"id": 11393,"text": ["preparare"]},
+    {"id": 11394,"text": ["primo"]}
   ],
   "prime minister": [
-    "primo ministro"
+    {"id": 11395,"text": ["primo ministro"]}
   ],
   "primer": [
-    "abbecedario"
+    {"id": 11396,"text": ["abbecedario"]}
   ],
   "primitive": [
-    "primitivo"
+    {"id": 11397,"text": ["primitivo"]}
   ],
   "primogeniture": [
-    "primogenitura"
+    {"id": 11398,"text": ["primogenitura"]}
   ],
   "primordiale": [
-    "primordiale"
+    {"id": 11399,"text": ["primordiale"]}
   ],
   "prince": [
-    "principe"
+    {"id": 11400,"text": ["principe"]}
   ],
   "princess": [
-    "principe"
+    {"id": 11401,"text": ["principe"]}
   ],
   "principal": [
-    "principale"
+    {"id": 11402,"text": ["principale"]}
   ],
   "principally": [
-    "principalmente"
+    {"id": 11403,"text": ["principalmente"]}
   ],
   "principle": [
-    "principio"
+    {"id": 11404,"text": ["principio"]}
   ],
   "print": [
-    "impressione",
-    "impronta",
-    "stampare"
+    {"id": 11405,"text": ["impressione"]},
+    {"id": 11406,"text": ["impronta"]},
+    {"id": 11407,"text": ["stampare"]}
   ],
   "printable": [
-    "stampabile"
+    {"id": 11408,"text": ["stampabile"]}
   ],
   "printer": [
-    "stampante"
+    {"id": 11409,"text": ["stampante"]}
   ],
   "printing": [
-    "stampa"
+    {"id": 11410,"text": ["stampa"]}
   ],
   "prior": [
-    "precedente",
-    "prima"
+    {"id": 11411,"text": ["precedente"]},
+    {"id": 11412,"text": ["prima"]}
   ],
   "prismatic": [
-    "prismatico"
+    {"id": 11413,"text": ["prismatico"]}
   ],
   "prison": [
-    "prigione"
+    {"id": 11414,"text": ["prigione"]}
   ],
   "prisoner": [
-    "prigioniero",
-    "recluso"
+    {"id": 11415,"text": ["prigioniero"]},
+    {"id": 11416,"text": ["recluso"]}
   ],
   "privacy": [
-    "privacy"
+    {"id": 11417,"text": ["privacy"]}
   ],
   "private": [
-    "privato"
+    {"id": 11418,"text": ["privato"]}
   ],
   "privately": [
-    "privatamente"
+    {"id": 11419,"text": ["privatamente"]}
   ],
   "privatisation": [
-    "privatizzazione"
+    {"id": 11420,"text": ["privatizzazione"]}
   ],
   "privatise": [
-    "privatizzare"
+    {"id": 11421,"text": ["privatizzare"]}
   ],
   "privilege": [
-    "privilegio"
+    {"id": 11422,"text": ["privilegio"]}
   ],
   "privileged": [
-    "privilegiato"
+    {"id": 11423,"text": ["privilegiato"]}
   ],
   "prize": [
-    "premio"
+    {"id": 11424,"text": ["premio"]}
   ],
   "prize-giving": [
-    "premiazione"
+    {"id": 11425,"text": ["premiazione"]}
   ],
   "probabilistic": [
-    "probabilistico"
+    {"id": 11426,"text": ["probabilistico"]}
   ],
   "probable": [
-    "probabile"
+    {"id": 11427,"text": ["probabile"]}
   ],
   "probably": [
-    "probabilmente"
+    {"id": 11428,"text": ["probabilmente"]}
   ],
   "problem": [
-    "problema"
+    {"id": 11429,"text": ["problema"]}
   ],
   "problematic": [
-    "problematico"
+    {"id": 11430,"text": ["problematico"]}
   ],
   "proboscis": [
-    "proboscide"
+    {"id": 11431,"text": ["proboscide"]}
   ],
   "procedural": [
-    "procedurale"
+    {"id": 11432,"text": ["procedurale"]}
   ],
   "procedure": [
-    "procedura"
+    {"id": 11433,"text": ["procedura"]}
   ],
   "proceed": [
-    "provenire"
+    {"id": 11434,"text": ["provenire"]}
   ],
   "process": [
-    "processare",
-    "processo"
+    {"id": 11435,"text": ["processare"]},
+    {"id": 11436,"text": ["processo"]}
   ],
   "processing": [
-    "elaborazione",
-    "lavorazione"
+    {"id": 11437,"text": ["elaborazione"]},
+    {"id": 11438,"text": ["lavorazione"]}
   ],
   "procession": [
-    "processione"
+    {"id": 11439,"text": ["processione"]}
   ],
   "proclaim": [
-    "proclamare"
+    {"id": 11440,"text": ["proclamare"]}
   ],
   "proclamation": [
-    "proclamazione"
+    {"id": 11441,"text": ["proclamazione"]}
   ],
   "proconsul": [
-    "proconsole"
+    {"id": 11442,"text": ["proconsole"]}
   ],
   "procrastination": [
-    "procrastinazione"
+    {"id": 11443,"text": ["procrastinazione"]}
   ],
   "procreate": [
-    "procreare"
+    {"id": 11444,"text": ["procreare"]}
   ],
   "procreation": [
-    "riproduzione"
+    {"id": 11445,"text": ["riproduzione"]}
   ],
   "procure": [
-    "procurare"
+    {"id": 11446,"text": ["procurare"]}
   ],
   "produce": [
-    "prodotto",
-    "produrre"
+    {"id": 11447,"text": ["prodotto"]},
+    {"id": 11448,"text": ["produrre"]}
   ],
   "producer": [
-    "produttore"
+    {"id": 11449,"text": ["produttore"]}
   ],
   "producing": [
-    "produttore"
+    {"id": 11450,"text": ["produttore"]}
   ],
   "product": [
-    "prodotto"
+    {"id": 11451,"text": ["prodotto"]}
   ],
   "production": [
-    "produzione"
+    {"id": 11452,"text": ["produzione"]}
   ],
   "productive": [
-    "produttivo"
+    {"id": 11453,"text": ["produttivo"]}
   ],
   "productively": [
-    "produttivamente"
+    {"id": 11454,"text": ["produttivamente"]}
   ],
   "proem": [
-    "proemio"
+    {"id": 11455,"text": ["proemio"]}
   ],
   "profane": [
-    "profano"
+    {"id": 11456,"text": ["profano"]}
   ],
   "profession": [
-    "professione"
+    {"id": 11457,"text": ["professione"]}
   ],
   "professional": [
-    "professionale",
-    "professionista"
+    {"id": 11458,"text": ["professionale"]},
+    {"id": 11459,"text": ["professionista"]}
   ],
   "professionally": [
-    "professionalmente"
+    {"id": 11460,"text": ["professionalmente"]}
   ],
   "professor": [
-    "professore"
+    {"id": 11461,"text": ["professore"]}
   ],
   "profile": [
-    "profilare",
-    "profilo",
-    "sagoma"
+    {"id": 11462,"text": ["profilare"]},
+    {"id": 11463,"text": ["profilo"]},
+    {"id": 11464,"text": ["sagoma"]}
   ],
   "profit": [
-    "profittare",
-    "profitto"
+    {"id": 11465,"text": ["profittare"]},
+    {"id": 11466,"text": ["profitto"]}
   ],
   "profitable": [
-    "redditizio"
+    {"id": 11467,"text": ["redditizio"]}
   ],
   "profound": [
-    "profondo"
+    {"id": 11468,"text": ["profondo"]}
   ],
   "profoundly": [
-    "profondamente"
+    {"id": 11469,"text": ["profondamente"]}
   ],
   "prognathism": [
-    "prognatismo"
+    {"id": 11470,"text": ["prognatismo"]}
   ],
   "prognosis": [
-    "prognosi"
+    {"id": 11471,"text": ["prognosi"]}
   ],
   "program": [
-    "programma",
-    "programmare"
+    {"id": 11472,"text": ["programma"]},
+    {"id": 11473,"text": ["programmare"]}
   ],
   "programmable": [
-    "programmabile"
+    {"id": 11474,"text": ["programmabile"]}
   ],
   "programme": [
-    "programma"
+    {"id": 11475,"text": ["programma"]}
   ],
   "programmer": [
-    "programmatore"
+    {"id": 11476,"text": ["programmatore"]}
   ],
   "programming": [
-    "programmazione"
+    {"id": 11477,"text": ["programmazione"]}
   ],
   "progress": [
-    "progredire",
-    "progresso"
+    {"id": 11478,"text": ["progredire"]},
+    {"id": 11479,"text": ["progresso"]}
   ],
   "progression": [
-    "progressione"
+    {"id": 11480,"text": ["progressione"]}
   ],
   "progressive": [
-    "progressivo"
+    {"id": 11481,"text": ["progressivo"]}
   ],
   "progressively": [
-    "progressivamente"
+    {"id": 11482,"text": ["progressivamente"]}
   ],
   "progressivism": [
-    "progressismo"
+    {"id": 11483,"text": ["progressismo"]}
   ],
   "prohibit": [
-    "proibire"
+    {"id": 11484,"text": ["proibire"]}
   ],
   "prohibited": [
-    "proibito"
+    {"id": 11485,"text": ["proibito"]}
   ],
   "prohibition": [
-    "divieto",
-    "proibizione"
+    {"id": 11486,"text": ["divieto"]},
+    {"id": 11487,"text": ["proibizione"]}
   ],
   "project": [
-    "progettare",
-    "progetto",
-    "proiettare"
+    {"id": 11488,"text": ["progettare"]},
+    {"id": 11489,"text": ["progetto"]},
+    {"id": 11490,"text": ["proiettare"]}
   ],
   "projectile": [
-    "proiettile"
+    {"id": 11491,"text": ["proiettile"]}
   ],
   "projection": [
-    "proiezione"
+    {"id": 11492,"text": ["proiezione"]}
   ],
   "projector": [
-    "proiettore"
+    {"id": 11493,"text": ["proiettore"]}
   ],
   "proletarian": [
-    "proletario"
+    {"id": 11494,"text": ["proletario"]}
   ],
   "proletarianisation": [
-    "proletarizzazione"
+    {"id": 11495,"text": ["proletarizzazione"]}
   ],
   "proletariat": [
-    "proletariato"
+    {"id": 11496,"text": ["proletariato"]}
   ],
   "proliferate": [
-    "proliferare"
+    {"id": 11497,"text": ["proliferare"]}
   ],
   "proliferation": [
-    "proliferazione"
+    {"id": 11498,"text": ["proliferazione"]}
   ],
   "promenade": [
-    "passeggiata",
-    "passeggio"
+    {"id": 11499,"text": ["passeggiata"]},
+    {"id": 11500,"text": ["passeggio"]}
   ],
   "Prometheus": [
-    "Prometeo"
+    {"id": 11501,"text": ["Prometeo"]}
   ],
   "prominence": [
-    "preminenza"
+    {"id": 11502,"text": ["preminenza"]}
   ],
   "prominent": [
-    "prominente"
+    {"id": 11503,"text": ["prominente"]}
   ],
   "promise": [
-    "promessa",
-    "promettere"
+    {"id": 11504,"text": ["promessa"]},
+    {"id": 11505,"text": ["promettere"]}
   ],
   "promising": [
-    "promettente"
+    {"id": 11506,"text": ["promettente"]}
   ],
   "promontory": [
-    "promontorio"
+    {"id": 11507,"text": ["promontorio"]}
   ],
   "promote": [
-    "promuovere"
+    {"id": 11508,"text": ["promuovere"]}
   ],
   "promoter": [
-    "promotore"
+    {"id": 11509,"text": ["promotore"]}
   ],
   "promotion": [
-    "promozione"
+    {"id": 11510,"text": ["promozione"]}
   ],
   "promotional": [
-    "promozionale"
+    {"id": 11511,"text": ["promozionale"]}
   ],
   "prompt": [
-    "immediato",
-    "incitare",
-    "puntare"
+    {"id": 11512,"text": ["immediato"]},
+    {"id": 11513,"text": ["incitare"]},
+    {"id": 11514,"text": ["puntare"]}
   ],
   "prompter": [
-    "suggeritore"
+    {"id": 11515,"text": ["suggeritore"]}
   ],
   "promulgation": [
-    "promulgazione"
+    {"id": 11516,"text": ["promulgazione"]}
   ],
   "pronoun": [
-    "pronome"
+    {"id": 11517,"text": ["pronome"]}
   ],
   "pronounce": [
-    "pronunciare"
+    {"id": 11518,"text": ["pronunciare"]}
   ],
   "pronunciation": [
-    "pronuncia"
+    {"id": 11519,"text": ["pronuncia"]}
   ],
   "proof": [
-    "prova"
+    {"id": 11520,"text": ["prova"]}
   ],
   "propaganda": [
-    "propaganda"
+    {"id": 11521,"text": ["propaganda"]}
   ],
   "propagandist": [
-    "propagandista"
+    {"id": 11522,"text": ["propagandista"]}
   ],
   "propagate": [
-    "propagare"
+    {"id": 11523,"text": ["propagare"]}
   ],
   "propagation": [
-    "propagazione"
+    {"id": 11524,"text": ["propagazione"]}
   ],
   "propeller": [
-    "elica"
+    {"id": 11525,"text": ["elica"]}
   ],
   "propensity": [
-    "propensione"
+    {"id": 11526,"text": ["propensione"]}
   ],
   "proper name": [
-    "nome proprio"
+    {"id": 11527,"text": ["nome proprio"]}
   ],
   "proper noun": [
-    "nome proprio"
+    {"id": 11528,"text": ["nome proprio"]}
   ],
   "properly": [
-    "debitamente",
-    "propriamente",
-    "correttamente"
+    {"id": 11529,"text": ["debitamente"]},
+    {"id": 11530,"text": ["propriamente"]},
+    {"id": 11531,"text": ["correttamente"]}
   ],
   "prophet": [
-    "profeta"
+    {"id": 11532,"text": ["profeta"]}
   ],
   "proportion": [
-    "proporzione"
+    {"id": 11533,"text": ["proporzione"]}
   ],
   "proportional": [
-    "proporzionale"
+    {"id": 11534,"text": ["proporzionale"]}
   ],
   "proportionally": [
-    "proporzionalmente"
+    {"id": 11535,"text": ["proporzionalmente"]}
   ],
   "proportionately": [
-    "proporzionalmente"
+    {"id": 11536,"text": ["proporzionalmente"]}
   ],
   "proposal": [
-    "dichiarazione",
-    "proposta"
+    {"id": 11537,"text": ["dichiarazione"]},
+    {"id": 11538,"text": ["proposta"]}
   ],
   "propose": [
-    "proporre"
+    {"id": 11539,"text": ["proporre"]}
   ],
   "proposition": [
-    "proposizione"
+    {"id": 11540,"text": ["proposizione"]}
   ],
   "propositional": [
-    "proposizionale"
+    {"id": 11541,"text": ["proposizionale"]}
   ],
   "proprietary": [
-    "proprietario"
+    {"id": 11542,"text": ["proprietario"]}
   ],
   "propulsion": [
-    "autotrazione",
-    "propulsione"
+    {"id": 11543,"text": ["autotrazione"]},
+    {"id": 11544,"text": ["propulsione"]}
   ],
   "propylaeum": [
-    "propileo"
+    {"id": 11545,"text": ["propileo"]}
   ],
   "prorate": [
-    "ripartizione"
+    {"id": 11546,"text": ["ripartizione"]}
   ],
   "proscenium": [
-    "proscenio"
+    {"id": 11547,"text": ["proscenio"]}
   ],
   "proscription": [
-    "proscrizione"
+    {"id": 11548,"text": ["proscrizione"]}
   ],
   "prose": [
-    "prosa"
+    {"id": 11549,"text": ["prosa"]}
   ],
   "prosecute": [
-    "perseguire"
+    {"id": 11550,"text": ["perseguire"]}
   ],
   "proselytism": [
-    "proselitismo"
+    {"id": 11551,"text": ["proselitismo"]}
   ],
   "prosencephalon": [
-    "prosencefalo"
+    {"id": 11552,"text": ["prosencefalo"]}
   ],
   "prosodic": [
-    "prosodico"
+    {"id": 11553,"text": ["prosodico"]}
   ],
   "prosody": [
-    "prosodia"
+    {"id": 11554,"text": ["prosodia"]}
   ],
   "prospect": [
-    "prospettiva"
+    {"id": 11555,"text": ["prospettiva"]}
   ],
   "prospective": [
-    "probabile"
+    {"id": 11556,"text": ["probabile"]}
   ],
   "prosper": [
-    "prosperare"
+    {"id": 11557,"text": ["prosperare"]}
   ],
   "prostate": [
-    "prostata"
+    {"id": 11558,"text": ["prostata"]}
   ],
   "prostatic": [
-    "prostatico"
+    {"id": 11559,"text": ["prostatico"]}
   ],
   "prosthesis": [
-    "protesi"
+    {"id": 11560,"text": ["protesi"]}
   ],
   "prostitute": [
-    "prostituire",
-    "prostituta"
+    {"id": 11561,"text": ["prostituire"]},
+    {"id": 11562,"text": ["prostituta"]}
   ],
   "prostitution": [
-    "prostituzione"
+    {"id": 11563,"text": ["prostituzione"]}
   ],
   "prostration": [
-    "prosternazione"
+    {"id": 11564,"text": ["prosternazione"]}
   ],
   "prostyle": [
-    "prostilo"
+    {"id": 11565,"text": ["prostilo"]}
   ],
   "protagonist": [
-    "protagonista"
+    {"id": 11566,"text": ["protagonista"]}
   ],
   "protect": [
-    "proteggere",
-    "tutelare"
+    {"id": 11567,"text": ["proteggere"]},
+    {"id": 11568,"text": ["tutelare"]}
   ],
   "protection": [
-    "protezione"
+    {"id": 11569,"text": ["protezione"]}
   ],
   "protectionism": [
-    "protezionismo"
+    {"id": 11570,"text": ["protezionismo"]}
   ],
   "protectionist": [
-    "protezionista"
+    {"id": 11571,"text": ["protezionista"]}
   ],
   "protective": [
-    "protettivo"
+    {"id": 11572,"text": ["protettivo"]}
   ],
   "protectorate": [
-    "protettorato"
+    {"id": 11573,"text": ["protettorato"]}
   ],
   "protein": [
-    "proteina"
+    {"id": 11574,"text": ["proteina"]}
   ],
   "proteinuria": [
-    "proteinuria"
+    {"id": 11575,"text": ["proteinuria"]}
   ],
   "protest": [
-    "protesta",
-    "protestare"
+    {"id": 11576,"text": ["protesta"]},
+    {"id": 11577,"text": ["protestare"]}
   ],
   "protestant": [
-    "protestante"
+    {"id": 11578,"text": ["protestante"]}
   ],
   "protestantism": [
-    "protestantesimo"
+    {"id": 11579,"text": ["protestantesimo"]}
   ],
   "protocol": [
-    "protocollo"
+    {"id": 11580,"text": ["protocollo"]}
   ],
   "protohistoric": [
-    "protostorico"
+    {"id": 11581,"text": ["protostorico"]}
   ],
   "protohistory": [
-    "protostoria"
+    {"id": 11582,"text": ["protostoria"]}
   ],
   "protoplasm": [
-    "protoplasma"
+    {"id": 11583,"text": ["protoplasma"]}
   ],
   "protoplasmic": [
-    "protoplasmatico"
+    {"id": 11584,"text": ["protoplasmatico"]}
   ],
   "prototype": [
-    "prototipo"
+    {"id": 11585,"text": ["prototipo"]}
   ],
   "protrusion": [
-    "sporgenza"
+    {"id": 11586,"text": ["sporgenza"]}
   ],
   "protuberance": [
-    "protuberanza"
+    {"id": 11587,"text": ["protuberanza"]}
   ],
   "proud": [
-    "fiero",
-    "orgoglioso"
+    {"id": 11588,"text": ["fiero"]},
+    {"id": 11589,"text": ["orgoglioso"]}
   ],
   "proudly": [
-    "fieramente"
+    {"id": 11590,"text": ["fieramente"]}
   ],
   "provable": [
-    "dimostrabile"
+    {"id": 11591,"text": ["dimostrabile"]}
   ],
   "prove": [
-    "dimostrare",
-    "provare"
+    {"id": 11592,"text": ["dimostrare"]},
+    {"id": 11593,"text": ["provare"]}
   ],
   "provenance": [
-    "provenienza"
+    {"id": 11594,"text": ["provenienza"]}
   ],
   "proverb": [
-    "proverbio"
+    {"id": 11595,"text": ["proverbio"]}
   ],
   "proverbial": [
-    "proverbiale"
+    {"id": 11596,"text": ["proverbiale"]}
   ],
   "provide": [
-    "fornire"
+    {"id": 11597,"text": ["fornire"]}
   ],
   "provided": [
-    "se"
+    {"id": 11598,"text": ["se"]}
   ],
   "providence": [
-    "provvidenza"
+    {"id": 11599,"text": ["provvidenza"]}
   ],
   "provident": [
-    "previdenziale"
+    {"id": 11600,"text": ["previdenziale"]}
   ],
   "provider": [
-    "fornitore"
+    {"id": 11601,"text": ["fornitore"]}
   ],
   "province": [
-    "provincia"
+    {"id": 11602,"text": ["provincia"]}
   ],
   "provincial": [
-    "provinciale"
+    {"id": 11603,"text": ["provinciale"]}
   ],
   "provincialism": [
-    "campanilismo"
+    {"id": 11604,"text": ["campanilismo"]}
   ],
   "provision": [
-    "disposizione"
+    {"id": 11605,"text": ["disposizione"]}
   ],
   "provisional": [
-    "provvisorio"
+    {"id": 11606,"text": ["provvisorio"]}
   ],
   "provisionally": [
-    "provvisoriamente"
+    {"id": 11607,"text": ["provvisoriamente"]}
   ],
   "provocation": [
-    "provocazione"
+    {"id": 11608,"text": ["provocazione"]}
   ],
   "provoke": [
-    "provocare"
+    {"id": 11609,"text": ["provocare"]}
   ],
   "prowess": [
-    "coraggio"
+    {"id": 11610,"text": ["coraggio"]}
   ],
   "proximal": [
-    "prossimale"
+    {"id": 11611,"text": ["prossimale"]}
   ],
   "proxy": [
-    "procura"
+    {"id": 11612,"text": ["procura"]}
   ],
   "prudence": [
-    "prudenza"
+    {"id": 11613,"text": ["prudenza"]}
   ],
   "prudential": [
-    "prudenziale"
+    {"id": 11614,"text": ["prudenziale"]}
   ],
   "psalm": [
-    "salmo"
+    {"id": 11615,"text": ["salmo"]}
   ],
   "psalmody": [
-    "salmo"
+    {"id": 11616,"text": ["salmo"]}
   ],
   "psaltery": [
-    "salterio"
+    {"id": 11617,"text": ["salterio"]}
   ],
   "pseudopodium": [
-    "pseudopodio",
-    "pseudopodo"
+    {"id": 11618,"text": ["pseudopodio"]},
+    {"id": 11619,"text": ["pseudopodo"]}
   ],
   "pseudoscientific": [
-    "pseudoscientifico"
+    {"id": 11620,"text": ["pseudoscientifico"]}
   ],
   "psychiatric": [
-    "psichiatrico"
+    {"id": 11621,"text": ["psichiatrico"]}
   ],
   "psychiatrist": [
-    "psichiatra"
+    {"id": 11622,"text": ["psichiatra"]}
   ],
   "psychiatry": [
-    "psichiatria"
+    {"id": 11623,"text": ["psichiatria"]}
   ],
   "psychic": [
-    "psichico"
+    {"id": 11624,"text": ["psichico"]}
   ],
   "psychism": [
-    "psichismo"
+    {"id": 11625,"text": ["psichismo"]}
   ],
   "psychoactive": [
-    "psicotropico"
+    {"id": 11626,"text": ["psicotropico"]}
   ],
   "psychological": [
-    "psicologico"
+    {"id": 11627,"text": ["psicologico"]}
   ],
   "psychologically": [
-    "psicologicamente"
+    {"id": 11628,"text": ["psicologicamente"]}
   ],
   "psychologist": [
-    "psicologo"
+    {"id": 11629,"text": ["psicologo"]}
   ],
   "psychology": [
-    "psicologia"
+    {"id": 11630,"text": ["psicologia"]}
   ],
   "psychometrics": [
-    "psicometria"
+    {"id": 11631,"text": ["psicometria"]}
   ],
   "psychophysiologic": [
-    "psicofisiologico"
+    {"id": 11632,"text": ["psicofisiologico"]}
   ],
   "psychosis": [
-    "psicosi"
+    {"id": 11633,"text": ["psicosi"]}
   ],
   "psychosocial": [
-    "psicosociale"
+    {"id": 11634,"text": ["psicosociale"]}
   ],
   "psychrometer": [
-    "psicrometro"
+    {"id": 11635,"text": ["psicrometro"]}
   ],
   "Ptolemy": [
-    "Tolomeo"
+    {"id": 11636,"text": ["Tolomeo"]}
   ],
   "pubic": [
-    "pubico"
+    {"id": 11637,"text": ["pubico"]}
   ],
   "public": [
-    "pubblico"
+    {"id": 11638,"text": ["pubblico"]}
   ],
   "publication": [
-    "pubblicazione"
+    {"id": 11639,"text": ["pubblicazione"]}
   ],
   "publicist": [
-    "pubblicista"
+    {"id": 11640,"text": ["pubblicista"]}
   ],
   "publicly": [
-    "pubblicamente"
+    {"id": 11641,"text": ["pubblicamente"]}
   ],
   "publish": [
-    "pubblicare"
+    {"id": 11642,"text": ["pubblicare"]}
   ],
   "publisher": [
-    "editoriale"
+    {"id": 11643,"text": ["editoriale"]}
   ],
   "publishing": [
-    "editoria",
-    "editoriale"
+    {"id": 11644,"text": ["editoria"]},
+    {"id": 11645,"text": ["editoriale"]}
   ],
   "pudding": [
-    "pudding"
+    {"id": 11646,"text": ["pudding"]}
   ],
   "puddle": [
-    "pozzanghera"
+    {"id": 11647,"text": ["pozzanghera"]}
   ],
   "puerile": [
-    "puerile"
+    {"id": 11648,"text": ["puerile"]}
   ],
   "pugilism": [
-    "pugilato"
+    {"id": 11649,"text": ["pugilato"]}
   ],
   "pull": [
-    "tirare"
+    {"id": 11650,"text": ["tirare"]}
   ],
   "pulldown": [
-    "abbattere"
+    {"id": 11651,"text": ["abbattere"]}
   ],
   "pulley": [
-    "carrucola"
+    {"id": 11652,"text": ["carrucola"]}
   ],
   "pulmonary": [
-    "polmonare"
+    {"id": 11653,"text": ["polmonare"]}
   ],
   "pulpit": [
-    "pulpito"
+    {"id": 11654,"text": ["pulpito"]}
   ],
   "pulsate": [
-    "pulsare"
+    {"id": 11655,"text": ["pulsare"]}
   ],
   "pulsation": [
-    "pulsazione"
+    {"id": 11656,"text": ["pulsazione"]}
   ],
   "pulse": [
-    "polso"
+    {"id": 11657,"text": ["polso"]}
   ],
   "pulverisation": [
-    "polverizzazione"
+    {"id": 11658,"text": ["polverizzazione"]}
   ],
   "pulverise": [
-    "polverizzare"
+    {"id": 11659,"text": ["polverizzare"]}
   ],
   "pulverization": [
-    "polverizzazione"
+    {"id": 11660,"text": ["polverizzazione"]}
   ],
   "pulverize": [
-    "polverizzare"
+    {"id": 11661,"text": ["polverizzare"]}
   ],
   "pump": [
-    "bomba",
-    "pompare"
+    {"id": 11662,"text": ["bomba"]},
+    {"id": 11663,"text": ["pompare"]}
   ],
   "pumping": [
-    "pompaggio"
+    {"id": 11664,"text": ["pompaggio"]}
   ],
   "punch": [
-    "dare un pugno",
-    "pugno"
+    {"id": 11665,"text": ["dare un pugno"]},
+    {"id": 11666,"text": ["pugno"]}
   ],
   "punctual": [
-    "preciso",
-    "puntuale"
+    {"id": 11667,"text": ["preciso"]},
+    {"id": 11668,"text": ["puntuale"]}
   ],
   "punctuation": [
-    "punteggiatura"
+    {"id": 11669,"text": ["punteggiatura"]}
   ],
   "puncture": [
-    "bucare",
-    "forare",
-    "pungere"
+    {"id": 11670,"text": ["bucare"]},
+    {"id": 11671,"text": ["forare"]},
+    {"id": 11672,"text": ["pungere"]}
   ],
   "pungent": [
-    "penetrante"
+    {"id": 11673,"text": ["penetrante"]}
   ],
   "punish": [
-    "castigare",
-    "punire"
+    {"id": 11674,"text": ["castigare"]},
+    {"id": 11675,"text": ["punire"]}
   ],
   "punishable": [
-    "punibile"
+    {"id": 11676,"text": ["punibile"]}
   ],
   "punishment": [
-    "castigo",
-    "punizione"
+    {"id": 11677,"text": ["castigo"]},
+    {"id": 11678,"text": ["punizione"]}
   ],
   "pupil": [
-    "pupilla",
-    "scolare"
+    {"id": 11679,"text": ["pupilla"]},
+    {"id": 11680,"text": ["scolare"]}
   ],
   "pupillary": [
-    "pupillare"
+    {"id": 11681,"text": ["pupillare"]}
   ],
   "puppet": [
-    "pupazzo",
-    "marionetta"
+    {"id": 11682,"text": ["pupazzo"]},
+    {"id": 11683,"text": ["marionetta"]}
   ],
   "puppy": [
-    "cucciolo"
+    {"id": 11684,"text": ["cucciolo"]}
   ],
   "purchase": [
-    "rilevare",
-    "spesa"
+    {"id": 11685,"text": ["rilevare"]},
+    {"id": 11686,"text": ["spesa"]}
   ],
   "purchaser": [
-    "compratore"
+    {"id": 11687,"text": ["compratore"]}
   ],
   "pure": [
-    "puro"
+    {"id": 11688,"text": ["puro"]}
   ],
   "purely": [
-    "meramente",
-    "prettamente",
-    "puramente"
+    {"id": 11689,"text": ["meramente"]},
+    {"id": 11690,"text": ["prettamente"]},
+    {"id": 11691,"text": ["puramente"]}
   ],
   "purgatory": [
-    "purgatorio"
+    {"id": 11692,"text": ["purgatorio"]}
   ],
   "purification": [
-    "depurazione",
-    "purificazione"
+    {"id": 11693,"text": ["depurazione"]},
+    {"id": 11694,"text": ["purificazione"]}
   ],
   "purism": [
-    "purismo"
+    {"id": 11695,"text": ["purismo"]}
   ],
   "purist": [
-    "purista"
+    {"id": 11696,"text": ["purista"]}
   ],
   "puritanism": [
-    "puritanismo"
+    {"id": 11697,"text": ["puritanismo"]}
   ],
   "purity": [
-    "purezza"
+    {"id": 11698,"text": ["purezza"]}
   ],
   "purple": [
-    "porpora",
-    "viola"
+    {"id": 11699,"text": ["porpora"]},
+    {"id": 11700,"text": ["viola"]}
   ],
   "purportedly": [
-    "presumibilmente"
+    {"id": 11701,"text": ["presumibilmente"]}
   ],
   "purpose": [
-    "proposito"
+    {"id": 11702,"text": ["proposito"]}
   ],
   "purposely": [
-    "appositamente",
-    "espressamente"
+    {"id": 11703,"text": ["appositamente"]},
+    {"id": 11704,"text": ["espressamente"]}
   ],
   "purpura": [
-    "porpora"
+    {"id": 11705,"text": ["porpora"]}
   ],
   "pursue": [
-    "perseguire"
+    {"id": 11706,"text": ["perseguire"]}
   ],
   "pursuit": [
-    "persecuzione"
+    {"id": 11707,"text": ["persecuzione"]}
   ],
   "push": [
-    "premere",
-    "spingere"
+    {"id": 11708,"text": ["premere"]},
+    {"id": 11709,"text": ["spingere"]}
   ],
   "pusillanimous": [
-    "pusillanime"
+    {"id": 11710,"text": ["pusillanime"]}
   ],
   "put": [
-    "fermo",
-    "mettere",
-    "porre"
+    {"id": 11711,"text": ["fermo"]},
+    {"id": 11712,"text": ["mettere"]},
+    {"id": 11713,"text": ["porre"]}
   ],
   "pyjamas": [
-    "pigiama"
+    {"id": 11714,"text": ["pigiama"]}
   ],
   "pylon": [
-    "pilone"
+    {"id": 11715,"text": ["pilone"]}
   ],
   "pylorus": [
-    "piloro"
+    {"id": 11716,"text": ["piloro"]}
   ],
   "pyramid": [
-    "piramide"
+    {"id": 11717,"text": ["piramide"]}
   ],
   "pyramidal": [
-    "piramidale"
+    {"id": 11718,"text": ["piramidale"]}
   ],
   "Pyrenean": [
-    "pirenaico"
+    {"id": 11719,"text": ["pirenaico"]}
   ],
   "Pyrenees": [
-    "Pirenei"
+    {"id": 11720,"text": ["Pirenei"]}
   ],
   "pyrometer": [
-    "pirometro"
+    {"id": 11721,"text": ["pirometro"]}
   ],
   "pyrotechnics": [
-    "pirotecnica"
+    {"id": 11722,"text": ["pirotecnica"]}
   ],
   "Pythagoras": [
-    "Pitagora"
+    {"id": 11723,"text": ["Pitagora"]}
   ],
   "pythagorean": [
-    "pitagorico"
+    {"id": 11724,"text": ["pitagorico"]}
   ],
   "python": [
-    "pitone"
+    {"id": 11725,"text": ["pitone"]}
   ]
 }

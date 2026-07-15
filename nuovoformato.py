@@ -1,9 +1,21 @@
 import json
-import string
 import os
+import string
+
+letters = list(string.ascii_uppercase)
+
+counter = 1
 
 
-letters = string.ascii_uppercase
+def compact_json(data):
+    """
+    Scrive gli oggetti {id, text:[...]} su una riga.
+    """
+    return json.dumps(
+        data,
+        ensure_ascii=False,
+        separators=(",", ": ")
+    )
 
 
 for letter in letters:
@@ -13,7 +25,7 @@ for letter in letters:
     if not os.path.exists(filename):
         continue
 
-    print(f"Conversione {filename}...")
+    print(f"Elaborazione {filename}...")
 
     with open(filename, "r", encoding="utf-8") as f:
         data = json.load(f)
@@ -23,29 +35,73 @@ for letter in letters:
 
     for word, translations in data.items():
 
-        # se per qualche motivo è già convertito, lo lascia stare
-        if translations and isinstance(translations[0], list):
+        new_translations = []
+
+
+        # già convertito
+        if translations and isinstance(translations[0], dict):
+
             new_data[word] = translations
+
+            for t in translations:
+                counter = max(counter, t["id"] + 1)
+
             continue
 
 
-        # vecchio formato -> nuovo formato
-        new_data[word] = [
-            [translation]
-            for translation in translations
-        ]
+        # vecchio formato
+        for translation in translations:
+
+            new_translations.append({
+                "id": counter,
+                "text": [translation]
+            })
+
+            counter += 1
 
 
+        new_data[word] = new_translations
+
+
+
+    # scrittura manuale
     with open(filename, "w", encoding="utf-8") as f:
-        json.dump(
-            new_data,
-            f,
-            ensure_ascii=False,
-            indent=2
-        )
+
+        f.write("{\n")
+
+        words = list(new_data.items())
+
+        for i, (word, translations) in enumerate(words):
+
+            f.write(
+                f'  {json.dumps(word, ensure_ascii=False)}: [\n'
+            )
+
+            for j, t in enumerate(translations):
+
+                f.write(
+                    "    " + compact_json(t)
+                )
+
+                if j < len(translations)-1:
+                    f.write(",")
+
+                f.write("\n")
 
 
-    print(f"  OK: {filename}")
+            f.write("  ]")
+
+            if i < len(words)-1:
+                f.write(",")
+
+            f.write("\n")
 
 
-print("Conversione completata.")
+        f.write("}\n")
+
+
+    print(f"{filename} completato")
+
+
+print("\nFinito.")
+print("Prossimo ID disponibile:", counter)

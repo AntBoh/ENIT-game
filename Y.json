@@ -1,93 +1,93 @@
 {
   "yard": [
-    "cortile"
+    {"id": 15995,"text": ["cortile"]}
   ],
   "yawn": [
-    "sbadigliare",
-    "sbadiglio"
+    {"id": 15996,"text": ["sbadigliare"]},
+    {"id": 15997,"text": ["sbadiglio"]}
   ],
   "year": [
-    "anno"
+    {"id": 15998,"text": ["anno"]}
   ],
   "yearbook": [
-    "annuario"
+    {"id": 15999,"text": ["annuario"]}
   ],
   "yearly": [
-    "annuale"
+    {"id": 16000,"text": ["annuale"]}
   ],
   "yeast": [
-    "lievito"
+    {"id": 16001,"text": ["lievito"]}
   ],
   "yellow": [
-    "giallo"
+    {"id": 16002,"text": ["giallo"]}
   ],
   "yellowish": [
-    "giallastro"
+    {"id": 16003,"text": ["giallastro"]}
   ],
   "yesterday": [
-    "ieri"
+    {"id": 16004,"text": ["ieri"]}
   ],
   "yet": [
-    "ancora",
-    "già"
+    {"id": 16005,"text": ["ancora"]},
+    {"id": 16006,"text": ["già"]}
   ],
   "yield": [
-    "cedere",
-    "raccolto"
+    {"id": 16007,"text": ["cedere"]},
+    {"id": 16008,"text": ["raccolto"]}
   ],
   "yielding": [
-    "lucrativo"
+    {"id": 16009,"text": ["lucrativo"]}
   ],
   "yoghurt": [
-    "yogurt"
+    {"id": 16010,"text": ["yogurt"]}
   ],
   "yoke": [
-    "giogo"
+    {"id": 16011,"text": ["giogo"]}
   ],
   "you": [
-    "te",
-    "ti",
-    "tu",
-    "vi",
-    "voi"
+    {"id": 16012,"text": ["te"]},
+    {"id": 16013,"text": ["ti"]},
+    {"id": 16014,"text": ["tu"]},
+    {"id": 16015,"text": ["vi"]},
+    {"id": 16016,"text": ["voi"]}
   ],
   "young": [
-    "giovane"
+    {"id": 16017,"text": ["giovane"]}
   ],
   "youngster": [
-    "giovane"
+    {"id": 16018,"text": ["giovane"]}
   ],
   "your": [
-    "tua",
-    "tue",
-    "tuo",
-    "tuoi",
-    "vostra",
-    "vostre",
-    "vostri",
-    "vostro"
+    {"id": 16019,"text": ["tua"]},
+    {"id": 16020,"text": ["tue"]},
+    {"id": 16021,"text": ["tuo"]},
+    {"id": 16022,"text": ["tuoi"]},
+    {"id": 16023,"text": ["vostra"]},
+    {"id": 16024,"text": ["vostre"]},
+    {"id": 16025,"text": ["vostri"]},
+    {"id": 16026,"text": ["vostro"]}
   ],
   "yours": [
-    "tuo",
-    "vostro"
+    {"id": 16027,"text": ["tuo"]},
+    {"id": 16028,"text": ["vostro"]}
   ],
   "yourself": [
-    "te stesso"
+    {"id": 16029,"text": ["te stesso"]}
   ],
   "yourselves": [
-    "voi stessi"
+    {"id": 16030,"text": ["voi stessi"]}
   ],
   "youth": [
-    "gioventù",
-    "giovinezza"
+    {"id": 16031,"text": ["gioventù"]},
+    {"id": 16032,"text": ["giovinezza"]}
   ],
   "youth centre": [
-    "centro giovanile"
+    {"id": 16033,"text": ["centro giovanile"]}
   ],
   "yttrium": [
-    "ittrio"
+    {"id": 16034,"text": ["ittrio"]}
   ],
   "yugoslavian": [
-    "iugoslavo"
+    {"id": 16035,"text": ["iugoslavo"]}
   ]
 }

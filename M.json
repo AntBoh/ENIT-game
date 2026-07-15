@@ -1,2341 +1,2341 @@
 {
   "macaroni": [
-    "maccheroni"
+    {"id": 8731,"text": ["maccheroni"]}
   ],
   "machete": [
-    "machete"
+    {"id": 8732,"text": ["machete"]}
   ],
   "machiavellian": [
-    "machiavellico"
+    {"id": 8733,"text": ["machiavellico"]}
   ],
   "machinable": [
-    "meccanizzabile"
+    {"id": 8734,"text": ["meccanizzabile"]}
   ],
   "machination": [
-    "macchinazione"
+    {"id": 8735,"text": ["macchinazione"]}
   ],
   "machine": [
-    "macchina"
+    {"id": 8736,"text": ["macchina"]}
   ],
   "machinery": [
-    "macchinario"
+    {"id": 8737,"text": ["macchinario"]}
   ],
   "mackerel": [
-    "sgombro"
+    {"id": 8738,"text": ["sgombro"]}
   ],
   "macrocephaly": [
-    "macrocefalia"
+    {"id": 8739,"text": ["macrocefalia"]}
   ],
   "macromolecule": [
-    "macromolecola"
+    {"id": 8740,"text": ["macromolecola"]}
   ],
   "macronucleus": [
-    "macronucleo"
+    {"id": 8741,"text": ["macronucleo"]}
   ],
   "macroscopic": [
-    "macroscopico"
+    {"id": 8742,"text": ["macroscopico"]}
   ],
   "mad": [
-    "arrabbiato",
-    "pazzo"
+    {"id": 8743,"text": ["arrabbiato"]},
+    {"id": 8744,"text": ["pazzo"]}
   ],
   "madden": [
-    "impazzire"
+    {"id": 8745,"text": ["impazzire"]}
   ],
   "madman": [
-    "pazzo"
+    {"id": 8746,"text": ["pazzo"]}
   ],
   "madness": [
-    "follia",
-    "pazzia"
+    {"id": 8747,"text": ["follia"]},
+    {"id": 8748,"text": ["pazzia"]}
   ],
   "Madridian": [
-    "madrileno"
+    {"id": 8749,"text": ["madrileno"]}
   ],
   "maduration": [
-    "maturazione"
+    {"id": 8750,"text": ["maturazione"]}
   ],
   "magazine": [
-    "rivista"
+    {"id": 8751,"text": ["rivista"]}
   ],
   "mage": [
-    "mago"
+    {"id": 8752,"text": ["mago"]}
   ],
   "magenta": [
-    "magenta"
+    {"id": 8753,"text": ["magenta"]}
   ],
   "maghrebian": [
-    "magrebino"
+    {"id": 8754,"text": ["magrebino"]}
   ],
   "magic": [
-    "magia",
-    "magico"
+    {"id": 8755,"text": ["magia"]},
+    {"id": 8756,"text": ["magico"]}
   ],
   "magically": [
-    "magicamente"
+    {"id": 8757,"text": ["magicamente"]}
   ],
   "magician": [
-    "mago"
+    {"id": 8758,"text": ["mago"]}
   ],
   "magisterially": [
-    "magistralmente"
+    {"id": 8759,"text": ["magistralmente"]}
   ],
   "magistral": [
-    "magistrale"
+    {"id": 8760,"text": ["magistrale"]}
   ],
   "magistrate": [
-    "magistrato"
+    {"id": 8761,"text": ["magistrato"]}
   ],
   "magistrature": [
-    "magistratura"
+    {"id": 8762,"text": ["magistratura"]}
   ],
   "magma": [
-    "magma"
+    {"id": 8763,"text": ["magma"]}
   ],
   "magnesium": [
-    "magnesio"
+    {"id": 8764,"text": ["magnesio"]}
   ],
   "magnet": [
-    "magnete"
+    {"id": 8765,"text": ["magnete"]}
   ],
   "magnetic": [
-    "magnetico"
+    {"id": 8766,"text": ["magnetico"]}
   ],
   "magnetisation": [
-    "magnetizzazione"
+    {"id": 8767,"text": ["magnetizzazione"]}
   ],
   "magnetism": [
-    "magnetismo"
+    {"id": 8768,"text": ["magnetismo"]}
   ],
   "magnetite": [
-    "magnetite"
+    {"id": 8769,"text": ["magnetite"]}
   ],
   "magnetometer": [
-    "magnetometro"
+    {"id": 8770,"text": ["magnetometro"]}
   ],
   "magnetosphere": [
-    "magnetosfera"
+    {"id": 8771,"text": ["magnetosfera"]}
   ],
   "magnificent": [
-    "magnifico"
+    {"id": 8772,"text": ["magnifico"]}
   ],
   "magnificently": [
-    "magnificamente"
+    {"id": 8773,"text": ["magnificamente"]}
   ],
   "magnitude": [
-    "magnitudine",
-    "magnitudo"
+    {"id": 8774,"text": ["magnitudine"]},
+    {"id": 8775,"text": ["magnitudo"]}
   ],
   "mahogany": [
-    "mogano"
+    {"id": 8776,"text": ["mogano"]}
   ],
   "maid": [
-    "cameriera"
+    {"id": 8777,"text": ["cameriera"]}
   ],
   "maiden": [
-    "fanciulla",
-    "vergine",
-    "zitella"
+    {"id": 8778,"text": ["fanciulla"]},
+    {"id": 8779,"text": ["vergine"]},
+    {"id": 8780,"text": ["zitella"]}
   ],
   "mail": [
-    "posta"
+    {"id": 8781,"text": ["posta"]}
   ],
   "main": [
-    "maggiore",
-    "primario",
-    "principale"
+    {"id": 8782,"text": ["maggiore"]},
+    {"id": 8783,"text": ["primario"]},
+    {"id": 8784,"text": ["principale"]}
   ],
   "mainly": [
-    "principalmente"
+    {"id": 8785,"text": ["principalmente"]}
   ],
   "maintain": [
-    "mantenere"
+    {"id": 8786,"text": ["mantenere"]}
   ],
   "maintenance": [
-    "manutenzione"
+    {"id": 8787,"text": ["manutenzione"]}
   ],
   "majestically": [
-    "maestosamente"
+    {"id": 8788,"text": ["maestosamente"]}
   ],
   "major": [
-    "importante",
-    "maggiore"
+    {"id": 8789,"text": ["importante"]},
+    {"id": 8790,"text": ["maggiore"]}
   ],
   "majority": [
-    "maggioranza",
-    "maggioritario"
+    {"id": 8791,"text": ["maggioranza"]},
+    {"id": 8792,"text": ["maggioritario"]}
   ],
   "make": [
-    "creare",
-    "fare"
+    {"id": 8793,"text": ["creare"]},
+    {"id": 8794,"text": ["fare"]}
   ],
   "make up": [
-    "inventare"
+    {"id": 8795,"text": ["inventare"]}
   ],
   "maker": [
-    "fabbricante"
+    {"id": 8796,"text": ["fabbricante"]}
   ],
   "makeup": [
-    "trucco"
+    {"id": 8797,"text": ["trucco"]}
   ],
   "malachite": [
-    "malachite"
+    {"id": 8798,"text": ["malachite"]}
   ],
   "malacology": [
-    "malacologia"
+    {"id": 8799,"text": ["malacologia"]}
   ],
   "maladjustment": [
-    "disadattamento"
+    {"id": 8800,"text": ["disadattamento"]}
   ],
   "malaria": [
-    "malaria"
+    {"id": 8801,"text": ["malaria"]}
   ],
   "male": [
-    "maschile",
-    "maschio"
+    {"id": 8802,"text": ["maschile"]},
+    {"id": 8803,"text": ["maschio"]}
   ],
   "malechauvinist": [
-    "maschilista"
+    {"id": 8804,"text": ["maschilista"]}
   ],
   "malevolence": [
-    "malevolenza"
+    {"id": 8805,"text": ["malevolenza"]}
   ],
   "malformation": [
-    "malformazione"
+    {"id": 8806,"text": ["malformazione"]}
   ],
   "malice": [
-    "malizia"
+    {"id": 8807,"text": ["malizia"]}
   ],
   "malicious": [
-    "malizioso"
+    {"id": 8808,"text": ["malizioso"]}
   ],
   "maliciousness": [
-    "cattiveria"
+    {"id": 8809,"text": ["cattiveria"]}
   ],
   "malignant": [
-    "maligno"
+    {"id": 8810,"text": ["maligno"]}
   ],
   "malleable": [
-    "malleabile"
+    {"id": 8811,"text": ["malleabile"]}
   ],
   "mallow": [
-    "malva"
+    {"id": 8812,"text": ["malva"]}
   ],
   "malnutrition": [
-    "denutrizione",
-    "malnutrizione"
+    {"id": 8813,"text": ["denutrizione"]},
+    {"id": 8814,"text": ["malnutrizione"]}
   ],
   "malt": [
-    "malto"
+    {"id": 8815,"text": ["malto"]}
   ],
   "maltose": [
-    "maltosio"
+    {"id": 8816,"text": ["maltosio"]}
   ],
   "maltreatment": [
-    "abuso",
-    "maltrattamento"
+    {"id": 8817,"text": ["abuso"]},
+    {"id": 8818,"text": ["maltrattamento"]}
   ],
   "mammal": [
-    "mammifero"
+    {"id": 8819,"text": ["mammifero"]}
   ],
   "mammalian": [
-    "mammifero"
+    {"id": 8820,"text": ["mammifero"]}
   ],
   "mammary": [
-    "mammario"
+    {"id": 8821,"text": ["mammario"]}
   ],
   "mammography": [
-    "mammografia"
+    {"id": 8822,"text": ["mammografia"]}
   ],
   "mammoth": [
-    "mammut"
+    {"id": 8823,"text": ["mammut"]}
   ],
   "man": [
-    "umanità",
-    "uomo"
+    {"id": 8824,"text": ["umanità"]},
+    {"id": 8825,"text": ["uomo"]}
   ],
   "manacle": [
-    "ammanettare"
+    {"id": 8826,"text": ["ammanettare"]}
   ],
   "manacles": [
-    "manette"
+    {"id": 8827,"text": ["manette"]}
   ],
   "manage": [
-    "gestire",
-    "riuscire"
+    {"id": 8828,"text": ["gestire"]},
+    {"id": 8829,"text": ["riuscire"]}
   ],
   "manageable": [
-    "gestibile"
+    {"id": 8830,"text": ["gestibile"]}
   ],
   "management": [
-    "dirigenza",
-    "gestione"
+    {"id": 8831,"text": ["dirigenza"]},
+    {"id": 8832,"text": ["gestione"]}
   ],
   "manager": [
-    "direttore",
-    "responsabile"
+    {"id": 8833,"text": ["direttore"]},
+    {"id": 8834,"text": ["responsabile"]}
   ],
   "managerial": [
-    "direttivo"
+    {"id": 8835,"text": ["direttivo"]}
   ],
   "manbag": [
-    "borsello"
+    {"id": 8836,"text": ["borsello"]}
   ],
   "Mandarin": [
-    "mandarino"
+    {"id": 8837,"text": ["mandarino"]}
   ],
   "mandate": [
-    "mandato"
+    {"id": 8838,"text": ["mandato"]}
   ],
   "mandator": [
-    "mandante"
+    {"id": 8839,"text": ["mandante"]}
   ],
   "mandible": [
-    "mandibola"
+    {"id": 8840,"text": ["mandibola"]}
   ],
   "mandibular": [
-    "mandibolare"
+    {"id": 8841,"text": ["mandibolare"]}
   ],
   "mandoline": [
-    "mandolino"
+    {"id": 8842,"text": ["mandolino"]}
   ],
   "mane": [
-    "capigliatura",
-    "criniera"
+    {"id": 8843,"text": ["capigliatura"]},
+    {"id": 8844,"text": ["criniera"]}
   ],
   "manganese": [
-    "manganese"
+    {"id": 8845,"text": ["manganese"]}
   ],
   "mangrove": [
-    "mangrovia"
+    {"id": 8846,"text": ["mangrovia"]}
   ],
   "mania": [
-    "mania"
+    {"id": 8847,"text": ["mania"]}
   ],
   "maniac": [
-    "maniaco"
+    {"id": 8848,"text": ["maniaco"]}
   ],
   "manifest": [
-    "manifestare"
+    {"id": 8849,"text": ["manifestare"]}
   ],
   "manifestly": [
-    "manifestamente"
+    {"id": 8850,"text": ["manifestamente"]}
   ],
   "manipulate": [
-    "manipolare"
+    {"id": 8851,"text": ["manipolare"]}
   ],
   "manipulation": [
-    "manipolazione"
+    {"id": 8852,"text": ["manipolazione"]}
   ],
   "manner": [
-    "maniera"
+    {"id": 8853,"text": ["maniera"]}
   ],
   "mannerism": [
-    "manierismo"
+    {"id": 8854,"text": ["manierismo"]}
   ],
   "manoeuvre": [
-    "manovra",
-    "manovrare"
+    {"id": 8855,"text": ["manovra"]},
+    {"id": 8856,"text": ["manovrare"]}
   ],
   "manometer": [
-    "manometro"
+    {"id": 8857,"text": ["manometro"]}
   ],
   "manservant": [
-    "maggiordomo"
+    {"id": 8858,"text": ["maggiordomo"]}
   ],
   "mansion": [
-    "palazzo"
+    {"id": 8859,"text": ["palazzo"]}
   ],
   "mantle": [
-    "mantello",
-    "manto"
+    {"id": 8860,"text": ["mantello"]},
+    {"id": 8861,"text": ["manto"]}
   ],
   "manual": [
-    "manuale"
+    {"id": 8862,"text": ["manuale"]}
   ],
   "manually": [
-    "manualmente"
+    {"id": 8863,"text": ["manualmente"]}
   ],
   "manufacture": [
-    "fabbricare"
+    {"id": 8864,"text": ["fabbricare"]}
   ],
   "manufacturer": [
-    "fabbricante"
+    {"id": 8865,"text": ["fabbricante"]}
   ],
   "manufacturing": [
-    "fabbricazione"
+    {"id": 8866,"text": ["fabbricazione"]}
   ],
   "manure": [
-    "letame"
+    {"id": 8867,"text": ["letame"]}
   ],
   "manuscript": [
-    "manoscritto"
+    {"id": 8868,"text": ["manoscritto"]}
   ],
   "many": [
-    "molto"
+    {"id": 8869,"text": ["molto"]}
   ],
   "maoism": [
-    "maoismo"
+    {"id": 8870,"text": ["maoismo"]}
   ],
   "map": [
-    "cartina",
-    "mappa"
+    {"id": 8871,"text": ["cartina"]},
+    {"id": 8872,"text": ["mappa"]}
   ],
   "maple": [
-    "acero"
+    {"id": 8873,"text": ["acero"]}
   ],
   "mapping": [
-    "mappatura"
+    {"id": 8874,"text": ["mappatura"]}
   ],
   "marathon": [
-    "maratona"
+    {"id": 8875,"text": ["maratona"]}
   ],
   "marble": [
-    "biglia",
-    "marmo"
+    {"id": 8876,"text": ["biglia"]},
+    {"id": 8877,"text": ["marmo"]}
   ],
   "marcasite": [
-    "marcasite"
+    {"id": 8878,"text": ["marcasite"]}
   ],
   "march": [
-    "marcia"
+    {"id": 8879,"text": ["marcia"]}
   ],
   "March": [
-    "marzo"
+    {"id": 8880,"text": ["marzo"]}
   ],
   "marchioness": [
-    "marchesa"
+    {"id": 8881,"text": ["marchesa"]}
   ],
   "mare": [
-    "cavalla"
+    {"id": 8882,"text": ["cavalla"]}
   ],
   "margarine": [
-    "margarina"
+    {"id": 8883,"text": ["margarina"]}
   ],
   "margin": [
-    "margine"
+    {"id": 8884,"text": ["margine"]}
   ],
   "marginal": [
-    "marginale"
+    {"id": 8885,"text": ["marginale"]}
   ],
   "marginally": [
-    "marginalmente"
+    {"id": 8886,"text": ["marginalmente"]}
   ],
   "marine": [
-    "marine",
-    "marino"
+    {"id": 8887,"text": ["marine"]},
+    {"id": 8888,"text": ["marino"]}
   ],
   "marionette": [
-    "marionetta"
+    {"id": 8889,"text": ["marionetta"]}
   ],
   "marital": [
-    "maritale"
+    {"id": 8890,"text": ["maritale"]}
   ],
   "maritime": [
-    "marittimo"
+    {"id": 8891,"text": ["marittimo"]}
   ],
   "mark": [
-    "marca",
-    "marcare",
-    "marchio",
-    "segno",
-    "voto"
+    {"id": 8892,"text": ["marca"]},
+    {"id": 8893,"text": ["marcare"]},
+    {"id": 8894,"text": ["marchio"]},
+    {"id": 8895,"text": ["segno"]},
+    {"id": 8896,"text": ["voto"]}
   ],
   "marked": [
-    "marcato"
+    {"id": 8897,"text": ["marcato"]}
   ],
   "marker": [
-    "marcatore",
-    "pennarello"
+    {"id": 8898,"text": ["marcatore"]},
+    {"id": 8899,"text": ["pennarello"]}
   ],
   "market": [
-    "mercato"
+    {"id": 8900,"text": ["mercato"]}
   ],
   "marketable": [
-    "vendibile"
+    {"id": 8901,"text": ["vendibile"]}
   ],
   "marmot": [
-    "marmotta"
+    {"id": 8902,"text": ["marmotta"]}
   ],
   "marquess": [
-    "marchese"
+    {"id": 8903,"text": ["marchese"]}
   ],
   "marquetry": [
-    "intarsio"
+    {"id": 8904,"text": ["intarsio"]}
   ],
   "marquis": [
-    "marchese"
+    {"id": 8905,"text": ["marchese"]}
   ],
   "marquise": [
-    "marchese"
+    {"id": 8906,"text": ["marchese"]}
   ],
   "marriage": [
-    "matrimonio"
+    {"id": 8907,"text": ["matrimonio"]}
   ],
   "marry": [
-    "sposare"
+    {"id": 8908,"text": ["sposare"]}
   ],
   "Mars": [
-    "Marte"
+    {"id": 8909,"text": ["Marte"]}
   ],
   "Marseilles": [
-    "Marsiglia"
+    {"id": 8910,"text": ["Marsiglia"]}
   ],
   "marsh": [
-    "palude"
+    {"id": 8911,"text": ["palude"]}
   ],
   "marshal": [
-    "maresciallo"
+    {"id": 8912,"text": ["maresciallo"]}
   ],
   "marsupium": [
-    "marsupio"
+    {"id": 8913,"text": ["marsupio"]}
   ],
   "marten": [
-    "martora"
+    {"id": 8914,"text": ["martora"]}
   ],
   "martial": [
-    "marziale"
+    {"id": 8915,"text": ["marziale"]}
   ],
   "Martian": [
-    "marziano"
+    {"id": 8916,"text": ["marziano"]}
   ],
   "martingale": [
-    "martingala"
+    {"id": 8917,"text": ["martingala"]}
   ],
   "martyr": [
-    "martire"
+    {"id": 8918,"text": ["martire"]}
   ],
   "martyrdom": [
-    "martirio"
+    {"id": 8919,"text": ["martirio"]}
   ],
   "marvel": [
-    "meraviglia"
+    {"id": 8920,"text": ["meraviglia"]}
   ],
   "marvelous": [
-    "meraviglioso"
+    {"id": 8921,"text": ["meraviglioso"]}
   ],
   "marxism": [
-    "marxismo"
+    {"id": 8922,"text": ["marxismo"]}
   ],
   "marxist": [
-    "marxista"
+    {"id": 8923,"text": ["marxista"]}
   ],
   "masculine": [
-    "mascolino"
+    {"id": 8924,"text": ["mascolino"]}
   ],
   "masculinity": [
-    "maschilismo"
+    {"id": 8925,"text": ["maschilismo"]}
   ],
   "mask": [
-    "maschera",
-    "mascherare"
+    {"id": 8926,"text": ["maschera"]},
+    {"id": 8927,"text": ["mascherare"]}
   ],
   "masking": [
-    "mascheramento"
+    {"id": 8928,"text": ["mascheramento"]}
   ],
   "masochism": [
-    "masochismo"
+    {"id": 8929,"text": ["masochismo"]}
   ],
   "masochist": [
-    "masochista"
+    {"id": 8930,"text": ["masochista"]}
   ],
   "masochistic": [
-    "masochista"
+    {"id": 8931,"text": ["masochista"]}
   ],
   "masonry": [
-    "massoneria",
-    "muratura"
+    {"id": 8932,"text": ["massoneria"]},
+    {"id": 8933,"text": ["muratura"]}
   ],
   "mass": [
-    "massa",
-    "messa"
+    {"id": 8934,"text": ["massa"]},
+    {"id": 8935,"text": ["messa"]}
   ],
   "massacre": [
-    "massacrare",
-    "massacro"
+    {"id": 8936,"text": ["massacrare"]},
+    {"id": 8937,"text": ["massacro"]}
   ],
   "massage": [
-    "massaggio"
+    {"id": 8938,"text": ["massaggio"]}
   ],
   "massive": [
-    "massivo"
+    {"id": 8939,"text": ["massivo"]}
   ],
   "massively": [
-    "massicciamente",
-    "massivamente"
+    {"id": 8940,"text": ["massicciamente"]},
+    {"id": 8941,"text": ["massivamente"]}
   ],
   "mastectomy": [
-    "mastectomia"
+    {"id": 8942,"text": ["mastectomia"]}
   ],
   "master": [
-    "maestro",
-    "padrone"
+    {"id": 8943,"text": ["maestro"]},
+    {"id": 8944,"text": ["padrone"]}
   ],
   "masterful": [
-    "magistrale"
+    {"id": 8945,"text": ["magistrale"]}
   ],
   "mastication": [
-    "masticazione"
+    {"id": 8946,"text": ["masticazione"]}
   ],
   "mastodon": [
-    "mastodonte"
+    {"id": 8947,"text": ["mastodonte"]}
   ],
   "mat": [
-    "matto",
-    "tappetino"
+    {"id": 8948,"text": ["matto"]},
+    {"id": 8949,"text": ["tappetino"]}
   ],
   "match": [
-    "fiammifero",
-    "partita",
-    "uguagliare"
+    {"id": 8950,"text": ["fiammifero"]},
+    {"id": 8951,"text": ["partita"]},
+    {"id": 8952,"text": ["uguagliare"]}
   ],
   "matchless": [
-    "ineguagliabile"
+    {"id": 8953,"text": ["ineguagliabile"]}
   ],
   "mate": [
-    "accoppiarsi",
-    "compagno"
+    {"id": 8954,"text": ["accoppiarsi"]},
+    {"id": 8955,"text": ["compagno"]}
   ],
   "material": [
-    "materia",
-    "materiale"
+    {"id": 8956,"text": ["materia"]},
+    {"id": 8957,"text": ["materiale"]}
   ],
   "materialisation": [
-    "materializzazione"
+    {"id": 8958,"text": ["materializzazione"]}
   ],
   "materialise": [
-    "materializzare"
+    {"id": 8959,"text": ["materializzare"]}
   ],
   "materialism": [
-    "materialismo"
+    {"id": 8960,"text": ["materialismo"]}
   ],
   "materialist": [
-    "materialista"
+    {"id": 8961,"text": ["materialista"]}
   ],
   "materialization": [
-    "materializzazione"
+    {"id": 8962,"text": ["materializzazione"]}
   ],
   "materialize": [
-    "materializzare"
+    {"id": 8963,"text": ["materializzare"]}
   ],
   "maternal": [
-    "materno"
+    {"id": 8964,"text": ["materno"]}
   ],
   "math": [
-    "matematica"
+    {"id": 8965,"text": ["matematica"]}
   ],
   "mathematical": [
-    "matematico"
+    {"id": 8966,"text": ["matematico"]}
   ],
   "mathematically": [
-    "matematicamente"
+    {"id": 8967,"text": ["matematicamente"]}
   ],
   "mathematician": [
-    "matematico"
+    {"id": 8968,"text": ["matematico"]}
   ],
   "mathematics": [
-    "matematica"
+    {"id": 8969,"text": ["matematica"]}
   ],
   "maths": [
-    "matematica"
+    {"id": 8970,"text": ["matematica"]}
   ],
   "matriarchy": [
-    "matriarcato"
+    {"id": 8971,"text": ["matriarcato"]}
   ],
   "matrilineal": [
-    "matrilineare"
+    {"id": 8972,"text": ["matrilineare"]}
   ],
   "matrimonial": [
-    "matrimoniale"
+    {"id": 8973,"text": ["matrimoniale"]}
   ],
   "matrimony": [
-    "matrimonio"
+    {"id": 8974,"text": ["matrimonio"]}
   ],
   "matrix": [
-    "matrice"
+    {"id": 8975,"text": ["matrice"]}
   ],
   "matter": [
-    "importare",
-    "materia"
+    {"id": 8976,"text": ["importare"]},
+    {"id": 8977,"text": ["materia"]}
   ],
   "mattress": [
-    "materasso"
+    {"id": 8978,"text": ["materasso"]}
   ],
   "mature": [
-    "maturare",
-    "maturo"
+    {"id": 8979,"text": ["maturare"]},
+    {"id": 8980,"text": ["maturo"]}
   ],
   "mausoleum": [
-    "mausoleo"
+    {"id": 8981,"text": ["mausoleo"]}
   ],
   "maxillary": [
-    "mascellare"
+    {"id": 8982,"text": ["mascellare"]}
   ],
   "maximal": [
-    "massimo"
+    {"id": 8983,"text": ["massimo"]}
   ],
   "maximalist": [
-    "massimalista"
+    {"id": 8984,"text": ["massimalista"]}
   ],
   "maximisation": [
-    "massimizzazione"
+    {"id": 8985,"text": ["massimizzazione"]}
   ],
   "maximization": [
-    "massimizzazione"
+    {"id": 8986,"text": ["massimizzazione"]}
   ],
   "maximum": [
-    "massimo"
+    {"id": 8987,"text": ["massimo"]}
   ],
   "maxwell": [
-    "maxwell"
+    {"id": 8988,"text": ["maxwell"]}
   ],
   "May": [
-    "maggio"
+    {"id": 8989,"text": ["maggio"]}
   ],
   "may": [
-    "potere"
+    {"id": 8990,"text": ["potere"]}
   ],
   "maybe": [
-    "forse"
+    {"id": 8991,"text": ["forse"]}
   ],
   "mayonnaise": [
-    "maionese"
+    {"id": 8992,"text": ["maionese"]}
   ],
   "mayor": [
-    "sindaco"
+    {"id": 8993,"text": ["sindaco"]}
   ],
   "maze": [
-    "labirinto"
+    {"id": 8994,"text": ["labirinto"]}
   ],
   "me": [
-    "io",
-    "me",
-    "mi"
+    {"id": 8995,"text": ["io"]},
+    {"id": 8996,"text": ["me"]},
+    {"id": 8997,"text": ["mi"]}
   ],
   "mead": [
-    "idromele"
+    {"id": 8998,"text": ["idromele"]}
   ],
   "meadow": [
-    "prato"
+    {"id": 8999,"text": ["prato"]}
   ],
   "meal": [
-    "pasto"
+    {"id": 9000,"text": ["pasto"]}
   ],
   "mean": [
-    "cattivo",
-    "intendere",
-    "significare"
+    {"id": 9001,"text": ["cattivo"]},
+    {"id": 9002,"text": ["intendere"]},
+    {"id": 9003,"text": ["significare"]}
   ],
   "meander": [
-    "meandro",
-    "serpeggiare"
+    {"id": 9004,"text": ["meandro"]},
+    {"id": 9005,"text": ["serpeggiare"]}
   ],
   "meaning": [
-    "accezione"
+    {"id": 9006,"text": ["accezione"]}
   ],
   "meaningful": [
-    "significativo"
+    {"id": 9007,"text": ["significativo"]}
   ],
   "meaningless": [
-    "insignificante"
+    {"id": 9008,"text": ["insignificante"]}
   ],
   "means": [
-    "mezzo"
+    {"id": 9009,"text": ["mezzo"]}
   ],
   "meantime": [
-    "frattempo"
+    {"id": 9010,"text": ["frattempo"]}
   ],
   "measurable": [
-    "misurabile"
+    {"id": 9011,"text": ["misurabile"]}
   ],
   "measure": [
-    "misura",
-    "misurare"
+    {"id": 9012,"text": ["misura"]},
+    {"id": 9013,"text": ["misurare"]}
   ],
   "measurement": [
-    "misura",
-    "misurazione"
+    {"id": 9014,"text": ["misura"]},
+    {"id": 9015,"text": ["misurazione"]}
   ],
   "meat": [
-    "carne"
+    {"id": 9016,"text": ["carne"]}
   ],
   "meatball": [
-    "polpetta"
+    {"id": 9017,"text": ["polpetta"]}
   ],
   "mechanic": [
-    "meccanico"
+    {"id": 9018,"text": ["meccanico"]}
   ],
   "mechanical": [
-    "meccanico"
+    {"id": 9019,"text": ["meccanico"]}
   ],
   "mechanisation": [
-    "meccanizzazione"
+    {"id": 9020,"text": ["meccanizzazione"]}
   ],
   "mechanise": [
-    "meccanizzare"
+    {"id": 9021,"text": ["meccanizzare"]}
   ],
   "mechanism": [
-    "meccanismo"
+    {"id": 9022,"text": ["meccanismo"]}
   ],
   "mechanization": [
-    "meccanizzazione"
+    {"id": 9023,"text": ["meccanizzazione"]}
   ],
   "mechanize": [
-    "meccanizzare"
+    {"id": 9024,"text": ["meccanizzare"]}
   ],
   "meconium": [
-    "meconio"
+    {"id": 9025,"text": ["meconio"]}
   ],
   "medal": [
-    "medaglia"
+    {"id": 9026,"text": ["medaglia"]}
   ],
   "mediaeval": [
-    "medioevale"
+    {"id": 9027,"text": ["medioevale"]}
   ],
   "medial": [
-    "mediale"
+    {"id": 9028,"text": ["mediale"]}
   ],
   "mediation": [
-    "mediazione"
+    {"id": 9029,"text": ["mediazione"]}
   ],
   "medic": [
-    "medico"
+    {"id": 9030,"text": ["medico"]}
   ],
   "medical": [
-    "medico"
+    {"id": 9031,"text": ["medico"]}
   ],
   "medically": [
-    "medicalmente"
+    {"id": 9032,"text": ["medicalmente"]}
   ],
   "medication": [
-    "farmaco"
+    {"id": 9033,"text": ["farmaco"]}
   ],
   "medicinal": [
-    "medicinale"
+    {"id": 9034,"text": ["medicinale"]}
   ],
   "medicine": [
-    "farmaco",
-    "medicina"
+    {"id": 9035,"text": ["farmaco"]},
+    {"id": 9036,"text": ["medicina"]}
   ],
   "mediocre": [
-    "mediocre"
+    {"id": 9037,"text": ["mediocre"]}
   ],
   "meditation": [
-    "meditazione"
+    {"id": 9038,"text": ["meditazione"]}
   ],
   "mediterranean": [
-    "mediterraneo"
+    {"id": 9039,"text": ["mediterraneo"]}
   ],
   "medium": [
-    "medio",
-    "mezzo",
-    "tramite"
+    {"id": 9040,"text": ["medio"]},
+    {"id": 9041,"text": ["mezzo"]},
+    {"id": 9042,"text": ["tramite"]}
   ],
   "medlar": [
-    "nespolo"
+    {"id": 9043,"text": ["nespolo"]}
   ],
   "medullary": [
-    "midollare"
+    {"id": 9044,"text": ["midollare"]}
   ],
   "meet": [
-    "conoscere",
-    "incontrare"
+    {"id": 9045,"text": ["conoscere"]},
+    {"id": 9046,"text": ["incontrare"]}
   ],
   "meeting": [
-    "riunione"
+    {"id": 9047,"text": ["riunione"]}
   ],
   "megabit": [
-    "megabit"
+    {"id": 9048,"text": ["megabit"]}
   ],
   "megalith": [
-    "megalito"
+    {"id": 9049,"text": ["megalito"]}
   ],
   "megalithic": [
-    "megalitico"
+    {"id": 9050,"text": ["megalitico"]}
   ],
   "megaphone": [
-    "megafono"
+    {"id": 9051,"text": ["megafono"]}
   ],
   "meiotic": [
-    "meiotico"
+    {"id": 9052,"text": ["meiotico"]}
   ],
   "melancholic": [
-    "melancolico"
+    {"id": 9053,"text": ["melancolico"]}
   ],
   "melanin": [
-    "melanina"
+    {"id": 9054,"text": ["melanina"]}
   ],
   "mellow": [
-    "dolce"
+    {"id": 9055,"text": ["dolce"]}
   ],
   "melodic": [
-    "melodico"
+    {"id": 9056,"text": ["melodico"]}
   ],
   "melodrama": [
-    "melodramma"
+    {"id": 9057,"text": ["melodramma"]}
   ],
   "melody": [
-    "melodia"
+    {"id": 9058,"text": ["melodia"]}
   ],
   "melomaniac": [
-    "melomane"
+    {"id": 9059,"text": ["melomane"]}
   ],
   "melon": [
-    "melone"
+    {"id": 9060,"text": ["melone"]}
   ],
   "melt": [
-    "fondere",
-    "sciogliere"
+    {"id": 9061,"text": ["fondere"]},
+    {"id": 9062,"text": ["sciogliere"]}
   ],
   "member": [
-    "appartenente",
-    "membro"
+    {"id": 9063,"text": ["appartenente"]},
+    {"id": 9064,"text": ["membro"]}
   ],
   "membership": [
-    "affiliazione"
+    {"id": 9065,"text": ["affiliazione"]}
   ],
   "membrane": [
-    "membrana"
+    {"id": 9066,"text": ["membrana"]}
   ],
   "memorandum": [
-    "memorandum"
+    {"id": 9067,"text": ["memorandum"]}
   ],
   "memorial": [
-    "commemorativo",
-    "monumento"
+    {"id": 9068,"text": ["commemorativo"]},
+    {"id": 9069,"text": ["monumento"]}
   ],
   "memorisation": [
-    "memorizzazione"
+    {"id": 9070,"text": ["memorizzazione"]}
   ],
   "memorise": [
-    "memorizzare"
+    {"id": 9071,"text": ["memorizzare"]}
   ],
   "memorization": [
-    "memorizzazione"
+    {"id": 9072,"text": ["memorizzazione"]}
   ],
   "memorize": [
-    "memorizzare"
+    {"id": 9073,"text": ["memorizzare"]}
   ],
   "memory": [
-    "memoria",
-    "ricordo"
+    {"id": 9074,"text": ["memoria"]},
+    {"id": 9075,"text": ["ricordo"]}
   ],
   "mendelevium": [
-    "mendelevio"
+    {"id": 9076,"text": ["mendelevio"]}
   ],
   "menopause": [
-    "menopausa"
+    {"id": 9077,"text": ["menopausa"]}
   ],
   "menstruation": [
-    "mestruazione"
+    {"id": 9078,"text": ["mestruazione"]}
   ],
   "mental": [
-    "mentale"
+    {"id": 9079,"text": ["mentale"]}
   ],
   "mentally": [
-    "mentalmente"
+    {"id": 9080,"text": ["mentalmente"]}
   ],
   "menthol": [
-    "mentolo"
+    {"id": 9081,"text": ["mentolo"]}
   ],
   "mention": [
-    "menzionare",
-    "menzione"
+    {"id": 9082,"text": ["menzionare"]},
+    {"id": 9083,"text": ["menzione"]}
   ],
   "mentor": [
-    "mentore"
+    {"id": 9084,"text": ["mentore"]}
   ],
   "menu": [
-    "carta",
-    "menu"
+    {"id": 9085,"text": ["carta"]},
+    {"id": 9086,"text": ["menu"]}
   ],
   "mercantile": [
-    "mercantile"
+    {"id": 9087,"text": ["mercantile"]}
   ],
   "mercenary": [
-    "mercenario"
+    {"id": 9088,"text": ["mercenario"]}
   ],
   "merciless": [
-    "spietato"
+    {"id": 9089,"text": ["spietato"]}
   ],
   "Mercury": [
-    "Mercurio"
+    {"id": 9090,"text": ["Mercurio"]}
   ],
   "mercy": [
-    "balia"
+    {"id": 9091,"text": ["balia"]}
   ],
   "mere": [
-    "mero"
+    {"id": 9092,"text": ["mero"]}
   ],
   "merely": [
-    "semplicemente"
+    {"id": 9093,"text": ["semplicemente"]}
   ],
   "merge": [
-    "amalgamare",
-    "fondere",
-    "unire"
+    {"id": 9094,"text": ["amalgamare"]},
+    {"id": 9095,"text": ["fondere"]},
+    {"id": 9096,"text": ["unire"]}
   ],
   "merger": [
-    "fusione"
+    {"id": 9097,"text": ["fusione"]}
   ],
   "meridian": [
-    "meridiano"
+    {"id": 9098,"text": ["meridiano"]}
   ],
   "meridional": [
-    "meridionale"
+    {"id": 9099,"text": ["meridionale"]}
   ],
   "meristematic": [
-    "meristematico"
+    {"id": 9100,"text": ["meristematico"]}
   ],
   "merit": [
-    "meritare",
-    "merito"
+    {"id": 9101,"text": ["meritare"]},
+    {"id": 9102,"text": ["merito"]}
   ],
   "mermaid": [
-    "sirena"
+    {"id": 9103,"text": ["sirena"]}
   ],
   "merry": [
-    "allegro"
+    {"id": 9104,"text": ["allegro"]}
   ],
   "merry Christmas": [
-    "buon Natale"
+    {"id": 9105,"text": ["buon Natale"]}
   ],
   "mesencephalon": [
-    "mesencefalo"
+    {"id": 9106,"text": ["mesencefalo"]}
   ],
   "mesenchymatous": [
-    "mesenchimatoso"
+    {"id": 9107,"text": ["mesenchimatoso"]}
   ],
   "mesenchyme": [
-    "mesenchima"
+    {"id": 9108,"text": ["mesenchima"]}
   ],
   "mesenteric": [
-    "mesenterico"
+    {"id": 9109,"text": ["mesenterico"]}
   ],
   "mesoderm": [
-    "mesoderma"
+    {"id": 9110,"text": ["mesoderma"]}
   ],
   "mesodermal": [
-    "mesodermico"
+    {"id": 9111,"text": ["mesodermico"]}
   ],
   "meson": [
-    "mesone"
+    {"id": 9112,"text": ["mesone"]}
   ],
   "mesosphere": [
-    "mesosfera"
+    {"id": 9113,"text": ["mesosfera"]}
   ],
   "mesotherapy": [
-    "mesoterapia"
+    {"id": 9114,"text": ["mesoterapia"]}
   ],
   "mess": [
-    "disordine"
+    {"id": 9115,"text": ["disordine"]}
   ],
   "message": [
-    "messaggio"
+    {"id": 9116,"text": ["messaggio"]}
   ],
   "messenger": [
-    "messaggero"
+    {"id": 9117,"text": ["messaggero"]}
   ],
   "messianism": [
-    "messianismo"
+    {"id": 9118,"text": ["messianismo"]}
   ],
   "metabolic": [
-    "metabolico"
+    {"id": 9119,"text": ["metabolico"]}
   ],
   "metabolism": [
-    "metabolismo"
+    {"id": 9120,"text": ["metabolismo"]}
   ],
   "metabolite": [
-    "metabolita"
+    {"id": 9121,"text": ["metabolita"]}
   ],
   "metacarpus": [
-    "metacarpo"
+    {"id": 9122,"text": ["metacarpo"]}
   ],
   "metachromatic": [
-    "metacromatico"
+    {"id": 9123,"text": ["metacromatico"]}
   ],
   "metal": [
-    "metallo"
+    {"id": 9124,"text": ["metallo"]}
   ],
   "metalanguage": [
-    "metalinguaggio"
+    {"id": 9125,"text": ["metalinguaggio"]}
   ],
   "metalinguistic": [
-    "metalinguistico"
+    {"id": 9126,"text": ["metalinguistico"]}
   ],
   "metallic": [
-    "metallico"
+    {"id": 9127,"text": ["metallico"]}
   ],
   "metallurgical": [
-    "metallurgico"
+    {"id": 9128,"text": ["metallurgico"]}
   ],
   "metallurgy": [
-    "metallurgia"
+    {"id": 9129,"text": ["metallurgia"]}
   ],
   "metamorphic": [
-    "metamorfico"
+    {"id": 9130,"text": ["metamorfico"]}
   ],
   "metamorphism": [
-    "metamorfismo"
+    {"id": 9131,"text": ["metamorfismo"]}
   ],
   "metamorphosis": [
-    "metamorfosi"
+    {"id": 9132,"text": ["metamorfosi"]}
   ],
   "metaphor": [
-    "metafora"
+    {"id": 9133,"text": ["metafora"]}
   ],
   "metaphorical": [
-    "metaforico"
+    {"id": 9134,"text": ["metaforico"]}
   ],
   "metaphysical": [
-    "metafisico"
+    {"id": 9135,"text": ["metafisico"]}
   ],
   "metastable": [
-    "metastabile"
+    {"id": 9136,"text": ["metastabile"]}
   ],
   "metastasis": [
-    "metastasi"
+    {"id": 9137,"text": ["metastasi"]}
   ],
   "meteor": [
-    "meteora"
+    {"id": 9138,"text": ["meteora"]}
   ],
   "meteoric": [
-    "meteorico"
+    {"id": 9139,"text": ["meteorico"]}
   ],
   "meteorite": [
-    "meteorite"
+    {"id": 9140,"text": ["meteorite"]}
   ],
   "meteorological": [
-    "meteorologico"
+    {"id": 9141,"text": ["meteorologico"]}
   ],
   "meteorologist": [
-    "meteorologo"
+    {"id": 9142,"text": ["meteorologo"]}
   ],
   "meteorology": [
-    "meteorologia"
+    {"id": 9143,"text": ["meteorologia"]}
   ],
   "meter": [
-    "metro"
+    {"id": 9144,"text": ["metro"]}
   ],
   "methanol": [
-    "metanolo"
+    {"id": 9145,"text": ["metanolo"]}
   ],
   "methionine": [
-    "metionina"
+    {"id": 9146,"text": ["metionina"]}
   ],
   "method": [
-    "metodo"
+    {"id": 9147,"text": ["metodo"]}
   ],
   "methodical": [
-    "metodico"
+    {"id": 9148,"text": ["metodico"]}
   ],
   "methodological": [
-    "metodologico"
+    {"id": 9149,"text": ["metodologico"]}
   ],
   "methodology": [
-    "metodologia"
+    {"id": 9150,"text": ["metodologia"]}
   ],
   "meticulously": [
-    "meticolosamente"
+    {"id": 9151,"text": ["meticolosamente"]}
   ],
   "metonymic": [
-    "metonimico"
+    {"id": 9152,"text": ["metonimico"]}
   ],
   "metonymy": [
-    "metonimia"
+    {"id": 9153,"text": ["metonimia"]}
   ],
   "metre": [
-    "metro"
+    {"id": 9154,"text": ["metro"]}
   ],
   "metric": [
-    "metrico"
+    {"id": 9155,"text": ["metrico"]}
   ],
   "metrology": [
-    "metrologia"
+    {"id": 9156,"text": ["metrologia"]}
   ],
   "metronome": [
-    "metronomo"
+    {"id": 9157,"text": ["metronomo"]}
   ],
   "metropolis": [
-    "metropoli"
+    {"id": 9158,"text": ["metropoli"]}
   ],
   "metropolitan": [
-    "metropolitano"
+    {"id": 9159,"text": ["metropolitano"]}
   ],
   "metrorrhagia": [
-    "metrorragia"
+    {"id": 9160,"text": ["metrorragia"]}
   ],
   "Mexican": [
-    "messicano"
+    {"id": 9161,"text": ["messicano"]}
   ],
   "Mexico": [
-    "Messico"
+    {"id": 9162,"text": ["Messico"]}
   ],
   "microbe": [
-    "microbo"
+    {"id": 9163,"text": ["microbo"]}
   ],
   "microbiological": [
-    "microbiologico"
+    {"id": 9164,"text": ["microbiologico"]}
   ],
   "microbiology": [
-    "microbiologia"
+    {"id": 9165,"text": ["microbiologia"]}
   ],
   "microcephaly": [
-    "microcefalia"
+    {"id": 9166,"text": ["microcefalia"]}
   ],
   "microclimate": [
-    "microclima"
+    {"id": 9167,"text": ["microclima"]}
   ],
   "microcomputer": [
-    "microcomputer"
+    {"id": 9168,"text": ["microcomputer"]}
   ],
   "microcontroller": [
-    "microcontrollore"
+    {"id": 9169,"text": ["microcontrollore"]}
   ],
   "microfilament": [
-    "microfilamento"
+    {"id": 9170,"text": ["microfilamento"]}
   ],
   "microfilm": [
-    "microfilm"
+    {"id": 9171,"text": ["microfilm"]}
   ],
   "microinjection": [
-    "microiniezione"
+    {"id": 9172,"text": ["microiniezione"]}
   ],
   "microlithic": [
-    "microlitico"
+    {"id": 9173,"text": ["microlitico"]}
   ],
   "micrometer": [
-    "micrometro"
+    {"id": 9174,"text": ["micrometro"]}
   ],
   "microminiaturisation": [
-    "microminiaturizzazione"
+    {"id": 9175,"text": ["microminiaturizzazione"]}
   ],
   "micronucleus": [
-    "micronucleo"
+    {"id": 9176,"text": ["micronucleo"]}
   ],
   "microorganism": [
-    "microrganismo"
+    {"id": 9177,"text": ["microrganismo"]}
   ],
   "micropalaeontology": [
-    "micropaleontologia"
+    {"id": 9178,"text": ["micropaleontologia"]}
   ],
   "microphone": [
-    "microfono"
+    {"id": 9179,"text": ["microfono"]}
   ],
   "microprocessor": [
-    "microprocessore"
+    {"id": 9180,"text": ["microprocessore"]}
   ],
   "microscope": [
-    "microscopio"
+    {"id": 9181,"text": ["microscopio"]}
   ],
   "microscopic": [
-    "microscopico"
+    {"id": 9182,"text": ["microscopico"]}
   ],
   "microscopy": [
-    "microscopia"
+    {"id": 9183,"text": ["microscopia"]}
   ],
   "microsecond": [
-    "microsecondo"
+    {"id": 9184,"text": ["microsecondo"]}
   ],
   "microsome": [
-    "microsoma"
+    {"id": 9185,"text": ["microsoma"]}
   ],
   "microstate": [
-    "microstato"
+    {"id": 9186,"text": ["microstato"]}
   ],
   "microstructure": [
-    "microstruttura"
+    {"id": 9187,"text": ["microstruttura"]}
   ],
   "microtubule": [
-    "microtubulo"
+    {"id": 9188,"text": ["microtubulo"]}
   ],
   "microwave": [
-    "microonde"
+    {"id": 9189,"text": ["microonde"]}
   ],
   "midday": [
-    "mezzogiorno"
+    {"id": 9190,"text": ["mezzogiorno"]}
   ],
   "Middle East": [
-    "Medio Oriente"
+    {"id": 9191,"text": ["Medio Oriente"]}
   ],
   "middle finger": [
-    "dito medio"
+    {"id": 9192,"text": ["dito medio"]}
   ],
   "midfielder": [
-    "centrocampista"
+    {"id": 9193,"text": ["centrocampista"]}
   ],
   "midnight": [
-    "mezzanotte"
+    {"id": 9194,"text": ["mezzanotte"]}
   ],
   "might": [
-    "forza",
-    "potere",
-    "vigore"
+    {"id": 9195,"text": ["forza"]},
+    {"id": 9196,"text": ["potere"]},
+    {"id": 9197,"text": ["vigore"]}
   ],
   "migraine": [
-    "emicrania"
+    {"id": 9198,"text": ["emicrania"]}
   ],
   "migrate": [
-    "emigrare",
-    "migrare"
+    {"id": 9199,"text": ["emigrare"]},
+    {"id": 9200,"text": ["migrare"]}
   ],
   "migration": [
-    "migrazione"
+    {"id": 9201,"text": ["migrazione"]}
   ],
   "migratory": [
-    "migratorio"
+    {"id": 9202,"text": ["migratorio"]}
   ],
   "Milan": [
-    "Milano"
+    {"id": 9203,"text": ["Milano"]}
   ],
   "mild": [
-    "moderato"
+    {"id": 9204,"text": ["moderato"]}
   ],
   "mildew": [
-    "muffa"
+    {"id": 9205,"text": ["muffa"]}
   ],
   "mile": [
-    "miglio"
+    {"id": 9206,"text": ["miglio"]}
   ],
   "milestone": [
-    "pietra miliare"
+    {"id": 9207,"text": ["pietra miliare"]}
   ],
   "militant": [
-    "militante"
+    {"id": 9208,"text": ["militante"]}
   ],
   "militarily": [
-    "militarmente"
+    {"id": 9209,"text": ["militarmente"]}
   ],
   "militarisation": [
-    "militarizzazione"
+    {"id": 9210,"text": ["militarizzazione"]}
   ],
   "militarism": [
-    "militarismo"
+    {"id": 9211,"text": ["militarismo"]}
   ],
   "militaristic": [
-    "militarista"
+    {"id": 9212,"text": ["militarista"]}
   ],
   "military": [
-    "bellico",
-    "esercito",
-    "militare"
+    {"id": 9213,"text": ["bellico"]},
+    {"id": 9214,"text": ["esercito"]},
+    {"id": 9215,"text": ["militare"]}
   ],
   "militia": [
-    "milizia"
+    {"id": 9216,"text": ["milizia"]}
   ],
   "milk": [
-    "latte",
-    "mungere"
+    {"id": 9217,"text": ["latte"]},
+    {"id": 9218,"text": ["mungere"]}
   ],
   "milking": [
-    "mungitura"
+    {"id": 9219,"text": ["mungitura"]}
   ],
   "milky": [
-    "latteo"
+    {"id": 9220,"text": ["latteo"]}
   ],
   "mill": [
-    "mulino"
+    {"id": 9221,"text": ["mulino"]}
   ],
   "millenarism": [
-    "millenarismo"
+    {"id": 9222,"text": ["millenarismo"]}
   ],
   "millennium": [
-    "millennio"
+    {"id": 9223,"text": ["millennio"]}
   ],
   "miller": [
-    "mugnaio"
+    {"id": 9224,"text": ["mugnaio"]}
   ],
   "millet": [
-    "miglio"
+    {"id": 9225,"text": ["miglio"]}
   ],
   "milligram": [
-    "milligrammo"
+    {"id": 9226,"text": ["milligrammo"]}
   ],
   "milligramme": [
-    "milligrammo"
+    {"id": 9227,"text": ["milligrammo"]}
   ],
   "milliliter": [
-    "millilitro"
+    {"id": 9228,"text": ["millilitro"]}
   ],
   "millilitre": [
-    "millilitro"
+    {"id": 9229,"text": ["millilitro"]}
   ],
   "millimeter": [
-    "millimetro"
+    {"id": 9230,"text": ["millimetro"]}
   ],
   "millimetre": [
-    "millimetro"
+    {"id": 9231,"text": ["millimetro"]}
   ],
   "million": [
-    "milione"
+    {"id": 9232,"text": ["milione"]}
   ],
   "millionaire": [
-    "milionario"
+    {"id": 9233,"text": ["milionario"]}
   ],
   "millionth": [
-    "milionesimo"
+    {"id": 9234,"text": ["milionesimo"]}
   ],
   "millisecond": [
-    "millisecondo"
+    {"id": 9235,"text": ["millisecondo"]}
   ],
   "minaret": [
-    "minareto"
+    {"id": 9236,"text": ["minareto"]}
   ],
   "mind": [
-    "importare",
-    "mente"
+    {"id": 9237,"text": ["importare"]},
+    {"id": 9238,"text": ["mente"]}
   ],
   "mine": [
-    "mina",
-    "minare",
-    "miniera",
-    "mio"
+    {"id": 9239,"text": ["mina"]},
+    {"id": 9240,"text": ["minare"]},
+    {"id": 9241,"text": ["miniera"]},
+    {"id": 9242,"text": ["mio"]}
   ],
   "miner": [
-    "minatore"
+    {"id": 9243,"text": ["minatore"]}
   ],
   "mineral": [
-    "minerale"
+    {"id": 9244,"text": ["minerale"]}
   ],
   "mineralisation": [
-    "mineralizzazione"
+    {"id": 9245,"text": ["mineralizzazione"]}
   ],
   "mineralization": [
-    "mineralizzazione"
+    {"id": 9246,"text": ["mineralizzazione"]}
   ],
   "mineralogy": [
-    "mineralogia"
+    {"id": 9247,"text": ["mineralogia"]}
   ],
   "miniature": [
-    "miniatura"
+    {"id": 9248,"text": ["miniatura"]}
   ],
   "miniaturisation": [
-    "miniaturizzazione"
+    {"id": 9249,"text": ["miniaturizzazione"]}
   ],
   "minicomputer": [
-    "minicomputer"
+    {"id": 9250,"text": ["minicomputer"]}
   ],
   "minimal": [
-    "minimo"
+    {"id": 9251,"text": ["minimo"]}
   ],
   "minimisation": [
-    "minimizzazione"
+    {"id": 9252,"text": ["minimizzazione"]}
   ],
   "minimum": [
-    "minimo"
+    {"id": 9253,"text": ["minimo"]}
   ],
   "mining": [
-    "minerario"
+    {"id": 9254,"text": ["minerario"]}
   ],
   "minister": [
-    "ministro"
+    {"id": 9255,"text": ["ministro"]}
   ],
   "ministerial": [
-    "ministeriale"
+    {"id": 9256,"text": ["ministeriale"]}
   ],
   "ministry": [
-    "ministero"
+    {"id": 9257,"text": ["ministero"]}
   ],
   "minor": [
-    "minore",
-    "minorenne"
+    {"id": 9258,"text": ["minore"]},
+    {"id": 9259,"text": ["minorenne"]}
   ],
   "minoritary": [
-    "minoritario"
+    {"id": 9260,"text": ["minoritario"]}
   ],
   "minority": [
-    "minoranza"
+    {"id": 9261,"text": ["minoranza"]}
   ],
   "minotaur": [
-    "minotauro"
+    {"id": 9262,"text": ["minotauro"]}
   ],
   "mint": [
-    "menta"
+    {"id": 9263,"text": ["menta"]}
   ],
   "minuet": [
-    "minuetto"
+    {"id": 9264,"text": ["minuetto"]}
   ],
   "minus": [
-    "meno"
+    {"id": 9265,"text": ["meno"]}
   ],
   "minuscule": [
-    "minuscolo"
+    {"id": 9266,"text": ["minuscolo"]}
   ],
   "minute": [
-    "minuto"
+    {"id": 9267,"text": ["minuto"]}
   ],
   "mirabilite": [
-    "mirabilite"
+    {"id": 9268,"text": ["mirabilite"]}
   ],
   "miracle": [
-    "miracolo"
+    {"id": 9269,"text": ["miracolo"]}
   ],
   "miraculously": [
-    "miracolosamente"
+    {"id": 9270,"text": ["miracolosamente"]}
   ],
   "mirage": [
-    "miraggio"
+    {"id": 9271,"text": ["miraggio"]}
   ],
   "mirror": [
-    "specchio"
+    {"id": 9272,"text": ["specchio"]}
   ],
   "misanthrope": [
-    "misantropo"
+    {"id": 9273,"text": ["misantropo"]}
   ],
   "misanthropic": [
-    "misantropo"
+    {"id": 9274,"text": ["misantropo"]}
   ],
   "misanthropy": [
-    "misantropia"
+    {"id": 9275,"text": ["misantropia"]}
   ],
   "miscible": [
-    "miscibile"
+    {"id": 9276,"text": ["miscibile"]}
   ],
   "miserable": [
-    "miserabile"
+    {"id": 9277,"text": ["miserabile"]}
   ],
   "misfortune": [
-    "disgrazia"
+    {"id": 9278,"text": ["disgrazia"]}
   ],
   "misogyny": [
-    "misoginia"
+    {"id": 9279,"text": ["misoginia"]}
   ],
   "miss": [
-    "mancare",
-    "perdere",
-    "signorina"
+    {"id": 9280,"text": ["mancare"]},
+    {"id": 9281,"text": ["perdere"]},
+    {"id": 9282,"text": ["signorina"]}
   ],
   "missile": [
-    "missile"
+    {"id": 9283,"text": ["missile"]}
   ],
   "mission": [
-    "missione"
+    {"id": 9284,"text": ["missione"]}
   ],
   "missionary": [
-    "missionario"
+    {"id": 9285,"text": ["missionario"]}
   ],
   "mist": [
-    "foschia",
-    "nebbia"
+    {"id": 9286,"text": ["foschia"]},
+    {"id": 9287,"text": ["nebbia"]}
   ],
   "mistral": [
-    "mistral"
+    {"id": 9288,"text": ["mistral"]}
   ],
   "misunderstanding": [
-    "equivoco",
-    "incomprensione"
+    {"id": 9289,"text": ["equivoco"]},
+    {"id": 9290,"text": ["incomprensione"]}
   ],
   "misuse": [
-    "abuso"
+    {"id": 9291,"text": ["abuso"]}
   ],
   "mitigate": [
-    "mitigare"
+    {"id": 9292,"text": ["mitigare"]}
   ],
   "mitigation": [
-    "mitigazione"
+    {"id": 9293,"text": ["mitigazione"]}
   ],
   "mitochondrial": [
-    "mitocondriale"
+    {"id": 9294,"text": ["mitocondriale"]}
   ],
   "mitochondrion": [
-    "mitocondrio"
+    {"id": 9295,"text": ["mitocondrio"]}
   ],
   "mitotic": [
-    "mitotico"
+    {"id": 9296,"text": ["mitotico"]}
   ],
   "mitre": [
-    "mitra"
+    {"id": 9297,"text": ["mitra"]}
   ],
   "mix": [
-    "mescolare",
-    "miscela",
-    "miscelare",
-    "mischiare",
-    "miscuglio"
+    {"id": 9298,"text": ["mescolare"]},
+    {"id": 9299,"text": ["miscela"]},
+    {"id": 9300,"text": ["miscelare"]},
+    {"id": 9301,"text": ["mischiare"]},
+    {"id": 9302,"text": ["miscuglio"]}
   ],
   "mixed": [
-    "misto"
+    {"id": 9303,"text": ["misto"]}
   ],
   "mnemonic": [
-    "mnemonico"
+    {"id": 9304,"text": ["mnemonico"]}
   ],
   "moan": [
-    "gemito"
+    {"id": 9305,"text": ["gemito"]}
   ],
   "mobile": [
-    "cellulare"
+    {"id": 9306,"text": ["cellulare"]}
   ],
   "mobile phone": [
-    "telefono cellulare"
+    {"id": 9307,"text": ["telefono cellulare"]}
   ],
   "mobilisation": [
-    "mobilitazione"
+    {"id": 9308,"text": ["mobilitazione"]}
   ],
   "modal": [
-    "modale"
+    {"id": 9309,"text": ["modale"]}
   ],
   "mode": [
-    "modalità"
+    {"id": 9310,"text": ["modalità"]}
   ],
   "model": [
-    "modello"
+    {"id": 9311,"text": ["modello"]}
   ],
   "moderate": [
-    "moderare",
-    "moderato"
+    {"id": 9312,"text": ["moderare"]},
+    {"id": 9313,"text": ["moderato"]}
   ],
   "moderately": [
-    "moderatamente"
+    {"id": 9314,"text": ["moderatamente"]}
   ],
   "moderation": [
-    "moderazione"
+    {"id": 9315,"text": ["moderazione"]}
   ],
   "modern": [
-    "moderno"
+    {"id": 9316,"text": ["moderno"]}
   ],
   "modernisation": [
-    "ammodernamento",
-    "modernizzazione"
+    {"id": 9317,"text": ["ammodernamento"]},
+    {"id": 9318,"text": ["modernizzazione"]}
   ],
   "modernise": [
-    "modernizzare"
+    {"id": 9319,"text": ["modernizzare"]}
   ],
   "modernism": [
-    "modernismo"
+    {"id": 9320,"text": ["modernismo"]}
   ],
   "modernist": [
-    "modernista"
+    {"id": 9321,"text": ["modernista"]}
   ],
   "modernization": [
-    "modernizzazione"
+    {"id": 9322,"text": ["modernizzazione"]}
   ],
   "modernize": [
-    "modernizzare"
+    {"id": 9323,"text": ["modernizzare"]}
   ],
   "modest": [
-    "modesto"
+    {"id": 9324,"text": ["modesto"]}
   ],
   "modestly": [
-    "modestamente"
+    {"id": 9325,"text": ["modestamente"]}
   ],
   "modesty": [
-    "modestia"
+    {"id": 9326,"text": ["modestia"]}
   ],
   "modifiable": [
-    "modificabile"
+    {"id": 9327,"text": ["modificabile"]}
   ],
   "modification": [
-    "modifica",
-    "modificazione"
+    {"id": 9328,"text": ["modifica"]},
+    {"id": 9329,"text": ["modificazione"]}
   ],
   "modify": [
-    "modificare"
+    {"id": 9330,"text": ["modificare"]}
   ],
   "modular": [
-    "modulare"
+    {"id": 9331,"text": ["modulare"]}
   ],
   "modulate": [
-    "adattare"
+    {"id": 9332,"text": ["adattare"]}
   ],
   "modulation": [
-    "modulazione"
+    {"id": 9333,"text": ["modulazione"]}
   ],
   "module": [
-    "modulo"
+    {"id": 9334,"text": ["modulo"]}
   ],
   "moistening": [
-    "inumidificazione"
+    {"id": 9335,"text": ["inumidificazione"]}
   ],
   "molar": [
-    "molare"
+    {"id": 9336,"text": ["molare"]}
   ],
   "molasses": [
-    "melassa"
+    {"id": 9337,"text": ["melassa"]}
   ],
   "mold": [
-    "muffa",
-    "stampo"
+    {"id": 9338,"text": ["muffa"]},
+    {"id": 9339,"text": ["stampo"]}
   ],
   "Moldavian": [
-    "moldavo"
+    {"id": 9340,"text": ["moldavo"]}
   ],
   "Moldova": [
-    "Moldavia"
+    {"id": 9341,"text": ["Moldavia"]}
   ],
   "mole": [
-    "mole",
-    "neo",
-    "talpa"
+    {"id": 9342,"text": ["mole"]},
+    {"id": 9343,"text": ["neo"]},
+    {"id": 9344,"text": ["talpa"]}
   ],
   "molecular": [
-    "molecolare"
+    {"id": 9345,"text": ["molecolare"]}
   ],
   "molecule": [
-    "molecola"
+    {"id": 9346,"text": ["molecola"]}
   ],
   "mollusc": [
-    "mollusco"
+    {"id": 9347,"text": ["mollusco"]}
   ],
   "molybdenum": [
-    "molibdeno"
+    {"id": 9348,"text": ["molibdeno"]}
   ],
   "moment": [
-    "momento"
+    {"id": 9349,"text": ["momento"]}
   ],
   "momentarily": [
-    "momentaneamente"
+    {"id": 9350,"text": ["momentaneamente"]}
   ],
   "momentary": [
-    "momentaneo"
+    {"id": 9351,"text": ["momentaneo"]}
   ],
   "momentum": [
-    "momento",
-    "quantità di moto"
+    {"id": 9352,"text": ["momento"]},
+    {"id": 9353,"text": ["quantità di moto"]}
   ],
   "monarch": [
-    "monarca"
+    {"id": 9354,"text": ["monarca"]}
   ],
   "monarchic": [
-    "monarchico"
+    {"id": 9355,"text": ["monarchico"]}
   ],
   "monarchism": [
-    "monarchismo"
+    {"id": 9356,"text": ["monarchismo"]}
   ],
   "monarchy": [
-    "monarchia"
+    {"id": 9357,"text": ["monarchia"]}
   ],
   "monastery": [
-    "monastero"
+    {"id": 9358,"text": ["monastero"]}
   ],
   "monaural": [
-    "monofonico"
+    {"id": 9359,"text": ["monofonico"]}
   ],
   "monetarism": [
-    "monetarismo"
+    {"id": 9360,"text": ["monetarismo"]}
   ],
   "monetarist": [
-    "monetarista"
+    {"id": 9361,"text": ["monetarista"]}
   ],
   "monetaristic": [
-    "monetaristico"
+    {"id": 9362,"text": ["monetaristico"]}
   ],
   "monetary": [
-    "monetario"
+    {"id": 9363,"text": ["monetario"]}
   ],
   "money": [
-    "denaro",
-    "soldi"
+    {"id": 9364,"text": ["denaro"]},
+    {"id": 9365,"text": ["soldi"]}
   ],
   "monism": [
-    "monismo"
+    {"id": 9366,"text": ["monismo"]}
   ],
   "monitor": [
-    "controllare",
-    "monitorare",
-    "schermo"
+    {"id": 9367,"text": ["controllare"]},
+    {"id": 9368,"text": ["monitorare"]},
+    {"id": 9369,"text": ["schermo"]}
   ],
   "monitoring": [
-    "controllo"
+    {"id": 9370,"text": ["controllo"]}
   ],
   "monk": [
-    "monaco"
+    {"id": 9371,"text": ["monaco"]}
   ],
   "monkey": [
-    "scimmia"
+    {"id": 9372,"text": ["scimmia"]}
   ],
   "monochromatic": [
-    "monocromatico"
+    {"id": 9373,"text": ["monocromatico"]}
   ],
   "monochrome": [
-    "monocromo"
+    {"id": 9374,"text": ["monocromo"]}
   ],
   "monocle": [
-    "monocolo"
+    {"id": 9375,"text": ["monocolo"]}
   ],
   "monoclinic": [
-    "monoclinico"
+    {"id": 9376,"text": ["monoclinico"]}
   ],
   "monocyclic": [
-    "monociclico"
+    {"id": 9377,"text": ["monociclico"]}
   ],
   "monody": [
-    "monodia"
+    {"id": 9378,"text": ["monodia"]}
   ],
   "monogamy": [
-    "monogamia"
+    {"id": 9379,"text": ["monogamia"]}
   ],
   "monogram": [
-    "monogramma"
+    {"id": 9380,"text": ["monogramma"]}
   ],
   "monograph": [
-    "monografia"
+    {"id": 9381,"text": ["monografia"]}
   ],
   "monolingual": [
-    "monolingue"
+    {"id": 9382,"text": ["monolingue"]}
   ],
   "monolingualism": [
-    "monolinguismo"
+    {"id": 9383,"text": ["monolinguismo"]}
   ],
   "monolith": [
-    "monolito"
+    {"id": 9384,"text": ["monolito"]}
   ],
   "monolithic": [
-    "monolitico"
+    {"id": 9385,"text": ["monolitico"]}
   ],
   "monologue": [
-    "monologo"
+    {"id": 9386,"text": ["monologo"]}
   ],
   "monomer": [
-    "monomero"
+    {"id": 9387,"text": ["monomero"]}
   ],
   "monomial": [
-    "monomio"
+    {"id": 9388,"text": ["monomio"]}
   ],
   "monoploid": [
-    "monoploide"
+    {"id": 9389,"text": ["monoploide"]}
   ],
   "monopole": [
-    "monopolo"
+    {"id": 9390,"text": ["monopolo"]}
   ],
   "monopolise": [
-    "monopolizzare"
+    {"id": 9391,"text": ["monopolizzare"]}
   ],
   "monopolize": [
-    "monopolizzare"
+    {"id": 9392,"text": ["monopolizzare"]}
   ],
   "monopoly": [
-    "monopolio"
+    {"id": 9393,"text": ["monopolio"]}
   ],
   "monorail": [
-    "monorotaia"
+    {"id": 9394,"text": ["monorotaia"]}
   ],
   "monorchidism": [
-    "monorchidismo"
+    {"id": 9395,"text": ["monorchidismo"]}
   ],
   "monosemic": [
-    "monosemico"
+    {"id": 9396,"text": ["monosemico"]}
   ],
   "monosyllabic": [
-    "monosillabo"
+    {"id": 9397,"text": ["monosillabo"]}
   ],
   "monotheism": [
-    "monoteismo"
+    {"id": 9398,"text": ["monoteismo"]}
   ],
   "monotheistic": [
-    "monoteista"
+    {"id": 9399,"text": ["monoteista"]}
   ],
   "monotone": [
-    "monotono"
+    {"id": 9400,"text": ["monotono"]}
   ],
   "monotype": [
-    "monotipo"
+    {"id": 9401,"text": ["monotipo"]}
   ],
   "monoxide": [
-    "monossido"
+    {"id": 9402,"text": ["monossido"]}
   ],
   "Monsoon": [
-    "Monsone"
+    {"id": 9403,"text": ["Monsone"]}
   ],
   "monster": [
-    "mostro"
+    {"id": 9404,"text": ["mostro"]}
   ],
   "month": [
-    "mese"
+    {"id": 9405,"text": ["mese"]}
   ],
   "monthly": [
-    "mensile",
-    "mensilmente"
+    {"id": 9406,"text": ["mensile"]},
+    {"id": 9407,"text": ["mensilmente"]}
   ],
   "monument": [
-    "monumento"
+    {"id": 9408,"text": ["monumento"]}
   ],
   "monumental": [
-    "monumentale"
+    {"id": 9409,"text": ["monumentale"]}
   ],
   "monumentally": [
-    "estremamente"
+    {"id": 9410,"text": ["estremamente"]}
   ],
   "moo": [
-    "muggito"
+    {"id": 9411,"text": ["muggito"]}
   ],
   "mood": [
-    "umore"
+    {"id": 9412,"text": ["umore"]}
   ],
   "Moon": [
-    "Luna"
+    {"id": 9413,"text": ["Luna"]}
   ],
   "mop": [
-    "mocio",
-    "radazza"
+    {"id": 9414,"text": ["mocio"]},
+    {"id": 9415,"text": ["radazza"]}
   ],
   "moped": [
-    "ciclomotore"
+    {"id": 9416,"text": ["ciclomotore"]}
   ],
   "moral": [
-    "morale"
+    {"id": 9417,"text": ["morale"]}
   ],
   "morally": [
-    "moralmente"
+    {"id": 9418,"text": ["moralmente"]}
   ],
   "moratorium": [
-    "moratoria"
+    {"id": 9419,"text": ["moratoria"]}
   ],
   "more": [
-    "più"
+    {"id": 9420,"text": ["più"]}
   ],
   "moreover": [
-    "oltretutto"
+    {"id": 9421,"text": ["oltretutto"]}
   ],
   "morganatic": [
-    "morganatico"
+    {"id": 9422,"text": ["morganatico"]}
   ],
   "morning": [
-    "domani",
-    "mattina",
-    "mattutino"
+    {"id": 9423,"text": ["domani"]},
+    {"id": 9424,"text": ["mattina"]},
+    {"id": 9425,"text": ["mattutino"]}
   ],
   "moroccan": [
-    "marocchino"
+    {"id": 9426,"text": ["marocchino"]}
   ],
   "Morocco": [
-    "Marocco"
+    {"id": 9427,"text": ["Marocco"]}
   ],
   "morpheme": [
-    "morfema"
+    {"id": 9428,"text": ["morfema"]}
   ],
   "morphine": [
-    "morfina"
+    {"id": 9429,"text": ["morfina"]}
   ],
   "morphogenetic": [
-    "morfogenetico"
+    {"id": 9430,"text": ["morfogenetico"]}
   ],
   "morphological": [
-    "morfologico"
+    {"id": 9431,"text": ["morfologico"]}
   ],
   "morphologically": [
-    "morfologicamente"
+    {"id": 9432,"text": ["morfologicamente"]}
   ],
   "morphology": [
-    "morfologia"
+    {"id": 9433,"text": ["morfologia"]}
   ],
   "morphophonology": [
-    "morfofonologia"
+    {"id": 9434,"text": ["morfofonologia"]}
   ],
   "morphosyntactic": [
-    "morfosintattico"
+    {"id": 9435,"text": ["morfosintattico"]}
   ],
   "mortal": [
-    "mortale"
+    {"id": 9436,"text": ["mortale"]}
   ],
   "mortally": [
-    "mortalmente"
+    {"id": 9437,"text": ["mortalmente"]}
   ],
   "mortgage": [
-    "ipoteca",
-    "ipotecare"
+    {"id": 9438,"text": ["ipoteca"]},
+    {"id": 9439,"text": ["ipotecare"]}
   ],
   "mortify": [
-    "mortificare"
+    {"id": 9440,"text": ["mortificare"]}
   ],
   "mosaic": [
-    "mosaico"
+    {"id": 9441,"text": ["mosaico"]}
   ],
   "Moscow": [
-    "Mosca"
+    {"id": 9442,"text": ["Mosca"]}
   ],
   "mosque": [
-    "moschea"
+    {"id": 9443,"text": ["moschea"]}
   ],
   "mosquito": [
-    "zanzara"
+    {"id": 9444,"text": ["zanzara"]}
   ],
   "moss": [
-    "muschio"
+    {"id": 9445,"text": ["muschio"]}
   ],
   "most": [
-    "più"
+    {"id": 9446,"text": ["più"]}
   ],
   "motet": [
-    "mottetto"
+    {"id": 9447,"text": ["mottetto"]}
   ],
   "moth": [
-    "falena"
+    {"id": 9448,"text": ["falena"]}
   ],
   "mother": [
-    "madre"
+    {"id": 9449,"text": ["madre"]}
   ],
   "motion": [
-    "movimento",
-    "mozione"
+    {"id": 9450,"text": ["movimento"]},
+    {"id": 9451,"text": ["mozione"]}
   ],
   "motionless": [
-    "immobile"
+    {"id": 9452,"text": ["immobile"]}
   ],
   "motivate": [
-    "motivare"
+    {"id": 9453,"text": ["motivare"]}
   ],
   "motivation": [
-    "motivazione"
+    {"id": 9454,"text": ["motivazione"]}
   ],
   "motivational": [
-    "motivazionale"
+    {"id": 9455,"text": ["motivazionale"]}
   ],
   "motor": [
-    "motore"
+    {"id": 9456,"text": ["motore"]}
   ],
   "motorbike": [
-    "motocicletta"
+    {"id": 9457,"text": ["motocicletta"]}
   ],
   "motorcycle": [
-    "motocicletta"
+    {"id": 9458,"text": ["motocicletta"]}
   ],
   "motorcycling": [
-    "motociclismo"
+    {"id": 9459,"text": ["motociclismo"]}
   ],
   "motoring": [
-    "automobilismo"
+    {"id": 9460,"text": ["automobilismo"]}
   ],
   "motorisation": [
-    "motorizzazione"
+    {"id": 9461,"text": ["motorizzazione"]}
   ],
   "motorise": [
-    "motorizzare"
+    {"id": 9462,"text": ["motorizzare"]}
   ],
   "motorist": [
-    "automobilista"
+    {"id": 9463,"text": ["automobilista"]}
   ],
   "motorization": [
-    "motorizzazione"
+    {"id": 9464,"text": ["motorizzazione"]}
   ],
   "motorize": [
-    "motorizzare"
+    {"id": 9465,"text": ["motorizzare"]}
   ],
   "mould": [
-    "muffa",
-    "stampo"
+    {"id": 9466,"text": ["muffa"]},
+    {"id": 9467,"text": ["stampo"]}
   ],
   "mount": [
-    "montare"
+    {"id": 9468,"text": ["montare"]}
   ],
   "mountain": [
-    "montagna"
+    {"id": 9469,"text": ["montagna"]}
   ],
   "mountaineer": [
-    "alpinista",
-    "montanaro"
+    {"id": 9470,"text": ["alpinista"]},
+    {"id": 9471,"text": ["montanaro"]}
   ],
   "mountaineering": [
-    "alpinismo"
+    {"id": 9472,"text": ["alpinismo"]}
   ],
   "mountainous": [
-    "montagnoso"
+    {"id": 9473,"text": ["montagnoso"]}
   ],
   "mountainrange": [
-    "catenamontuosa"
+    {"id": 9474,"text": ["catenamontuosa"]}
   ],
   "mounting": [
-    "allestimento",
-    "montaggio",
-    "montatura"
+    {"id": 9475,"text": ["allestimento"]},
+    {"id": 9476,"text": ["montaggio"]},
+    {"id": 9477,"text": ["montatura"]}
   ],
   "mouse": [
-    "topo"
+    {"id": 9478,"text": ["topo"]}
   ],
   "moustache": [
-    "baffo"
+    {"id": 9479,"text": ["baffo"]}
   ],
   "mouth": [
-    "bocca",
-    "sbocco"
+    {"id": 9480,"text": ["bocca"]},
+    {"id": 9481,"text": ["sbocco"]}
   ],
   "movable": [
-    "movibile"
+    {"id": 9482,"text": ["movibile"]}
   ],
   "move": [
-    "mossa",
-    "muovere",
-    "spostare"
+    {"id": 9483,"text": ["mossa"]},
+    {"id": 9484,"text": ["muovere"]},
+    {"id": 9485,"text": ["spostare"]}
   ],
   "movement": [
-    "movimento"
+    {"id": 9486,"text": ["movimento"]}
   ],
   "movie": [
-    "film"
+    {"id": 9487,"text": ["film"]}
   ],
   "Mozambique": [
-    "Mozambico"
+    {"id": 9488,"text": ["Mozambico"]}
   ],
   "much": [
-    "molto"
+    {"id": 9489,"text": ["molto"]}
   ],
   "mucin": [
-    "mucina"
+    {"id": 9490,"text": ["mucina"]}
   ],
   "mucosa": [
-    "mucosa"
+    {"id": 9491,"text": ["mucosa"]}
   ],
   "mucous": [
-    "mucoso"
+    {"id": 9492,"text": ["mucoso"]}
   ],
   "mucus": [
-    "muco"
+    {"id": 9493,"text": ["muco"]}
   ],
   "mud": [
-    "ceramica",
-    "fango"
+    {"id": 9494,"text": ["ceramica"]},
+    {"id": 9495,"text": ["fango"]}
   ],
   "muddy": [
-    "fangoso",
-    "torbido"
+    {"id": 9496,"text": ["fangoso"]},
+    {"id": 9497,"text": ["torbido"]}
   ],
   "muffle": [
-    "smorzare"
+    {"id": 9498,"text": ["smorzare"]}
   ],
   "mulch": [
-    "pacciame"
+    {"id": 9499,"text": ["pacciame"]}
   ],
   "mule": [
-    "mulo"
+    {"id": 9500,"text": ["mulo"]}
   ],
   "multicultural": [
-    "multiculturale"
+    {"id": 9501,"text": ["multiculturale"]}
   ],
   "multilateral": [
-    "multilaterale"
+    {"id": 9502,"text": ["multilaterale"]}
   ],
   "multilingual": [
-    "multilingue"
+    {"id": 9503,"text": ["multilingue"]}
   ],
   "multilingualism": [
-    "multilinguismo"
+    {"id": 9504,"text": ["multilinguismo"]}
   ],
   "multimeter": [
-    "multimetro"
+    {"id": 9505,"text": ["multimetro"]}
   ],
   "multinational": [
-    "multinazionale"
+    {"id": 9506,"text": ["multinazionale"]}
   ],
   "multiple": [
-    "molteplice",
-    "multiplo"
+    {"id": 9507,"text": ["molteplice"]},
+    {"id": 9508,"text": ["multiplo"]}
   ],
   "multiplexer": [
-    "multiplexer"
+    {"id": 9509,"text": ["multiplexer"]}
   ],
   "multiplication": [
-    "moltiplicazione"
+    {"id": 9510,"text": ["moltiplicazione"]}
   ],
   "multiply": [
-    "moltiplicare"
+    {"id": 9511,"text": ["moltiplicare"]}
   ],
   "multiprocessor": [
-    "multiprocessore"
+    {"id": 9512,"text": ["multiprocessore"]}
   ],
   "multitude": [
-    "moltitudine"
+    {"id": 9513,"text": ["moltitudine"]}
   ],
   "multitudinous": [
-    "multitudinario"
+    {"id": 9514,"text": ["multitudinario"]}
   ],
   "multivitamin": [
-    "multivitaminico"
+    {"id": 9515,"text": ["multivitaminico"]}
   ],
   "mum": [
-    "mamma"
+    {"id": 9516,"text": ["mamma"]}
   ],
   "mumble": [
-    "borbottare",
-    "borbottio",
-    "farfugliare"
+    {"id": 9517,"text": ["borbottare"]},
+    {"id": 9518,"text": ["borbottio"]},
+    {"id": 9519,"text": ["farfugliare"]}
   ],
   "mumbling": [
-    "borbottio"
+    {"id": 9520,"text": ["borbottio"]}
   ],
   "mummification": [
-    "mummificazione"
+    {"id": 9521,"text": ["mummificazione"]}
   ],
   "mummy": [
-    "mamma",
-    "mummia"
+    {"id": 9522,"text": ["mamma"]},
+    {"id": 9523,"text": ["mummia"]}
   ],
   "mundane": [
-    "mondano"
+    {"id": 9524,"text": ["mondano"]}
   ],
   "Munich": [
-    "Monaco"
+    {"id": 9525,"text": ["Monaco"]}
   ],
   "municipal": [
-    "municipale"
+    {"id": 9526,"text": ["municipale"]}
   ],
   "muon": [
-    "muone"
+    {"id": 9527,"text": ["muone"]}
   ],
   "mural": [
-    "murale"
+    {"id": 9528,"text": ["murale"]}
   ],
   "murder": [
-    "assassinare",
-    "assassinio",
-    "omicidio",
-    "uccidere"
+    {"id": 9529,"text": ["assassinare"]},
+    {"id": 9530,"text": ["assassinio"]},
+    {"id": 9531,"text": ["omicidio"]},
+    {"id": 9532,"text": ["uccidere"]}
   ],
   "murderer": [
-    "assassino"
+    {"id": 9533,"text": ["assassino"]}
   ],
   "murmur": [
-    "mormorare",
-    "mormorio"
+    {"id": 9534,"text": ["mormorare"]},
+    {"id": 9535,"text": ["mormorio"]}
   ],
   "muscle": [
-    "muscolo"
+    {"id": 9536,"text": ["muscolo"]}
   ],
   "Muscovite": [
-    "moscovito"
+    {"id": 9537,"text": ["moscovito"]}
   ],
   "muscular": [
-    "muscolare"
+    {"id": 9538,"text": ["muscolare"]}
   ],
   "musculature": [
-    "muscolatura"
+    {"id": 9539,"text": ["muscolatura"]}
   ],
   "muse": [
-    "musa"
+    {"id": 9540,"text": ["musa"]}
   ],
   "museum": [
-    "museo"
+    {"id": 9541,"text": ["museo"]}
   ],
   "mushroom": [
-    "fungo"
+    {"id": 9542,"text": ["fungo"]}
   ],
   "music": [
-    "musica"
+    {"id": 9543,"text": ["musica"]}
   ],
   "musical": [
-    "musicale"
+    {"id": 9544,"text": ["musicale"]}
   ],
   "musically": [
-    "musicalmente"
+    {"id": 9545,"text": ["musicalmente"]}
   ],
   "musician": [
-    "musicista"
+    {"id": 9546,"text": ["musicista"]}
   ],
   "musicology": [
-    "musicologia"
+    {"id": 9547,"text": ["musicologia"]}
   ],
   "musk": [
-    "muschio"
+    {"id": 9548,"text": ["muschio"]}
   ],
   "muslim": [
-    "moro",
-    "mussulmano",
-    "musulmano"
+    {"id": 9549,"text": ["moro"]},
+    {"id": 9550,"text": ["mussulmano"]},
+    {"id": 9551,"text": ["musulmano"]}
   ],
   "mussel": [
-    "cozza"
+    {"id": 9552,"text": ["cozza"]}
   ],
   "must": [
-    "mosto"
+    {"id": 9553,"text": ["mosto"]}
   ],
   "mutant": [
-    "mutante"
+    {"id": 9554,"text": ["mutante"]}
   ],
   "mutate": [
-    "mutare"
+    {"id": 9555,"text": ["mutare"]}
   ],
   "mutation": [
-    "mutazione"
+    {"id": 9556,"text": ["mutazione"]}
   ],
   "mute": [
-    "muto"
+    {"id": 9557,"text": ["muto"]}
   ],
   "mutilation": [
-    "mutilazione"
+    {"id": 9558,"text": ["mutilazione"]}
   ],
   "mutiny": [
-    "ammutinamento"
+    {"id": 9559,"text": ["ammutinamento"]}
   ],
   "mutter": [
-    "mormorare"
+    {"id": 9560,"text": ["mormorare"]}
   ],
   "mutual": [
-    "mutuo"
+    {"id": 9561,"text": ["mutuo"]}
   ],
   "mutualism": [
-    "mutualismo"
+    {"id": 9562,"text": ["mutualismo"]}
   ],
   "mutualist": [
-    "mutualista"
+    {"id": 9563,"text": ["mutualista"]}
   ],
   "mutualistic": [
-    "mutualista"
+    {"id": 9564,"text": ["mutualista"]}
   ],
   "mutually": [
-    "mutuamente"
+    {"id": 9565,"text": ["mutuamente"]}
   ],
   "muzzle": [
-    "museruola"
+    {"id": 9566,"text": ["museruola"]}
   ],
   "my": [
-    "mia",
-    "mie",
-    "miei",
-    "mio"
+    {"id": 9567,"text": ["mia"]},
+    {"id": 9568,"text": ["mie"]},
+    {"id": 9569,"text": ["miei"]},
+    {"id": 9570,"text": ["mio"]}
   ],
   "myalgia": [
-    "mialgia"
+    {"id": 9571,"text": ["mialgia"]}
   ],
   "myocardium": [
-    "miocardio"
+    {"id": 9572,"text": ["miocardio"]}
   ],
   "myoglobin": [
-    "mioglobina"
+    {"id": 9573,"text": ["mioglobina"]}
   ],
   "myopathy": [
-    "miopatia"
+    {"id": 9574,"text": ["miopatia"]}
   ],
   "myopia": [
-    "miopia"
+    {"id": 9575,"text": ["miopia"]}
   ],
   "myrrh": [
-    "mirra"
+    {"id": 9576,"text": ["mirra"]}
   ],
   "myrtle": [
-    "mirto"
+    {"id": 9577,"text": ["mirto"]}
   ],
   "myself": [
-    "me stesso"
+    {"id": 9578,"text": ["me stesso"]}
   ],
   "mysterious": [
-    "misterioso"
+    {"id": 9579,"text": ["misterioso"]}
   ],
   "mysteriously": [
-    "misteriosamente"
+    {"id": 9580,"text": ["misteriosamente"]}
   ],
   "mystery": [
-    "indovinello"
+    {"id": 9581,"text": ["indovinello"]}
   ],
   "mystic": [
-    "mistico"
+    {"id": 9582,"text": ["mistico"]}
   ],
   "mysticism": [
-    "misticismo"
+    {"id": 9583,"text": ["misticismo"]}
   ],
   "myth": [
-    "mito"
+    {"id": 9584,"text": ["mito"]}
   ],
   "mythical": [
-    "mitico"
+    {"id": 9585,"text": ["mitico"]}
   ],
   "mythological": [
-    "mitologico"
+    {"id": 9586,"text": ["mitologico"]}
   ],
   "mythology": [
-    "mitologia"
+    {"id": 9587,"text": ["mitologia"]}
   ],
   "myxedema": [
-    "mixedema"
+    {"id": 9588,"text": ["mixedema"]}
   ],
   "myxoma": [
-    "mixoma"
+    {"id": 9589,"text": ["mixoma"]}
   ]
 }

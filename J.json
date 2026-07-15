@@ -1,271 +1,271 @@
 {
   "jackal": [
-    "sciacallo"
+    {"id": 8103,"text": ["sciacallo"]}
   ],
   "jacket": [
-    "giacca"
+    {"id": 8104,"text": ["giacca"]}
   ],
   "jacobinism": [
-    "giacobinismo"
+    {"id": 8105,"text": ["giacobinismo"]}
   ],
   "jacobite": [
-    "giacobita"
+    {"id": 8106,"text": ["giacobita"]}
   ],
   "jade": [
-    "giada"
+    {"id": 8107,"text": ["giada"]}
   ],
   "jaguar": [
-    "giaguaro"
+    {"id": 8108,"text": ["giaguaro"]}
   ],
   "jail": [
-    "galera",
-    "prigione"
+    {"id": 8109,"text": ["galera"]},
+    {"id": 8110,"text": ["prigione"]}
   ],
   "Jakarta": [
-    "Giacarta"
+    {"id": 8111,"text": ["Giacarta"]}
   ],
   "jam": [
-    "marmellata"
+    {"id": 8112,"text": ["marmellata"]}
   ],
   "Jamaica": [
-    "Giamaica"
+    {"id": 8113,"text": ["Giamaica"]}
   ],
   "Jamaican": [
-    "giamaicano"
+    {"id": 8114,"text": ["giamaicano"]}
   ],
   "January": [
-    "gennaio"
+    {"id": 8115,"text": ["gennaio"]}
   ],
   "Japan": [
-    "Giappone"
+    {"id": 8116,"text": ["Giappone"]}
   ],
   "Japanese": [
-    "giapponese"
+    {"id": 8117,"text": ["giapponese"]}
   ],
   "jar": [
-    "giara",
-    "vaso",
-    "barattolo"
+    {"id": 8118,"text": ["giara"]},
+    {"id": 8119,"text": ["vaso"]},
+    {"id": 8120,"text": ["barattolo"]}
   ],
   "jasmine": [
-    "gelsomino"
+    {"id": 8121,"text": ["gelsomino"]}
   ],
   "jasper": [
-    "diaspro"
+    {"id": 8122,"text": ["diaspro"]}
   ],
   "jaundice": [
-    "ittero"
+    {"id": 8123,"text": ["ittero"]}
   ],
   "javelin": [
-    "giavellotto"
+    {"id": 8124,"text": ["giavellotto"]}
   ],
   "jay": [
-    "ghiandaia"
+    {"id": 8125,"text": ["ghiandaia"]}
   ],
   "jealous": [
-    "geloso"
+    {"id": 8126,"text": ["geloso"]}
   ],
   "jealously": [
-    "gelosamente"
+    {"id": 8127,"text": ["gelosamente"]}
   ],
   "jealousy": [
-    "gelosia"
+    {"id": 8128,"text": ["gelosia"]}
   ],
   "Jehovah": [
-    "Geova"
+    {"id": 8129,"text": ["Geova"]}
   ],
   "jelly": [
-    "gelatina"
+    {"id": 8130,"text": ["gelatina"]}
   ],
   "jellyfish": [
-    "medusa"
+    {"id": 8131,"text": ["medusa"]}
   ],
   "jersey": [
-    "maglia"
+    {"id": 8132,"text": ["maglia"]}
   ],
   "Jerusalem": [
-    "Gerusalemme"
+    {"id": 8133,"text": ["Gerusalemme"]}
   ],
   "jest": [
-    "scherzo"
+    {"id": 8134,"text": ["scherzo"]}
   ],
   "jester": [
-    "giullare"
+    {"id": 8135,"text": ["giullare"]}
   ],
   "Jesus": [
-    "Gesù"
+    {"id": 8136,"text": ["Gesù"]}
   ],
   "Jew": [
-    "ebreo"
+    {"id": 8137,"text": ["ebreo"]}
   ],
   "jewel": [
-    "gioiello"
+    {"id": 8138,"text": ["gioiello"]}
   ],
   "jewelery": [
-    "gioielleria",
-    "gioiello"
+    {"id": 8139,"text": ["gioielleria"]},
+    {"id": 8140,"text": ["gioiello"]}
   ],
   "jewellery": [
-    "gioielleria",
-    "gioiello"
+    {"id": 8141,"text": ["gioielleria"]},
+    {"id": 8142,"text": ["gioiello"]}
   ],
   "Jewish": [
-    "ebraico",
-    "ebreo"
+    {"id": 8143,"text": ["ebraico"]},
+    {"id": 8144,"text": ["ebreo"]}
   ],
   "jingle": [
-    "tintinnare",
-    "tintinnio"
+    {"id": 8145,"text": ["tintinnare"]},
+    {"id": 8146,"text": ["tintinnio"]}
   ],
   "job": [
-    "lavoro"
+    {"id": 8147,"text": ["lavoro"]}
   ],
   "join": [
-    "unire"
+    {"id": 8148,"text": ["unire"]}
   ],
   "joint": [
-    "articolazione",
-    "giuntura"
+    {"id": 8149,"text": ["articolazione"]},
+    {"id": 8150,"text": ["giuntura"]}
   ],
   "jointly": [
-    "congiuntamente"
+    {"id": 8151,"text": ["congiuntamente"]}
   ],
   "joke": [
-    "barzelletta",
-    "scherzo"
+    {"id": 8152,"text": ["barzelletta"]},
+    {"id": 8153,"text": ["scherzo"]}
   ],
   "joker": [
-    "burlone",
-    "jolly"
+    {"id": 8154,"text": ["burlone"]},
+    {"id": 8155,"text": ["jolly"]}
   ],
   "jokingly": [
-    "scherzosamente"
+    {"id": 8156,"text": ["scherzosamente"]}
   ],
   "Jordan": [
-    "Giordania"
+    {"id": 8157,"text": ["Giordania"]}
   ],
   "Jordanian": [
-    "giordano"
+    {"id": 8158,"text": ["giordano"]}
   ],
   "journal": [
-    "diario",
-    "rivista"
+    {"id": 8159,"text": ["diario"]},
+    {"id": 8160,"text": ["rivista"]}
   ],
   "journalism": [
-    "giornalismo"
+    {"id": 8161,"text": ["giornalismo"]}
   ],
   "journalist": [
-    "giornalista"
+    {"id": 8162,"text": ["giornalista"]}
   ],
   "journalistic": [
-    "giornalistico"
+    {"id": 8163,"text": ["giornalistico"]}
   ],
   "journey": [
-    "viaggio"
+    {"id": 8164,"text": ["viaggio"]}
   ],
   "jovial": [
-    "gioviale"
+    {"id": 8165,"text": ["gioviale"]}
   ],
   "joy": [
-    "gioia"
+    {"id": 8166,"text": ["gioia"]}
   ],
   "judaic": [
-    "giudaico"
+    {"id": 8167,"text": ["giudaico"]}
   ],
   "judaism": [
-    "ebraismo"
+    {"id": 8168,"text": ["ebraismo"]}
   ],
   "judge": [
-    "giudicare",
-    "giudice"
+    {"id": 8169,"text": ["giudicare"]},
+    {"id": 8170,"text": ["giudice"]}
   ],
   "judgement": [
-    "giudizio",
-    "sentenza"
+    {"id": 8171,"text": ["giudizio"]},
+    {"id": 8172,"text": ["sentenza"]}
   ],
   "judicial": [
-    "giudiziario"
+    {"id": 8173,"text": ["giudiziario"]}
   ],
   "judicially": [
-    "giudiziariamente"
+    {"id": 8174,"text": ["giudiziariamente"]}
   ],
   "jug": [
-    "brocca"
+    {"id": 8175,"text": ["brocca"]}
   ],
   "juice": [
-    "succo"
+    {"id": 8176,"text": ["succo"]}
   ],
   "July": [
-    "luglio"
+    {"id": 8177,"text": ["luglio"]}
   ],
   "jump": [
-    "saltare",
-    "salto"
+    {"id": 8178,"text": ["saltare"]},
+    {"id": 8179,"text": ["salto"]}
   ],
   "jumper": [
-    "maglione"
+    {"id": 8180,"text": ["maglione"]}
   ],
   "junction": [
-    "incrocio"
+    {"id": 8181,"text": ["incrocio"]}
   ],
   "June": [
-    "giugno"
+    {"id": 8182,"text": ["giugno"]}
   ],
   "jungle": [
-    "giungla"
+    {"id": 8183,"text": ["giungla"]}
   ],
   "junior": [
-    "giovane"
+    {"id": 8184,"text": ["giovane"]}
   ],
   "Jupiter": [
-    "Giove"
+    {"id": 8185,"text": ["Giove"]}
   ],
   "juridical": [
-    "giuridico"
+    {"id": 8186,"text": ["giuridico"]}
   ],
   "juridically": [
-    "giuridicamente"
+    {"id": 8187,"text": ["giuridicamente"]}
   ],
   "jurisdiction": [
-    "giurisdizione"
+    {"id": 8188,"text": ["giurisdizione"]}
   ],
   "jurisprudence": [
-    "giurisprudenza"
+    {"id": 8189,"text": ["giurisprudenza"]}
   ],
   "jurist": [
-    "giurista"
+    {"id": 8190,"text": ["giurista"]}
   ],
   "jury": [
-    "giuria"
+    {"id": 8191,"text": ["giuria"]}
   ],
   "just": [
-    "appena",
-    "esattamente",
-    "giusto",
-    "soltanto"
+    {"id": 8192,"text": ["appena"]},
+    {"id": 8193,"text": ["esattamente"]},
+    {"id": 8194,"text": ["giusto"]},
+    {"id": 8195,"text": ["soltanto"]}
   ],
   "justice": [
-    "giustizia"
+    {"id": 8196,"text": ["giustizia"]}
   ],
   "justifiable": [
-    "giustificabile"
+    {"id": 8197,"text": ["giustificabile"]}
   ],
   "justification": [
-    "giustificazione"
+    {"id": 8198,"text": ["giustificazione"]}
   ],
   "justify": [
-    "giustificare"
+    {"id": 8199,"text": ["giustificare"]}
   ],
   "jute": [
-    "iuta"
+    {"id": 8200,"text": ["iuta"]}
   ],
   "juvenile": [
-    "giovanile"
+    {"id": 8201,"text": ["giovanile"]}
   ],
   "juxtapose": [
-    "giustapporre"
+    {"id": 8202,"text": ["giustapporre"]}
   ],
   "juxtaposition": [
-    "giustapposizione"
+    {"id": 8203,"text": ["giustapposizione"]}
   ]
 }

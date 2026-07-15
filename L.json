@@ -1,1205 +1,1205 @@
 {
   "lab": [
-    "laboratorio"
+    {"id": 8266,"text": ["laboratorio"]}
   ],
   "label": [
-    "etichetta",
-    "etichettare"
+    {"id": 8267,"text": ["etichetta"]},
+    {"id": 8268,"text": ["etichettare"]}
   ],
   "labeling": [
-    "etichettatura"
+    {"id": 8269,"text": ["etichettatura"]}
   ],
   "labelling": [
-    "etichettatura"
+    {"id": 8270,"text": ["etichettatura"]}
   ],
   "labial": [
-    "labiale"
+    {"id": 8271,"text": ["labiale"]}
   ],
   "labiodental": [
-    "labiodentale"
+    {"id": 8272,"text": ["labiodentale"]}
   ],
   "laboratory": [
-    "laboratorio"
+    {"id": 8273,"text": ["laboratorio"]}
   ],
   "laboriously": [
-    "faticosamente",
-    "laboriosamente"
+    {"id": 8274,"text": ["faticosamente"]},
+    {"id": 8275,"text": ["laboriosamente"]}
   ],
   "labour": [
-    "lavorativo",
-    "lavoro"
+    {"id": 8276,"text": ["lavorativo"]},
+    {"id": 8277,"text": ["lavoro"]}
   ],
   "labyrinth": [
-    "labirinto"
+    {"id": 8278,"text": ["labirinto"]}
   ],
   "lace": [
-    "laccio",
-    "merletto"
+    {"id": 8279,"text": ["laccio"]},
+    {"id": 8280,"text": ["merletto"]}
   ],
   "lack": [
-    "carenza",
-    "mancare"
+    {"id": 8281,"text": ["carenza"]},
+    {"id": 8282,"text": ["mancare"]}
   ],
   "lacking": [
-    "carente"
+    {"id": 8283,"text": ["carente"]}
   ],
   "lacquer": [
-    "laccare"
+    {"id": 8284,"text": ["laccare"]}
   ],
   "lacrimal": [
-    "lacrimale"
+    {"id": 8285,"text": ["lacrimale"]}
   ],
   "lactose": [
-    "lattosio"
+    {"id": 8286,"text": ["lattosio"]}
   ],
   "lacustrine": [
-    "lacustre"
+    {"id": 8287,"text": ["lacustre"]}
   ],
   "ladle": [
-    "mestolo"
+    {"id": 8288,"text": ["mestolo"]}
   ],
   "lady": [
-    "dama",
-    "signora"
+    {"id": 8289,"text": ["dama"]},
+    {"id": 8290,"text": ["signora"]}
   ],
   "ladybug": [
-    "coccinella"
+    {"id": 8291,"text": ["coccinella"]}
   ],
   "lagoon": [
-    "laguna"
+    {"id": 8292,"text": ["laguna"]}
   ],
   "laicism": [
-    "laicismo"
+    {"id": 8293,"text": ["laicismo"]}
   ],
   "lake": [
-    "lago"
+    {"id": 8294,"text": ["lago"]}
   ],
   "lamb": [
-    "agnello"
+    {"id": 8295,"text": ["agnello"]}
   ],
   "lamentably": [
-    "lamentevolmente"
+    {"id": 8296,"text": ["lamentevolmente"]}
   ],
   "lamp": [
-    "lampada"
+    {"id": 8297,"text": ["lampada"]}
   ],
-  "lamppost":[
-    "lampione"
+  "lamppost": [
+    {"id": 8298,"text": ["lampione"]}
   ],
   "Lancelot": [
-    "Lancillotto"
+    {"id": 8299,"text": ["Lancillotto"]}
   ],
   "land": [
-    "atterrare",
-    "terra"
+    {"id": 8300,"text": ["atterrare"]},
+    {"id": 8301,"text": ["terra"]}
   ],
   "landing": [
-    "atterraggio"
+    {"id": 8302,"text": ["atterraggio"]}
   ],
   "landlord": [
-    "proprietario"
+    {"id": 8303,"text": ["proprietario"]}
   ],
   "landscape": [
-    "paesaggio"
+    {"id": 8304,"text": ["paesaggio"]}
   ],
   "landslide": [
-    "frana"
+    {"id": 8305,"text": ["frana"]}
   ],
   "lane": [
-    "strada",
-    "via"
+    {"id": 8306,"text": ["strada"]},
+    {"id": 8307,"text": ["via"]}
   ],
   "language": [
-    "lingua",
-    "linguaggio"
+    {"id": 8308,"text": ["lingua"]},
+    {"id": 8309,"text": ["linguaggio"]}
   ],
   "lantern": [
-    "lanterna"
+    {"id": 8310,"text": ["lanterna"]}
   ],
   "laparoscopy": [
-    "laparoscopia"
+    {"id": 8311,"text": ["laparoscopia"]}
   ],
   "laparotomy": [
-    "laparotomia"
+    {"id": 8312,"text": ["laparotomia"]}
   ],
   "lapidation": [
-    "lapidazione"
+    {"id": 8313,"text": ["lapidazione"]}
   ],
   "laptop": [
-    "laptop"
+    {"id": 8314,"text": ["laptop"]}
   ],
   "lard": [
-    "strutto"
+    {"id": 8315,"text": ["strutto"]}
   ],
   "large": [
-    "grande"
+    {"id": 8316,"text": ["grande"]}
   ],
   "largely": [
-    "grandemente"
+    {"id": 8317,"text": ["grandemente"]}
   ],
   "lark": [
-    "allodola"
+    {"id": 8318,"text": ["allodola"]}
   ],
   "larva": [
-    "larva"
+    {"id": 8319,"text": ["larva"]}
   ],
   "last": [
-    "durare",
-    "ultimo"
+    {"id": 8320,"text": ["durare"]},
+    {"id": 8321,"text": ["ultimo"]}
   ],
   "lasting": [
-    "duraturo"
+    {"id": 8322,"text": ["duraturo"]}
   ],
   "lastly": [
-    "infine"
+    {"id": 8323,"text": ["infine"]}
   ],
   "lastnight": [
-    "lanottescorsa"
+    {"id": 8324,"text": ["lanottescorsa"]}
   ],
   "late": [
-    "in ritardo",
-    "tardivo"
+    {"id": 8325,"text": ["in ritardo"]},
+    {"id": 8326,"text": ["tardivo"]}
   ],
   "lately": [
-    "ultimamente"
+    {"id": 8327,"text": ["ultimamente"]}
   ],
   "latent": [
-    "latente"
+    {"id": 8328,"text": ["latente"]}
   ],
   "later": [
-    "posteriormente"
+    {"id": 8329,"text": ["posteriormente"]}
   ],
   "lateral": [
-    "laterale"
+    {"id": 8330,"text": ["laterale"]}
   ],
   "laterally": [
-    "lateralmente"
+    {"id": 8331,"text": ["lateralmente"]}
   ],
   "lathe": [
-    "tornio"
+    {"id": 8332,"text": ["tornio"]}
   ],
   "latifundium": [
-    "latifondo"
+    {"id": 8333,"text": ["latifondo"]}
   ],
   "Latin": [
-    "latino"
+    {"id": 8334,"text": ["latino"]}
   ],
   "latinisation": [
-    "latinizzazione"
+    {"id": 8335,"text": ["latinizzazione"]}
   ],
   "latinization": [
-    "latinizzazione"
+    {"id": 8336,"text": ["latinizzazione"]}
   ],
   "latitude": [
-    "latitudine"
+    {"id": 8337,"text": ["latitudine"]}
   ],
   "latrine": [
-    "latrina"
+    {"id": 8338,"text": ["latrina"]}
   ],
   "latter": [
-    "ultimo"
+    {"id": 8339,"text": ["ultimo"]}
   ],
   "lattice": [
-    "reticolo"
+    {"id": 8340,"text": ["reticolo"]}
   ],
   "Latvia": [
-    "Lettonia"
+    {"id": 8341,"text": ["Lettonia"]}
   ],
   "Latvian": [
-    "lettone"
+    {"id": 8342,"text": ["lettone"]}
   ],
   "laugh": [
-    "ridere",
-    "risata"
+    {"id": 8343,"text": ["ridere"]},
+    {"id": 8344,"text": ["risata"]}
   ],
   "laughing stock": [
-    "zimbello"
+    {"id": 8345,"text": ["zimbello"]}
   ],
   "laughter": [
-    "risata"
+    {"id": 8346,"text": ["risata"]}
   ],
   "launch": [
-    "lanciare",
-    "lancio"
+    {"id": 8347,"text": ["lanciare"]},
+    {"id": 8348,"text": ["lancio"]}
   ],
   "laundry": [
-    "lavanderia"
+    {"id": 8349,"text": ["lavanderia"]}
   ],
   "laurel": [
-    "alloro"
+    {"id": 8350,"text": ["alloro"]}
   ],
   "lava": [
-    "lava"
+    {"id": 8351,"text": ["lava"]}
   ],
   "lavender": [
-    "lavanda"
+    {"id": 8352,"text": ["lavanda"]}
   ],
   "law": [
-    "diritto",
-    "giurispurudenza",
-    "legge"
+    {"id": 8353,"text": ["diritto"]},
+    {"id": 8354,"text": ["giurispurudenza"]},
+    {"id": 8355,"text": ["legge"]}
   ],
   "lawful": [
-    "lecito",
-    "legale",
-    "legittimo"
+    {"id": 8356,"text": ["lecito"]},
+    {"id": 8357,"text": ["legale"]},
+    {"id": 8358,"text": ["legittimo"]}
   ],
   "lawless": [
-    "anarchico",
-    "illecito",
-    "illegale",
-    "illegittimo"
+    {"id": 8359,"text": ["anarchico"]},
+    {"id": 8360,"text": ["illecito"]},
+    {"id": 8361,"text": ["illegale"]},
+    {"id": 8362,"text": ["illegittimo"]}
   ],
   "lawn": [
-    "prato"
+    {"id": 8363,"text": ["prato"]}
   ],
   "lawyer": [
-    "avvocato"
+    {"id": 8364,"text": ["avvocato"]}
   ],
   "lay": [
-    "mettere",
-    "stendere"
+    {"id": 8365,"text": ["mettere"]},
+    {"id": 8366,"text": ["stendere"]}
   ],
   "layer": [
-    "strato"
+    {"id": 8367,"text": ["strato"]}
   ],
   "layout": [
-    "impaginazione",
-    "disposizione"
+    {"id": 8368,"text": ["impaginazione"]},
+    {"id": 8369,"text": ["disposizione"]}
   ],
   "lazy": [
-    "pigro"
+    {"id": 8370,"text": ["pigro"]}
   ],
   "lead": [
-    "direzione",
-    "dirigere",
-    "piombo"
+    {"id": 8371,"text": ["direzione"]},
+    {"id": 8372,"text": ["dirigere"]},
+    {"id": 8373,"text": ["piombo"]}
   ],
   "leader": [
-    "capo",
-    "dirigente",
-    "guida",
-    "leader"
+    {"id": 8374,"text": ["capo"]},
+    {"id": 8375,"text": ["dirigente"]},
+    {"id": 8376,"text": ["guida"]},
+    {"id": 8377,"text": ["leader"]}
   ],
   "leadership": [
-    "direzione"
+    {"id": 8378,"text": ["direzione"]}
   ],
   "leading": [
-    "principale",
-    "protagonista"
+    {"id": 8379,"text": ["principale"]},
+    {"id": 8380,"text": ["protagonista"]}
   ],
   "leaf": [
-    "foglia"
+    {"id": 8381,"text": ["foglia"]}
   ],
   "league": [
-    "lega"
+    {"id": 8382,"text": ["lega"]}
   ],
   "leak": [
-    "colare",
-    "filtrare",
-    "filtrazione",
-    "perdere",
-    "perdita"
+    {"id": 8383,"text": ["colare"]},
+    {"id": 8384,"text": ["filtrare"]},
+    {"id": 8385,"text": ["filtrazione"]},
+    {"id": 8386,"text": ["perdere"]},
+    {"id": 8387,"text": ["perdita"]}
   ],
   "lean": [
-    "addossare",
-    "appoggiare",
-    "magro"
+    {"id": 8388,"text": ["addossare"]},
+    {"id": 8389,"text": ["appoggiare"]},
+    {"id": 8390,"text": ["magro"]}
   ],
   "leap": [
-    "bisestile",
-    "saltare",
-    "salto"
+    {"id": 8391,"text": ["bisestile"]},
+    {"id": 8392,"text": ["saltare"]},
+    {"id": 8393,"text": ["salto"]}
   ],
   "learn": [
-    "apprendere",
-    "imparare"
+    {"id": 8394,"text": ["apprendere"]},
+    {"id": 8395,"text": ["imparare"]}
   ],
   "learning": [
-    "apprendimento"
+    {"id": 8396,"text": ["apprendimento"]}
   ],
   "lease": [
-    "affittare",
-    "locazione"
+    {"id": 8397,"text": ["affittare"]},
+    {"id": 8398,"text": ["locazione"]}
   ],
   "leash": [
-    "guinzaglio"
+    {"id": 8399,"text": ["guinzaglio"]}
   ],
   "least": [
-    "meno"
+    {"id": 8400,"text": ["meno"]}
   ],
   "leather": [
-    "pelle"
+    {"id": 8401,"text": ["pelle"]}
   ],
   "leave": [
-    "congedo",
-    "lasciare",
-    "partire"
+    {"id": 8402,"text": ["congedo"]},
+    {"id": 8403,"text": ["lasciare"]},
+    {"id": 8404,"text": ["partire"]}
   ],
   "leaveaside": [
-    "prescindere"
+    {"id": 8405,"text": ["prescindere"]}
   ],
   "Lebanese": [
-    "libanese"
+    {"id": 8406,"text": ["libanese"]}
   ],
   "Lebanon": [
-    "Libano"
+    {"id": 8407,"text": ["Libano"]}
   ],
   "lecture": [
-    "conferenza"
+    {"id": 8408,"text": ["conferenza"]}
   ],
   "leech": [
-    "sanguisuga"
+    {"id": 8409,"text": ["sanguisuga"]}
   ],
   "leek": [
-    "porro"
+    {"id": 8410,"text": ["porro"]}
   ],
   "left": [
-    "rimasto",
-    "sinistra",
-    "sinistro"
+    {"id": 8411,"text": ["rimasto"]},
+    {"id": 8412,"text": ["sinistra"]},
+    {"id": 8413,"text": ["sinistro"]}
   ],
   "left-handed": [
-    "mancino"
+    {"id": 8414,"text": ["mancino"]}
   ],
   "lefthand": [
-    "sinistro"
+    {"id": 8415,"text": ["sinistro"]}
   ],
   "leftover": [
-    "residuo"
+    {"id": 8416,"text": ["residuo"]}
   ],
   "leg": [
-    "gamba"
+    {"id": 8417,"text": ["gamba"]}
   ],
   "legal": [
-    "legale"
+    {"id": 8418,"text": ["legale"]}
   ],
   "legalisation": [
-    "legalizzazione"
+    {"id": 8419,"text": ["legalizzazione"]}
   ],
   "legalise": [
-    "legalizzare"
+    {"id": 8420,"text": ["legalizzare"]}
   ],
   "legalism": [
-    "legalismo"
+    {"id": 8421,"text": ["legalismo"]}
   ],
   "legalization": [
-    "legalizzazione"
+    {"id": 8422,"text": ["legalizzazione"]}
   ],
   "legalize": [
-    "legalizzare"
+    {"id": 8423,"text": ["legalizzare"]}
   ],
   "legally": [
-    "legalmente"
+    {"id": 8424,"text": ["legalmente"]}
   ],
   "legation": [
-    "legazione"
+    {"id": 8425,"text": ["legazione"]}
   ],
   "legend": [
-    "legenda",
-    "leggenda"
+    {"id": 8426,"text": ["legenda"]},
+    {"id": 8427,"text": ["leggenda"]}
   ],
   "legion": [
-    "legione"
+    {"id": 8428,"text": ["legione"]}
   ],
   "legionary": [
-    "legionario"
+    {"id": 8429,"text": ["legionario"]}
   ],
   "legislation": [
-    "legislazione"
+    {"id": 8430,"text": ["legislazione"]}
   ],
   "legislative": [
-    "legislativo"
+    {"id": 8431,"text": ["legislativo"]}
   ],
   "legislator": [
-    "legislatore"
+    {"id": 8432,"text": ["legislatore"]}
   ],
   "legislature": [
-    "legislatura"
+    {"id": 8433,"text": ["legislatura"]}
   ],
   "legitimacy": [
-    "legittimazione"
+    {"id": 8434,"text": ["legittimazione"]}
   ],
   "legitimate": [
-    "legittimare",
-    "legittimo"
+    {"id": 8435,"text": ["legittimare"]},
+    {"id": 8436,"text": ["legittimo"]}
   ],
   "legitimately": [
-    "legittimamente"
+    {"id": 8437,"text": ["legittimamente"]}
   ],
   "leisure": [
-    "ozio"
+    {"id": 8438,"text": ["ozio"]}
   ],
   "lemon": [
-    "limone"
+    {"id": 8439,"text": ["limone"]}
   ],
   "lemonade": [
-    "limonata"
+    {"id": 8440,"text": ["limonata"]}
   ],
   "lend": [
-    "lasciare"
+    {"id": 8441,"text": ["lasciare"]}
   ],
   "length": [
-    "durata",
-    "lunghezza"
+    {"id": 8442,"text": ["durata"]},
+    {"id": 8443,"text": ["lunghezza"]}
   ],
   "lengthy": [
-    "lungo"
+    {"id": 8444,"text": ["lungo"]}
   ],
   "leninism": [
-    "leninismo"
+    {"id": 8445,"text": ["leninismo"]}
   ],
   "leninist": [
-    "leninista"
+    {"id": 8446,"text": ["leninista"]}
   ],
   "lens": [
-    "lente"
+    {"id": 8447,"text": ["lente"]}
   ],
   "Lent": [
-    "Quaresima"
+    {"id": 8448,"text": ["Quaresima"]}
   ],
   "lentil": [
-    "lenticchia"
+    {"id": 8449,"text": ["lenticchia"]}
   ],
   "leo": [
-    "leone"
+    {"id": 8450,"text": ["leone"]}
   ],
   "leopard": [
-    "leopardo"
+    {"id": 8451,"text": ["leopardo"]}
   ],
   "leprosy": [
-    "lebbra"
+    {"id": 8452,"text": ["lebbra"]}
   ],
   "lesbian": [
-    "lesbica"
+    {"id": 8453,"text": ["lesbica"]}
   ],
   "lesbianism": [
-    "lesbismo"
+    {"id": 8454,"text": ["lesbismo"]}
   ],
   "less": [
-    "dimeno",
-    "meno"
+    {"id": 8455,"text": ["dimeno"]},
+    {"id": 8456,"text": ["meno"]}
   ],
   "lesser": [
-    "minore"
+    {"id": 8457,"text": ["minore"]}
   ],
   "lesson": [
-    "lezione"
+    {"id": 8458,"text": ["lezione"]}
   ],
   "let": [
-    "lasciare"
+    {"id": 8459,"text": ["lasciare"]}
   ],
   "lethal": [
-    "letale"
+    {"id": 8460,"text": ["letale"]}
   ],
   "lethargy": [
-    "letargo"
+    {"id": 8461,"text": ["letargo"]}
   ],
   "letter": [
-    "lettera"
+    {"id": 8462,"text": ["lettera"]}
   ],
   "lettuce": [
-    "lattuga"
+    {"id": 8463,"text": ["lattuga"]}
   ],
   "leukaemia": [
-    "leucemia"
+    {"id": 8464,"text": ["leucemia"]}
   ],
   "leukopenia": [
-    "leucopenia"
+    {"id": 8465,"text": ["leucopenia"]}
   ],
   "levant": [
-    "levante"
+    {"id": 8466,"text": ["levante"]}
   ],
   "level": [
-    "livella",
-    "livellare",
-    "livello",
-    "uniformare"
+    {"id": 8467,"text": ["livella"]},
+    {"id": 8468,"text": ["livellare"]},
+    {"id": 8469,"text": ["livello"]},
+    {"id": 8470,"text": ["uniformare"]}
   ],
   "lever": [
-    "leva"
+    {"id": 8471,"text": ["leva"]}
   ],
   "levitation": [
-    "levitazione"
+    {"id": 8472,"text": ["levitazione"]}
   ],
   "lexical": [
-    "lessico"
+    {"id": 8473,"text": ["lessico"]}
   ],
   "lexicalisation": [
-    "lessicalizzazione"
+    {"id": 8474,"text": ["lessicalizzazione"]}
   ],
   "lexically": [
-    "lessicalmente"
+    {"id": 8475,"text": ["lessicalmente"]}
   ],
   "lexicographical": [
-    "lessicografico"
+    {"id": 8476,"text": ["lessicografico"]}
   ],
   "lexicography": [
-    "lessicografia"
+    {"id": 8477,"text": ["lessicografia"]}
   ],
   "lexicological": [
-    "lessicologico"
+    {"id": 8478,"text": ["lessicologico"]}
   ],
   "lexicology": [
-    "lessicologia"
+    {"id": 8479,"text": ["lessicologia"]}
   ],
   "liable": [
-    "propenso",
-    "responsabile"
+    {"id": 8480,"text": ["propenso"]},
+    {"id": 8481,"text": ["responsabile"]}
   ],
   "liaison": [
-    "collegamento"
+    {"id": 8482,"text": ["collegamento"]}
   ],
   "liar": [
-    "bugiardo"
+    {"id": 8483,"text": ["bugiardo"]}
   ],
   "liberal": [
-    "liberale"
+    {"id": 8484,"text": ["liberale"]}
   ],
   "liberalisation": [
-    "liberalizzazione"
+    {"id": 8485,"text": ["liberalizzazione"]}
   ],
   "liberalise": [
-    "liberalizzare"
+    {"id": 8486,"text": ["liberalizzare"]}
   ],
   "liberalism": [
-    "liberalismo"
+    {"id": 8487,"text": ["liberalismo"]}
   ],
   "liberality": [
-    "liberalismo"
+    {"id": 8488,"text": ["liberalismo"]}
   ],
   "liberalization": [
-    "liberalizzazione"
+    {"id": 8489,"text": ["liberalizzazione"]}
   ],
   "liberalize": [
-    "liberalizzare"
+    {"id": 8490,"text": ["liberalizzare"]}
   ],
   "liberally": [
-    "liberamente"
+    {"id": 8491,"text": ["liberamente"]}
   ],
   "liberation": [
-    "liberazione"
+    {"id": 8492,"text": ["liberazione"]}
   ],
   "libertinism": [
-    "libertinaggio"
+    {"id": 8493,"text": ["libertinaggio"]}
   ],
   "librarian": [
-    "bibliotecario"
+    {"id": 8494,"text": ["bibliotecario"]}
   ],
   "librarianship": [
-    "biblioteconomia"
+    {"id": 8495,"text": ["biblioteconomia"]}
   ],
   "library": [
-    "biblioteca"
+    {"id": 8496,"text": ["biblioteca"]}
   ],
   "Libya": [
-    "Libia"
+    {"id": 8497,"text": ["Libia"]}
   ],
   "licence": [
-    "licenza"
+    {"id": 8498,"text": ["licenza"]}
   ],
   "licit": [
-    "lecito"
+    {"id": 8499,"text": ["lecito"]}
   ],
   "lick": [
-    "leccare"
+    {"id": 8500,"text": ["leccare"]}
   ],
   "licorice": [
-    "liquirizia"
+    {"id": 8501,"text": ["liquirizia"]}
   ],
   "lid": [
-    "coperchio"
+    {"id": 8502,"text": ["coperchio"]}
   ],
   "lie": [
-    "bugia",
-    "giacere",
-    "mentire"
+    {"id": 8503,"text": ["bugia"]},
+    {"id": 8504,"text": ["giacere"]},
+    {"id": 8505,"text": ["mentire"]}
   ],
   "lieutenant": [
-    "tenente"
+    {"id": 8506,"text": ["tenente"]}
   ],
   "life": [
-    "vita"
+    {"id": 8507,"text": ["vita"]}
   ],
   "lifeguard": [
-    "bagnino"
+    {"id": 8508,"text": ["bagnino"]}
   ],
   "lifestyle": [
-    "stile di vita"
+    {"id": 8509,"text": ["stile di vita"]}
   ],
   "lift": [
-    "ascensore",
-    "sollevare"
+    {"id": 8510,"text": ["ascensore"]},
+    {"id": 8511,"text": ["sollevare"]}
   ],
   "ligament": [
-    "legamento"
+    {"id": 8512,"text": ["legamento"]}
   ],
   "light": [
-    "accendere",
-    "chiaro",
-    "leggero",
-    "luce",
-    "luminoso"
+    {"id": 8513,"text": ["accendere"]},
+    {"id": 8514,"text": ["chiaro"]},
+    {"id": 8515,"text": ["leggero"]},
+    {"id": 8516,"text": ["luce"]},
+    {"id": 8517,"text": ["luminoso"]}
   ],
   "lightbulb": [
-    "lampadina"
+    {"id": 8518,"text": ["lampadina"]}
   ],
   "lighted": [
-    "illuminato"
+    {"id": 8519,"text": ["illuminato"]}
   ],
   "lighten": [
-    "illuminare"
+    {"id": 8520,"text": ["illuminare"]}
   ],
   "lighter": [
-    "accendino"
+    {"id": 8521,"text": ["accendino"]}
   ],
   "lightful": [
-    "luminoso"
+    {"id": 8522,"text": ["luminoso"]}
   ],
   "lighthouse": [
-    "faro"
+    {"id": 8523,"text": ["faro"]}
   ],
   "lightly": [
-    "leggermente"
+    {"id": 8524,"text": ["leggermente"]}
   ],
   "lightning": [
-    "fulmine"
+    {"id": 8525,"text": ["fulmine"]}
   ],
   "lightning conductor": [
-    "parafulmine"
+    {"id": 8526,"text": ["parafulmine"]}
   ],
   "lightsensitive": [
-    "fotosensibile"
+    {"id": 8527,"text": ["fotosensibile"]}
   ],
   "lightweight": [
-    "leggero"
+    {"id": 8528,"text": ["leggero"]}
   ],
   "lignin": [
-    "lignina"
+    {"id": 8529,"text": ["lignina"]}
   ],
   "like": [
-    "come",
-    "gustare",
-    "piacere"
+    {"id": 8530,"text": ["come"]},
+    {"id": 8531,"text": ["gustare"]},
+    {"id": 8532,"text": ["piacere"]}
   ],
   "likely": [
-    "probabile",
-    "probabilmente",
-    "verosimile"
+    {"id": 8533,"text": ["probabile"]},
+    {"id": 8534,"text": ["probabilmente"]},
+    {"id": 8535,"text": ["verosimile"]}
   ],
   "lily": [
-    "giglio"
+    {"id": 8536,"text": ["giglio"]}
   ],
   "limb": [
-    "arto"
+    {"id": 8537,"text": ["arto"]}
   ],
   "limestone": [
-    "calcare"
+    {"id": 8538,"text": ["calcare"]}
   ],
   "limit": [
-    "limitare",
-    "limite"
+    {"id": 8539,"text": ["limitare"]},
+    {"id": 8540,"text": ["limite"]}
   ],
   "limitation": [
-    "limitazione"
+    {"id": 8541,"text": ["limitazione"]}
   ],
   "limnology": [
-    "limnologia"
+    {"id": 8542,"text": ["limnologia"]}
   ],
   "limousine": [
-    "limousine"
+    {"id": 8543,"text": ["limousine"]}
   ],
   "limp": [
-    "zoppicare"
+    {"id": 8544,"text": ["zoppicare"]}
   ],
   "linden": [
-    "tiglio"
+    {"id": 8545,"text": ["tiglio"]}
   ],
   "line": [
-    "allineare",
-    "fila",
-    "linea"
+    {"id": 8546,"text": ["allineare"]},
+    {"id": 8547,"text": ["fila"]},
+    {"id": 8548,"text": ["linea"]}
   ],
   "line up": [
-    "allineare"
+    {"id": 8549,"text": ["allineare"]}
   ],
   "lineage": [
-    "lignaggio"
+    {"id": 8550,"text": ["lignaggio"]}
   ],
   "linear": [
-    "lineare"
+    {"id": 8551,"text": ["lineare"]}
   ],
   "linen": [
-    "biancheria",
-    "lino"
+    {"id": 8552,"text": ["biancheria"]},
+    {"id": 8553,"text": ["lino"]}
   ],
   "lingual": [
-    "linguale"
+    {"id": 8554,"text": ["linguale"]}
   ],
   "linguist": [
-    "linguista"
+    {"id": 8555,"text": ["linguista"]}
   ],
   "linguistic": [
-    "linguistico"
+    {"id": 8556,"text": ["linguistico"]}
   ],
   "linguistically": [
-    "linguisticamente"
+    {"id": 8557,"text": ["linguisticamente"]}
   ],
   "linguistics": [
-    "linguistica"
+    {"id": 8558,"text": ["linguistica"]}
   ],
   "link": [
-    "allacciare",
-    "collegamento",
-    "collegare",
-    "connessione",
-    "connettere"
+    {"id": 8559,"text": ["allacciare"]},
+    {"id": 8560,"text": ["collegamento"]},
+    {"id": 8561,"text": ["collegare"]},
+    {"id": 8562,"text": ["connessione"]},
+    {"id": 8563,"text": ["connettere"]}
   ],
   "linkage": [
-    "connessione"
+    {"id": 8564,"text": ["connessione"]}
   ],
   "linoleum": [
-    "linoleum"
+    {"id": 8565,"text": ["linoleum"]}
   ],
   "lint": [
-    "garza"
+    {"id": 8566,"text": ["garza"]}
   ],
   "lion": [
-    "leone"
+    {"id": 8567,"text": ["leone"]}
   ],
   "lioness": [
-    "leonessa"
+    {"id": 8568,"text": ["leonessa"]}
   ],
   "lip": [
-    "labbro"
+    {"id": 8569,"text": ["labbro"]}
   ],
   "lipase": [
-    "lipasi"
+    {"id": 8570,"text": ["lipasi"]}
   ],
   "lipid": [
-    "lipide"
+    {"id": 8571,"text": ["lipide"]}
   ],
   "liposome": [
-    "liposoma"
+    {"id": 8572,"text": ["liposoma"]}
   ],
   "liquefaction": [
-    "liquefazione"
+    {"id": 8573,"text": ["liquefazione"]}
   ],
   "liqueur": [
-    "liquore"
+    {"id": 8574,"text": ["liquore"]}
   ],
   "liquid": [
-    "liquido"
+    {"id": 8575,"text": ["liquido"]}
   ],
   "liquidate": [
-    "liquidare"
+    {"id": 8576,"text": ["liquidare"]}
   ],
   "liquidation": [
-    "liquidazione"
+    {"id": 8577,"text": ["liquidazione"]}
   ],
   "liquor": [
-    "liquore"
+    {"id": 8578,"text": ["liquore"]}
   ],
   "Lisbon": [
-    "Lisbona"
+    {"id": 8579,"text": ["Lisbona"]}
   ],
   "list": [
-    "elencare",
-    "elenco",
-    "lista",
-    "listare"
+    {"id": 8580,"text": ["elencare"]},
+    {"id": 8581,"text": ["elenco"]},
+    {"id": 8582,"text": ["lista"]},
+    {"id": 8583,"text": ["listare"]}
   ],
   "listen": [
-    "ascoltare"
+    {"id": 8584,"text": ["ascoltare"]}
   ],
   "listen to": [
-    "ascoltare"
+    {"id": 8585,"text": ["ascoltare"]}
   ],
   "listing": [
-    "quotazione"
+    {"id": 8586,"text": ["quotazione"]}
   ],
   "litany": [
-    "litania"
+    {"id": 8587,"text": ["litania"]}
   ],
   "liter": [
-    "litro"
+    {"id": 8588,"text": ["litro"]}
   ],
   "literacy": [
-    "alfabetizzazione"
+    {"id": 8589,"text": ["alfabetizzazione"]}
   ],
   "literal": [
-    "letterale"
+    {"id": 8590,"text": ["letterale"]}
   ],
   "literally": [
-    "letteralmente"
+    {"id": 8591,"text": ["letteralmente"]}
   ],
   "literary": [
-    "letterario"
+    {"id": 8592,"text": ["letterario"]}
   ],
   "literate": [
-    "colto"
+    {"id": 8593,"text": ["colto"]}
   ],
   "literature": [
-    "letteratura"
+    {"id": 8594,"text": ["letteratura"]}
   ],
   "lithium": [
-    "litio"
+    {"id": 8595,"text": ["litio"]}
   ],
   "lithographic": [
-    "litografico"
+    {"id": 8596,"text": ["litografico"]}
   ],
   "lithography": [
-    "litografia"
+    {"id": 8597,"text": ["litografia"]}
   ],
   "lithologic": [
-    "litologico"
+    {"id": 8598,"text": ["litologico"]}
   ],
   "lithology": [
-    "litologia"
+    {"id": 8599,"text": ["litologia"]}
   ],
   "lithosphere": [
-    "litosfera"
+    {"id": 8600,"text": ["litosfera"]}
   ],
   "Lithuania": [
-    "Lituania"
+    {"id": 8601,"text": ["Lituania"]}
   ],
   "Lithuanian": [
-    "lituano"
+    {"id": 8602,"text": ["lituano"]}
   ],
   "litigate": [
-    "litigare"
+    {"id": 8603,"text": ["litigare"]}
   ],
   "litigious": [
-    "litigioso"
+    {"id": 8604,"text": ["litigioso"]}
   ],
   "litre": [
-    "litro"
+    {"id": 8605,"text": ["litro"]}
   ],
   "litter": [
-    "sporcare"
+    {"id": 8606,"text": ["sporcare"]}
   ],
   "little": [
-    "piccolo",
-    "poco"
+    {"id": 8607,"text": ["piccolo"]},
+    {"id": 8608,"text": ["poco"]}
   ],
   "littlefinger": [
-    "ditomignolo"
+    {"id": 8609,"text": ["ditomignolo"]}
   ],
   "littoral": [
-    "litorale"
+    {"id": 8610,"text": ["litorale"]}
   ],
   "liturgical": [
-    "liturgico"
+    {"id": 8611,"text": ["liturgico"]}
   ],
   "liturgy": [
-    "liturgia"
+    {"id": 8612,"text": ["liturgia"]}
   ],
   "live": [
-    "abitare",
-    "vivere"
+    {"id": 8613,"text": ["abitare"]},
+    {"id": 8614,"text": ["vivere"]}
   ],
   "lively": [
-    "vivace"
+    {"id": 8615,"text": ["vivace"]}
   ],
   "liver": [
-    "fegato"
+    {"id": 8616,"text": ["fegato"]}
   ],
   "livestock": [
-    "bestiame"
+    {"id": 8617,"text": ["bestiame"]}
   ],
   "living": [
-    "vivente"
+    {"id": 8618,"text": ["vivente"]}
   ],
   "living room": [
-    "salotto"
+    {"id": 8619,"text": ["salotto"]}
   ],
   "lizard": [
-    "lucertola"
+    {"id": 8620,"text": ["lucertola"]}
   ],
   "llama": [
-    "lama"
+    {"id": 8621,"text": ["lama"]}
   ],
   "load": [
-    "caricare",
-    "carico"
+    {"id": 8622,"text": ["caricare"]},
+    {"id": 8623,"text": ["carico"]}
   ],
   "loan": [
-    "prestare",
-    "prestito"
+    {"id": 8624,"text": ["prestare"]},
+    {"id": 8625,"text": ["prestito"]}
   ],
   "local": [
-    "locale"
+    {"id": 8626,"text": ["locale"]}
   ],
   "localisation": [
-    "localizzazione"
+    {"id": 8627,"text": ["localizzazione"]}
   ],
   "localism": [
-    "localismo"
+    {"id": 8628,"text": ["localismo"]}
   ],
   "localization": [
-    "localizzazione"
+    {"id": 8629,"text": ["localizzazione"]}
   ],
   "locally": [
-    "localmente"
+    {"id": 8630,"text": ["localmente"]}
   ],
   "locate": [
-    "localizzare"
+    {"id": 8631,"text": ["localizzare"]}
   ],
   "location": [
-    "localizzazione",
-    "luogo",
-    "ubicazione"
+    {"id": 8632,"text": ["localizzazione"]},
+    {"id": 8633,"text": ["luogo"]},
+    {"id": 8634,"text": ["ubicazione"]}
   ],
   "locative": [
-    "locativo"
+    {"id": 8635,"text": ["locativo"]}
   ],
   "lock": [
-    "chiudere",
-    "ciocca",
-    "lucchetto",
-    "rinchiudere",
-    "serrare",
-    "serratura"
+    {"id": 8636,"text": ["chiudere"]},
+    {"id": 8637,"text": ["ciocca"]},
+    {"id": 8638,"text": ["lucchetto"]},
+    {"id": 8639,"text": ["rinchiudere"]},
+    {"id": 8640,"text": ["serrare"]},
+    {"id": 8641,"text": ["serratura"]}
   ],
   "locomotion": [
-    "locomozione"
+    {"id": 8642,"text": ["locomozione"]}
   ],
   "locomotive": [
-    "locomotiva"
+    {"id": 8643,"text": ["locomotiva"]}
   ],
   "lodge": [
-    "albergare"
+    {"id": 8644,"text": ["albergare"]}
   ],
   "logarithmic": [
-    "logaritmico"
+    {"id": 8645,"text": ["logaritmico"]}
   ],
   "loge": [
-    "palco"
+    {"id": 8646,"text": ["palco"]}
   ],
   "logic": [
-    "logica"
+    {"id": 8647,"text": ["logica"]}
   ],
   "logical": [
-    "logico"
+    {"id": 8648,"text": ["logico"]}
   ],
   "logically": [
-    "logicamente"
+    {"id": 8649,"text": ["logicamente"]}
   ],
   "logistical": [
-    "logistico"
+    {"id": 8650,"text": ["logistico"]}
   ],
   "logistics": [
-    "logistica"
+    {"id": 8651,"text": ["logistica"]}
   ],
   "logotype": [
-    "logo"
+    {"id": 8652,"text": ["logo"]}
   ],
   "London": [
-    "Londra"
+    {"id": 8653,"text": ["Londra"]}
   ],
   "lonely": [
-    "solitario",
-    "solo"
+    {"id": 8654,"text": ["solitario"]},
+    {"id": 8655,"text": ["solo"]}
   ],
   "long": [
-    "lungo"
+    {"id": 8656,"text": ["lungo"]}
   ],
   "longitudinal": [
-    "longitudinale"
+    {"id": 8657,"text": ["longitudinale"]}
   ],
   "longshore": [
-    "litorale",
-    "litoraneo"
+    {"id": 8658,"text": ["litorale"]},
+    {"id": 8659,"text": ["litoraneo"]}
   ],
   "look": [
-    "aspetto",
-    "sembrare",
-    "guardare",
-    "parere"
+    {"id": 8660,"text": ["aspetto"]},
+    {"id": 8661,"text": ["sembrare"]},
+    {"id": 8662,"text": ["guardare"]},
+    {"id": 8663,"text": ["parere"]}
   ],
   "look for": [
-    "cercare"
+    {"id": 8664,"text": ["cercare"]}
   ],
   "lookout": [
-    "vedetta"
+    {"id": 8665,"text": ["vedetta"]}
   ],
   "loom": [
-    "telaio",
-    "tessere"
+    {"id": 8666,"text": ["telaio"]},
+    {"id": 8667,"text": ["tessere"]}
   ],
   "loophole": [
-    "scappatoia"
+    {"id": 8668,"text": ["scappatoia"]}
   ],
   "loose": [
-    "allentato",
-    "sciolto"
+    {"id": 8669,"text": ["allentato"]},
+    {"id": 8670,"text": ["sciolto"]}
   ],
   "lord": [
-    "signore"
+    {"id": 8671,"text": ["signore"]}
   ],
   "lordly": [
-    "signorile"
+    {"id": 8672,"text": ["signorile"]}
   ],
   "lorry": [
-    "autocarro",
-    "camion"
+    {"id": 8673,"text": ["autocarro"]},
+    {"id": 8674,"text": ["camion"]}
   ],
   "lose": [
-    "perdere"
+    {"id": 8675,"text": ["perdere"]}
   ],
   "loss": [
-    "perdita"
+    {"id": 8676,"text": ["perdita"]}
   ],
   "lotion": [
-    "lozione"
+    {"id": 8677,"text": ["lozione"]}
   ],
   "lotsof": [
-    "molto"
+    {"id": 8678,"text": ["molto"]}
   ],
   "lottery": [
-    "lotteria",
-    "lotto"
+    {"id": 8679,"text": ["lotteria"]},
+    {"id": 8680,"text": ["lotto"]}
   ],
   "louse": [
-    "pidocchio"
+    {"id": 8681,"text": ["pidocchio"]}
   ],
   "love": [
-    "amare",
-    "amore"
+    {"id": 8682,"text": ["amare"]},
+    {"id": 8683,"text": ["amore"]}
   ],
   "lovely": [
-    "amorevole"
+    {"id": 8684,"text": ["amorevole"]}
   ],
   "lover": [
-    "amante"
+    {"id": 8685,"text": ["amante"]}
   ],
   "low": [
-    "basso",
-    "minore"
+    {"id": 8686,"text": ["basso"]},
+    {"id": 8687,"text": ["minore"]}
   ],
   "lower": [
-    "scendere"
+    {"id": 8688,"text": ["scendere"]}
   ],
   "lowercase": [
-    "minuscolo"
+    {"id": 8689,"text": ["minuscolo"]}
   ],
   "lowing": [
-    "muggito"
+    {"id": 8690,"text": ["muggito"]}
   ],
   "loyal": [
-    "leale"
+    {"id": 8691,"text": ["leale"]}
   ],
   "lubricant": [
-    "lubrificante"
+    {"id": 8692,"text": ["lubrificante"]}
   ],
   "luck": [
-    "fortuna"
+    {"id": 8693,"text": ["fortuna"]}
   ],
   "luckily": [
-    "fortunatamente"
+    {"id": 8694,"text": ["fortunatamente"]}
   ],
   "lucky": [
-    "fortunato"
+    {"id": 8695,"text": ["fortunato"]}
   ],
   "lucrative": [
-    "lucrativo"
+    {"id": 8696,"text": ["lucrativo"]}
   ],
   "lucre": [
-    "lucro"
+    {"id": 8697,"text": ["lucro"]}
   ],
   "luggage": [
-    "bagaglio"
+    {"id": 8698,"text": ["bagaglio"]}
   ],
   "lumbar": [
-    "lombare"
+    {"id": 8699,"text": ["lombare"]}
   ],
   "lumber": [
-    "legno"
+    {"id": 8700,"text": ["legno"]}
   ],
   "luminance": [
-    "luminanza"
+    {"id": 8701,"text": ["luminanza"]}
   ],
   "luminescence": [
-    "luminescenza"
+    {"id": 8702,"text": ["luminescenza"]}
   ],
   "luminescent": [
-    "luminescente"
+    {"id": 8703,"text": ["luminescente"]}
   ],
   "luminosity": [
-    "chiaro"
+    {"id": 8704,"text": ["chiaro"]}
   ],
   "luminous": [
-    "luminoso"
+    {"id": 8705,"text": ["luminoso"]}
   ],
   "lump": [
-    "gonfiore"
+    {"id": 8706,"text": ["gonfiore"]}
   ],
   "lunar": [
-    "lunare"
+    {"id": 8707,"text": ["lunare"]}
   ],
   "lunch": [
-    "mangiare",
-    "pranzo"
+    {"id": 8708,"text": ["mangiare"]},
+    {"id": 8709,"text": ["pranzo"]}
   ],
   "lung": [
-    "polmone"
+    {"id": 8710,"text": ["polmone"]}
   ],
   "lurch": [
-    "scarto"
+    {"id": 8711,"text": ["scarto"]}
   ],
   "lust": [
-    "lussuria"
+    {"id": 8712,"text": ["lussuria"]}
   ],
   "luster": [
-    "lucentezza"
+    {"id": 8713,"text": ["lucentezza"]}
   ],
   "lustrum": [
-    "lustro"
+    {"id": 8714,"text": ["lustro"]}
   ],
   "lute": [
-    "liuto"
+    {"id": 8715,"text": ["liuto"]}
   ],
   "lutein": [
-    "luteina"
+    {"id": 8716,"text": ["luteina"]}
   ],
   "lutetium": [
-    "lutezio"
+    {"id": 8717,"text": ["lutezio"]}
   ],
   "luxation": [
-    "lussazione"
+    {"id": 8718,"text": ["lussazione"]}
   ],
   "luxury": [
-    "lusso"
+    {"id": 8719,"text": ["lusso"]}
   ],
   "lying": [
-    "bugiardo"
+    {"id": 8720,"text": ["bugiardo"]}
   ],
   "lymph": [
-    "linfa"
+    {"id": 8721,"text": ["linfa"]}
   ],
   "lymphatic": [
-    "linfatico"
+    {"id": 8722,"text": ["linfatico"]}
   ],
   "lymphocyte": [
-    "linfocita"
+    {"id": 8723,"text": ["linfocita"]}
   ],
   "lymphoma": [
-    "linfoma"
+    {"id": 8724,"text": ["linfoma"]}
   ],
   "lynching": [
-    "linciaggio"
+    {"id": 8725,"text": ["linciaggio"]}
   ],
   "lyophilisation": [
-    "liofilizzazione"
+    {"id": 8726,"text": ["liofilizzazione"]}
   ],
   "lyre": [
-    "lira"
+    {"id": 8727,"text": ["lira"]}
   ],
   "lyric": [
-    "lirico",
-    "testo"
+    {"id": 8728,"text": ["lirico"]},
+    {"id": 8729,"text": ["testo"]}
   ],
   "lyricism": [
-    "lirismo"
+    {"id": 8730,"text": ["lirismo"]}
   ]
 }
