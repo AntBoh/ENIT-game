@@ -1695,7 +1695,8 @@
     "intelligente"
   ],
   "click": [
-    "schiocco"
+    "schiocco",
+    "cliccare"
   ],
   "client": [
     "cliente"
@@ -1743,7 +1744,8 @@
     "tintinnio"
   ],
   "clip": [
-    "pinza"
+    "pinza",
+    "graffetta"
   ],
   "clipper": [
     "clipper"
@@ -3397,9 +3399,6 @@
   ],
   "convertible": [
     "convertibile"
-  ],
-  "convertiblebond": [
-    "obbligazioneconvertibile"
   ],
   "convex": [
     "convesso"

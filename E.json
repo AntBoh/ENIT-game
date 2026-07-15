@@ -731,16 +731,19 @@
     "impiegato"
   ],
   "employer": [
-    "imprenditore"
+    "datore di lavoro"
   ],
   "employment": [
-    "impiego"
+    "impiego",
+    "occupazione"
   ],
   "empower": [
-    "autorizzare"
+    "autorizzare",
+    "consentire",
+    "potenziare"
   ],
   "empress": [
-    "imperatore"
+    "imperatrice"
   ],
   "empty": [
     "deserto",

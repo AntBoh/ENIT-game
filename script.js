@@ -39,11 +39,11 @@ function recalcCountersFromProgress() {
 
   for (const word of Object.keys(prog)) {
     const found = prog[word] || [];
-    translations += found.length;
+    translations += completedGroups(word);
 
-    if (dict[word] && found.length === dict[word].length) {
-      completed++;
-    }
+    if (dict[word] && completedGroups(word) === dict[word].length) {
+    completed++;
+}
   }
 
   counters.completed = completed;
@@ -210,7 +210,7 @@ const loadedLetters = { en_it: new Set(), it_en: new Set() };
 
   const incomplete = allWords.filter(word => {
     const found = progress[mode][word] || [];
-    return found.length < dictionary[mode][word].length;
+    return completedGroups(word) < dictionary[mode][word].length;
   });
 
   if (incomplete.length === 0) {
@@ -237,6 +237,31 @@ const loadedLetters = { en_it: new Set(), it_en: new Set() };
 
   recalcCountersFromProgress();
   updateCounters();
+}
+
+function completedGroups(word) {
+
+    const groups = dictionary[mode][word];
+    const found = progress[mode][word] || [];
+
+    if (!groups || groups.length === 0)
+        return 0;
+
+    if (!Array.isArray(groups[0])) {
+        return found.length;
+    }
+
+    let completed = 0;
+
+    for (const group of groups) {
+
+        if (group.some(t => found.includes(t))) {
+            completed++;
+        }
+
+    }
+
+    return completed;
 }
 
 
@@ -294,8 +319,8 @@ const loadedLetters = { en_it: new Set(), it_en: new Set() };
         itemRight.className = "word-item right";
 
         const allRaw = dictionary[mode][word];
-        const all = [...(Array.isArray(allRaw) ? allRaw : [])]
-        .sort((a, b) => a.localeCompare(b));
+
+const all = allRaw.flat().sort((a,b)=>a.localeCompare(b));
 
         const found = [...(Array.isArray(progress[mode]?.[word]) ? progress[mode][word] : [])]
         .sort((a, b) => a.localeCompare(b));
@@ -305,7 +330,7 @@ const loadedLetters = { en_it: new Set(), it_en: new Set() };
 
        
 
-        if (isSeen && found.length === all.length) {
+        if (isSeen && completedGroups(word) === dictionary[mode][word].length) {
           itemLeft.textContent += " ✔";
         }
 
@@ -392,12 +417,27 @@ form.addEventListener("submit", (e) => {
 
   const userAnswer = normalize(input.value);
 
-  if (!dictionary[mode] || !dictionary[mode][currentWordKey]) {
+
+if (!dictionary[mode] || !dictionary[mode][currentWordKey]) {
+
     feedback.textContent = "Errore: parola non trovata.";
     feedback.style.color = "red";
-  } else if (
-    dictionary[mode][currentWordKey].map(normalize).includes(userAnswer)
-  ) {
+
+} else {
+
+    const groups = dictionary[mode][currentWordKey];
+
+    let matchedGroup = null;
+
+    for (const group of groups) {
+        if (group.map(normalize).includes(userAnswer)) {
+            matchedGroup = group;
+            break;
+        }
+    }
+
+
+    if (matchedGroup) {
     if (!progress[mode][currentWordKey]) {
       progress[mode][currentWordKey] = [];
     }
@@ -405,7 +445,11 @@ form.addEventListener("submit", (e) => {
 const foundBefore = progress[mode][currentWordKey]?.length || 0;
 
 if (!progress[mode][currentWordKey].includes(userAnswer)) {
-  progress[mode][currentWordKey].push(userAnswer);
+  for (const translation of matchedGroup) {
+    if (!progress[mode][currentWordKey].includes(translation)) {
+        progress[mode][currentWordKey].push(translation);
+    }
+}
   localStorage.setItem("progress", JSON.stringify(progress));
   recalcCountersFromProgress();
   updateCounters();

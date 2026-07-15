@@ -76,9 +76,6 @@
   "safety": [
     "sicurezza"
   ],
-  "safetypin": [
-    "spilladisicurezza"
-  ],
   "safflower": [
     "cartamo"
   ],
@@ -121,7 +118,8 @@
     "stipendio"
   ],
   "sale": [
-    "vendita"
+    "vendita",
+    "saldo"
   ],
   "saline": [
     "salino"
@@ -1399,7 +1397,10 @@
     "sparare"
   ],
   "shooting": [
-    "fucilazione"
+    "fucilazione",
+    "ripresa",
+    "sparatoria",
+    "tiro"
   ],
   "shop": [
     "negozio"
