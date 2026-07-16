@@ -226,7 +226,8 @@
 
 "vaso": [
   {"id":8119,"text":["jar"]},
-  {"id":15484,"text":["vase"]}
+  {"id":15484,"text":["vase"]},
+  {"id":57284,"text":["pot"]}
  ],
 
 "vasodilatazione": [
@@ -400,7 +401,7 @@
  ],
 
 "venerare": [
-  {"id":11249,"text":["praise"]},
+  {"id":11248,"text":["praise"]},
   {"id":15510,"text":["venerate"]}
  ],
 
@@ -546,6 +547,10 @@
 
 "veramente": [
   {"id":15067,"text":["truly"]}
+ ],
+
+"veranda": [
+  {"id":11158,"text":["porch"]}
  ],
 
 "verbale": [

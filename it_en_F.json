@@ -208,6 +208,14 @@
   {"id":7627,"text":["infantry"]}
  ],
 
+"far arrabbiare": [
+  {"id":689,"text":["anger"]}
+ ],
+
+"far male": [
+  {"id":7196,"text":["hurt"]}
+ ],
+
 "faraone": [
   {"id":10768,"text":["pharaoh"]}
  ],
@@ -225,8 +233,20 @@
   {"id":8794,"text":["make"]}
  ],
 
+"fare del male": [
+  {"id":7196,"text":["hurt"]}
+ ],
+
 "fare domanda": [
   {"id":867,"text":["apply"]}
+ ],
+
+"fare male": [
+  {"id":7196,"text":["hurt"]}
+ ],
+
+"fare un sondaggio": [
+  {"id":11092,"text":["poll"]}
  ],
 
 "farfalla": [
@@ -292,7 +312,7 @@
  ],
 
 "fasciatura": [
-  {"id":1398,"text":["bandage"]},
+  {"id":1397,"text":["bandage"]},
   {"id":4657,"text":["dressing"]}
  ],
 
@@ -1396,7 +1416,8 @@
 
 "fluttuare": [
   {"id":5948,"text":["float"]},
-  {"id":5977,"text":["fluctuate"]}
+  {"id":5977,"text":["fluctuate"]},
+  {"id":7152,"text":["hover"]}
  ],
 
 "fluttuazione": [
@@ -1664,6 +1685,10 @@
 
 "formulazione": [
   {"id":6082,"text":["formulation"]}
+ ],
+
+"fornaio": [
+  {"id":1363,"text":["baker"]}
  ],
 
 "fornire": [

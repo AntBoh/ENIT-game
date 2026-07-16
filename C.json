@@ -584,12 +584,11 @@
  ],
 
 "careful": [
-  {"id":2286,"text":["prudente"]}
+  {"id":2286,"text":["prudente", "attento", "accorto"]}
  ],
 
 "carefully": [
-  {"id":2287,"text":["attenatmente"]},
-  {"id":2288,"text":["cautamente"]}
+  {"id":2287,"text":["attenatmente", "prudentemente", "cautamente"]}
  ],
 
 "careless": [
@@ -5078,7 +5077,8 @@
 
 "craft": [
   {"id":3575,"text":["artigianato"]},
-  {"id":3576,"text":["fabbricare"]}
+  {"id":3576,"text":["fabbricare"]},
+  {"id":63852,"text":["mestiere", "professione"]}
  ],
 
 "crag": [

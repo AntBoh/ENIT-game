@@ -534,7 +534,7 @@
  ],
 
 "sbarra": [
-  {"id":1425,"text":["bar"]}
+  {"id":1424,"text":["bar"]}
  ],
 
 "sbarrare": [
@@ -544,8 +544,8 @@
  ],
 
 "sbattere": [
-  {"id":1404,"text":["bang"]},
-  {"id":11223,"text":["pound"]}
+  {"id":1400,"text":["bang"]},
+  {"id":11220,"text":["pound"]}
  ],
 
 "sbilanciare": [
@@ -1135,6 +1135,10 @@
   {"id":1350,"text":["baffle"]}
  ],
 
+"sconcerto": [
+  {"id":46284,"text":["baffle"]}
+ ],
+
 "sconfiggere": [
   {"id":3923,"text":["defeat"]}
  ],
@@ -1360,6 +1364,10 @@
   {"id":7314,"text":["if"]},
   {"id":11598,"text":["provided"]},
   {"id":15851,"text":["whether"]}
+ ],
+
+"se possibile": [
+  {"id":11190,"text":["possibly"]}
  ],
 
 "seccare": [
@@ -1877,6 +1885,10 @@
   {"id":4862,"text":["effortlessly"]}
  ],
 
+"senza speranza": [
+  {"id":7117,"text":["hopeless"]}
+ ],
+
 "separabile": [
   {"id":4181,"text":["detachable"]},
   {"id":4411,"text":["disengagable"]},
@@ -1902,10 +1914,6 @@
 
 "sepoltura": [
   {"id":2074,"text":["burial"]}
- ],
-
-"sepossibile": [
-  {"id":11191,"text":["possibly"]}
  ],
 
 "seppia": [
@@ -3385,7 +3393,6 @@
 
 "sollevare": [
   {"id":8511,"text":["lift"]},
-  {"id":11173,"text":["pose"]},
   {"id":13520,"text":["solace"]}
  ],
 
@@ -3470,7 +3477,12 @@
  ],
 
 "sondaggio": [
-  {"id":14236,"text":["survey"]}
+  {"id":14236,"text":["survey"]},
+  {"id":72931,"text":["poll"]}
+ ],
+
+"sondare": [
+  {"id":11092,"text":["poll"]}
  ],
 
 "sonetto": [
@@ -3668,11 +3680,8 @@
   {"id":14090,"text":["substantially"]}
  ],
 
-"sostegno": [
-  {"id":1336,"text":["backrest"]}
- ],
-
 "sostenere": [
+  {"id":1327,"text":["back"]},
   {"id":14249,"text":["sustain"]}
  ],
 
@@ -3719,10 +3728,7 @@
  ],
 
 "sotto": [
-  {"id":1583,"text":["below"]},
-  {"id":1588,"text":["beneath"]},
-  {"id":15231,"text":["under"]},
-  {"id":15244,"text":["underneath"]}
+  {"id":15244,"text":["below","beneath","under","underneath"]}
  ],
 
 "sotto copertura": [
@@ -3794,6 +3800,10 @@
   {"id":15237,"text":["undergo"]}
  ],
 
+"sottoporsi a": [
+  {"id":15237,"text":["undergo"]}
+ ],
+
 "sottoprogetto": [
   {"id":14073,"text":["subproject"]}
  ],
@@ -3831,7 +3841,7 @@
  ],
 
 "sottosuolo": [
-  {"id":14087,"text":["subsoil"]}
+  {"id":14087,"text":["subsoil","underground"]}
  ],
 
 "sottosviluppato": [
@@ -3840,6 +3850,10 @@
 
 "sottosviluppo": [
   {"id":15234,"text":["underdevelopment"]}
+ ],
+
+"sottoterra": [
+  {"id":17393,"text":["underground"]}
  ],
 
 "sottotitolo": [
@@ -4150,7 +4164,7 @@
  ],
 
 "sperare": [
-  {"id":7116,"text":["hope"]}
+  {"id":7114,"text":["hope"]}
  ],
 
 "spergiuro": [
@@ -4188,10 +4202,6 @@
   {"id":10270,"text":["outlay"]},
   {"id":11686,"text":["purchase"]},
   {"id":13188,"text":["shopping"]}
- ],
-
-"spesedispedizione": [
-  {"id":11196,"text":["postageandpackaging"]}
  ],
 
 "spesso": [
@@ -4732,7 +4742,7 @@
  ],
 
 "stanza da letto": [
-  {"id":1540,"text":["bedroom"]}
+  {"id":1539,"text":["bedroom"]}
  ],
 
 "stare": [
@@ -5841,6 +5851,10 @@
 
 "svizzero": [
   {"id":14286,"text":["swiss"]}
+ ],
+
+"svolazzare": [
+  {"id":7152,"text":["hover"]}
  ],
 
 "svolgere": [

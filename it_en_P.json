@@ -229,7 +229,7 @@
  ],
 
 "pallacanestro": [
-  {"id":1475,"text":["basketball"]}
+  {"id":1474,"text":["basketball"]}
  ],
 
 "palladio": [
@@ -246,6 +246,10 @@
 
 "pallavolo": [
   {"id":15665,"text":["volleyball"]}
+ ],
+
+"palleggiare": [
+  {"id":75928,"text":["ball"]}
  ],
 
 "palliativo": [
@@ -265,7 +269,7 @@
  ],
 
 "pallone": [
-  {"id":1378,"text":["ball"]}
+  {"id":1377,"text":["ball"]}
  ],
 
 "pallottola": [
@@ -371,7 +375,7 @@
  ],
 
 "paniere": [
-  {"id":1473,"text":["basket"]}
+  {"id":1471,"text":["basket"]}
  ],
 
 "panino": [
@@ -877,7 +881,7 @@
  ],
 
 "passeggino": [
-  {"id":11251,"text":["pram"]},
+  {"id":11250,"text":["pram"]},
   {"id":13996,"text":["stroller"]}
  ],
 
@@ -1180,6 +1184,10 @@
 "pelare": [
   {"id":10614,"text":["peel"]},
   {"id":13147,"text":["shell"]}
+ ],
+
+"pelato": [
+  {"id":1373,"text":["bald"]}
  ],
 
 "pelle": [
@@ -2093,11 +2101,11 @@
  ],
 
 "piega": [
-  {"id":6006,"text":["fold"]},
-  {"id":11038,"text":["ply"]}
+  {"id":1587,"text":["bend","fold","ply"]}
  ],
 
 "piegare": [
+  {"id":1586,"text":["bend"]},
   {"id":3591,"text":["crease"]},
   {"id":6007,"text":["fold"]}
  ],
@@ -2164,7 +2172,7 @@
  ],
 
 "pila": [
-  {"id":1492,"text":["battery"]},
+  {"id":1491,"text":["battery"]},
   {"id":10894,"text":["pile"]},
   {"id":13770,"text":["stack"]}
  ],
@@ -3066,6 +3074,10 @@
   {"id":13713,"text":["spokesperson"]}
  ],
 
+"porticato": [
+  {"id":11158,"text":["porch"]}
+ ],
+
 "portico": [
   {"id":11158,"text":["porch"]}
  ],
@@ -3095,6 +3107,10 @@
 
 "porzione": [
   {"id":11166,"text":["portion"]}
+ ],
+
+"posa": [
+  {"id":11173,"text":["pose"]}
  ],
 
 "posacenere": [
@@ -3131,12 +3147,17 @@
  ],
 
 "posizionare": [
-  {"id":10939,"text":["place"]}
+  {"id":10939,"text":["place"]},
+  {"id":11176,"text":["position"]}
  ],
 
 "posizione": [
   {"id":11177,"text":["position"]},
   {"id":13796,"text":["stand"]}
+ ],
+
+"posporre": [
+  {"id":11205,"text":["postpone"]}
  ],
 
 "possedere": [
@@ -3175,6 +3196,10 @@
 
 "postale": [
   {"id":11197,"text":["postal"]}
+ ],
+
+"postare": [
+  {"id":11192,"text":["post"]}
  ],
 
 "poster": [
@@ -3238,6 +3263,10 @@
 
 "potassio": [
   {"id":11211,"text":["potassium"]}
+ ],
+
+"potente": [
+  {"id":63852,"text":["powerful"]}
  ],
 
 "potenza": [
@@ -3317,6 +3346,10 @@
   {"id":11245,"text":["pragmatism"]}
  ],
 
+"prank": [
+  {"id":11252,"text":["prank"]}
+ ],
+
 "pranzo": [
   {"id":8709,"text":["lunch"]}
  ],
@@ -3355,10 +3388,6 @@
 "prato": [
   {"id":8363,"text":["lawn"]},
   {"id":8999,"text":["meadow"]}
- ],
-
-"pre-eiaculazione": [
-  {"id":11256,"text":["pre-ejaculate"]}
  ],
 
 "precariamente": [
@@ -3487,7 +3516,7 @@
  ],
 
 "preesistente": [
-  {"id":11257,"text":["pre-existing"]}
+  {"id":11257,"text":["pre-existing","preexisting"]}
  ],
 
 "prefabbricare": [
@@ -4205,7 +4234,8 @@
  ],
 
 "professione": [
-  {"id":11457,"text":["profession"]}
+  {"id":11457,"text":["profession"]},
+  {"id":63852,"text":["craft"]}
  ],
 
 "professionista": [
@@ -4335,7 +4365,7 @@
  ],
 
 "proibire": [
-  {"id":1392,"text":["ban"]},
+  {"id":1390,"text":["ban"]},
   {"id":6039,"text":["forbid"]},
   {"id":11484,"text":["prohibit"]}
  ],
@@ -4795,6 +4825,10 @@
   {"id":2286,"text":["careful"]}
  ],
 
+"prudentemente": [
+  {"id":2287,"text":["carefully"]}
+ ],
+
 "prudenza": [
   {"id":11613,"text":["prudence"]}
  ],
@@ -4893,6 +4927,7 @@
 
 "pubblicare": [
   {"id":8090,"text":["issue"]},
+  {"id":11192,"text":["post"]},
   {"id":11642,"text":["publish"]}
  ],
 
@@ -5025,7 +5060,6 @@
 
 "puntare": [
   {"id":425,"text":["aim"]},
-  {"id":1331,"text":["back"]},
   {"id":11056,"text":["point"]},
   {"id":11514,"text":["prompt"]},
   {"id":14414,"text":["target"]}

@@ -1180,6 +1180,9 @@
 "homicide": [
   {"id":7077,"text":["omicidio"]}
  ],
+ "homily":[
+  {"id":64821,"text":["omelia"]}
+ ],
 
 "homoeopathic": [
   {"id":7078,"text":["omeopatico"]}
@@ -1292,13 +1295,13 @@
  ],
 
 "honour": [
-  {"id":7107,"text":["onorare"]},
-  {"id":7108,"text":["onore"]},
-  {"id":7109,"text":["onorificenza"]}
+  {"id":7101,"text":["onorare"]},
+  {"id":7102,"text":["onore"]},
+  {"id":7103,"text":["onorificenza"]}
  ],
 
 "honourable": [
-  {"id":7110,"text":["onorabile"]}
+  {"id":7104,"text":["onorabile"]}
  ],
 
 "hook": [
@@ -1311,13 +1314,12 @@
  ],
 
 "hope": [
-  {"id":7114,"text":["auspicare"]},
-  {"id":7115,"text":["speranza"]},
-  {"id":7116,"text":["sperare"]}
+  {"id":7114,"text":["auspicare", "sperare"]},
+    {"id":7115,"text":["speranza"]}
  ],
 
 "hopeless": [
-  {"id":7117,"text":["disperato"]}
+  {"id":7117,"text":["disperato", "senza speranza"]}
  ],
 
 "hopper": [
@@ -1399,7 +1401,8 @@
 
 "host": [
   {"id":7138,"text":["ospite"]},
-  {"id":7139,"text":["oste"]}
+  {"id":7139,"text":["oste"]},
+  {"id":47294,"text":["ospitare"]}
  ],
 
 "hostage": [
@@ -1423,8 +1426,7 @@
  ],
 
 "hotel": [
-  {"id":7145,"text":["albergo"]},
-  {"id":7146,"text":["hotel"]}
+  {"id":7145,"text":["albergo", "hotel"]}
  ],
 
 "hour": [
@@ -1432,7 +1434,7 @@
  ],
 
 "house": [
-  {"id":7148,"text":["albergare"]},
+  {"id":7148,"text":["albergare", "alloggiare"]},
   {"id":7149,"text":["casa"]}
  ],
 
@@ -1445,23 +1447,24 @@
  ],
 
 "hover": [
-  {"id":7152,"text":["sorvolare"]}
+  {"id":7152,"text":["sorvolare", "svolazzare", "fluttuare"]}
  ],
 
 "how": [
   {"id":7153,"text":["come"]}
  ],
 
-"howmany": [
-  {"id":7154,"text":["quanto"]}
+"how many": [
+  {"id":7154,"text":["quanto", "quanti"]}
  ],
 
-"howmuch": [
+"how much": [
   {"id":7155,"text":["quanto"]}
  ],
 
 "hug": [
-  {"id":7156,"text":["abbracciare"]}
+  {"id":7156,"text":["abbracciare"]},
+  {"id":47285,"text":["abbraccio"]}
  ],
 
 "huge": [
@@ -1509,7 +1512,7 @@
  ],
 
 "humanize": [
-  {"id":7168,"text":["umanizzare"]}
+  {"id":7162,"text":["umanizzare"]}
  ],
 
 "humanly": [
@@ -1610,12 +1613,12 @@
  ],
 
 "hurry": [
-  {"id":7194,"text":["accorrere"]},
+  {"id":7194,"text":["accorrere", "affrettarsi"]},
   {"id":7195,"text":["fretta"]}
  ],
 
 "hurt": [
-  {"id":7196,"text":["dolere"]}
+  {"id":7196,"text":["dolere", "fare del male", "fare male", "far male"]}
  ],
 
 "husband": [
@@ -1627,7 +1630,9 @@
  ],
 
 "hut": [
-  {"id":7199,"text":["capanna"]}
+  {"id":7199,"text":["capanna"]},
+  {"id":73619,"text":["tenda"]},
+  {"id":46284,"text":["baracca"]}
  ],
 
 "hyacinth": [
@@ -1639,8 +1644,7 @@
  ],
 
 "hybridisation": [
-  {"id":7202,"text":["ibridazione"]},
-  {"id":7203,"text":["ibridizzazione"]}
+  {"id":7202,"text":["ibridazione", "ibridizzazione"]}
  ],
 
 "hydrangea": [
@@ -1652,7 +1656,8 @@
  ],
 
 "hydrate": [
-  {"id":7206,"text":["idrato"]}
+  {"id":7206,"text":["idrato"]},
+  {"id":46294,"text":["idratare", "idratarsi"]}
  ],
 
 "hydraulic": [
@@ -1776,7 +1781,7 @@
  ],
 
 "hyperbole": [
-  {"id":7237,"text":["iperbole"]}
+  {"id":7236,"text":["iperbole"]}
  ],
 
 "hyperbolic": [

@@ -190,7 +190,6 @@
 
 "navigazione": [
   {"id":9650,"text":["navigation"]},
-  {"id":11179,"text":["positioning"]},
   {"id":12684,"text":["sailing"]}
  ],
 
@@ -367,7 +366,7 @@
  ],
 
 "neonato": [
-  {"id":1324,"text":["baby"]},
+  {"id":1323,"text":["baby"]},
   {"id":9744,"text":["newborn"]}
  ],
 

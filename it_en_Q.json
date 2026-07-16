@@ -105,6 +105,10 @@
   {"id":15847,"text":["when"]}
  ],
 
+"quanti": [
+  {"id":7154,"text":["how many"]}
+ ],
+
 "quantificabile": [
   {"id":11740,"text":["quantifiable"]}
  ],
@@ -144,8 +148,8 @@
  ],
 
 "quanto": [
-  {"id":7154,"text":["howmany"]},
-  {"id":7155,"text":["howmuch"]},
+  {"id":7154,"text":["how many"]},
+  {"id":7155,"text":["how much"]},
   {"id":11748,"text":["quantum"]},
   {"id":15841,"text":["what"]}
  ],

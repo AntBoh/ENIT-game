@@ -514,7 +514,12 @@
  ],
 
 "canna": [
-  {"id":2201,"text":["cane"]}
+  {"id":2201,"text":["cane"]},
+  {"id":26391,"text":["pole"]}
+ ],
+
+"canna da pesca": [
+  {"id":26391,"text":["pole"]}
  ],
 
 "cannabis": [
@@ -952,8 +957,7 @@
 "carico": [
   {"id":2519,"text":["charge"]},
   {"id":6184,"text":["freight"]},
-  {"id":8623,"text":["load"]},
-  {"id":11192,"text":["post"]}
+  {"id":8623,"text":["load"]}
  ],
 
 "carisma": [
@@ -1414,7 +1418,7 @@
  ],
 
 "cautamente": [
-  {"id":2288,"text":["carefully"]}
+  {"id":2287,"text":["carefully"]}
  ],
 
 "cautela": [
@@ -1826,7 +1830,7 @@
  ],
 
 "cesto": [
-  {"id":1472,"text":["basket"]},
+  {"id":1471,"text":["basket"]},
   {"id":1664,"text":["bin"]}
  ],
 
@@ -2845,7 +2849,7 @@
   {"id":2841,"text":["codex"]}
  ],
 
-"codiceabarre": [
+"codice a barre": [
   {"id":1434,"text":["barcode"]}
  ],
 
@@ -3236,8 +3240,8 @@
  ],
 
 "colpire": [
-  {"id":1402,"text":["bang"]},
-  {"id":11221,"text":["pound"]},
+  {"id":1400,"text":["bang"]},
+  {"id":11220,"text":["pound"]},
   {"id":13973,"text":["strike"]}
  ],
 
@@ -3247,7 +3251,7 @@
  ],
 
 "colpo": [
-  {"id":1403,"text":["bang"]},
+  {"id":1405,"text":["bang"]},
   {"id":1794,"text":["blow"]},
   {"id":3545,"text":["coup"]},
   {"id":7041,"text":["hit"]},
@@ -3614,7 +3618,7 @@
 
 "compiere": [
   {"id":140,"text":["accomplish"]},
-  {"id":6234,"text":["fulfil"]}
+  {"id":6234,"text":["fulfil","fulfill"]}
  ],
 
 "compilatore": [
@@ -4247,6 +4251,7 @@
  ],
 
 "confondere": [
+  {"id":1350,"text":["baffle"]},
   {"id":3189,"text":["confuse"]}
  ],
 
@@ -4295,7 +4300,8 @@
  ],
 
 "confusione": [
-  {"id":3190,"text":["confusion"]}
+  {"id":3190,"text":["confusion"]},
+  {"id":46284,"text":["baffle"]}
  ],
 
 "confuso": [
@@ -4863,7 +4869,6 @@
  ],
 
 "contestare": [
-  {"id":742,"text":["answer"]},
   {"id":3318,"text":["contest"]}
  ],
 

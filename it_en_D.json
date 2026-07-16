@@ -71,6 +71,7 @@
  ],
 
 "danza": [
+  {"id":1381,"text":["ballet"]},
   {"id":3787,"text":["dance"]},
   {"id":3791,"text":["dancing"]}
  ],
@@ -1023,6 +1024,7 @@
  ],
 
 "deserto": [
+  {"id":1454,"text":["barren"]},
   {"id":4134,"text":["desert"]},
   {"id":5035,"text":["empty"]}
  ],
@@ -1066,6 +1068,10 @@
 
 "desistere": [
   {"id":4154,"text":["desist"]}
+ ],
+
+"desolato": [
+  {"id":1454,"text":["barren"]}
  ],
 
 "desolazione": [
@@ -1258,7 +1264,7 @@
  ],
 
 "di fronte": [
-  {"id":7454,"text":["in front", "in front of"]}
+  {"id":7454,"text":["in front","in front of"]}
  ],
 
 "di notte": [
@@ -1266,9 +1272,6 @@
  ],
 
 "di nuovo": [
-  {"id":377,"text":["again"]}
- ],
- "di pallepallle": [
   {"id":377,"text":["again"]}
  ],
 
@@ -1539,7 +1542,7 @@
 
 "difendere": [
   {"id":332,"text":["advocate"]},
-  {"id":1329,"text":["back"]},
+  {"id":1327,"text":["back"]},
   {"id":3932,"text":["defend"]}
  ],
 
@@ -1589,7 +1592,8 @@
  ],
 
 "differire": [
-  {"id":4280,"text":["differ"]}
+  {"id":4280,"text":["differ"]},
+  {"id":11205,"text":["postpone"]}
  ],
 
 "difficile": [
@@ -2724,7 +2728,7 @@
  ],
 
 "diventare": [
-  {"id":1536,"text":["become"]}
+  {"id":1535,"text":["become"]}
  ],
 
 "divergente": [
@@ -3041,7 +3045,7 @@
  ],
 
 "dopoguerra": [
-  {"id":11194,"text":["post-war"]}
+  {"id":11194,"text":["post war","post-war","postwar"]}
  ],
 
 "dopotutto": [

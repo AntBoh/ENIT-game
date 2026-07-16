@@ -173,8 +173,7 @@
  ],
 
 "umanizzare": [
-  {"id":7162,"text":["humanise"]},
-  {"id":7168,"text":["humanize"]}
+  {"id":7162,"text":["humanise","humanize"]}
  ],
 
 "umano": [
@@ -240,22 +239,21 @@
  ],
 
 "un altro": [
-  {"id":738,"text":["another"]},
-  {"id":739,"text":["another one"]}
+  {"id":737,"text":["another","another one"]}
  ],
 
 "un'": [
   {"id":2,"text":["a"]},
-  {"id":633,"text":["an"]}
+  {"id":632,"text":["an"]}
  ],
 
-"un'altracosa": [
+"un'altra cosa": [
   {"id":740,"text":["another thing"]}
  ],
 
 "una": [
   {"id":3,"text":["a"]},
-  {"id":634,"text":["an"]}
+  {"id":632,"text":["an"]}
  ],
 
 "unanime": [
@@ -411,7 +409,7 @@
 
 "uno": [
   {"id":4,"text":["a"]},
-  {"id":635,"text":["an"]},
+  {"id":632,"text":["an"]},
   {"id":10094,"text":["one"]}
  ],
 

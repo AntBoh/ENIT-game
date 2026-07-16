@@ -174,7 +174,8 @@
  ],
 
 "abbraccio": [
-  {"id":4989,"text":["embrace"]}
+  {"id":4989,"text":["embrace"]},
+  {"id":47285,"text":["hug"]}
  ],
 
 "abbreviare": [
@@ -610,6 +611,10 @@
   {"id":7194,"text":["hurry"]}
  ],
 
+"accorto": [
+  {"id":2286,"text":["careful"]}
+ ],
+
 "accreditamento": [
   {"id":150,"text":["accreditation"]}
  ],
@@ -949,7 +954,8 @@
  ],
 
 "adempiere": [
-  {"id":6233,"text":["fulfil"]}
+  {"id":742,"text":["answer"]},
+  {"id":6233,"text":["fulfil","fulfill"]}
  ],
 
 "adenina": [
@@ -1318,6 +1324,10 @@
   {"id":6190,"text":["fresco"]}
  ],
 
+"affrettarsi": [
+  {"id":7194,"text":["hurry"]}
+ ],
+
 "affrontare": [
   {"id":3188,"text":["confront"]},
   {"id":5584,"text":["face"]},
@@ -1587,6 +1597,10 @@
 "aiuto": [
   {"id":420,"text":["aid"]},
   {"id":6925,"text":["help"]}
+ ],
+
+"al di sotto": [
+  {"id":15244,"text":["underneath"]}
  ],
 
 "ala": [
@@ -1990,8 +2004,8 @@
  ],
 
 "alloggiare": [
-  {"id":1537,"text":["bed"]},
-  {"id":1660,"text":["billet"]}
+  {"id":1660,"text":["billet"]},
+  {"id":7148,"text":["house"]}
  ],
 
 "alloggio": [
@@ -2178,7 +2192,6 @@
  ],
 
 "altro": [
-  {"id":737,"text":["another"]},
   {"id":10250,"text":["other"]},
   {"id":10252,"text":["others"]}
  ],
@@ -3523,7 +3536,7 @@
  ],
 
 "appendice": [
-  {"id":240,"text":["addendum"]},
+  {"id":240,"text":["addendum","annex"]},
   {"id":853,"text":["appendix"]}
  ],
 
@@ -4100,7 +4113,7 @@
  ],
 
 "arredo": [
-  {"id":6269,"text":["furniture"]}
+  {"id":6268,"text":["furniture"]}
  ],
 
 "arrendere": [
@@ -5019,7 +5032,8 @@
 
 "attento": [
   {"id":159,"text":["accurate"]},
-  {"id":1202,"text":["attentive"]}
+  {"id":1202,"text":["attentive"]},
+  {"id":2286,"text":["careful"]}
  ],
 
 "attenuante": [
@@ -5534,6 +5548,10 @@
 
 "avambraccio": [
   {"id":6045,"text":["forearm"]}
+ ],
+
+"avamposto": [
+  {"id":43829,"text":["post"]}
  ],
 
 "avanguardia": [

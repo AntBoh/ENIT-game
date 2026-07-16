@@ -19,7 +19,7 @@
  ],
 
 "ibridizzazione": [
-  {"id":7203,"text":["hybridisation"]}
+  {"id":7202,"text":["hybridisation"]}
  ],
 
 "ibrido": [
@@ -170,6 +170,14 @@
 
 "idolo": [
   {"id":7311,"text":["idol"]}
+ ],
+
+"idratare": [
+  {"id":46294,"text":["hydrate"]}
+ ],
+
+"idratarsi": [
+  {"id":46294,"text":["hydrate"]}
  ],
 
 "idratazione": [
@@ -1368,7 +1376,7 @@
  ],
 
 "inclinare": [
-  {"id":1587,"text":["bend"]},
+  {"id":1586,"text":["bend"]},
   {"id":7495,"text":["incline"]},
   {"id":13375,"text":["skew"]},
   {"id":13396,"text":["slant"]}
@@ -1616,7 +1624,8 @@
  ],
 
 "indagine": [
-  {"id":5130,"text":["enquiry"]}
+  {"id":5130,"text":["enquiry"]},
+  {"id":72921,"text":["poll"]}
  ],
 
 "indebitamento": [
@@ -1712,6 +1721,10 @@
 "indicizzazione": [
   {"id":3585,"text":["crawl"]},
   {"id":7558,"text":["indexing"]}
+ ],
+
+"indietro": [
+  {"id":1339,"text":["backwards"]}
  ],
 
 "indifendibile": [
@@ -2043,7 +2056,7 @@
  ],
 
 "infastidire": [
-  {"id":721,"text":["annoy"]},
+  {"id":720,"text":["annoy"]},
   {"id":1882,"text":["bother"]}
  ],
 
@@ -3759,8 +3772,7 @@
  ],
 
 "iperbole": [
-  {"id":7236,"text":["hyperbola"]},
-  {"id":7237,"text":["hyperbole"]}
+  {"id":7236,"text":["hyperbola","hyperbole"]}
  ],
 
 "iperbolico": [

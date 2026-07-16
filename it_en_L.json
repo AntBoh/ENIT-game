@@ -678,8 +678,8 @@
   {"id":11900,"text":["reader"]}
  ],
 
-"lettoredicodiceabarre": [
-  {"id":1435,"text":["barcodereader"]}
+"lettore di codice a barre": [
+  {"id":1435,"text":["barcode reader"]}
  ],
 
 "lettura": [
@@ -822,6 +822,7 @@
  ],
 
 "lievito": [
+  {"id":1365,"text":["baking powder"]},
   {"id":16001,"text":["yeast"]}
  ],
 

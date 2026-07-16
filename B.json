@@ -3,8 +3,7 @@
  ],
 
 "baby": [
-  {"id":1323,"text":["bebè"]},
-  {"id":1324,"text":["neonato"]}
+  {"id":1323,"text":["bebè", "bambino", "neonato"]}
  ],
 
 "Babylonian": [
@@ -16,11 +15,9 @@
  ],
 
 "back": [
-  {"id":1327,"text":["appoggiare"]},
+  {"id":1327,"text":["appoggiare", "sostenere", "difendere"]},
   {"id":1328,"text":["dietro"]},
-  {"id":1329,"text":["difendere"]},
   {"id":1330,"text":["posteriore"]},
-  {"id":1331,"text":["puntare"]},
   {"id":1332,"text":["schiena"]}
  ],
 
@@ -33,8 +30,7 @@
  ],
 
 "backrest": [
-  {"id":1335,"text":["schienale"]},
-  {"id":1336,"text":["sostegno"]}
+  {"id":1335,"text":["schienale"]}
  ],
 
 "backside": [
@@ -46,7 +42,7 @@
  ],
 
 "backwards": [
-  {"id":1339,"text":["all'indietro"]}
+  {"id":1339,"text":["all'indietro", "indietro"]}
  ],
 
 "bacon": [
@@ -87,7 +83,8 @@
  ],
 
 "baffle": [
-  {"id":1350,"text":["sconcertare"]}
+  {"id":1350,"text":["sconcertare", "confondere"]},
+  {"id":46284,"text":["sconcerto", "confusione"]}
  ],
 
 "bag": [
@@ -127,7 +124,7 @@
  ],
 
 "baker": [
-  {"id":1363,"text":["panettiere"]}
+  {"id":1363,"text":["panettiere", "fornaio"]}
  ],
 
 "bakery": [
@@ -135,7 +132,7 @@
  ],
 
 "baking powder": [
-  {"id":1365,"text":["lievito in polvere"]}
+  {"id":1365,"text":["lievito in polvere", "lievito"]}
  ],
 
 "baking soda": [
@@ -144,8 +141,7 @@
 
 "balance": [
   {"id":1367,"text":["bilancio"]},
-  {"id":1368,"text":["bilanciare"]},
-  {"id":1369,"text":["equilibrare"]},
+  {"id":1368,"text":["bilanciare", "equilibrare"]},
   {"id":1370,"text":["equilibrio"]},
   {"id":1371,"text":["saldo"]}
  ],
@@ -155,7 +151,7 @@
  ],
 
 "bald": [
-  {"id":1373,"text":["calvo"]}
+  {"id":1373,"text":["calvo", "pelato"]}
  ],
 
 "Balkan": [
@@ -171,8 +167,8 @@
  ],
 
 "ball": [
-  {"id":1377,"text":["palla"]},
-  {"id":1378,"text":["pallone"]}
+  {"id":1377,"text":["palla", "pallone"]},
+  {"id":75928,"text":["palleggiare"]}
  ],
 
 "ballade": [
@@ -184,7 +180,7 @@
  ],
 
 "ballet": [
-  {"id":1381,"text":["balletto"]}
+  {"id":1381,"text":["balletto", "danza", "ballo"]}
  ],
 
 "ballistic": [
@@ -194,11 +190,6 @@
 "balloon": [
   {"id":1383,"text":["palloncino"]}
  ],
-
-"ballroomdancer": [
-  {"id":1384,"text":["ballerinodiliscio"]}
- ],
-
 "balm": [
   {"id":1385,"text":["balsamo"]}
  ],
@@ -220,9 +211,8 @@
  ],
 
 "ban": [
-  {"id":1390,"text":["bandire"]},
-  {"id":1391,"text":["divieto"]},
-  {"id":1392,"text":["proibire"]}
+  {"id":1390,"text":["bandire", "proibire"]},
+  {"id":1391,"text":["divieto", "bando"]}
  ],
 
 "banal": [
@@ -235,12 +225,12 @@
 
 "band": [
   {"id":1395,"text":["banda"]},
+  {"id":74828,"text":["band"]},
   {"id":1396,"text":["fascia"]}
  ],
 
 "bandage": [
-  {"id":1397,"text":["benda"]},
-  {"id":1398,"text":["fasciatura"]}
+  {"id":1397,"text":["benda", "fasciatura"]}
  ],
 
 "bandit": [
@@ -248,12 +238,8 @@
  ],
 
 "bang": [
-  {"id":1400,"text":["battere"]},
-  {"id":1401,"text":["botto"]},
-  {"id":1402,"text":["colpire"]},
-  {"id":1403,"text":["colpo"]},
-  {"id":1404,"text":["sbattere"]},
-  {"id":1405,"text":["scoppio"]}
+  {"id":1400,"text":["battere", "colpire", "sbattere"]},
+  {"id":1405,"text":["scoppio", "botto", "colpo"]}
  ],
 
 "bangle": [
@@ -311,8 +297,7 @@
 "bar": [
   {"id":1422,"text":["bancone"]},
   {"id":1423,"text":["bar"]},
-  {"id":1424,"text":["barra"]},
-  {"id":1425,"text":["sbarra"]}
+  {"id":1424,"text":["barra", "sbarra"]}
  ],
 
 "barbarian": [
@@ -348,11 +333,11 @@
  ],
 
 "barcode": [
-  {"id":1434,"text":["codiceabarre"]}
+  {"id":1434,"text":["codice a barre"]}
  ],
 
-"barcodereader": [
-  {"id":1435,"text":["lettoredicodiceabarre"]}
+"barcode reader": [
+  {"id":1435,"text":["lettore di codice a barre"]}
  ],
 
 "bard": [
@@ -419,7 +404,7 @@
  ],
 
 "barren": [
-  {"id":1454,"text":["sterile"]}
+  {"id":1454,"text":["sterile", "deserto", "desolato"]}
  ],
 
 "barricade": [
@@ -475,14 +460,11 @@
  ],
 
 "basket": [
-  {"id":1471,"text":["cesta"]},
-  {"id":1472,"text":["cesto"]},
-  {"id":1473,"text":["paniere"]}
+  {"id":1471,"text":["cesta", "cesto", "paniere"]}
  ],
 
 "basketball": [
-  {"id":1474,"text":["basket"]},
-  {"id":1475,"text":["pallacanestro"]}
+  {"id":1474,"text":["basket", "pallacanestro"]}
  ],
 
 "basophilia": [
@@ -537,8 +519,7 @@
 
 "battery": [
   {"id":1490,"text":["aggressione"]},
-  {"id":1491,"text":["batteria"]},
-  {"id":1492,"text":["pila"]}
+  {"id":1491,"text":["batteria", "pila"]}
  ],
 
 "batting": [
@@ -678,23 +659,20 @@
   {"id":1533,"text":["castoro"]}
  ],
 
-"bechamel sauce": [
+"bechamel": [
   {"id":1534,"text":["besciamella"]}
  ],
 
 "become": [
-  {"id":1535,"text":["divenire"]},
-  {"id":1536,"text":["diventare"]}
+  {"id":1535,"text":["divenire", "diventare"]}
  ],
 
 "bed": [
-  {"id":1537,"text":["alloggiare"]},
   {"id":1538,"text":["letto"]}
  ],
 
 "bedroom": [
-  {"id":1539,"text":["camera da letto"]},
-  {"id":1540,"text":["stanza da letto"]}
+  {"id":1539,"text":["camera da letto", "stanza da letto"]}
  ],
 
 "bedspread": [
@@ -860,7 +838,7 @@
  ],
 
 "below": [
-  {"id":1583,"text":["sotto"]}
+  {"id":15244,"text":["sotto"]}
  ],
 
 "belt": [
@@ -869,12 +847,12 @@
 
 "bend": [
   {"id":1585,"text":["curva"]},
-  {"id":1586,"text":["flettere"]},
-  {"id":1587,"text":["inclinare"]}
+  {"id":1586,"text":["flettere", "piegare", "inclinare"]},
+  {"id":1587,"text":["piega"]}
  ],
 
 "beneath": [
-  {"id":1588,"text":["sotto"]}
+  {"id":15244,"text":["sotto"]}
  ],
 
 "benediction": [

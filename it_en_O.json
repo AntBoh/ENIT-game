@@ -516,6 +516,10 @@
   {"id":15198,"text":["umbrella"]}
  ],
 
+"omelia": [
+  {"id":64821,"text":["homily"]}
+ ],
+
 "omeomorfismo": [
   {"id":7074,"text":["homeomorphism"]}
  ],
@@ -660,13 +664,11 @@
  ],
 
 "onorabile": [
-  {"id":7104,"text":["honorable"]},
-  {"id":7110,"text":["honourable"]}
+  {"id":7104,"text":["honorable","honourable"]}
  ],
 
 "onorare": [
-  {"id":7101,"text":["honor"]},
-  {"id":7107,"text":["honour"]}
+  {"id":7101,"text":["honor","honour"]}
  ],
 
 "onorario": [
@@ -674,13 +676,11 @@
  ],
 
 "onore": [
-  {"id":7102,"text":["honor"]},
-  {"id":7108,"text":["honour"]}
+  {"id":7102,"text":["honor","honour"]}
  ],
 
 "onorificenza": [
-  {"id":7103,"text":["honor"]},
-  {"id":7109,"text":["honour"]}
+  {"id":7103,"text":["honor","honour"]}
  ],
 
 "onorifico": [
@@ -1287,6 +1287,10 @@
   {"id":7137,"text":["hospitalisation"]}
  ],
 
+"ospitare": [
+  {"id":47294,"text":["host"]}
+ ],
+
 "ospite": [
   {"id":6691,"text":["guest"]},
   {"id":7138,"text":["host"]}
@@ -1561,8 +1565,7 @@
   {"id":4775,"text":["earn"]},
   {"id":6289,"text":["gain"]},
   {"id":6425,"text":["get"]},
-  {"id":9988,"text":["obtain"]},
-  {"id":11092,"text":["poll"]}
+  {"id":9988,"text":["obtain"]}
  ],
 
 "ottenibile": [

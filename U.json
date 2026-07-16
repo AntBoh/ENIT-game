@@ -178,7 +178,7 @@
  ],
 
 "under": [
-  {"id":15231,"text":["sotto"]}
+  {"id":15244,"text":["sotto"]}
  ],
 
 "undercover": [
@@ -202,12 +202,15 @@
  ],
 
 "undergo": [
-  {"id":15237,"text":["sottoporsi"]},
+  {"id":15237,"text":["sottoporsi", "sottoporsi a"]},
   {"id":15238,"text":["subire"]}
  ],
 
 "underground": [
-  {"id":15239,"text":["sotterraneo"]}
+  {"id":15239,"text":["sotterraneo"]},
+  {"id":17393,"text":["sottoterra"]},
+  {"id":14087,"text":["sottosuolo"]},
+  {"id":14108,"text":["metropolitana"]}
  ],
 
 "underline": [
@@ -221,7 +224,7 @@
  ],
 
 "underneath": [
-  {"id":15244,"text":["sotto"]}
+  {"id":15244,"text":["sotto", "al di sotto"]}
  ],
 
 "undershirt": [
