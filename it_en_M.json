@@ -156,7 +156,8 @@
  ],
 
 "maglia": [
-  {"id":8132,"text":["jersey"]}
+  {"id":8132,"text":["jersey"]},
+  {"id":8253,"text":["knit"]}
  ],
 
 "maglietta": [
@@ -332,6 +333,10 @@
 "maligno": [
   {"id":5371,"text":["evil"]},
   {"id":8810,"text":["malignant"]}
+ ],
+
+"malinteso": [
+  {"id":9289,"text":["misunderstanding"]}
  ],
 
 "malizia": [
@@ -1401,6 +1406,10 @@
   {"id":13170,"text":["shit"]}
  ],
 
+"merenda": [
+  {"id":13466,"text":["snack"]}
+ ],
+
 "meridiano": [
   {"id":9098,"text":["meridian"]}
  ],
@@ -1686,7 +1695,8 @@
  ],
 
 "metropolitana": [
-  {"id":14108,"text":["subway","underground"]}
+  {"id":14107,"text":["subway"]},
+  {"id":14108,"text":["underground"]}
  ],
 
 "metropolitano": [
@@ -2269,8 +2279,7 @@
 
 "misura": [
   {"id":9012,"text":["measure"]},
-  {"id":9014,"text":["measurement"]},
-  {"id":13368,"text":["size"]}
+  {"id":9014,"text":["measurement"]}
  ],
 
 "misurabile": [
@@ -2514,7 +2523,6 @@
 
 "molto": [
   {"id":7,"text":["a lot of"]},
-  {"id":3832,"text":["dearly"]},
   {"id":6635,"text":["greatly"]},
   {"id":8678,"text":["lotsof"]},
   {"id":8869,"text":["many"]},
@@ -2868,7 +2876,7 @@
  ],
 
 "moro": [
-  {"id":3800,"text":["dark"]},
+  {"id":3798,"text":["dark"]},
   {"id":9549,"text":["muslim"]}
  ],
 
@@ -2886,7 +2894,7 @@
  ],
 
 "morte": [
-  {"id":3834,"text":["death"]},
+  {"id":3833,"text":["death"]},
   {"id":4007,"text":["demise"]}
  ],
 

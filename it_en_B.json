@@ -480,7 +480,8 @@
 "bastone": [
   {"id":1488,"text":["baton"]},
   {"id":12540,"text":["rod"]},
-  {"id":13870,"text":["stick"]}
+  {"id":13870,"text":["stick"]},
+  {"id":838438,"text":["cane"]}
  ],
 
 "batista": [
@@ -779,7 +780,8 @@
  ],
 
 "bicchiere": [
-  {"id":6482,"text":["glass"]}
+  {"id":6482,"text":["glass"]},
+  {"id":63749,"text":["cup"]}
  ],
 
 "bici": [
@@ -888,6 +890,10 @@
 
 "bilirubina": [
   {"id":1655,"text":["bilirubin"]}
+ ],
+
+"bimbo": [
+  {"id":8218,"text":["kid"]}
  ],
 
 "bimensile": [

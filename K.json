@@ -7,7 +7,7 @@
  ],
 
 "keep": [
-  {"id":8206,"text":["mantenere"]}
+  {"id":8206,"text":["mantenere", "tenere"]}
  ],
 
 "keep on": [
@@ -44,12 +44,8 @@
   {"id":8216,"text":["calcio"]}
  ],
 
-"kickoff": [
-  {"id":8217,"text":["inizio"]}
- ],
-
 "kid": [
-  {"id":8218,"text":["bambino"]},
+  {"id":8218,"text":["bambino", "bimbo"]},
   {"id":8219,"text":["scherzare"]}
  ],
 
@@ -66,7 +62,7 @@
  ],
 
 "kill": [
-  {"id":8223,"text":["uccidere"]}
+  {"id":8223,"text":["uccidere", "ammazzare"]}
  ],
 
 "killing": [
@@ -180,7 +176,8 @@
  ],
 
 "knit": [
-  {"id":8253,"text":["lavorare a maglia"]}
+  {"id":8253,"text":["maglia"]},
+  {"id":36828,"text":["lavorare a maglia"]}
  ],
 
 "knock": [
@@ -196,14 +193,11 @@
  ],
 
 "know": [
-  {"id":8257,"text":["conoscere"]},
-  {"id":8258,"text":["sapere"]}
+  {"id":8257,"text":["conoscere", "sapere"]}
  ],
 
 "knowledge": [
-  {"id":8259,"text":["conoscenza"]},
-  {"id":8260,"text":["sapere"]},
-  {"id":8261,"text":["sapienza"]}
+  {"id":8259,"text":["conoscenza", "sapere", "sapienza"]}
  ],
 
 "knowledgeable": [

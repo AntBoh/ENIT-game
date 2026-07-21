@@ -115,10 +115,6 @@
   {"id":4687,"text":["drum"]}
  ],
 
-"tamponamento": [
-  {"id":3722,"text":["curtain"]}
- ],
-
 "tampone": [
   {"id":14391,"text":["tampon"]}
  ],
@@ -553,6 +549,7 @@
  ],
 
 "tenda": [
+  {"id":3721,"text":["curtain"]},
   {"id":14514,"text":["tent"]},
   {"id":73619,"text":["hut"]}
  ],
@@ -574,8 +571,13 @@
   {"id":8506,"text":["lieutenant"]}
  ],
 
+"teneramente": [
+  {"id":3832,"text":["dearly"]}
+ ],
+
 "tenere": [
-  {"id":7050,"text":["hold"]}
+  {"id":7050,"text":["hold"]},
+  {"id":8206,"text":["keep"]}
  ],
 
 "tenerezza": [
@@ -961,7 +963,6 @@
  ],
 
 "tetto": [
-  {"id":2408,"text":["ceiling"]},
   {"id":12558,"text":["roof"]}
  ],
 
@@ -1001,8 +1002,16 @@
   {"id":14738,"text":["tillite"]}
  ],
 
+"timbrare": [
+  {"id":13794,"text":["stamp"]}
+ ],
+
 "timbratura": [
   {"id":13795,"text":["stamping"]}
+ ],
+
+"timbro": [
+  {"id":63848,"text":["stamp"]}
  ],
 
 "timidamente": [
@@ -1752,7 +1761,8 @@
 "trasmettere": [
   {"id":3395,"text":["convey"]},
   {"id":10918,"text":["pipe"]},
-  {"id":14952,"text":["transmit"]}
+  {"id":14952,"text":["transmit"]},
+  {"id":73388,"text":["cast"]}
  ],
 
 "trasmigrazione": [
@@ -1833,7 +1843,7 @@
  ],
 
 "trattato": [
-  {"id":3828,"text":["deal"]},
+  {"id":3826,"text":["deal"]},
   {"id":14993,"text":["treaty"]}
  ],
 
@@ -1877,10 +1887,6 @@
 
 "trave": [
   {"id":1512,"text":["beam"]}
- ],
-
-"traversina": [
-  {"id":13409,"text":["sleeper"]}
  ],
 
 "travolgente": [
@@ -2273,7 +2279,8 @@
 
 "trucco": [
   {"id":8797,"text":["makeup"]},
-  {"id":15016,"text":["trick"]}
+  {"id":15016,"text":["trick"]},
+  {"id":74632,"text":["catch"]}
  ],
 
 "truffa": [

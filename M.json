@@ -1104,7 +1104,8 @@
  ],
 
 "meeting": [
-  {"id":9047,"text":["riunione"]}
+  {"id":9047,"text":["riunione"]},
+  {"id":638493,"text":["incontro"]}
  ],
 
 "megabit": [
@@ -2003,8 +2004,7 @@
  ],
 
 "misunderstanding": [
-  {"id":9289,"text":["equivoco"]},
-  {"id":9290,"text":["incomprensione"]}
+  {"id":9289,"text":["equivoco", "malinteso" , "incomprensione"]}
  ],
 
 "misuse": [

@@ -35,7 +35,8 @@
  ],
 
 "eccellente": [
-  {"id":5403,"text":["excellent"]}
+  {"id":5403,"text":["excellent"]},
+  {"id":14172,"text":["superb"]}
  ],
 
 "eccellenza": [
@@ -1795,7 +1796,7 @@
 
 "esperto": [
   {"id":5500,"text":["expert"]},
-  {"id":13381,"text":["skilled"]}
+  {"id":13380,"text":["skilful","skilled","skillful"]}
  ],
 
 "espettorazione": [
@@ -1899,7 +1900,8 @@
  ],
 
 "esprimere": [
-  {"id":5526,"text":["express"]}
+  {"id":5526,"text":["express"]},
+  {"id":73622,"text":["cast"]}
  ],
 
 "espropriazione": [

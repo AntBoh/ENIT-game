@@ -695,17 +695,16 @@
  ],
 
 "glad": [
-  {"id":6476,"text":["felice"]}
+  {"id":6476,"text":["felice", "contento"]}
  ],
 
 "gladden": [
-  {"id":6477,"text":["allietare"]}
+  {"id":6477,"text":["allietare", "accontentare"]}
  ],
 
 "glance": [
   {"id":6478,"text":["guardare"]},
-  {"id":6479,"text":["occhiata"]},
-  {"id":6480,"text":["sguardo"]}
+  {"id":6479,"text":["occhiata", "sguardo"]}
  ],
 
 "gland": [

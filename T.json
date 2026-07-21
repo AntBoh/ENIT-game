@@ -2175,7 +2175,8 @@
  ],
 
 "trek": [
-  {"id":14996,"text":["camminata"]}
+  {"id":14996,"text":["camminata", "passeggiata", "viaggio"]},
+  {"id":47389,"text":["camminare", "passeggiare", "viaggiare"]}
  ],
 
 "tremble": [

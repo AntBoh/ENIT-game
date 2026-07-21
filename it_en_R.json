@@ -309,6 +309,10 @@
   {"id":11855,"text":["rank"]}
  ],
 
+"rannicchiarsi": [
+  {"id":25584,"text":["curl"]}
+ ],
+
 "rapidamente": [
   {"id":5665,"text":["fast"]},
   {"id":6239,"text":["fullblast"]},
@@ -545,6 +549,10 @@
 
 "reazione": [
   {"id":11893,"text":["reaction"]}
+ ],
+
+"recedere": [
+  {"id":83748,"text":["slump"]}
  ],
 
 "recensione": [
@@ -1453,6 +1461,10 @@
   {"id":6904,"text":["hedgehog"]}
  ],
 
+"ricciolo": [
+  {"id":3710,"text":["curl"]}
+ ],
+
 "ricco": [
   {"id":363,"text":["affluent"]},
   {"id":12476,"text":["rich"]},
@@ -1828,7 +1840,7 @@
  ],
 
 "rifornimento": [
-  {"id":14198,"text":["supply"]}
+  {"id":14197,"text":["supply"]}
  ],
 
 "rifornire": [
@@ -1930,12 +1942,13 @@
  ],
 
 "rilevare": [
+  {"id":4186,"text":["detect"]},
   {"id":11685,"text":["purchase"]},
   {"id":12158,"text":["relieve"]}
  ],
 
 "rilevazione": [
-  {"id":4189,"text":["detection"]}
+  {"id":4188,"text":["detection"]}
  ],
 
 "rilievo": [
@@ -2389,6 +2402,7 @@
 
 "rispondere": [
   {"id":743,"text":["answer"]},
+  {"id":2377,"text":["cater"]},
   {"id":12244,"text":["reply"]},
   {"id":12333,"text":["respond"]}
  ],
@@ -2787,7 +2801,7 @@
 
 "rompere": [
   {"id":1948,"text":["break"]},
-  {"id":13451,"text":["smash"]}
+  {"id":13450,"text":["smash"]}
  ],
 
 "ronda": [
@@ -2879,6 +2893,10 @@
 
 "rotondo": [
   {"id":12587,"text":["round"]}
+ ],
+
+"rotore": [
+  {"id":46282,"text":["curl"]}
  ],
 
 "rotta": [

@@ -982,7 +982,6 @@
  ],
 
 "filo": [
-  {"id":3736,"text":["cut"]},
   {"id":4822,"text":["edge"]},
   {"id":13934,"text":["strand"]},
   {"id":14687,"text":["thread"]}
@@ -1140,6 +1139,14 @@
 "fiocco": [
   {"id":1906,"text":["bow"]},
   {"id":5908,"text":["flake"]}
+ ],
+
+"fionda": [
+  {"id":27592,"text":["slingshot"]}
+ ],
+
+"fiondare": [
+  {"id":13425,"text":["sling"]}
  ],
 
 "fiordaliso": [
@@ -2070,7 +2077,7 @@
  ],
 
 "fregatura": [
-  {"id":2366,"text":["catch"]}
+  {"id":74632,"text":["catch"]}
  ],
 
 "frenare": [
@@ -2349,7 +2356,7 @@
 
 "furbizia": [
   {"id":13221,"text":["shrewdness"]},
-  {"id":13445,"text":["slyness"]}
+  {"id":13444,"text":["slyness"]}
  ],
 
 "furgone": [

@@ -221,8 +221,7 @@
 
 "abile": [
   {"id":33,"text":["able"]},
-  {"id":13379,"text":["skilful"]},
-  {"id":13384,"text":["skillful"]}
+  {"id":13380,"text":["skilful","skilled","skillful"]}
  ],
 
 "abilitazione": [
@@ -562,6 +561,10 @@
   {"id":133,"text":["accommodate"]}
  ],
 
+"accomodare": [
+  {"id":2377,"text":["cater"]}
+ ],
+
 "accomodazione": [
   {"id":134,"text":["accommodation"]}
  ],
@@ -576,6 +579,10 @@
 
 "accompagnare": [
   {"id":137,"text":["accompany"]}
+ ],
+
+"accontentare": [
+  {"id":6477,"text":["gladden"]}
  ],
 
 "accoppiarsi": [
@@ -902,6 +909,10 @@
   {"id":239,"text":["addendum"]}
  ],
 
+"addensare": [
+  {"id":3702,"text":["curd"]}
+ ],
+
 "addirittura": [
   {"id":51,"text":["above"]}
  ],
@@ -947,10 +958,14 @@
   {"id":258,"text":["adequately"]}
  ],
 
+"adeguatezza": [
+  {"id":14147,"text":["suitability"]}
+ ],
+
 "adeguato": [
   {"id":257,"text":["adequate"]},
   {"id":5723,"text":["felicitous"]},
-  {"id":14149,"text":["suitable"]}
+  {"id":14148,"text":["suitable"]}
  ],
 
 "adempiere": [
@@ -1220,6 +1235,7 @@
 
 "affettuosamente": [
   {"id":353,"text":["affectionately"]},
+  {"id":3832,"text":["dearly"]},
   {"id":6020,"text":["fondly"]}
  ],
 
@@ -2462,6 +2478,10 @@
 "ammasso": [
   {"id":2809,"text":["cluster"]},
   {"id":6878,"text":["heap"]}
+ ],
+
+"ammazzare": [
+  {"id":8223,"text":["kill"]}
  ],
 
 "ammettere": [
@@ -4116,7 +4136,7 @@
   {"id":6268,"text":["furniture"]}
  ],
 
-"arrendere": [
+"arrendersi": [
   {"id":14231,"text":["surrender"]}
  ],
 
@@ -4141,6 +4161,14 @@
   {"id":5132,"text":["enrich"]}
  ],
 
+"arricciare": [
+  {"id":82557,"text":["curl"]}
+ ],
+
+"arricciarsi": [
+  {"id":82557,"text":["curl"]}
+ ],
+
 "arrivare": [
   {"id":1002,"text":["arrive"]}
  ],
@@ -4155,8 +4183,12 @@
   {"id":5855,"text":["finish"]}
  ],
 
+"arroccare": [
+  {"id":64722,"text":["castle"]}
+ ],
+
 "arrocco": [
-  {"id":2342,"text":["castling"]}
+  {"id":53627,"text":["castle"]}
  ],
 
 "arrogante": [
@@ -4398,10 +4430,6 @@
 
 "asfissia": [
   {"id":1072,"text":["asphyxia"]}
- ],
-
-"asfissiare": [
-  {"id":14137,"text":["suffocate"]}
  ],
 
 "Asia": [
@@ -5694,7 +5722,7 @@
  ],
 
 "avvertenza": [
-  {"id":2398,"text":["caution"]},
+  {"id":2397,"text":["caution"]},
   {"id":15738,"text":["warning"]}
  ],
 

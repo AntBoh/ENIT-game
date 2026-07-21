@@ -132,10 +132,6 @@
   {"id":3811,"text":["dating"]}
  ],
 
-"dato": [
-  {"id":3806,"text":["data"]}
- ],
-
 "datore di lavoro": [
   {"id":5028,"text":["employer"]}
  ],
@@ -154,6 +150,10 @@
 
 "davvero": [
   {"id":11917,"text":["really"]}
+ ],
+
+"dazi": [
+  {"id":73288,"text":["customs"]}
  ],
 
 "dea": [
@@ -867,6 +867,10 @@
  ],
 
 "deplorabile": [
+  {"id":4087,"text":["deplorable"]}
+ ],
+
+"deplorevole": [
   {"id":4087,"text":["deplorable"]}
  ],
 
@@ -1725,7 +1729,8 @@
  ],
 
 "dimensione": [
-  {"id":4317,"text":["dimension"]}
+  {"id":4317,"text":["dimension"]},
+  {"id":13368,"text":["size"]}
  ],
 
 "dimenticare": [
@@ -2966,7 +2971,7 @@
  ],
 
 "domenica": [
-  {"id":14168,"text":["sunday"]}
+  {"id":14168,"text":["Sunday"]}
  ],
 
 "domesticazione": [
@@ -3124,7 +3129,7 @@
  ],
 
 "dotato": [
-  {"id":13380,"text":["skilled"]}
+  {"id":13380,"text":["skilful","skilled","skillful"]}
  ],
 
 "dote": [
@@ -3293,7 +3298,7 @@
  ],
 
 "dunque": [
-  {"id":13481,"text":["so"]},
+  {"id":13480,"text":["so"]},
   {"id":14604,"text":["therefore"]}
  ],
 

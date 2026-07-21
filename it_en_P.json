@@ -872,11 +872,13 @@
  ],
 
 "passeggiare": [
-  {"id":13995,"text":["stroll"]}
+  {"id":13995,"text":["stroll"]},
+  {"id":47389,"text":["trek"]}
  ],
 
 "passeggiata": [
   {"id":11499,"text":["promenade"]},
+  {"id":14996,"text":["trek"]},
   {"id":15715,"text":["walk"]}
  ],
 
@@ -2006,8 +2008,7 @@
   {"id":10860,"text":["piano"]},
   {"id":10952,"text":["plan"]},
   {"id":10955,"text":["plane"]},
-  {"id":13436,"text":["slow"]},
-  {"id":13440,"text":["slowly"]}
+  {"id":13439,"text":["slowly"]}
  ],
 
 "pianoforte": [
@@ -2076,7 +2077,7 @@
 
 "piccolo": [
   {"id":8607,"text":["little"]},
-  {"id":13448,"text":["small"]},
+  {"id":13447,"text":["small"]},
   {"id":14754,"text":["tiny"]}
  ],
 
@@ -2107,7 +2108,13 @@
 "piegare": [
   {"id":1586,"text":["bend"]},
   {"id":3591,"text":["crease"]},
-  {"id":6007,"text":["fold"]}
+  {"id":3725,"text":["curve"]},
+  {"id":6007,"text":["fold"]},
+  {"id":47582,"text":["curl"]}
+ ],
+
+"piegarsi": [
+  {"id":25584,"text":["curl"]}
  ],
 
 "piegatura": [
@@ -2164,7 +2171,7 @@
  ],
 
 "pigrizia": [
-  {"id":13433,"text":["sloth"]}
+  {"id":13431,"text":["sloth"]}
  ],
 
 "pigro": [
@@ -3417,7 +3424,8 @@
  ],
 
 "precipitare": [
-  {"id":11269,"text":["precipitate"]}
+  {"id":11269,"text":["precipitate"]},
+  {"id":83748,"text":["slump"]}
  ],
 
 "precipitazione": [
@@ -3682,7 +3690,7 @@
  ],
 
 "prendere": [
-  {"id":2367,"text":["catch"]},
+  {"id":2364,"text":["catch"]},
   {"id":10866,"text":["pick up"]},
   {"id":11889,"text":["reachfor"]},
   {"id":14373,"text":["take"]}
@@ -3858,7 +3866,7 @@
  ],
 
 "presuntamente": [
-  {"id":14206,"text":["supposedly"]}
+  {"id":14205,"text":["supposedly"]}
  ],
 
 "presunto": [
@@ -4126,7 +4134,6 @@
  ],
 
 "problema": [
-  {"id":2368,"text":["catch"]},
   {"id":8089,"text":["issue"]},
   {"id":11429,"text":["problem"]},
   {"id":15058,"text":["trouble"]}
@@ -4963,10 +4970,6 @@
 
 "puerile": [
   {"id":11648,"text":["puerile"]}
- ],
-
-"puffo": [
-  {"id":13465,"text":["smurf"]}
  ],
 
 "pugilato": [

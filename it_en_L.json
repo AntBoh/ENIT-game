@@ -342,7 +342,7 @@
  ],
 
 "lavorare a maglia": [
-  {"id":8253,"text":["knit"]}
+  {"id":36828,"text":["knit"]}
  ],
 
 "lavorativo": [
@@ -464,7 +464,8 @@
 
 "leggero": [
   {"id":8515,"text":["light"]},
-  {"id":8528,"text":["lightweight"]}
+  {"id":8528,"text":["lightweight"]},
+  {"id":13419,"text":["slight"]}
  ],
 
 "leggibile": [
@@ -818,7 +819,7 @@
  ],
 
 "lievemente": [
-  {"id":13421,"text":["slightly"]}
+  {"id":13420,"text":["slightly"]}
  ],
 
 "lievito": [
@@ -1332,7 +1333,7 @@
 
 "lumaca": [
   {"id":13442,"text":["slug"]},
-  {"id":13469,"text":["snail"]}
+  {"id":13468,"text":["snail"]}
  ],
 
 "luminanza": [

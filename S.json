@@ -2273,16 +2273,11 @@
  ],
 
 "sir": [
-  {"id":13325,"text":["signore"]},
-  {"id":13326,"text":["sire"]}
+  {"id":13325,"text":["signore", "sire"]}
  ],
 
 "sirocco": [
   {"id":13327,"text":["scirocco"]}
- ],
-
-"sisal": [
-  {"id":13328,"text":["sisal"]}
  ],
 
 "sister": [
@@ -2290,13 +2285,11 @@
  ],
 
 "sit": [
-  {"id":13330,"text":["sedere"]},
-  {"id":13331,"text":["sedersi"]}
+  {"id":13330,"text":["sedere", "sedersi"]}
  ],
 
 "sit down": [
-  {"id":13332,"text":["sedere"]},
-  {"id":13333,"text":["sedersi"]}
+  {"id":13332,"text":["sedere", "sedersi"]}
  ],
 
 "site": [
@@ -2305,8 +2298,7 @@
  ],
 
 "situate": [
-  {"id":13336,"text":["situare"]},
-  {"id":13337,"text":["ubicare"]}
+  {"id":13336,"text":["situare", "ubicare"]}
  ],
 
 "situation": [
@@ -2430,7 +2422,7 @@
  ],
 
 "size": [
-  {"id":13368,"text":["misura"]},
+  {"id":13368,"text":["dimensione"]},
   {"id":13369,"text":["taglia"]}
  ],
 
@@ -2459,11 +2451,8 @@
  ],
 
 "ski": [
-  {"id":13376,"text":["sci"]}
- ],
-
-"ski jump": [
-  {"id":13377,"text":["salto con gli sci"]}
+  {"id":13376,"text":["sci"]},
+  {"id":78382,"text":["sciare"]}
  ],
 
 "skier": [
@@ -2471,18 +2460,15 @@
  ],
 
 "skilful": [
-  {"id":13379,"text":["abile"]}
+  {"id":13380,"text":["dotato", "esperto", "qualificato", "specializzato", "abile"]}
  ],
 
 "skilled": [
-  {"id":13380,"text":["dotato"]},
-  {"id":13381,"text":["esperto"]},
-  {"id":13382,"text":["qualificato"]},
-  {"id":13383,"text":["specializzato"]}
+  {"id":13380,"text":["dotato", "esperto", "qualificato", "specializzato", "abile"]}
  ],
 
 "skillful": [
-  {"id":13384,"text":["abile"]}
+  {"id":13380,"text":["dotato", "esperto", "qualificato", "specializzato", "abile"]}
  ],
 
 "skin": [
@@ -2503,8 +2489,7 @@
  ],
 
 "skull": [
-  {"id":13390,"text":["calotta"]},
-  {"id":13391,"text":["cranio"]},
+  {"id":13390,"text":["calotta", "cranio"]},
   {"id":13392,"text":["teschio"]}
  ],
 
@@ -2529,7 +2514,8 @@
  ],
 
 "slap": [
-  {"id":13398,"text":["schiaffo"]}
+  {"id":13398,"text":["schiaffo", "sberla"]},
+  {"id":75927,"text":["schiaffeggiare"]}
  ],
 
 "slat": [
@@ -2537,7 +2523,7 @@
  ],
 
 "slaughter": [
-  {"id":13400,"text":["macello"]}
+  {"id":13400,"text":["macello", "strage"]}
  ],
 
 "slaughterhouse": [
@@ -2561,16 +2547,12 @@
  ],
 
 "sled": [
-  {"id":13406,"text":["slitta"]}
+  {"id":13406,"text":["slitta", "slittino"]}
  ],
 
 "sleep": [
   {"id":13407,"text":["dormire"]},
   {"id":13408,"text":["sonno"]}
- ],
-
-"sleeper": [
-  {"id":13409,"text":["traversina"]}
  ],
 
 "sleeping": [
@@ -2604,16 +2586,16 @@
  ],
 
 "slight": [
-  {"id":13419,"text":["lieve"]}
+  {"id":13419,"text":["lieve", "leggero"]}
  ],
 
 "slightly": [
-  {"id":13420,"text":["leggermente"]},
-  {"id":13421,"text":["lievemente"]}
+  {"id":13420,"text":["leggermente", "lievemente"]}
  ],
 
 "slim": [
-  {"id":13422,"text":["magro"]}
+  {"id":13422,"text":["magro"]},
+  {"id":79285,"text":["sottile"]}
  ],
 
 "slime": [
@@ -2622,7 +2604,10 @@
 
 "sling": [
   {"id":13424,"text":["imbracatura"]},
-  {"id":13425,"text":["lanciare"]}
+  {"id":13425,"text":["lanciare", "fiondare"]}
+ ],
+ "slingshot":[
+  {"id":27592,"text":["fionda"]}
  ],
 
 "slip": [
@@ -2639,13 +2624,12 @@
  ],
 
 "slope": [
-  {"id":13430,"text":["pendenza"]}
+  {"id":13430,"text":["pendenza", "salita"]}
  ],
 
 "sloth": [
-  {"id":13431,"text":["accidia"]},
-  {"id":13432,"text":["bradipo"]},
-  {"id":13433,"text":["pigrizia"]}
+  {"id":13431,"text":["accidia", "pigrizia"]},
+  {"id":13432,"text":["bradipo"]}
  ],
 
 "Slovakia": [
@@ -2654,7 +2638,6 @@
 
 "slow": [
   {"id":13435,"text":["lento"]},
-  {"id":13436,"text":["piano"]},
   {"id":13437,"text":["rallentare"]}
  ],
 
@@ -2663,8 +2646,7 @@
  ],
 
 "slowly": [
-  {"id":13439,"text":["lentamente"]},
-  {"id":13440,"text":["piano"]}
+  {"id":13439,"text":["lentamente", "piano"]}
  ],
 
 "slowness": [
@@ -2676,18 +2658,16 @@
  ],
 
 "slump": [
-  {"id":13443,"text":["recessione"]}
+  {"id":13443,"text":["recessione", "crollo", "crisi", "collasso", "calo"]},
+  {"id":83748,"text":["recedere", "crollare", "collassare", "calare", "precipitare"]}
  ],
 
 "slyness": [
-  {"id":13444,"text":["astuzia"]},
-  {"id":13445,"text":["furbizia"]},
-  {"id":13446,"text":["scaltrezza"]}
+  {"id":13444,"text":["astuzia", "furbizia", "scaltrezza"]}
  ],
 
 "small": [
-  {"id":13447,"text":["minuto"]},
-  {"id":13448,"text":["piccolo"]}
+  {"id":13447,"text":["minuto", "piccolo"]}
  ],
 
 "smart": [
@@ -2695,14 +2675,13 @@
  ],
 
 "smash": [
-  {"id":13450,"text":["distruggere"]},
-  {"id":13451,"text":["rompere"]},
-  {"id":13452,"text":["scontro"]},
-  {"id":13453,"text":["sfasciare"]}
+  {"id":13450,"text":["distruggere", "rompere", "sfasciare"]},
+  {"id":13452,"text":["scontro"]}
  ],
 
 "smell": [
   {"id":13454,"text":["odore"]},
+  {"id":72284,"text":["odorare"]},
   {"id":13455,"text":["puzzare"]}
  ],
 
@@ -2736,18 +2715,13 @@
   {"id":13464,"text":["contrabbando"]}
  ],
 
-"smurf": [
-  {"id":13465,"text":["puffo"]}
- ],
 
 "snack": [
-  {"id":13466,"text":["boccone"]},
-  {"id":13467,"text":["spuntino"]}
+  {"id":13466,"text":["boccone", "spuntino", "merenda"]}
  ],
 
 "snail": [
-  {"id":13468,"text":["chiocciola"]},
-  {"id":13469,"text":["lumaca"]}
+  {"id":13468,"text":["chiocciola", "lumaca"]}
  ],
 
 "snake": [
@@ -2788,14 +2762,12 @@
  ],
 
 "so": [
-  {"id":13480,"text":["così"]},
-  {"id":13481,"text":["dunque"]},
+  {"id":13480,"text":["così", "dunque"]},
   {"id":13482,"text":["talmente"]}
  ],
 
 "soak": [
-  {"id":13483,"text":["infradiciare"]},
-  {"id":13484,"text":["inzuppare"]}
+  {"id":13483,"text":["infradiciare", "inzuppare"]}
  ],
 
 "soap": [
@@ -2807,7 +2779,7 @@
  ],
 
 "sober": [
-  {"id":13487,"text":["sereno"]}
+  {"id":13487,"text":["sobrio"]}
  ],
 
 "sociable": [
@@ -3202,7 +3174,7 @@
  ],
 
 "spacecraft": [
-  {"id":13603,"text":["astronave"]}
+  {"id":13603,"text":["astronave", "navicella"]}
  ],
 
 "spacer": [
@@ -3816,7 +3788,8 @@
 
 "stamp": [
   {"id":13793,"text":["francobollo"]},
-  {"id":13794,"text":["imprimere"]}
+  {"id":63848,"text":["timbro"]},
+  {"id":13794,"text":["imprimere", "timbrare"]}
  ],
 
 "stamping": [
@@ -4828,8 +4801,7 @@
  ],
 
 "subway": [
-  {"id":14107,"text":["metro"]},
-  {"id":14108,"text":["metropolitana"]}
+  {"id":14107,"text":["metro", "metropolitana"]}
  ],
 
 "succeed": [
@@ -4837,8 +4809,7 @@
  ],
 
 "success": [
-  {"id":14110,"text":["esito"]},
-  {"id":14111,"text":["successo"]}
+  {"id":14110,"text":["esito", "successo"]}
  ],
 
 "successful": [
@@ -4874,7 +4845,7 @@
   {"id":14120,"text":["tale"]}
  ],
 
-"suchas": [
+"such as": [
   {"id":14121,"text":["come"]}
  ],
 
@@ -4895,8 +4866,7 @@
  ],
 
 "sue": [
-  {"id":14126,"text":["denunciare"]},
-  {"id":14127,"text":["querelare"]}
+  {"id":14126,"text":["denunciare", "querelare"]}
  ],
 
 "suffer": [
@@ -4933,7 +4903,7 @@
  ],
 
 "suffocate": [
-  {"id":14137,"text":["asfissiare"]}
+  {"id":14137,"text":["soffocare"]}
  ],
 
 "suffrage": [
@@ -4957,19 +4927,17 @@
  ],
 
 "suit": [
-  {"id":14143,"text":["adattare"]},
-  {"id":14144,"text":["contenzioso"]},
+  {"id":14143,"text":["adattare", "calzare"]},
   {"id":14145,"text":["tuta"]},
   {"id":14146,"text":["vestito"]}
  ],
 
 "suitability": [
-  {"id":14147,"text":["convenienza"]}
+  {"id":14147,"text":["adeguatezza", "idoneità"]}
  ],
 
 "suitable": [
-  {"id":14148,"text":["adatto"]},
-  {"id":14149,"text":["adeguato"]}
+  {"id":14148,"text":["adatto", "adeguato"]}
  ],
 
 "suitcase": [
@@ -4989,7 +4957,8 @@
  ],
 
 "sum": [
-  {"id":14154,"text":["somma"]}
+  {"id":14154,"text":["somma"]},
+  {"id":75839,"text":["sommare"]}
  ],
 
 "Sumerian": [
@@ -5001,13 +4970,11 @@
  ],
 
 "summary": [
-  {"id":14157,"text":["riassunto"]},
-  {"id":14158,"text":["sommario"]}
+  {"id":14157,"text":["riassunto", "sommario"]}
  ],
 
 "summation": [
-  {"id":14159,"text":["sommatoria"]},
-  {"id":14160,"text":["sommazione"]}
+  {"id":14159,"text":["sommatoria", "sommazione"]}
  ],
 
 "summer": [
@@ -5019,8 +4986,7 @@
  ],
 
 "summit": [
-  {"id":14163,"text":["sommità"]},
-  {"id":14164,"text":["vertice"]}
+  {"id":14163,"text":["sommità", "vertice"]}
  ],
 
 "summon": [
@@ -5032,7 +4998,7 @@
   {"id":14167,"text":["Sole"]}
  ],
 
-"sunday": [
+"Sunday": [
   {"id":14168,"text":["domenica"]}
  ],
 
@@ -5049,7 +5015,7 @@
  ],
 
 "superb": [
-  {"id":14172,"text":["magnifico"]}
+  {"id":14172,"text":["magnifico", "superbo", "eccellente", "splendido"]}
  ],
 
 "superbly": [
@@ -5073,7 +5039,7 @@
  ],
 
 "superhuman": [
-  {"id":14178,"text":["superuomo"]}
+  {"id":14178,"text":["superuomo", "superumano"]}
  ],
 
 "superimpose": [
@@ -5097,8 +5063,7 @@
  ],
 
 "supernatural": [
-  {"id":14184,"text":["soprannaturale"]},
-  {"id":14185,"text":["sovrannaturale"]}
+  {"id":14184,"text":["soprannaturale", "sovrannaturale"]}
  ],
 
 "supersaturation": [
@@ -5143,19 +5108,13 @@
 
 "supply": [
   {"id":14196,"text":["fornire"]},
-  {"id":14197,"text":["provvista"]},
-  {"id":14198,"text":["rifornimento"]}
+  {"id":14197,"text":["provvista", "rifornimento", "scorta"]}
  ],
 
-"supplying": [
-  {"id":14199,"text":["somministratore"]}
- ],
 
 "support": [
-  {"id":14200,"text":["appoggiare"]},
-  {"id":14201,"text":["appoggio"]},
-  {"id":14202,"text":["supportare"]},
-  {"id":14203,"text":["supporto"]}
+  {"id":14200,"text":["appoggiare", "supportare"]},
+  {"id":14201,"text":["appoggio", "supporto"]}
  ],
 
 "suppose": [
@@ -5163,8 +5122,7 @@
  ],
 
 "supposedly": [
-  {"id":14205,"text":["apparentemente"]},
-  {"id":14206,"text":["presuntamente"]}
+  {"id":14205,"text":["apparentemente", "presuntamente"]}
  ],
 
 "supposition": [
@@ -5196,12 +5154,11 @@
  ],
 
 "sure": [
-  {"id":14214,"text":["certo"]},
-  {"id":14215,"text":["sicuro"]}
+  {"id":14214,"text":["certo", "sicuro"]}
  ],
 
 "surely": [
-  {"id":14216,"text":["sicuramente"]}
+  {"id":14216,"text":["sicuramente", "certamente"]}
  ],
 
 "surface": [
@@ -5239,12 +5196,11 @@
  ],
 
 "surprising": [
-  {"id":14227,"text":["sorprendente"]}
+  {"id":14227,"text":["sorprendente", "stupefacente"]}
  ],
 
 "surprisingly": [
-  {"id":14228,"text":["sorprendentemente"]},
-  {"id":14229,"text":["stupefacentemente"]}
+  {"id":14228,"text":["sorprendentemente", "stupefacentemente"]}
  ],
 
 "surrealism": [
@@ -5252,7 +5208,7 @@
  ],
 
 "surrender": [
-  {"id":14231,"text":["arrendere"]}
+  {"id":14231,"text":["arrendersi"]}
  ],
 
 "surround": [
@@ -5296,7 +5252,8 @@
  ],
 
 "suspect": [
-  {"id":14242,"text":["sospettare"]}
+  {"id":14242,"text":["sospettare"]},
+  {"id":74829,"text":["sospetto"]}
  ],
 
 "suspend": [
@@ -5312,8 +5269,7 @@
  ],
 
 "suspicious": [
-  {"id":14246,"text":["sospetto"]},
-  {"id":14247,"text":["sospettoso"]}
+  {"id":14246,"text":["sospetto", "sospettoso"]}
  ],
 
 "suspiciously": [
@@ -5333,9 +5289,8 @@
  ],
 
 "swallow": [
-  {"id":14252,"text":["inghiottire"]},
-  {"id":14253,"text":["rondine"]},
-  {"id":14254,"text":["sorso"]}
+  {"id":14252,"text":["inghiottire", "ingoiare"]},
+  {"id":14253,"text":["rondine"]}
  ],
 
 "swamp": [

@@ -292,7 +292,8 @@
  ],
 
 "cane": [
-  {"id":2201,"text":["canna"]}
+  {"id":2201,"text":["canna"]},
+  {"id":838438,"text":["bastone"]}
  ],
 
 "canine": [
@@ -674,7 +675,7 @@
  ],
 
 "carrier": [
-  {"id":2311,"text":["portatore"]}
+  {"id":2311,"text":["portatore", "corriere"]}
  ],
 
 "carrion": [
@@ -742,7 +743,7 @@
  ],
 
 "casino": [
-  {"id":2331,"text":["casino"]}
+  {"id":2331,"text":["casinò"]}
  ],
 
 "cassation": [
@@ -759,7 +760,9 @@
 
 "cast": [
   {"id":2335,"text":["lanciare"]},
-  {"id":2336,"text":["stampo"]}
+  {"id":2336,"text":["gesso", "calco"]},
+  {"id":73388,"text":["trasmettere"]},
+  {"id":73622,"text":["esprimere", "votare"]}
  ],
 
 "caste": [
@@ -779,11 +782,9 @@
  ],
 
 "castle": [
-  {"id":2341,"text":["castello"]}
- ],
-
-"castling": [
-  {"id":2342,"text":["arrocco"]}
+  {"id":2341,"text":["castello"]},
+  {"id":53627,"text":["arrocco"]},
+  {"id":64722,"text":["arroccare"]}
  ],
 
 "castration": [
@@ -824,7 +825,7 @@
  ],
 
 "catalogue": [
-  {"id":2353,"text":["catalogo"]}
+  {"id":2350,"text":["catalogo"]}
  ],
 
 "catalyst": [
@@ -865,11 +866,8 @@
  ],
 
 "catch": [
-  {"id":2364,"text":["afferrare"]},
-  {"id":2365,"text":["catturare"]},
-  {"id":2366,"text":["fregatura"]},
-  {"id":2367,"text":["prendere"]},
-  {"id":2368,"text":["problema"]}
+  {"id":2364,"text":["afferrare", "catturare", "prendere", "cogliere", "contrarre"]},
+  {"id":74632,"text":["fregatura", "trucco"]}
  ],
 
 "catchment": [
@@ -905,7 +903,7 @@
  ],
 
 "cater": [
-  {"id":2377,"text":["provvedere"]}
+  {"id":2377,"text":["provvedere", "rispondere", "soddisfare", "accomodare"]}
  ],
 
 "catering": [
@@ -982,16 +980,14 @@
  ],
 
 "caution": [
-  {"id":2397,"text":["attenzione"]},
-  {"id":2398,"text":["avvertenza"]},
+  {"id":2397,"text":["attenzione", "avvertenza"]},
   {"id":2399,"text":["avvertire"]},
   {"id":2400,"text":["cautela"]},
   {"id":2401,"text":["cauzione"]}
  ],
 
 "cave": [
-  {"id":2402,"text":["caverna"]},
-  {"id":2403,"text":["grotta"]}
+  {"id":2402,"text":["caverna", "grotta"]}
  ],
 
 "cavern": [
@@ -1011,7 +1007,7 @@
  ],
 
 "ceiling": [
-  {"id":2408,"text":["tetto"]}
+  {"id":2408,"text":["soffitto"]}
  ],
 
 "celebrate": [
@@ -1035,15 +1031,16 @@
  ],
 
 "cell": [
-  {"id":2414,"text":["cellula"]}
+  {"id":2414,"text":["cellula"]},
+  {"id":37279,"text":["cella"]}
  ],
 
 "cellar": [
-  {"id":2415,"text":["cantina"]}
+  {"id":2415,"text":["cantina", "scantinato"]}
  ],
 
 "cellophane": [
-  {"id":2416,"text":["cellofan"]}
+  {"id":2416,"text":["cellofan", "cellophan"]}
  ],
 
 "cellular": [
@@ -1075,7 +1072,8 @@
  ],
 
 "censor": [
-  {"id":2424,"text":["censurare"]}
+  {"id":2424,"text":["censurare"]},
+  {"id":56478,"text":["censore"]}
  ],
 
 "censorship": [
@@ -1083,8 +1081,7 @@
  ],
 
 "census": [
-  {"id":2426,"text":["censimento"]},
-  {"id":2427,"text":["censo"]}
+  {"id":2426,"text":["censimento", "censo"]}
  ],
 
 "cent": [
@@ -5102,8 +5099,8 @@
  ],
 
 "crash": [
-  {"id":3582,"text":["scontrarsi"]},
-  {"id":3583,"text":["scontro"]}
+  {"id":3582,"text":["scontrarsi", "schiantare", "schiantarsi"]},
+  {"id":3583,"text":["scontro", "schianto"]}
  ],
 
 "crater": [
@@ -5509,20 +5506,21 @@
 
 "cup": [
   {"id":3697,"text":["coppa"]},
-  {"id":3698,"text":["tazza"]}
+  {"id":3698,"text":["tazza"]},
+  {"id":63749,"text":["bicchiere"]}
  ],
 
 "cupboard": [
-  {"id":3699,"text":["armadio"]},
-  {"id":3700,"text":["credenza"]}
+  {"id":3699,"text":["armadio", "credenza"]}
  ],
 
-"cupid": [
-  {"id":3701,"text":["cupido"]}
+"Cupid": [
+  {"id":3701,"text":["Cupido"]}
  ],
 
 "curd": [
-  {"id":3702,"text":["cagliata"]}
+  {"id":3702,"text":["cagliata"]},
+  {"id":3702,"text":["cagliare", "coagulare", "addensare"]}
  ],
 
 "cure": [
@@ -5548,7 +5546,11 @@
  ],
 
 "curl": [
-  {"id":3710,"text":["riccio"]}
+  {"id":3710,"text":["riccio", "ricciolo"]},
+  {"id":82557,"text":["arricciare", "arricciarsi"]},
+  {"id":25584,"text":["rannicchiarsi", "piegarsi"]},
+  {"id":47582,"text":["incurvare", "piegare"]},
+  {"id":46282,"text":["rotore"]}
  ],
 
 "curly": [
@@ -5586,8 +5588,7 @@
  ],
 
 "curtain": [
-  {"id":3721,"text":["sipario"]},
-  {"id":3722,"text":["tamponamento"]}
+  {"id":3721,"text":["sipario", "tenda"]}
  ],
 
 "curvature": [
@@ -5596,12 +5597,13 @@
 
 "curve": [
   {"id":3724,"text":["curva"]},
-  {"id":3725,"text":["torcere"]}
+  {"id":368482,"text":["curvare"]},
+  {"id":3725,"text":["torcere", "incurvare", "piegare"]}
  ],
 
 "cushion": [
-  {"id":3726,"text":["attutire"]},
-  {"id":3727,"text":["smorzare"]}
+  {"id":3726,"text":["attutire", "smorzare"]},
+  {"id":638473,"text":["cuscino", "imbottitura"]}
  ],
 
 "cusp": [
@@ -5627,11 +5629,11 @@
  ],
 
 "customs": [
-  {"id":3735,"text":["dogana"]}
+  {"id":3735,"text":["dogana"]},
+  {"id":73288,"text":["dazi"]}
  ],
 
 "cut": [
-  {"id":3736,"text":["filo"]},
   {"id":3737,"text":["tagliare"]},
   {"id":3738,"text":["taglio"]}
  ],
@@ -5765,7 +5767,7 @@
   {"id":3771,"text":["Repubblica Ceca"]}
  ],
 
-"czechoslovak": [
+"Czechoslovak": [
   {"id":3772,"text":["cecoslovacco"]}
  ],
 

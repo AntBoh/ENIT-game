@@ -172,6 +172,10 @@
   {"id":7311,"text":["idol"]}
  ],
 
+"idoneità": [
+  {"id":14147,"text":["suitability"]}
+ ],
+
 "idratare": [
   {"id":46294,"text":["hydrate"]}
  ],
@@ -463,6 +467,10 @@
 
 "imbottire": [
   {"id":14021,"text":["stuff"]}
+ ],
+
+"imbottitura": [
+  {"id":638473,"text":["cushion"]}
  ],
 
 "imbracatura": [
@@ -1461,7 +1469,7 @@
  ],
 
 "incomprensione": [
-  {"id":9290,"text":["misunderstanding"]}
+  {"id":9289,"text":["misunderstanding"]}
  ],
 
 "incomunicabile": [
@@ -1521,7 +1529,8 @@
  ],
 
 "incontro": [
-  {"id":5064,"text":["encounter"]}
+  {"id":5064,"text":["encounter"]},
+  {"id":638493,"text":["meeting"]}
  ],
 
 "incontrollato": [
@@ -1617,6 +1626,11 @@
 
 "incursione": [
   {"id":7539,"text":["incursion"]}
+ ],
+
+"incurvare": [
+  {"id":3725,"text":["curve"]},
+  {"id":47582,"text":["curl"]}
  ],
 
 "indagare": [
@@ -2366,6 +2380,10 @@
   {"id":5110,"text":["english"]}
  ],
 
+"ingoiare": [
+  {"id":14252,"text":["swallow"]}
+ ],
+
 "ingranaggio": [
   {"id":2851,"text":["cog"]},
   {"id":6344,"text":["gear"]}
@@ -2435,8 +2453,7 @@
  ],
 
 "inizio": [
-  {"id":1554,"text":["beginning"]},
-  {"id":8217,"text":["kickoff"]}
+  {"id":1554,"text":["beginning"]}
  ],
 
 "innamorato": [
@@ -2715,6 +2732,7 @@
  ],
 
 "insoddisfatto": [
+  {"id":4481,"text":["dissatisfied"]},
   {"id":15353,"text":["unsatisfied"]}
  ],
 
@@ -3733,7 +3751,7 @@
  ],
 
 "inzuppare": [
-  {"id":13484,"text":["soak"]}
+  {"id":13483,"text":["soak"]}
  ],
 
 "io": [

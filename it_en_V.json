@@ -673,7 +673,7 @@
 
 "vertice": [
   {"id":10589,"text":["peak"]},
-  {"id":14164,"text":["summit"]},
+  {"id":14163,"text":["summit"]},
   {"id":15539,"text":["vertex"]}
  ],
 
@@ -791,7 +791,8 @@
  ],
 
 "viaggiare": [
-  {"id":14981,"text":["travel"]}
+  {"id":14981,"text":["travel"]},
+  {"id":47389,"text":["trek"]}
  ],
 
 "viaggiatore": [
@@ -802,6 +803,7 @@
 "viaggio": [
   {"id":8164,"text":["journey"]},
   {"id":14982,"text":["travel"]},
+  {"id":14996,"text":["trek"]},
   {"id":15031,"text":["trip"]},
   {"id":15688,"text":["voyage"]}
  ],
@@ -1456,7 +1458,8 @@
  ],
 
 "votare": [
-  {"id":15680,"text":["vote"]}
+  {"id":15680,"text":["vote"]},
+  {"id":73622,"text":["cast"]}
  ],
 
 "votazione": [

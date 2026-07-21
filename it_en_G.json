@@ -615,6 +615,7 @@
  ],
 
 "gesso": [
+  {"id":2336,"text":["cast"]},
   {"id":2485,"text":["chalk"]},
   {"id":6723,"text":["gypsum"]}
  ],
@@ -914,7 +915,7 @@
  ],
 
 "giorno": [
-  {"id":3817,"text":["day"]}
+  {"id":3816,"text":["day"]}
  ],
 
 "giorno di paga": [
@@ -1671,7 +1672,7 @@
  ],
 
 "grotta": [
-  {"id":2403,"text":["cave"]},
+  {"id":2402,"text":["cave"]},
   {"id":6670,"text":["grotto"]}
  ],
 

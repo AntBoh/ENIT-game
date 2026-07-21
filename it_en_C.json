@@ -78,6 +78,10 @@
   {"id":1845,"text":["boor"]}
  ],
 
+"cagliare": [
+  {"id":3702,"text":["curd"]}
+ ],
+
 "cagliata": [
   {"id":3702,"text":["curd"]}
  ],
@@ -91,7 +95,8 @@
  ],
 
 "calare": [
-  {"id":4675,"text":["drop"]}
+  {"id":4675,"text":["drop"]},
+  {"id":83748,"text":["slump"]}
  ],
 
 "calaverna": [
@@ -139,7 +144,8 @@
  ],
 
 "calco": [
-  {"id":2174,"text":["calque"]}
+  {"id":2174,"text":["calque"]},
+  {"id":2336,"text":["cast"]}
  ],
 
 "calcografia": [
@@ -228,6 +234,10 @@
   {"id":13880,"text":["still"]}
  ],
 
+"calo": [
+  {"id":13443,"text":["slump"]}
+ ],
+
 "calore": [
   {"id":6886,"text":["heat"]}
  ],
@@ -255,6 +265,10 @@
 
 "calvo": [
   {"id":1373,"text":["bald"]}
+ ],
+
+"calzare": [
+  {"id":14143,"text":["suit"]}
  ],
 
 "calzino": [
@@ -352,7 +366,8 @@
  ],
 
 "camminare": [
-  {"id":15713,"text":["walk"]}
+  {"id":15713,"text":["walk"]},
+  {"id":47389,"text":["trek"]}
  ],
 
 "camminata": [
@@ -810,6 +825,10 @@
   {"id":2200,"text":["candy"]}
  ],
 
+"caramente": [
+  {"id":3832,"text":["dearly"]}
+ ],
+
 "carato": [
   {"id":2261,"text":["carat"]}
  ],
@@ -1147,7 +1166,7 @@
   {"id":7071,"text":["home-made"]}
  ],
 
-"casino": [
+"casinò": [
   {"id":2331,"text":["casino"]}
  ],
 
@@ -1251,8 +1270,8 @@
  ],
 
 "catalogo": [
-  {"id":2351,"text":["catalog"]},
-  {"id":2353,"text":["catalogue"]}
+  {"id":2350,"text":["catalogue"]},
+  {"id":2351,"text":["catalog"]}
  ],
 
 "catamarano": [
@@ -1397,7 +1416,7 @@
 
 "catturare": [
   {"id":2254,"text":["capture"]},
-  {"id":2365,"text":["catch"]}
+  {"id":2364,"text":["catch"]}
  ],
 
 "causa": [
@@ -1510,7 +1529,7 @@
  ],
 
 "cecoslovacco": [
-  {"id":3772,"text":["czechoslovak"]}
+  {"id":3772,"text":["Czechoslovak"]}
  ],
 
 "cedere": [
@@ -1550,7 +1569,15 @@
   {"id":2413,"text":["celibacy"]}
  ],
 
+"cella": [
+  {"id":37279,"text":["cell"]}
+ ],
+
 "cellofan": [
+  {"id":2416,"text":["cellophane"]}
+ ],
+
+"cellophan": [
   {"id":2416,"text":["cellophane"]}
  ],
 
@@ -1605,7 +1632,11 @@
  ],
 
 "censo": [
-  {"id":2427,"text":["census"]}
+  {"id":2426,"text":["census"]}
+ ],
+
+"censore": [
+  {"id":56478,"text":["censor"]}
  ],
 
 "censura": [
@@ -1760,7 +1791,8 @@
  ],
 
 "certamente": [
-  {"id":2460,"text":["certainly"]}
+  {"id":2460,"text":["certainly"]},
+  {"id":14216,"text":["surely"]}
  ],
 
 "certezza": [
@@ -2780,6 +2812,10 @@
   {"id":2856,"text":["cohabitation"]}
  ],
 
+"coagulare": [
+  {"id":3702,"text":["curd"]}
+ ],
+
 "coagulazione": [
   {"id":2815,"text":["coagulation"]}
  ],
@@ -2903,6 +2939,10 @@
   {"id":2852,"text":["cogeneration"]}
  ],
 
+"cogliere": [
+  {"id":2364,"text":["catch"]}
+ ],
+
 "cognac": [
   {"id":2853,"text":["cognac"]}
  ],
@@ -2998,11 +3038,13 @@
  ],
 
 "collassare": [
-  {"id":2881,"text":["collapse"]}
+  {"id":2881,"text":["collapse"]},
+  {"id":83748,"text":["slump"]}
  ],
 
 "collasso": [
-  {"id":2882,"text":["collapse"]}
+  {"id":2882,"text":["collapse"]},
+  {"id":13443,"text":["slump"]}
  ],
 
 "collaterale": [
@@ -3351,7 +3393,7 @@
   {"id":1040,"text":["as"]},
   {"id":7153,"text":["how"]},
   {"id":8530,"text":["like"]},
-  {"id":14121,"text":["suchas"]}
+  {"id":14121,"text":["such as"]}
  ],
 
 "come se": [
@@ -4852,7 +4894,8 @@
  ],
 
 "contento": [
-  {"id":3313,"text":["content"]}
+  {"id":3313,"text":["content"]},
+  {"id":6476,"text":["glad"]}
  ],
 
 "contenuto": [
@@ -4860,8 +4903,7 @@
  ],
 
 "contenzioso": [
-  {"id":3316,"text":["contentious"]},
-  {"id":14144,"text":["suit"]}
+  {"id":3316,"text":["contentious"]}
  ],
 
 "contesa": [
@@ -4999,6 +5041,7 @@
  ],
 
 "contrarre": [
+  {"id":2364,"text":["catch"]},
   {"id":3342,"text":["contract"]}
  ],
 
@@ -5146,8 +5189,7 @@
  ],
 
 "convenienza": [
-  {"id":3374,"text":["convenience"]},
-  {"id":14147,"text":["suitability"]}
+  {"id":3374,"text":["convenience"]}
  ],
 
 "convento": [
@@ -5587,6 +5629,10 @@
   {"id":12634,"text":["runner"]}
  ],
 
+"corriere": [
+  {"id":2311,"text":["carrier"]}
+ ],
+
 "corrispondente": [
   {"id":3482,"text":["correspondent"]},
   {"id":3483,"text":["corresponding"]}
@@ -5913,7 +5959,7 @@
  ],
 
 "cranio": [
-  {"id":13391,"text":["skull"]}
+  {"id":13390,"text":["skull"]}
  ],
 
 "cratere": [
@@ -5959,7 +6005,7 @@
 
 "credenza": [
   {"id":1568,"text":["belief"]},
-  {"id":3700,"text":["cupboard"]},
+  {"id":3699,"text":["cupboard"]},
   {"id":4655,"text":["dresser"]}
  ],
 
@@ -6070,7 +6116,8 @@
  ],
 
 "crisi": [
-  {"id":3620,"text":["crisis"]}
+  {"id":3620,"text":["crisis"]},
+  {"id":13443,"text":["slump"]}
  ],
 
 "cristalleria": [
@@ -6157,11 +6204,13 @@
  ],
 
 "crollare": [
-  {"id":2883,"text":["collapse"]}
+  {"id":2883,"text":["collapse"]},
+  {"id":83748,"text":["slump"]}
  ],
 
 "crollo": [
-  {"id":2884,"text":["collapse"]}
+  {"id":2884,"text":["collapse"]},
+  {"id":13443,"text":["slump"]}
  ],
 
 "croma": [
@@ -6396,8 +6445,8 @@
   {"id":6884,"text":["heart"]}
  ],
 
-"cupido": [
-  {"id":3701,"text":["cupid"]}
+"Cupido": [
+  {"id":3701,"text":["Cupid"]}
  ],
 
 "cupo": [
@@ -6453,7 +6502,8 @@
  ],
 
 "curvare": [
-  {"id":15741,"text":["warp"]}
+  {"id":15741,"text":["warp"]},
+  {"id":368482,"text":["curve"]}
  ],
 
 "curvatura": [
@@ -6464,6 +6514,10 @@
 "cuscinetto": [
   {"id":10345,"text":["pad"]},
   {"id":10906,"text":["pincushion"]}
+ ],
+
+"cuscino": [
+  {"id":638473,"text":["cushion"]}
  ],
 
 "cuspide": [

@@ -71,10 +71,8 @@
  ],
 
 "dark": [
-  {"id":3798,"text":["bruno"]},
-  {"id":3799,"text":["buio"]},
-  {"id":3800,"text":["moro"]},
-  {"id":3801,"text":["scuro"]}
+  {"id":3798,"text":["bruno", "moro"]},
+  {"id":3799,"text":["buio", "scuro"]}
  ],
 
 "darken": [
@@ -87,11 +85,8 @@
 
 "dash": [
   {"id":3804,"text":["scatto"]},
+  {"id":72847,"text":["scattare"]},
   {"id":3805,"text":["trattino"]}
- ],
-
-"data": [
-  {"id":3806,"text":["dato"]}
  ],
 
 "date": [
@@ -122,8 +117,7 @@
  ],
 
 "day": [
-  {"id":3816,"text":["giornata"]},
-  {"id":3817,"text":["giorno"]}
+  {"id":3816,"text":["giornata", "giorno"]}
  ],
 
 "dazzle": [
@@ -139,7 +133,7 @@
  ],
 
 "deaden": [
-  {"id":3821,"text":["attutire"]}
+  {"id":3821,"text":["attutire", "smorzare"]}
  ],
 
 "deadline": [
@@ -159,9 +153,8 @@
  ],
 
 "deal": [
-  {"id":3826,"text":["affare"]},
-  {"id":3827,"text":["trattare"]},
-  {"id":3828,"text":["trattato"]}
+  {"id":3826,"text":["affare", "trattato"]},
+  {"id":3827,"text":["trattare"]}
  ],
 
 "dealer": [
@@ -177,12 +170,11 @@
  ],
 
 "dearly": [
-  {"id":3832,"text":["molto"]}
+  {"id":3832,"text":["affettuosamente", "teneramente", "caramente"]}
  ],
 
 "death": [
-  {"id":3833,"text":["decesso"]},
-  {"id":3834,"text":["morte"]}
+  {"id":3833,"text":["decesso", "morte"]}
  ],
 
 "debatable": [
@@ -1104,7 +1096,7 @@
  ],
 
 "deplorable": [
-  {"id":4087,"text":["deplorabile"]}
+  {"id":4087,"text":["deplorabile", "deplorevole"]}
  ],
 
 "deploy": [
@@ -1461,13 +1453,11 @@
  ],
 
 "detect": [
-  {"id":4186,"text":["captare"]},
-  {"id":4187,"text":["scoprire"]}
+  {"id":4186,"text":["captare", "rilevare", "scoprire"]}
  ],
 
 "detection": [
-  {"id":4188,"text":["individuazione"]},
-  {"id":4189,"text":["rilevazione"]}
+  {"id":4188,"text":["individuazione", "rilevazione"]}
  ],
 
 "detective": [
@@ -1483,8 +1473,7 @@
  ],
 
 "deter": [
-  {"id":4193,"text":["distogliere"]},
-  {"id":4194,"text":["scoraggiare"]}
+  {"id":4193,"text":["distogliere", "scoraggiare"]}
  ],
 
 "detergent": [
@@ -2509,7 +2498,7 @@
  ],
 
 "dissatisfied": [
-  {"id":4481,"text":["scontento"]}
+  {"id":4481,"text":["scontento", "insoddisfatto"]}
  ],
 
 "dissection": [
